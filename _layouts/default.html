@@ -1,0 +1,33 @@
+<!--
+Criado por Filipe Mosca
+Acesse meu site: https://canalionico.com.br
+Contato: filipemosca@canalionico.com.br
+
+  -. (#)(#) .-
+   '\.';;'./'
+.-\.'  ;;  './-.
+  ;    ;;    ;
+  ;   .''.   ;
+   '''    '''
+-->
+<!doctype html>
+<html lang="pt-br" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/assets/favicon.png"/>
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div class="wrapper">
+      <div class="main">
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
