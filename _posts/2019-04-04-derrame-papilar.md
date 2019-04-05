@@ -1,7 +1,7 @@
 ---
 title: Derrame papilar
 author: Filipe Mosca
-permalink: /:categories/derrame-papilar.html
+permalink: /resumos/:categories/derrame-papilar.html
 categories: mastologia
 layout: post
 ---
