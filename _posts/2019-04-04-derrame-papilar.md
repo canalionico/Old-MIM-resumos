@@ -1,7 +1,7 @@
 ---
 title: Derrame papilar
 author: Filipe Mosca
-permalink: /resumos/:categories/derrame-papilar.html
+permalink: /:categories/derrame-papilar.html
 categories: mastologia
 layout: post
 ---
@@ -21,12 +21,12 @@ O derrame é considerado  suspeito  quando  ocorre espontaneamente,  quando  é 
 - Fluxo papilar: espontâneo ou provocado
 - Unilateral, uniductal ou multiductal
 
-A descarga sanguínea possui associação com papiloma intracanalicular, carcinoma papilífero e outras lesões. 
+A descarga sanguínea possui associação com papiloma intracanalicular, carcinoma papilífero e outras lesões.
 
-A maior preocupação é o derrame __espontâneo__, __persistente__, __uniductal__, __hemático__ ou __seroso__ (em "água de rocha"). 
+A maior preocupação é o derrame __espontâneo__, __persistente__, __uniductal__, __hemático__ ou __seroso__ (em "água de rocha").
 
 ## Etiologia
-A produção do líquido pode ser intra ou extraductal (em menos frequência). 
+A produção do líquido pode ser intra ou extraductal (em menos frequência).
 
 Causas intraductais:
 
@@ -36,4 +36,3 @@ Causas intraductais:
 
 ## Referências
 [^1]: Paula IB de, Campos AM, Paula IB de, Campos AM. Breast imaging in patients with nipple discharge. Radiologia Brasileira. 2017;50(6):383-388. doi:10.1590/0100-3984.2016.0103
-
