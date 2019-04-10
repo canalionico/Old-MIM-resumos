@@ -1,7 +1,7 @@
 <header>
   <div class="wrapper">
 
-    <a href="/resumos"><img id="logo" src="/resumos/assets/logo-canal-ionico.png" alt="logo"></a>
+    <a href="/resumos/"><img id="logo" src="/resumos/assets/logo-canal-ionico.png" alt="logo"></a>
     <nav>
       {% for item in site.data.navigation %}
         <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
