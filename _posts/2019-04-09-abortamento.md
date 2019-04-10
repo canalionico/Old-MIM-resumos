@@ -1,7 +1,7 @@
 ---
 title: Abortamento
 author: Filipe Mosca
-permalink: /resumos/:categories/abortamento.html
+permalink: /:categories/abortamento.html
 categories: obstetricia
 layout: post
 ---
