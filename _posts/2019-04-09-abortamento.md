@@ -1,21 +1,23 @@
 ---
 title: Abortamento
 author: Filipe Mosca
-permalink: /:categories/abortamento.html
+permalink: /resumos/:categories/abortamento.html
 categories: obstetricia
+layout: post
 ---
 
 1. Sumário
 {:toc}
 
-- É a expulsão do feto:
-    - < 500g
-    - < 20s
-- Espontâneo
-- Provocado
+É a expulsão do feto __< 500g__ ou __< 20-22s__. Pode ser espontâneo ou provocado.
 
 ## Epidemiologia
 Cerca de 75% dos ovos fertilizados são abortados, e em mais da metade deles isso ocorre antes da 1a falha menstrual. Em gestações diagnosticadas clinicamente, 10 a 25% terminam espontaneamente, e 80% delas ocorrem no 1o trimestre (abortamento clínico).
+
+## Classificação
+
+- Precoces: até 12s
+- Tardios: de 12 a 20s
 
 ## Etiologia
 
@@ -27,13 +29,25 @@ Cerca de 75% dos ovos fertilizados são abortados, e em mais da metade deles iss
   - Triploidia (16%)
   - Tetraploidia (6%)
   - Outros (7%)
+- Insuficiência luteínica
+- Alterações  hormonais
+- Insuficiência istmo-cervical (mais tardias, também é uma causa frequente de parto prematuro)
+
+## Abortos legalizados no Brasil
+
+- Estupro
+- Anencefalia
+- Risco de vida da mãe
 
 ## Formas clínicas
-
 ### Ameaça de abortamento
 
-- gravidez complicada por sangramento antes de 22s
-- USG: fluxo interviloso ao Doppler colorido antes de 10 semanas
+- Sangramento significativo antes de 22s (cuidado com pequenos sangramentos fisiológicos)
+- Cólicas
+- __USG:__ fluxo interviloso ao Doppler colorido antes de 10 semanas
+  - CCN >= 7mm e ausência de bcf
+  - Diametro médio do saco gestacional SG > 25mm e embrião ausente
+  - Hematoma intrauterino
 - hemorragia (anomalia decidual e-ou descolamento do ovo), se for "borra de café" é mais sério;
   - 30% das gestações sangram no 1T e 50% delas abortam;
 - dor, acompanhando a hemorragia.
@@ -42,11 +56,7 @@ Cerca de 75% dos ovos fertilizados são abortados, e em mais da metade deles iss
 - Fluxo interviloso
   - Gravidez normal: não ocorre até 10s
   - No abortamento: hemorragia nas áreas periféricas em que está o fluxo interviloso
-- Sinais diag de gravidez inviavel:
-  - CCN >= 7mm e ausência de bcf
-  - Diametro médio do saco gestacional SG > 25mm e embrião ausente
-  - Hematoma intrauterino
-- Tratamento:
+- __TTO:__
   - repouso relativo
   - proibir o coito
   - tranquilizar a gestante
@@ -68,22 +78,21 @@ Cerca de 75% dos ovos fertilizados são abortados, e em mais da metade deles iss
 - todo o produto da concepção foi  eliminado sem a necessidade de intervenção
 - USG: Eco endometrial central (espessura < 8 a 10 mm), "útero vazio"
   - Espessura anteroposterio do endométro é < 8-10mm
-- frequente até 8s
-- TTO: esses casos evoluem satistatoriamente e não necessitam de intervenção cirúrgica.
+- frequente até 8s (até aí não tem "resto")
+- TTO: esses casos evoluem satisfatoriamente e não necessitam de intervenção cirúrgica.
 
 ### Abortamento incompleto
 
 - alguma parte do produto da concepção foi eliminada, podendo estar retidos feto, placenta ou membranas;
 - Eliminação parcial do ovo (geralmente a paciente informa a eliminação apenas do feto)
-- Causa hemorragia persistente (perigo de infecção)
+- Hemorragia persistente (perigo de infecção)
 - Comum após 8s (quando as vilosidades coriônicas ficam aderidas ao útero)
 - Sangramento não cessa, podendo ser intenso (os restos ovulares impedem as contrações uterinas adequadas)
-- USG: Qualquer espessura endometrial; tecido heterogêneo distorcendo o eco médio endometrial
+- __USG:__ Qualquer espessura endometrial; tecido heterogêneo distorcendo o eco médio endometrial
   - Espessura AP do endométrio > 8-10mm (restos ovulares)
 - Útero com dimensões menores que as esperadas para a IG;
 - Colo entreaberto;
-- TTO: esvaziamento cirúrgico (aspiração a vácuo)
-
+- __TTO:__ esvaziamento cirúrgico (aspiração a vácuo)
 
 ### Abortamento infectado
 
