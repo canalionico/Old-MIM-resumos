@@ -1,6 +1,6 @@
 ---
 title: Gravidez ectópica
-permalink: /:categories/gravidez-ectopica.html`
+permalink: /:categories/gravidez-ectopica.html
 author: Filipe Mosca
 layout: post
 categories: obstetricia
