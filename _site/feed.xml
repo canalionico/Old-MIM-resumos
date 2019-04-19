@@ -1,4 +1,987 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://canalionico.github.io/resumos/feed.xml" rel="self" type="application/atom+xml" /><link href="https://canalionico.github.io/resumos/" rel="alternate" type="text/html" /><updated>2019-04-04T22:06:36-03:00</updated><id>https://canalionico.github.io/resumos/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Derrame papilar</title><link href="https://canalionico.github.io/resumos/mastologia/derrame-papilar.html" rel="alternate" type="text/html" title="Derrame papilar" /><published>2019-04-04T00:00:00-03:00</published><updated>2019-04-04T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/mastologia/derrame-papilar</id><content type="html" xml:base="https://canalionico.github.io/resumos/mastologia/derrame-papilar.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-19T15:11:22-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cesariana</title><link href="http://localhost:4000/obstetricia/cesariana.html" rel="alternate" type="text/html" title="Cesariana" /><published>2019-04-19T00:00:00-03:00</published><updated>2019-04-19T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/cesariana</id><content type="html" xml:base="http://localhost:4000/obstetricia/cesariana.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Corrimento Vaginal</title><link href="http://localhost:4000/2019/04/16/corrimento-vaginal.html" rel="alternate" type="text/html" title="Corrimento Vaginal" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2019/04/16/corrimento-vaginal</id><content type="html" xml:base="http://localhost:4000/2019/04/16/corrimento-vaginal.html">&lt;h1 id=&quot;corrimento-vaginal&quot;&gt;Corrimento vaginal&lt;/h1&gt;
+
+&lt;p&gt;Sintomas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prurido&lt;/li&gt;
+  &lt;li&gt;Irritação local&lt;/li&gt;
+  &lt;li&gt;Alteração de odor&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Anamnese:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Comportamento sexual&lt;/li&gt;
+  &lt;li&gt;Características do corrimento
+    &lt;ul&gt;
+      &lt;li&gt;Odor&lt;/li&gt;
+      &lt;li&gt;Consistência&lt;/li&gt;
+      &lt;li&gt;Cor&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Data da última menstruação&lt;/li&gt;
+  &lt;li&gt;Práticas de higiene&lt;/li&gt;
+  &lt;li&gt;Medicamentos&lt;/li&gt;
+  &lt;li&gt;Procurar ulcerações e/ou eritema&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;infecções-do-trato-reprodutivo-itr&quot;&gt;Infecções do trato reprodutivo (ITR)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Infecções endógenas (candidíase vulvovaginal e agentes da vaginose bacteriana);&lt;/li&gt;
+  &lt;li&gt;Infecções iatrogênicas (infecções pós-aborto, pós-parto);&lt;/li&gt;
+  &lt;li&gt;Infecções sexualmente transmissíveis (tricomoníase).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As infecções por &lt;em&gt;C. trachomatis&lt;/em&gt; e &lt;em&gt;N. gonorrhoeae&lt;/em&gt; em mulheres frequentemente não produzem corrimento.&lt;/p&gt;
+
+&lt;p&gt;Todos os casos de corrimento vaginal são considerados como ITR. Entre elas, somente a tricomoníase é considerada uma IST.&lt;/p&gt;
+
+&lt;p&gt;As causas não infecciosas do corrimento vaginal incluem: material mucoide fisiológico, vaginite
+inflamatória descamativa, vaginite atrófica (mulheres na pós-menopausa), presença de corpo estranho, entre outros.&lt;/p&gt;
+
+&lt;p&gt;Outras patologias podem causar prurido vulvovaginal sem corrimento, como dermatites alérgicas ou irritativas (sabonetes, perfumes, látex) ou doenças da pele (líquen simples crônico, psoríase).&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologias&quot;&gt;Etiologias&lt;/h2&gt;
+
+&lt;h3 id=&quot;vaginose-bacteriana&quot;&gt;Vaginose bacteriana:&lt;/h3&gt;
+
+&lt;p&gt;Decorrente do desequilíbrio da microbiota vaginal, sendo causada pelo crescimento excessivo de bactérias anaeróbias  &lt;em&gt;(Prevotella sp., G. vaginalis, Ureaplasma sp. e Mycoplasma sp)&lt;/em&gt;;&lt;/p&gt;
+
+&lt;p&gt;É a causa mais comum de corrimento vaginal, afetando cerca de 10% a 30% das gestantes e 10% das mulheres atendidas na atenção básica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sinais e sintomas:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Corrimento vaginal fétido, mais acentuado após a relação sexual sem o uso do preservativo, e
+durante o período menstrual;&lt;/li&gt;
+  &lt;li&gt;Corrimento vaginal branco-acinzentado, de aspecto fluido ou cremoso, algumas vezes bolhoso;&lt;/li&gt;
+  &lt;li&gt;Dor à relação sexual (pouco frequente).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Não é transmitida sexualmente, mas pode ser desencadeada pela relação sexual em mulheres predispostas. Isso, graças ao contato com o esperma de pH elevado.&lt;/p&gt;
+
+&lt;p&gt;A vaginose também aumenta o risco de contrair novas ISTs, incluindo o HIV (maior mobilização de células de defesa para serem invadidas na área) e pode trazer complicações à gravidez, como:  ruptura prematura de membranas, corioamnionite, prematuridade e endometrite pós-cesárea.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diagnóstico:&lt;/strong&gt;
+É confirmado de acordo com os &lt;em&gt;critérios de Amsel&lt;/em&gt; no clínico-laboratorial:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Corrimento vaginal homogêneo, geralmente acinzentado e de quantidade variável;&lt;/li&gt;
+  &lt;li&gt;pH vaginal &amp;gt; 4,5&lt;/li&gt;
+  &lt;li&gt;Teste de Whiff ou teste da amina (KOH 10%) positivo;&lt;/li&gt;
+  &lt;li&gt;Presença de &lt;em&gt;clue cells&lt;/em&gt; na bacterioscopia corada por Gram.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Tratamento:&lt;/strong&gt;
+Recomendado para sintomáticas, grávidas com comorbidades ou risco potencial de complicações.&lt;/p&gt;
+
+&lt;h3 id=&quot;candidíase-vulvovaginal&quot;&gt;Candidíase vulvovaginal&lt;/h3&gt;
+
+&lt;p&gt;É a infecção da vulva e vagina, causada por um fungo comensal que habita a mucosa vaginal e
+digestiva, o qual cresce quando o meio se torna favorável ao seu desenvolvimento.&lt;/p&gt;
+
+&lt;p&gt;Em 50% das mulheres esse fungo faz parte da flora normal, por isso a transmissão sexual não é tão significativa. Contudo, mulheres com maior atividade sexual estão mais propensas a manifestar a candidiase, provavelmente devido a microabarasões que permitem a penetração dos microorganismos no epitélio.&lt;/p&gt;
+
+&lt;p&gt;causada por Candida spp. (geralmente &lt;em&gt;C. albicans e C. glabrata&lt;/em&gt; ). 80% a 90% dos casos são devido a &lt;em&gt;C. albicans&lt;/em&gt; e de 10% a 20% a outras espécies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SInais e sintomas:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prurido vulvovaginal (o principal)&lt;/li&gt;
+  &lt;li&gt;Disúria&lt;/li&gt;
+  &lt;li&gt;Dispaurenia&lt;/li&gt;
+  &lt;li&gt;Corrimento branco, grumoso e com aspecto caseoso (“leite coalhado”)&lt;/li&gt;
+  &lt;li&gt;Hiperemia&lt;/li&gt;
+  &lt;li&gt;Edema vulvar&lt;/li&gt;
+  &lt;li&gt;Fissura e maceração da vulva&lt;/li&gt;
+  &lt;li&gt;Placas branco-acinzentadas, recobrindo a vagina e colo uterino&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Fatores predisponentes:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gravidez&lt;/li&gt;
+  &lt;li&gt;Diabetes &lt;em&gt;mellitus&lt;/em&gt; (descompensada)&lt;/li&gt;
+  &lt;li&gt;Obesidade&lt;/li&gt;
+  &lt;li&gt;Uso de ACO&lt;/li&gt;
+  &lt;li&gt;Uso de antibióticos, corticoides, imunossupressores ou quimio/radioterapia&lt;/li&gt;
+  &lt;li&gt;Hábitos de higiene e vesturário que aumentem a umidade e dor local&lt;/li&gt;
+  &lt;li&gt;Contato com substâncias alergênicas e/ou irritantes&lt;/li&gt;
+  &lt;li&gt;Alterações da resposta imunológica&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Diagnóstico:&lt;/strong&gt;
+Pode ser realizado por teste de pH vaginal com valores menores que 4,5 e também por bacterioscopia com a visualização de leveduras e/ou pseudo-hifas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tratamento:&lt;/strong&gt;
+Parceiros sexuais não precisam ser tratados, apenas os sintomáticos.&lt;/p&gt;
+
+&lt;h3 id=&quot;tricomoníase&quot;&gt;Tricomoníase:&lt;/h3&gt;
+
+&lt;p&gt;causada por &lt;em&gt;T. vaginalis&lt;/em&gt;, um protozoário flagelado que tem o colo uterino, vagina e uretra como reservatório.&lt;/p&gt;
+
+&lt;p&gt;Sua prevalência varia de 10% a 35%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sinais e sintomas:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Corrimento abundante, amarelado (esverdeado), bolhoso;&lt;/li&gt;
+  &lt;li&gt;Prurido e/ou irritação vulvar;&lt;/li&gt;
+  &lt;li&gt;Dor pélvica (ocasionalmente);&lt;/li&gt;
+  &lt;li&gt;Sintomas urinários (como disúria e polaciúria);&lt;/li&gt;
+  &lt;li&gt;Hiperemia da mucosa (aspecto de framboesa).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Diagnóstico:&lt;/strong&gt;
+Feito através da visualização de protozoários móveis em material do ectocérvice por exame bacterioscópico a fresco ou por coloração de Gram, Giemsa, papanicolau, etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;métodos-diagnósticos&quot;&gt;Métodos Diagnósticos&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;pH vaginal&lt;/li&gt;
+  &lt;li&gt;Teste de Whiff: conhecido como “teste das aminas” ou “do cheiro”. Coloca-se uma gota de KOH a 10% na vagina e avalia se há odor de peixe. Se positivo é sugestivo de &lt;strong&gt;vaginose bacteriana&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Exame a fresco: faz-se uma lâmina a fresco para avaliação em MO, observando-se a presença de leucócitos, células parabasais, Trichomonas sp. móveis, leveduras e/ou pseudo-hifas.&lt;/li&gt;
+  &lt;li&gt;Bacterioscopia por coloração de Gram: a presença de clue cells, células epiteliais escamosas de aspecto granular pontilhado e bordas indefinidas cobertas por pequenos e numerosos cocobacilos, é típica de vaginose bacteriana.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/corrimento-vaginal/flux.png&quot; alt=&quot;Fluxograma&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/corrimento-vaginal/tto.png&quot; alt=&quot;Tratamento&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Corrimento vaginal</summary></entry><entry><title type="html">Gravidez ectópica</title><link href="http://localhost:4000/obstetricia/gravidez-ectopica.html" rel="alternate" type="text/html" title="Gravidez ectópica" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/gravidez-ectopica</id><content type="html" xml:base="http://localhost:4000/obstetricia/gravidez-ectopica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#diu&quot; id=&quot;markdown-toc-diu&quot;&gt;DIU&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#localizações&quot; id=&quot;markdown-toc-localizações&quot;&gt;Localizações&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#gravidez-tubária&quot; id=&quot;markdown-toc-gravidez-tubária&quot;&gt;Gravidez tubária&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gravidez-abdominal&quot; id=&quot;markdown-toc-gravidez-abdominal&quot;&gt;Gravidez abdominal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gravidez-ovariana&quot; id=&quot;markdown-toc-gravidez-ovariana&quot;&gt;Gravidez ovariana&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gravidez-cervical&quot; id=&quot;markdown-toc-gravidez-cervical&quot;&gt;Gravidez cervical&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gravidez-ectópica-em-cicatriz-de-cesárea&quot; id=&quot;markdown-toc-gravidez-ectópica-em-cicatriz-de-cesárea&quot;&gt;Gravidez ectópica em cicatriz de cesárea&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#formas-clínicas&quot; id=&quot;markdown-toc-formas-clínicas&quot;&gt;Formas clínicas&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#subaguda&quot; id=&quot;markdown-toc-subaguda&quot;&gt;Subaguda&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#aguda&quot; id=&quot;markdown-toc-aguda&quot;&gt;Aguda&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#cirúrgico&quot; id=&quot;markdown-toc-cirúrgico&quot;&gt;Cirúrgico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#medicamentoso&quot; id=&quot;markdown-toc-medicamentoso&quot;&gt;Medicamentoso&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#expectante&quot; id=&quot;markdown-toc-expectante&quot;&gt;Expectante&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gravidez-cervical-1&quot; id=&quot;markdown-toc-gravidez-cervical-1&quot;&gt;Gravidez cervical&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#gravidez-abdominal-1&quot; id=&quot;markdown-toc-gravidez-abdominal-1&quot;&gt;Gravidez abdominal&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referência&quot; id=&quot;markdown-toc-referência&quot;&gt;Referência&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Fonte principal&lt;/strong&gt;: Rezendinho&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Também chamada ectocioese, é quando o ovo se imoplanta fora do útero.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gravidez tubária: mais de 95% dos casos
+    &lt;ul&gt;
+      &lt;li&gt;Incidência de 1,5-2% das gestações&lt;/li&gt;
+      &lt;li&gt;Responsável por 6% das mortes maternas nos EUA&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lesão das tubas uterinas&lt;/li&gt;
+  &lt;li&gt;DIP&lt;/li&gt;
+  &lt;li&gt;Cirurgia tubária prévia (risco de recorrência de 10% e somatório)&lt;/li&gt;
+  &lt;li&gt;Gravidez ectópica prévia&lt;/li&gt;
+  &lt;li&gt;Exposição &lt;em&gt;in utero&lt;/em&gt; ao dietilestilbestrol (DES)&lt;/li&gt;
+  &lt;li&gt;História de infertilidade&lt;/li&gt;
+  &lt;li&gt;História de cervicite por clamídia ou gonococo&lt;/li&gt;
+  &lt;li&gt;Fertilização &lt;em&gt;in vitro&lt;/em&gt; (1:100)&lt;/li&gt;
+  &lt;li&gt;Concepção com DIU e Concepção após ligadura tubária (25-50% desses casos ocorre ectopia)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+&lt;h3 id=&quot;diu&quot;&gt;DIU&lt;/h3&gt;
+&lt;p&gt;O DIU é um fator causal indireto. Uma vez que o dispositivo protege contra gestações uterinas, ele não protege contra gestações ectópicas. Então, quando ocorre gestação, a chande de ser ectópica é maior.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Então a chance de mulheres com DIU terem gravidez ectópica é a mesma das pacientes no geral?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Não. Nos portadores de DIU a indicencia é 1 ectópica para cada 10 intrauterinas, Na população geral é 1:4000.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;patologia&quot;&gt;Patologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Primitiva&lt;/strong&gt;: quando a nidificação ocorre e prossegue em zona única do aparelho genital&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Secundária&lt;/strong&gt;: o ovo se desprende do aparelho genital e continua o desenvolvimento em outro local&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;localizações&quot;&gt;Localizações&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;95%: tubária&lt;/li&gt;
+  &lt;li&gt;5%:
+    &lt;ul&gt;
+      &lt;li&gt;Cérvice uterina&lt;/li&gt;
+      &lt;li&gt;Porção intersticial da tuba&lt;/li&gt;
+      &lt;li&gt;Ovário&lt;/li&gt;
+      &lt;li&gt;Abdome&lt;/li&gt;
+      &lt;li&gt;Cicatriz de cesárea&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/probs.png&quot; alt=&quot;imagems com as probabilidades de cada localização&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;gravidez-tubária&quot;&gt;Gravidez tubária&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ampular (80%)
+    &lt;ul&gt;
+      &lt;li&gt;Abortamento é comum&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ístimica (12%)
+    &lt;ul&gt;
+      &lt;li&gt;Ruptura é comum&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Intersticial (3%)&lt;/li&gt;
+  &lt;li&gt;Gravidez fimbriária (11%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Gravidez interligamentar&lt;/strong&gt;: Ocorre quando a ruptura da tuba ocorre na porção não coberta pelo peritônio e o SG se desenvolve entre os folhetos do ligamento largo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gravidez intersticial&lt;/strong&gt;: quando a implantação penetra a parede uterina. Sua ruptura provoca sangramento massivo (muitos casos fatais).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gravidez heterotópica&lt;/strong&gt;: quando a gravidez tubária coexiste com a gestação intrauterina (combinada). É muito mais comum nas reproduções assistidas (incidência de 1:100-500 contra 1:30.000 na população geral).&lt;/p&gt;
+
+&lt;h3 id=&quot;gravidez-abdominal&quot;&gt;Gravidez abdominal&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;1% das ectocieses&lt;/li&gt;
+  &lt;li&gt;Risco de morte 7x maior que a tubária (90x maior que na gestação uterina)&lt;/li&gt;
+  &lt;li&gt;A etiologia &lt;em&gt;secundária&lt;/em&gt; é muito mais comum (secundária à ruptura ou abortamento tubário)&lt;/li&gt;
+  &lt;li&gt;Pré-eclmâpsia ocorre em cerca de 1/3 dos casos&lt;/li&gt;
+  &lt;li&gt;80-90% de mortalidade perinatal (sobrevida fetal é a exceção)&lt;/li&gt;
+  &lt;li&gt;O feto que nasce vivo é frequentemente mal formado&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cisto fetal&lt;/strong&gt;: retenção prolongada com conservação de certa quantidade de líquido amniótico.
+    &lt;ul&gt;
+      &lt;li&gt;Com o tempo o feto macera-se pela reabsorção progressiva de líquido amniótico e desseca-se por desidratação (&lt;em&gt;mumificação&lt;/em&gt;), podendo sofrer saponificação.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;De difícil diagnóstico&lt;/li&gt;
+  &lt;li&gt;Dor abdominal&lt;/li&gt;
+  &lt;li&gt;Náuseas e vômitos&lt;/li&gt;
+  &lt;li&gt;Apresentação tranversa&lt;/li&gt;
+  &lt;li&gt;Oligodrâmnia&lt;/li&gt;
+  &lt;li&gt;Colo deslocado&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Útero vazio&lt;/li&gt;
+      &lt;li&gt;Placenta ectópica intra-abdominal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RM&lt;/strong&gt;: decisiva para confirmar o diagnóstico e identificar a implantação placentária&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gravidez-ovariana&quot;&gt;Gravidez ovariana&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;3% das gestações ectópicas&lt;/li&gt;
+  &lt;li&gt;Resultante de:
+    &lt;ul&gt;
+      &lt;li&gt;Ruptura com reabsorção ovular (mais frequente)&lt;/li&gt;
+      &lt;li&gt;Ruptura evoluindo para um tipo secundário (abdominal)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gravidez-cervical&quot;&gt;Gravidez cervical&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Menos de 1% dos casos&lt;/li&gt;
+  &lt;li&gt;Incidência entre 1:2.500-50.000 gestações&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;:  útero vazio, canal cervical aumentado com imagem de SG exibindo embrião em seu interior, com ou sem batimentos cardíacos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gravidez-ectópica-em-cicatriz-de-cesárea&quot;&gt;Gravidez ectópica em cicatriz de cesárea&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A forma mais rara&lt;/li&gt;
+  &lt;li&gt;Em mulheres com história de cesárea&lt;/li&gt;
+  &lt;li&gt;Solicitar o USG quando:
+    &lt;ul&gt;
+      &lt;li&gt;Cavidade uterina e canal cervical vazios&lt;/li&gt;
+      &lt;li&gt;O desenvolvimento do SG ocorre na porção anterior do segmento inferior do útero&lt;/li&gt;
+      &lt;li&gt;Houver ausência de miométrio saudável entre a bexiga e o SG&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hemorragia ativa, indicação de:
+    &lt;ul&gt;
+      &lt;li&gt;Laparotomia com histerotomia&lt;/li&gt;
+      &lt;li&gt;Histerectomia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Paciente estável:
+    &lt;ul&gt;
+      &lt;li&gt;Endoscopia&lt;/li&gt;
+      &lt;li&gt;Laparoscopia&lt;/li&gt;
+      &lt;li&gt;Histeroscopia&lt;/li&gt;
+      &lt;li&gt;MTX IM (cuidado com falha terapêutica)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/tto-cerv.png&quot; alt=&quot;imagem&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/acidentes.png&quot; alt=&quot;imagem&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Choque
+    &lt;ul&gt;
+      &lt;li&gt;Hipotensão&lt;/li&gt;
+      &lt;li&gt;Taquicardia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dor à palpação&lt;/li&gt;
+  &lt;li&gt;Manifestações inespecíficas (comuns antes da ruptura)&lt;/li&gt;
+  &lt;li&gt;Mimetizando quadro de abortamento
+    &lt;ul&gt;
+      &lt;li&gt;Hemorragia no 1T&lt;/li&gt;
+      &lt;li&gt;Dor abdominal ou pélvica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;formas-clínicas&quot;&gt;Formas clínicas&lt;/h2&gt;
+&lt;h3 id=&quot;subaguda&quot;&gt;Subaguda&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A forma mais comum (70% dos casos)&lt;/li&gt;
+  &lt;li&gt;O ovo habitualmente localizado na &lt;em&gt;ampola tubária&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;“Quando o saco ovular distende a porção ampular da tuba uterina, ocorre separação parcial do trofoblasto, e mais tarde da placenta, com perdas sanguíneas intermitentes, que atravessam o óstio e alcançam a cavidade abdominal, fenômeno que se prolonga, por vezes, durante muitos dias (abortamento tubário).”&lt;/li&gt;
+  &lt;li&gt;“O hematoma formado na ampola tubária pode determinar abortamento completo, com eliminação do ovo; entretanto, é mais comum a ocorrência de expulsão incompleta, porque o trofoblasto invade a camada muscular da tuba uterina e fica aderido nela. Nesses casos, trata-se de hemorragia intraperitoneal persistente.”&lt;/li&gt;
+  &lt;li&gt;Sinal de irritação peritoneal:
+    &lt;ul&gt;
+      &lt;li&gt;Dor hipogástrica&lt;/li&gt;
+      &lt;li&gt;Náiseas e vômitos&lt;/li&gt;
+      &lt;li&gt;Estado subfebril&lt;/li&gt;
+      &lt;li&gt;Distensão do ventre&lt;/li&gt;
+      &lt;li&gt;Leucocitose moderada&lt;/li&gt;
+      &lt;li&gt;Abdome doloroso à palpação&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quadro clínico compatível com hemorragia interna:
+    &lt;ul&gt;
+      &lt;li&gt;Lipotimia&lt;/li&gt;
+      &lt;li&gt;Taquisigmia moderada (até bpm)&lt;/li&gt;
+      &lt;li&gt;Mucosas descoradas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Em 1/3 das pacientes com gravidez ectópica não existe referência à amenorreia&lt;/strong&gt; (o atraso menstrual é encoberto por hemorragia vaginal concomitante com a morte ovular e início da separação da decídua)&lt;/li&gt;
+  &lt;li&gt;Exame ginecológico (toque combinado):
+    &lt;ul&gt;
+      &lt;li&gt;Ocupação (sangue coletado)&lt;/li&gt;
+      &lt;li&gt;Dor à pressão do fundo de saco (&lt;strong&gt;grito de Douglas&lt;/strong&gt;)&lt;/li&gt;
+      &lt;li&gt;Desconforto com a manipulação da cérvice&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;aguda&quot;&gt;Aguda&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;30% dos casos&lt;/li&gt;
+  &lt;li&gt;Localização habitual no istmo da tuba uterina&lt;/li&gt;
+  &lt;li&gt;Geralmente corresponde à ruptura tubária
+    &lt;ul&gt;
+      &lt;li&gt;Intensa hemorragia intraperitoneal&lt;/li&gt;
+      &lt;li&gt;Dor violenta em punhalada&lt;/li&gt;
+      &lt;li&gt;Dor escapular&lt;/li&gt;
+      &lt;li&gt;Sinais de choque&lt;/li&gt;
+      &lt;li&gt;Hematocele de Douglas (sangue intra-abdominal se acumulando no fundo de saco)&lt;/li&gt;
+      &lt;li&gt;Palpação do abdome dolorosa&lt;/li&gt;
+      &lt;li&gt;Blumberg positivo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Clínica semelhante ao abortamento tubário porém mais exaltada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Quadro clínico mais:&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;USGTV&lt;/strong&gt; (transvaginal)
+    &lt;ul&gt;
+      &lt;li&gt;Massa complexa (60%)&lt;/li&gt;
+      &lt;li&gt;Anel tubário (20%)&lt;/li&gt;
+      &lt;li&gt;Anel tubário com embrião ecom ou sem bcf (13%)&lt;/li&gt;
+      &lt;li&gt;SG intrauterino afasta ectopia, mais ainda pode ser uma  gravidez heterópica&lt;/li&gt;
+      &lt;li&gt;Pseudossaco gestacional&lt;/li&gt;
+      &lt;li&gt;Em 8-30% dos casos a USG não detecta a localização (nem intrauterina e nem tubária)
+        &lt;ul&gt;
+          &lt;li&gt;Nesse caso repetir USG com 7 dias&lt;/li&gt;
+          &lt;li&gt;hCG + e útero vazio: grande chance de ectopia&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dosagem do _h_CG&lt;/li&gt;
+  &lt;li&gt;Diagnósticos diferenciais:
+    &lt;ul&gt;
+      &lt;li&gt;Gestação intrauterina viável&lt;/li&gt;
+      &lt;li&gt;Abortamento&lt;/li&gt;
+      &lt;li&gt;Gravidez ectópica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cirpurgico
+    &lt;ul&gt;
+      &lt;li&gt;Laparoscopia&lt;/li&gt;
+      &lt;li&gt;Laparotomia: em quadros de instabilidade hemodinâmica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RM&lt;/strong&gt;: para confirmar gravidez abdominal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/diag.png&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Laparotomia&lt;/strong&gt;: reservada para
+    &lt;ul&gt;
+      &lt;li&gt;Casos agudos&lt;/li&gt;
+      &lt;li&gt;Pacientes hemodinamicamente instáveis&lt;/li&gt;
+      &lt;li&gt;Hemoperitônio&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Laparoscopia&lt;/strong&gt;: padrão ouro na maioria dos casos
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Salpingostomia&lt;/strong&gt; (conservador): enucleção da ectopia com conservação da trompa que é deixada aberta para cicatrização de segunda intenção.
+        &lt;ul&gt;
+          &lt;li&gt;Indicações: como primeira opção em pacientes com trompa contralateral doente, para a paciente que quiser ter filhos futuramente, ectopia tubária de pequenas dimensões e íntegra&lt;/li&gt;
+          &lt;li&gt;Recorrência de ectopia em 10%&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Salpingectomia&lt;/strong&gt; (radical)
+        &lt;ul&gt;
+          &lt;li&gt;Indicações: sangramento incontrolável, ectopia recorrente na mesma tuba, trompa uterina muito lesada ou SG &amp;gt; 5cm&lt;/li&gt;
+          &lt;li&gt;&lt;em&gt;Melhor indicação para mulheres com trompa contralateral normal&lt;/em&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Histerectomia&lt;/strong&gt;: único tratamento possível na gravidez cervical em pacientes instáveis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;medicamentoso&quot;&gt;Medicamentoso&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;MXT (metotrexato) sistêmica por via IV&lt;/li&gt;
+  &lt;li&gt;Indicações:
+    &lt;ul&gt;
+      &lt;li&gt;Quadro estável&lt;/li&gt;
+      &lt;li&gt;Diagnóstico definitivo&lt;/li&gt;
+      &lt;li&gt;hCG &amp;lt; 5.000&lt;/li&gt;
+      &lt;li&gt;Aumento de hCG &amp;lt; 50% em 48h&lt;/li&gt;
+      &lt;li&gt;SG &amp;lt; 3,5cm&lt;/li&gt;
+      &lt;li&gt;Ausência de bcf&lt;/li&gt;
+      &lt;li&gt;Líquido livre no peritônio ausente/moderado&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;expectante&quot;&gt;Expectante&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pacientes com quadro clínico estável&lt;/li&gt;
+  &lt;li&gt;b-hCG inicial &amp;lt; 1.000-1.500 e declinante&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gravidez-cervical-1&quot;&gt;Gravidez cervical&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Quadro instável: histerectomia&lt;/li&gt;
+  &lt;li&gt;Quadro estável: MTX&lt;/li&gt;
+  &lt;li&gt;Acompanhamento com dosagem de b-hCG no 4 e 7 dias e semanalmente até a negativação&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gravidez-abdominal-1&quot;&gt;Gravidez abdominal&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Laparotomia&lt;/li&gt;
+  &lt;li&gt;Sobrevida fetal é a exceção&lt;/li&gt;
+  &lt;li&gt;Risco de hemorragia materna é constante&lt;/li&gt;
+  &lt;li&gt;Se a descoberta for durante uma cesárea: retirar o concepto&lt;/li&gt;
+  &lt;li&gt;Retirar a placenta? Sim ou Não?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/tub.png&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Incontinência urinária</title><link href="http://localhost:4000/ginecologia/incontinencia-urinaria.html" rel="alternate" type="text/html" title="Incontinência urinária" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/incontinencia-urinaria</id><content type="html" xml:base="http://localhost:4000/ginecologia/incontinencia-urinaria.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#incontinência-urinária-de-esforço&quot; id=&quot;markdown-toc-incontinência-urinária-de-esforço&quot;&gt;Incontinência urinária de esforço&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#história-clínica&quot; id=&quot;markdown-toc-história-clínica&quot;&gt;História clínica&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#diário-miccional&quot; id=&quot;markdown-toc-diário-miccional&quot;&gt;Diário miccional&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É toda perda involuntária de urina, clinicamente demonstrável, que cause problema higiênico ou social à mulher. Pode ser um sinal ou um sintoma.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Incidência aumenta com a idade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;IUE&lt;/strong&gt; (de esforço): relacionada com o tossir, espirrar, pular, caminhar. Ocorre pois a pressão vesical excede a pressão máximade fechamento uretral (sem a contração do m. detrusor).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUU&lt;/strong&gt; (de urgência): &lt;em&gt;bexiga hiperativa&lt;/em&gt;, é quando o detrusor se contrai involuntariamente. Ocorre na fase de enchimento enquanto a paciente tenta inibir a micção. Causa idiopática.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUR&lt;/strong&gt; (reflexa): ocorre na fase de enchimento, com a contração vesical e a paciente tentando inibir a micção. De causa neurológica.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUM&lt;/strong&gt; (mista): Associação de dois dos tipos acima.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUT&lt;/strong&gt; (por transbordamento): antigamente chamada de &lt;em&gt;bexiga neurogênica&lt;/em&gt;, a bexiga está distendida (aumentada) e não há atividade do detrusor.é causada por lesões neurológicas ou nas patologias obstrutivas (incontinência paradoxal).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IEU&lt;/strong&gt; (extra uretral): a perda ocorre devido a fístulas uro-genitais (uretro-vaginal, uretero-vaginal, vésico-uterina, etc). Também nas anomalias anatômicas do sistema urinário.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUP&lt;/strong&gt; (psicogênica): em pacientes com distpurbios psiquiátricos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;incontinência-urinária-de-esforço&quot;&gt;Incontinência urinária de esforço&lt;/h2&gt;
+&lt;p&gt;Toda perda urinária pelo meato externo da uretra, quando a pressão vesical excede a pressão máximade fechamento uretral, na ausência de contração do m. detrusor.&lt;/p&gt;
+
+&lt;h3 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h3&gt;
+&lt;p&gt;A etiologia é multifatorial, alguns exemplos:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Alterações anatômicas&lt;/li&gt;
+  &lt;li&gt;Uretra funcionalmente curta&lt;/li&gt;
+  &lt;li&gt;Incompetencia esfincteriana&lt;/li&gt;
+  &lt;li&gt;Hipoestrogenismo&lt;/li&gt;
+  &lt;li&gt;Trumatismo&lt;/li&gt;
+  &lt;li&gt;Fatores congênitos&lt;/li&gt;
+  &lt;li&gt;Fatores obstétricos&lt;/li&gt;
+  &lt;li&gt;Lesões de nervos, fáscias e músculos&lt;/li&gt;
+  &lt;li&gt;Neuropatias&lt;/li&gt;
+  &lt;li&gt;Hipermobilidade do colo vesical e uretra&lt;/li&gt;
+  &lt;li&gt;Descida rotacional da uretra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;história-clínica&quot;&gt;História clínica&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hábitos miccionais&lt;/li&gt;
+  &lt;li&gt;Presencia ou ausência de enurese&lt;/li&gt;
+  &lt;li&gt;Diminuição da força muscular nos MMII&lt;/li&gt;
+  &lt;li&gt;Atrofia muscular&lt;/li&gt;
+  &lt;li&gt;Dificuldade de marcha&lt;/li&gt;
+  &lt;li&gt;Lombalgias&lt;/li&gt;
+  &lt;li&gt;Citalgias&lt;/li&gt;
+  &lt;li&gt;D. medulares ou neurológicas&lt;/li&gt;
+  &lt;li&gt;DM&lt;/li&gt;
+  &lt;li&gt;Antecedentes de cirurgias pélvicas ou perineais&lt;/li&gt;
+  &lt;li&gt;Alteração dos hábitos instinais (incontinência fecal, constipação)&lt;/li&gt;
+  &lt;li&gt;Uso de fármacos&lt;/li&gt;
+  &lt;li&gt;Questionário de qualidade de vida&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diário-miccional&quot;&gt;Diário miccional&lt;/h3&gt;
+
+&lt;p&gt;##Exame ginecológico&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Teste do absorvente: diferença de peso &amp;gt; 1g caracteriza perda urinária&lt;/li&gt;
+  &lt;li&gt;Teste de esforço (com bexiga cheia)&lt;/li&gt;
+  &lt;li&gt;Teste do cotonete: para avaliar o desvio rotacional da uretra. Desvio maior que 30 graus indica hipermobilidade do colo e da JUV&lt;/li&gt;
+  &lt;li&gt;Mobilidade do colo vesical&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exame neurológico&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exame urodinâmico&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Litíase urinária</title><link href="http://localhost:4000/urologia/litiase-urinaria.html" rel="alternate" type="text/html" title="Litíase urinária" /><published>2019-04-11T00:00:00-03:00</published><updated>2019-04-11T00:00:00-03:00</updated><id>http://localhost:4000/urologia/litiase-urinaria</id><content type="html" xml:base="http://localhost:4000/urologia/litiase-urinaria.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#composição-dos-cristais&quot; id=&quot;markdown-toc-composição-dos-cristais&quot;&gt;Composição dos cristais&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#cálculos-de-cálcio&quot; id=&quot;markdown-toc-cálculos-de-cálcio&quot;&gt;Cálculos de cálcio:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cálculos-não-cálcicos&quot; id=&quot;markdown-toc-cálculos-não-cálcicos&quot;&gt;Cálculos não cálcicos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referência&quot; id=&quot;markdown-toc-referência&quot;&gt;Referência&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;É a 3a afecção mais comum do trato urinário&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hipótese da nucleação&lt;/strong&gt;: os cálculos se originam de cristais ou corpos estranhos imersos na urina supersaturada;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hipótese de inibidor de cristais&lt;/strong&gt;: se formam devido à ausência ou baixa concentação de inibidores de cálculos naturais como magnésio, citrato, sulfato, pirofosfato e uma variedade de metais-traço.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;composição-dos-cristais&quot;&gt;Composição dos cristais&lt;/h2&gt;
+
+&lt;h3 id=&quot;cálculos-de-cálcio&quot;&gt;Cálculos de cálcio:&lt;/h3&gt;
+&lt;p&gt;85% de todos os cálculos. Principalmente devido a hipercalciúria.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nefrolitíase hipercalciúrica absortiva:&lt;/strong&gt; hipercalciúria (&amp;gt; 4mg/kg) devido à maior absorção intestinal (jejuno).
+    &lt;ul&gt;
+      &lt;li&gt;Tipo I: independente da dieta (15%)&lt;/li&gt;
+      &lt;li&gt;Tipo II: depende da dieta, TTO é corrigir a dieta reduzindo o cálcio.&lt;/li&gt;
+      &lt;li&gt;Tipo III: secundária a um vazamento renal de fosfato (5%). O fosfato sérico diminuído leva a um aumento da síntese de 1,25-di-hidroxivitamina D. A cascata fisiológica culmina em um aumento da absorção de fosfato e cálcio no intestino delgado e em uma excreção renal de cálcio aumentada. TTO é repor o fosfato.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nefrolitíase hiperclciúrica reabsortiva:&lt;/strong&gt; relacionado ao hiperparatireoidismo primário.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nefrolitíase hipercalciúrica de indução renal:&lt;/strong&gt; maior excreção renal de cálcio reduz o cálcio sérico e aumenta a secreção de PTH que vai aumentar a calcemia (mobilização óssea a maior absorção intestinal) compondo um ciclo vicioso.
+    &lt;ul&gt;
+      &lt;li&gt;Esses pacientes têm um nível de cálcio urinário em jejum elevado, nível de cálcio sérico normal e um nível de hormônio paratireoidiano secundariamente elevado.&lt;/li&gt;
+      &lt;li&gt;&lt;mark&gt;TTO com hidroclorotiazidas&lt;/mark&gt;: diminuem o volume de sangue circulante e estimulam a absorção tubular proximal de cálcio.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nefrolitíase cálcica hiperuricosúrica:&lt;/strong&gt; por ingestão excessiva de purinas na dieta ou por aumento na produção de ácido úrico endógeno.
+    &lt;ul&gt;
+      &lt;li&gt;Aumento de uratos monossódicos que absorvem e adsorvem inibidores de cálculos urinários.&lt;/li&gt;
+      &lt;li&gt;TTO é mudar a dieta e alopurinol (inibidor da xantina oxidase que reduz a síntese e excreção renal de ácido úrico).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nefrolitíase cálcica hiperoxalúrica:&lt;/strong&gt; secundária a níveis aumentados de oxalato urinário. Geralmente associada a estados diarreicos e desidratação.
+    &lt;ul&gt;
+      &lt;li&gt;TTO é a suplementação de cálcio&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nefrolitíase cálcica hipocitratúrica:&lt;/strong&gt;
+pela redução do citrato que é um importante inibidor da litíase (forma complexos com o cálcio diminuindo a sua forma iônica).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;cálculos-não-cálcicos&quot;&gt;Cálculos não cálcicos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Estruvita:&lt;/strong&gt; são o segundo tipo mais comum de cálculos, compostos de magnésio, amônio e fosfato (MAP).
+    &lt;ul&gt;
+      &lt;li&gt;Mais comum em mulheres&lt;/li&gt;
+      &lt;li&gt;Coraliformes (ramificaos)&lt;/li&gt;
+      &lt;li&gt;Raramente são cálculos ureterais obstrutivos&lt;/li&gt;
+      &lt;li&gt;Desenvolvem-se pela ação de microorganismos que clivam a uréia.&lt;/li&gt;
+      &lt;li&gt;O pH urinário é &amp;lt; 7,2 (normal é 5,85), faixa em que esses cristais são insolúveis e precipitam.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ácido úrico:&lt;/strong&gt; responsáveis por &amp;lt; 5%.
+    &lt;ul&gt;
+      &lt;li&gt;Mais em homens&lt;/li&gt;
+      &lt;li&gt;Pode estar relacionado à hiperuricemia (gota, dieta rica em purinas), mas na maioria das vezes não.&lt;/li&gt;
+      &lt;li&gt;pH urinário &amp;lt; 5,5&lt;/li&gt;
+      &lt;li&gt;TTO: manter o volume urinário &amp;gt; 2L/dia e pH &amp;gt; 6,0, reduzir purinas da dieta e usar alopurinol.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cistina:&lt;/strong&gt; em pacientes com cistinúria, doença recessiva autossômica que resulta em erro inato do metabolismo.
+    &lt;ul&gt;
+      &lt;li&gt;História familiar&lt;/li&gt;
+      &lt;li&gt;TTO: alta ingestão de líquidos e alcalinização da urina (&amp;gt; 7,5) e dieta pobre em metionina (precursor da cistina).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Xantina:&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Indinavir:&lt;/strong&gt; é um inibidor de protease usado no tratamento da HIV resultando em cálculo nesses pacientes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Raros:&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Abortamento</title><link href="http://localhost:4000/obstetricia/abortamento.html" rel="alternate" type="text/html" title="Abortamento" /><published>2019-04-09T00:00:00-03:00</published><updated>2019-04-09T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/abortamento</id><content type="html" xml:base="http://localhost:4000/obstetricia/abortamento.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#abortos-legalizados-no-brasil&quot; id=&quot;markdown-toc-abortos-legalizados-no-brasil&quot;&gt;Abortos legalizados no Brasil&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#formas-clínicas&quot; id=&quot;markdown-toc-formas-clínicas&quot;&gt;Formas clínicas&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#ameaça-de-abortamento&quot; id=&quot;markdown-toc-ameaça-de-abortamento&quot;&gt;Ameaça de abortamento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#abortamento-inevitável&quot; id=&quot;markdown-toc-abortamento-inevitável&quot;&gt;Abortamento inevitável&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#abortamento-completo&quot; id=&quot;markdown-toc-abortamento-completo&quot;&gt;Abortamento completo&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#abortamento-incompleto&quot; id=&quot;markdown-toc-abortamento-incompleto&quot;&gt;Abortamento incompleto&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#abortamento-infectado&quot; id=&quot;markdown-toc-abortamento-infectado&quot;&gt;Abortamento infectado&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#abortamento-retido&quot; id=&quot;markdown-toc-abortamento-retido&quot;&gt;Abortamento retido&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#abortamento-habitual&quot; id=&quot;markdown-toc-abortamento-habitual&quot;&gt;Abortamento habitual&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#insuficiência-cervical&quot; id=&quot;markdown-toc-insuficiência-cervical&quot;&gt;Insuficiência cervical&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a expulsão do feto &lt;strong&gt;&amp;lt; 500g&lt;/strong&gt; ou &lt;strong&gt;&amp;lt; 20-22s&lt;/strong&gt;. Pode ser espontâneo ou provocado.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;p&gt;Cerca de 75% dos ovos fertilizados são abortados, e em mais da metade deles isso ocorre antes da 1a falha menstrual. Em gestações diagnosticadas clinicamente, 10 a 25% terminam espontaneamente, e 80% delas ocorrem no 1o trimestre (abortamento clínico).&lt;/p&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Precoces: até 12s&lt;/li&gt;
+  &lt;li&gt;Tardios: de 12 a 20s&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Alterações cromossômicas&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Aneuploidia
+        &lt;ul&gt;
+          &lt;li&gt;Trissomia (52%)&lt;/li&gt;
+          &lt;li&gt;Monossomia (&amp;lt;1%)&lt;/li&gt;
+          &lt;li&gt;Síndrome de Turner, 45X0 (19%)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Triploidia (16%)&lt;/li&gt;
+      &lt;li&gt;Tetraploidia (6%)&lt;/li&gt;
+      &lt;li&gt;Outros (7%)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Insuficiência luteínica&lt;/li&gt;
+  &lt;li&gt;Alterações  hormonais&lt;/li&gt;
+  &lt;li&gt;Insuficiência istmo-cervical (mais tardias, também é uma causa frequente de parto prematuro)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;abortos-legalizados-no-brasil&quot;&gt;Abortos legalizados no Brasil&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Estupro&lt;/li&gt;
+  &lt;li&gt;Anencefalia&lt;/li&gt;
+  &lt;li&gt;Risco de vida da mãe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;formas-clínicas&quot;&gt;Formas clínicas&lt;/h2&gt;
+&lt;h3 id=&quot;ameaça-de-abortamento&quot;&gt;Ameaça de abortamento&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sangramento significativo antes de 22s (cuidado com pequenos sangramentos fisiológicos)&lt;/li&gt;
+  &lt;li&gt;Cólicas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;USG:&lt;/strong&gt; fluxo interviloso ao Doppler colorido antes de 10 semanas
+    &lt;ul&gt;
+      &lt;li&gt;CCN &amp;gt;= 7mm e ausência de bcf&lt;/li&gt;
+      &lt;li&gt;Diametro médio do saco gestacional SG &amp;gt; 25mm e embrião ausente&lt;/li&gt;
+      &lt;li&gt;Hematoma intrauterino&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;hemorragia (anomalia decidual e-ou descolamento do ovo), se for “borra de café” é mais sério;
+    &lt;ul&gt;
+      &lt;li&gt;30% das gestações sangram no 1T e 50% delas abortam;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;dor, acompanhando a hemorragia.&lt;/li&gt;
+  &lt;li&gt;sinal de contração uterina&lt;/li&gt;
+  &lt;li&gt;útero de volume aumentado&lt;/li&gt;
+  &lt;li&gt;Fluxo interviloso
+    &lt;ul&gt;
+      &lt;li&gt;Gravidez normal: não ocorre até 10s&lt;/li&gt;
+      &lt;li&gt;No abortamento: hemorragia nas áreas periféricas em que está o fluxo interviloso&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;TTO:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;repouso relativo&lt;/li&gt;
+      &lt;li&gt;proibir o coito&lt;/li&gt;
+      &lt;li&gt;tranquilizar a gestante&lt;/li&gt;
+      &lt;li&gt;antiespasmódicos e analgésicos nas cólicas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abortamento-inevitável&quot;&gt;Abortamento inevitável&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;o colo está dilatado, mas o produto da concepção não foi eliminado&lt;/li&gt;
+  &lt;li&gt;Hemorragias tendem a ser mais abundantes com sangue de cor viva;&lt;/li&gt;
+  &lt;li&gt;O volume uterino corresponde à IG;&lt;/li&gt;
+  &lt;li&gt;Colo permeável com membranas herniadas;&lt;/li&gt;
+  &lt;li&gt;TTO:
+    &lt;ul&gt;
+      &lt;li&gt;até 12s: dilatação seguida de aspiração a vácuo ou de curetagem;&lt;/li&gt;
+      &lt;li&gt;após 12s: ocitocina em grandes doses para acelerar a expulsão, extraindo o remanescente com pinça (evitar manipulação cirurgica pois nessa época o ovo e útero estão muito desenvolvidos e com paredes finas e moles);&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Estudar histologicamente o material do abortamento.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abortamento-completo&quot;&gt;Abortamento completo&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;todo o produto da concepção foi  eliminado sem a necessidade de intervenção&lt;/li&gt;
+  &lt;li&gt;USG: Eco endometrial central (espessura &amp;lt; 8 a 10 mm), “útero vazio”
+    &lt;ul&gt;
+      &lt;li&gt;Espessura anteroposterio do endométro é &amp;lt; 8-10mm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;frequente até 8s (até aí não tem “resto”)&lt;/li&gt;
+  &lt;li&gt;TTO: esses casos evoluem satisfatoriamente e não necessitam de intervenção cirúrgica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abortamento-incompleto&quot;&gt;Abortamento incompleto&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;alguma parte do produto da concepção foi eliminada, podendo estar retidos feto, placenta ou membranas;&lt;/li&gt;
+  &lt;li&gt;Eliminação parcial do ovo (geralmente a paciente informa a eliminação apenas do feto)&lt;/li&gt;
+  &lt;li&gt;Hemorragia persistente (perigo de infecção)&lt;/li&gt;
+  &lt;li&gt;Comum após 8s (quando as vilosidades coriônicas ficam aderidas ao útero)&lt;/li&gt;
+  &lt;li&gt;Sangramento não cessa, podendo ser intenso (os restos ovulares impedem as contrações uterinas adequadas)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;USG:&lt;/strong&gt; Qualquer espessura endometrial; tecido heterogêneo distorcendo o eco médio endometrial
+    &lt;ul&gt;
+      &lt;li&gt;Espessura AP do endométrio &amp;gt; 8-10mm (restos ovulares)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Útero com dimensões menores que as esperadas para a IG;&lt;/li&gt;
+  &lt;li&gt;Colo entreaberto;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;TTO:&lt;/strong&gt; esvaziamento cirúrgico (aspiração a vácuo)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abortamento-infectado&quot;&gt;Abortamento infectado&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;complicado por infecção intrauterina (geralmente incompleto)&lt;/li&gt;
+  &lt;li&gt;geralmente devido a más condições técnicas do abortamentos&lt;/li&gt;
+  &lt;li&gt;Etiologias: microorganismos da flora genital e intestinal&lt;/li&gt;
+  &lt;li&gt;USG: abcesso pélvico&lt;/li&gt;
+  &lt;li&gt;Classificação:
+    &lt;ul&gt;
+      &lt;li&gt;I - Endo(mio)metrite: a  mais comum, infecção limitada à cavidade uterina, à decídua e miométrio.&lt;/li&gt;
+      &lt;li&gt;II - Pelviperitonite: localizada no miometrio, paramétrios e anexos, comprometendo o peritônio pélvico, sangue mesclado com líquido sanioso e odor fecaloide. Paciente com muita dor.&lt;/li&gt;
+      &lt;li&gt;III - Peritonite: forma extremamente grave, forma anterior + peritonite, septicemia e choque séptico (geralmente gram-neg).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;TTO:
+    &lt;ul&gt;
+      &lt;li&gt;Esvaziamento cirúrgico&lt;/li&gt;
+      &lt;li&gt;antibioticoterapia de amplo espectro (clinda, genta e ampicilina)&lt;/li&gt;
+      &lt;li&gt;ocitocina&lt;/li&gt;
+      &lt;li&gt;Drenas abcessos da peritonite pelo fundo de saco.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abortamento-retido&quot;&gt;Abortamento retido&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;gravidez em que há a morte fetal sem a sua expulsão;&lt;/li&gt;
+  &lt;li&gt;Ovo morto fica retido por dias ou semanas&lt;/li&gt;
+  &lt;li&gt;Pode haver ou não o sangramento vaginal&lt;/li&gt;
+  &lt;li&gt;USG: CCN &amp;gt; 5mm sem atividade cardíaca&lt;/li&gt;
+  &lt;li&gt;Em retenções prolongadas (&amp;gt; 4s) os distúrbios da hemocoagulação são a complicação mais temida.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;ovo anembrionado&lt;/em&gt; quando a USG não identifica o embrião e SG &amp;gt; 25mm&lt;/li&gt;
+  &lt;li&gt;Diag definitivo: 2 UGSs espaçadas de 7-10 dias.&lt;/li&gt;
+  &lt;li&gt;TTO:
+    &lt;ul&gt;
+      &lt;li&gt;Expectante: aguardar a expulsão&lt;/li&gt;
+      &lt;li&gt;Medicamentosa: misoporstol&lt;/li&gt;
+      &lt;li&gt;Intervenção cirúrgica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abortamento-habitual&quot;&gt;Abortamento habitual&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Recorrente, 2 ou mais abortamentos consecutivos;&lt;/li&gt;
+  &lt;li&gt;Afeta cerca de 5% dos casais
+    &lt;ul&gt;
+      &lt;li&gt;cerca de 1% com 3 ou mais abortos seguidos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fatores de risco:
+    &lt;ul&gt;
+      &lt;li&gt;idade materna e patena avançadas&lt;/li&gt;
+      &lt;li&gt;número de abortamentos anteriores&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Etologias:
+    &lt;ul&gt;
+      &lt;li&gt;Anomalias cromossômicas&lt;/li&gt;
+      &lt;li&gt;Aloimunes&lt;/li&gt;
+      &lt;li&gt;Autoimunes (AFL, LES)
+        &lt;ul&gt;
+          &lt;li&gt;SAF (síndrome antifosfolipídio) é a causa mais importante&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Doenças endócrinas
+        &lt;ul&gt;
+          &lt;li&gt;S. do ovário policístico (SOP)&lt;/li&gt;
+          &lt;li&gt;T. de Hashymoto&lt;/li&gt;
+          &lt;li&gt;Hipotireoidismo&lt;/li&gt;
+          &lt;li&gt;Def. luteínica&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Fatores anatômicos: como malformações uterinas, insuficiência cervical e miomas.&lt;/li&gt;
+      &lt;li&gt;Imunológicos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;TTO:
+    &lt;ul&gt;
+      &lt;li&gt;fertilização &lt;em&gt;in vitro&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Na insuficiência luteínica: progesterona vaginal, 200 mg/dia, 2 a 3 dias após a ovulação até a transferência luteoplacentária entre 7 e 9 semanas&lt;/li&gt;
+      &lt;li&gt;levotiroxina no hipotireoidismo (Hashimoto), desde que o TSH esteja &amp;gt; 2,5mUI/ml&lt;/li&gt;
+      &lt;li&gt;Redução de peso e metformina na SOP&lt;/li&gt;
+      &lt;li&gt;heparina e ácido acetilsalicílico (AAS) infantil na SAF (70% de tratamento bem-sucedido)&lt;/li&gt;
+      &lt;li&gt;Resecção histeroscópica no útero septado e no mioma intracavitário.&lt;/li&gt;
+      &lt;li&gt;O casal com abortamento habitual de causa inexplicável deve ser confortado, comunicando-se a chance de êxito de 70%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;insuficiência-cervical&quot;&gt;Insuficiência cervical&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Incapacidade do colo uterino em reter o produto da concepção&lt;/li&gt;
+  &lt;li&gt;Tipicamente no 2T&lt;/li&gt;
+  &lt;li&gt;Representa 8% dos casos de abortamento habitual.&lt;/li&gt;
+  &lt;li&gt;História de ruptura espontânea de membranas&lt;/li&gt;
+  &lt;li&gt;Dilatação &lt;strong&gt;sem dor&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Grande importância no abortamento habitual&lt;/li&gt;
+  &lt;li&gt;História de perdas fetais cada vez mais precoces&lt;/li&gt;
+  &lt;li&gt;História de &amp;gt;= 1 abortamento no 2T&lt;/li&gt;
+  &lt;li&gt;História de dilatação cervical indolor até 4-6cm&lt;/li&gt;
+  &lt;li&gt;pode ser precedida por história de traumatismo cervical por conização&lt;/li&gt;
+  &lt;li&gt;Secreção mucoide vaginal e dilatação de 4-6cm sem desconforto apreciável ou percepção
+de contrações reforçam o diagnóstico.&lt;/li&gt;
+  &lt;li&gt;A dilatação cervical com herniação das membranas visualizadas ao exame especular configura o quadro de insuficiência cervical aguda&lt;/li&gt;
+  &lt;li&gt;TTO: Cirúrgico, circlagem do colo uterino, realizada na gravidez. Pode ser transabdominal ou vaginal
+    &lt;ul&gt;
+      &lt;li&gt;Circlagem histório-indicada: para mulheres com uma ou mais perdas gestacionais com o quadro clínico de insuf. cervical.&lt;/li&gt;
+      &lt;li&gt;Circlagem ultrassonografia-indicada&lt;/li&gt;
+      &lt;li&gt;Circlagem de emergência&lt;/li&gt;
+      &lt;li&gt;Circlagem transabdominal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Derrame papilar</title><link href="http://localhost:4000/mastologia/derrame-papilar" rel="alternate" type="text/html" title="Derrame papilar" /><published>2019-04-04T00:00:00-03:00</published><updated>2019-04-04T00:00:00-03:00</updated><id>http://localhost:4000/mastologia/derrame-papilar</id><content type="html" xml:base="http://localhost:4000/mastologia/derrame-papilar">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
@@ -34,7 +1017,7 @@
       &lt;p&gt;Paula IB de, Campos AM, Paula IB de, Campos AM. Breast imaging in patients with nipple discharge. Radiologia Brasileira. 2017;50(6):383-388. doi:10.1590/0100-3984.2016.0103 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Estática fetal</title><link href="https://canalionico.github.io/resumos/obstetricia/estatica-fetal.html" rel="alternate" type="text/html" title="Estática fetal" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/obstetricia/estatica-fetal</id><content type="html" xml:base="https://canalionico.github.io/resumos/obstetricia/estatica-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Estática fetal</title><link href="http://localhost:4000/obstetricia/estatica-fetal.html" rel="alternate" type="text/html" title="Estática fetal" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/estatica-fetal</id><content type="html" xml:base="http://localhost:4000/obstetricia/estatica-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#atitude&quot; id=&quot;markdown-toc-atitude&quot;&gt;Atitude&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#durante-a-gestação&quot; id=&quot;markdown-toc-durante-a-gestação&quot;&gt;Durante a gestação&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#no-parto&quot; id=&quot;markdown-toc-no-parto&quot;&gt;No parto&lt;/a&gt;&lt;/li&gt;
@@ -245,7 +1228,7 @@ cefálica defletida do 3 o grau&lt;/li&gt;
       &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Exames de imagem em mastologia</title><link href="https://canalionico.github.io/resumos/mastologia/exames-imagem-mastologia.html" rel="alternate" type="text/html" title="Exames de imagem em mastologia" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/mastologia/exames-de-imagem-mastologia</id><content type="html" xml:base="https://canalionico.github.io/resumos/mastologia/exames-imagem-mastologia.html">&lt;p&gt;1.indice&lt;/p&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Exames de imagem em mastologia</title><link href="http://localhost:4000/mastologia/exames-imagem-mastologia.html" rel="alternate" type="text/html" title="Exames de imagem em mastologia" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>http://localhost:4000/mastologia/exames-de-imagem-mastologia</id><content type="html" xml:base="http://localhost:4000/mastologia/exames-imagem-mastologia.html">&lt;p&gt;1.indice&lt;/p&gt;
 
 &lt;h2 id=&quot;mamografia&quot;&gt;Mamografia&lt;/h2&gt;
 
@@ -276,7 +1259,7 @@ cefálica defletida do 3 o grau&lt;/li&gt;
 
 &lt;p&gt;………………&lt;/p&gt;
 
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">1.indice</summary></entry><entry><title type="html">Pelviologia</title><link href="https://canalionico.github.io/resumos/obstetricia/pelviologia.html" rel="alternate" type="text/html" title="Pelviologia" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/obstetricia/pelviologia</id><content type="html" xml:base="https://canalionico.github.io/resumos/obstetricia/pelviologia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">1.indice</summary></entry><entry><title type="html">Pelviologia</title><link href="http://localhost:4000/obstetricia/pelviologia.html" rel="alternate" type="text/html" title="Pelviologia" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/pelviologia</id><content type="html" xml:base="http://localhost:4000/obstetricia/pelviologia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#planos-de-hodge&quot; id=&quot;markdown-toc-planos-de-hodge&quot;&gt;Planos de Hodge&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -303,1149 +1286,4 @@ estreito superior.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/pelviologia/h.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Semiologia mastológica</title><link href="https://canalionico.github.io/resumos/mastologia/semiologia-mastologica.html" rel="alternate" type="text/html" title="Semiologia mastológica" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/mastologia/semiologia-mastologica</id><content type="html" xml:base="https://canalionico.github.io/resumos/mastologia/semiologia-mastologica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#anamnese&quot; id=&quot;markdown-toc-anamnese&quot;&gt;Anamnese&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exame-físico-das-mamas&quot; id=&quot;markdown-toc-exame-físico-das-mamas&quot;&gt;Exame físico das mamas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#inspeção&quot; id=&quot;markdown-toc-inspeção&quot;&gt;Inspeção&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#palpação&quot; id=&quot;markdown-toc-palpação&quot;&gt;Palpação&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia-e-fatores-de-risco-para-o-câncer-de-mama&quot; id=&quot;markdown-toc-epidemiologia-e-fatores-de-risco-para-o-câncer-de-mama&quot;&gt;Epidemiologia e fatores de risco para o câncer de mama&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;anamnese&quot;&gt;Anamnese&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Identificação: nome, idade, sexo, estado civil, profissão, naturalidade e procedência&lt;/li&gt;
-  &lt;li&gt;Queixa principal e duração&lt;/li&gt;
-  &lt;li&gt;História da doença atual: caracterizar o quadro em que o paciente se encontra.&lt;/li&gt;
-  &lt;li&gt;AP e AF:
-    &lt;ul&gt;
-      &lt;li&gt;antecedentes mamários: já amamentou? Já fez biópsia de mama?&lt;/li&gt;
-      &lt;li&gt;antecedentes ginecológicos: idade da menarca, tipo de ciclos menstruais, DUM e idade da menopausa. Usa métodos anticoncepcionais? Faz terapia de reposição hormonal? Faz preventivo de colo de útero?&lt;/li&gt;
-      &lt;li&gt;antecedentes obstétricos: número de evolução das gestações e partos prévios. Tipos de parto, idade da primeira gestação, se houve abortos e se algum deles foi antes do primeiro filho.&lt;/li&gt;
-      &lt;li&gt;antecedentes gerais: internações, cirurgias, etc.&lt;/li&gt;
-      &lt;li&gt;antecedentes familiares: &lt;strong&gt;cânceres de mama, ovários e útero&lt;/strong&gt;. A idade em que foram diagnosticados é muito importante e o risco é maior em parentes de primeiro grau.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Perguntar sobre exames preventivos contra o câncer de mama. Perguntar se a paciente tem o hábito de fazer o auto-exame das mamas e se sabe faze-lo.&lt;/li&gt;
-  &lt;li&gt;Interrogatório sintomatológico&lt;/li&gt;
-  &lt;li&gt;Hábitos e estilo de vida: drogas, exercícios, vida psicossocial, dieta, etc.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;exame-físico-das-mamas&quot;&gt;Exame físico das mamas&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Paciente sentada: inspeção estática, inspeção dinâmica, palpação das mamas, palpação das axilas e fossas supraclaviculares.&lt;/li&gt;
-  &lt;li&gt;Paciente deitada: palpação das mamas e expressão do complexo aréolo-papilar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;inspeção&quot;&gt;Inspeção&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Inspeção estática:&lt;/strong&gt; visualizar e localizar alterações cutâneas, simetrias, dimensão e forma as mamas, papilas e aréolas, presença de rede venosa superficial, abaulamentos e retrações.
-    &lt;ul&gt;
-      &lt;li&gt;as mamas são divididas em quatro quadrantes e uma região central.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Inspeção dinâmica:&lt;/strong&gt; objetiva acentuar ou ver novas alterações. São as seguintes manobras:
-    &lt;ul&gt;
-      &lt;li&gt;Levantas os braços e pôr as mãos na nuca. Estirando os músculos peitorais maiores evidenciando lesões no QI das mamas.&lt;/li&gt;
-      &lt;li&gt;Colocar as mãos na cintura fazendo força para contrair o músculo peitoral. Se um tumor invadir a fáscia profunda ou o músculo peitoral haverá retração, principalmente nos quadrantes supero-externos.&lt;/li&gt;
-      &lt;li&gt;Inclinar o corpo para frente para que as mamas fiquem pendentes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;palpação&quot;&gt;Palpação&lt;/h3&gt;
-&lt;p&gt;Requer a paciente em decúbito dorsal com ambas as mãos abaixo da nuca. A palpação é iniciada no quadrante superior interno da mama e realizada no sentido horário, com a face palmar dos dedos. O movimento é um dedilhamento bimanual semelhante ao ato de tocar piano, em sentido circular e concêntrico, a partir da aréola. Não esquecer de palpar o prolongamento axilar da mama (cauda de Spence).&lt;/p&gt;
-
-&lt;p&gt;Em seguida fazer a palpação bimanual bipalmar, comprimindo o tecido mamário contra a parede torácica.&lt;/p&gt;
-
-&lt;p&gt;De preferência deve ser feito no início do ciclo menstrual, quando os tecidos estão menos engurgitados e sensíveis à dor.&lt;/p&gt;
-
-&lt;p&gt;Verificar a descarga papilar fazendo um movimento de ordenha ao pressisonar o complexo aréolo-mamlilar.&lt;/p&gt;
-
-&lt;p&gt;Palpação das cadeias linfáticas, analisando se são móveis ou fixos, sua quantidade, o tamanho e se são duros ou macios:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Linfonodos axilares&lt;/li&gt;
-  &lt;li&gt;Linfonodos infra-claviculares&lt;/li&gt;
-  &lt;li&gt;Linfonodos supra-claviculares&lt;/li&gt;
-  &lt;li&gt;Linfonodos da região do pescoço, cadeias cervicais anterior, medial e posterior.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;No CA de mama os linfonodos tendem a ser &lt;strong&gt;duros&lt;/strong&gt; e &lt;strong&gt;não dolorosos&lt;/strong&gt;. A benignidade geralmente cursa com linfonodos amolecidos e dolorosos à palpação.&lt;/p&gt;
-
-&lt;p&gt;Parâmetros de avaliação dos nódulos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Número&lt;/li&gt;
-  &lt;li&gt;Tamanho&lt;/li&gt;
-  &lt;li&gt;Localização&lt;/li&gt;
-  &lt;li&gt;Forma: arredondada, esférica ou irregular;&lt;/li&gt;
-  &lt;li&gt;Superfície: lisa (aspécto encapsulado ou não) ou irregular;&lt;/li&gt;
-  &lt;li&gt;Consistência: dura, fibroeslástica ou cística;&lt;/li&gt;
-  &lt;li&gt;Delimitação: limites precisos ou imprecisos;&lt;/li&gt;
-  &lt;li&gt;Mobilidade: móvel, parcialmente móvel ou aderido a planos profundos;&lt;/li&gt;
-  &lt;li&gt;Sensação dolorosa&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Nódulos malignos tendem a ser:&lt;/strong&gt; formato e superfícies irregulares, consistência dura, limites imprecisos, pouca mobilidade e serem indolores.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia-e-fatores-de-risco-para-o-câncer-de-mama&quot;&gt;Epidemiologia e fatores de risco para o câncer de mama&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Fatores de alto risco:&lt;/strong&gt; &lt;strong&gt;dois ou mais parentes de primeiro grau&lt;/strong&gt; tiveram câncer de mama em qualquer idade, pelo menos &lt;strong&gt;um parente de primeiro grau com câncer na pré-menopausa&lt;/strong&gt;, suscetibilidade genética por mutação hereditária comprovada, neoplasia lobular &lt;em&gt;in situ&lt;/em&gt; e hiperplasia epitelial atípica.&lt;/p&gt;
-
-&lt;p&gt;Apenas 5% dos casos de câncer tem origem hereditária. A base hereditária está ligada a mutações nos genes BRCA-1 e BRCA-2.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fatores de médio risco:&lt;/strong&gt; &lt;strong&gt;um parente de primeiro grau com câncer de mama após menopausa&lt;/strong&gt;, irradiação torácia prévia e alta densidade mamográfica.&lt;/p&gt;
-
-&lt;p&gt;Contribuem para a elevação do risco:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Menarca precoce&lt;/li&gt;
-  &lt;li&gt;Menopausa tardia&lt;/li&gt;
-  &lt;li&gt;Nuliparidade&lt;/li&gt;
-  &lt;li&gt;Idade do primeiro parto após 35 anos&lt;/li&gt;
-  &lt;li&gt;Terapia de reposição hormonal prolongada&lt;/li&gt;
-  &lt;li&gt;Obesidade: maior produção de estrogênios&lt;/li&gt;
-  &lt;li&gt;Sedentarismo&lt;/li&gt;
-  &lt;li&gt;Alcoolismo&lt;/li&gt;
-  &lt;li&gt;Alterações proliferativas sem atipias do epitélio mamário&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Amamentação parece proteger indiretamente&lt;/strong&gt;, pois diminui o número de ciclos menstruais da mulher.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Úlceras genitais</title><link href="https://canalionico.github.io/resumos/ginecologia/ulceras-genitais.html" rel="alternate" type="text/html" title="Úlceras genitais" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/ginecologia/ulceras-genitais</id><content type="html" xml:base="https://canalionico.github.io/resumos/ginecologia/ulceras-genitais.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologias&quot; id=&quot;markdown-toc-etiologias&quot;&gt;Etiologias&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#sífilis&quot; id=&quot;markdown-toc-sífilis&quot;&gt;Sífilis&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#herpes-genital&quot; id=&quot;markdown-toc-herpes-genital&quot;&gt;Herpes genital&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#primoinfecção&quot; id=&quot;markdown-toc-primoinfecção&quot;&gt;Primoinfecção&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#latência&quot; id=&quot;markdown-toc-latência&quot;&gt;Latência&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#reativação&quot; id=&quot;markdown-toc-reativação&quot;&gt;Reativação&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#cancro-mole-cancróide&quot; id=&quot;markdown-toc-cancro-mole-cancróide&quot;&gt;Cancro mole (cancróide)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#linfogranuloma-venéreo&quot; id=&quot;markdown-toc-linfogranuloma-venéreo&quot;&gt;Linfogranuloma venéreo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#donovose&quot; id=&quot;markdown-toc-donovose&quot;&gt;Donovose&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamentos&quot; id=&quot;markdown-toc-tratamentos&quot;&gt;Tratamentos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#seguimento-da-sífilis-adquirida&quot; id=&quot;markdown-toc-seguimento-da-sífilis-adquirida&quot;&gt;Seguimento da sífilis adquirida&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;São lesões ulcerativas erosivas, precedidas ou não por pústulas e/ou vesículas, acompanhadas ou não de dor, ardor, prurido, drenagem de material mucopurulento, sangramento e linfadenopatia regional&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologias&quot;&gt;Etiologias&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;T. pallidum&lt;/em&gt; (sífilis primária e secudnária);&lt;/li&gt;
-  &lt;li&gt;HSV-1 e HSV-2 (herpes perioral e genital, respectivamente);&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;H. ducreyi&lt;/em&gt; (cancroide);&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;C. trachomatis&lt;/em&gt;, sorotipos L1, L2 e L3 (linfogranuloma venéreo);&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;K. granulomatis&lt;/em&gt; (donovose).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A presença de úlcera genital está relacionada a maior risco de transmissão e aquisição do HIV.&lt;/p&gt;
-
-&lt;h2 id=&quot;sífilis&quot;&gt;Sífilis&lt;/h2&gt;
-&lt;p&gt;A &lt;strong&gt;sífilis primária&lt;/strong&gt; (cancro duro) ocorre após o contato sexual com o indivíduo infectado, com um período de incubação de 10-90 dias (em média 3 semanas). O aparecimento da úlcera, &lt;strong&gt;geralmente única&lt;/strong&gt; é justamente a primeira manifestação e ocorre no local de entrada da bactéria (podendo ser: pênis, vulva, vagina, colo uterino, ânus, boca, etc). É &lt;strong&gt;indolor, de base endurecida, fundo limpo&lt;/strong&gt; e rica em treponemas. Após 2-6 semanas ela desaparece espontaneamente.&lt;/p&gt;
-
-&lt;p&gt;Já a &lt;strong&gt;sífilis secundária&lt;/strong&gt;, surgem entre 6 semanas e 6 meses após a infecção. Nesta fase podem ocorrer:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Eruoções cutâneas em forma de máculas (roséola) e/ou pápulas, principalmente no tronco;&lt;/li&gt;
-  &lt;li&gt;Eritemas palmo-plantares;&lt;/li&gt;
-  &lt;li&gt;Placas eritematosas branco-acinzentadas nas mucosas;&lt;/li&gt;
-  &lt;li&gt;Lesões pápulo-hipertróficas nas mucosas ou pregas cutâneas (condiloma plano ou condiloma lata);&lt;/li&gt;
-  &lt;li&gt;Alopécia em clareira&lt;/li&gt;
-  &lt;li&gt;Madarose&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Esta sintomatologia também desaparece com poucas semanas. Raramente pode ocorrer comprometimendo do figado, meningite e até uveíte.&lt;/p&gt;
-
-&lt;p&gt;Exame em campo escuro permite a pesquisa do T. pallidum e pode ser realizado tanto com amostras obtidas nas lesões primárias, como nas lesões secundárias da sífilis, em adultos ou em crianças. A amostra utilizada é o exsudato seroso das lesões ativas, livre de eritrócitos, outros organismos e restos de tecido.&lt;/p&gt;
-
-&lt;h2 id=&quot;herpes-genital&quot;&gt;Herpes genital&lt;/h2&gt;
-&lt;p&gt;O HSV é um vírus de DNA que possuem dois tipos. O tipo 1 provoca lesões predominantemente orais e o tipo 2 lesões genitais. Nem todas pessoas infectadas pelo HSV vão apresentar sintomas da herpes (13-37%).&lt;/p&gt;
-
-&lt;h3 id=&quot;primoinfecção&quot;&gt;Primoinfecção&lt;/h3&gt;
-&lt;p&gt;A &lt;strong&gt;primoinfecção&lt;/strong&gt; tem um período de incubação de seis dias. Nesta fase o quadro costuma ser mais severo, com o surgimento de:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;lesões eritemato-papulosas de 1-3mm que rapidamente evoluem para vesículas sobre base eritematosa, muito dolorosas e de localização variável na região genital.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O conteúdo das vesículas geralmente é citrino, raramente turvo. Assim, o quadro local da primoinfecção costuma ser bastante sintomático, podendo vir acompanhado de sitomas gerais como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;febre&lt;/li&gt;
-  &lt;li&gt;mal-estar&lt;/li&gt;
-  &lt;li&gt;mialgia&lt;/li&gt;
-  &lt;li&gt;disúria&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Linfadenomegalia inguinal dolorosa bilateral está presente em 50% dos casos.&lt;/p&gt;
-
-&lt;p&gt;Quando há acometimento do colo do útero é comum o corrimento vaginal e, nos homens, pode haver corrimento uretral.&lt;/p&gt;
-
-&lt;p&gt;Este quadro de primoinfecção pode durar de 2 a 3 semanas.&lt;/p&gt;
-
-&lt;h3 id=&quot;latência&quot;&gt;Latência&lt;/h3&gt;
-&lt;p&gt;Após a infecção, o HSV ascende pelos nervos periféricos sensoriais e penetra nos núcleos das células dos gânglios sensitivos, entrando no estado de latência. Esse processo não pode ser evitado por nenhum esquema terapêutico.&lt;/p&gt;
-
-&lt;h3 id=&quot;reativação&quot;&gt;Reativação&lt;/h3&gt;
-&lt;p&gt;A reativação pode ser desencadeada por fatores como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Quadros infecciosos&lt;/li&gt;
-  &lt;li&gt;Exposição utravioleta&lt;/li&gt;
-  &lt;li&gt;Traumatismos locais&lt;/li&gt;
-  &lt;li&gt;Menstruação&lt;/li&gt;
-  &lt;li&gt;Estresse físico ou emocional&lt;/li&gt;
-  &lt;li&gt;Antibióticoterapia prolongada&lt;/li&gt;
-  &lt;li&gt;Imunodeficiência&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O quadro clínico das recorrências é menos intenso que o da primoinfecção. Pode ser precedido por sintomas prodrômicos como: queimação, mialgias e “fisgadas” na perna, quadris e região anogenital.&lt;/p&gt;
-
-&lt;p&gt;As lesões podem ser cutâneas e/ou mucosas. Apresentam-se como &lt;strong&gt;vesículas agrupadas sobre base eritematosa&lt;/strong&gt;, que evoluem para pequenas &lt;strong&gt;úlceras arredondadas ou policíclicas&lt;/strong&gt;. Nas mucosas, não é comum a evidenciação das vesículas, uma vez que seus tetos rompem muito facilmente. Mais raramente, a ocorrência de lesões pode ser acompanhada de sintomas gerais. As lesões têm regressão espontânea em sete a dez dias, com ou sem cicatriz. A tendência natural dos surtos é a de se tornarem menos intensos e menos frequentes com o passar do tempo.&lt;/p&gt;
-
-&lt;p&gt;As gestantes portadoras de herpes simples apresentam risco acrescido de complicações obstétricas, sobretudo quando a infecção ocorre no final da gestação. O maior risco de transmissão do vírus acontece no momento da passagem do feto pelo canal de parto. A infecção pode ser ativa (em aproximadamente 50% dos casos) ou assintomática. Recomenda-se, portanto, a realização de cesariana sempre que houver lesões herpéticas ativas.&lt;/p&gt;
-
-&lt;p&gt;Nos pacientes com imunodepressão, podem ocorrer manifestações atípicas com lesões ulceradas ou hipertróficas, apresentando grandes dimensões e persistindo na ausência de tratamento local ou até mesmo sistêmico. Os diagnósticos diferenciais incluem o cancroide, a sífilis, o LGV, a donovanose e as ulcerações traumáticas.&lt;/p&gt;
-
-&lt;h2 id=&quot;cancro-mole-cancróide&quot;&gt;Cancro mole (cancróide)&lt;/h2&gt;
-&lt;p&gt;O cancroide é uma afecção de transmissão exclusivamente sexual, provocada pelo &lt;em&gt;H. ducreyi&lt;/em&gt;, mais frequente nas regiões tropicais. Caracteriza-se por &lt;strong&gt;lesões múltiplas (podendo, no entanto, haver uma única lesão)&lt;/strong&gt; e habitualmente &lt;strong&gt;dolorosas&lt;/strong&gt;, mais frequentes no sexo masculino. Denomina-se também cancro mole, cancro venéreo ou cancro de Ducrey. O período de incubação é geralmente de três a cinco dias, podendo se estender por até duas semanas. O risco de infecção em uma relação sexual é de 80%.&lt;/p&gt;
-
-&lt;p&gt;As lesões são dolorosas, geralmente múltiplas e devidas à &lt;strong&gt;autoinoculação&lt;/strong&gt;. A &lt;strong&gt;borda é irregular, apresentando contornos eritemato-edematosos&lt;/strong&gt; e fundo irregular, recoberto por exsudato necrótico, amarelado, &lt;strong&gt;com odor fétido&lt;/strong&gt; e que, quando removido, revela tecido de granulação com sangramento fácil.&lt;/p&gt;
-
-&lt;p&gt;No homem, as localizações mais frequentes são no frênulo e sulco bálano-prepucial; na mulher, na fúrcula e face interna dos pequenos e grandes lábios. Em 30% a 50% dos pacientes, o bacilo atinge os linfonodos inguino-crurais (bubão), sendo unilaterais em 2/3 dos casos, observados quase exclusivamente no sexo masculino pelas características anatômicas da drenagem linfática.
-No início, ocorre tumefação sólida e dolorosa, evoluindo para liquefação e fistulização em 50% dos casos, tipicamente por orifício único. Raramente, apresenta-se sob a forma de lesão extragenital ou doença sistêmica.&lt;/p&gt;
-
-&lt;p&gt;A drenagem espontânea, quando ocorre, faz-se tipicamente por orifício único. A cicatrização pode ser desfigurante. A aspiração, com agulha de grosso calibre, dos gânglios linfáticos regionais comprometidos, pode ser indicada para alívio de linfonodos tensos e com flutuação. São contraindicadas a incisão com drenagem ou excisão dos linfonodos acometidos.&lt;/p&gt;
-
-&lt;h2 id=&quot;linfogranuloma-venéreo&quot;&gt;Linfogranuloma venéreo&lt;/h2&gt;
-&lt;p&gt;O LGV é causado por &lt;em&gt;C. trachomatis&lt;/em&gt;, sorotipos L1, L2 e L3. A manifestação clínica mais comum do LGV é a &lt;strong&gt;linfadenopatia inguinal&lt;/strong&gt; e/ou femoral, já que esses sorotipos são altamente invasivos aos tecidos linfáticos. Os últimos surtos entre HSH estão relacionados ao HIV.&lt;/p&gt;
-
-&lt;p&gt;A evolução da infecção ocorre em três fases:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Fase de inoculação:&lt;/strong&gt; inicia-se por &lt;strong&gt;pápula, pústula ou exulceração indolor&lt;/strong&gt;, que desaparece sem deixar sequela. Muitas vezes, não é notada pelo paciente e raramente é observada pelo profissional de saúde. Localiza-se, no homem, no sulco coronal, frênulo e prepúcio; na mulher, na parede vaginal posterior, colo uterino, fúrcula e outras partes da genitália externa;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fase de disseminação linfática regional:&lt;/strong&gt; no homem, a linfadenopatia inguinal desenvolve-se entre uma a seis semanas após a lesão inicial, sendo geralmente unilateral (em 70% dos casos) e constituindo-se o principal motivo da consulta. Na mulher, a localização da adenopatia depende do local da lesão de inoculação;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fase de sequelas:&lt;/strong&gt; o comprometimento ganglionar evolui com supuração e fistulização por orifícios múltiplos, que correspondem a linfonodos individualizados, parcialmente, fundidos numa grande massa. A lesão da região anal pode levar a proctite e proctocolite hemorrágica. O contato orogenital pode causar glossite ulcerativa difusa, com linfadenopatia regional. Podem ocorrer sintomas gerais, como febre, mal-estar, anorexia, emagrecimento, artralgia, sudorese noturna e meningismo. Aqueles bubões que se tornarem flutuantes podem ser aspirados com agulha calibrosa, não devendo ser incisados cirurgicamente. A obstrução linfática crônica leva à elefantíase genital, que na mulher é denominada estiomene. Além disso, podem ocorrer fístulas retais, vaginais, vesicais e estenose retal.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Recomenda-se a pesquisa de C. trachomatis em praticantes de sexo anal que apresentem úlceras anorretais. Mulheres com prática de coito anal ou HSH receptivos podem apresentar proctocolites como manifestação inicial. O uso de preservativos ou outros métodos de barreira para sexo oral, vaginal e anal previnem a infecção por C. trachomatis. Acessórios sexuais devem ser limpos antes da utilização, sendo necessariamente de uso individual.&lt;/p&gt;
-
-&lt;p&gt;O diagnóstico de LGV deve ser considerado em todos os casos de adenite inguinal, elefantíase genital, estenose uretral ou retal.&lt;/p&gt;
-
-&lt;h2 id=&quot;donovose&quot;&gt;Donovose&lt;/h2&gt;
-&lt;p&gt;É uma IST crônica progressiva, causada pela bactéria &lt;em&gt;K. granulomatis&lt;/em&gt;. Acomete preferencialmente pele e mucosas das regiões genitais, perianais e inguinais. É pouco frequente, ocorrendo na maioria das vezes em climas tropicais e subtropicais. A donovanose (granuloma inguinal) está frequentemente associada à transmissão sexual, embora os mecanismos de transmissão não sejam bem conhecidos, com &lt;strong&gt;transmissibilidade baixa&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O quadro clínico inicia-se com &lt;strong&gt;ulceração de borda plana ou hipertrófica&lt;/strong&gt;, &lt;strong&gt;bem delimitada, com fundo granuloso&lt;/strong&gt;, de aspecto vermelho vivo e de &lt;strong&gt;sangramento fácil&lt;/strong&gt;. A ulceração evolui lenta e progressivamente, podendo tornar-se vegetante ou úlcero-vegetante. As lesões costumam ser &lt;strong&gt;múltiplas&lt;/strong&gt;, sendo frequente a configuração em “espelho”, em bordas cutâneas e/ou mucosas.&lt;/p&gt;
-
-&lt;p&gt;Há predileção pelas regiões de dobras e região perianal. Não ocorre adenite, embora raramente possam se formar pseudobubões (granulações subcutâneas) na região inguinal, quase sempre unilaterais. Na mulher, a forma elefantiásica é uma sequela tardia, sendo observada quando há predomínio de fenômenos obstrutivos linfáticos. A localização extragenital é rara e, quase sempre, ocorre a partir de lesões genitais ou perigenitais primárias.&lt;/p&gt;
-
-&lt;p&gt;O diagnóstico diferencial de donovanose inclui sífilis, cancroide, tuberculose cutânea, amebíase cutânea, neoplasias ulceradas, leishmaniose tegumentar americana e outras doenças cutâneas ulcerativas e granulomatosas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;ulcera-flux.png&quot; alt=&quot;Fluxuograma para manejo de Úlceras genitais&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamentos&quot;&gt;Tratamentos&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/ulceras-genitais/flux.png&quot; alt=&quot;Fluxuograma&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/ulceras-genitais/ulcera-tto1.png&quot; alt=&quot;Tratamentos1&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/ulceras-genitais/ulcera-tto2.png&quot; alt=&quot;Tratamentos2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/ulceras-genitais/tto-sif.png&quot; alt=&quot;Tratamentos3&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;No caso da sífilis:&lt;/strong&gt; na &lt;strong&gt;gestação&lt;/strong&gt;, tratamentos &lt;strong&gt;não penicilínicos são inadequados&lt;/strong&gt; e só devem ser considerados como opção nas contraindicações absolutas ao uso da penicilina. Para as gestantes comprovadamente alérgicas à penicilina, recomenda-se a dessensibilização, em serviço terciário, de acordo com protocolos existentes.&lt;/p&gt;
-
-&lt;h2 id=&quot;seguimento-da-sífilis-adquirida&quot;&gt;Seguimento da sífilis adquirida&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Nas gestantes:&lt;/strong&gt; os testes treponêmicos devem ser realizados &lt;strong&gt;mensalmente&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Na população geral:&lt;/strong&gt; teste &lt;strong&gt;trimestral&lt;/strong&gt; no primeiro ano e &lt;strong&gt;semestral&lt;/strong&gt; no segundo ano.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A &lt;strong&gt;redução de 2 ou mais títulos&lt;/strong&gt; no teste não treponêmico (como de 1:32 para 1:8), ou a &lt;strong&gt;negativação após 6-9 meses&lt;/strong&gt; do tratamento demonstra a cura da infecção.&lt;/p&gt;
-
-&lt;p&gt;No caso de sífilis primária e secundária, os títulos devem declinar em torno de &lt;strong&gt;2 diluições em 3 meses&lt;/strong&gt; (1:32 para 1:8) e &lt;strong&gt;3 diluições em 6 meses&lt;/strong&gt; (1:32 para 1:4). Se os títulos se mantiverem baixos e estáveis em duas oportunidades, após 2 anos, pode-se dar alta.&lt;/p&gt;
-
-&lt;p&gt;A elevação de títulos dos testes não treponêmicos em duas diluições (ex.: de 1:16 para 1:64), em relação ao último exame realizado, indica reinfecção e um novo tratamento deve ser iniciado.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Protocolo azul MS IST &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Ciclo menstrual</title><link href="https://canalionico.github.io/resumos/ginecologia/ciclo-menstrual.html" rel="alternate" type="text/html" title="Ciclo menstrual" /><published>2019-03-31T00:00:00-03:00</published><updated>2019-03-31T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/ginecologia/ciclo-menstrual</id><content type="html" xml:base="https://canalionico.github.io/resumos/ginecologia/ciclo-menstrual.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#anatomia-do-sistema-reprodutor-feminino&quot; id=&quot;markdown-toc-anatomia-do-sistema-reprodutor-feminino&quot;&gt;Anatomia do sistema reprodutor feminino&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hormônios-femininos&quot; id=&quot;markdown-toc-hormônios-femininos&quot;&gt;Hormônios femininos&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#estereidogênese-ovariana&quot; id=&quot;markdown-toc-estereidogênese-ovariana&quot;&gt;Estereidogênese ovariana&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#o-ciclo&quot; id=&quot;markdown-toc-o-ciclo&quot;&gt;O ciclo&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-folicular&quot; id=&quot;markdown-toc-fase-folicular&quot;&gt;Fase folicular&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ovulação&quot; id=&quot;markdown-toc-ovulação&quot;&gt;Ovulação&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-lútea&quot; id=&quot;markdown-toc-fase-lútea&quot;&gt;Fase lútea&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#modificações-em-órgãos-alvo&quot; id=&quot;markdown-toc-modificações-em-órgãos-alvo&quot;&gt;Modificações em órgãos alvo&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#alterações-do-endométrio&quot; id=&quot;markdown-toc-alterações-do-endométrio&quot;&gt;Alterações do endométrio&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Fase 1: preparação do corpo da mulher para a gravidez&lt;/p&gt;
-
-&lt;p&gt;Fase 2: o período de gravidez&lt;/p&gt;
-
-&lt;h2 id=&quot;anatomia-do-sistema-reprodutor-feminino&quot;&gt;Anatomia do sistema reprodutor feminino&lt;/h2&gt;
-
-&lt;p&gt;A reprodução se inicia com o desenvolvimento dos óvulos nos ovários até que, no meio de ciclo, um único óvulo é expelido para o abdomen, indo em direção a uma das duas trompas de Falópio até chegar no útero.&lt;/p&gt;
-
-&lt;p&gt;Na verdade, o óvulo só se forma se houver uma fecundação com um espermatozoide.&lt;/p&gt;
-
-&lt;p&gt;O oócito sofre os processos da oogênese.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Folículo primordial:&lt;/strong&gt; como é chamado um óvulo, ainda imaturo, circundado por camadas de células da granulosa.&lt;/p&gt;
-
-&lt;p&gt;O folículo primordial ainda precisa sofrer mais duas divisões para que atinja a sua maturidade e possa ser fertilizado.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;As oogônias no ovário embrionário completam a replicação &lt;strong&gt;mitótica&lt;/strong&gt; e a &lt;strong&gt;primeira fase da meiose&lt;/strong&gt; no quinto mês de desenvolvimento fetal.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nessa época já é determinado o número total de oócitos primários que a mulher adulta terá. Algo em torno de &lt;em&gt;1 a 2 milhões&lt;/em&gt;. Mas a maioria deles não se tornaram maduros e irão degenerar.&lt;/p&gt;
-
-&lt;p&gt;Na puberdade, ocorre a primeira divisão meiótica do oócito. Este se divide num oócito secundário (célula grande) e num corpo polar (célula pequena que depois se desintegra).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O óvulo é submetido a uma segunda divisão meiótica e, após a separação das cromátides irmãs, ocorre uma pausa na meiose. Se o óvulo for fertilizado, ocorre o estágio final da meiose, e as cromátides irmãs do óvulo convertem-se em células separadas.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;hormônios-femininos&quot;&gt;Hormônios femininos&lt;/h2&gt;
-
-&lt;p&gt;São três os hormônios principais:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;GnRH:&lt;/strong&gt; hormônio liberador de gonadotropina, liberado pelo hipótalamo em padrão pulsatil a cada 1-4h;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;FSH&lt;/strong&gt; (hormônio foliculoestimulante) e &lt;strong&gt;LSH&lt;/strong&gt; (hormônio luteinizante). Ambos são secretados com o estímulo do GnRH do hipotálamo. E ambos são da hipófise anterior.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estrogênio&lt;/strong&gt; e &lt;strong&gt;Progesterona&lt;/strong&gt;, ambos hormônios ovarianos secretados em resposta ao FSH e LH.
-    &lt;ul&gt;
-      &lt;li&gt;A progesterona exerce um feed-back negativo na liberação de GnRH no hipotálamo e no LH e FSH na hipófise.&lt;/li&gt;
-      &lt;li&gt;Já o estradiol, quando em altas concentrações (&amp;gt;200pg/mL), exerce u feed-back positivo no FSH e LH, fundamental para ocorrência do pico hormonal no meio do ciclo.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Na ausência do FSH e LH os ovários simplesmente ficam inativos. O que acontece na infância. Na puberdade (entre os 9 e 12 anos), a hipófise começa a secretar cada vez mais FSH e LH, dando inicial à vida menstrual nas meninas, com o marco inicial da menarca (entre os 11 e 15 anos).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/ciclo-menstrual/horm.png&quot; alt=&quot;Nível de hormônios ao longo do ciclo menstrual&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;estereidogênese-ovariana&quot;&gt;Estereidogênese ovariana&lt;/h3&gt;
-&lt;p&gt;Os ovários podem sintetizar as três categorias de esteróides sexuais:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Androgênios&lt;/li&gt;
-  &lt;li&gt;Estreogênios&lt;/li&gt;
-  &lt;li&gt;Progestagênios&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;A produção se inicia com a conversão do colesterol em pregnenolona nas células da teca.
-    &lt;ul&gt;
-      &lt;li&gt;Esse é um dos passos limitantes da síntese&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A partir da pregnelonona surgem duas vias:
-    &lt;ul&gt;
-      &lt;li&gt;Via delta 4: síntese de progesterona. Ocorre na fase periovulatória (por isso a progesterona é o hormônio predominante na fase lútea);&lt;/li&gt;
-      &lt;li&gt;Via delta 5: não envolve a progesterona. É a via preferencial durante a fase folicular;
-        &lt;ul&gt;
-          &lt;li&gt;Formação de adrogênios que se difundem para dentro das células da granulosa onde ocorre ação da &lt;strong&gt;enzima aromatase&lt;/strong&gt; que converte-os em &lt;strong&gt;estrogênios&lt;/strong&gt;.
-            &lt;ul&gt;
-              &lt;li&gt;Testosterona convertida em estradiol (principal)&lt;/li&gt;
-              &lt;li&gt;Androstenediona convertida em estrona&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;o-ciclo&quot;&gt;O ciclo&lt;/h2&gt;
-
-&lt;p&gt;O ciclo menstrual feminino dura em média 28 dias, mas pode ir de 20 a 45 dependendo da mulher.&lt;/p&gt;
-
-&lt;p&gt;Com antecedência, o endométrio do útero começa a ser preparado para receber o óvulo fertilizado para a implantação (nidação).&lt;/p&gt;
-
-&lt;h3 id=&quot;fase-folicular&quot;&gt;Fase folicular&lt;/h3&gt;
-&lt;p&gt;Corresponde à &lt;strong&gt;fase proliferativa&lt;/strong&gt; do endométrio.&lt;/p&gt;
-
-&lt;p&gt;Tudo começa com um folículo primordial composto por um ovócito estacionado na prófase I da meiose, circundado por uma camada única de células da granulosa.&lt;/p&gt;
-
-&lt;p&gt;Grupos de folículos (coortes) estão em constante desenvolvimento e atresia, até mesmo durante a gestação, num evento que só se encerra após a menopausa. No inicio do ciclo menstrual, o pico de FSH “salva” uma coorte da atresia  e permite que continuem o seu desenvolvimento.&lt;/p&gt;
-
-&lt;p&gt;Com o desenvolvimento, o folículo já possui diversas camadas da granulosa, um ovócito aumentado e a teca diferenciada, passando a se chamar &lt;strong&gt;folículo pré-antral&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ações do FSH e estrogênio sobre o folículo “recrutado”:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Induz a multiplicação das células da granulosa;&lt;/li&gt;
-  &lt;li&gt;Aumenta os receptores para o próprio FSH;&lt;/li&gt;
-  &lt;li&gt;Promove a conversão dos androgênios a estrogênios através da estimulação da enzima aromatase;&lt;/li&gt;
-  &lt;li&gt;Promove a produção do fluido folicular entre as células da granulosa, dando origem à cavidade denominada antro.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Por volta do 5-7 dia ocorre a seleção do folículo dominante. Os demais folículos sofrem em atresia. Essa etapa ocorre devido à redução dos níveis de FSH, apenas o folículo com o maior número de receptores para o hormônio consegue manter o seu desenvolvimento (acompanhar a explicação olhando o gráfico dos hormônios). (Algumas discussões sobre o papel da &lt;em&gt;inibina&lt;/em&gt; nesta etapa)&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;E seguida, os níveis de estrogênio começam a aumentar e exercer o &lt;em&gt;feed-back&lt;/em&gt; positivo sobre o LH.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/ciclo-menstrual/fase-folicular.png&quot; alt=&quot;Fase folicular&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/ciclo-menstrual/foliculo.png&quot; alt=&quot;Microscopia óptica de um folículo ovariano&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ovulação&quot;&gt;Ovulação&lt;/h3&gt;
-&lt;p&gt;Costuma ocorrer em torno de 14 dias após o início menstruação. Nessa fase ocorre um pico de LH, necessário para a ovulação, aumentando de 6 a 10 vezes.&lt;/p&gt;
-
-&lt;p&gt;Vários fenômenos concatenados, mediados pelo LH, FSH e progesterona são necessários para uma adequada ovulação:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Aumento do volume do fluido folicular, responsável pelo aumento da pressão no interior
-do folículo e pela liberação do óvulo do cúmulus ooforus.&lt;/li&gt;
-  &lt;li&gt;Aumento da concentração das prostaglandinas, responsável pela contratilidade da musculatura da teca interna.&lt;/li&gt;
-  &lt;li&gt;Elevação da concentração de enzimas proteolíticas (plasmina e colagenase), que atuam na digestão da matriz protéica da parede folicular.&lt;/li&gt;
-  &lt;li&gt;Conclusão da meiose do ovócito, dando origem ao ovócito II e corpo polar.&lt;/li&gt;
-  &lt;li&gt;Incremento da concentração de androgênios, pela ação do LH na esteroidogênese, que contribui para a atresia dos demais folículos e para a exacerbação da libido durante a fase
-fértil.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;fase-lútea&quot;&gt;Fase lútea&lt;/h3&gt;
-&lt;p&gt;Fase &lt;strong&gt;secretora&lt;/strong&gt; do endométrio.&lt;/p&gt;
-
-&lt;p&gt;Após a ovulação, o envoltório do folículo (composto de granulosa e teca), passa a captar lipídios e um pigmento amarelado, a luteína, passando a ser chamado de &lt;strong&gt;corpo lúteo&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Nessa fase ocorre a mudança da via &lt;em&gt;Delta 5&lt;/em&gt; para a via &lt;em&gt;Delta 4&lt;/em&gt; da esteroidogênese, permitindo a secreção de progesterona, o hormônio que vai dominar na fase lútea.&lt;/p&gt;
-
-&lt;p&gt;Além disso, o corpo lúteo é capaz de secretar estrogênio, androgênio e inibina que mantêm as gonadotrofinas hipofisárias em níveis baixos durante toda a fase lútea, impedindo o desenvolvimento de novos folículos.&lt;/p&gt;
-
-&lt;p&gt;Ocorrendo a fecundação, o trofoblasto do ovo em desenvolvimento secreta hormônio
-gonadotrófico coriônico humano (hCG) que mantém o corpo lúteo em funcionamento durante o primeiro trimestre da gravidez. Caso contrário, a luteólise ocorre invariavelmente por mecanismo ainda não esclarecido.&lt;/p&gt;
-
-&lt;p&gt;Ocorrendo a regressão do corpo lúteo, observa-se redução dos níveis circulantes de estrogênio, progesterona e inibina. Há liberação do retrocontrole negativo do FSH que inicia seu pico do início da fase folicular, recomeçando todo o processo.&lt;/p&gt;
-
-&lt;h2 id=&quot;modificações-em-órgãos-alvo&quot;&gt;Modificações em órgãos alvo&lt;/h2&gt;
-&lt;p&gt;O muco cervical modifica-se marcadamente durante o ciclo menstrual. Os níveis crescentes de estrogênio durante a fase folicular elevam progressivamente a quantidade de muco secretada, bem como aumentam a sua transparência e filância, de tal forma que na fase pré-ovulatória, é possível estirar o muco em fios que medem mais de 7 cm.&lt;/p&gt;
-
-&lt;p&gt;No período do pico de secreção estrogênica observa-se ainda, ao exame especular, a abertura
-do orifício externo do colo uterino, indicando a fase mais fértil da mulher.&lt;/p&gt;
-
-&lt;p&gt;Essas alterações se revertem abruptamente após a ovulação. O muco se torna mais escasso, viscoso, esbranquiçado, perde a sua filância e passa a funcionar como um tampão mucoso cervical.&lt;/p&gt;
-
-&lt;p&gt;Nas trompas, observam-se alterações na motilidade da musculatura lisa e na movimentação ciliar. Sob o estímulo estrogênico da primeira fase, observam-se movimentos peristálticos no sentido do útero para as fímbrias, acompanhados pelos movimentos ciliares no mesmo sentido10. Esse fenômeno contribui para o transporte dos
-espermatozóides do colo uterino para a ampola tubária. Passada o ovulação, a progesterona reverte o efeito estrogênico, invertendo o sentido da movimentação.&lt;/p&gt;
-
-&lt;h3 id=&quot;alterações-do-endométrio&quot;&gt;Alterações do endométrio&lt;/h3&gt;
-&lt;p&gt;É no endométrio, entretanto, que encontramos as modificações mais impressionantes em resposta aos esteróides ovarianos.&lt;/p&gt;
-
-&lt;p&gt;A fase folicular ovariana, caracterizada pelos níveis crescentes de estrogênio circulante determina no endométrio a fase proliferativa, enquanto que a fase lútea corresponde à fase secretora endometrial, em resposta aos níveis elevados de progesterona.&lt;/p&gt;
-
-&lt;p&gt;No pós-mênstruo imediato o endométrio tem aproximadamente 1 mm de espessura, sendo composto quase exclusivamente pela camada
-basal que contém o coto das glândulas endometriais e a base das arteríolas e vênulas espiraladas.&lt;/p&gt;
-
-&lt;p&gt;Durante a fase proliferativa, tanto as glândulas quanto os vasos e o estroma endometrial experimentam uma multiplicação celular acelerada, crescem paralelamente e fazem com que o endométrio atinja uma espessura de 5 mm.&lt;/p&gt;
-
-&lt;p&gt;Aproximadamente dois dias após a ovulação, já se percebem no endométrio os primeiros sinais do estímulo progestacional. Aparecem vacúolos ricos em glicogênio na
-base das células glandulares que deslocam o núcleo para o seu ápice. Em torno do 4o dia
-pós-ovulatório os vacúolos migram para o ápice das células, e no 6o dia se rompem, liberando a sua secreção para o interior das glândulas. O estroma desenvolve um edema entre o 6o e o 8o dia, atingindo, então, sua espessura máxima em torno de 8 a 9 mm.&lt;/p&gt;
-
-&lt;p&gt;A partir do 13o dia, com a queda dos níveis do estrogênio e progesterona, ocorre a reabsorção do estroma, redução da espessura endometrial e conseqüentemente aumento da tortuosidade das glândulas e vasos. Mais tortuosos, os vasos se acotovelam e levam a uma isquemia endometrial. Aparecem polimorfonucleares, conhecidos como granulócitos endometriais no estroma. A queda da progesterona provoca liberação de prostaglandinas endometriais, em particular a PGF 2α, que induz a vasoconstricção das arteríolas
-espiraladas, aumentando ainda mais a isquemia. Abertura de anastomoses arterio-venosas na basal do endométrio são mais um fator que contribui para isquemia endometrial. Assim, através de um mecanismo semelhante a um infarto hemorrágico, a parede das arteríolas bem como o toda a camada funcional degenera, se rompe e é eliminada através do canal cervical configurando o fluxo menstrual. A basal, nutrida pela arteríolas retas, se mantém
-íntegra e serve como ponto de partida para a regeneração endometrial.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Livro de GO UPE &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Glomerulopatias</title><link href="https://canalionico.github.io/resumos/nefrologia/glomerulopatias.html" rel="alternate" type="text/html" title="Glomerulopatias" /><published>2019-03-31T00:00:00-03:00</published><updated>2019-03-31T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/nefrologia/glomerulopatias</id><content type="html" xml:base="https://canalionico.github.io/resumos/nefrologia/glomerulopatias.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#síndrome-nefrótica&quot; id=&quot;markdown-toc-síndrome-nefrótica&quot;&gt;Síndrome nefrótica&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#síndrome-nefrítica&quot; id=&quot;markdown-toc-síndrome-nefrítica&quot;&gt;Síndrome nefrítica&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia-das-glomerulonefrites&quot; id=&quot;markdown-toc-fisiopatologia-das-glomerulonefrites&quot;&gt;Fisiopatologia das glomerulonefrites&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#proteinúria&quot; id=&quot;markdown-toc-proteinúria&quot;&gt;Proteinúria:&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#queda-da-tfg&quot; id=&quot;markdown-toc-queda-da-tfg&quot;&gt;Queda da TFG&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hematúria&quot; id=&quot;markdown-toc-hematúria&quot;&gt;Hematúria&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#retenção-de-sódio&quot; id=&quot;markdown-toc-retenção-de-sódio&quot;&gt;Retenção de sódio&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#alterações-metabólicas&quot; id=&quot;markdown-toc-alterações-metabólicas&quot;&gt;Alterações metabólicas&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento-inespecífico&quot; id=&quot;markdown-toc-tratamento-inespecífico&quot;&gt;Tratamento inespecífico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#glomerulonefrites-primárias&quot; id=&quot;markdown-toc-glomerulonefrites-primárias&quot;&gt;Glomerulonefrites primárias&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#glomerulonefrite-pós-esteptocócica&quot; id=&quot;markdown-toc-glomerulonefrite-pós-esteptocócica&quot;&gt;Glomerulonefrite pós-esteptocócica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#glomerulonefrite-crescêntica&quot; id=&quot;markdown-toc-glomerulonefrite-crescêntica&quot;&gt;Glomerulonefrite crescêntica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#nefropatia-por-iga&quot; id=&quot;markdown-toc-nefropatia-por-iga&quot;&gt;Nefropatia por IgA&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#glomerulonefrites-por-lesões-mínima&quot; id=&quot;markdown-toc-glomerulonefrites-por-lesões-mínima&quot;&gt;Glomerulonefrites por lesões mínima&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#glomerulonefrite-membranoproliferativa-gnmp&quot; id=&quot;markdown-toc-glomerulonefrite-membranoproliferativa-gnmp&quot;&gt;Glomerulonefrite membranoproliferativa (GNMP)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#glomerulosclerose-focal-e-segmentar&quot; id=&quot;markdown-toc-glomerulosclerose-focal-e-segmentar&quot;&gt;Glomerulosclerose focal e segmentar&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#glomerulonefrite-membranosa&quot; id=&quot;markdown-toc-glomerulonefrite-membranosa&quot;&gt;Glomerulonefrite membranosa&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#glomerulonefrites-secundárias&quot; id=&quot;markdown-toc-glomerulonefrites-secundárias&quot;&gt;Glomerulonefrites secundárias&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#nefrite-lúpica&quot; id=&quot;markdown-toc-nefrite-lúpica&quot;&gt;Nefrite lúpica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#infecção-por-vírus-c&quot; id=&quot;markdown-toc-infecção-por-vírus-c&quot;&gt;Infecção por Vírus C&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#infecção-por-vírus-b&quot; id=&quot;markdown-toc-infecção-por-vírus-b&quot;&gt;Infecção por vírus B&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#nefropatia-do-hiv&quot; id=&quot;markdown-toc-nefropatia-do-hiv&quot;&gt;Nefropatia do HIV&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#nefropatia-da-esquistossomose&quot; id=&quot;markdown-toc-nefropatia-da-esquistossomose&quot;&gt;Nefropatia da esquistossomose&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As glomerulonefrites são classificadas de acordo com a presença ou não de doença sistêmica. Quando aparecem isoladamente, são chamadas de &lt;strong&gt;primárias&lt;/strong&gt; e quando estão associadas a outras doenças sistêmicas são chamadas de &lt;strong&gt;secundárias&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Consequências básicas da agressão glomerular:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Proteinúria&lt;/li&gt;
-  &lt;li&gt;Hematúria&lt;/li&gt;
-  &lt;li&gt;Queda da TFG&lt;/li&gt;
-  &lt;li&gt;Retenção de sódio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O modo em que se dão estas agressões pode originar as seguintes síndromes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Síndrome nefrótica&lt;/li&gt;
-  &lt;li&gt;Síndrme nefrítica&lt;/li&gt;
-  &lt;li&gt;Síndrome não-nefrótica&lt;/li&gt;
-  &lt;li&gt;Síndrome não-nefrítica&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;síndrome-nefrótica&quot;&gt;Síndrome nefrótica&lt;/h2&gt;
-&lt;p&gt;É caracterizada pela &lt;strong&gt;proteinúria de 24h &amp;gt; 3,5g&lt;/strong&gt;. E esta proteinúria pode levar ao aparecimento de:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hipoalbuminemia&lt;/li&gt;
-  &lt;li&gt;Hipercolesterolemia&lt;/li&gt;
-  &lt;li&gt;Edema&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;síndrome-nefrítica&quot;&gt;Síndrome nefrítica&lt;/h2&gt;
-&lt;p&gt;É o aparecimento súbito de&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Edema&lt;/li&gt;
-  &lt;li&gt;Hipertensão arterial&lt;/li&gt;
-  &lt;li&gt;Hematúria (geralmente macroscópica)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fisiopatologia-das-glomerulonefrites&quot;&gt;Fisiopatologia das glomerulonefrites&lt;/h2&gt;
-&lt;h3 id=&quot;proteinúria&quot;&gt;Proteinúria:&lt;/h3&gt;
-&lt;p&gt;A membrana basal glomerular possui carga elétrica negativa, muitos poros pequenos (discriminantes) e o poucos poros grandes (não-discriminantes). Dessa forma, a membrana é altamente permeável à agua e pequenas moleculas (como uŕeia, creatina, glicose) e praticamente impermeável a moléculas grandes (como imunoglobulinas).&lt;/p&gt;
-
-&lt;p&gt;Nas moléculas de tamanho intermediário, a carga elétrica vai ter papel importante na determinação da permeabilidade. A albumina por exemplo, passaria pela membrana pelo seu tamanho, mas isso não acontece devido à repulsão de sua carga negativa com a carga da membrana basal.&lt;/p&gt;
-
-&lt;p&gt;Nas glomerulopatias ocorre perda das cargas negativas e aumento da densidade de poros não discriminantes. Tudo isso acaba levando a maior proteinúria.&lt;/p&gt;
-
-&lt;p&gt;Além disso, a maior parte das glomerulonefrites são mediadas pelo
-sistema imune, quer pela deposição de imunocomplexos circulantes, quer pela reação antígeno-anticorpo in situ. Essas reações ativam o sistema complemento, o que, direta ou indiretamente, leva ao aumento de permeabilidade da membrana basal glomerular, resultando em proteinúria.&lt;/p&gt;
-
-&lt;h3 id=&quot;queda-da-tfg&quot;&gt;Queda da TFG&lt;/h3&gt;
-&lt;p&gt;A filtração glomerular depende de:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Pressão intraglomerular&lt;/li&gt;
-  &lt;li&gt;Coeficiente de permeabilidade da membrana glomerular&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Quando há aumento da pressão hidrostática e queda do coeficiente, ocorre a redução da TFG.&lt;/p&gt;
-
-&lt;h3 id=&quot;hematúria&quot;&gt;Hematúria&lt;/h3&gt;
-&lt;p&gt;No decorrer da agressão renal ocorre solução de continuidade na membrana basal através da qual hemácias conseguem passar para o espaço de Bowman por &lt;strong&gt;diapedese&lt;/strong&gt;. Durante a diapedese as hemácias sofrem mudanças em sua morfologia, o que explica os achados miscroscópicos  de &lt;strong&gt;hemácias dismórficas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;retenção-de-sódio&quot;&gt;Retenção de sódio&lt;/h3&gt;
-&lt;p&gt;Se manifesta clinicamente por &lt;strong&gt;edema&lt;/strong&gt; e &lt;strong&gt;hipertensão arterial&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Formação do edema:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Nos pacientes portadores de nefropatia sem hipoalbuminemia:&lt;/strong&gt; ele tem sido imputado à retenção primária de sódio pelo rim lesado, com aumento da volemia, aumento da pressão hidrostática intravascular e extravasamento de líquido para o interstício, com conseqüente aparecimento de edema.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Nos pacientes onde ocorre hipoalbuminemia:&lt;/strong&gt; esta tem sido responsabilizada pela formação do edema.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/glomerulopatias/p.png&quot; alt=&quot;pressões do sangue&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;alterações-metabólicas&quot;&gt;Alterações metabólicas&lt;/h3&gt;
-&lt;p&gt;O nível de albumina sérica do paciente com síndrome nefrótica é resultado de um balanço onde os fatores mais importantes são: &lt;strong&gt;a intensidade e a duração da perda urinária e a síntese hepática aumentada&lt;/strong&gt;. Mas o catabolismo da albumina também contribui para a hipoalbuminemia. E quando a taxa de filtração da albumina cresce a sua reabsorção também aumenta, como a albumina reabsorvida é logo catabolizada, isso contribui para o efeito.&lt;/p&gt;
-
-&lt;p&gt;As alterações lipídicas encontradas na &lt;strong&gt;síndrome nefrótica&lt;/strong&gt; relacionam-se diretamente com os níveis de albumina plasmática. A hipoalbuminemia é um estímulo para o aumento da síntese proteica pelo fígado, o que leva à maior síntese de lipoproteínas de baixa densidade e de muito baixa densidade. Como as primeiras são carreadoras de colesterol e as segundas de triglicérides, ocorre hipercolesterolemia e hipertrigliceridemia. Acresce-se a isso o fato de que hipoalbuminemias muito intensas inibem a lipólise.&lt;/p&gt;
-
-&lt;p&gt;O encontro de &lt;strong&gt;hipocalcemia&lt;/strong&gt; não é incomum na síndrome nefrótica. Como parte do cálcio plasmático está ligada à albumina, esta pode ser explicada parcialmente pela queda da concentração plasmática desta proteína.&lt;/p&gt;
-
-&lt;p&gt;Outras complicações relativamente comuns na síndrome nefrótica, como tromboses ou infecções repetidas, são decorrentes, pelo menos parcialmente, da perda urinária de fatores antitrombóticos e de imunoglobulinas, respectivamente.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento-inespecífico&quot;&gt;Tratamento inespecífico&lt;/h2&gt;
-&lt;p&gt;Como foi dito anteriormente, um dos possíveis mecanismos que contribuem na gênese da proteinúria é o aumento da pressão intraglomerular. Os &lt;strong&gt;antiinflamatórios não-hormonais&lt;/strong&gt; inibem a síntese de prostaglandinas, que são vasodilatadores da arteríola aferente, promovendo vasoconstrição desta arteríola, com
-consequente diminuição da pressão intraglomerular e da proteinúria.&lt;/p&gt;
-
-&lt;p&gt;Nos glomérulos, a angiotensina II induz vasoconstrição da arteríola eferente e das células mesangiais, levando ao aumento da pressão intraglomerular; portanto, quando a
-sua síntese é inibida, ocorre diminuição desta pressão. Por esse motivo, os &lt;strong&gt;inibidores da enzima de conversão da angiotensina I&lt;/strong&gt; têm sido utilizados como droga antiproteinúrica, com bons resultados.&lt;/p&gt;
-
-&lt;p&gt;Outro modo de se tentar diminuir a pressão intraglomerular, e com isso a proteinúria, é o uso de &lt;strong&gt;dietas hipoprotéicas&lt;/strong&gt;, uma vez que essa dieta promove a vasoconstrição da
-arteríola aferente. A sua eficácia na redução da proteinúria a longo prazo, em seres humanos, é ainda discutível.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/glomerulopatias/art.jpg&quot; alt=&quot;pressões do sangue&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O tratamento do edema deve ser feito preferencialmente com &lt;strong&gt;diuréticos de alça&lt;/strong&gt;. Estes são substâncias catiônicas, de pequeno peso molecular, que após atingirem a corrente sanguínea se ligam à albumina. No rim eles são captados pelas células do túbulo proximal e secretados para a luz
-tubular, onde vão agir.&lt;/p&gt;
-
-&lt;p&gt;Controle da hipertensão arterial exerce influência positiva na evolução da nefropatia, independentemente do &lt;strong&gt;anti-hipertensivo&lt;/strong&gt; utilizado. Assim, o controle pressórico rigoroso deve ser um dos objetivos do tratamento.&lt;/p&gt;
-
-&lt;p&gt;A hipertrigliceridemia e a hipercolesterolemia são fatores de risco para doença cardiovascular em indivíduos
-normais. Pacientes com síndrome nefrótica apresentam maior risco de infarto agudo do miocárdio ou óbito devido a evento coronariano. O uso de &lt;strong&gt;drogas antilipêmicas&lt;/strong&gt; nestes casos pode ser benéfico, embora ainda discutível.&lt;/p&gt;
-
-&lt;p&gt;Apesar do tratamento, uma certa percentagem dos pacientes portadora de glomerulonefrite evolui para insuficiência renal crônica terminal. Nestes casos a principal terapêutica preconizada é o &lt;strong&gt;transplante renal&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;p&gt;A primeira queixa costuma ser o edema, acompanhado ou não de hipertensão e hematúria. Pode ser relatados também sinais e sintomas de IC secundária à hipervolemia (como dispnéia, hepatomegalia, estase jugular) e de uremia (perda de peso, fraqueza, anorexia, anemia, vômitos, etc.).&lt;/p&gt;
-
-&lt;p&gt;O diagnóstico de lesão glomerular se faz principalmente através do &lt;strong&gt;exame de urina&lt;/strong&gt;. Assim, &lt;strong&gt;proteinúria&lt;/strong&gt; é uma alteração praticamente obrigatória em todo paciente com glomerulopatia. &lt;strong&gt;Cilindros hemáticos&lt;/strong&gt; e &lt;strong&gt;hemácias dismórficas&lt;/strong&gt;, quando presentes, são altamente sugestivos de lesão glomerular.&lt;/p&gt;
-
-&lt;h2 id=&quot;glomerulonefrites-primárias&quot;&gt;Glomerulonefrites primárias&lt;/h2&gt;
-&lt;h3 id=&quot;glomerulonefrite-pós-esteptocócica&quot;&gt;Glomerulonefrite pós-esteptocócica&lt;/h3&gt;
-&lt;p&gt;Acomete mais &lt;strong&gt;meninos&lt;/strong&gt; entre os 2-6 anos. Geralmente o quadro clínico é precedido por &lt;strong&gt;escarlatina&lt;/strong&gt; ou &lt;strong&gt;infecção de vias aéreas superiores&lt;/strong&gt; provocada por estreptococos.&lt;/p&gt;
-
-&lt;p&gt;A apresentação clínica é bastante variável, sendo descritos desde quadros totalmente assintomáticos com discretas alterações urinárias, até pacientes com insuficiência
-renal grave.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aparecimento súbito de &lt;strong&gt;edema&lt;/strong&gt; (geralmente pré-tibial e/ou palpebral)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hematúria&lt;/strong&gt; macroscópica&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hipertensão arterial&lt;/strong&gt; (geralmente leve)&lt;/li&gt;
-  &lt;li&gt;Dor lombar (evetualmente)&lt;/li&gt;
-  &lt;li&gt;O exame de urina revela: hematúria, com hemácias dismórficas, cilindros hemáticos, leucocitúria e cilindros leucocitários. A proteinúria de 24 horas em 90% dos casos é menor que 3 g.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;MO:&lt;/strong&gt; Lesão glomerular homogeneamente difusa, com exsudação leucocitária e hipercelularidade, e presença de depósitos subepiteliais (&lt;em&gt;humps&lt;/em&gt;) e mesangiais.&lt;/li&gt;
-  &lt;li&gt;O &lt;strong&gt;tratamento é sintomático&lt;/strong&gt; (como dieta hipossódica e diuréticos de alça), não sendo
-indicada terapêutica profilática posteriormente&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A maior parte dos pacientes apresenta remissão dos sinais e sintomas duas a três semanas após o início do quadro. &lt;strong&gt;Raramente deixa sequelas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;glomerulonefrite-crescêntica&quot;&gt;Glomerulonefrite crescêntica&lt;/h3&gt;
-&lt;p&gt;Também chamada de &lt;em&gt;rapidamente progressiva&lt;/em&gt;. Dependendo da etiopatogenia é dividida em 3 tipos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;No tipo I a lesão glomerular é mediada por anticorpo antimembrana basal;&lt;/li&gt;
-  &lt;li&gt;no tipo II, por deposição de imunocomplexo circulante;&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;no tipo III (“pauciimune”) a agressão é conseqüente a uma reação de hipersensibilidade celular.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Instalação aguda&lt;/li&gt;
-  &lt;li&gt;Idade:
-    &lt;ul&gt;
-      &lt;li&gt;Tipo I, jovens;&lt;/li&gt;
-      &lt;li&gt;II e III, meia idade&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sexo: Tipo III, predominância no sexo
-masculino&lt;/li&gt;
-  &lt;li&gt;Clínica:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Edema&lt;/strong&gt;,&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Hematúria&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;Oligúria acentuada ou anúria&lt;/li&gt;
-      &lt;li&gt;sinais gerais
-inespecíficos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dados laboratoriais: &lt;strong&gt;Aumento rápido da creatinina plasmática&lt;/strong&gt;, hematúria e
-proteinúria&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;MO:&lt;/strong&gt; Presença de crescentes (formas de meia lua) celulares no espaço de Bowman&lt;/li&gt;
-  &lt;li&gt;MIF: Padrão linear (tipo I); padrão granular (tipo II) ou ausência de depósitos
-fluorescentes (tipo III)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tratamento:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Tipo I, plasmaférese, corticóide e drogas citotóxicas;&lt;/li&gt;
-      &lt;li&gt;Tipo II, pulso de metilprednisolona seguido de prednisona oral;&lt;/li&gt;
-      &lt;li&gt;Tipo III, pulso de ciclofosfamida&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;nefropatia-por-iga&quot;&gt;Nefropatia por IgA&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Maior prevalência na Ásia e Europa&lt;/li&gt;
-  &lt;li&gt;Acomete pacientes jovens, geralmente do sexo masculino (3:1)&lt;/li&gt;
-  &lt;li&gt;Secundária à deposição renal de imunocomplexos circulantes&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Apresentação:&lt;/strong&gt; Surtos de hematúria macro ou microscópica associados a infecções virais do trato respiratório ou a exercício físico&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;MO:&lt;/strong&gt; Variável, com deposição predominante de IgA em mesângio à imunoflorescência&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tratamento:&lt;/strong&gt; Óleo de peixe (?), corticóide (?)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;glomerulonefrites-por-lesões-mínima&quot;&gt;Glomerulonefrites por lesões mínima&lt;/h3&gt;
-&lt;p&gt;Ocorre basicamente perda das cargas negativas da membrana basal, por isso a proteinúria contêm albumina e transferrina (como já explicado na seção de proteinúria).&lt;/p&gt;
-
-&lt;h3 id=&quot;glomerulonefrite-membranoproliferativa-gnmp&quot;&gt;Glomerulonefrite membranoproliferativa (GNMP)&lt;/h3&gt;
-&lt;p&gt;Ocorre pricipalmente aumento dos poros não-discriminantes. Na proteinúria, além de albumina e transferrina, estão presentes também proteínas de maior peso molecular (como imunoglobulinas).&lt;/p&gt;
-
-&lt;h3 id=&quot;glomerulosclerose-focal-e-segmentar&quot;&gt;Glomerulosclerose focal e segmentar&lt;/h3&gt;
-&lt;p&gt;Ocorre pricipalmente aumento dos poros não-discriminantes.&lt;/p&gt;
-
-&lt;h3 id=&quot;glomerulonefrite-membranosa&quot;&gt;Glomerulonefrite membranosa&lt;/h3&gt;
-&lt;p&gt;Ocorre pricipalmente aumento dos poros não-discriminantes.&lt;/p&gt;
-
-&lt;h2 id=&quot;glomerulonefrites-secundárias&quot;&gt;Glomerulonefrites secundárias&lt;/h2&gt;
-&lt;h3 id=&quot;nefrite-lúpica&quot;&gt;Nefrite lúpica&lt;/h3&gt;
-&lt;h3 id=&quot;infecção-por-vírus-c&quot;&gt;Infecção por Vírus C&lt;/h3&gt;
-&lt;h3 id=&quot;infecção-por-vírus-b&quot;&gt;Infecção por vírus B&lt;/h3&gt;
-&lt;h3 id=&quot;nefropatia-do-hiv&quot;&gt;Nefropatia do HIV&lt;/h3&gt;
-&lt;h3 id=&quot;nefropatia-da-esquistossomose&quot;&gt;Nefropatia da esquistossomose&lt;/h3&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Corrimento vaginal</title><link href="https://canalionico.github.io/resumos/ginecologia/corrimento-vaginal.html" rel="alternate" type="text/html" title="Corrimento vaginal" /><published>2019-03-30T00:00:00-03:00</published><updated>2019-03-30T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/ginecologia/corrimento-vaginal</id><content type="html" xml:base="https://canalionico.github.io/resumos/ginecologia/corrimento-vaginal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#vaginose-bacteriana&quot; id=&quot;markdown-toc-vaginose-bacteriana&quot;&gt;Vaginose bacteriana&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#candidíase-vulvovaginal&quot; id=&quot;markdown-toc-candidíase-vulvovaginal&quot;&gt;Candidíase vulvovaginal&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#quadro-clínico-1&quot; id=&quot;markdown-toc-quadro-clínico-1&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#diagnostico&quot; id=&quot;markdown-toc-diagnostico&quot;&gt;Diagnostico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tricomoníase&quot; id=&quot;markdown-toc-tricomoníase&quot;&gt;Tricomoníase&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#quadro-clínico-2&quot; id=&quot;markdown-toc-quadro-clínico-2&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#observações-dos-tratamentos&quot; id=&quot;markdown-toc-observações-dos-tratamentos&quot;&gt;Observações dos tratamentos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O corrimento vaginal é uma síndromepresente em muitas afecções do aparelho genital feminino. Na investigação clínica, a anamnese ginecológica deve ser detalhada, como explicado no resumo de &lt;a href=&quot;https://canalionico.com.br/resumos/ginecologia/semiologia-ginecologica.html&quot;&gt;semiologia ginecologica&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;Todos os casos de corrimento vaginal são consideradas &lt;em&gt;infecções do trato reprodutivo&lt;/em&gt; (ITR), que podem ser DSTs ou não.&lt;/p&gt;
-
-&lt;p&gt;As infecções por &lt;em&gt;C. trachomatis&lt;/em&gt; e &lt;em&gt;N.gonorrhoeae&lt;/em&gt; não costumam causar corrimento.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Os principais agentes etiológicos do corrimento, são:&lt;/p&gt;
-
-&lt;h3 id=&quot;vaginose-bacteriana&quot;&gt;Vaginose bacteriana&lt;/h3&gt;
-&lt;p&gt;Se deve ao crescimento excessivo de bactérias anaeróbias, desencadeado pelo desequilíbrio da microbiota vaginal (redução dos lactobacilos acidófilos) e ….. Os principais agentes é o &lt;em&gt;G. vaginalis&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Acomete cerca de 10-30% das gestantes e 10% das mulheres, podendo ser sintomática.&lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Corrimento vaginal de odor fétido que piora após a relação sexual
-    &lt;ul&gt;
-      &lt;li&gt;O contato com o sêmen de pH mais básico intensifica o odor. Este fenômeno é equivalente a fazer o &lt;em&gt;teste de Whiff&lt;/em&gt;.&lt;/li&gt;
-      &lt;li&gt;De coloração branco-acinzentada, aspecto fluido ou cremoso e, por vezes, bolhoso.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dor à relação sexual, apesar de ser pouco comum.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Muito importante ressaltar que a vaginose bacteriana não é uma DST (não se faz necessário tratar parceiros). Contudo, as relações sexuais desprotegidas facilitam que a mulher predisposta desenvolva esta afecção (pelo mesmo motivo já mencionado e o sêmen ser mais básico de desequilibrar a microbiota vaginal). Além disso, a presença de vaginose também é um fator que aumenta as chances de infecção pelo HIV e outras DSTs em relações desprotegidas.&lt;/p&gt;
-
-&lt;p&gt;O acometimento pela vaginose durante o período gestacional pode estar relacionado a algumas complicações obstétricas, como: ruptura prematura de membrana, prematuridade, endometrite-pós-cesárea e corioamnionite.&lt;sup id=&quot;fnref:1:2&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;A presença de vaginose também aumenta o risco de evolução para DIP após procedimentos invasivos como colocação de DIU, curetagem uterina, biópsias de endometrio, entre outros. A recomendação é tratar a vaginose antes de realizar estes procedimentos.&lt;/p&gt;
-
-&lt;h4 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h4&gt;
-&lt;p&gt;Na suspeita de vaginose bacteriana e para complementar a hipótese clínica, podem ser feitos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Teste de Whiff (teste das aminas): jé explicado no resumo de &lt;a href=&quot;https://canalionico.com.br/resumos/ginecologia/semiologia-ginecologica.html&quot;&gt;semiologia ginecológica&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Medição do pH vaginal: se maior que 4,5 é indicativo de vaginose&lt;/li&gt;
-  &lt;li&gt;Bacterioscopia corada por método de Gram com presença de &lt;em&gt;clue cells&lt;/em&gt; (células epiteliais escamosas de aspecto granular pontilhado e bordas indefinidas cobertas por pequenos e numerosos cocobacilos)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h4&gt;
-&lt;p&gt;O diagnóstico é clínico-laboratorial, podendo ser feito segundo os &lt;em&gt;critérios de Amsel&lt;/em&gt;:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Corrimento vaginal
-    &lt;ul&gt;
-      &lt;li&gt;Odor fétido&lt;/li&gt;
-      &lt;li&gt;Branco-acinzentado&lt;/li&gt;
-      &lt;li&gt;Fluido ou cremoso, as vezes bolhoso&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;pH vaginal &amp;gt; 4,5 (mais básico)&lt;/li&gt;
-  &lt;li&gt;Teste de Whiff positivo&lt;/li&gt;
-  &lt;li&gt;Presença de &lt;em&gt;clue cells&lt;/em&gt; na bacterioscopia corada por Gram&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&quot;tratamento&quot;&gt;Tratamento&lt;sup id=&quot;fnref:1:3&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Primeira opção:
-    &lt;ul&gt;
-      &lt;li&gt;Metronidazol 250mg, VO, 2 comprimidos 2xdia/7dias.&lt;/li&gt;
-      &lt;li&gt;OU&lt;/li&gt;
-      &lt;li&gt;Metronizadol em gel vaginal 100mg/g aplicado à noite por 5 dias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Segunda opção:
-    &lt;ul&gt;
-      &lt;li&gt;Clindamicina 300mg, VO, 2xdia/7dias.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Em gestantes:
-    &lt;ul&gt;
-      &lt;li&gt;Primeiro trimestre: Clindamicina 300mg, VO, 2xdia/7dias&lt;/li&gt;
-      &lt;li&gt;Demais trimestres: Metronidazol 250mg, VO, 1 comp 3xdia/7dias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Em casos recorrentes:
-    &lt;ul&gt;
-      &lt;li&gt;Metronidazol 250mg, VO, 2cp 2xdia/10-14dias&lt;/li&gt;
-      &lt;li&gt;OU&lt;/li&gt;
-      &lt;li&gt;Metronidazol em gel vaginal 100mg/g por via intravaginal, 1xdia/10dias seguido de duas aplicações semanais por 4-6 meses.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Na vaginose não se faz necessário tratar os parceiros sexuais, visto que não se trata de uma DST. Nas puérperas (pós-parto), recomenda-se o mesmo tratamento feito para as gestantes.&lt;/p&gt;
-
-&lt;h3 id=&quot;candidíase-vulvovaginal&quot;&gt;Candidíase vulvovaginal&lt;/h3&gt;
-&lt;p&gt;É a infecção da vulva e vagina causada pelo fungo comensal &lt;em&gt;C. albicans&lt;/em&gt; (mas também pode ser &lt;em&gt;C.tropicalis&lt;/em&gt;, &lt;em&gt;C.glabrata&lt;/em&gt;, entre outros).&lt;/p&gt;
-
-&lt;p&gt;Não existe um consenso exato se a candidíase é uma DST. Uma vez que esse fungo pode habitar de forma comensal a vagina, a transmissão sexual pode não desenvolver a doença. Mesmo assim, a atividade sexual facilita sua ocorrência, o fungo pode penetrar os tecidos após microabrasões causadas durante o ato sexual.&lt;/p&gt;
-
-&lt;h4 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Prurido vulvovaginal (o principal)&lt;/li&gt;
-  &lt;li&gt;Disúria e dispaurenia&lt;/li&gt;
-  &lt;li&gt;Corrimento branco, grumoso e com aspecto caseoso (“leite coalhado”)&lt;/li&gt;
-  &lt;li&gt;Hiperemia&lt;/li&gt;
-  &lt;li&gt;Edema vulvar&lt;/li&gt;
-  &lt;li&gt;Fissura e maceração da vulva&lt;/li&gt;
-  &lt;li&gt;Placas branco-acinzentadas, recobrindo a vagina e colo uterino&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Fatores predisponentes:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gravidez&lt;/li&gt;
-  &lt;li&gt;Diabetes &lt;em&gt;mellitus&lt;/em&gt; (descompensada)&lt;/li&gt;
-  &lt;li&gt;Obesidade&lt;/li&gt;
-  &lt;li&gt;Uso de anticoncepcionais orais&lt;/li&gt;
-  &lt;li&gt;Uso de antibióticos, corticoides, imunossupressores ou quimio/radioterapia&lt;/li&gt;
-  &lt;li&gt;Hábitos de higiene e vesturário que aumentem a umidade e dor local&lt;/li&gt;
-  &lt;li&gt;Contato com substâncias alergênicas e/ou irritantes&lt;/li&gt;
-  &lt;li&gt;Alterações da resposta imunológica&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;diagnostico&quot;&gt;Diagnostico&lt;/h4&gt;
-&lt;p&gt;A candidíase possui um diagnóstico clínico. Mas também pode ser feito um teste de pH vaginal que, resultando em pH &amp;lt; 4,5, é sugestivo desta enfermidade.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Obs:&lt;/strong&gt; O aparecimento na candidíase é comum na gestação devido à modificação do pH vaginal neste período. Inclusive com recidivas.&lt;/p&gt;
-
-&lt;h4 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Primeira opção:
-    &lt;ul&gt;
-      &lt;li&gt;Miconazol creme a 2% por via vaginal, aplicando à noite/7dias&lt;/li&gt;
-      &lt;li&gt;OU&lt;/li&gt;
-      &lt;li&gt;Nistatina 100.000UI uma aplicação vaginal à noite/14dias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Segunda opção:
-    &lt;ul&gt;
-      &lt;li&gt;Fluconazol 150mg, VO, dose única&lt;/li&gt;
-      &lt;li&gt;OU&lt;/li&gt;
-      &lt;li&gt;Itraconazol 100mg, VO 2cp 2xdia/1dia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Em gestantes: somente por via vaginal, o tratamento oral é contraindicado!&lt;/li&gt;
-  &lt;li&gt;Casos recorrentes:
-    &lt;ul&gt;
-      &lt;li&gt;As mesmas opções anterior porém por 14 dias&lt;/li&gt;
-      &lt;li&gt;OU&lt;/li&gt;
-      &lt;li&gt;Fluconazol 150mg, VO 1xdia, dias 1, 4 e 7 seguido de terapia de manutenção com fluconazol 150mg VO 1xsemana/6meses&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Como discutido anteriormente, a candidiase não é necessariamente uma DST. Dessam forma, não se faz necessário o tratamento de parceiros sexuais. Estes só devem ser tratados se forem sintomáticos.&lt;/p&gt;
-
-&lt;h3 id=&quot;tricomoníase&quot;&gt;Tricomoníase&lt;/h3&gt;
-&lt;p&gt;É uma DST causada pelo &lt;em&gt;T. vaginalis&lt;/em&gt;, um protozoário flagelado que tem o colo uterino, vagina e uretra como reservatório. Sua prevalência está entre 10-35%.&lt;/p&gt;
-
-&lt;h4 id=&quot;quadro-clínico-2&quot;&gt;Quadro clínico&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Corrimento abundante, amarelado (esverdeado), bolhoso;&lt;/li&gt;
-  &lt;li&gt;Prurido e/ou irritação vulvar;&lt;/li&gt;
-  &lt;li&gt;Dor pélvica (ocasionalmente);&lt;/li&gt;
-  &lt;li&gt;Sintomas urinários (como disúria e polaciúria);&lt;/li&gt;
-  &lt;li&gt;Hiperemia da mucosa (aspecto de framboesa).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h4&gt;
-&lt;p&gt;Além da clínica, o diagnóstico pode ser feito pela visualização dos protozoários móveis à visualização de material da ectocérvice no exame bacterioscópico a fresco ou por coloração de Gram (também pode ser vista no Giemsa e Papanicolau).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Obs:&lt;/strong&gt; A tricomoníase pode alterar a morfologia celular no exame citopatológico. Por isso, é necessário repetir o exame após o tratamento da doença, para evitar interpretações equivocadas.&lt;/p&gt;
-
-&lt;p&gt;O teste de pH vaginal também pode ser feito. Assim como na vaginose, o pH costuma ser &amp;gt; 4,5.&lt;/p&gt;
-
-&lt;h4 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Primeira opção:
-    &lt;ul&gt;
-      &lt;li&gt;Metronidazol 400mg VO 5cp e dose única&lt;/li&gt;
-      &lt;li&gt;OU&lt;/li&gt;
-      &lt;li&gt;Metronidazol 250mg VO 2cp 2xdia/7dias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Em gestantes:
-    &lt;ul&gt;
-      &lt;li&gt;Metronidazol 400mg VO 5cp dose única&lt;/li&gt;
-      &lt;li&gt;OU&lt;/li&gt;
-      &lt;li&gt;Metronidazol 400mg VO 1cp 2dia/7dias&lt;/li&gt;
-      &lt;li&gt;OU&lt;/li&gt;
-      &lt;li&gt;Metronidazol 250mg VO 1cp 3xdia/7dias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Como é uma DST, os &lt;strong&gt;parceiros devem ser tratados&lt;/strong&gt; com o mesmo esquema. Nas puérperas recomenda-se o mesmo tratamento feito nas gestantes.&lt;/p&gt;
-
-&lt;h2 id=&quot;observações-dos-tratamentos&quot;&gt;Observações dos tratamentos&lt;/h2&gt;
-&lt;p&gt;Durante o uso de metronidazol deve-se evitar o consumo de álcool devido ao “efeito antabuse”: mal-estar, náuseas, tonturas e gosto metálico na boca. E, também, durante o tratamento devem ser suspensas as práticas sexuais.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/corrimento-vaginal/flux.png&quot; alt=&quot;fluxuograma&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de DST, Aids e Hepatites Virais. – Brasília : Ministério da Saúde, 2015. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Doença inflamatória pélvica</title><link href="https://canalionico.github.io/resumos/ginecologia/dip.html" rel="alternate" type="text/html" title="Doença inflamatória pélvica" /><published>2019-03-30T00:00:00-03:00</published><updated>2019-03-30T00:00:00-03:00</updated><id>https://canalionico.github.io/resumos/ginecologia/dipa</id><content type="html" xml:base="https://canalionico.github.io/resumos/ginecologia/dip.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É uma síndrome causada pela ascensão de microrganismos do trato genital inferior para acima do orifício interno do útero. Ou seja, é a infecção do trato reprodutivo superior das mulheres. Pode acometer o endométrio, as trompas de Falópio, os anexos uterinos e/ou estruturas contíguas da pelve.&lt;/p&gt;
-
-&lt;p&gt;Pode ser desencadeada de forma espontânea ou devido à manipulação por procedimentos invasivos como: inserção de DIU, biópsias de endométrio, curetagem, etc.&lt;/p&gt;
-
-&lt;p&gt;A DIP é uma síndrome muito importante devido às suas &lt;strong&gt;sequelas&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Infertilidade por fator tubário (ocorre em 12-50% dos casos e as chances aumentam a cada novo caso de DIP)&lt;/li&gt;
-  &lt;li&gt;Gravidez ectópica (mulheres com um episódio prévio de DIP tem 12-15% de chance de ter gravidez ectópica no futuro)&lt;/li&gt;
-  &lt;li&gt;Dor pélvica crônica (em 18% dos casos&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;Principalmente devido a:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sexualmente transmissíveis (os principais)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;C. trachomatis&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;N. gonorrhoeae&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Bactérias facultativas anaeróbias (menos frequentes)
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;G. vaginalis&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;H. influenza&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;S. agalactiae&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os fatores de risco para DIP são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ISTs prévias ou atuais&lt;/li&gt;
-  &lt;li&gt;Múltiplos parceiros sexuais&lt;/li&gt;
-  &lt;li&gt;Parceiros com uretrite&lt;/li&gt;
-  &lt;li&gt;Inserção de DIU com chance de carrear os agentes etiólogicos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;p&gt;O diagnóstico da DIP se baseia em critérios maiores e menores. Se houverem &lt;strong&gt;3 critérios maiores e mais um menor&lt;/strong&gt; ou &lt;strong&gt;um critério elaborado&lt;/strong&gt; então está feito o diagnóstico.&lt;sup id=&quot;fnref:2:1&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Critérios maiores&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dor no hipogástrio&lt;/li&gt;
-      &lt;li&gt;Dor à palpação dos anexos&lt;/li&gt;
-      &lt;li&gt;Dor à mobilização de colo uterino&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Critérios menores&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Temperatura axilar &amp;gt; 37,5 ° C ou &amp;gt; 38,3 ° C&lt;/li&gt;
-      &lt;li&gt;Conteúdo vaginal ou secreção endocervical anormal&lt;/li&gt;
-      &lt;li&gt;Massa pélvica&lt;/li&gt;
-      &lt;li&gt;Mais de cinco leucócitos por campo de imersão em material de endocérvice&lt;/li&gt;
-      &lt;li&gt;Leucositose em sangue periférico&lt;/li&gt;
-      &lt;li&gt;Proteína C reativa ou velocidade de hemossedimentação (VHS) elevada&lt;/li&gt;
-      &lt;li&gt;Comprovação laboratorial de infecção cervical por gonococo, clamídia ou micoplasmas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Critérios elaborados&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Evidência histopatológica de endometrite&lt;/li&gt;
-      &lt;li&gt;Presença de abscesso tubo-ovariano ou de fundo de saco de Douglas em estudo de imagem&lt;/li&gt;
-      &lt;li&gt;Laparoscopia com evidência de DIP&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Sintomas:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dor em baixo ventre (hipocondrio), costumando ser durante ou logo após a menstruação;&lt;/li&gt;
-  &lt;li&gt;Fluxo menstrual anormal&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Spotting&lt;/em&gt; (sangramento vaginal anormal em pouca quantidade)&lt;/li&gt;
-  &lt;li&gt;Sangramento após o coito&lt;/li&gt;
-  &lt;li&gt;Dispaurinéia&lt;/li&gt;
-  &lt;li&gt;Disúria&lt;/li&gt;
-  &lt;li&gt;Febre pode ocorrer, mas não necessariamente.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/dip/dip-nejm.png&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/resumos/assets/imagens/dip/cilios-dip.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Exame físico:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dor à palpação dos anexos&lt;/li&gt;
-  &lt;li&gt;Dor à mobilização do colo uterino&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Diagnósticos diferenciais:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gravidez ectópica&lt;/li&gt;
-  &lt;li&gt;Apendicite aguda&lt;/li&gt;
-  &lt;li&gt;Infecção do trato urinário&lt;/li&gt;
-  &lt;li&gt;Litíase ureteral&lt;/li&gt;
-  &lt;li&gt;Torção de tumor cístico de ovário&lt;/li&gt;
-  &lt;li&gt;Torção de mioma uterino&lt;/li&gt;
-  &lt;li&gt;Rotura de cisto ovariano&lt;/li&gt;
-  &lt;li&gt;Endometriose (endometrioma roto)&lt;/li&gt;
-  &lt;li&gt;Diverticulite&lt;/li&gt;
-  &lt;li&gt;Entre outros&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Exames laboratoriais:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hemograma&lt;/li&gt;
-  &lt;li&gt;VHS&lt;/li&gt;
-  &lt;li&gt;Proteína C reativa&lt;/li&gt;
-  &lt;li&gt;Exame bacterioscópico para vaginose bacteriana&lt;/li&gt;
-  &lt;li&gt;Cultura de material de endocérvice com antibiograma ou NAAT para &lt;em&gt;N. gonorrhoeae&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;Pesquisa de clamídia no material da endocérvice, da uretra, de laparoscopia ou de punção de saco posterior&lt;/li&gt;
-  &lt;li&gt;Exame qualitativo de urina e urocultura (mais paraa fastar infecção do trato urinário)&lt;/li&gt;
-  &lt;li&gt;Hemocultura&lt;/li&gt;
-  &lt;li&gt;Teste de gravidez (para afastar gravidez ectópica)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Exames de imagem:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A laparoscopia é considerado o método adequado de confirmação do diagóstico. Contudo, devido à sua invasiilidade não é rotineiramente utilizado.&lt;/li&gt;
-  &lt;li&gt;Opta-se então pela aspiração endometrial transcervical para análise histopatológica revelando maior número de neutrofilos&lt;/li&gt;
-  &lt;li&gt;USG transvaginal e pélvica: O principal achado é a presença de uma fina camada líquida preenchendo a trompa, com ou sem a presença de líquido livre na pelve. Pode avaliar as complicações como:
-    &lt;ul&gt;
-      &lt;li&gt;Abcesso tubo-ovariano&lt;/li&gt;
-      &lt;li&gt;Cistos ovarianos&lt;/li&gt;
-      &lt;li&gt;Torção do ovário&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;RNM&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/dip/manejo-dip.png&quot; alt=&quot;Manejo da DIP&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Todas mulheres diagnósticadas com DIP devem ser rastreadas para &lt;em&gt;C. trachomatis&lt;/em&gt; e &lt;em&gt;N. gonorrhoeae&lt;/em&gt;, e testadas para HIV, sífilis e hepatites virais!&lt;sup id=&quot;fnref:2:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;sup id=&quot;fnref:2:3&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
-
-&lt;p&gt;Deve-se iniciar imediatamente a antibioticoterapia nas mulheres jovens, sexualmente ativas, com queixa de desconforto ou dor pélvica, e que preencham os critérios clínicos para DIP. O retardo no tratamento pode acarretar danos irreversíveis no sistema reprodutor feminino.&lt;/p&gt;
-
-&lt;p&gt;A laparotomia está indicada nos casos de massas anexiais não responsivas ao tratamento ou na ruptura destas&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Critérios para indicação de tratamento hospitalar:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Abscesso tubo-ovariano&lt;/li&gt;
-  &lt;li&gt;Gravidez&lt;/li&gt;
-  &lt;li&gt;Ausência de resposta clínica após 72h do início do tratamento com antibioticoterapia oral&lt;/li&gt;
-  &lt;li&gt;Intolerância a antibióticos orais ou dificuldade para seguimento ambulatorial&lt;/li&gt;
-  &lt;li&gt;Estado geral grave, com náuseas, vômitos e febre&lt;/li&gt;
-  &lt;li&gt;Dificuldade em exclusão de emergência cirúrgica (ex.: apendicite, gravidez ectópica)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tipos de tratamento&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Tratamento ambulatorial:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Primeira opção: Ceftriaxona 500mg IM dose única MAIS Doxicilina 100mg VO 1cp 2xdia/14dias MAIS Metronidazol 250mg VO 2cp 2xdia/14dias&lt;/li&gt;
-      &lt;li&gt;Segunda opção: O mesmo mas substituindo a ceftriaxona por Cefotaxima 500mg IM dose única.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tratamento hospitalar:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Primeira opção: Cefotaxima 2g IV 4xdia/14dias MAIS Doxiciclina 100mg VO 1cp 2xdia/14dias&lt;/li&gt;
-      &lt;li&gt;Segunda opção: Clindamicina 900mg IV 3xdia/14dias MAIS Gentamicina IV ou IM dose de ataque 2mg/kg, dose de manutenção 3-5mg/kg.dia por 14dias&lt;/li&gt;
-      &lt;li&gt;Terceira opção: Ampicilina/Sulbactam 3g IV 4xdia/14dias MAIS Doxiciclina 100mg VO 1cp 2xdia por 14 dias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A melhora clínica das pacientes com DIP deverá acontecer nos três primeiros dias após o início do tratamento antimicrobiano.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Atenção:&lt;/strong&gt; Os parceiros sexuais devem ser tratados contra &lt;em&gt;N. gonohrreoeae&lt;/em&gt; e &lt;em&gt;C. trachomatis&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Brunham RC, Gottlieb SL, Paavonen J. Pelvic inflammatory disease. N Engl J Med. 2015 May 21;372(21):2039-48. doi: 10.1056/NEJMra1411426.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de DST, Aids e Hepatites Virais. – Brasília : Ministério da Saúde, 2015. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:2:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:2:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>

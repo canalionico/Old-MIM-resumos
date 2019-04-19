@@ -4,6 +4,7 @@ permalink: /:categories/gravidez-ectopica.html
 author: Filipe Mosca
 layout: post
 categories: obstetricia
+filename: 2019-04-16-gravidez-ectopica.md
 ---
 
 1. Sumário
