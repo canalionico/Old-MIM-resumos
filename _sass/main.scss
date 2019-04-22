@@ -36,8 +36,13 @@ nav {
     text-decoration: none;
     font-size: 16px;
     background-color: #b7b7b7;
+<<<<<<< HEAD
     border-radius: 0.5rem;
     padding: 5px 5px 5px 5px;
+=======
+    padding: 5px 1px 5px 5px;
+    border-radius: 0.5rem;
+>>>>>>> 9f06688cc0136158e9112180d0c0b9413dc39b8c
     color: white;
   }
   a:hover {
@@ -141,6 +146,15 @@ nav {
   list-style: decimal;
   display: inline-block;
   li a, li { font-size: 15px
+  }
+  li {
+    a {
+    text-decoration: none;
+    color: gray;
+  }
+    a:hover {
+      color: black;
+    }
   }
 }
 

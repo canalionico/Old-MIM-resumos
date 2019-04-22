@@ -1,31 +1,12 @@
 ---
 layout: default
 ---
-<!--
-<script type="text/javascript">
-// When the user scrolls down 20px from the top of the document, show the button
-window.onscroll = function() {scrollFunction()};
-
-function scrollFunction() {
-  if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-    document.getElementById("myBtn").style.display = "block";
-  } else {
-    document.getElementById("myBtn").style.display = "none";
-  }
-}
-// When the user clicks on the button, scroll to the top of the document
-function topFunction() {
-  document.body.scrollTop = 0; // For Safari
-  document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
-}
-</script>
--->
 <h1>{{ page.title }} <a class="botao" href="https://github.com/canalionico/resumos/edit/master/_posts/{{ page.filename }}">Editar</a></h1>
 <p class="post-page-info">{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 <article>
-{{ content }}
-<a id="myBtn" href="#markdown-toc">Sumário</a>
+  {{ content }}
+  <a id="myBtn" href="#markdown-toc">Sumário</a>
 </article>
 
 {% if page.comments %}

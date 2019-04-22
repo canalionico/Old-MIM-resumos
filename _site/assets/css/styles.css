@@ -34,13 +34,25 @@ nav {
     width: 100%; }
   nav a {
     text-decoration: none;
-    padding: 10px;
-    font-size: 16px; }
+    font-size: 16px;
+    background-color: #b7b7b7;
+    padding: 5px 1px 5px 5px;
+    border-radius: 0.5rem;
+    color: white; }
   nav a:hover {
     color: black; }
 
 .current {
   color: #008000; }
+
+.fa {
+  padding-right: 5px; }
+
+nav ul li a {
+  background-color: #b7b7b7;
+  border-radius: 0.5rem;
+  padding: 5px 5px 5px 5px;
+  color: white; }
 
 /* conteúdo principal */
 .botao {
@@ -131,6 +143,11 @@ nav {
   display: inline-block; }
   #markdown-toc li a, #markdown-toc li {
     font-size: 15px; }
+  #markdown-toc li a {
+    text-decoration: none;
+    color: gray; }
+  #markdown-toc li a:hover {
+    color: black; }
 
 ol {
   counter-reset: item; }
