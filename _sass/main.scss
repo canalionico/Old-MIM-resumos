@@ -32,14 +32,13 @@ nav {
   max-width: 330px;
   text-align: center;
   width: 100%;
-  ul {
-    display: inline-block;
-    width: 100%;
-  }
   a {
     text-decoration: none;
-    padding: 10px;
     font-size: 16px;
+    background-color: #b7b7b7;
+    border-radius: 0.5rem;
+    padding: 5px 5px 5px 5px;
+    color: white;
   }
   a:hover {
     color: black;
@@ -51,12 +50,6 @@ nav {
 }
 .fa {
   padding-right: 5px;
-}
-nav ul li a {
-  background-color: #b7b7b7;
-  border-radius: 0.5rem;
-  padding: 5px 5px 5px 5px;
-  color: white;
 }
 
 /* conteúdo principal */
