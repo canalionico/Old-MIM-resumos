@@ -1,6 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-19T15:11:22-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cesariana</title><link href="http://localhost:4000/obstetricia/cesariana.html" rel="alternate" type="text/html" title="Cesariana" /><published>2019-04-19T00:00:00-03:00</published><updated>2019-04-19T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/cesariana</id><content type="html" xml:base="http://localhost:4000/obstetricia/cesariana.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-19T17:36:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cesariana</title><link href="http://localhost:4000/obstetricia/cesariana.html" rel="alternate" type="text/html" title="Cesariana" /><published>2019-04-19T00:00:00-03:00</published><updated>2019-04-19T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/cesariana</id><content type="html" xml:base="http://localhost:4000/obstetricia/cesariana.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#indicações&quot; id=&quot;markdown-toc-indicações&quot;&gt;Indicações&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;h2 id=&quot;indicações&quot;&gt;Indicações&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Absolutas&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Placenta prévia total e parcial&lt;/li&gt;
+      &lt;li&gt;Placenta acreta&lt;/li&gt;
+      &lt;li&gt;Malformações genitais&lt;/li&gt;
+      &lt;li&gt;Tumorações prévias&lt;/li&gt;
+      &lt;li&gt;Desproporção cefalopélvica com feto vivo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Relativas&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Maternas&lt;/strong&gt;:
+        &lt;ul&gt;
+          &lt;li&gt;Cardiopatias&lt;/li&gt;
+          &lt;li&gt;Pneumopatias&lt;/li&gt;
+          &lt;li&gt;Dissecção de aorta&lt;/li&gt;
+          &lt;li&gt;Hipertensão intracraniana&lt;/li&gt;
+          &lt;li&gt;História de fístula retrovaginal&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Fetais&lt;/strong&gt;:
+        &lt;ul&gt;
+          &lt;li&gt;Sofrimento fetal&lt;/li&gt;
+          &lt;li&gt;Prolapso de cordão&lt;/li&gt;
+          &lt;li&gt;Apresentação pélvica ou córmica&lt;/li&gt;
+          &lt;li&gt;Gemelidade com 1o feto não cefálico&lt;/li&gt;
+          &lt;li&gt;Gemelidade monoamniótica&lt;/li&gt;
+          &lt;li&gt;Macrossomia&lt;/li&gt;
+          &lt;li&gt;Malformações fetais&lt;/li&gt;
+          &lt;li&gt;Hespes genital ativo&lt;/li&gt;
+          &lt;li&gt;HIV com CV &amp;gt; 1.000&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Maternofetais&lt;/strong&gt;:
+        &lt;ul&gt;
+          &lt;li&gt;Cesárea prévia&lt;/li&gt;
+          &lt;li&gt;Descolamento prematuro da placenta&lt;/li&gt;
+          &lt;li&gt;Placenta prévia&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Corrimento Vaginal</title><link href="http://localhost:4000/2019/04/16/corrimento-vaginal.html" rel="alternate" type="text/html" title="Corrimento Vaginal" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2019/04/16/corrimento-vaginal</id><content type="html" xml:base="http://localhost:4000/2019/04/16/corrimento-vaginal.html">&lt;h1 id=&quot;corrimento-vaginal&quot;&gt;Corrimento vaginal&lt;/h1&gt;
 

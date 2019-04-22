@@ -131,6 +131,11 @@ nav {
   display: inline-block; }
   #markdown-toc li a, #markdown-toc li {
     font-size: 15px; }
+  #markdown-toc li a {
+    text-decoration: none;
+    color: gray; }
+  #markdown-toc li a:hover {
+    color: black; }
 
 ol {
   counter-reset: item; }

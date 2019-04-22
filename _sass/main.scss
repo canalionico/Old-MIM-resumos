@@ -140,6 +140,15 @@ nav {
   display: inline-block;
   li a, li { font-size: 15px
   }
+  li {
+    a {
+    text-decoration: none;
+    color: gray;
+  }
+    a:hover {
+      color: black;
+    }
+  }
 }
 
 // Nested list Markdown-TOC (teste)
