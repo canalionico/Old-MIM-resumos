@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }} <a class="botao" href="https://github.com/canalionico/resumos/edit/master/_posts/{{ page.filename }}">Editar</a></h1>
+<h1>{{ page.title }} <a class="botao" href="https://github.com/canalionico/resumos/master/_posts/{{ page.categories }}/{{ page.filename }}"><i class="fa fa-edit"></i> Editar</a></h1>
 <p class="post-page-info">{{ page.date | date_to_string }} - {{ page.author }}</p>
 
 <article>
   {{ content }}
-  <a id="myBtn" href="#markdown-toc">Sumário</a>
+  <a id="myBtn" href="#markdown-toc"><i class="fa fa-sort-amount-up"></i>Sumário</a>
 </article>
 
 {% if page.comments %}

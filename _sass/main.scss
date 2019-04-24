@@ -29,20 +29,14 @@ nav {
   line-height: 30px;
   padding-top:20px;
   margin: 0 auto;
-  max-width: 330px;
   text-align: center;
   width: 100%;
   a {
     text-decoration: none;
     font-size: 16px;
     background-color: #b7b7b7;
-<<<<<<< HEAD
+    padding: 4px 6px 4px 6px;
     border-radius: 0.5rem;
-    padding: 5px 5px 5px 5px;
-=======
-    padding: 5px 1px 5px 5px;
-    border-radius: 0.5rem;
->>>>>>> 9f06688cc0136158e9112180d0c0b9413dc39b8c
     color: white;
   }
   a:hover {
@@ -51,7 +45,7 @@ nav {
 }
 
 .current {
-  color: #008000;
+  background-color: #008000;
 }
 .fa {
   padding-right: 5px;
@@ -60,40 +54,15 @@ nav {
 /* conteúdo principal */
 //Botão Editar
 .botao {
-	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
-	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
-	box-shadow:inset 0px 1px 0px 0px #ffffff;
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9));
-	background:-moz-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
-	background:-webkit-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
-	background:-o-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
-	background:-ms-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
-	background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9',GradientType=0);
-	background-color:#f9f9f9;
-	-moz-border-radius:6px;
-	-webkit-border-radius:6px;
-	border-radius:6px;
-	border:1px solid #dcdcdc;
-	display:inline-block;
-	cursor:pointer;
-	color:#666666;
-	font-family:Arial;
-	font-size:12px;
-	font-weight:bold;
-	padding: 2px 5px;
-	text-decoration:none;
-	text-shadow:0px 1px 0px #ffffff;
+  text-decoration: none;
+  font-size: 14px;
+  background-color: #b7b7b7;
+  padding: 4px 6px 4px 6px;
+  border-radius: 0.5rem;
+  color: white;
 }
 .botao:hover {
-	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #e9e9e9), color-stop(1, #f9f9f9));
-	background:-moz-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
-	background:-webkit-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
-	background:-o-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
-	background:-ms-linear-gradient(top, #e9e9e9 5%, #f9f9f9 100%);
-	background:linear-gradient(to bottom, #e9e9e9 5%, #f9f9f9 100%);
-	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#e9e9e9', endColorstr='#f9f9f9',GradientType=0);
-	background-color:#e9e9e9;
+  background-color: #008000;
 }
 .botao:active {
 	position:relative;
@@ -108,30 +77,11 @@ nav {
   z-index: 99; /* Make sure it does not overlap */
   cursor: pointer; /* Add a mouse pointer on hover */
   text-decoration: none;
-  -moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
-  -webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
-  box-shadow:inset 0px 1px 0px 0px #ffffff;
-  background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #e9e9e9));
-  background:-moz-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
-  background:-webkit-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
-  background:-o-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
-  background:-ms-linear-gradient(top, #f9f9f9 5%, #e9e9e9 100%);
-  background:linear-gradient(to bottom, #f9f9f9 5%, #e9e9e9 100%);
-  filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f9f9f9', endColorstr='#e9e9e9',GradientType=0);
-  background-color:#f9f9f9;
-  -moz-border-radius:6px;
-  -webkit-border-radius:6px;
-  border-radius: 6px;
-  border: 1px solid #dcdcdc;
-  display:inline-block;
-  cursor:pointer;
-  color:#666666;
-  font-family:Arial;
-  font-size: 12px;
-  font-weight:bold;
-  padding: 5px 5px;
-  text-decoration:none;
-  text-shadow:0px 1px 0px #ffffff;
+  font-size: 16px;
+  background-color: #008000;
+  padding: 4px 6px 4px 6px;
+  border-radius: 0.5rem;
+  color: white;
 }
 
 // Adding 'Contents' headline to the TOC

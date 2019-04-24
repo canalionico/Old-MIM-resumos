@@ -1,9 +1,15 @@
-- name: início
+- name: Início
   link: https://canalionico.com.br
   icon: home
-- name: sobre
+- name: Arquivo
+  link: https://canalionico.com.br/arquivo.html
+  icon: archive
+- name: Sobre
   link: https://canalionico.com.br/sobre.html
   icon: portrait
-- name: resumos
+- name: Resumos
   link: /
   icon: align-left
+- name: Radical
+  link: https://radical.canalionico.com.br
+  icon: bolt

@@ -1,4 +1,210 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-22T20:16:44-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Prolapso genital</title><link href="http://localhost:4000/ginecologia/prolapso-genital.html" rel="alternate" type="text/html" title="Prolapso genital" /><published>2019-04-22T00:00:00-03:00</published><updated>2019-04-22T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/prolapso-genital</id><content type="html" xml:base="http://localhost:4000/ginecologia/prolapso-genital.html">&lt;h1 id=&quot;distopias-genitais&quot;&gt;distopias genitais&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://resumos.canalionico.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://resumos.canalionico.com.br/" rel="alternate" type="text/html" /><updated>2019-04-23T23:07:32-03:00</updated><id>https://resumos.canalionico.com.br/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Câncer de colo uterino</title><link href="https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino.html" rel="alternate" type="text/html" title="Câncer de colo uterino" /><published>2019-04-23T00:00:00-03:00</published><updated>2019-04-23T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino</id><content type="html" xml:base="https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#histopatologia&quot; id=&quot;markdown-toc-histopatologia&quot;&gt;Histopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É o segundo câncer mais comum em mulheres.&lt;/p&gt;
+
+&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Coitarca precoce&lt;/li&gt;
+  &lt;li&gt;Múltiplos parceiros&lt;/li&gt;
+  &lt;li&gt;Multiparidade&lt;/li&gt;
+  &lt;li&gt;Tabagismo&lt;/li&gt;
+  &lt;li&gt;Desnutrição&lt;/li&gt;
+  &lt;li&gt;Uso prolongado de ACO&lt;/li&gt;
+  &lt;li&gt;História de DSTs&lt;/li&gt;
+  &lt;li&gt;Imunossupressão crônica&lt;/li&gt;
+  &lt;li&gt;Infecção pelo HPV: o principal fator de risco
+    &lt;ul&gt;
+      &lt;li&gt;Principalmente o tipo HPV-16&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+&lt;p&gt;Na maioria das vezes é assintomático e quando acompanha sintomas estes são inespecíficos. Como sangramento vaginal, dor, corrimento vaginal.&lt;/p&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
+&lt;p&gt;Deve ser feita a inspeção da vulva, vagina e colo, procurando por anomalias como lesões ulcerativas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Toque vaginal&lt;/li&gt;
+  &lt;li&gt;Toque retal: para avaliar infiltração dos paramétrios&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+&lt;p&gt;É feito com base na citologia + colposcopia + histopatologia.&lt;/p&gt;
+
+&lt;h2 id=&quot;histopatologia&quot;&gt;Histopatologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Epiteliais&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Carcinoma de células escamosas&lt;/strong&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Verrucoso&lt;/li&gt;
+          &lt;li&gt;Grandes células não queratinizantes&lt;/li&gt;
+          &lt;li&gt;Pequenas células queratinizantes&lt;/li&gt;
+          &lt;li&gt;Pequenas células&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Adenocarcinomas&lt;/strong&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Padrão comum&lt;/li&gt;
+          &lt;li&gt;Endometrióide&lt;/li&gt;
+          &lt;li&gt;Células claras&lt;/li&gt;
+          &lt;li&gt;Maligno&lt;/li&gt;
+          &lt;li&gt;Mucinoso&lt;/li&gt;
+          &lt;li&gt;Palifero&lt;/li&gt;
+          &lt;li&gt;Adenoide cístico&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Mesenquiais&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Tumor do ducto de Gartner&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;Outros&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Infecções do trato urinário</title><link href="https://resumos.canalionico.com.br/urologia/infeccoes-do-trato-urinario.html" rel="alternate" type="text/html" title="Infecções do trato urinário" /><published>2019-04-23T00:00:00-03:00</published><updated>2019-04-23T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/urologia/infeccoes-do-trato-urinario</id><content type="html" xml:base="https://resumos.canalionico.com.br/urologia/infeccoes-do-trato-urinario.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pielonefrite-aguda&quot; id=&quot;markdown-toc-pielonefrite-aguda&quot;&gt;Pielonefrite aguda&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prostatites&quot; id=&quot;markdown-toc-prostatites&quot;&gt;Prostatites&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Em neonatos: acomete mais meninos&lt;/li&gt;
+  &lt;li&gt;Nas demais fases da vida: mais comum em mulheres
+    &lt;ul&gt;
+      &lt;li&gt;48% das mulheres manifestam pelo menos um episódio de ITU ao longo da vida&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Os agentes são geralmente provenientes da microbiota intestinal
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;E. coli&lt;/em&gt;, &lt;em&gt;S. saprophyticus&lt;/em&gt;, &lt;em&gt;k.spp&lt;/em&gt;, &lt;em&gt;Enterobacter spp&lt;/em&gt; e &lt;em&gt;Proteus spp&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+&lt;p&gt;Ascenção dos microorganismos para o trato urinário alto. Como as mulheres têm a uretra mais curta, são mais facilmente acometidas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A colonização da vagina é facilitada por:
+    &lt;ul&gt;
+      &lt;li&gt;Uso de Antibióticos&lt;/li&gt;
+      &lt;li&gt;Má higiene&lt;/li&gt;
+      &lt;li&gt;Atividade sexual&lt;/li&gt;
+      &lt;li&gt;Uso de contraceptivos com espermicida&lt;/li&gt;
+      &lt;li&gt;Alteração do pH vaginal&lt;/li&gt;
+      &lt;li&gt;Hipoestrogenismo (como a menopausa)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Disúria&lt;/li&gt;
+  &lt;li&gt;Polaciúria&lt;/li&gt;
+  &lt;li&gt;Dor lombar e/ou suprapúbica&lt;/li&gt;
+  &lt;li&gt;Febre e calafrios&lt;/li&gt;
+  &lt;li&gt;Urgência miccional&lt;/li&gt;
+  &lt;li&gt;Nictúria&lt;/li&gt;
+  &lt;li&gt;Urina turva (piúria)&lt;/li&gt;
+  &lt;li&gt;Urina avermelhada (hematúria)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para confirmar o diagnóstico, deve ser solicitada a &lt;strong&gt;urocultura&lt;/strong&gt; (padrão ouro).&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;ITU não complicada&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Antibioticoterapia (de preferência baseada no resultado do antibiograma da urocultura)
+        &lt;ul&gt;
+          &lt;li&gt;Terapia empírica: TMP + SMX ou quinolona por 7 dias.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ITU complicada&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Antibioticoterapia por mínimo de 7-10 dias até 2 semanas&lt;/li&gt;
+      &lt;li&gt;Procurar um fator causal da infecção&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ITU em gestantes&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Deve ser sempre tratada, mesmo assintomática&lt;/li&gt;
+      &lt;li&gt;Evitar usar quinolonas&lt;/li&gt;
+      &lt;li&gt;Cefalosporinas de 1ª geração&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ITU em crianças&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Geralmente associada a anormalidades do trato urinário (anatômicas ou funcionais)&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;E. coli&lt;/em&gt; é o microorganismo mais prevalente&lt;/li&gt;
+      &lt;li&gt;Evitar quinolonas em crianças&lt;/li&gt;
+      &lt;li&gt;Usar TMP + SMX, nitrofurantoína, ácido nalidíxico ou cefalosporinas de 1ª geração&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pielonefrite-aguda&quot;&gt;Pielonefrite aguda&lt;/h2&gt;
+&lt;p&gt;É a doença inflamatória infecciosa envolvendo o parênquima e a pelve renal. A incidência é maior em mulheres jovens sexualmente ativas. Como envolve o parênquima renal, está associada a complicações clínicas mais severas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fisiopatologia&lt;/strong&gt;: infecção ascendente (infecções hematogênicas podem causar abcessos)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Etiologia&lt;/strong&gt;: sobretudo bactérias aeróbias gram negativas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quadro clínico&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Febre alta&lt;/li&gt;
+      &lt;li&gt;Dor lombar “surda”&lt;/li&gt;
+      &lt;li&gt;Sintomas gerais (astenia e anorexia)&lt;/li&gt;
+      &lt;li&gt;Sintomas urinários irritativos (disúria, polaciúria, imperiosidade, urina turva e com odor intenso)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exame físico&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Taquicardia&lt;/li&gt;
+      &lt;li&gt;Taquipnéia&lt;/li&gt;
+      &lt;li&gt;Distensão abdominal&lt;/li&gt;
+      &lt;li&gt;Dor à palpação bimanual&lt;/li&gt;
+      &lt;li&gt;Sinal de Giordano&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exames complementares&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Leucocitose com desvio à esquerda&lt;/li&gt;
+      &lt;li&gt;Aumento dos níveis de proteína de fase aguda (fibrinogênio, PCR e LDH)&lt;/li&gt;
+      &lt;li&gt;TGO aumentada&lt;/li&gt;
+      &lt;li&gt;Leucocitúria, eritrocitúria, proteinúria e presença de nitritos&lt;/li&gt;
+      &lt;li&gt;Cilindrúria e leucocitúria (achados patognomônicos?)&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;: para avaliar a hidronefrose e presença de cálculos no sistema pielocalicial. Pode ser normal&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;TC&lt;/strong&gt;: elevada sensibilidade e especificidade&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;RM&lt;/strong&gt;: semelhante à TC porém mais cara&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tratamento&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Fluorquinolona como terapia empírica (ou TMP/SMX)&lt;/li&gt;
+      &lt;li&gt;Fluorquinolona, aminoglicosideo ou cefalosporina IV: em pacientes que necessitam de hospitalização&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;prostatites&quot;&gt;Prostatites&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Prolapso genital</title><link href="https://resumos.canalionico.com.br/ginecologia/prolapso-genital.html" rel="alternate" type="text/html" title="Prolapso genital" /><published>2019-04-22T00:00:00-03:00</published><updated>2019-04-22T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/ginecologia/prolapso-genital</id><content type="html" xml:base="https://resumos.canalionico.com.br/ginecologia/prolapso-genital.html">&lt;h1 id=&quot;distopias-genitais&quot;&gt;distopias genitais&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;Anterior&lt;/li&gt;
 &lt;/ul&gt;
@@ -92,7 +298,7 @@ A relação entre a vagina e o hímem é usada para classificar os graus.&lt;/p&
       &lt;li&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">distopias genitais Anterior</summary></entry><entry><title type="html">Distúrbios metabólicos</title><link href="http://localhost:4000/disturbios-metabolicos.html" rel="alternate" type="text/html" title="Distúrbios metabólicos" /><published>2019-04-22T00:00:00-03:00</published><updated>2019-04-22T00:00:00-03:00</updated><id>http://localhost:4000/disturbios-metabolicos</id><content type="html" xml:base="http://localhost:4000/disturbios-metabolicos.html">&lt;p&gt;A correta classificação do bebê é muito importante.O feto não precisa produzir glicose, pois toda ela é produzida e fornecida pela mãe.
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">distopias genitais Anterior</summary></entry><entry><title type="html">Distúrbios metabólicos</title><link href="https://resumos.canalionico.com.br/disturbios-metabolicos.html" rel="alternate" type="text/html" title="Distúrbios metabólicos" /><published>2019-04-22T00:00:00-03:00</published><updated>2019-04-22T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/disturbios-metabolicos</id><content type="html" xml:base="https://resumos.canalionico.com.br/disturbios-metabolicos.html">&lt;p&gt;A correta classificação do bebê é muito importante.O feto não precisa produzir glicose, pois toda ela é produzida e fornecida pela mãe.
 3T ocorre o acúmulo de glicose no figado fetal.
 Logo após o nascimento o aporte materno de glicose é interrompido, daí a importância da reserva hepática. 
 Por isso, pode haver uma hipoglicemia fisiológica.&lt;/p&gt;
@@ -244,10 +450,32 @@ A triagem é feita com o teste de HGT seriado.&lt;/p&gt;
   &lt;li&gt;Hipoglicemia&lt;/li&gt;
   &lt;li&gt;Hipomagnesemia&lt;/li&gt;
   &lt;li&gt;Hipocalcemia&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">A correta classificação do bebê é muito importante.O feto não precisa produzir glicose, pois toda ela é produzida e fornecida pela mãe. 3T ocorre o acúmulo de glicose no figado fetal. Logo após o nascimento o aporte materno de glicose é interrompido, daí a importância da reserva hepática. Por isso, pode haver uma hipoglicemia fisiológica.</summary></entry><entry><title type="html">Cesariana</title><link href="http://localhost:4000/obstetricia/cesariana.html" rel="alternate" type="text/html" title="Cesariana" /><published>2019-04-19T00:00:00-03:00</published><updated>2019-04-19T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/cesariana</id><content type="html" xml:base="http://localhost:4000/obstetricia/cesariana.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">A correta classificação do bebê é muito importante.O feto não precisa produzir glicose, pois toda ela é produzida e fornecida pela mãe. 3T ocorre o acúmulo de glicose no figado fetal. Logo após o nascimento o aporte materno de glicose é interrompido, daí a importância da reserva hepática. Por isso, pode haver uma hipoglicemia fisiológica.</summary></entry><entry><title type="html">Cesariana</title><link href="https://resumos.canalionico.com.br/obstetricia/cesariana.html" rel="alternate" type="text/html" title="Cesariana" /><published>2019-04-19T00:00:00-03:00</published><updated>2019-04-19T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/obstetricia/cesariana</id><content type="html" xml:base="https://resumos.canalionico.com.br/obstetricia/cesariana.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#indicações&quot; id=&quot;markdown-toc-indicações&quot;&gt;Indicações&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#preparação&quot; id=&quot;markdown-toc-preparação&quot;&gt;Preparação&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#anestesia&quot; id=&quot;markdown-toc-anestesia&quot;&gt;Anestesia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-cirúrgia&quot; id=&quot;markdown-toc-a-cirúrgia&quot;&gt;A cirúrgia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#técnica-de-misgav-ladach&quot; id=&quot;markdown-toc-técnica-de-misgav-ladach&quot;&gt;Técnica de Misgav-Ladach&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#técnica-de-rezende&quot; id=&quot;markdown-toc-técnica-de-rezende&quot;&gt;Técnica de Rezende&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#incisão-de-pfannenstiel&quot; id=&quot;markdown-toc-incisão-de-pfannenstiel&quot;&gt;Incisão de Pfannenstiel&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#cesárea-clássica&quot; id=&quot;markdown-toc-cesárea-clássica&quot;&gt;Cesárea clássica&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#hemorragia&quot; id=&quot;markdown-toc-hemorragia&quot;&gt;Hemorragia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#extração-fetal-difícil&quot; id=&quot;markdown-toc-extração-fetal-difícil&quot;&gt;Extração fetal difícil&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#aderências&quot; id=&quot;markdown-toc-aderências&quot;&gt;Aderências&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pós-operatório&quot; id=&quot;markdown-toc-pós-operatório&quot;&gt;Pós-operatório&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referência&quot; id=&quot;markdown-toc-referência&quot;&gt;Referência&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;É o procedimento cirúrgico de abertura da cavidade abdominal para a retirada do concepto fetal. A OMS recomenda que apenas 15% da dos partos sejam feitos por cesárea, dando preferência pelo procedimento de parto vaginal. Contudo, no Brasil, as cesáreas correspondem a 40% de todos os partos. Esse número é ainda maior no setor privado.&lt;/p&gt;
 
 &lt;h2 id=&quot;indicações&quot;&gt;Indicações&lt;/h2&gt;
 &lt;ul&gt;
@@ -274,28 +502,181 @@ A triagem é feita com o teste de HGT seriado.&lt;/p&gt;
       &lt;li&gt;&lt;strong&gt;Fetais&lt;/strong&gt;:
         &lt;ul&gt;
           &lt;li&gt;Sofrimento fetal&lt;/li&gt;
-          &lt;li&gt;Prolapso de cordão&lt;/li&gt;
+          &lt;li&gt;Prolapso de cordão (absoluta?)&lt;/li&gt;
           &lt;li&gt;Apresentação pélvica ou córmica&lt;/li&gt;
-          &lt;li&gt;Gemelidade com 1o feto não cefálico&lt;/li&gt;
+          &lt;li&gt;Gemelidade com 1º feto não cefálico&lt;/li&gt;
           &lt;li&gt;Gemelidade monoamniótica&lt;/li&gt;
           &lt;li&gt;Macrossomia&lt;/li&gt;
           &lt;li&gt;Malformações fetais&lt;/li&gt;
-          &lt;li&gt;Hespes genital ativo&lt;/li&gt;
+          &lt;li&gt;Herpes genital ativo&lt;/li&gt;
           &lt;li&gt;HIV com CV &amp;gt; 1.000&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;Maternofetais&lt;/strong&gt;:
         &lt;ul&gt;
           &lt;li&gt;Cesárea prévia&lt;/li&gt;
-          &lt;li&gt;Descolamento prematuro da placenta&lt;/li&gt;
-          &lt;li&gt;Placenta prévia&lt;/li&gt;
+          &lt;li&gt;Descolamento prematuro da placenta (absoluta?)&lt;/li&gt;
+          &lt;li&gt;Placenta prévia (absoluta?)&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Corrimento Vaginal</title><link href="http://localhost:4000/2019/04/16/corrimento-vaginal.html" rel="alternate" type="text/html" title="Corrimento Vaginal" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>http://localhost:4000/2019/04/16/corrimento-vaginal</id><content type="html" xml:base="http://localhost:4000/2019/04/16/corrimento-vaginal.html">&lt;h1 id=&quot;corrimento-vaginal&quot;&gt;Corrimento vaginal&lt;/h1&gt;
+&lt;h2 id=&quot;preparação&quot;&gt;Preparação&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Conferir a maturidade fetal&lt;/li&gt;
+  &lt;li&gt;Paciente deve tomar banho&lt;/li&gt;
+  &lt;li&gt;Paciente em posição de Trendelenburg moderada (pernas e tronco a 35-45°)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Antibióticoterapia profilática:&lt;/strong&gt; cefazolina ou cefalotina 1-2g, IV. Feita antes da incisão da pele.
+    &lt;ul&gt;
+      &lt;li&gt;Útil para prevenção de endometrite pós-parto e infecção de parede&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;anestesia&quot;&gt;Anestesia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Raquianestesia&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;É a mais usada e preferencial&lt;/li&gt;
+      &lt;li&gt;Início de ação imediato&lt;/li&gt;
+      &lt;li&gt;Técnica simples&lt;/li&gt;
+      &lt;li&gt;Maior relaxamento muscular&lt;/li&gt;
+      &lt;li&gt;Cefaléia pós-punção é mais frequente&lt;/li&gt;
+      &lt;li&gt;Maior frequência de episódios de hipotensão&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Peridural&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Início de ação mais demorado&lt;/li&gt;
+      &lt;li&gt;Técnica mais difícil&lt;/li&gt;
+      &lt;li&gt;Menor precisão de bloqueio&lt;/li&gt;
+      &lt;li&gt;Maior volume de anestésico injetado&lt;/li&gt;
+      &lt;li&gt;Ausência de cefaléia pós punção&lt;/li&gt;
+      &lt;li&gt;Ausência de sequelas neurológicas&lt;/li&gt;
+      &lt;li&gt;Menos episódios de hipotensão&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;a-cirúrgia&quot;&gt;A cirúrgia&lt;/h2&gt;
+&lt;h3 id=&quot;técnica-de-misgav-ladach&quot;&gt;Técnica de Misgav-Ladach&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Incisão de Joel-Cohen: transvers a e retilínea, pouca acima da incisão de Pfannenstiel&lt;/li&gt;
+  &lt;li&gt;Acesso à cavidade abdominal por dissecção romba (digital)&lt;/li&gt;
+  &lt;li&gt;Histerotomia por divulsão digital&lt;/li&gt;
+  &lt;li&gt;Remoção da placenta por tração controlada do cordão e não por remoção manual&lt;/li&gt;
+  &lt;li&gt;Histerorrafia contínua em camada única e não fechamento dos peritônios, útero intrapélvico&lt;/li&gt;
+  &lt;li&gt;Sutura da aponeurose, ligadura/hemostasia do tecido adiposo (não é recomendada de rotina em gestantes com &amp;lt; 2cm em TCS), sutura da pele&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;técnica-de-rezende&quot;&gt;Técnica de Rezende&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;incisão-de-pfannenstiel&quot;&gt;Incisão de Pfannenstiel&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Manobra de Geppert&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conduta expectante&lt;/strong&gt;: após a retirada do feto, esperar 1-2min aguardando a resposta uterina à injeção ocitócica intravenosa. Caso haja demora na resposta da víscera, deve-se recorrer à extração manual da placenta&lt;sup id=&quot;fnref:rezendinho&quot;&gt;&lt;a href=&quot;#fn:rezendinho&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/cesarea/tecnica.png&quot; alt=&quot;técnicas de cesárea&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cesárea-clássica&quot;&gt;Cesárea clássica&lt;/h3&gt;
+&lt;p&gt;Consiste na incisão vertical do corpo do útero. Apesar de simples e rápida, é uma intervenção obsoleta que tem poucas e raras oportunidades.&lt;sup id=&quot;fnref:rezendinho:1&quot;&gt;&lt;a href=&quot;#fn:rezendinho&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; É aconselhada na contraindicação das demais técnicas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complicações:
+    &lt;ul&gt;
+      &lt;li&gt;Maior chance de infecção&lt;/li&gt;
+      &lt;li&gt;Deiscência da cicatriz&lt;/li&gt;
+      &lt;li&gt;Maior incidência de rotura uterina&lt;/li&gt;
+      &lt;li&gt;Aderências&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Indicações:
+    &lt;ul&gt;
+      &lt;li&gt;Cesárea &lt;em&gt;post mortem&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Inacessibilidade do segmento inferior (como por miomas, abdome pêndulo ou aderências)&lt;/li&gt;
+      &lt;li&gt;Outras dificuldades de realizar outras técnias ou necessidade de histerectomia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
+&lt;h3 id=&quot;hemorragia&quot;&gt;Hemorragia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Por lesão dos grandes pedículos vasculares: raramente vista&lt;/li&gt;
+  &lt;li&gt;Provindas dos próprios lábios a histerotomia&lt;/li&gt;
+  &lt;li&gt;Por anomalias vasculares regionais: comum em mulheres já cesareadas.
+    &lt;ul&gt;
+      &lt;li&gt;Hemorragia por placenta prévia-cesárea: bastante preocupante, a melhor conduta é evitar a incisão da placenta&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Em casos extremos: recomendada a ligadura da a. uterina ou a histerectomia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;extração-fetal-difícil&quot;&gt;Extração fetal difícil&lt;/h3&gt;
+&lt;p&gt;Quando nao foi possível extrair o concepto pela manobra de Geppert. As situações abaixo raramente precisam ser realizadas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Manobra clássica: com a mão, traz-se a face do feto para a incisão e coloca-se o indicador em sua boca para realizar uma rotação. Em seguida, utiliza-se o fórceps&lt;/li&gt;
+  &lt;li&gt;Utilização de alavancas de Torpin&lt;/li&gt;
+  &lt;li&gt;Embriotomias: indicada nas cesáreas de feto morto&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;aderências&quot;&gt;Aderências&lt;/h3&gt;
+
+&lt;h2 id=&quot;pós-operatório&quot;&gt;Pós-operatório&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bolsa de gelo no abdome nas 4 primeiras horas&lt;/li&gt;
+  &lt;li&gt;Prognóstico:
+    &lt;ul&gt;
+      &lt;li&gt;Hematomas&lt;/li&gt;
+      &lt;li&gt;Deiscência da cicatriz cutânea&lt;/li&gt;
+      &lt;li&gt;Abcessos de parede&lt;/li&gt;
+      &lt;li&gt;Pelviperitonite&lt;/li&gt;
+      &lt;li&gt;Tromboflebite&lt;/li&gt;
+      &lt;li&gt;Íleo paralítico&lt;/li&gt;
+      &lt;li&gt;Acidentes anstésicos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fatores de rico para maior morbidade pós-cesárea:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Paciente em trabalho de parto&lt;/li&gt;
+      &lt;li&gt;Membranas rompidas a mais de 12h&lt;/li&gt;
+      &lt;li&gt;Monitoramento interno&lt;/li&gt;
+      &lt;li&gt;Toques vaginais repetidos&lt;/li&gt;
+      &lt;li&gt;Anemia&lt;/li&gt;
+      &lt;li&gt;Obesidade&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A alta hospitalar só pode ser dada após:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Sinais vitais satisfatórios&lt;/li&gt;
+      &lt;li&gt;Útero contraído&lt;/li&gt;
+      &lt;li&gt;Diurese compatível com pós-ops&lt;/li&gt;
+      &lt;li&gt;Em geral com 72h&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Estimular o aleitamento 4h após a cirurgia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Atenção!&lt;/strong&gt; A cada cesárea os riscos de placenta prévia, acreta e histerectomia-cesárea aumentam.&lt;/p&gt;
+
+&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:cisam&quot;&gt;
+      &lt;p&gt;protocolo do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:rezendinho&quot;&gt;
+      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rezendinho&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:rezendinho:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Corrimento Vaginal</title><link href="https://resumos.canalionico.com.br/2019/04/16/corrimento-vaginal.html" rel="alternate" type="text/html" title="Corrimento Vaginal" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/2019/04/16/corrimento-vaginal</id><content type="html" xml:base="https://resumos.canalionico.com.br/2019/04/16/corrimento-vaginal.html">&lt;h1 id=&quot;corrimento-vaginal&quot;&gt;Corrimento vaginal&lt;/h1&gt;
 
 &lt;p&gt;Sintomas:&lt;/p&gt;
 
@@ -444,7 +825,86 @@ Feito através da visualização de protozoários móveis em material do ectocé
 
 &lt;p&gt;&lt;img src=&quot;/assets/imagens/corrimento-vaginal/flux.png&quot; alt=&quot;Fluxograma&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/corrimento-vaginal/tto.png&quot; alt=&quot;Tratamento&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Corrimento vaginal</summary></entry><entry><title type="html">Gravidez ectópica</title><link href="http://localhost:4000/obstetricia/gravidez-ectopica.html" rel="alternate" type="text/html" title="Gravidez ectópica" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/gravidez-ectopica</id><content type="html" xml:base="http://localhost:4000/obstetricia/gravidez-ectopica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/imagens/corrimento-vaginal/tto.png&quot; alt=&quot;Tratamento&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">Corrimento vaginal</summary></entry><entry><title type="html">Incontinência urinária</title><link href="https://resumos.canalionico.com.br/ginecologia/incontinencia-urinaria.html" rel="alternate" type="text/html" title="Incontinência urinária" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/ginecologia/incontinencia-urinaria</id><content type="html" xml:base="https://resumos.canalionico.com.br/ginecologia/incontinencia-urinaria.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#incontinência-urinária-de-esforço&quot; id=&quot;markdown-toc-incontinência-urinária-de-esforço&quot;&gt;Incontinência urinária de esforço&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#história-clínica&quot; id=&quot;markdown-toc-história-clínica&quot;&gt;História clínica&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#diário-miccional&quot; id=&quot;markdown-toc-diário-miccional&quot;&gt;Diário miccional&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É toda perda involuntária de urina, clinicamente demonstrável, que cause problema higiênico ou social à mulher. Pode ser um sinal ou um sintoma.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Incidência aumenta com a idade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;IUE&lt;/strong&gt; (de esforço): relacionada com o tossir, espirrar, pular, caminhar. Ocorre pois a pressão vesical excede a pressão máximade fechamento uretral (sem a contração do m. detrusor).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUU&lt;/strong&gt; (de urgência): &lt;em&gt;bexiga hiperativa&lt;/em&gt;, é quando o detrusor se contrai involuntariamente. Ocorre na fase de enchimento enquanto a paciente tenta inibir a micção. Causa idiopática.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUR&lt;/strong&gt; (reflexa): ocorre na fase de enchimento, com a contração vesical e a paciente tentando inibir a micção. De causa neurológica.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUM&lt;/strong&gt; (mista): Associação de dois dos tipos acima.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUT&lt;/strong&gt; (por transbordamento): antigamente chamada de &lt;em&gt;bexiga neurogênica&lt;/em&gt;, a bexiga está distendida (aumentada) e não há atividade do detrusor.é causada por lesões neurológicas ou nas patologias obstrutivas (incontinência paradoxal).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IEU&lt;/strong&gt; (extra uretral): a perda ocorre devido a fístulas uro-genitais (uretro-vaginal, uretero-vaginal, vésico-uterina, etc). Também nas anomalias anatômicas do sistema urinário.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IUP&lt;/strong&gt; (psicogênica): em pacientes com distpurbios psiquiátricos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;incontinência-urinária-de-esforço&quot;&gt;Incontinência urinária de esforço&lt;/h2&gt;
+&lt;p&gt;Toda perda urinária pelo meato externo da uretra, quando a pressão vesical excede a pressão máximade fechamento uretral, na ausência de contração do m. detrusor.&lt;/p&gt;
+
+&lt;h3 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h3&gt;
+&lt;p&gt;A etiologia é multifatorial, alguns exemplos:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Alterações anatômicas&lt;/li&gt;
+  &lt;li&gt;Uretra funcionalmente curta&lt;/li&gt;
+  &lt;li&gt;Incompetencia esfincteriana&lt;/li&gt;
+  &lt;li&gt;Hipoestrogenismo&lt;/li&gt;
+  &lt;li&gt;Trumatismo&lt;/li&gt;
+  &lt;li&gt;Fatores congênitos&lt;/li&gt;
+  &lt;li&gt;Fatores obstétricos&lt;/li&gt;
+  &lt;li&gt;Lesões de nervos, fáscias e músculos&lt;/li&gt;
+  &lt;li&gt;Neuropatias&lt;/li&gt;
+  &lt;li&gt;Hipermobilidade do colo vesical e uretra&lt;/li&gt;
+  &lt;li&gt;Descida rotacional da uretra&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;história-clínica&quot;&gt;História clínica&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hábitos miccionais&lt;/li&gt;
+  &lt;li&gt;Presencia ou ausência de enurese&lt;/li&gt;
+  &lt;li&gt;Diminuição da força muscular nos MMII&lt;/li&gt;
+  &lt;li&gt;Atrofia muscular&lt;/li&gt;
+  &lt;li&gt;Dificuldade de marcha&lt;/li&gt;
+  &lt;li&gt;Lombalgias&lt;/li&gt;
+  &lt;li&gt;Citalgias&lt;/li&gt;
+  &lt;li&gt;D. medulares ou neurológicas&lt;/li&gt;
+  &lt;li&gt;DM&lt;/li&gt;
+  &lt;li&gt;Antecedentes de cirurgias pélvicas ou perineais&lt;/li&gt;
+  &lt;li&gt;Alteração dos hábitos instinais (incontinência fecal, constipação)&lt;/li&gt;
+  &lt;li&gt;Uso de fármacos&lt;/li&gt;
+  &lt;li&gt;Questionário de qualidade de vida&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diário-miccional&quot;&gt;Diário miccional&lt;/h3&gt;
+
+&lt;p&gt;##Exame ginecológico&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Teste do absorvente: diferença de peso &amp;gt; 1g caracteriza perda urinária&lt;/li&gt;
+  &lt;li&gt;Teste de esforço (com bexiga cheia)&lt;/li&gt;
+  &lt;li&gt;Teste do cotonete: para avaliar o desvio rotacional da uretra. Desvio maior que 30 graus indica hipermobilidade do colo e da JUV&lt;/li&gt;
+  &lt;li&gt;Mobilidade do colo vesical&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Exame neurológico&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exame urodinâmico&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Gravidez ectópica</title><link href="https://resumos.canalionico.com.br/obstetricia/gravidez-ectopica.html" rel="alternate" type="text/html" title="Gravidez ectópica" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/obstetricia/gravidez-ectopica</id><content type="html" xml:base="https://resumos.canalionico.com.br/obstetricia/gravidez-ectopica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#diu&quot; id=&quot;markdown-toc-diu&quot;&gt;DIU&lt;/a&gt;&lt;/li&gt;
@@ -823,86 +1283,7 @@ Feito através da visualização de protozoários móveis em material do ectocé
       &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Incontinência urinária</title><link href="http://localhost:4000/ginecologia/incontinencia-urinaria.html" rel="alternate" type="text/html" title="Incontinência urinária" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/incontinencia-urinaria</id><content type="html" xml:base="http://localhost:4000/ginecologia/incontinencia-urinaria.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#incontinência-urinária-de-esforço&quot; id=&quot;markdown-toc-incontinência-urinária-de-esforço&quot;&gt;Incontinência urinária de esforço&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#história-clínica&quot; id=&quot;markdown-toc-história-clínica&quot;&gt;História clínica&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#diário-miccional&quot; id=&quot;markdown-toc-diário-miccional&quot;&gt;Diário miccional&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É toda perda involuntária de urina, clinicamente demonstrável, que cause problema higiênico ou social à mulher. Pode ser um sinal ou um sintoma.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Incidência aumenta com a idade&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;IUE&lt;/strong&gt; (de esforço): relacionada com o tossir, espirrar, pular, caminhar. Ocorre pois a pressão vesical excede a pressão máximade fechamento uretral (sem a contração do m. detrusor).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IUU&lt;/strong&gt; (de urgência): &lt;em&gt;bexiga hiperativa&lt;/em&gt;, é quando o detrusor se contrai involuntariamente. Ocorre na fase de enchimento enquanto a paciente tenta inibir a micção. Causa idiopática.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IUR&lt;/strong&gt; (reflexa): ocorre na fase de enchimento, com a contração vesical e a paciente tentando inibir a micção. De causa neurológica.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IUM&lt;/strong&gt; (mista): Associação de dois dos tipos acima.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IUT&lt;/strong&gt; (por transbordamento): antigamente chamada de &lt;em&gt;bexiga neurogênica&lt;/em&gt;, a bexiga está distendida (aumentada) e não há atividade do detrusor.é causada por lesões neurológicas ou nas patologias obstrutivas (incontinência paradoxal).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IEU&lt;/strong&gt; (extra uretral): a perda ocorre devido a fístulas uro-genitais (uretro-vaginal, uretero-vaginal, vésico-uterina, etc). Também nas anomalias anatômicas do sistema urinário.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IUP&lt;/strong&gt; (psicogênica): em pacientes com distpurbios psiquiátricos.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;incontinência-urinária-de-esforço&quot;&gt;Incontinência urinária de esforço&lt;/h2&gt;
-&lt;p&gt;Toda perda urinária pelo meato externo da uretra, quando a pressão vesical excede a pressão máximade fechamento uretral, na ausência de contração do m. detrusor.&lt;/p&gt;
-
-&lt;h3 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h3&gt;
-&lt;p&gt;A etiologia é multifatorial, alguns exemplos:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Alterações anatômicas&lt;/li&gt;
-  &lt;li&gt;Uretra funcionalmente curta&lt;/li&gt;
-  &lt;li&gt;Incompetencia esfincteriana&lt;/li&gt;
-  &lt;li&gt;Hipoestrogenismo&lt;/li&gt;
-  &lt;li&gt;Trumatismo&lt;/li&gt;
-  &lt;li&gt;Fatores congênitos&lt;/li&gt;
-  &lt;li&gt;Fatores obstétricos&lt;/li&gt;
-  &lt;li&gt;Lesões de nervos, fáscias e músculos&lt;/li&gt;
-  &lt;li&gt;Neuropatias&lt;/li&gt;
-  &lt;li&gt;Hipermobilidade do colo vesical e uretra&lt;/li&gt;
-  &lt;li&gt;Descida rotacional da uretra&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;história-clínica&quot;&gt;História clínica&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Hábitos miccionais&lt;/li&gt;
-  &lt;li&gt;Presencia ou ausência de enurese&lt;/li&gt;
-  &lt;li&gt;Diminuição da força muscular nos MMII&lt;/li&gt;
-  &lt;li&gt;Atrofia muscular&lt;/li&gt;
-  &lt;li&gt;Dificuldade de marcha&lt;/li&gt;
-  &lt;li&gt;Lombalgias&lt;/li&gt;
-  &lt;li&gt;Citalgias&lt;/li&gt;
-  &lt;li&gt;D. medulares ou neurológicas&lt;/li&gt;
-  &lt;li&gt;DM&lt;/li&gt;
-  &lt;li&gt;Antecedentes de cirurgias pélvicas ou perineais&lt;/li&gt;
-  &lt;li&gt;Alteração dos hábitos instinais (incontinência fecal, constipação)&lt;/li&gt;
-  &lt;li&gt;Uso de fármacos&lt;/li&gt;
-  &lt;li&gt;Questionário de qualidade de vida&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;diário-miccional&quot;&gt;Diário miccional&lt;/h3&gt;
-
-&lt;p&gt;##Exame ginecológico&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Teste do absorvente: diferença de peso &amp;gt; 1g caracteriza perda urinária&lt;/li&gt;
-  &lt;li&gt;Teste de esforço (com bexiga cheia)&lt;/li&gt;
-  &lt;li&gt;Teste do cotonete: para avaliar o desvio rotacional da uretra. Desvio maior que 30 graus indica hipermobilidade do colo e da JUV&lt;/li&gt;
-  &lt;li&gt;Mobilidade do colo vesical&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Exame neurológico&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Exame urodinâmico&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Litíase urinária</title><link href="http://localhost:4000/urologia/litiase-urinaria.html" rel="alternate" type="text/html" title="Litíase urinária" /><published>2019-04-11T00:00:00-03:00</published><updated>2019-04-11T00:00:00-03:00</updated><id>http://localhost:4000/urologia/litiase-urinaria</id><content type="html" xml:base="http://localhost:4000/urologia/litiase-urinaria.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Litíase urinária</title><link href="https://resumos.canalionico.com.br/urologia/litiase-urinaria.html" rel="alternate" type="text/html" title="Litíase urinária" /><published>2019-04-11T00:00:00-03:00</published><updated>2019-04-11T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/urologia/litiase-urinaria</id><content type="html" xml:base="https://resumos.canalionico.com.br/urologia/litiase-urinaria.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#composição-dos-cristais&quot; id=&quot;markdown-toc-composição-dos-cristais&quot;&gt;Composição dos cristais&lt;/a&gt;    &lt;ol&gt;
@@ -1004,7 +1385,7 @@ pela redução do citrato que é um importante inibidor da litíase (forma compl
 
 &lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
 
-&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Abortamento</title><link href="http://localhost:4000/obstetricia/abortamento.html" rel="alternate" type="text/html" title="Abortamento" /><published>2019-04-09T00:00:00-03:00</published><updated>2019-04-09T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/abortamento</id><content type="html" xml:base="http://localhost:4000/obstetricia/abortamento.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Abortamento</title><link href="https://resumos.canalionico.com.br/obstetricia/abortamento.html" rel="alternate" type="text/html" title="Abortamento" /><published>2019-04-09T00:00:00-03:00</published><updated>2019-04-09T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/obstetricia/abortamento</id><content type="html" xml:base="https://resumos.canalionico.com.br/obstetricia/abortamento.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
@@ -1266,253 +1647,6 @@ de contrações reforçam o diagnóstico.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Derrame papilar</title><link href="http://localhost:4000/mastologia/derrame-papilar" rel="alternate" type="text/html" title="Derrame papilar" /><published>2019-04-04T00:00:00-03:00</published><updated>2019-04-04T00:00:00-03:00</updated><id>http://localhost:4000/mastologia/derrame-papilar</id><content type="html" xml:base="http://localhost:4000/mastologia/derrame-papilar">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O  derrame  papilar é a exteriorização, não associada à gravidez e lactação, de líquido por um ou mais poros galactóforos. É  um  sintoma  muito  frequente, correspondendo à terceira queixa mamária mais comum, depois de dor e massas palpáveis, com uma prevalência de 5%  a  10%.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Pode ocorrer em homens e mulheres por causas mamárias ou extra-mamárias. Nos homens a desarga papilar está muito mais associado ao câncer de mama do quê nas mulheres, de forma compreensível.&lt;/p&gt;
-
-&lt;p&gt;O derrame é considerado  suspeito  quando  ocorre espontaneamente,  quando  é  persistente,  unilateral,  sanguinolento ou serossanguinolento.&lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aspécto macroscópico: leitosa, verde, castanha, sanguinolenta, serosa, turva, purulenta;&lt;/li&gt;
-  &lt;li&gt;Fluxo papilar: espontâneo ou provocado&lt;/li&gt;
-  &lt;li&gt;Unilateral, uniductal ou multiductal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A descarga sanguínea possui associação com papiloma intracanalicular, carcinoma papilífero e outras lesões.&lt;/p&gt;
-
-&lt;p&gt;A maior preocupação é o derrame &lt;strong&gt;espontâneo&lt;/strong&gt;, &lt;strong&gt;persistente&lt;/strong&gt;, &lt;strong&gt;uniductal&lt;/strong&gt;, &lt;strong&gt;hemático&lt;/strong&gt; ou &lt;strong&gt;seroso&lt;/strong&gt; (em “água de rocha”).&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;A produção do líquido pode ser intra ou extraductal (em menos frequência).&lt;/p&gt;
-
-&lt;p&gt;Causas intraductais:&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Paula IB de, Campos AM, Paula IB de, Campos AM. Breast imaging in patients with nipple discharge. Radiologia Brasileira. 2017;50(6):383-388. doi:10.1590/0100-3984.2016.0103 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Estática fetal</title><link href="http://localhost:4000/obstetricia/estatica-fetal.html" rel="alternate" type="text/html" title="Estática fetal" /><published>2019-04-01T00:00:00-03:00</published><updated>2019-04-01T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/estatica-fetal</id><content type="html" xml:base="http://localhost:4000/obstetricia/estatica-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#atitude&quot; id=&quot;markdown-toc-atitude&quot;&gt;Atitude&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#durante-a-gestação&quot; id=&quot;markdown-toc-durante-a-gestação&quot;&gt;Durante a gestação&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#no-parto&quot; id=&quot;markdown-toc-no-parto&quot;&gt;No parto&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#situação&quot; id=&quot;markdown-toc-situação&quot;&gt;Situação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#apresentação&quot; id=&quot;markdown-toc-apresentação&quot;&gt;Apresentação&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#apresentação-cefálica&quot; id=&quot;markdown-toc-apresentação-cefálica&quot;&gt;Apresentação cefálica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#apresentação-pélvica&quot; id=&quot;markdown-toc-apresentação-pélvica&quot;&gt;Apresentação pélvica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#altura-da-apresentação&quot; id=&quot;markdown-toc-altura-da-apresentação&quot;&gt;Altura da apresentação&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#de-acordo-com-os-planos-de-delee&quot; id=&quot;markdown-toc-de-acordo-com-os-planos-de-delee&quot;&gt;De acordo com os planos de DeLee&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#posição&quot; id=&quot;markdown-toc-posição&quot;&gt;Posição&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#variedade-de-posição&quot; id=&quot;markdown-toc-variedade-de-posição&quot;&gt;Variedade de Posição&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#nomeclatura&quot; id=&quot;markdown-toc-nomeclatura&quot;&gt;Nomeclatura&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#nomeclatura-da-situação-longitudinal&quot; id=&quot;markdown-toc-nomeclatura-da-situação-longitudinal&quot;&gt;Nomeclatura da situação longitudinal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#nomeclatura-da-situação-transversa&quot; id=&quot;markdown-toc-nomeclatura-da-situação-transversa&quot;&gt;Nomeclatura da situação transversa&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A estática fetal é o estudo da relação entre o feto e o útero materno.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;atitude&quot;&gt;Atitude&lt;/h2&gt;
-&lt;p&gt;Ou hábito fetal, é a &lt;strong&gt;relação das diversas partes do feto entre si&lt;/strong&gt;. O feto (aprox. 50 cm) precisa se acomodar no pequeno espaço uterino (30 cm).&lt;/p&gt;
-
-&lt;h3 id=&quot;durante-a-gestação&quot;&gt;Durante a gestação&lt;/h3&gt;
-&lt;p&gt;O feto se mantêm em atitude de flexão generalizada, com a coluna vertebral curvada em seu todo e a cabeça com o mento aproximado da face anterior do tórax. Então o feto assume uma forma ovoide, sendo chamado de &lt;mark&gt;_ovoide fetal_&lt;/mark&gt;. E o conjunto do tronco com os membros é chamado de &lt;em&gt;ovoide córmico&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Essa ovoide possui dois polos, o &lt;strong&gt;polo cefálico&lt;/strong&gt; e o &lt;strong&gt;polo pélvico&lt;/strong&gt;, sendo o pélvico o maior. Neste momento, o polo pélvico é maior que o cefálico.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/estatica-fetal/ovoide-fetal.png&quot; alt=&quot;Ovoide fetal com dois polos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A atitude da cabeça varia muito durante a apresentação pélvica. Pode estar ligeiramente fletida, com o mento próximo ao manúbrio, indiferente ou em deflexão. Nenhuma delas possui significado prognóstico.&lt;/p&gt;
-
-&lt;h3 id=&quot;no-parto&quot;&gt;No parto&lt;/h3&gt;
-&lt;p&gt;Ao início do trabalho de parto, e principalmente após a amniorrexe, a atitude do feto se modifica. O útero passa de uma forma globosa para um cilindroide, obrigando o feto a endireitar o tronco, diminuindo a sua flexão. Aqui forma-se então o &lt;strong&gt;cilindro fetal&lt;/strong&gt;, com a cabeça fletida sobre o tronco.&lt;/p&gt;
-
-&lt;p&gt;Nessa fase o polo cefálico começa a se adaptar ao trajeto pelviperineal.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cabeça:&lt;/strong&gt; O crânio é constituído de dois ossos frontais, dois parietais, dois temporais, um occipital, um esfenoide e um etmoide.&lt;/p&gt;
-
-&lt;p&gt;Enquanto os ossos da abóbada craniana são separados por tecidos membranosos – suturas e fontanelas –, possibilitando a redução de seu volume durante o parto, os ossos da base compõem bloco indeformável.&lt;/p&gt;
-
-&lt;p&gt;Suturas mais importantes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sagital: entre os parietais&lt;/li&gt;
-  &lt;li&gt;Metópica: interfrontal ou frontal média&lt;/li&gt;
-  &lt;li&gt;Coronária: entre os frontais e parietais&lt;/li&gt;
-  &lt;li&gt;Lambdoide: entre os parietais e o occiptal&lt;/li&gt;
-  &lt;li&gt;Temporal: entre os parietais e os temporais&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fontanelas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Fontanela bregmática:&lt;/strong&gt; anterior ou grande fontanela, com forma de losango&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fontanela lambdoide:&lt;/strong&gt; posterior ou pequena fontanela, forma triangular.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fontanelas ptéricas&lt;/strong&gt; ou ptérios: uma de cada lado.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fontanelas astéricas&lt;/strong&gt; ou astérios: uma de cada lado, também.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Para o parto adequado a cabeça precisa ser fletida de modo a se apresentar com o seu maior diâmetro na direção de saída da vagina (no caso, o diâmetro subocciptobregmatico).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/estatica-fetal/cranio-feto.jpg&quot; alt=&quot;Crânio de um feto&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tronco:&lt;/strong&gt;  …&lt;/p&gt;
-
-&lt;h2 id=&quot;situação&quot;&gt;Situação&lt;/h2&gt;
-&lt;p&gt;É a relação entre os grandes eixos longitudinais fetal e uterino.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Situação longitudinal:&lt;/strong&gt; quando o maior eixo uterino coincide com o maior eixo fetal;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Situação tranversal:&lt;/strong&gt; quando o maior eixo uterino é perpendicular ao maior eixo uterino;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Situação oblíqua:&lt;/strong&gt; quando os eixos estão cruzados&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;apresentação&quot;&gt;Apresentação&lt;/h2&gt;
-&lt;p&gt;É a &lt;strong&gt;região fetal&lt;/strong&gt; que se localiza na área do &lt;strong&gt;estreito superior&lt;/strong&gt;, ocupando-a em seu todo, tendendo a insinuar-se.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Mutação ou versão:&lt;/em&gt; é quando há transformação de uma apresentação para outra. Após o 6 mês o feto “da uma cambalhota” trocando da apresentação pélvica para a cefálica.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/estatica-fetal/diam.png&quot; alt=&quot;Principais diâmetros do crânio fetal&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Na situação transversa a apresentação é sempre córmica. Já nas situações longitudinais, a apresentação pode ser cefálica (maioria) ou pélvica.&lt;/p&gt;
-
-&lt;h3 id=&quot;apresentação-cefálica&quot;&gt;Apresentação cefálica&lt;/h3&gt;
-&lt;p&gt;Nesta apresentação o esperado o polo cefálico pode estar fletido (apresentação em vértice) ou em extensão (defletido). Essas deflexões são divididas em graus:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Grau I: ou bregmáticas;&lt;/li&gt;
-  &lt;li&gt;Grau II: ou de fronte;&lt;/li&gt;
-  &lt;li&gt;Grau III: apresentação de face, a deflexão máxima.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;apresentação-pélvica&quot;&gt;Apresentação pélvica&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Apresentação pélvica completa: pelvipodálica, quando as coxas e pernas estão fletidas;&lt;/li&gt;
-  &lt;li&gt;Apresentação pélvica imcompleta: pélvica simples, quando as coxas estão fletidas sobre a bacia mas as pernas estão estendidas sobre a face anterior do tronco.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;altura-da-apresentação&quot;&gt;Altura da apresentação&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Alta e móvel: quando ainda não assume o estreito superior&lt;/li&gt;
-  &lt;li&gt;Ajustada: quando ocupa o estreito superior&lt;/li&gt;
-  &lt;li&gt;Fixa: quando não consegue ser mobilizada à palpação&lt;/li&gt;
-  &lt;li&gt;Insinuada: quando a maior circunferência da apresentação transpõe a área do estreito superior.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Chama-se, assim, insinuação ou encaixamento a passagem, pelo estreito superior, do maior plano perpendicular à linha da orientação, isto é, passagem do &lt;strong&gt;biparietal&lt;/strong&gt; nas apresentações cefálicas e do &lt;strong&gt;bitrocanteriano&lt;/strong&gt; nas apresentações pélvicas.&lt;/p&gt;
-
-&lt;p&gt;A travessia dessa região estreita da bacia se obtém pela redução dimensória sinalada, e por
-movimento de inclinação lateral da apresentação a que se denomina &lt;strong&gt;assinclitismo&lt;/strong&gt;. A ausência da flexão lateral, mantendo-se a sutura sagital equidistante do sacro e do púbis, condiciona o &lt;strong&gt;sinclitismo&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/estatica-fetal/assin.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;de-acordo-com-os-planos-de-delee&quot;&gt;De acordo com os planos de DeLee&lt;/h4&gt;
-&lt;p&gt;Considera o &lt;strong&gt;diâmetro biespinha ciática&lt;/strong&gt;, ou linha interespinhosa, como o plano 0 de referência. Cada centímetro acima é negativo e cada centímetro abaixo é positivo. Vai dos valores -5 até +5.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/estatica-fetal/delee.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;posição&quot;&gt;Posição&lt;/h2&gt;
-&lt;p&gt;É a relação do dorso fetal com o lado direito ou esquerda materno.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Posição esquerda: quando o dorso fetal está voltado para o lado esquerdo materno (primeira posição)&lt;/li&gt;
-  &lt;li&gt;Posição direita: quando o dorso fetal está para a direita materna (segunda posição)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;variedade-de-posição&quot;&gt;Variedade de Posição&lt;/h2&gt;
-
-&lt;p&gt;Pontos de referência usados para determinar o tipo de variação:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Na gestante: as eminências ileopectíneas, as extremidades do diâmetro transverso máximo, a sinostose sacroilíaca e o sacro;&lt;/li&gt;
-  &lt;li&gt;No feto:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Lâmbda:&lt;/strong&gt; apresentações fletidas (de vértice)&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Bregma:&lt;/strong&gt; defletidas de I grau&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Glabela&lt;/strong&gt; (raiz do nariz): defletidas de II grau&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Mento:&lt;/strong&gt; grau III&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Sacro:&lt;/strong&gt; apresentações pélvicas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Obs: Na situação transversa a apresentação é córmica!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Linha de orientação:&lt;/strong&gt; É a linha fetal que se põe em relação com o diâmetro materno de insinuação e possibilitar acompanhar os movimentos da apresentação durante o trabalho de parto. As linhas são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sutura sagital, na apresentação cefálica fletida&lt;/li&gt;
-  &lt;li&gt;Sutura sagital e metópica, na apresentação cefálica defletida de 1 o grau&lt;/li&gt;
-  &lt;li&gt;Sutura metópica, na apresentação cefálica defletida de 2 o grau&lt;/li&gt;
-  &lt;li&gt;Linha facial, isto é, linha mediana que a partir da raiz do nariz atinge o mento, na apresentação
-cefálica defletida do 3 o grau&lt;/li&gt;
-  &lt;li&gt;Sulco interglúteo, na apresentação pélvica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;nomeclatura&quot;&gt;Nomeclatura&lt;/h2&gt;
-&lt;p&gt;Serve para designar a &lt;strong&gt;situação, apresentação, posição e a variedade de posição&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;nomeclatura-da-situação-longitudinal&quot;&gt;Nomeclatura da situação longitudinal&lt;/h3&gt;
-&lt;p&gt;Formada por duas ou três letras.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Primeira letra: indica a apresentação&lt;/li&gt;
-  &lt;li&gt;Segunda letra: demais pontos de referência materno.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Atenção:&lt;/strong&gt; Pode haver confusão da letra P de púbis e P de posterior. Quando P é a segunda letra quer dizer púbis e quando é a terceira quer dizer posterior.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/estatica-fetal/ref.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Variedades de posição da apresentação cefálica fletida:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;OP: occipitopubiana&lt;/li&gt;
-  &lt;li&gt;OEA: occípito-esquerda-anterior&lt;/li&gt;
-  &lt;li&gt;OET: occípito-esquerda-transversa&lt;/li&gt;
-  &lt;li&gt;OEP: occípito-esquerda-posterior&lt;/li&gt;
-  &lt;li&gt;OS: occipitossacra&lt;/li&gt;
-  &lt;li&gt;ODP: occípito-direita-posterior&lt;/li&gt;
-  &lt;li&gt;ODT: occípito-direita-transversa&lt;/li&gt;
-  &lt;li&gt;ODA: occípito-direita-anterior.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;nomeclatura-da-situação-transversa&quot;&gt;Nomeclatura da situação transversa&lt;/h3&gt;
-&lt;p&gt;Para a escola alemã a posição é determinada pela localização do ovoide cefálico nas fossas ilíacas, chamando-se primeira posição quando a cabeça está no lado esquerdo, segunda posição quando no lado direito, distinguindo-se as variedades anteriores e posteriores de acordo com a orientação do dorso.&lt;/p&gt;
-
-&lt;p&gt;Exemplo: cefálico-esquerda dorso anterior significa que a cabeça está na fossa ilíaca esquerda e o dorso voltado para a frente, e cefálico-direita-dorso posterior, quando a cabeça está na fossa ilíaca direita, o dorso se acha voltado para trás.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/estatica-fetal/1.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/resumos/assets/imagens/estatica-fetal/tab.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
