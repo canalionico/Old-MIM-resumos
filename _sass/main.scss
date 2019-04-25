@@ -26,8 +26,8 @@ header {
 
 /* Barra de navegaçao */
 nav {
-  line-height: 30px;
-  padding-top:20px;
+  line-height: 35px;
+  padding-top: 20px;
   margin: 0 auto;
   text-align: center;
   width: 100%;
@@ -38,6 +38,7 @@ nav {
     padding: 4px 6px 4px 6px;
     border-radius: 0.5rem;
     color: white;
+    display: inline-block;
   }
   a:hover {
     color: black;
@@ -49,6 +50,13 @@ nav {
 }
 .fa {
   padding-right: 5px;
+}
+#face, #git {
+  font-size: 20px;
+}
+#face {
+  padding-left: 3px;
+  padding-right: 3px;
 }
 
 /* conteúdo principal */
@@ -219,7 +227,6 @@ p, a, li, figcaption {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
   text-align: left;
-  hyphens: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6;

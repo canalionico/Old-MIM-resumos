@@ -1,4 +1,347 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://resumos.canalionico.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://resumos.canalionico.com.br/" rel="alternate" type="text/html" /><updated>2019-04-23T23:07:32-03:00</updated><id>https://resumos.canalionico.com.br/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Câncer de colo uterino</title><link href="https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino.html" rel="alternate" type="text/html" title="Câncer de colo uterino" /><published>2019-04-23T00:00:00-03:00</published><updated>2019-04-23T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino</id><content type="html" xml:base="https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://resumos.canalionico.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://resumos.canalionico.com.br/" rel="alternate" type="text/html" /><updated>2019-04-24T23:49:06-03:00</updated><id>https://resumos.canalionico.com.br/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença renal crônica</title><link href="https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica.html" rel="alternate" type="text/html" title="Doença renal crônica" /><published>2019-04-24T00:00:00-03:00</published><updated>2019-04-24T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica</id><content type="html" xml:base="https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#anemia&quot; id=&quot;markdown-toc-anemia&quot;&gt;Anemia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#doença-óssea-e-articular&quot; id=&quot;markdown-toc-doença-óssea-e-articular&quot;&gt;Doença óssea e articular&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#desequilíbrio-hidroeletrolítico&quot; id=&quot;markdown-toc-desequilíbrio-hidroeletrolítico&quot;&gt;Desequilíbrio hidroeletrolítico&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#taxa-de-filtração-glomerular&quot; id=&quot;markdown-toc-taxa-de-filtração-glomerular&quot;&gt;Taxa de filtração glomerular&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#grau-de-albuminúria&quot; id=&quot;markdown-toc-grau-de-albuminúria&quot;&gt;Grau de albuminúria:&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#abordagem&quot; id=&quot;markdown-toc-abordagem&quot;&gt;Abordagem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#terapia-de-substituição-renal&quot; id=&quot;markdown-toc-terapia-de-substituição-renal&quot;&gt;Terapia de substituição renal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diálise&quot; id=&quot;markdown-toc-diálise&quot;&gt;Diálise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#transplante-renal&quot; id=&quot;markdown-toc-transplante-renal&quot;&gt;Transplante renal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a evidência de anormalidades estruturais ou funcionais presentes por mais de 3 meses. Como resultado da agressão continuada, resultando em progressiva perda de função.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Marcadores de dano renal:
+    &lt;ul&gt;
+      &lt;li&gt;albuminúria &amp;gt;= 30mg/dia&lt;/li&gt;
+      &lt;li&gt;alb/creat &amp;gt;= 30mg/dia&lt;/li&gt;
+      &lt;li&gt;anormalidades no sedimento urinário&lt;/li&gt;
+      &lt;li&gt;distúrbios hidroeletroliticos&lt;/li&gt;
+      &lt;li&gt;etc&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Marcador de função renal reduzida:
+    &lt;ul&gt;
+      &lt;li&gt;TFG &amp;lt; 60mL/min/1,73m²&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hoje em dia o nome passou de IRC para DRC, pois a insuficiência propriamente dita é um estágio tardio da doença renal crônica.&lt;/p&gt;
+
+&lt;p&gt;No início da doença os pacientes se mantêm assintomáticos, pois os rins ainda conseguem compensar a capacidade funcional perdida.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Nas fases mais avançadas os pacientes apresentam acidose metabólica (acúmulo de H+)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Uremia:&lt;/strong&gt; elevação da uréia no sangue&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;O Japão tem a maior incidência&lt;/li&gt;
+  &lt;li&gt;60% dos pacientes têm entre 30-60 anos&lt;/li&gt;
+  &lt;li&gt;Maior no sexo masculino&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+&lt;p&gt;Tudo começa com a agressão renal que resulta em perda irreversível dos néfrons. Os rins então buscam se adaptar compensando essas perdas. Com hipertrofia dos néfrons que sobraram. Ou seja, a taxa de filtração por néfron (TFN) começa a aumentar. Chega um momento que o mecanismo compensatório atinge seu limite&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nefropatia diabética&lt;/strong&gt; (1ª no mundo)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nefropatia hipertensiva&lt;/strong&gt; (1ª no Brasil)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Glomerulopatias&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;LES&lt;/li&gt;
+  &lt;li&gt;D. R. policística&lt;/li&gt;
+  &lt;li&gt;Pielonefrite crônica&lt;/li&gt;
+  &lt;li&gt;Vasculites&lt;/li&gt;
+  &lt;li&gt;Nefrite intersticial&lt;/li&gt;
+  &lt;li&gt;Uropatia obstrutiva adquirida&lt;/li&gt;
+  &lt;li&gt;etc…&lt;/li&gt;
+  &lt;li&gt;↓ da função renal → ↓TFG&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+&lt;p&gt;Até que a TFG atinja &lt;strong&gt;30%&lt;/strong&gt; do normal, os pacientes podem ser &lt;strong&gt;assintomáticos&lt;/strong&gt; (apenas alterações bioquímicas)!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Noctúria (pode ser o 1º sintoma, ocorre pela perda da capacidade de concentração urinária)&lt;/li&gt;
+  &lt;li&gt;↑Hipercalemia, ↑hiperfosfatemia, ↓hipocalcemia&lt;/li&gt;
+  &lt;li&gt;Acidose metabólica (com ânio-gap↑)&lt;/li&gt;
+  &lt;li&gt;Osteodistrofia renal&lt;/li&gt;
+  &lt;li&gt;HAS (80% dos pacientes com DRC)&lt;/li&gt;
+  &lt;li&gt;Anemia&lt;/li&gt;
+  &lt;li&gt;Dislipidemia (hipertrigliceridemia)&lt;/li&gt;
+  &lt;li&gt;Sangramento urêmico&lt;/li&gt;
+  &lt;li&gt;Pericardite&lt;/li&gt;
+  &lt;li&gt;Neuropatia urêmica&lt;/li&gt;
+  &lt;li&gt;Anorexia, náuseas e vômitos&lt;/li&gt;
+  &lt;li&gt;Hálito urêmico&lt;/li&gt;
+  &lt;li&gt;Prurido urêmico&lt;/li&gt;
+  &lt;li&gt;Neve urêmica&lt;/li&gt;
+  &lt;li&gt;Palidez, equimoses, hematomas, desidratação e desnutrição proteicocalórica&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sintomas costumam aparecer com TFG &amp;lt; 30%&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;TFG &amp;lt; 5-10% é praticamente incompatível com a vida&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Lembrar que a DRC pode agudizar em condições como:
+    &lt;ul&gt;
+      &lt;li&gt;Infecções&lt;/li&gt;
+      &lt;li&gt;Descontrole pressórico&lt;/li&gt;
+      &lt;li&gt;Hiper ou hipovolemia&lt;/li&gt;
+      &lt;li&gt;Nefrotoxicidade&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;anemia&quot;&gt;Anemia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Começa a partir do estágio 3&lt;/li&gt;
+  &lt;li&gt;Normo/normo&lt;/li&gt;
+  &lt;li&gt;Hb &amp;lt; 13H e 12M&lt;/li&gt;
+  &lt;li&gt;A deficiência de eritropoetina é a causa mais importante&lt;/li&gt;
+  &lt;li&gt;Astenia&lt;/li&gt;
+  &lt;li&gt;Insônia&lt;/li&gt;
+  &lt;li&gt;Cefaleia&lt;/li&gt;
+  &lt;li&gt;Redução da libido&lt;/li&gt;
+  &lt;li&gt;Depressão&lt;/li&gt;
+  &lt;li&gt;Mal estar físico e mental&lt;/li&gt;
+  &lt;li&gt;Anorexia&lt;/li&gt;
+  &lt;li&gt;Tendência a sangramento&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tratamentos&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Eritropoetina (EPO) recombinante humana (para estimular a eritropoiese, 1x/s)&lt;/li&gt;
+      &lt;li&gt;Darbepoetina&lt;/li&gt;
+      &lt;li&gt;FeSO4&lt;/li&gt;
+      &lt;li&gt;Tranfusão de hemácias (evitada)&lt;/li&gt;
+      &lt;li&gt;Folato e Vit. B12&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;doença-óssea-e-articular&quot;&gt;Doença óssea e articular&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Osteíte fibrosa&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;↑ &lt;em&gt;turn over&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;↑ do número e tamanho dos osteoclastos&lt;/li&gt;
+      &lt;li&gt;↑ número e tamanho das lacunas de reabsorçao&lt;/li&gt;
+      &lt;li&gt;↑ níveis de PTH&lt;/li&gt;
+      &lt;li&gt;Hiperparatireoidismo secundário&lt;/li&gt;
+      &lt;li&gt;↑fosfato → ↓Ca → ↓calcitriol → ↑PTH&lt;/li&gt;
+      &lt;li&gt;Dor óssea (↑lombar, quadril, joelhos e costelas)&lt;/li&gt;
+      &lt;li&gt;↑risco de fraturas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Osteomalácia&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;↓ &lt;em&gt;turn over&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;↓ renovação óssea, ↓massa óssea&lt;/li&gt;
+      &lt;li&gt;mineraliação &amp;lt; produção do colágeno (acúmulo de osteoide não mineralizado)&lt;/li&gt;
+      &lt;li&gt;Intoxicação por Al (era usado em hemodiálises e como quelante do fósforo)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Doença óssea adinâmica&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;↓ &lt;em&gt;turn over&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;↓ renovação óssea, ↓massa óssea&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Abordagem da doença óssea na DRC&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Dosar Ca, fosfato, PTH, fosfatase alcalina e 25(OH)D&lt;/li&gt;
+      &lt;li&gt;Restriçao de fosfato&lt;/li&gt;
+      &lt;li&gt;Quelantes orais de fosfato&lt;/li&gt;
+      &lt;li&gt;Reposição de vit. D&lt;/li&gt;
+      &lt;li&gt;Suplemento de Ca&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;desequilíbrio-hidroeletrolítico&quot;&gt;Desequilíbrio hidroeletrolítico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Balanço de água e sódio&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Excesso de líquido extracelular, ↑PA, ↑lesão dos néfrons remanescentes&lt;/li&gt;
+      &lt;li&gt;Em geral o balanço de águal e sódio se mantêm até TFG &amp;lt; 10-15&lt;/li&gt;
+      &lt;li&gt;Contudo, se houver ingesta abundante de água, ocorre hiponatremia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hipercalemia&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Significativo com TFG de 10mL&lt;/li&gt;
+      &lt;li&gt;Fator adicional para a acidose&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hipocalcemia&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Acidose metabólica&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Retenção de H+&lt;/li&gt;
+      &lt;li&gt;Tratar com bicarbonato de sódio&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+&lt;p&gt;Solicitar os exames na suspeita de um paciente que faz parte do grupo de risco.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dosagem de creatinina para estimar TFG&lt;/li&gt;
+  &lt;li&gt;Relação alb/creat&lt;/li&gt;
+  &lt;li&gt;Exame de sedimento urinário (ou fita reagente para leucócitos e hemácias)&lt;/li&gt;
+  &lt;li&gt;USG&lt;/li&gt;
+  &lt;li&gt;Eletrólitos (Na, K, Cl, HCO3)&lt;/li&gt;
+  &lt;li&gt;Concentração ou diluição urinária (densidade ou osmolaridade)&lt;/li&gt;
+  &lt;li&gt;pH urinário&lt;/li&gt;
+  &lt;li&gt;Biópsia: apenas na presença de rins de tamanho próximo ao normal, em que outros exames menos invasivos não foram suficientes e quando existe a suspeita de uma causa potencialmente tratável&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+&lt;h3 id=&quot;taxa-de-filtração-glomerular&quot;&gt;Taxa de filtração glomerular&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;G1: &amp;gt;= 90 mL/min/1,73m² (normal ou ↑)&lt;/li&gt;
+  &lt;li&gt;G2: 60-89 (levemete ↓)&lt;/li&gt;
+  &lt;li&gt;G3 (moderadamente ↓)
+    &lt;ul&gt;
+      &lt;li&gt;A: 45-59&lt;/li&gt;
+      &lt;li&gt;B: 30-44&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;G4: 15-29 (gravemente ↓)&lt;/li&gt;
+  &lt;li&gt;G5: &amp;lt; 15 (falência renal)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;grau-de-albuminúria&quot;&gt;Grau de albuminúria:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Normal: &amp;lt; 10&lt;/li&gt;
+  &lt;li&gt;A1: albuminúria &amp;lt; 30 mg/24h&lt;/li&gt;
+  &lt;li&gt;A2: 30-300&lt;/li&gt;
+  &lt;li&gt;A3: &amp;gt; 300&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;abordagem&quot;&gt;Abordagem&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Tratar causas reversíveis
+    &lt;ul&gt;
+      &lt;li&gt;Redução da perfusal renal (como hipovolemia, hipotensão e infecção)&lt;/li&gt;
+      &lt;li&gt;Obstrução do trato urinário (como HPB)&lt;/li&gt;
+      &lt;li&gt;Drogas nefrotóxicas (como os aminoglicosideos, AINEs e contrastes iodados)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Prevenir ou alentecer a prgressão da doença
+    &lt;ul&gt;
+      &lt;li&gt;Controle pressórico (IECA ou BRAII)&lt;/li&gt;
+      &lt;li&gt;Redução da proteinúria (restrição dietética de proteína e sal)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tratar complicações
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Anemia&lt;/strong&gt; (Hb &amp;lt; 13H e 12M, geralmente normo/normo)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fazer ajuste da dose das drogas&lt;/li&gt;
+  &lt;li&gt;Preparo e início da terapia de substituição renal (TSR)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;terapia-de-substituição-renal&quot;&gt;Terapia de substituição renal&lt;/h2&gt;
+&lt;p&gt;É a realização de diálise e/ou transplante renal. Indicada para o paciente estágio 5 (TFG &amp;lt; 10-15).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Manifestações que respondem à diálise:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Desequilíbrio hidroeletrolítico: hipervolemia, hipercalemia e hiponatremia.&lt;/li&gt;
+      &lt;li&gt;Desequilíbrio acidobásico: acidose
+metabólica.&lt;/li&gt;
+      &lt;li&gt;Sintomas gastrointestinais: náuseas,
+vômitos, diarreia, anorexia.&lt;/li&gt;
+      &lt;li&gt;Sintomas neurológicos: encefalopatia,
+dificuldade de concentração, neuropatia
+periférica.&lt;/li&gt;
+      &lt;li&gt;Hipertensão arterial sistêmica.&lt;/li&gt;
+      &lt;li&gt;Sintomas cardíacos: pericardite, edema
+pulmonar cardiogênico.&lt;/li&gt;
+      &lt;li&gt;Sintomas pulmonares e pleurais:
+derrame pleural, edema pulmonar não
+cardiogênico.&lt;/li&gt;
+      &lt;li&gt;Disfunção plaquetária.&lt;/li&gt;
+      &lt;li&gt;Intolerância a glicose.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Que não respondem:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Anemia.&lt;/li&gt;
+      &lt;li&gt;Osteodistrofia renal.&lt;/li&gt;
+      &lt;li&gt;Distúrbios do cálcio e fosfato
+(hipocalcemia, hiperfosfatemia).&lt;/li&gt;
+      &lt;li&gt;Algumas alterações cutâneas, como o
+prurido.&lt;/li&gt;
+      &lt;li&gt;Alterações articulares: artrite, periartrite,
+tenossinovite.&lt;/li&gt;
+      &lt;li&gt;Aterosclerose acelerada.&lt;/li&gt;
+      &lt;li&gt;Dislipidemia.&lt;/li&gt;
+      &lt;li&gt;Hipercatabolismo com desnutrição
+proteicocalórica.&lt;/li&gt;
+      &lt;li&gt;Depressão imunológica com predisposi  ção à infecção.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;diálise&quot;&gt;Diálise&lt;/h2&gt;
+    &lt;p&gt;Antes do advento da diálise, muitos pacientes com IRA e pratica mente todos com DRC morriam de hipercalemia, edema agudo de pulmão, encefalopatia, acidose  metabólica, tamponamento cardíaco ou hemorragias incontroláveis.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contudo, a maior sobrevida proporcionada pela diálise acabou por revelar novas complicações da DRC e síndrome urêmica que não podem ser corrigidas, como aterosclerose acelerada, osteodistrofia e prurido.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Indicações&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Na &lt;strong&gt;LRA&lt;/strong&gt; ou &lt;strong&gt;DRC agudizada&lt;/strong&gt;, fazer diálise de urgência quando:
+        &lt;ul&gt;
+          &lt;li&gt;Acidose metabólica, hipercalemia e hipervolemia graves e refratárias.&lt;/li&gt;
+          &lt;li&gt;Síndrome urêmica franca (encefalopatia, pericardite).&lt;/li&gt;
+          &lt;li&gt;Algumas intoxicações (metanol, etilenoglicol, salicilatos).&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;DRC não agudizada&lt;/strong&gt;: na presença de sinais e sintomas de síndrome urêmica, associados a um &lt;em&gt;clearance&lt;/em&gt; de creatinina &amp;lt; 10mL/min ou 15 em situações especiais (como DM e ICC)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Métodos&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Hemodiálise&lt;/strong&gt; (HD)
+        &lt;ul&gt;
+          &lt;li&gt;Arteriovenosa ou venovenosa&lt;/li&gt;
+          &lt;li&gt;Complicações
+            &lt;ul&gt;
+              &lt;li&gt;Agudas: instabilidade hemodinâmica, SCA, embolia gasosa, hemorragias, reação anafilática, febre, leucopenia&lt;/li&gt;
+              &lt;li&gt;Crônicas: anemia, trombose da fístula AV, infecção FAV (endarterite), amiloidose&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Diálise peritoneal&lt;/strong&gt; (DP)
+        &lt;ul&gt;
+          &lt;li&gt;Complicações: mecânicas, clínicas e infecciosas (peritonite bacteriana)&lt;/li&gt;
+          &lt;li&gt;A grande vantagem da DP é a sua fácil instalação e execução e o menor risco de complicações hemodinâmicas, cardiovasculares e hemorrágicas (a DP não utiliza heparina).&lt;/li&gt;
+          &lt;li&gt;Mas tem uma menor eficiência na remoção de solutos&lt;/li&gt;
+          &lt;li&gt;Contraindicações absolutas: Fibrose e obliteração da cavidade abdominal por cirurgia prévia, Clearance peritoneal inadequado, Defeito anatômico no diafragma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;h2 id=&quot;transplante-renal&quot;&gt;Transplante renal&lt;/h2&gt;
+    &lt;p&gt;É o melhor método de substituição renal.&lt;/p&gt;
+
+    &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Câncer de colo uterino</title><link href="https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino.html" rel="alternate" type="text/html" title="Câncer de colo uterino" /><published>2019-04-23T00:00:00-03:00</published><updated>2019-04-23T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino</id><content type="html" xml:base="https://resumos.canalionico.com.br/ginecologia/cancer-de-colo-uterino.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
@@ -1385,274 +1728,4 @@ pela redução do citrato que é um importante inibidor da litíase (forma compl
 
 &lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
 
-&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Abortamento</title><link href="https://resumos.canalionico.com.br/obstetricia/abortamento.html" rel="alternate" type="text/html" title="Abortamento" /><published>2019-04-09T00:00:00-03:00</published><updated>2019-04-09T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/obstetricia/abortamento</id><content type="html" xml:base="https://resumos.canalionico.com.br/obstetricia/abortamento.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#abortos-legalizados-no-brasil&quot; id=&quot;markdown-toc-abortos-legalizados-no-brasil&quot;&gt;Abortos legalizados no Brasil&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#formas-clínicas&quot; id=&quot;markdown-toc-formas-clínicas&quot;&gt;Formas clínicas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#ameaça-de-abortamento&quot; id=&quot;markdown-toc-ameaça-de-abortamento&quot;&gt;Ameaça de abortamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#abortamento-inevitável&quot; id=&quot;markdown-toc-abortamento-inevitável&quot;&gt;Abortamento inevitável&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#abortamento-completo&quot; id=&quot;markdown-toc-abortamento-completo&quot;&gt;Abortamento completo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#abortamento-incompleto&quot; id=&quot;markdown-toc-abortamento-incompleto&quot;&gt;Abortamento incompleto&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#abortamento-infectado&quot; id=&quot;markdown-toc-abortamento-infectado&quot;&gt;Abortamento infectado&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#abortamento-retido&quot; id=&quot;markdown-toc-abortamento-retido&quot;&gt;Abortamento retido&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#abortamento-habitual&quot; id=&quot;markdown-toc-abortamento-habitual&quot;&gt;Abortamento habitual&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#insuficiência-cervical&quot; id=&quot;markdown-toc-insuficiência-cervical&quot;&gt;Insuficiência cervical&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É a expulsão do feto &lt;strong&gt;&amp;lt; 500g&lt;/strong&gt; ou &lt;strong&gt;&amp;lt; 20-22s&lt;/strong&gt;. Pode ser espontâneo ou provocado.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;p&gt;Cerca de 75% dos ovos fertilizados são abortados, e em mais da metade deles isso ocorre antes da 1a falha menstrual. Em gestações diagnosticadas clinicamente, 10 a 25% terminam espontaneamente, e 80% delas ocorrem no 1o trimestre (abortamento clínico).&lt;/p&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Precoces: até 12s&lt;/li&gt;
-  &lt;li&gt;Tardios: de 12 a 20s&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Alterações cromossômicas&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Aneuploidia
-        &lt;ul&gt;
-          &lt;li&gt;Trissomia (52%)&lt;/li&gt;
-          &lt;li&gt;Monossomia (&amp;lt;1%)&lt;/li&gt;
-          &lt;li&gt;Síndrome de Turner, 45X0 (19%)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Triploidia (16%)&lt;/li&gt;
-      &lt;li&gt;Tetraploidia (6%)&lt;/li&gt;
-      &lt;li&gt;Outros (7%)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Insuficiência luteínica&lt;/li&gt;
-  &lt;li&gt;Alterações  hormonais&lt;/li&gt;
-  &lt;li&gt;Insuficiência istmo-cervical (mais tardias, também é uma causa frequente de parto prematuro)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;abortos-legalizados-no-brasil&quot;&gt;Abortos legalizados no Brasil&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Estupro&lt;/li&gt;
-  &lt;li&gt;Anencefalia&lt;/li&gt;
-  &lt;li&gt;Risco de vida da mãe&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;formas-clínicas&quot;&gt;Formas clínicas&lt;/h2&gt;
-&lt;h3 id=&quot;ameaça-de-abortamento&quot;&gt;Ameaça de abortamento&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sangramento significativo antes de 22s (cuidado com pequenos sangramentos fisiológicos)&lt;/li&gt;
-  &lt;li&gt;Cólicas&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG:&lt;/strong&gt; fluxo interviloso ao Doppler colorido antes de 10 semanas
-    &lt;ul&gt;
-      &lt;li&gt;CCN &amp;gt;= 7mm e ausência de bcf&lt;/li&gt;
-      &lt;li&gt;Diametro médio do saco gestacional SG &amp;gt; 25mm e embrião ausente&lt;/li&gt;
-      &lt;li&gt;Hematoma intrauterino&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;hemorragia (anomalia decidual e-ou descolamento do ovo), se for “borra de café” é mais sério;
-    &lt;ul&gt;
-      &lt;li&gt;30% das gestações sangram no 1T e 50% delas abortam;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;dor, acompanhando a hemorragia.&lt;/li&gt;
-  &lt;li&gt;sinal de contração uterina&lt;/li&gt;
-  &lt;li&gt;útero de volume aumentado&lt;/li&gt;
-  &lt;li&gt;Fluxo interviloso
-    &lt;ul&gt;
-      &lt;li&gt;Gravidez normal: não ocorre até 10s&lt;/li&gt;
-      &lt;li&gt;No abortamento: hemorragia nas áreas periféricas em que está o fluxo interviloso&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;TTO:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;repouso relativo&lt;/li&gt;
-      &lt;li&gt;proibir o coito&lt;/li&gt;
-      &lt;li&gt;tranquilizar a gestante&lt;/li&gt;
-      &lt;li&gt;antiespasmódicos e analgésicos nas cólicas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;abortamento-inevitável&quot;&gt;Abortamento inevitável&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;o colo está dilatado, mas o produto da concepção não foi eliminado&lt;/li&gt;
-  &lt;li&gt;Hemorragias tendem a ser mais abundantes com sangue de cor viva;&lt;/li&gt;
-  &lt;li&gt;O volume uterino corresponde à IG;&lt;/li&gt;
-  &lt;li&gt;Colo permeável com membranas herniadas;&lt;/li&gt;
-  &lt;li&gt;TTO:
-    &lt;ul&gt;
-      &lt;li&gt;até 12s: dilatação seguida de aspiração a vácuo ou de curetagem;&lt;/li&gt;
-      &lt;li&gt;após 12s: ocitocina em grandes doses para acelerar a expulsão, extraindo o remanescente com pinça (evitar manipulação cirurgica pois nessa época o ovo e útero estão muito desenvolvidos e com paredes finas e moles);&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Estudar histologicamente o material do abortamento.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;abortamento-completo&quot;&gt;Abortamento completo&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;todo o produto da concepção foi  eliminado sem a necessidade de intervenção&lt;/li&gt;
-  &lt;li&gt;USG: Eco endometrial central (espessura &amp;lt; 8 a 10 mm), “útero vazio”
-    &lt;ul&gt;
-      &lt;li&gt;Espessura anteroposterio do endométro é &amp;lt; 8-10mm&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;frequente até 8s (até aí não tem “resto”)&lt;/li&gt;
-  &lt;li&gt;TTO: esses casos evoluem satisfatoriamente e não necessitam de intervenção cirúrgica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;abortamento-incompleto&quot;&gt;Abortamento incompleto&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;alguma parte do produto da concepção foi eliminada, podendo estar retidos feto, placenta ou membranas;&lt;/li&gt;
-  &lt;li&gt;Eliminação parcial do ovo (geralmente a paciente informa a eliminação apenas do feto)&lt;/li&gt;
-  &lt;li&gt;Hemorragia persistente (perigo de infecção)&lt;/li&gt;
-  &lt;li&gt;Comum após 8s (quando as vilosidades coriônicas ficam aderidas ao útero)&lt;/li&gt;
-  &lt;li&gt;Sangramento não cessa, podendo ser intenso (os restos ovulares impedem as contrações uterinas adequadas)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG:&lt;/strong&gt; Qualquer espessura endometrial; tecido heterogêneo distorcendo o eco médio endometrial
-    &lt;ul&gt;
-      &lt;li&gt;Espessura AP do endométrio &amp;gt; 8-10mm (restos ovulares)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Útero com dimensões menores que as esperadas para a IG;&lt;/li&gt;
-  &lt;li&gt;Colo entreaberto;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;TTO:&lt;/strong&gt; esvaziamento cirúrgico (aspiração a vácuo)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;abortamento-infectado&quot;&gt;Abortamento infectado&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;complicado por infecção intrauterina (geralmente incompleto)&lt;/li&gt;
-  &lt;li&gt;geralmente devido a más condições técnicas do abortamentos&lt;/li&gt;
-  &lt;li&gt;Etiologias: microorganismos da flora genital e intestinal&lt;/li&gt;
-  &lt;li&gt;USG: abcesso pélvico&lt;/li&gt;
-  &lt;li&gt;Classificação:
-    &lt;ul&gt;
-      &lt;li&gt;I - Endo(mio)metrite: a  mais comum, infecção limitada à cavidade uterina, à decídua e miométrio.&lt;/li&gt;
-      &lt;li&gt;II - Pelviperitonite: localizada no miometrio, paramétrios e anexos, comprometendo o peritônio pélvico, sangue mesclado com líquido sanioso e odor fecaloide. Paciente com muita dor.&lt;/li&gt;
-      &lt;li&gt;III - Peritonite: forma extremamente grave, forma anterior + peritonite, septicemia e choque séptico (geralmente gram-neg).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;TTO:
-    &lt;ul&gt;
-      &lt;li&gt;Esvaziamento cirúrgico&lt;/li&gt;
-      &lt;li&gt;antibioticoterapia de amplo espectro (clinda, genta e ampicilina)&lt;/li&gt;
-      &lt;li&gt;ocitocina&lt;/li&gt;
-      &lt;li&gt;Drenas abcessos da peritonite pelo fundo de saco.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;abortamento-retido&quot;&gt;Abortamento retido&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;gravidez em que há a morte fetal sem a sua expulsão;&lt;/li&gt;
-  &lt;li&gt;Ovo morto fica retido por dias ou semanas&lt;/li&gt;
-  &lt;li&gt;Pode haver ou não o sangramento vaginal&lt;/li&gt;
-  &lt;li&gt;USG: CCN &amp;gt; 5mm sem atividade cardíaca&lt;/li&gt;
-  &lt;li&gt;Em retenções prolongadas (&amp;gt; 4s) os distúrbios da hemocoagulação são a complicação mais temida.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;ovo anembrionado&lt;/em&gt; quando a USG não identifica o embrião e SG &amp;gt; 25mm&lt;/li&gt;
-  &lt;li&gt;Diag definitivo: 2 UGSs espaçadas de 7-10 dias.&lt;/li&gt;
-  &lt;li&gt;TTO:
-    &lt;ul&gt;
-      &lt;li&gt;Expectante: aguardar a expulsão&lt;/li&gt;
-      &lt;li&gt;Medicamentosa: misoporstol&lt;/li&gt;
-      &lt;li&gt;Intervenção cirúrgica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;abortamento-habitual&quot;&gt;Abortamento habitual&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Recorrente, 2 ou mais abortamentos consecutivos;&lt;/li&gt;
-  &lt;li&gt;Afeta cerca de 5% dos casais
-    &lt;ul&gt;
-      &lt;li&gt;cerca de 1% com 3 ou mais abortos seguidos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Fatores de risco:
-    &lt;ul&gt;
-      &lt;li&gt;idade materna e patena avançadas&lt;/li&gt;
-      &lt;li&gt;número de abortamentos anteriores&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Etologias:
-    &lt;ul&gt;
-      &lt;li&gt;Anomalias cromossômicas&lt;/li&gt;
-      &lt;li&gt;Aloimunes&lt;/li&gt;
-      &lt;li&gt;Autoimunes (AFL, LES)
-        &lt;ul&gt;
-          &lt;li&gt;SAF (síndrome antifosfolipídio) é a causa mais importante&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Doenças endócrinas
-        &lt;ul&gt;
-          &lt;li&gt;S. do ovário policístico (SOP)&lt;/li&gt;
-          &lt;li&gt;T. de Hashymoto&lt;/li&gt;
-          &lt;li&gt;Hipotireoidismo&lt;/li&gt;
-          &lt;li&gt;Def. luteínica&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Fatores anatômicos: como malformações uterinas, insuficiência cervical e miomas.&lt;/li&gt;
-      &lt;li&gt;Imunológicos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;TTO:
-    &lt;ul&gt;
-      &lt;li&gt;fertilização &lt;em&gt;in vitro&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;Na insuficiência luteínica: progesterona vaginal, 200 mg/dia, 2 a 3 dias após a ovulação até a transferência luteoplacentária entre 7 e 9 semanas&lt;/li&gt;
-      &lt;li&gt;levotiroxina no hipotireoidismo (Hashimoto), desde que o TSH esteja &amp;gt; 2,5mUI/ml&lt;/li&gt;
-      &lt;li&gt;Redução de peso e metformina na SOP&lt;/li&gt;
-      &lt;li&gt;heparina e ácido acetilsalicílico (AAS) infantil na SAF (70% de tratamento bem-sucedido)&lt;/li&gt;
-      &lt;li&gt;Resecção histeroscópica no útero septado e no mioma intracavitário.&lt;/li&gt;
-      &lt;li&gt;O casal com abortamento habitual de causa inexplicável deve ser confortado, comunicando-se a chance de êxito de 70%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;insuficiência-cervical&quot;&gt;Insuficiência cervical&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Incapacidade do colo uterino em reter o produto da concepção&lt;/li&gt;
-  &lt;li&gt;Tipicamente no 2T&lt;/li&gt;
-  &lt;li&gt;Representa 8% dos casos de abortamento habitual.&lt;/li&gt;
-  &lt;li&gt;História de ruptura espontânea de membranas&lt;/li&gt;
-  &lt;li&gt;Dilatação &lt;strong&gt;sem dor&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Grande importância no abortamento habitual&lt;/li&gt;
-  &lt;li&gt;História de perdas fetais cada vez mais precoces&lt;/li&gt;
-  &lt;li&gt;História de &amp;gt;= 1 abortamento no 2T&lt;/li&gt;
-  &lt;li&gt;História de dilatação cervical indolor até 4-6cm&lt;/li&gt;
-  &lt;li&gt;pode ser precedida por história de traumatismo cervical por conização&lt;/li&gt;
-  &lt;li&gt;Secreção mucoide vaginal e dilatação de 4-6cm sem desconforto apreciável ou percepção
-de contrações reforçam o diagnóstico.&lt;/li&gt;
-  &lt;li&gt;A dilatação cervical com herniação das membranas visualizadas ao exame especular configura o quadro de insuficiência cervical aguda&lt;/li&gt;
-  &lt;li&gt;TTO: Cirúrgico, circlagem do colo uterino, realizada na gravidez. Pode ser transabdominal ou vaginal
-    &lt;ul&gt;
-      &lt;li&gt;Circlagem histório-indicada: para mulheres com uma ou mais perdas gestacionais com o quadro clínico de insuf. cervical.&lt;/li&gt;
-      &lt;li&gt;Circlagem ultrassonografia-indicada&lt;/li&gt;
-      &lt;li&gt;Circlagem de emergência&lt;/li&gt;
-      &lt;li&gt;Circlagem transabdominal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
