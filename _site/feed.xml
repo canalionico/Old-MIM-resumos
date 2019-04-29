@@ -1,4 +1,265 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://resumos.canalionico.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://resumos.canalionico.com.br/" rel="alternate" type="text/html" /><updated>2019-04-24T23:49:06-03:00</updated><id>https://resumos.canalionico.com.br/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença renal crônica</title><link href="https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica.html" rel="alternate" type="text/html" title="Doença renal crônica" /><published>2019-04-24T00:00:00-03:00</published><updated>2019-04-24T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica</id><content type="html" xml:base="https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://resumos.canalionico.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://resumos.canalionico.com.br/" rel="alternate" type="text/html" /><updated>2019-04-28T21:40:50-03:00</updated><id>https://resumos.canalionico.com.br/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Câncer de endométrio</title><link href="https://resumos.canalionico.com.br/ginecologia/cancer-de-endometrio.html" rel="alternate" type="text/html" title="Câncer de endométrio" /><published>2019-04-28T00:00:00-03:00</published><updated>2019-04-28T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/ginecologia/cancer-de-endometrio</id><content type="html" xml:base="https://resumos.canalionico.com.br/ginecologia/cancer-de-endometrio.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#subtipos-histológicos&quot; id=&quot;markdown-toc-subtipos-histológicos&quot;&gt;Subtipos histológicos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-adjuvante&quot; id=&quot;markdown-toc-tratamento-adjuvante&quot;&gt;Tratamento adjuvante&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sarcomas-uterinos&quot; id=&quot;markdown-toc-sarcomas-uterinos&quot;&gt;Sarcomas uterinos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a neoplasia ginecológica mais frequente, o 2º tumor genital mais comum em mulheres no Brasil (4º CA mais incidente em mulheres nos EUA).&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;p&gt;75% dos casos ocorrem em mulheres menopausadas (X = 60a), sendo considerado raro na pré-menopausa.
+Em 80% dos casos a lesão está restrita ao útero no momento do diagnóstico&lt;/p&gt;
+
+&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Relacionados ao estímulo estrogênico
+    &lt;ul&gt;
+      &lt;li&gt;Ingestão de estrógenos&lt;/li&gt;
+      &lt;li&gt;Tumores ovarianos produtores de estrógeno&lt;/li&gt;
+      &lt;li&gt;Extensos períodos de anovulação&lt;/li&gt;
+      &lt;li&gt;↓Paridade&lt;/li&gt;
+      &lt;li&gt;Menarca precoce&lt;/li&gt;
+      &lt;li&gt;Menopausa tardia&lt;/li&gt;
+      &lt;li&gt;Obesidade (3x)&lt;/li&gt;
+      &lt;li&gt;Uso de tamoxifen (usado para evitar recidiva de CA de mama, este efeito pode ser mais benéfico mesmo ao custo de maior risco de CA de endométrio)&lt;/li&gt;
+      &lt;li&gt;Síndrome dos ovários policísticos (↑chance na pré-menopausa)&lt;/li&gt;
+      &lt;li&gt;Tumores das células da granulosa (↑chance na pré-menopausa)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hipertensão (1,5x)&lt;/li&gt;
+  &lt;li&gt;Diabéticas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+&lt;p&gt;O câncer de endométrio estrógeno-dependente progride através de um estado pré-maligno definido como &lt;strong&gt;hiperplasia endometrial&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aspécto arquitetura glandular
+    &lt;ul&gt;
+      &lt;li&gt;Simples (1% evolui para CA)&lt;/li&gt;
+      &lt;li&gt;Complexas (3%)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Achados citológicos
+    &lt;ul&gt;
+      &lt;li&gt;Típicas&lt;/li&gt;
+      &lt;li&gt;Atípicas
+        &lt;ul&gt;
+          &lt;li&gt;Simples atípica (8% evolui para CA)&lt;/li&gt;
+          &lt;li&gt;Complexa atípica (29% evolui para CA)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A neoplasia endometrial evolui localmente através de infiltração parcial ou total da
+mucosa podendo atingir o istmo e a endocérvix.
+Simultaneamente infiltra o miométrio e pode
+comprometer a superfície externa do útero infiltrando estruturas vizinhas, como trompas, ovários,
+bexiga e retosigmóide.&lt;/p&gt;
+
+&lt;p&gt;Em virtude da rica rede linfática uterina, as metástases ganglionares
+podem comprometer linfonodos ilíacos e para-aórticos. Embora a disseminação por via sanguínea
+não seja muito comum, os principais órgãos sede de metástases são os pulmões, fígado, ossos e
+cérebro.&lt;/p&gt;
+
+&lt;h3 id=&quot;subtipos-histológicos&quot;&gt;Subtipos histológicos&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Adenocarcinoma enometrióide&lt;/strong&gt;: A forma mais comum (80-90% dos casos) e de melhor prognóstico. Possui 3 subtipos (I o mais bem diferenciado e III o menos)&lt;/li&gt;
+  &lt;li&gt;Outros tipos (10%): são de pior prognóstico e evoluem mais para formas extra-uterinas
+    &lt;ul&gt;
+      &lt;li&gt;Carcinoma mucinoso&lt;/li&gt;
+      &lt;li&gt;Carcinoma seroso&lt;/li&gt;
+      &lt;li&gt;Carcinoma de célulasclaras&lt;/li&gt;
+      &lt;li&gt;Carcinoma indiferenciado&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+&lt;p&gt;Os sintomas costumam ser precoces, o que favorece seu tratamento e prognóstico.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sangramento vaginal (principal sintoma): devido a áreas de massa tumoral friável com necrose superficial&lt;/li&gt;
+  &lt;li&gt;Leucorréia (10% das queixas)&lt;/li&gt;
+  &lt;li&gt;Dor&lt;/li&gt;
+  &lt;li&gt;Sensação de massa pélvica&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;USG-TV:&lt;/strong&gt; quando associada à dopplerfluxometria, consegue avaliar a espessura e textura do endométrio.
+    &lt;ul&gt;
+      &lt;li&gt;Espessura &amp;lt; 5 mm: requer investigação&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Biópsiao, &lt;strong&gt;definidor do diagnóstico&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Com curetagem uterina fracionada&lt;/li&gt;
+      &lt;li&gt;Por histeroscopia (mais realizado)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Laboratório
+    &lt;ul&gt;
+      &lt;li&gt;Hemograma&lt;/li&gt;
+      &lt;li&gt;Bioquímico&lt;/li&gt;
+      &lt;li&gt;Função hepática&lt;/li&gt;
+      &lt;li&gt;CA 125, CEA e CA19.9 (os dois últmos menos sensíveis), são mais usados no seguimento&lt;/li&gt;
+      &lt;li&gt;Papanicolau (↓sensibilidade)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;RX-Tórax: avaliação cardiopulmonar e pesquisa por metástases&lt;/li&gt;
+  &lt;li&gt;TC e RNM: úteis para avaliar comprometimento extra-uterino&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h2&gt;
+&lt;p&gt;O estadiamento é feito cirurgicamente. A avaliação clínica pré-operatória visa sequenciar comorbidades, doença disseminada por imagenologia e marcadores tumorais.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ginecologia/ca-endometrio/figo1.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/assets/ginecologia/ca-endometrio/figo2.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Colheita de líquido ascítico ou lavado peritoneal para citologia&lt;/li&gt;
+  &lt;li&gt;Exploração da cavidade abdominal (biopsiando lesões suspeitas)&lt;/li&gt;
+  &lt;li&gt;Histerectomia total com anexectomia bilateral e posterior histopatologia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;p&gt;A principal é a retirada cirúrgica do útero e seus anexos. De bom prognóstico para os tumores restritos ao endométrio, independente do grau de diferencação (I, II ou III), não sendo necessário tratamento adjuvante.&lt;/p&gt;
+
+&lt;p&gt;As formas de tumores com maiores chances de disseminação extra-uterina podem requerer linfadenectomia retroperitoneal.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linfadenectomia pélvica rotineira: indicada nas seguintes situações:
+    &lt;ul&gt;
+      &lt;li&gt;invasão miometrial &amp;gt; 50%&lt;/li&gt;
+      &lt;li&gt;extensão da neoplasia ao istmo ou colo uterino&lt;/li&gt;
+      &lt;li&gt;disseminação extra-uterina&lt;/li&gt;
+      &lt;li&gt;tumores indiferenciados&lt;/li&gt;
+      &lt;li&gt;subtipos histológicos agressivos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Um método alternativo para o estadiamento e tratamento do câncer endometrial para
+diminuir ainda mais a morbidade é a realização de histerectomia vaginal assistida por video
+laparoscopia e linfadenectomia laparoscópica.&lt;/p&gt;
+
+&lt;h3 id=&quot;complicações&quot;&gt;Complicações&lt;/h3&gt;
+&lt;p&gt;As principais complicações são lesões de grandes vasos, lesões intestinais e aumento das
+complicações radioterápicas pós-operatórias.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-adjuvante&quot;&gt;Tratamento adjuvante&lt;/h3&gt;
+&lt;p&gt;Realizado em todas as pacientes com alto risco de recidiva, como doença extrauterina ou metástases e invasão de mais de 50% do miométrio. Se baseia na radioterapia pós-operatória.&lt;/p&gt;
+
+&lt;p&gt;Nos casos de tumores restritos ao endométrio a radioterapia não é indicada, independente do grau de diferencação.&lt;/p&gt;
+
+&lt;p&gt;O tratamento radioterápico em geral consiste de irradiação externa, pélvica, com 5040 cGy
+e 4 inserções vaginais de 600cGy cada ( braquiterapia com alta taxa de dose).&lt;/p&gt;
+
+&lt;p&gt;Quando se identifica infiltração tumoral do colo uterino no pré-operatório (estádio clínico
+IIb) indica-se, em geral, radioterapia neoadjuvante, isto é, anterior ao tratamento cirúrgico. A
+irradiação diminui o volume neoplásico, facilitando o procedimento cirúrgico.&lt;/p&gt;
+
+&lt;p&gt;A terapia
+endócrina tem sua indicação mais clara nas doenças disseminadas e no tratamento da doença
+recorrente, com taxas de resposta (diminuição de volume tumoral e melhora de sintomas) de
+aproximadamente 25%. Utiliza-se, em geral, acetato de &lt;strong&gt;medroxiprogesterona&lt;/strong&gt; na dose de
+200mg/dia ou &lt;strong&gt;acetato de megestrol&lt;/strong&gt; na dose de 160mg/dia. Os índices de resposta são maiores
+(podendo atingir 50 a 60%) nas pacientes cujos tumores possuem receptores de progesterona
+positivos, fato mais comum nas neoplasias bem diferenciadas.&lt;/p&gt;
+
+&lt;p&gt;A quimioterapia sistêmica também tem sua utilização principal na doença avançada
+(estádio III e IV), com taxas de resposta que variam de 20 a 50%. A duração da resposta, no
+entanto, é curta (varia de 4 a 8 meses) e a sobrevida é quase sempre inferior a 1 ano. As drogas
+mais utilizadas são &lt;strong&gt;ciclofosfamida&lt;/strong&gt;, &lt;strong&gt;doxorrubicina&lt;/strong&gt; e &lt;strong&gt;cisplatina&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;sarcomas-uterinos&quot;&gt;Sarcomas uterinos&lt;/h2&gt;
+&lt;p&gt;São bastante raros (3% dos tumores do corpo uterino), de origem mesenquimal e de prognóstico geralmente ruim. A etiologia é pouco conhecida, embora antecedentes de
+irradiação pélvica podem estar associados com a sua gênese. Acometem mulheres na pós-
+menopausa, com uma idade média de 65 anos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Subtipos
+    &lt;ul&gt;
+      &lt;li&gt;Carcinossarcomas (mais frequentes)&lt;/li&gt;
+      &lt;li&gt;Leiomiossarcomas&lt;/li&gt;
+      &lt;li&gt;Sarcomas do estroma endometrial&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O sangramento uterino anormal é a principal queixa em todos os tipos de sarcoma, seguido pela dor pélvica e presença de massa abdominal&lt;/p&gt;
+
+&lt;p&gt;Em geral, os sarcomas são diagnosticados após a cirurgia, como um achado operatório. O
+tratamento é basicamente cirúrgico, sendo o procedimento padrão a histerectomia total com anexectomia bilateral. Não se indica linfadenectomias ilíacas ou para-aórtica de rotina pois esses
+tumores raramente metastatizam para o sistema linfático.&lt;/p&gt;
+
+&lt;p&gt;O uso de radioterapia é controverso
+pois trata-se de uma neoplasia rádio-resistente. A quimioterapia tem indicação freqüente devido à
+alta taxa de recorrência (50%) e a possibilidade de metástases à distância, principalmente para os
+pulmões.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:cisam&quot;&gt;
+      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Puerpério</title><link href="https://resumos.canalionico.com.br/obstetricia/puerperio.html" rel="alternate" type="text/html" title="Puerpério" /><published>2019-04-27T00:00:00-03:00</published><updated>2019-04-27T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/obstetricia/puerperio</id><content type="html" xml:base="https://resumos.canalionico.com.br/obstetricia/puerperio.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiologia&quot; id=&quot;markdown-toc-fisiologia&quot;&gt;Fisiologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#pós-parto-imediato&quot; id=&quot;markdown-toc-pós-parto-imediato&quot;&gt;Pós-parto imediato&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#útero&quot; id=&quot;markdown-toc-útero&quot;&gt;Útero&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É o período pós parto. Nesse período ocorrem as involuções e recuperação da genitália feminina.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pós-parto
+    &lt;ul&gt;
+      &lt;li&gt;imediato: 1º ao 10º dia&lt;/li&gt;
+      &lt;li&gt;tardio: 10º ao 45º&lt;/li&gt;
+      &lt;li&gt;remoto: &amp;gt; 45º&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fisiologia&quot;&gt;Fisiologia&lt;/h2&gt;
+&lt;h3 id=&quot;pós-parto-imediato&quot;&gt;Pós-parto imediato&lt;/h3&gt;
+&lt;p&gt;Ocorre a &lt;em&gt;crise genital&lt;/em&gt;, em que prevalece o catabolismo e involução das estruturas antes hipertrofiadas ou hiperplasiadas.&lt;/p&gt;
+
+&lt;h4 id=&quot;útero&quot;&gt;Útero&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;O abdome está descaído&lt;/li&gt;
+  &lt;li&gt;A musculatura flácida&lt;/li&gt;
+  &lt;li&gt;Fundo de útero pouco acima da cicatriz umbilical e fortemente contraído&lt;/li&gt;
+  &lt;li&gt;Atividade contrátil permanece por pouco tempo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Doença renal crônica</title><link href="https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica.html" rel="alternate" type="text/html" title="Doença renal crônica" /><published>2019-04-24T00:00:00-03:00</published><updated>2019-04-24T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica</id><content type="html" xml:base="https://resumos.canalionico.com.br/nefrologia/doenca-renal-cronica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
@@ -1247,485 +1508,4 @@ Feito através da visualização de protozoários móveis em material do ectocé
     &lt;p&gt;Exame neurológico&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Exame urodinâmico&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Gravidez ectópica</title><link href="https://resumos.canalionico.com.br/obstetricia/gravidez-ectopica.html" rel="alternate" type="text/html" title="Gravidez ectópica" /><published>2019-04-16T00:00:00-03:00</published><updated>2019-04-16T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/obstetricia/gravidez-ectopica</id><content type="html" xml:base="https://resumos.canalionico.com.br/obstetricia/gravidez-ectopica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#diu&quot; id=&quot;markdown-toc-diu&quot;&gt;DIU&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#localizações&quot; id=&quot;markdown-toc-localizações&quot;&gt;Localizações&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#gravidez-tubária&quot; id=&quot;markdown-toc-gravidez-tubária&quot;&gt;Gravidez tubária&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gravidez-abdominal&quot; id=&quot;markdown-toc-gravidez-abdominal&quot;&gt;Gravidez abdominal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gravidez-ovariana&quot; id=&quot;markdown-toc-gravidez-ovariana&quot;&gt;Gravidez ovariana&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gravidez-cervical&quot; id=&quot;markdown-toc-gravidez-cervical&quot;&gt;Gravidez cervical&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gravidez-ectópica-em-cicatriz-de-cesárea&quot; id=&quot;markdown-toc-gravidez-ectópica-em-cicatriz-de-cesárea&quot;&gt;Gravidez ectópica em cicatriz de cesárea&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#formas-clínicas&quot; id=&quot;markdown-toc-formas-clínicas&quot;&gt;Formas clínicas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#subaguda&quot; id=&quot;markdown-toc-subaguda&quot;&gt;Subaguda&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#aguda&quot; id=&quot;markdown-toc-aguda&quot;&gt;Aguda&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#cirúrgico&quot; id=&quot;markdown-toc-cirúrgico&quot;&gt;Cirúrgico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#medicamentoso&quot; id=&quot;markdown-toc-medicamentoso&quot;&gt;Medicamentoso&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#expectante&quot; id=&quot;markdown-toc-expectante&quot;&gt;Expectante&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gravidez-cervical-1&quot; id=&quot;markdown-toc-gravidez-cervical-1&quot;&gt;Gravidez cervical&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gravidez-abdominal-1&quot; id=&quot;markdown-toc-gravidez-abdominal-1&quot;&gt;Gravidez abdominal&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referência&quot; id=&quot;markdown-toc-referência&quot;&gt;Referência&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Fonte principal&lt;/strong&gt;: Rezendinho&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Também chamada ectocioese, é quando o ovo se imoplanta fora do útero.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gravidez tubária: mais de 95% dos casos
-    &lt;ul&gt;
-      &lt;li&gt;Incidência de 1,5-2% das gestações&lt;/li&gt;
-      &lt;li&gt;Responsável por 6% das mortes maternas nos EUA&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Lesão das tubas uterinas&lt;/li&gt;
-  &lt;li&gt;DIP&lt;/li&gt;
-  &lt;li&gt;Cirurgia tubária prévia (risco de recorrência de 10% e somatório)&lt;/li&gt;
-  &lt;li&gt;Gravidez ectópica prévia&lt;/li&gt;
-  &lt;li&gt;Exposição &lt;em&gt;in utero&lt;/em&gt; ao dietilestilbestrol (DES)&lt;/li&gt;
-  &lt;li&gt;História de infertilidade&lt;/li&gt;
-  &lt;li&gt;História de cervicite por clamídia ou gonococo&lt;/li&gt;
-  &lt;li&gt;Fertilização &lt;em&gt;in vitro&lt;/em&gt; (1:100)&lt;/li&gt;
-  &lt;li&gt;Concepção com DIU e Concepção após ligadura tubária (25-50% desses casos ocorre ectopia)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;h3 id=&quot;diu&quot;&gt;DIU&lt;/h3&gt;
-&lt;p&gt;O DIU é um fator causal indireto. Uma vez que o dispositivo protege contra gestações uterinas, ele não protege contra gestações ectópicas. Então, quando ocorre gestação, a chande de ser ectópica é maior.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Então a chance de mulheres com DIU terem gravidez ectópica é a mesma das pacientes no geral?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Não. Nos portadores de DIU a indicencia é 1 ectópica para cada 10 intrauterinas, Na população geral é 1:4000.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;patologia&quot;&gt;Patologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Primitiva&lt;/strong&gt;: quando a nidificação ocorre e prossegue em zona única do aparelho genital&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Secundária&lt;/strong&gt;: o ovo se desprende do aparelho genital e continua o desenvolvimento em outro local&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;localizações&quot;&gt;Localizações&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;95%: tubária&lt;/li&gt;
-  &lt;li&gt;5%:
-    &lt;ul&gt;
-      &lt;li&gt;Cérvice uterina&lt;/li&gt;
-      &lt;li&gt;Porção intersticial da tuba&lt;/li&gt;
-      &lt;li&gt;Ovário&lt;/li&gt;
-      &lt;li&gt;Abdome&lt;/li&gt;
-      &lt;li&gt;Cicatriz de cesárea&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/probs.png&quot; alt=&quot;imagems com as probabilidades de cada localização&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;gravidez-tubária&quot;&gt;Gravidez tubária&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ampular (80%)
-    &lt;ul&gt;
-      &lt;li&gt;Abortamento é comum&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ístimica (12%)
-    &lt;ul&gt;
-      &lt;li&gt;Ruptura é comum&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Intersticial (3%)&lt;/li&gt;
-  &lt;li&gt;Gravidez fimbriária (11%)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Gravidez interligamentar&lt;/strong&gt;: Ocorre quando a ruptura da tuba ocorre na porção não coberta pelo peritônio e o SG se desenvolve entre os folhetos do ligamento largo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gravidez intersticial&lt;/strong&gt;: quando a implantação penetra a parede uterina. Sua ruptura provoca sangramento massivo (muitos casos fatais).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gravidez heterotópica&lt;/strong&gt;: quando a gravidez tubária coexiste com a gestação intrauterina (combinada). É muito mais comum nas reproduções assistidas (incidência de 1:100-500 contra 1:30.000 na população geral).&lt;/p&gt;
-
-&lt;h3 id=&quot;gravidez-abdominal&quot;&gt;Gravidez abdominal&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;1% das ectocieses&lt;/li&gt;
-  &lt;li&gt;Risco de morte 7x maior que a tubária (90x maior que na gestação uterina)&lt;/li&gt;
-  &lt;li&gt;A etiologia &lt;em&gt;secundária&lt;/em&gt; é muito mais comum (secundária à ruptura ou abortamento tubário)&lt;/li&gt;
-  &lt;li&gt;Pré-eclmâpsia ocorre em cerca de 1/3 dos casos&lt;/li&gt;
-  &lt;li&gt;80-90% de mortalidade perinatal (sobrevida fetal é a exceção)&lt;/li&gt;
-  &lt;li&gt;O feto que nasce vivo é frequentemente mal formado&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cisto fetal&lt;/strong&gt;: retenção prolongada com conservação de certa quantidade de líquido amniótico.
-    &lt;ul&gt;
-      &lt;li&gt;Com o tempo o feto macera-se pela reabsorção progressiva de líquido amniótico e desseca-se por desidratação (&lt;em&gt;mumificação&lt;/em&gt;), podendo sofrer saponificação.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;De difícil diagnóstico&lt;/li&gt;
-  &lt;li&gt;Dor abdominal&lt;/li&gt;
-  &lt;li&gt;Náuseas e vômitos&lt;/li&gt;
-  &lt;li&gt;Apresentação tranversa&lt;/li&gt;
-  &lt;li&gt;Oligodrâmnia&lt;/li&gt;
-  &lt;li&gt;Colo deslocado&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Útero vazio&lt;/li&gt;
-      &lt;li&gt;Placenta ectópica intra-abdominal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;RM&lt;/strong&gt;: decisiva para confirmar o diagnóstico e identificar a implantação placentária&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gravidez-ovariana&quot;&gt;Gravidez ovariana&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;3% das gestações ectópicas&lt;/li&gt;
-  &lt;li&gt;Resultante de:
-    &lt;ul&gt;
-      &lt;li&gt;Ruptura com reabsorção ovular (mais frequente)&lt;/li&gt;
-      &lt;li&gt;Ruptura evoluindo para um tipo secundário (abdominal)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gravidez-cervical&quot;&gt;Gravidez cervical&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Menos de 1% dos casos&lt;/li&gt;
-  &lt;li&gt;Incidência entre 1:2.500-50.000 gestações&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;:  útero vazio, canal cervical aumentado com imagem de SG exibindo embrião em seu interior, com ou sem batimentos cardíacos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gravidez-ectópica-em-cicatriz-de-cesárea&quot;&gt;Gravidez ectópica em cicatriz de cesárea&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A forma mais rara&lt;/li&gt;
-  &lt;li&gt;Em mulheres com história de cesárea&lt;/li&gt;
-  &lt;li&gt;Solicitar o USG quando:
-    &lt;ul&gt;
-      &lt;li&gt;Cavidade uterina e canal cervical vazios&lt;/li&gt;
-      &lt;li&gt;O desenvolvimento do SG ocorre na porção anterior do segmento inferior do útero&lt;/li&gt;
-      &lt;li&gt;Houver ausência de miométrio saudável entre a bexiga e o SG&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Hemorragia ativa, indicação de:
-    &lt;ul&gt;
-      &lt;li&gt;Laparotomia com histerotomia&lt;/li&gt;
-      &lt;li&gt;Histerectomia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Paciente estável:
-    &lt;ul&gt;
-      &lt;li&gt;Endoscopia&lt;/li&gt;
-      &lt;li&gt;Laparoscopia&lt;/li&gt;
-      &lt;li&gt;Histeroscopia&lt;/li&gt;
-      &lt;li&gt;MTX IM (cuidado com falha terapêutica)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/tto-cerv.png&quot; alt=&quot;imagem&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/acidentes.png&quot; alt=&quot;imagem&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Choque
-    &lt;ul&gt;
-      &lt;li&gt;Hipotensão&lt;/li&gt;
-      &lt;li&gt;Taquicardia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dor à palpação&lt;/li&gt;
-  &lt;li&gt;Manifestações inespecíficas (comuns antes da ruptura)&lt;/li&gt;
-  &lt;li&gt;Mimetizando quadro de abortamento
-    &lt;ul&gt;
-      &lt;li&gt;Hemorragia no 1T&lt;/li&gt;
-      &lt;li&gt;Dor abdominal ou pélvica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;formas-clínicas&quot;&gt;Formas clínicas&lt;/h2&gt;
-&lt;h3 id=&quot;subaguda&quot;&gt;Subaguda&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A forma mais comum (70% dos casos)&lt;/li&gt;
-  &lt;li&gt;O ovo habitualmente localizado na &lt;em&gt;ampola tubária&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;“Quando o saco ovular distende a porção ampular da tuba uterina, ocorre separação parcial do trofoblasto, e mais tarde da placenta, com perdas sanguíneas intermitentes, que atravessam o óstio e alcançam a cavidade abdominal, fenômeno que se prolonga, por vezes, durante muitos dias (abortamento tubário).”&lt;/li&gt;
-  &lt;li&gt;“O hematoma formado na ampola tubária pode determinar abortamento completo, com eliminação do ovo; entretanto, é mais comum a ocorrência de expulsão incompleta, porque o trofoblasto invade a camada muscular da tuba uterina e fica aderido nela. Nesses casos, trata-se de hemorragia intraperitoneal persistente.”&lt;/li&gt;
-  &lt;li&gt;Sinal de irritação peritoneal:
-    &lt;ul&gt;
-      &lt;li&gt;Dor hipogástrica&lt;/li&gt;
-      &lt;li&gt;Náiseas e vômitos&lt;/li&gt;
-      &lt;li&gt;Estado subfebril&lt;/li&gt;
-      &lt;li&gt;Distensão do ventre&lt;/li&gt;
-      &lt;li&gt;Leucocitose moderada&lt;/li&gt;
-      &lt;li&gt;Abdome doloroso à palpação&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quadro clínico compatível com hemorragia interna:
-    &lt;ul&gt;
-      &lt;li&gt;Lipotimia&lt;/li&gt;
-      &lt;li&gt;Taquisigmia moderada (até bpm)&lt;/li&gt;
-      &lt;li&gt;Mucosas descoradas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Em 1/3 das pacientes com gravidez ectópica não existe referência à amenorreia&lt;/strong&gt; (o atraso menstrual é encoberto por hemorragia vaginal concomitante com a morte ovular e início da separação da decídua)&lt;/li&gt;
-  &lt;li&gt;Exame ginecológico (toque combinado):
-    &lt;ul&gt;
-      &lt;li&gt;Ocupação (sangue coletado)&lt;/li&gt;
-      &lt;li&gt;Dor à pressão do fundo de saco (&lt;strong&gt;grito de Douglas&lt;/strong&gt;)&lt;/li&gt;
-      &lt;li&gt;Desconforto com a manipulação da cérvice&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;aguda&quot;&gt;Aguda&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;30% dos casos&lt;/li&gt;
-  &lt;li&gt;Localização habitual no istmo da tuba uterina&lt;/li&gt;
-  &lt;li&gt;Geralmente corresponde à ruptura tubária
-    &lt;ul&gt;
-      &lt;li&gt;Intensa hemorragia intraperitoneal&lt;/li&gt;
-      &lt;li&gt;Dor violenta em punhalada&lt;/li&gt;
-      &lt;li&gt;Dor escapular&lt;/li&gt;
-      &lt;li&gt;Sinais de choque&lt;/li&gt;
-      &lt;li&gt;Hematocele de Douglas (sangue intra-abdominal se acumulando no fundo de saco)&lt;/li&gt;
-      &lt;li&gt;Palpação do abdome dolorosa&lt;/li&gt;
-      &lt;li&gt;Blumberg positivo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Clínica semelhante ao abortamento tubário porém mais exaltada&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Quadro clínico mais:&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USGTV&lt;/strong&gt; (transvaginal)
-    &lt;ul&gt;
-      &lt;li&gt;Massa complexa (60%)&lt;/li&gt;
-      &lt;li&gt;Anel tubário (20%)&lt;/li&gt;
-      &lt;li&gt;Anel tubário com embrião ecom ou sem bcf (13%)&lt;/li&gt;
-      &lt;li&gt;SG intrauterino afasta ectopia, mais ainda pode ser uma  gravidez heterópica&lt;/li&gt;
-      &lt;li&gt;Pseudossaco gestacional&lt;/li&gt;
-      &lt;li&gt;Em 8-30% dos casos a USG não detecta a localização (nem intrauterina e nem tubária)
-        &lt;ul&gt;
-          &lt;li&gt;Nesse caso repetir USG com 7 dias&lt;/li&gt;
-          &lt;li&gt;hCG + e útero vazio: grande chance de ectopia&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dosagem do _h_CG&lt;/li&gt;
-  &lt;li&gt;Diagnósticos diferenciais:
-    &lt;ul&gt;
-      &lt;li&gt;Gestação intrauterina viável&lt;/li&gt;
-      &lt;li&gt;Abortamento&lt;/li&gt;
-      &lt;li&gt;Gravidez ectópica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cirpurgico
-    &lt;ul&gt;
-      &lt;li&gt;Laparoscopia&lt;/li&gt;
-      &lt;li&gt;Laparotomia: em quadros de instabilidade hemodinâmica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;RM&lt;/strong&gt;: para confirmar gravidez abdominal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/diag.png&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Laparotomia&lt;/strong&gt;: reservada para
-    &lt;ul&gt;
-      &lt;li&gt;Casos agudos&lt;/li&gt;
-      &lt;li&gt;Pacientes hemodinamicamente instáveis&lt;/li&gt;
-      &lt;li&gt;Hemoperitônio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Laparoscopia&lt;/strong&gt;: padrão ouro na maioria dos casos
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Salpingostomia&lt;/strong&gt; (conservador): enucleção da ectopia com conservação da trompa que é deixada aberta para cicatrização de segunda intenção.
-        &lt;ul&gt;
-          &lt;li&gt;Indicações: como primeira opção em pacientes com trompa contralateral doente, para a paciente que quiser ter filhos futuramente, ectopia tubária de pequenas dimensões e íntegra&lt;/li&gt;
-          &lt;li&gt;Recorrência de ectopia em 10%&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Salpingectomia&lt;/strong&gt; (radical)
-        &lt;ul&gt;
-          &lt;li&gt;Indicações: sangramento incontrolável, ectopia recorrente na mesma tuba, trompa uterina muito lesada ou SG &amp;gt; 5cm&lt;/li&gt;
-          &lt;li&gt;&lt;em&gt;Melhor indicação para mulheres com trompa contralateral normal&lt;/em&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Histerectomia&lt;/strong&gt;: único tratamento possível na gravidez cervical em pacientes instáveis&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;medicamentoso&quot;&gt;Medicamentoso&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;MXT (metotrexato) sistêmica por via IV&lt;/li&gt;
-  &lt;li&gt;Indicações:
-    &lt;ul&gt;
-      &lt;li&gt;Quadro estável&lt;/li&gt;
-      &lt;li&gt;Diagnóstico definitivo&lt;/li&gt;
-      &lt;li&gt;hCG &amp;lt; 5.000&lt;/li&gt;
-      &lt;li&gt;Aumento de hCG &amp;lt; 50% em 48h&lt;/li&gt;
-      &lt;li&gt;SG &amp;lt; 3,5cm&lt;/li&gt;
-      &lt;li&gt;Ausência de bcf&lt;/li&gt;
-      &lt;li&gt;Líquido livre no peritônio ausente/moderado&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;expectante&quot;&gt;Expectante&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Pacientes com quadro clínico estável&lt;/li&gt;
-  &lt;li&gt;b-hCG inicial &amp;lt; 1.000-1.500 e declinante&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gravidez-cervical-1&quot;&gt;Gravidez cervical&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Quadro instável: histerectomia&lt;/li&gt;
-  &lt;li&gt;Quadro estável: MTX&lt;/li&gt;
-  &lt;li&gt;Acompanhamento com dosagem de b-hCG no 4 e 7 dias e semanalmente até a negativação&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;gravidez-abdominal-1&quot;&gt;Gravidez abdominal&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Laparotomia&lt;/li&gt;
-  &lt;li&gt;Sobrevida fetal é a exceção&lt;/li&gt;
-  &lt;li&gt;Risco de hemorragia materna é constante&lt;/li&gt;
-  &lt;li&gt;Se a descoberta for durante uma cesárea: retirar o concepto&lt;/li&gt;
-  &lt;li&gt;Retirar a placenta? Sim ou Não?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/gravidez-ectopica/tub.png&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Litíase urinária</title><link href="https://resumos.canalionico.com.br/urologia/litiase-urinaria.html" rel="alternate" type="text/html" title="Litíase urinária" /><published>2019-04-11T00:00:00-03:00</published><updated>2019-04-11T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/urologia/litiase-urinaria</id><content type="html" xml:base="https://resumos.canalionico.com.br/urologia/litiase-urinaria.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#composição-dos-cristais&quot; id=&quot;markdown-toc-composição-dos-cristais&quot;&gt;Composição dos cristais&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#cálculos-de-cálcio&quot; id=&quot;markdown-toc-cálculos-de-cálcio&quot;&gt;Cálculos de cálcio:&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cálculos-não-cálcicos&quot; id=&quot;markdown-toc-cálculos-não-cálcicos&quot;&gt;Cálculos não cálcicos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referência&quot; id=&quot;markdown-toc-referência&quot;&gt;Referência&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;É a 3a afecção mais comum do trato urinário&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hipótese da nucleação&lt;/strong&gt;: os cálculos se originam de cristais ou corpos estranhos imersos na urina supersaturada;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hipótese de inibidor de cristais&lt;/strong&gt;: se formam devido à ausência ou baixa concentação de inibidores de cálculos naturais como magnésio, citrato, sulfato, pirofosfato e uma variedade de metais-traço.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;composição-dos-cristais&quot;&gt;Composição dos cristais&lt;/h2&gt;
-
-&lt;h3 id=&quot;cálculos-de-cálcio&quot;&gt;Cálculos de cálcio:&lt;/h3&gt;
-&lt;p&gt;85% de todos os cálculos. Principalmente devido a hipercalciúria.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Nefrolitíase hipercalciúrica absortiva:&lt;/strong&gt; hipercalciúria (&amp;gt; 4mg/kg) devido à maior absorção intestinal (jejuno).
-    &lt;ul&gt;
-      &lt;li&gt;Tipo I: independente da dieta (15%)&lt;/li&gt;
-      &lt;li&gt;Tipo II: depende da dieta, TTO é corrigir a dieta reduzindo o cálcio.&lt;/li&gt;
-      &lt;li&gt;Tipo III: secundária a um vazamento renal de fosfato (5%). O fosfato sérico diminuído leva a um aumento da síntese de 1,25-di-hidroxivitamina D. A cascata fisiológica culmina em um aumento da absorção de fosfato e cálcio no intestino delgado e em uma excreção renal de cálcio aumentada. TTO é repor o fosfato.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nefrolitíase hiperclciúrica reabsortiva:&lt;/strong&gt; relacionado ao hiperparatireoidismo primário.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nefrolitíase hipercalciúrica de indução renal:&lt;/strong&gt; maior excreção renal de cálcio reduz o cálcio sérico e aumenta a secreção de PTH que vai aumentar a calcemia (mobilização óssea a maior absorção intestinal) compondo um ciclo vicioso.
-    &lt;ul&gt;
-      &lt;li&gt;Esses pacientes têm um nível de cálcio urinário em jejum elevado, nível de cálcio sérico normal e um nível de hormônio paratireoidiano secundariamente elevado.&lt;/li&gt;
-      &lt;li&gt;&lt;mark&gt;TTO com hidroclorotiazidas&lt;/mark&gt;: diminuem o volume de sangue circulante e estimulam a absorção tubular proximal de cálcio.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nefrolitíase cálcica hiperuricosúrica:&lt;/strong&gt; por ingestão excessiva de purinas na dieta ou por aumento na produção de ácido úrico endógeno.
-    &lt;ul&gt;
-      &lt;li&gt;Aumento de uratos monossódicos que absorvem e adsorvem inibidores de cálculos urinários.&lt;/li&gt;
-      &lt;li&gt;TTO é mudar a dieta e alopurinol (inibidor da xantina oxidase que reduz a síntese e excreção renal de ácido úrico).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nefrolitíase cálcica hiperoxalúrica:&lt;/strong&gt; secundária a níveis aumentados de oxalato urinário. Geralmente associada a estados diarreicos e desidratação.
-    &lt;ul&gt;
-      &lt;li&gt;TTO é a suplementação de cálcio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nefrolitíase cálcica hipocitratúrica:&lt;/strong&gt;
-pela redução do citrato que é um importante inibidor da litíase (forma complexos com o cálcio diminuindo a sua forma iônica).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;cálculos-não-cálcicos&quot;&gt;Cálculos não cálcicos&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Estruvita:&lt;/strong&gt; são o segundo tipo mais comum de cálculos, compostos de magnésio, amônio e fosfato (MAP).
-    &lt;ul&gt;
-      &lt;li&gt;Mais comum em mulheres&lt;/li&gt;
-      &lt;li&gt;Coraliformes (ramificaos)&lt;/li&gt;
-      &lt;li&gt;Raramente são cálculos ureterais obstrutivos&lt;/li&gt;
-      &lt;li&gt;Desenvolvem-se pela ação de microorganismos que clivam a uréia.&lt;/li&gt;
-      &lt;li&gt;O pH urinário é &amp;lt; 7,2 (normal é 5,85), faixa em que esses cristais são insolúveis e precipitam.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ácido úrico:&lt;/strong&gt; responsáveis por &amp;lt; 5%.
-    &lt;ul&gt;
-      &lt;li&gt;Mais em homens&lt;/li&gt;
-      &lt;li&gt;Pode estar relacionado à hiperuricemia (gota, dieta rica em purinas), mas na maioria das vezes não.&lt;/li&gt;
-      &lt;li&gt;pH urinário &amp;lt; 5,5&lt;/li&gt;
-      &lt;li&gt;TTO: manter o volume urinário &amp;gt; 2L/dia e pH &amp;gt; 6,0, reduzir purinas da dieta e usar alopurinol.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cistina:&lt;/strong&gt; em pacientes com cistinúria, doença recessiva autossômica que resulta em erro inato do metabolismo.
-    &lt;ul&gt;
-      &lt;li&gt;História familiar&lt;/li&gt;
-      &lt;li&gt;TTO: alta ingestão de líquidos e alcalinização da urina (&amp;gt; 7,5) e dieta pobre em metionina (precursor da cistina).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Xantina:&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Indinavir:&lt;/strong&gt; é um inibidor de protease usado no tratamento da HIV resultando em cálculo nesses pacientes.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Raros:&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
