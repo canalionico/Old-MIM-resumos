@@ -57,7 +57,7 @@ Até que a TFG atinja __30%__ do normal, os pacientes podem ser __assintomático
 - Osteodistrofia renal
 - HAS (80% dos pacientes com DRC)
 - Anemia
-- Dislipidemia (hipertrigliceridemia)
+- Dislipidemia (principal causa de mortalidade, AVC e SCA)
 - Sangramento urêmico
 - Pericardite
 - Neuropatia urêmica
@@ -142,7 +142,12 @@ Solicitar os exames na suspeita de um paciente que faz parte do grupo de risco.
 - Eletrólitos (Na, K, Cl, HCO3)
 - Concentração ou diluição urinária (densidade ou osmolaridade)
 - pH urinário
-- Biópsia: apenas na presença de rins de tamanho próximo ao normal, em que outros exames menos invasivos não foram suficientes e quando existe a suspeita de uma causa potencialmente tratável
+- Biópsia: apenas na presença de rins de tamanho próximo ao normal, em que outros exames menos invasivos não foram suficientes e quando existe a suspeita de uma causa potencialmente tratavel
+
+### Critérios diagnósticos
+1. TFG < 60% por mais de 3 mêses
+2. Proteinúria > 3 mêses
+3. Alterações estruturais (USG)
 
 ## Classificação
 ### Taxa de filtração glomerular
@@ -153,6 +158,12 @@ Solicitar os exames na suspeita de um paciente que faz parte do grupo de risco.
   - B: 30-44
 - G4: 15-29 (gravemente ↓)
 - G5: < 15 (falência renal)
+
+### Clearance da creatinina
+- Formula de Crockoff e Gault
+CC = (140 - idade)xP/72xSer [M=x0,85]
+- MDRD: melhor que a de Crockoff
+- CKDEPI
 
 ### Grau de albuminúria:
   - Normal: < 10
@@ -202,40 +213,39 @@ cardiogênico.
   prurido.
   - Alterações articulares: artrite, periartrite,
   tenossinovite.
-  - Aterosclerose acelerada.
+  - Aterosclerose acelerada
   - Dislipidemia.
   - Hipercatabolismo com desnutrição
   proteicocalórica.
   - Depressão imunológica com predisposi  ção à infecção.
 
-  ## Diálise
+## Diálise
 Antes do advento da diálise, muitos pacientes com IRA e pratica mente todos com DRC morriam de hipercalemia, edema agudo de pulmão, encefalopatia, acidose  metabólica, tamponamento cardíaco ou hemorragias incontroláveis.
 
 Contudo, a maior sobrevida proporcionada pela diálise acabou por revelar novas complicações da DRC e síndrome urêmica que não podem ser corrigidas, como aterosclerose acelerada, osteodistrofia e prurido.
 
-  - __Indicações__:
-    - Na __LRA__ ou __DRC agudizada__, fazer diálise de urgência quando:
-      - Acidose metabólica, hipercalemia e hipervolemia graves e refratárias.
-      - Síndrome urêmica franca (encefalopatia, pericardite).
-      - Algumas intoxicações (metanol, etilenoglicol, salicilatos).
-    - __DRC não agudizada__: na presença de sinais e sintomas de síndrome urêmica, associados a um _clearance_ de creatinina < 10mL/min ou 15 em situações especiais (como DM e ICC)
+- __Indicações__:
+  - Na __LRA__ ou __DRC agudizada__, fazer diálise de urgência quando:
+    - Acidose metabólica, hipercalemia e hipervolemia graves e refratárias.
+    - Síndrome urêmica franca (encefalopatia, pericardite).
+    - Algumas intoxicações (metanol, etilenoglicol, salicilatos).
+  - __DRC não agudizada__: na presença de sinais e sintomas de síndrome urêmica, associados a um _clearance_ de creatinina < 10mL/min ou 15 em situações especiais (como DM e ICC)
 - __Métodos__
-  - __Hemodiálise__ (HD)
-    - Arteriovenosa ou venovenosa
-    - Complicações
-      - Agudas: instabilidade hemodinâmica, SCA, embolia gasosa, hemorragias, reação anafilática, febre, leucopenia
-      - Crônicas: anemia, trombose da fístula AV, infecção FAV (endarterite), amiloidose
-  - __Diálise peritoneal__ (DP)
-    - Complicações: mecânicas, clínicas e infecciosas (peritonite bacteriana)
-    - A grande vantagem da DP é a sua fácil instalação e execução e o menor risco de complicações hemodinâmicas, cardiovasculares e hemorrágicas (a DP não utiliza heparina).
-    - Mas tem uma menor eficiência na remoção de solutos
-    - Contraindicações absolutas: Fibrose e obliteração da cavidade abdominal por cirurgia prévia, Clearance peritoneal inadequado, Defeito anatômico no diafragma
+- __Hemodiálise__ (HD)
+  - Arteriovenosa ou venovenosa
+  - Complicações
+    - Agudas: instabilidade hemodinâmica, SCA, embolia gasosa, hemorragias, reação anafilática, febre, leucopenia
+    - Crônicas: anemia, trombose da fístula AV, infecção FAV (endarterite), amiloidose
+- __Diálise peritoneal__ (DP)
+  - Complicações: mecânicas, clínicas e infecciosas (peritonite bacteriana)
+  - A grande vantagem da DP é a sua fácil instalação e execução e o menor risco de complicações hemodinâmicas, cardiovasculares e hemorrágicas (a DP não utiliza heparina).
+  - Mas tem uma menor eficiência na remoção de solutos
+  - Contraindicações absolutas: Fibrose e obliteração da cavidade abdominal por cirurgia prévia, Clearance peritoneal inadequado, Defeito anatômico no diafragma
 
 
+## Transplante renal
+É o melhor método de substituição renal.
 
-  ## Transplante renal
-  É o melhor método de substituição renal.
-
-  ## Referências
-  [^riella]: Riella
-  [^med]:
+## Referências
+[^riella]: Riella
+[^med]:
