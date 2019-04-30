@@ -15,10 +15,13 @@ filename: 2019-04-29-hemorragia-pos-parto.md
 - Definição:
   - PV: perda de sangue > 500mL
   - Ces: perda > 1L
+  - Perda de sangue com sinais de choque
 - Classificação:
   - Precoce ou primária: ocorrem nas primeiras 24h
   - Tardia ou secundária: entre 24h e 6-12sem
     - geralmente relacionada à subinvolução do leito placentário, retenção dos restos ovulares, infecção e distúrbios hereditários da coagulação
+
+o q é o globo de segurança de pinnard?
 
 ## Epidemiologia
 - Prevalência de 5-15%
@@ -76,10 +79,10 @@ A ligadura e tração controlada do cordão umbilical, extração da placenta ta
 
 ### Etiologias
 - Regra dos 4T
-  - __tônus__ (atonia uterina) 80% dos casos
-  - __trauma__ (lacerações, hematoma, ruptura, inversão) 15%
-  - __tecido__ (placenta retida e acreta) 5%
-  - __trombina__ (coagulopatia) < 1%
+  1. __tônus__ (atonia uterina) 80% dos casos
+  2. __trauma__ (lacerações, hematoma, ruptura, inversão) 15%
+  3. __tecido__ (placenta retida e acreta) 5%
+  4. __trombina__ (coagulopatia) < 1%
 
 #### Atonia Uterina
 É a causa mais frequente de hemorragia pós-parto. O útero perde a capacidade de contração que é justamente o seu principal mecanismo de hemostasia.
@@ -113,6 +116,8 @@ Constituem a segunda maior causa de HPP precoce. Nessa situação, a atonia é e
   - Revisão sistemática do canal de parto
   - Medidas gerais para controlar a hipovolemia e hipotensão
 
+__Atenção:__ em pacientes realizado parto normal com história de cesárea prévia é necessário avaliar a placenta e examinar decência do útero, na pesquisa por rotura uterina. 
+
 #### Retenção placentária ou de restos placentários
 Dificulta a contração uterina ideal e a hemostasia. A hemorragia varia, aumentando e diminuindo.
 
@@ -135,6 +140,7 @@ Dificulta a contração uterina ideal e a hemostasia. A hemorragia varia, aument
 - Sondagem vesical
 - Controle da diurese
 - Avaliar necessidade de trasfusão
+-   índice de choque > 1.3 ...........
 - Solicitar exames lab.
   - Hemograma
   - Coagulograma
@@ -148,7 +154,7 @@ as artérias espiraladas e diminuindo o sangramento da ferida placentária.
 - Agentes uterotônicos
   - 1ª linha: __Ocitocina__ 20UI em 1L de salina infundida IV em 250mL/h.
     - Ou 10UI IM
-  - 2ª linha: __Metilergonovina__ 0,2mg IM a cada 2-4h (contraindicado em hipertensas)
+  - 2ª linha: __Metilergonovina__ 0,2mg IM a cada 2-4h (contraindicado em hipertensas e asmáticas)
   - Os efeitos colaterais (calafrio, febre, diarréia) limitam o uso do __Misoprostol__. até 800mg por via retal
 - Compressão bimanual do útero: A mão esquerda do tocólogo é introduzida na vagina e, pelo fundo de saco anterior, impulsiona o útero de
 encontro à mão direita, externa, que, pelo abdome, massageia o órgão, trazendo-o vigorosamente
