@@ -105,17 +105,20 @@ __Dissociação uterovaginal:__ o útero está hipertrofiado e a vagina atrófic
   - Linfopenia relativa com eosinopenia
   - Sistema de coagulação ativado
 
+## Quadro clínico
+- Dor (devido às fortes contrações uterinas)
+- Lóquios: eliminação de exsudatos e transudatos misturados com elementos celulares descamados e sangue
+  - 1os 3-4 dias: lóquis vermelhos (_lochia rubra_)
+    - A persistência de lóquios avermelhados após duas semanas levanta a possibilidade de restos placentários
+  - serossanguíneos (_lochia fusca_)
+  - serosos (_lochia serosa_ ou _flava_)
+  - esbranquiçados/acastanhados
+  - 10o dia: _lochia alba_
+- Perda de peso
+- Elevação da temperatura corporal nos primeiros 3 dias, relacionada à apojadura (_febre do leite_). É fisiológica se durar < 24h
+- Alterações no humor
+
 ## Assistência pós-natal
-- Higiene da vulva e períneo
-- Absorvente higiênico pós-parto descartável
-- Banho de aspersão (< 6h após o parto)
-- Movimentação livre
-- Deambular preferencialmente até 6h após o PV (↓risco de tromboembolismo)
-- Uso de sutiãs
-- Atividade sexual após 30 dias
-- Planejamento familiar
-- Vigiar micção
-- Constipação intestinal
 - Exames físicos:
   - Temp (_febre do leite_)
   - Pulso (tende à bradicardia, 60-70)
@@ -123,10 +126,26 @@ __Dissociação uterovaginal:__ o útero está hipertrofiado e a vagina atrófic
   - Palpação do útero (nas 1ªs 12h o fundo está na altura do umbigo, no 2º dia em diante reduz 1cm progressivamente)
   - Avaliar perdas vaginais
   - Palpação da bexiga
-  - Oitócicos: para correção de contrações deficientes e retração insatisfatória da matriz
+  - Ocitócicos: para correção de contrações deficientes e retração insatisfatória da matriz
   - Exame dos lóquis (parada do fluxo na 1ª sem pós-parto é sinal indicativo de infecção)
   - Inspeção do períneo
   - Exame dos MMII
+- Profilaxia da aloimunização pelo antígeno Rh(D) até 72h após o nascimento
+- Higiene da vulva e períneo
+- Não higienizar as mamas após a amamentação
+- Absorvente higiênico pós-parto descartável
+- Banho de aspersão (< 6h após o parto)
+- Movimentação livre
+- Deambular preferencialmente até 6h após o PV (↓risco de tromboembolismo)
+- Uso de sutiãs
+- Descobrir a cicatriz cesariana com 48h
+- Atividade sexual após 30 dias
+- Planejamento familiar
+- Vigiar micção
+- Constipação intestinal
+- Alta hospitalar:
+  - 48h após parto normal
+  - 72h após cesárea
 
 ### Exame das 6 semanas
 - Conclusão da involução genital
@@ -134,4 +153,4 @@ __Dissociação uterovaginal:__ o útero está hipertrofiado e a vagina atrófic
 - Orientação sobre métodos anticoncepcionais
 
 ## Referências
-[^rez]: Livro do CISAM
+[^rez]: Livro do Rezendinho
