@@ -157,7 +157,7 @@ epitélio acometida e do grau de discariose.
 - NIC III: LIE de alto grau, displasia severa, já é quase um carcinoma _in situ_
 
 - __Epiteliais__
-  1. __Carcinoma de células escamosas__: o mais comum, 80-90% dos casos
+  1. __Carcinoma de células escamosas__: o mais comum, 80-90% dos casos e de melhor prognóstico.
     - Verrucoso
     - Grandes células não queratinizantes
     - Pequenas células queratinizantes
@@ -191,7 +191,7 @@ epitélio acometida e do grau de discariose.
 É notório que a simples presença do vírus, sem ocasionar nenhuma lesão, não necessita de tratamento, além do que, boa parte das lesões, principalmente condilomas pequenos
 e lesões de baixo grau, tem grande potencial de regressão espontânea.
 
-- Condiloma acuminado: eletrocautério, laser, ácido tricloroacético, ressecção cirúrgica
+- Condiloma acuminado: eletrocautério, laser, ácido tricloroacético (TCA), imunomoduladores, ressecção cirúrgica.
 - NIC II, III e CA _in situ_: conização (CAF)
 - __Até estágio Ia1__: histerectomia OU conização (caso queira engravidar)
 - __Ia2__: histerectomia radical + linfadenectomia pélvica OU braquiterapia + radioterapia pélvica

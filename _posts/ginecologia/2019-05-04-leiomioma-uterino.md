@@ -25,7 +25,8 @@ São também a mais frequente indicação de hosterectomia (1/3 das indidações
   - Nuliparidade
   - Menarca precoce (↑2x risco)
   - Obesidade
-  - Uso de hormônios esteróides sem oposição de estrogênio
+  - Álcool
+  - Uso de hormônios esteróides sem oposição de progesterona
   - Maior tempo de exposição a estrógenos
   - História familiar
 
@@ -38,8 +39,8 @@ São neoplasias clonais, todas as células originam-se de um único miócito. Fa
   - Ístmicos
   - Cervicais (mais raros, 2-3%)
 - Camada uterina: lembrar que podem envolver mais de uma camada
-  - __Submucosos__: abaulam a cavidade endometrial, o mais sintomático, mais sangramento
-  - __Subserosos__: distorcem a serosa uterina, apresenta menos sintomas
+  - __Submucosos__: abaulam a cavidade endometrial, o mais sintomático, mais sangramento e mais ocorrência de infertilidade (sua presença dificulta a implantação)
+  - __Subserosos__: distorcem a serosa uterina, o que apresenta menos sintomas
     - Intraligamentares: quando cresccem entre os folhetos largo
     - Parasitas: quando aderem a outros órgãos e deles derivam vascularização
   - __Intramurais__: estão contidos na espessura miometrial
@@ -55,10 +56,10 @@ Os miomas submucosos e subserosos podem ser sésseis ou pediculados, dependendo 
 - Consistência elástica com superfície de corte apresentando fibras de aspécto trabecular espiralado
 - Pseudo-cápsula
 - Degenerações podem alterar a histologia dos miomas (geralmente o mioma cresce mais que o supprimento sanguíneo)
-  - Hialina: substituição das fibras musculares por tecido colagenoso branco ou translúcido
-  - Cística: liquefação da hialina
-  - Mucóide: cistos com material gelatinoso
+  - Hialina: a mais comum! substituição das fibras musculares por tecido colagenoso branco ou translúcido
+  - Cística: liquefação da hialina formando áreas de conteúdo cístico
   - Rubra: comum na gravidez e sob tratamento pregestínico, quando o mioma sofre infartos hemorrágicos
+  - Mucóide: cistos com material gelatinoso
   - Gordurosa: por acúmulo de gordura
   - Calcificação: acúmulo de cálcio
   - Necrose: comum nos pediculados
@@ -77,47 +78,55 @@ Os miomas submucosos e subserosos podem ser sésseis ou pediculados, dependendo 
 - Pode ocorrer sinais de hipovolemia e anemia
 
 ## Diagnóstico
-- Palpação de  massas no exame físico do abdome ou toque bimanual
-- USG de rotina detectando a tumoração
+É em essência: anamnese + exame físico + USG-TV
+
+- Toque vaginal: aumento de volume, superfície irregular, bocelada, endurecida, menor mobilidade (pólipos são mais móveis)
 - Exame especular dos miomas paridos
-- USG-TV: aspécto ecográfico de nódulo sólido hipoecóico (embora possam ser mistos ou hiperecóicos)
-- Histerosonografia: para avaliar a posição exata dos miomas submucosos
-- Histeroscopia diagnóstica (permite diferencias miomas de pólipos endometriais)
+- __USG-TV:__ aspécto ecográfico de __nódulo sólido hipoecóico__ (embora possam ser mistos ou hiperecóicos)
+- __Histerosonografia:__ para avaliar a posição exata dos miomas submucosos
+- __Histeroscopia:__ permite visualizar os submucosos e diferenciar miomas de pólipos endometriais
   - Leiomiomas: formações firmes, nacaradas, superfície lisa ou bocelada, reverstimento endometrial normal ou atrofiado
   - Pólipos: móveis, maleáveis, congestos e com revestimento endometrial semelhante ao endométrio adjacente
-- Toque vaginal: aumento de volume, superfície irregular, bocelada, endurecida, menor mobilidade (pólipos são mais móveis)
-- Histerosalpingografia
+- __Histerosalpingografia:__ descoberta acidental do mioma após exame por outros motivos. É um exame radiológico e não realizado de rotina.
+- RNM: usada para mapear os miomas, auxiliando na decisão terapêutica como a definição da técnica cirúrgica
+- __Laparoscopia:__ também não é para fins diagnósticos, mas pode revelar miomas quando realizadas por outros motivos. Permite visualizar miomas subserosos e intramurais.
 
 ## Tratamento
-A escolha do tratamento depende da intensidade dos sintomas, proximidade da menopausa, interesse reprodutivo da mulher.
-
-Para pacientes assintomáticas, a recomendação é a conduta expectante.
+A escolha do tratamento depende da intensidade dos sintomas, proximidade da menopausa, interesse reprodutivo da mulher. Para pacientes assintomáticas, a recomendação é a __conduta expectante__.
 
 ### Tratamento clínico
 se baseia na estrógeno-dependência do tumor. O tratamento é quase como uma antecipação da menopausa.
 
-- __Análogos de GnRH:__ usados por 4-6 meses reduzem em 30-60% o volume dos miomas. Contudo, após sua supensão eles voltam a crescer. O tratamento prolongado é limitado devido aos efeitos do hipoestrogenismo com a redução da massa óssea.
+- __Análogos de GnRH:__ usados por 4-6 meses reduzem em 30-60% o volume dos miomas. Contudo, após sua supensão eles voltam a crescer. O tratamento prolongado é limitado devido aos efeitos do hipoestrogenismo com a redução da massa óssea, "é como uma menopausa precoce".
   - Recomendado no pré-opetarório
-  - Para retartar a cirurgia
+  - Para retardar a cirurgia
 - Outros antagonistas do GnRH:
-  - Danazol
-  - Gestrinona
+  - __Danazol__: não reduz o tamaho do mioma. Efeito hipoestrogênico e androgênico.
+  - __Gestrinona__: reduz os miomas. Efeito hipoestrogênico e androgênico.
   - Inibidores da aromatase
   - DIU de levonorgestrel
   - AINEs
+- __Progesterona__: não reduz os miomas, serve para controlar o sangramento com baixo custo. (Não se coloca DIU em paciente com mioma submucoso?)
 - __ACO:__ em mulheres com discreta menorragia e/ou dismenorreía (aliviar a sintomatologia e evitar cirurgia)
 
 ### Tratamento cirúrgico
-- __Histerectomia:__ pacientes com prole definida
-  - Parcial: preservando o colo
-  - Total
-- __Embolização das artérias uterinas:__ pacientes com prole definida mas desejo de preservar o útero ou elevado risco cirúrgico
-  - Cuidado com o pós-embolização: síndrome pós-embolização
-- __Miomectomia:__ desejo de procriar, quando o mioma é causa de infertilidade
+- __Miomectomia:__ retirada apenas do mioma quando a paciente tem desejo de procriar e é sintomática ou o mioma é causa de infertilidade.
   - __Via histeroscópia:__ para submucosos, < 5cm e cujo ponto mais externo dista 5mm da serosa uterina (↓risco de perfuração uterina)
     - Para miomas que não respondem a esses critérios a cirugia pode ser feita em dois tempos. 1 tempo remove o componente submucoso e o 2 tempo espera a migração do restante para a mucosa e faz a segunda remoção
-  - __Via laparotômica:__ taxas de gestação viável em torno de 50%, o problema é a ↑possibilidade de recidiva. Aderências e sangramentos são as principais complicações do procedimento
-  - __Via laparoscópica:__ indicada para volume uterino < 16s e pequenos miomas < 8cm e localização subserosa
+  - __Via laparoscópica:__ indicada para volume uterino < 16s, poucos e pequenos miomas < 8cm com localização subserosa.
+  - __Via laparotômica:__ para miomas intramurais profundos, miomas múltiplos, útero > 16s. Taxas de gestação viável em torno de 50%, o problema é a ↑possibilidade de recidiva. Aderências e sangramentos são as principais complicações do procedimento.
+- __Embolização das artérias uterinas:__ pacientes com prole definida mas desejo de preservar o útero ou que tenham elevado risco cirúrgico.
+  - Isquemia irreversível!
+  - Cuidado com o pós-embolização: síndrome pós-embolização, endometrite e dor
+- Ablação de endométrio: raramemte utilizada, mais para resolver e controlar o sangramento, não é um tratamento propriamente dito. É a destruição do endométrio.
+- __Histerectomia:__ pacientes com prole definida
+  - Subtotal: preservando o colo
+  - Total
+  - Via laparotômica: útero > 16s
+  - Via laparoscópica: útero < 14s até 350cm³
+  - Via vaginal: útero < 300cm³ e mobilidade uterina
+
+Se a paciente fez miomectomia laparoscópica ou laparotômica, o parto deve ser de cesárea para prevenir o risco de rótura uterina.[^med]
 
 ## Leiomioma e gravidez
 Os miomas podem crescer durante a gravidez, geralmente apenas até a primeira metade da gestação.
