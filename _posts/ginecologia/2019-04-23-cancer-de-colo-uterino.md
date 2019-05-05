@@ -26,7 +26,7 @@ layout: post
   - HPV-18 (↑Adenocarcinomas)
   - Os demais subtipos não oncogênicos estão mais relacionados a infecções transitórias que se resolvem em 2-5 anos
 
-### História natural
+## História natural
 - Crescimento lento, progressivo e silencioso
 - Iniciada com transformações intraepiteliais (NIC II e III) progressivas que evoluem em 10-15 anos para CA invasivo
 - Cura espontânea, alterações persistentes que não progridem ou evolução para carcinoma _in situ_ ou invasivo
@@ -91,13 +91,46 @@ Deve ser feita a inspeção da vulva, vagina e colo, procurando por anomalias co
   - Acima de baixo grau: encaminhar para a colposcopia
 
 ### Colposcopia
+É a visualização do colo uterino através do colposcópico, após aplicação de ácido acético a 5% e lugol, para avaliar a JEC.
 
+O ácido acético coagula as proteínas citoplasmáticas do epitélio alterado. Portanto, quanto mais proteínas, mais esbranquiçada fica a lesão. Este processo esconde a congestão do tecido conjuntivo. Por esta razão, é importante observar antes do ácido acético se há áreas avermelhadas que denotem neovascularização, e se elas tornam-se brancas após a ação do ácido acético.
+
+O lugol é usado no __teste de Schiller__, para identificar áreas de epitélio escamoso desprovidas de glicogênio que é tingida de amarelo-mortarda. O restante do epitélio se cora de marrom-escuro. O ideal seria ver o colo todo corado escuro pelo lugol. __O teste de Schiller é positivo quando o iodo é negativo__.
+
+- __Indicações:__
+  - Resultado citológico de LIE-AG
+  - 2 citologias consecutivas com resultado de ASC-US.
+  - 2 citologias consecutivas com resultado de LIE-BG.
+  - Resultado citológico ASC-H.
+  - Resultado citológico de AGC (antigo AGUS) → O canal cervical tem que ser obrigatoriamente avaliado!
+  - Pacientes imunossuprimidas com LIE de baixo grau.
+- __Achados Colposcópicos Normais:__
+  - Epitélio escamoso original
+  - Epitélio colunar
+  - Zona de transformação
+- __Achados sugestivos de CA invasor:__
+  - Superfície irregular, erosão ou ulceração
+  - Epitélio acetobranco denso (após aplicação do ácido)
+  - Pontilhado e mosaico amplos e irregulares
+  - Vasos atípicos (↑suspeição de malignidade)
+- Achados Colposcópicos Insatisfatórios
+  - JEC não visível
+  - Inflamação ou atrofias intensas
+  - Colo uterino não visível
 
 ### Biópsia
+- Padrão-ouro!
+- Técnica de biópsia:
+  -  biópsia incisional dirigida
+  -  biópsia em cone
+  -  curetagem endocervical
+  -  biópsia excisional através de CAF
+- Imediatamente emergir em susbt. fixadora a 10%
+- Indicações:
+  - Alterações colposcópicas maiores, como epitélio acetobranco denso, mosaico grosseiro, pontilhado grosseiro, iodo negativo, vasos atípicos.
+  - Achados colposcópicos sugestivos de câncer invasor, como superfície irregular, erosão ou ulceração; epitélio acetobranco denso, pontilhado e mosaico amplos e irregulares, vasos atípicos.
 
-### Resto
-
-- Biópsia é obrigatória em caso de lesões suspeitas (colposcopia revela o local para a biópsia)
+### Exames de imagem
 - USG de abdome total
 - Urografia excretora
 - Radiografia de tórax
@@ -137,9 +170,10 @@ epitélio acometida e do grau de discariose.
     - Mucinoso
     - Palifero
     - Adenoide cístico
-  - __Mesenquiais__
-  - __Tumor do ducto de Gartner__
-  - Outros
+  3. __Adenoescamoso__
+- __Mesenquiais__
+- __Tumor do ducto de Gartner__
+- Outros
 
 ### Grau histológico
 - GX: não pode ser avaliado
@@ -149,21 +183,25 @@ epitélio acometida e do grau de discariose.
 - G4: indiferenciado
 
 ## Estadiamento
-Segundo a FIGO:
+É clínico! Segundo a FIGO:
 
-colocar aquiiiiiiii
+![FIGO](/assets/ginecologia/ca-colo/figo.png)
 
 ## Tratamento
 É notório que a simples presença do vírus, sem ocasionar nenhuma lesão, não necessita de tratamento, além do que, boa parte das lesões, principalmente condilomas pequenos
 e lesões de baixo grau, tem grande potencial de regressão espontânea.
 
 - Condiloma acuminado: eletrocautério, laser, ácido tricloroacético, ressecção cirúrgica
-- CA _in situ_: conização
+- NIC II, III e CA _in situ_: conização (CAF)
 - __Até estágio Ia1__: histerectomia OU conização (caso queira engravidar)
 - __Ia2__: histerectomia radical + linfadenectomia pélvica OU braquiterapia + radioterapia pélvica
 - __Ib1 até IIa__: histerectomia radical + linfadenectomia pélvica + biópsias de linfonodos para-aórticos OU radioterapia pélvica + braquiterapia
 - __Ib2 e IIa__:  histerectomia radical + linfadenectomia pélvica + biópsias de linfonodos para-aórticos OU radioterapia pélvica + quimioterapia ( cisplatina)+ braquiterapia
 - __acima de IIb__:  radioterapia pélvica + quimioterapia + braquiterapia
+
+![TTO1](/assets/ginecologia/ca-colo/tto1.png)
+
+![TTO2](/assets/ginecologia/ca-colo/tto2.png)
 
 ## Seguimento
 - Primeiro ano: Papanicolau e exame ginecológico trimestral
