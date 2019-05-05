@@ -37,7 +37,7 @@ Tudo começa com a agressão renal que resulta em perda irreversível dos néfro
 
 - __Nefropatia diabética__ (1ª no mundo)
 - __Nefropatia hipertensiva__ (1ª no Brasil)
-- __Glomerulopatias__
+- __Glomerulopatias primarias__ (3ª maior)
 - LES
 - D. R. policística
 - Pielonefrite crônica
@@ -76,9 +76,9 @@ Até que a TFG atinja __30%__ do normal, os pacientes podem ser __assintomático
 
 ### Anemia
 - Começa a partir do estágio 3
-- Normo/normo
+- __Normo/normo__
 - Hb < 13H e 12M
-- A deficiência de eritropoetina é a causa mais importante
+- A deficiência de eritropoetina é a causa mais importante (produzida pelo rim)
 - Astenia
 - Insônia
 - Cefaleia
@@ -99,7 +99,7 @@ Até que a TFG atinja __30%__ do normal, os pacientes podem ser __assintomático
   - ↑ _turn over_
   - ↑ do número e tamanho dos osteoclastos
   - ↑ número e tamanho das lacunas de reabsorçao
-  - ↑ níveis de PTH
+  - __↑ níveis de PTH__
   - Hiperparatireoidismo secundário
   - ↑fosfato → ↓Ca → ↓calcitriol → ↑PTH
   - Dor óssea (↑lombar, quadril, joelhos e costelas)
@@ -138,7 +138,9 @@ Solicitar os exames na suspeita de um paciente que faz parte do grupo de risco.
 - Dosagem de creatinina para estimar TFG
 - Relação alb/creat
 - Exame de sedimento urinário (ou fita reagente para leucócitos e hemácias)
-- USG
+- USG: rins de tamanho diminuído (< 8,5cm) e perda da dissociação córtico-medular (esclerose dosglomérulos)
+  - Normalmente o córtex é hipoecoico e a medula renal é hiperecoico.
+  - Na DRC o córtex tem ecogenicidade aumentada, ficando mais branco e menos disntinguível da medula
 - Eletrólitos (Na, K, Cl, HCO3)
 - Concentração ou diluição urinária (densidade ou osmolaridade)
 - pH urinário
@@ -151,6 +153,9 @@ Solicitar os exames na suspeita de um paciente que faz parte do grupo de risco.
 
 ## Classificação
 ### Taxa de filtração glomerular
+
+![Relogio](/assets/nefrologia/drc/relogio.jpeg)
+
 - G1: >= 90 mL/min/1,73m² (normal ou ↑)
 - G2: 60-89 (levemete ↓)
 - G3 (moderadamente ↓)
@@ -158,6 +163,11 @@ Solicitar os exames na suspeita de um paciente que faz parte do grupo de risco.
   - B: 30-44
 - G4: 15-29 (gravemente ↓)
 - G5: < 15 (falência renal)
+
+Associação clínica com os estágios:
+1. Microalbuminúria
+2. Microalbuminúria + Noctúria
+3. Manifestações da síndrome urêmica
 
 ### Clearance da creatinina
 - Formula de Crockoff e Gault
@@ -230,7 +240,6 @@ Contudo, a maior sobrevida proporcionada pela diálise acabou por revelar novas 
     - Síndrome urêmica franca (encefalopatia, pericardite).
     - Algumas intoxicações (metanol, etilenoglicol, salicilatos).
   - __DRC não agudizada__: na presença de sinais e sintomas de síndrome urêmica, associados a um _clearance_ de creatinina < 10mL/min ou 15 em situações especiais (como DM e ICC)
-- __Métodos__
 - __Hemodiálise__ (HD)
   - Arteriovenosa ou venovenosa
   - Complicações
