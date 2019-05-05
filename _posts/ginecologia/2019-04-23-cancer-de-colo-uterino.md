@@ -70,7 +70,33 @@ Deve ser feita a inspeção da vulva, vagina e colo, procurando por anomalias co
 ## Diagnóstico
 É feito com base na __citologia + colposcopia + histopatologia__.
 
-- Papanicolau: pode detectar mais de 90% das neoplasias cervicais
+### Citologia
+- Preparação para o exame:
+  - Não utilizar duchas vaginais aproximadamente 48 horas antes do exame.
+  - Abstinência sexual nas 48 a 72h que precedem a coleta.
+  - Não utilizar cremes vaginais nos 7 dias precedentes ao exame.
+  - Não utilizar nenhuma espécie de lubrificante no espéculo.
+  - De preferência no período periovulatória (sangramento menstrual dificulta a análise)
+- Coleta de material:
+  - Endocérvice
+  - Ectocérvice
+  - Fundo de saco possui baixa qualidade! Indicada apenas para mulheres que fizem histerectomia total
+- Material: espatula de Ayre e escova endocervical
+- Condutas:
+  - Células escamosas atípicas de significado indeterminado (ASCUS): repetir com 6 meses
+  - Células glandulares atípicas (AGUS): colposcopia imediata
+  - Lesão de Baixo Grau (LSIL)
+    - < 25 anos: repetir com 3 anos
+    - > 25 anos: repetir com 6 meses
+  - Acima de baixo grau: encaminhar para a colposcopia
+
+### Colposcopia
+
+
+### Biópsia
+
+### Resto
+
 - Biópsia é obrigatória em caso de lesões suspeitas (colposcopia revela o local para a biópsia)
 - USG de abdome total
 - Urografia excretora
@@ -92,6 +118,10 @@ Quando a JEC está mais exteriorizada para a ectocérvice, o epitélio cilíndri
 ### Lesões intraepiteliais cervicais
 São alterações do processo de maturação do epitélio com diferentes graus de gravidade que, por sua vez, dependem da proporção de células imaturas atípicas, ou da espessura de
 epitélio acometida e do grau de discariose.
+
+- NIC I: LIE de baixo grau, displasia leve
+- NIC II: LIE de alto grau, displasia moderada
+- NIC III: LIE de alto grau, displasia severa, já é quase um carcinoma _in situ_
 
 - __Epiteliais__
   1. __Carcinoma de células escamosas__: o mais comum, 80-90% dos casos
