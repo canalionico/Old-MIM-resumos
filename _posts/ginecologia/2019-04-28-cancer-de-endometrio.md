@@ -95,19 +95,21 @@ O estadiamento é __feito cirurgicamente!__ A avaliação clínica pré-operató
 - Histerectomia total com anexectomia bilateral e posterior histopatologia
 
 ## Tratamento
-- Lesões precursoras simples ou complexas sem atipia:[^med]
-	- Acompanhamento com biópsias seriadas
+### Lesões precursoras[^med]
+- __Lesões precursoras simples ou complexas SEM atipia:__
+	- Acompanhamento com biópsias seriadas (6 meses)
 	- Progesterona (o mais utilizado)
-	- Histerectomia: pacientes na pós-menopausa, prole  definida ou que desejam fazer a remoção do útero.
-- Lesões precursoras simples ou complexa com atipia e com dejeso de engravidar:
-	- Progesterona
-- __Histerectomia é a conduta de eleição nos casos de atipia__
+	- Histerectomia para pacientes na pós-menopausa, prole definida ou que almejam a remoção do útero.
+- __Lesões precursoras simples ou complexa COM atipia__
+	- Dejeso de engravidar: Progesterona e biópsias seriadas (3 meses)
+	- Histerectomia: é a conduta de eleição nos casos de atipia (↑potencial maligno)
 
-A principal é a retirada cirúrgica do útero e seus anexos. De bom prognóstico para os tumores restritos ao endométrio, independente do grau de diferenciação (I, II ou III), não sendo necessário tratamento adjuvante.
+### Câncer de encométrio
+A principal é a histerectomia + anexectomia (__pan-histerectomia__). De bom prognóstico para os tumores restritos ao endométrio, independente do grau de diferenciação (I, II ou III), não sendo necessário tratamento adjuvante.
 
 As formas de tumores com maiores chances de disseminação extra-uterina podem requerer linfadenectomia retroperitoneal.
 
-- Linfadenectomia pélvica rotineira: indicada nas seguintes situações:
+- __Linfadenectomia__ pélvica rotineira: indicada nas seguintes situações:
 	- invasão miometrial > 50%
 	- extensão da neoplasia ao istmo ou colo uterino
 	- disseminação extra-uterina
@@ -117,15 +119,12 @@ As formas de tumores com maiores chances de disseminação extra-uterina podem r
 Um método alternativo para o estadiamento e tratamento do câncer endometrial para
 diminuir ainda mais a morbidade é a realização de histerectomia vaginal assistida por video laparoscopia e linfadenectomia laparoscópica.
 
-### Complicações
-As principais complicações são lesões de grandes vasos, lesões intestinais e aumento das complicações radioterápicas pós-operatórias.
-
 ### Tratamento adjuvante
-Realizado em todas as pacientes com alto risco de recidiva, como doença extrauterina ou metástases e invasão de mais de 50% do miométrio. Se baseia na radioterapia pós-operatória.
-
 Nos casos de tumores restritos ao endométrio a radioterapia não é indicada, independente do grau de diferencação.
 
-O tratamento radioterápico em geral consiste de irradiação externa, pélvica, com 5040 cGy e 4 inserções vaginais de 600cGy cada ( braquiterapia com alta taxa de dose).
+Realizado em todas as pacientes com alto risco de recidiva, como doença extrauterina ou metástases e invasão > 50% do miométrio. Se baseia na radioterapia pós-operatória.
+
+O tratamento radioterápico em geral consiste de irradiação externa, pélvica, com 5040 cGy e 4 inserções vaginais de 600cGy cada (braquiterapia com alta taxa de dose).
 
 Quando se identifica infiltração tumoral do colo uterino no pré-operatório (estádio clínico IIb) indica-se, em geral, radioterapia neoadjuvante, isto é, anterior ao tratamento cirúrgico. A irradiação diminui o volume neoplásico, facilitando o procedimento cirúrgico.
 
