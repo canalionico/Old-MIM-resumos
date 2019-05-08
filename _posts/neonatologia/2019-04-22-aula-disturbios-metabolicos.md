@@ -1,5 +1,5 @@
 ---
-title: Distúrbios metabólicos
+title: Aula Distúrbios metabólicos
 author: Filipe Mosca
 permalink: /:categories/disturbios-metabolicos.html
 layout: post
@@ -7,14 +7,14 @@ layout: post
 
 A correta classificação do bebê é muito importante.O feto não precisa produzir glicose, pois toda ela é produzida e fornecida pela mãe.
 3T ocorre o acúmulo de glicose no figado fetal.
-Logo após o nascimento o aporte materno de glicose é interrompido, daí a importância da reserva hepática. 
-Por isso, pode haver uma hipoglicemia fisiológica. 
+Logo após o nascimento o aporte materno de glicose é interrompido, daí a importância da reserva hepática.
+Por isso, pode haver uma hipoglicemia fisiológica.
 
 Estudar a homeostase fisiológica da glicose no RN.
 
 # Hipoglicemia neonatal
-É muito dificil diagnósticar uma hipoglicemia em RNs. Ainda hoje não existe um consenso do valor de referência da hipoglicemia neonatal. 
-Lembrar da hipoglicemia fisiológica devido à interrupção do fornecimento de glicose materna. Nas primeiras horas de vida é tolerável uma glicemia mais baixa. 
+É muito dificil diagnósticar uma hipoglicemia em RNs. Ainda hoje não existe um consenso do valor de referência da hipoglicemia neonatal.
+Lembrar da hipoglicemia fisiológica devido à interrupção do fornecimento de glicose materna. Nas primeiras horas de vida é tolerável uma glicemia mais baixa.
 
 - 1 a 2h glicemia < 28
 - 1as 48h glicemia fica <40
@@ -23,17 +23,17 @@ Lembrar da hipoglicemia fisiológica devido à interrupção do fornecimento de 
 Deve ser confirmado por glicemia sérica!!!
 
 ## Etiologias
-- Redução de reservas ou produção da glicose 
+- Redução de reservas ou produção da glicose
     - Oferta calórica inadequada após nascer
     - Pré-termos que não formaram corretamente as reservas hepáticas
     - Restrição do crescimento fetal
 - Maior utilização da glicose
 
-Se o RN for PT, talvez ele não tenha completado a formação da reserva hepática de glicose do terceiro trimestre. 
+Se o RN for PT, talvez ele não tenha completado a formação da reserva hepática de glicose do terceiro trimestre.
 
 ## Quadro clínico
-É muito dificil de avaliar, __a maioria são assintomáticos__. O mais importante é se atentar aos __fatores de risco__ e fazer um acompanhamento por __rastreio__ dos bebês mais prováveis de desenvolver essa condição. 
-A triagem é feita com o teste de HGT seriado. 
+É muito dificil de avaliar, __a maioria são assintomáticos__. O mais importante é se atentar aos __fatores de risco__ e fazer um acompanhamento por __rastreio__ dos bebês mais prováveis de desenvolver essa condição.
+A triagem é feita com o teste de HGT seriado.
 
 ### Tempos de triagem por HGT
 - RNPT e RNT PIG: 3,6,12,14
@@ -82,7 +82,7 @@ Geralmente maior que 72h.
 - O resto livre
 
 ## Hipocalcemia
-Depende da idade do RN. 
+Depende da idade do RN.
 
 - Precoce: até 72h de vida
     - Filho de mãe diabética
@@ -95,14 +95,14 @@ Depende da idade do RN.
     - Fototerapia
     - ...
 
-Não existe rotina de ficar medindo cálcio em todo bebê de risco, pois é necessário fazer exame de sangue. A volemia dos RNs já é baixa e coletar sangue pode ser pior. 
+Não existe rotina de ficar medindo cálcio em todo bebê de risco, pois é necessário fazer exame de sangue. A volemia dos RNs já é baixa e coletar sangue pode ser pior.
 
 ### Manjeo
 - Assintomático: alimentar,o leite materno já tem cálcio. Tratar a causa!!!
-- Sintomático: 
+- Sintomático:
     - Se crise convulsiva, tetania ou apnéia: gluconalto de Ca
 
-## Hipercalcemia 
+## Hipercalcemia
 bem menos comum
 
 
@@ -111,11 +111,11 @@ bem menos comum
 O magnésio baixo pode induzir uma queda no cálcio
 
 ## Hipermagnesemia
-- >3
+- Mg >3
 - Principal causa é o uso de sulfato de magnésio pela mãe
 
 # Filho de mãe diabética
-Os RNs filhos de mães diabéticas podem juntar todos os distúrbios metabólicos. 
+Os RNs filhos de mães diabéticas podem juntar todos os distúrbios metabólicos.
 - Hipoglicemia
 - Hipomagnesemia
 - Hipocalcemia

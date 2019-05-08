@@ -1,4 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-07T16:49:18-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Distúrbios metabólicos</title><link href="http://localhost:4000/neonatologia/disturbios-metabolicos.html" rel="alternate" type="text/html" title="Distúrbios metabólicos" /><published>2019-05-06T00:00:00-03:00</published><updated>2019-05-06T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/disturbios-metabolicos</id><content type="html" xml:base="http://localhost:4000/neonatologia/disturbios-metabolicos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-08T01:35:12-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Distúrbios hidroeletrolíticos</title><link href="http://localhost:4000/neonatologia/disturbios-hidroeletroliticos.html" rel="alternate" type="text/html" title="Distúrbios hidroeletrolíticos" /><published>2019-05-07T00:00:00-03:00</published><updated>2019-05-07T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/disturbios-hidroeletroliticos</id><content type="html" xml:base="http://localhost:4000/neonatologia/disturbios-hidroeletroliticos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#hiponatremia&quot; id=&quot;markdown-toc-hiponatremia&quot;&gt;Hiponatremia&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;hiponatremia&quot;&gt;Hiponatremia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Na sérico &amp;lt; 130 mEq/L&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Causas&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Oferta hídrica aumentada;&lt;/li&gt;
+      &lt;li&gt;Baixa oferta de sódio;&lt;/li&gt;
+      &lt;li&gt;Redistribuição osmótica de água ( p.ex. hiperglicemia);&lt;/li&gt;
+      &lt;li&gt;Excreção renal de água diminuída: imaturidade renal com diminuição da taxa de filtração glomerular (TFG), insuficiência renal aguda (IRA) e crônica (IRC), insuficiência cardíaca congestiva (ICC), síndrome da secreção inapropriada do hormônio antidiurético ( SIHAD), drogas (indometacina, corticosteróides);&lt;/li&gt;
+      &lt;li&gt;Perda renal aumentada de sódio: imaturidade tubular renal, uropatia obstrutiva, alcalose metabólica, IRA poliúrica, diuréticos de alça, tiazídicos, metilxantinas, drogas vasoativas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quadro clínico&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Vômito&lt;/li&gt;
+      &lt;li&gt;Letargia&lt;/li&gt;
+      &lt;li&gt;Convulsão&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tratamento&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Se hiponatremia associada a hipervolemia ( CC/SIHAD): restrição hídrica.&lt;/li&gt;
+      &lt;li&gt;Se hiponatremia não associada a hipervolemia (Na &amp;gt; 120) assintomático: aumentar a oferta de sódio na hidratação.&lt;/li&gt;
+      &lt;li&gt;Se hiponatremia &amp;lt; 120mEq/L ou sinais neurológicos ( alteração do sensório e convulsão ) - furosemida ( 1mg/Kg EV), enquanto se repõem as perdas de Na com NaCl 3% (corrigir Na para 125mEq/L ). Esta estratégia leva a uma perda de água livre, sem alteração do sódio total do corpo.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Distúrbios metabólicos</title><link href="http://localhost:4000/neonatologia/disturbios-metabolicos.html" rel="alternate" type="text/html" title="Distúrbios metabólicos" /><published>2019-05-06T00:00:00-03:00</published><updated>2019-05-06T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/disturbios-metabolicos</id><content type="html" xml:base="http://localhost:4000/neonatologia/disturbios-metabolicos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#hipoglicemia-neonatal&quot; id=&quot;markdown-toc-hipoglicemia-neonatal&quot;&gt;Hipoglicemia neonatal&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#prevenção&quot; id=&quot;markdown-toc-prevenção&quot;&gt;Prevenção&lt;/a&gt;&lt;/li&gt;
@@ -2618,174 +2648,5 @@ proteicocalórica.&lt;/li&gt;
 
 &lt;h2 id=&quot;transplante-renal&quot;&gt;Transplante renal&lt;/h2&gt;
 &lt;p&gt;É o melhor método de substituição renal.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Infecções do trato urinário em crianças</title><link href="http://localhost:4000/pediatri%E1%BA%A1" rel="alternate" type="text/html" title="Infecções do trato urinário em crianças" /><published>2019-04-24T00:00:00-03:00</published><updated>2019-04-24T00:00:00-03:00</updated><id>http://localhost:4000/infeccao-do-trato-urinario-em-criancas</id><content type="html" xml:base="http://localhost:4000/pediatri%E1%BA%A1">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnpostico-diferencial&quot; id=&quot;markdown-toc-diagnpostico-diferencial&quot;&gt;Diagnpostico diferencial&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Consiste na multiplicação de um único germe patogênico em qualquer segmento do trato urinário.
-É a principal causa de febre sem sinais de localização (FSSL).&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mais frequente em meninos até os 6m de vida (período neonatal)&lt;/li&gt;
-  &lt;li&gt;Mais frequente em meninas 20:1 (maior proximidade da uretra com o ânus)&lt;/li&gt;
-  &lt;li&gt;Aumento de incidência dos 3-5 anos de idade e adolescência (por alterações hormonais e até pelo início da atividade sexual)&lt;/li&gt;
-  &lt;li&gt;Tende à repetição&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Sexo feminino&lt;/li&gt;
-  &lt;li&gt;Meninos não circunsisados&lt;/li&gt;
-  &lt;li&gt;Refluxovésico-ureteral (pielonefrite)&lt;/li&gt;
-  &lt;li&gt;Disfunção miccional&lt;/li&gt;
-  &lt;li&gt;Uropatia obstrutiva&lt;/li&gt;
-  &lt;li&gt;Higiene adequada&lt;/li&gt;
-  &lt;li&gt;Cateterização&lt;/li&gt;
-  &lt;li&gt;Manipulação genital&lt;/li&gt;
-  &lt;li&gt;Constipação&lt;/li&gt;
-  &lt;li&gt;Anormalidades anatômicas&lt;/li&gt;
-  &lt;li&gt;Bexiga neurogênica&lt;/li&gt;
-  &lt;li&gt;Atividade sexual&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;E. coli&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Proteus&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Klebsiella&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;etc&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Pielonefrite&lt;/li&gt;
-  &lt;li&gt;Cistite&lt;/li&gt;
-  &lt;li&gt;Bacteriúria assintomática: vista com a urocultura sintomática&lt;/li&gt;
-  &lt;li&gt;10-20% das ITUs não podem ser diferenciadas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Febre&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&amp;lt; 2 anos&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Irritabilidade&lt;/li&gt;
-      &lt;li&gt;Icterícia&lt;/li&gt;
-      &lt;li&gt;Recusa alimentar&lt;/li&gt;
-      &lt;li&gt;Distensão abdominal&lt;/li&gt;
-      &lt;li&gt;Baixo ganho ponderal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;&amp;gt; 2 anos&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Disúria&lt;/li&gt;
-      &lt;li&gt;Polaciúria&lt;/li&gt;
-      &lt;li&gt;Urgência miccional&lt;/li&gt;
-      &lt;li&gt;Incontinência&lt;/li&gt;
-      &lt;li&gt;Enurese (controle esfincteriano prévio)&lt;/li&gt;
-      &lt;li&gt;Tenesmo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Específicos da cistite
-    &lt;ul&gt;
-      &lt;li&gt;Desconforto suprapúbico&lt;/li&gt;
-      &lt;li&gt;Urina fétida&lt;/li&gt;
-      &lt;li&gt;Hematúria&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Específicos da Pielonefrite
-    &lt;ul&gt;
-      &lt;li&gt;Ver quais são…&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em crianças sem controle esfincteriano os sintomas são mais inespecíficos, o oposto das crianças que já controlam os esfincteres.&lt;/p&gt;
-
-&lt;h3 id=&quot;diagnpostico-diferencial&quot;&gt;Diagnpostico diferencial&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Vaginite&lt;/li&gt;
-  &lt;li&gt;Corpo estranho vaginal&lt;/li&gt;
-  &lt;li&gt;Corpo estranho uretral&lt;/li&gt;
-  &lt;li&gt;Oxiuríase&lt;/li&gt;
-  &lt;li&gt;Irritantes locais: sabonetes líquidos, maiôs&lt;/li&gt;
-  &lt;li&gt;Abuso sexual&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Anamnese&lt;/li&gt;
-  &lt;li&gt;Exame físico
-    &lt;ul&gt;
-      &lt;li&gt;Sinal de Giordano&lt;/li&gt;
-      &lt;li&gt;Secreção genital&lt;/li&gt;
-      &lt;li&gt;Coalescência de pequenos lábios&lt;/li&gt;
-      &lt;li&gt;Fibose&lt;/li&gt;
-      &lt;li&gt;Tufo capilar em região sacra (pensar em espinha bífida oculta)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;EAS (sumário de urina)&lt;/li&gt;
-  &lt;li&gt;Urocultura
-    &lt;ul&gt;
-      &lt;li&gt;Sem controle esfincteriano: punção suprapúbica, sonda vesical, saco coletor&lt;/li&gt;
-      &lt;li&gt;Com controle: jato médio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Toda criança deve fazer investigação por imagem (ver o algorítmo)
-    &lt;ul&gt;
-      &lt;li&gt;USG&lt;/li&gt;
-      &lt;li&gt;Cintilografia renal com DMSA
-        &lt;ul&gt;
-          &lt;li&gt;Padrão ouro para avaliar cicatriz renal&lt;/li&gt;
-          &lt;li&gt;Deve ser feita em todos os lactentes com ITU febril&lt;/li&gt;
-          &lt;li&gt;Uretrocistografia miccional (UCM)
-            &lt;ul&gt;
-              &lt;li&gt;Pacientes com USG ou cintilografia alterada&lt;/li&gt;
-              &lt;li&gt;Quadros repetidos&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Fazer a urocultura antes de iniciar o antibiótico!!!&lt;/li&gt;
-  &lt;li&gt;Empírico (até a chegada da urocultura)&lt;/li&gt;
-  &lt;li&gt;Parenteral: lactentes &amp;lt; 4 meses, EG comprometido, vômitos.
-    &lt;ul&gt;
-      &lt;li&gt;Por pelo menos 7-10 dias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Amoxacilina&lt;/li&gt;
-  &lt;li&gt;Cefalosporina de 1a geração&lt;/li&gt;
-  &lt;li&gt;Internação:
-    &lt;ul&gt;
-      &lt;li&gt;Gentamicina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Profilaxia&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
