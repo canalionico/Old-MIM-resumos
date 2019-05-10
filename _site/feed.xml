@@ -1,4 +1,147 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-08T01:35:12-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Distúrbios hidroeletrolíticos</title><link href="http://localhost:4000/neonatologia/disturbios-hidroeletroliticos.html" rel="alternate" type="text/html" title="Distúrbios hidroeletrolíticos" /><published>2019-05-07T00:00:00-03:00</published><updated>2019-05-07T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/disturbios-hidroeletroliticos</id><content type="html" xml:base="http://localhost:4000/neonatologia/disturbios-hidroeletroliticos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-09T22:03:26-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores malignos da mama</title><link href="http://localhost:4000/mastologia/tumores-malignos-da-mama" rel="alternate" type="text/html" title="Tumores malignos da mama" /><published>2019-05-09T00:00:00-03:00</published><updated>2019-05-09T00:00:00-03:00</updated><id>http://localhost:4000/mastologia/tumores-malignos-da-mama</id><content type="html" xml:base="http://localhost:4000/mastologia/tumores-malignos-da-mama">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#rastreamento-e-prevenção&quot; id=&quot;markdown-toc-rastreamento-e-prevenção&quot;&gt;Rastreamento e prevenção&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiopatologia&quot; id=&quot;markdown-toc-etiopatologia&quot;&gt;Etiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#histologia&quot; id=&quot;markdown-toc-histologia&quot;&gt;Histologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#história-natural&quot; id=&quot;markdown-toc-história-natural&quot;&gt;História natural&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a proliferação maligna das células epiteliais que margeiam os ductos ou os lóbulos.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Segundo tipo mais frequente de CA no mundo&lt;/li&gt;
+  &lt;li&gt;O mais comum entre as mulheres&lt;/li&gt;
+  &lt;li&gt;1% incide em homens&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sexo feminino&lt;/li&gt;
+  &lt;li&gt;Idade &amp;gt; 40 anos&lt;/li&gt;
+  &lt;li&gt;Cor branca (mas não há diferença nas mortalidades)&lt;/li&gt;
+  &lt;li&gt;Menarca precoce (&amp;lt; 11) e menopausa tardia (&amp;gt; 55)&lt;/li&gt;
+  &lt;li&gt;Nuliparidade&lt;/li&gt;
+  &lt;li&gt;Primiparidade após os 30 anos&lt;/li&gt;
+  &lt;li&gt;Agentes químicos (DDT)&lt;/li&gt;
+  &lt;li&gt;História familiar (1º grau e principalmente com diagóstico em idades &amp;lt; 50 anos)
+    &lt;ul&gt;
+      &lt;li&gt;Lembrar que o CA de mama hereditário corresponde a apenas 10-15% dos casos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mutação dos genes BRCA1 e BRCA1&lt;/li&gt;
+  &lt;li&gt;Uso de terapia hormonal&lt;/li&gt;
+  &lt;li&gt;Países industrializados&lt;/li&gt;
+  &lt;li&gt;Cicatriz radial&lt;/li&gt;
+  &lt;li&gt;Antecedente pessoal de CA de mama, endométrio, ovário e cólon&lt;/li&gt;
+  &lt;li&gt;Antecedente pessoal de radioterapia para doença de Hodgkin&lt;/li&gt;
+  &lt;li&gt;Uso crônico de álcool&lt;/li&gt;
+  &lt;li&gt;Dieta rica em gorduras&lt;/li&gt;
+  &lt;li&gt;Sedentarismo&lt;/li&gt;
+  &lt;li&gt;Hiperplasias atípicas (hiperplasia ductal ou lobular)&lt;/li&gt;
+  &lt;li&gt;Carcinomas &lt;em&gt;in situ&lt;/em&gt; (ductal e lobular)&lt;/li&gt;
+  &lt;li&gt;Uso de ACO&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Então obesidade não é fator de risco mas sim a dieta rica em gordura? Não há um consenso.&lt;/p&gt;
+
+&lt;h2 id=&quot;rastreamento-e-prevenção&quot;&gt;Rastreamento e prevenção&lt;/h2&gt;
+&lt;p&gt;Realizado por meio do exame de mamografia. Permite detectar lesões não palpáveis.&lt;/p&gt;
+
+&lt;p&gt;O autoexame deve ser realizado após o período menstrual. Contudo, só consegue identificar massas maiores que 1cm.&lt;/p&gt;
+
+&lt;h2 id=&quot;etiopatologia&quot;&gt;Etiopatologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;80% tem origem no epitélio ductal&lt;/li&gt;
+  &lt;li&gt;A minoria se origina no epitélio lobular&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;histologia&quot;&gt;Histologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Carcinoma ductal: o mais comum&lt;/li&gt;
+  &lt;li&gt;Carcinoma lobular: maior tendência a bilateralidade e multicentricidade&lt;/li&gt;
+  &lt;li&gt;Carcinoma inflamatório: tumor de pior prognóstico e metastização precoce&lt;/li&gt;
+  &lt;li&gt;Tumor filioides: tumor com maior tendência à recorrência local&lt;/li&gt;
+  &lt;li&gt;Doença de Paget: desordem eczematoide do mamilo e da aréola, normalmente unilateral, de evolução lenta, que pode evoluir com lesão da papila, com ausência ou pouco prurido, sem resposta aos corticoides (ver quadrinho sobre diagnóstico
+diferencial com eczema areolar).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Assintomáticas&lt;/li&gt;
+  &lt;li&gt;Massa palpável, unilateral, firme, endurecido.&lt;/li&gt;
+  &lt;li&gt;Crescimento insidioso e indolor&lt;/li&gt;
+  &lt;li&gt;Derrame papilar (cristalino, “água de rocha”, ou sanguinolento), uniductal, espontâneo, intermitente.&lt;/li&gt;
+  &lt;li&gt;Eritema mamário&lt;/li&gt;
+  &lt;li&gt;Edema mamário (em &lt;em&gt;casca de laranja&lt;/em&gt;)&lt;/li&gt;
+  &lt;li&gt;Retrações ou abaulamentos&lt;/li&gt;
+  &lt;li&gt;Inversão, descamação ou ulceração do mamilo&lt;/li&gt;
+  &lt;li&gt;Linfonodos axilares palpáveis&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Usualmente o tumor maligno tem crescimento insidioso e se localiza no quadrante superior externo ou na região central da nmama.&lt;/p&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
+&lt;p&gt;Avaliar mamas e cadeias linfáticas axilares, supra e infracláviculares.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Apresentação clássica:&lt;/strong&gt; tumor endurecido, de forma variável ,contornos irregulares, limites imprecisos, fixo (aderido a planos profundos) ou pouco móvel&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;crescimento insidioso&lt;/li&gt;
+  &lt;li&gt;descarga papilar geralmente:  uniductal, espontânea, intermitente, água de rocha ou sanguinolenta. Ocasionalmente, é serossanguinolenta.&lt;/li&gt;
+  &lt;li&gt;Procurar sinais de retração ou abaulamentos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pacientes jovens e com mamas mais densas podem mascarar os tumores por mais tempo, com agravamento do seu prognóstico.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;PAAF:&lt;/strong&gt; Diferenciação entre tumores císticos e sólidos (falha ao tentar a aspiração). A citologia isoladamente não faz diagnóstico de câncer e só tem valor se for positiva.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt; de mamas: Útil em pacientes jovens com mamas densas e como guia de procedimentos. Sinais sugestivos de Malignidade:
+    &lt;ul&gt;
+      &lt;li&gt;margens irregulares,&lt;/li&gt;
+      &lt;li&gt;hipoecogenicidade e textura heterogênea (achado inespecífico),&lt;/li&gt;
+      &lt;li&gt;diâmetro craniocaudal (anteroposterior) maior do que o diâmetro laterolateral (nódulo “mais alto que largo”)&lt;/li&gt;
+      &lt;li&gt;presença de sombra acústica posterior, contornos microlobulares.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mamografia:&lt;/strong&gt; Único exame capaz de identificar microcalcificações. Sinais sugestivos de Malignidade:
+    &lt;ul&gt;
+      &lt;li&gt;nódulos espiculados, de limites mal definidos com distorção do parênquima adjacente&lt;/li&gt;
+      &lt;li&gt;presença de microcalcificações (&amp;lt; 0,5 mm) pleomórficas (i.e. de formatos diferentes) agrupadas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RM:&lt;/strong&gt; Avaliação de pacientes em uso de implantes mamários (próteses de silicone).
+    &lt;ul&gt;
+      &lt;li&gt;Não avalia microcalcificações ou tumores ductais &amp;lt; 2mm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cintilografia: busca de metástases à distância, sobretudo ósseas.&lt;/li&gt;
+  &lt;li&gt;TC: não é muita efetiva para estudo da mama (???)&lt;/li&gt;
+  &lt;li&gt;Core Biópsia: Nódulo sólido, microcalcificações agrupadas, densidade assimétrica, distorção do parênquima.&lt;/li&gt;
+  &lt;li&gt;Mamotomia: Estudo de lesões impalpáveis.&lt;/li&gt;
+  &lt;li&gt;Biópsia Excisional: Retirada completa da lesão (lesões menores).&lt;/li&gt;
+  &lt;li&gt;Biópsia Incisional: Retirada de um fragmento (lesões grandes).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;história-natural&quot;&gt;História natural&lt;/h2&gt;
+&lt;p&gt;Epitélio normal → Hiperplasia Epitelial Típica → Hiperplasia Epitelial Atípica → Carcinoma Intraductal ou Intralobular → Carcinoma Invasor&lt;/p&gt;
+
+&lt;p&gt;A transição de CA in situ para infiltrante ainda é controversa!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A primeira célula maligna aparece no epitélio ductal susceptível, ativada por fatores genéticos ou ambientais, tais como radiação e agentes químicos. O epitélio de revestimento ductal, formado basicamente por uma ou duas camadas celulares, inicia sua proliferação motivado por estímulos hormonais, fato que acarreta uma elevação do número de células acima da membrana basal. Denominamos essa proliferação epitelial de hiperplasia típica. Na maior parte das vezes essa proliferação epitelial cessa nesse estágio, sem traduzir perigos posteriores. No entanto, em determinadas situações, os gatilhos da iniciação tumoral alteram o protótipo celular, culminando na chamada hiperplasia atípica, ou seja, ocorrência de atipias leves em espaços restritos. As hiperplasias atípicas evoluem para os reais precursores morfológicos dos carcinomas invasores, os carcinomas intraductais ou intralobulares&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O carcinoma intraductal ou intralobular, pelos mais diferentes estímulos – angiogênicos, hormonais, enzimáticos, entre outros – continuam sua proliferação celular, rompem a membrana basal ductal, penetram no estroma mamário, podem permear e embolizar os vasos sanguíneos e linfáticos do sistema de circulação da mama, e evoluir para carcinoma invasor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Nas &lt;strong&gt;metástases&lt;/strong&gt; os ossos, pulmões e figado são os órgãos mais acometidos (cerebrais também).&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Distúrbios hidroeletrolíticos</title><link href="http://localhost:4000/neonatologia/disturbios-hidroeletroliticos.html" rel="alternate" type="text/html" title="Distúrbios hidroeletrolíticos" /><published>2019-05-07T00:00:00-03:00</published><updated>2019-05-07T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/disturbios-hidroeletroliticos</id><content type="html" xml:base="http://localhost:4000/neonatologia/disturbios-hidroeletroliticos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#hiponatremia&quot; id=&quot;markdown-toc-hiponatremia&quot;&gt;Hiponatremia&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -2047,7 +2190,7 @@ irradiação pélvica podem estar associados com a sua gênese. Acometem mulhere
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Puerpério</title><link href="http://localhost:4000/obstetricia/puerperio.html" rel="alternate" type="text/html" title="Puerpério" /><published>2019-04-27T00:00:00-03:00</published><updated>2019-04-27T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/puerperio</id><content type="html" xml:base="http://localhost:4000/obstetricia/puerperio.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiologia-da-involução&quot; id=&quot;markdown-toc-fisiologia-da-involução&quot;&gt;Fisiologia da involução&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#Útero&quot; id=&quot;markdown-toc-Útero&quot;&gt;Útero&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#útero&quot; id=&quot;markdown-toc-útero&quot;&gt;Útero&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#loquiação&quot; id=&quot;markdown-toc-loquiação&quot;&gt;Loquiação&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#colo-uterino&quot; id=&quot;markdown-toc-colo-uterino&quot;&gt;Colo uterino&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#vagina&quot; id=&quot;markdown-toc-vagina&quot;&gt;Vagina&lt;/a&gt;&lt;/li&gt;
@@ -2086,7 +2229,7 @@ irradiação pélvica podem estar associados com a sua gênese. Acometem mulhere
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;fisiologia-da-involução&quot;&gt;Fisiologia da involução&lt;/h2&gt;
-&lt;h3 id=&quot;Útero&quot;&gt;Útero&lt;/h3&gt;
+&lt;h3 id=&quot;útero&quot;&gt;Útero&lt;/h3&gt;
 &lt;p&gt;No pós-pato imediato, as contrações uterinas são fundamentais para a hemostasia da ferida placentária. Com as contrações o miométrio comprime os vasos uterinos parietais (&lt;em&gt;ligaduras vivas de Pinnard&lt;/em&gt;), diminuindo o sangramento. O estado do útero contraído e de consistência firme é chamado de “&lt;strong&gt;globo de segurança de Pinnard&lt;/strong&gt;”. A hemostasia se completa com a trombose dos orificios vasculares do sítio placentário.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -2276,377 +2419,4 @@ irradiação pélvica podem estar associados com a sua gênese. Acometem mulhere
       &lt;p&gt;Livro do Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Doença renal crônica</title><link href="http://localhost:4000/nefrologia/doenca-renal-cronica.html" rel="alternate" type="text/html" title="Doença renal crônica" /><published>2019-04-24T00:00:00-03:00</published><updated>2019-04-24T00:00:00-03:00</updated><id>http://localhost:4000/nefrologia/doenca-renal-cronica</id><content type="html" xml:base="http://localhost:4000/nefrologia/doenca-renal-cronica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#anemia&quot; id=&quot;markdown-toc-anemia&quot;&gt;Anemia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#doença-óssea-e-articular&quot; id=&quot;markdown-toc-doença-óssea-e-articular&quot;&gt;Doença óssea e articular&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#desequilíbrio-hidroeletrolítico&quot; id=&quot;markdown-toc-desequilíbrio-hidroeletrolítico&quot;&gt;Desequilíbrio hidroeletrolítico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#critérios-diagnósticos&quot; id=&quot;markdown-toc-critérios-diagnósticos&quot;&gt;Critérios diagnósticos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#taxa-de-filtração-glomerular&quot; id=&quot;markdown-toc-taxa-de-filtração-glomerular&quot;&gt;Taxa de filtração glomerular&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#clearance-da-creatinina&quot; id=&quot;markdown-toc-clearance-da-creatinina&quot;&gt;Clearance da creatinina&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#grau-de-albuminúria&quot; id=&quot;markdown-toc-grau-de-albuminúria&quot;&gt;Grau de albuminúria:&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#abordagem&quot; id=&quot;markdown-toc-abordagem&quot;&gt;Abordagem&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#terapia-de-substituição-renal&quot; id=&quot;markdown-toc-terapia-de-substituição-renal&quot;&gt;Terapia de substituição renal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diálise&quot; id=&quot;markdown-toc-diálise&quot;&gt;Diálise&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#transplante-renal&quot; id=&quot;markdown-toc-transplante-renal&quot;&gt;Transplante renal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É a evidência de anormalidades estruturais ou funcionais presentes por mais de 3 meses. Como resultado da agressão continuada, resultando em progressiva perda de função.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Marcadores de dano renal:
-    &lt;ul&gt;
-      &lt;li&gt;albuminúria &amp;gt;= 30mg/dia&lt;/li&gt;
-      &lt;li&gt;alb/creat &amp;gt;= 30mg/dia&lt;/li&gt;
-      &lt;li&gt;anormalidades no sedimento urinário&lt;/li&gt;
-      &lt;li&gt;distúrbios hidroeletroliticos&lt;/li&gt;
-      &lt;li&gt;etc&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Marcador de função renal reduzida:
-    &lt;ul&gt;
-      &lt;li&gt;TFG &amp;lt; 60mL/min/1,73m²&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hoje em dia o nome passou de IRC para DRC, pois a insuficiência propriamente dita é um estágio tardio da doença renal crônica.&lt;/p&gt;
-
-&lt;p&gt;No início da doença os pacientes se mantêm assintomáticos, pois os rins ainda conseguem compensar a capacidade funcional perdida.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Nas fases mais avançadas os pacientes apresentam acidose metabólica (acúmulo de H+)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Uremia:&lt;/strong&gt; elevação da uréia no sangue&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;O Japão tem a maior incidência&lt;/li&gt;
-  &lt;li&gt;60% dos pacientes têm entre 30-60 anos&lt;/li&gt;
-  &lt;li&gt;Maior no sexo masculino&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;Tudo começa com a agressão renal que resulta em perda irreversível dos néfrons. Os rins então buscam se adaptar compensando essas perdas. Com hipertrofia dos néfrons que sobraram. Ou seja, a taxa de filtração por néfron (TFN) começa a aumentar. Chega um momento que o mecanismo compensatório atinge seu limite&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Nefropatia diabética&lt;/strong&gt; (1ª no mundo)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nefropatia hipertensiva&lt;/strong&gt; (1ª no Brasil)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Glomerulopatias primarias&lt;/strong&gt; (3ª maior)&lt;/li&gt;
-  &lt;li&gt;LES&lt;/li&gt;
-  &lt;li&gt;D. R. policística&lt;/li&gt;
-  &lt;li&gt;Pielonefrite crônica&lt;/li&gt;
-  &lt;li&gt;Vasculites&lt;/li&gt;
-  &lt;li&gt;Nefrite intersticial&lt;/li&gt;
-  &lt;li&gt;Uropatia obstrutiva adquirida&lt;/li&gt;
-  &lt;li&gt;etc…&lt;/li&gt;
-  &lt;li&gt;↓ da função renal → ↓TFG&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;p&gt;Até que a TFG atinja &lt;strong&gt;30%&lt;/strong&gt; do normal, os pacientes podem ser &lt;strong&gt;assintomáticos&lt;/strong&gt; (apenas alterações bioquímicas)!&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Noctúria (pode ser o 1º sintoma, ocorre pela perda da capacidade de concentração urinária)&lt;/li&gt;
-  &lt;li&gt;↑Hipercalemia, ↑hiperfosfatemia, ↓hipocalcemia&lt;/li&gt;
-  &lt;li&gt;Acidose metabólica (com ânio-gap↑)&lt;/li&gt;
-  &lt;li&gt;Osteodistrofia renal&lt;/li&gt;
-  &lt;li&gt;HAS (80% dos pacientes com DRC)&lt;/li&gt;
-  &lt;li&gt;Anemia&lt;/li&gt;
-  &lt;li&gt;Dislipidemia (principal causa de mortalidade, AVC e SCA)&lt;/li&gt;
-  &lt;li&gt;Sangramento urêmico&lt;/li&gt;
-  &lt;li&gt;Pericardite&lt;/li&gt;
-  &lt;li&gt;Neuropatia urêmica&lt;/li&gt;
-  &lt;li&gt;Anorexia, náuseas e vômitos&lt;/li&gt;
-  &lt;li&gt;Hálito urêmico&lt;/li&gt;
-  &lt;li&gt;Prurido urêmico&lt;/li&gt;
-  &lt;li&gt;Neve urêmica&lt;/li&gt;
-  &lt;li&gt;Palidez, equimoses, hematomas, desidratação e desnutrição proteicocalórica&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sintomas costumam aparecer com TFG &amp;lt; 30%&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;TFG &amp;lt; 5-10% é praticamente incompatível com a vida&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Lembrar que a DRC pode agudizar em condições como:
-    &lt;ul&gt;
-      &lt;li&gt;Infecções&lt;/li&gt;
-      &lt;li&gt;Descontrole pressórico&lt;/li&gt;
-      &lt;li&gt;Hiper ou hipovolemia&lt;/li&gt;
-      &lt;li&gt;Nefrotoxicidade&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;anemia&quot;&gt;Anemia&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Começa a partir do estágio 3&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Normo/normo&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Hb &amp;lt; 13H e 12M&lt;/li&gt;
-  &lt;li&gt;A deficiência de eritropoetina é a causa mais importante (produzida pelo rim)&lt;/li&gt;
-  &lt;li&gt;Astenia&lt;/li&gt;
-  &lt;li&gt;Insônia&lt;/li&gt;
-  &lt;li&gt;Cefaleia&lt;/li&gt;
-  &lt;li&gt;Redução da libido&lt;/li&gt;
-  &lt;li&gt;Depressão&lt;/li&gt;
-  &lt;li&gt;Mal estar físico e mental&lt;/li&gt;
-  &lt;li&gt;Anorexia&lt;/li&gt;
-  &lt;li&gt;Tendência a sangramento&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tratamentos&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Eritropoetina (EPO) recombinante humana (para estimular a eritropoiese, 1x/s)&lt;/li&gt;
-      &lt;li&gt;Darbepoetina&lt;/li&gt;
-      &lt;li&gt;FeSO4&lt;/li&gt;
-      &lt;li&gt;Tranfusão de hemácias (evitada)&lt;/li&gt;
-      &lt;li&gt;Folato e Vit. B12&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;doença-óssea-e-articular&quot;&gt;Doença óssea e articular&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Osteíte fibrosa&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;↑ &lt;em&gt;turn over&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;↑ do número e tamanho dos osteoclastos&lt;/li&gt;
-      &lt;li&gt;↑ número e tamanho das lacunas de reabsorçao&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;↑ níveis de PTH&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;Hiperparatireoidismo secundário&lt;/li&gt;
-      &lt;li&gt;↑fosfato → ↓Ca → ↓calcitriol → ↑PTH&lt;/li&gt;
-      &lt;li&gt;Dor óssea (↑lombar, quadril, joelhos e costelas)&lt;/li&gt;
-      &lt;li&gt;↑risco de fraturas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Osteomalácia&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;↓ &lt;em&gt;turn over&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;↓ renovação óssea, ↓massa óssea&lt;/li&gt;
-      &lt;li&gt;mineraliação &amp;lt; produção do colágeno (acúmulo de osteoide não mineralizado)&lt;/li&gt;
-      &lt;li&gt;Intoxicação por Al (era usado em hemodiálises e como quelante do fósforo)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Doença óssea adinâmica&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;↓ &lt;em&gt;turn over&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;↓ renovação óssea, ↓massa óssea&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Abordagem da doença óssea na DRC&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dosar Ca, fosfato, PTH, fosfatase alcalina e 25(OH)D&lt;/li&gt;
-      &lt;li&gt;Restriçao de fosfato&lt;/li&gt;
-      &lt;li&gt;Quelantes orais de fosfato&lt;/li&gt;
-      &lt;li&gt;Reposição de vit. D&lt;/li&gt;
-      &lt;li&gt;Suplemento de Ca&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;desequilíbrio-hidroeletrolítico&quot;&gt;Desequilíbrio hidroeletrolítico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Balanço de água e sódio&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Excesso de líquido extracelular, ↑PA, ↑lesão dos néfrons remanescentes&lt;/li&gt;
-      &lt;li&gt;Em geral o balanço de águal e sódio se mantêm até TFG &amp;lt; 10-15&lt;/li&gt;
-      &lt;li&gt;Contudo, se houver ingesta abundante de água, ocorre hiponatremia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hipercalemia&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Significativo com TFG de 10mL&lt;/li&gt;
-      &lt;li&gt;Fator adicional para a acidose&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hipocalcemia&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Acidose metabólica&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Retenção de H+&lt;/li&gt;
-      &lt;li&gt;Tratar com bicarbonato de sódio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;p&gt;Solicitar os exames na suspeita de um paciente que faz parte do grupo de risco.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dosagem de creatinina para estimar TFG&lt;/li&gt;
-  &lt;li&gt;Relação alb/creat&lt;/li&gt;
-  &lt;li&gt;Exame de sedimento urinário (ou fita reagente para leucócitos e hemácias)&lt;/li&gt;
-  &lt;li&gt;USG: rins de tamanho diminuído (&amp;lt; 8,5cm) e perda da dissociação córtico-medular (esclerose dosglomérulos)
-    &lt;ul&gt;
-      &lt;li&gt;Normalmente o córtex é hipoecoico e a medula renal é hiperecoico.&lt;/li&gt;
-      &lt;li&gt;Na DRC o córtex tem ecogenicidade aumentada, ficando mais branco e menos disntinguível da medula&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Eletrólitos (Na, K, Cl, HCO3)&lt;/li&gt;
-  &lt;li&gt;Concentração ou diluição urinária (densidade ou osmolaridade)&lt;/li&gt;
-  &lt;li&gt;pH urinário&lt;/li&gt;
-  &lt;li&gt;Biópsia: apenas na presença de rins de tamanho próximo ao normal, em que outros exames menos invasivos não foram suficientes e quando existe a suspeita de uma causa potencialmente tratavel&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;critérios-diagnósticos&quot;&gt;Critérios diagnósticos&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;TFG &amp;lt; 60% por mais de 3 mêses&lt;/li&gt;
-  &lt;li&gt;Proteinúria &amp;gt; 3 mêses&lt;/li&gt;
-  &lt;li&gt;Alterações estruturais (USG)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;h3 id=&quot;taxa-de-filtração-glomerular&quot;&gt;Taxa de filtração glomerular&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/nefrologia/drc/relogio.jpeg&quot; alt=&quot;Relogio&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;G1: &amp;gt;= 90 mL/min/1,73m² (normal ou ↑)&lt;/li&gt;
-  &lt;li&gt;G2: 60-89 (levemete ↓)&lt;/li&gt;
-  &lt;li&gt;G3 (moderadamente ↓)
-    &lt;ul&gt;
-      &lt;li&gt;A: 45-59&lt;/li&gt;
-      &lt;li&gt;B: 30-44&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;G4: 15-29 (gravemente ↓)&lt;/li&gt;
-  &lt;li&gt;G5: &amp;lt; 15 (falência renal)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Associação clínica com os estágios:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Microalbuminúria&lt;/li&gt;
-  &lt;li&gt;Microalbuminúria + Noctúria&lt;/li&gt;
-  &lt;li&gt;Manifestações da síndrome urêmica&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;clearance-da-creatinina&quot;&gt;Clearance da creatinina&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Formula de Crockoff e Gault
-CC = (140 - idade)xP/72xSer [M=x0,85]&lt;/li&gt;
-  &lt;li&gt;MDRD: melhor que a de Crockoff&lt;/li&gt;
-  &lt;li&gt;CKDEPI&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;grau-de-albuminúria&quot;&gt;Grau de albuminúria:&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Normal: &amp;lt; 10&lt;/li&gt;
-  &lt;li&gt;A1: albuminúria &amp;lt; 30 mg/24h&lt;/li&gt;
-  &lt;li&gt;A2: 30-300&lt;/li&gt;
-  &lt;li&gt;A3: &amp;gt; 300&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;abordagem&quot;&gt;Abordagem&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Tratar causas reversíveis
-    &lt;ul&gt;
-      &lt;li&gt;Redução da perfusal renal (como hipovolemia, hipotensão e infecção)&lt;/li&gt;
-      &lt;li&gt;Obstrução do trato urinário (como HPB)&lt;/li&gt;
-      &lt;li&gt;Drogas nefrotóxicas (como os aminoglicosideos, AINEs e contrastes iodados)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Prevenir ou alentecer a prgressão da doença
-    &lt;ul&gt;
-      &lt;li&gt;Controle pressórico (IECA ou BRAII)&lt;/li&gt;
-      &lt;li&gt;Redução da proteinúria (restrição dietética de proteína e sal)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tratar complicações
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Anemia&lt;/strong&gt; (Hb &amp;lt; 13H e 12M, geralmente normo/normo)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Fazer ajuste da dose das drogas&lt;/li&gt;
-  &lt;li&gt;Preparo e início da terapia de substituição renal (TSR)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;terapia-de-substituição-renal&quot;&gt;Terapia de substituição renal&lt;/h2&gt;
-&lt;p&gt;É a realização de diálise e/ou transplante renal. Indicada para o paciente estágio 5 (TFG &amp;lt; 10-15).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Manifestações que respondem à diálise:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Desequilíbrio hidroeletrolítico: hipervolemia, hipercalemia e hiponatremia.&lt;/li&gt;
-      &lt;li&gt;Desequilíbrio acidobásico: acidose
-metabólica.&lt;/li&gt;
-      &lt;li&gt;Sintomas gastrointestinais: náuseas,
-vômitos, diarreia, anorexia.&lt;/li&gt;
-      &lt;li&gt;Sintomas neurológicos: encefalopatia,
-dificuldade de concentração, neuropatia
-periférica.&lt;/li&gt;
-      &lt;li&gt;Hipertensão arterial sistêmica.&lt;/li&gt;
-      &lt;li&gt;Sintomas cardíacos: pericardite, edema
-pulmonar cardiogênico.&lt;/li&gt;
-      &lt;li&gt;Sintomas pulmonares e pleurais:
-derrame pleural, edema pulmonar não
-cardiogênico.&lt;/li&gt;
-      &lt;li&gt;Disfunção plaquetária.&lt;/li&gt;
-      &lt;li&gt;Intolerância a glicose.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Que não respondem:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Anemia.&lt;/li&gt;
-      &lt;li&gt;Osteodistrofia renal.&lt;/li&gt;
-      &lt;li&gt;Distúrbios do cálcio e fosfato
-(hipocalcemia, hiperfosfatemia).&lt;/li&gt;
-      &lt;li&gt;Algumas alterações cutâneas, como o
-prurido.&lt;/li&gt;
-      &lt;li&gt;Alterações articulares: artrite, periartrite,
-tenossinovite.&lt;/li&gt;
-      &lt;li&gt;Aterosclerose acelerada&lt;/li&gt;
-      &lt;li&gt;Dislipidemia.&lt;/li&gt;
-      &lt;li&gt;Hipercatabolismo com desnutrição
-proteicocalórica.&lt;/li&gt;
-      &lt;li&gt;Depressão imunológica com predisposi  ção à infecção.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diálise&quot;&gt;Diálise&lt;/h2&gt;
-&lt;p&gt;Antes do advento da diálise, muitos pacientes com IRA e pratica mente todos com DRC morriam de hipercalemia, edema agudo de pulmão, encefalopatia, acidose  metabólica, tamponamento cardíaco ou hemorragias incontroláveis.&lt;/p&gt;
-
-&lt;p&gt;Contudo, a maior sobrevida proporcionada pela diálise acabou por revelar novas complicações da DRC e síndrome urêmica que não podem ser corrigidas, como aterosclerose acelerada, osteodistrofia e prurido.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Indicações&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Na &lt;strong&gt;LRA&lt;/strong&gt; ou &lt;strong&gt;DRC agudizada&lt;/strong&gt;, fazer diálise de urgência quando:
-        &lt;ul&gt;
-          &lt;li&gt;Acidose metabólica, hipercalemia e hipervolemia graves e refratárias.&lt;/li&gt;
-          &lt;li&gt;Síndrome urêmica franca (encefalopatia, pericardite).&lt;/li&gt;
-          &lt;li&gt;Algumas intoxicações (metanol, etilenoglicol, salicilatos).&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;DRC não agudizada&lt;/strong&gt;: na presença de sinais e sintomas de síndrome urêmica, associados a um &lt;em&gt;clearance&lt;/em&gt; de creatinina &amp;lt; 10mL/min ou 15 em situações especiais (como DM e ICC)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hemodiálise&lt;/strong&gt; (HD)
-    &lt;ul&gt;
-      &lt;li&gt;Arteriovenosa ou venovenosa&lt;/li&gt;
-      &lt;li&gt;Complicações
-        &lt;ul&gt;
-          &lt;li&gt;Agudas: instabilidade hemodinâmica, SCA, embolia gasosa, hemorragias, reação anafilática, febre, leucopenia&lt;/li&gt;
-          &lt;li&gt;Crônicas: anemia, trombose da fístula AV, infecção FAV (endarterite), amiloidose&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Diálise peritoneal&lt;/strong&gt; (DP)
-    &lt;ul&gt;
-      &lt;li&gt;Complicações: mecânicas, clínicas e infecciosas (peritonite bacteriana)&lt;/li&gt;
-      &lt;li&gt;A grande vantagem da DP é a sua fácil instalação e execução e o menor risco de complicações hemodinâmicas, cardiovasculares e hemorrágicas (a DP não utiliza heparina).&lt;/li&gt;
-      &lt;li&gt;Mas tem uma menor eficiência na remoção de solutos&lt;/li&gt;
-      &lt;li&gt;Contraindicações absolutas: Fibrose e obliteração da cavidade abdominal por cirurgia prévia, Clearance peritoneal inadequado, Defeito anatômico no diafragma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;transplante-renal&quot;&gt;Transplante renal&lt;/h2&gt;
-&lt;p&gt;É o melhor método de substituição renal.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
