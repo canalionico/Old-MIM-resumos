@@ -1,8 +1,9 @@
 {
     "name": "Resumos",
     "short_name": "Resumos",
-    "start_url": "index.html",
-    "scope": "./",
+    "start_url": "/?utm_source=homescreen",
+    "theme_color": "#008000",
+    "scope": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
