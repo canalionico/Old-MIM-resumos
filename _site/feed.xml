@@ -1,4 +1,289 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-12T19:17:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Planejamento familiar</title><link href="http://localhost:4000/ginecologia/planejamento-familiar.html" rel="alternate" type="text/html" title="Planejamento familiar" /><published>2019-05-12T00:00:00-03:00</published><updated>2019-05-12T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/planejamento-familiar</id><content type="html" xml:base="http://localhost:4000/ginecologia/planejamento-familiar.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-13T22:22:19-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Hipertensão na gravidez</title><link href="http://localhost:4000/obstetricia/hipertensao-na-gravidez.html" rel="alternate" type="text/html" title="Hipertensão na gravidez" /><published>2019-05-13T00:00:00-03:00</published><updated>2019-05-13T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/hipertensao-na-gravidez</id><content type="html" xml:base="http://localhost:4000/obstetricia/hipertensao-na-gravidez.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-proteção&quot; id=&quot;markdown-toc-fatores-de-proteção&quot;&gt;Fatores de proteção&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#manifestações-clínicas&quot; id=&quot;markdown-toc-manifestações-clínicas&quot;&gt;Manifestações clínicas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#padrão-laboratorial-clássico-da-pe&quot; id=&quot;markdown-toc-padrão-laboratorial-clássico-da-pe&quot;&gt;Padrão laboratorial clássico da PE&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#critérios-de-gravidade&quot; id=&quot;markdown-toc-critérios-de-gravidade&quot;&gt;Critérios de gravidade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-de-hasc&quot; id=&quot;markdown-toc-tratamento-de-hasc&quot;&gt;Tratamento de HASC&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prevenção-e-tratamento-das-crises-convulsivas&quot; id=&quot;markdown-toc-prevenção-e-tratamento-das-crises-convulsivas&quot;&gt;Prevenção e tratamento das crises convulsivas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cuidados-da-intoxicação-pelo-magnésio&quot; id=&quot;markdown-toc-cuidados-da-intoxicação-pelo-magnésio&quot;&gt;Cuidados da intoxicação pelo magnésio&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quando-interromper-a-gestação&quot; id=&quot;markdown-toc-quando-interromper-a-gestação&quot;&gt;Quando interromper a gestação?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hipertensão gestacional:&lt;/strong&gt; Hipertensão (em geral leve) que se desenvolve na parte final da gestação, sem a presença de proteinúria (ou de outros sinais
+de pré-eclâmpsia) e que retorna aos níveis normais dentro das primeiras 12 semanas de puerpério. É um diagnóstico basicamente retrospectivo.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pré-eclâmpsia (PE):&lt;/strong&gt; hipertensão e proteinúria que surgem após 20 semanas de gestação em gestantes previamente normotensas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hipertensão Agravada pela Gravidez&lt;/strong&gt; (pré-eclâmpsia sobreposta): Hipertensão essencial crônica preexistente
+que se agrava na gestação, caracteristicamente após 20 semanas, acompanhada do surgimento de proteinúria.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Eclâmpsia:&lt;/strong&gt; Ocorrência de crises convulsivas tonicoclônicas generalizadas, seguidas ou não de coma, em uma paciente com pré-eclâmpsia, descartando-se outras causas (Podem aparecer antes, durante ou após o parto).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;p&gt;Os distúrbios hipertensivos da gestação são a maior causa de morte materna no Brasil (cerca de 35% dos casos) principalmente
+em mulheres negras, estando associada a um índice de cesariana de 39%.&lt;/p&gt;
+
+&lt;p&gt;Complicam cerca de 12 a 22% das gestações, enquanto a PE ocorre em cerca de 3 a 14% de todas as gestações.&lt;/p&gt;
+
+&lt;p&gt;As formas leves representam 75% dos casos e cerca de 10% ocorrem antes da 34 a semana de gestação.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+&lt;p&gt;Na gravidez normal, a &lt;strong&gt;invasão trofoblástica&lt;/strong&gt; nas arteríolas miometriais resulta em alargamento do diâmetro destes vasos, com consequente redução da resistência vascular periférica (fenômeno de invasão
+trofoblástica). Este processo leva a uma &lt;strong&gt;queda da PA no segundo trimestre&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se a invasão troflobástica não ocorrer, a queda fisiológica da PA no 2ºT não se manifestará. O fluxo placentário ficará diminuído e observaremos &lt;strong&gt;isquemia placentária e lesão endotelial&lt;/strong&gt; que levarão a todas as alterações do DHEG.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;↑produção de Tromboxano A2 (vasoconstrictor)&lt;/li&gt;
+  &lt;li&gt;↓produção de prostaciclina (vasodilatador), NO.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1) Ausência da 2a onda de invasão trofoblástica → (2) Isquemia placentária → (3) Lesão endotelial → (4) Espasmo arteriolar placentário e sistêmico → (5) Aumento da permeabilidade vascular.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O resultado disso tudo? Uma gestante com HA, espasmo arteriolar placentário e sistêmico, com consequente lesão de órgão alvo, aumento da permeabilidade vascular pela lesão endotelial (favorecendo o aparecimento de edema) e ocorrência de eventos de coagulação instravascular.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/hasg/quadro.jpeg&quot; alt=&quot;Quadro explicativo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Em resumo:&lt;/strong&gt; O distúrbio endotelial no controle do tônus vascular leva à HA, a permeabilidade aumentada resulta em edema e proteinúria, e a expressão endotelial anormal de pró-
+-coagulantes leva à coagulopatia. As mesmas alterações causam isquemia em órgãos alvo como cérebro, fígado, rins e placenta.&lt;/p&gt;
+
+&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Raça negra&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Primiparidade:&lt;/strong&gt; exposição pela primeira vez às vilosidades coriônicas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gestação múltipla e mola hidatiforme:&lt;/strong&gt; exposição a um excesso de vilosidades coriônicas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Doença vascular preexistente&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;DM e Obesidade&lt;/li&gt;
+  &lt;li&gt;Doenças renais crônicas&lt;/li&gt;
+  &lt;li&gt;PE em gestação anterior&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Predisposição genética:&lt;/strong&gt; história familiar de DHEG&lt;/li&gt;
+  &lt;li&gt;Extremos de vida reprodutivo&lt;/li&gt;
+  &lt;li&gt;Trombofilias e SAF&lt;/li&gt;
+  &lt;li&gt;Doenças do colágeno&lt;/li&gt;
+  &lt;li&gt;Hidropsia fetal&lt;/li&gt;
+  &lt;li&gt;Longo intervalo interpartal&lt;/li&gt;
+  &lt;li&gt;Gestação com novo parceiro&lt;/li&gt;
+  &lt;li&gt;Doenças da tireóide&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fatores-de-proteção&quot;&gt;Fatores de proteção&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tabagismo&lt;/li&gt;
+  &lt;li&gt;História de abortamento prévio&lt;/li&gt;
+  &lt;li&gt;Placenta prévia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;manifestações-clínicas&quot;&gt;Manifestações clínicas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Rins
+    &lt;ul&gt;
+      &lt;li&gt;↓da perfusão renal e consequente ↓da FG&lt;/li&gt;
+      &lt;li&gt;Oligúria&lt;/li&gt;
+      &lt;li&gt;↑sérica uréia, creatinina e ácido úrico&lt;/li&gt;
+      &lt;li&gt;↓calciúria&lt;/li&gt;
+      &lt;li&gt;Insuficiência renal por NTA geralmente reversível&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Lesão renal característica:&lt;/strong&gt; glomeruloendoteliose capilar. Ela leva à &lt;strong&gt;proteinúria&lt;/strong&gt; não seletiva (proteinúria &lt;strong&gt;≥ 300 mg/24 horas&lt;/strong&gt;), evento geralmente tardio no curso da doença.
+        &lt;blockquote&gt;
+          &lt;p&gt;A ausência de proteinúria deve levar ao questionamento do diagnóstico de pré-eclâmpsia, mas o seu aparecimento pode ser tardio, inclusive após o parto.&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fígado: em casos graves
+    &lt;ul&gt;
+      &lt;li&gt;Disfunção hepática (↑transaminases e necrose periportal hemorrágica). Se + trombocitopenia e hemólise = Síndrome HELLP&lt;/li&gt;
+      &lt;li&gt;Dor em bassa no quadrante superior direito (&lt;strong&gt;dor em barra de Chaussier&lt;/strong&gt;)
+        &lt;ul&gt;
+          &lt;li&gt;PE grave e grandes chances de evolução para crises convulsivas&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sistema sanguíneo e coagulação
+    &lt;ul&gt;
+      &lt;li&gt;Vasoconstrição (↑P. hidrostática) + Lesão endotelial (↑permeabilidade capilar) = saída de líquido do leito vascular formando edema e hemoconcentração (achado frequente)&lt;/li&gt;
+      &lt;li&gt;Não há hipovolemia, pois o vasoespasmo diminui o leito vascular a ser preenchido&lt;/li&gt;
+      &lt;li&gt;Trombocitopenia por ↑agregação e atividade (marcador de gravidade)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tríade diagnóstica da PE:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Hipertensão&lt;/strong&gt;: é a PAS &lt;strong&gt;≥ 140&lt;/strong&gt; ou PAD &lt;strong&gt;≥ 90 mmHg&lt;/strong&gt; pelo 5º ruído de Korotkoff com a paciente em repouso, sentada, aferida no braço direito, com o mesmo na altura do coração, e com duas medidas espaçadas por pelo menos 4 horas, não devendo ser espaçadas por mais de 7 dias.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Proteinúria&lt;/strong&gt;: ≥ 300 mg/24horas; ≥ 1+ em amostra isolada de urina (geralmente tardia em relação à hipertensão), o que equivale a 30 mg/dl em amostra urinária única ou relação proteinúria/creatinúria &amp;gt; 0,3.&lt;/li&gt;
+      &lt;li&gt;Edema: não é mais critério diagnóstico por ser comum em gestantes normais.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Diagnóstico de PE sem proteinúria segundo o &lt;em&gt;American College of Obstetricians and Gynecologists&lt;/em&gt;, 2013:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Trombocitopenia (&amp;lt; 100.000/mmm3)&lt;/li&gt;
+  &lt;li&gt;Alteração da função hepática (elevação de transaminases 2x o valor normal)&lt;/li&gt;
+  &lt;li&gt;Piora da função renal (creatinina &amp;gt; 1,1 mg/dl ou 2x do valor normal, na ausência de outras doenças renais)&lt;/li&gt;
+  &lt;li&gt;Edema agudo de pulmão&lt;/li&gt;
+  &lt;li&gt;Sintomas visuais ou cerebrais&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+&lt;p&gt;A hipertensão presente na gestação pode ser classificada em:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;PE&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Leve&lt;/li&gt;
+      &lt;li&gt;Grave&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Eclâmpsia&lt;/strong&gt;: é a presença de crises convulsivas tonicoclônicas não explicadas durante a gestação em mulher com pré-eclâmpsia. Podem aparecer antes (50% dos casos), durante o trabalho de parto (25%) ou no puerpério (25%).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Iminência de eclâmpsia:&lt;/strong&gt; é a presença de alguns sinais e sintomas que precedem o aparecimento das crises convulsivas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;PE sobreposta em hipertensão crônica&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hipertensão crônica&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hipertensão gestacional&lt;/strong&gt;: é a elevação da pressão arterial após 20 semanas de gestação que NÃO se acompanha de proteinúria patológica ou outros sinais de pré-eclâmpsia. Assim, como os demais tipos de hipertensão que se desenvolvem na gravidez, normaliza em até 12 semanas do puerpério.
+    &lt;ul&gt;
+      &lt;li&gt;É um diagnóstico de exclusão que só pode ser confirmado ao término da gravidez (após excluir as demais condições durante toda a gestação)&lt;/li&gt;
+      &lt;li&gt;A qualquer momento uma paciente com HASG pode apresentar proteinúria e ser reclassificada para PE&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A &lt;strong&gt;PE, eclâmpsia e PE sobreposta&lt;/strong&gt; são as clássicas formas de hipertensão na gestação que aparecem &lt;strong&gt;depois de 20 semanas&lt;/strong&gt; (trofoblasto deveria se formar com 16-20 semanas).&lt;/p&gt;
+
+&lt;p&gt;Perguntas para se fazer na hora de classificar a hipertensão: A HA foi aferida antes ou depois de 20sem? Perdura por mais de 12 semanas pós-parto ou normaliza antes? A Proteinúria é &amp;lt; que 300 mg em 24h
+ou ≥ 1+ em amostra isolada?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/hasg/quadro2.jpeg&quot; alt=&quot;Quadro explicativo&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;padrão-laboratorial-clássico-da-pe&quot;&gt;Padrão laboratorial clássico da PE&lt;/h3&gt;
+&lt;p&gt;Análise útil na diferenciação entre PE e HAS crônica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;↑do ácido úrico por ↓da excreção (o mais característico) &amp;gt; 5,5-6 mg/dL&lt;/li&gt;
+  &lt;li&gt;Hipocalciúria &amp;lt; 100mg em 24h (calciúria &amp;gt; 100 fala em favor de HASC)&lt;/li&gt;
+  &lt;li&gt;Atividade de antitrombina &amp;lt; 70% (achado relacionado à endoteliose glomerular capilar)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/hasg/quadro3.jpeg&quot; alt=&quot;Quadro explicativo&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;critérios-de-gravidade&quot;&gt;Critérios de gravidade&lt;/h2&gt;
+&lt;p&gt;Os sinais da tabela abaixo indicam gravidade e necessitam de uma conduta ativa:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/hasg/tabela.jpeg&quot; alt=&quot;Tabela explicativa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;síndrome HELLP&lt;/strong&gt; ocorre em cerca de 10% dos casos de PE ou eclâmpsia e aumenta a morbimortalidade. Em cerca de 10% dos casos não ocorre proteinúria ou HAS. Sua etiologia é desconhecida e pode se manifestar antes ou após o parto. É um conjunto de sinais e sintomas associados à &lt;strong&gt;hemólise microangiopática, elevação das enzimas hepáticas e plaquetopenia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Manifestações clínicas da síndrome HELLP
+    &lt;ul&gt;
+      &lt;li&gt;Cefaléia&lt;/li&gt;
+      &lt;li&gt;Mal-estar&lt;/li&gt;
+      &lt;li&gt;Náuseas e vômitos&lt;/li&gt;
+      &lt;li&gt;Dor epigástrica e/ou no hipocôndrio direito&lt;/li&gt;
+      &lt;li&gt;Perda do apetite&lt;/li&gt;
+      &lt;li&gt;Escotomas&lt;/li&gt;
+      &lt;li&gt;Elevação da PA
+        &lt;blockquote&gt;
+          &lt;p&gt;Pode complicar com rotura hepática nos casos que evoluem com consumo excessivo de plaquetas e disfunção hepática grave, culminando com coagulação intravascular disseminada.&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;p&gt;Revisões sistemáticas mostram que a terapia anti-hipertensiva não é eficaz em prolongar a gestação ou evitar o agravamento da doença e não melhora o peso fetal ao nascimento.&lt;/p&gt;
+
+&lt;p&gt;Se você decidir pelo uso de medicação, o objetivo final deve ser a manutenção dos níveis tensionais sistólicos entre 140 e 155 mmHg e diastólicos em torno de 90 a 100 mmHg, uma vez que níveis mais baixos podem piorar ainda mais a perfusão placentária já prejudicada pelo espasmo arteriolar.&lt;/p&gt;
+
+&lt;p&gt;Se na pré-eclâmpsia leve não fazemos anti-hipertensivos, na pré-eclâmpsia grave o uso de anti-hipertensivos tem por objetivo levar a pressão para níveis onde os mesmos já não são necessários, ou seja, níveis de pré-eclâmpsia leve (entre 140-155 e 90-100 mmHg). Não devemos tentar normalizar a pressão arterial da paciente!&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-de-hasc&quot;&gt;Tratamento de HASC&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Metildopa&lt;/strong&gt;: o medicamento de escolha na HASC e na PE quando se buscar prolongar a gestação temporariamente. Não deve ser usada para emergência hipertensiva.
+    &lt;ul&gt;
+      &lt;li&gt;250 mg VO 2x/d até dose máxima de 4g/d&lt;/li&gt;
+      &lt;li&gt;No entanto é considerado um anti-hipertensivo leve&lt;/li&gt;
+      &lt;li&gt;Apresenta efeito sedativo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Betabloqueadores&lt;/strong&gt;: Particularmente, o pindolol pode ser utilizado (inclusive como medicação de escolha para alguns autores), na dose 10 a 30 mg/dia, em duas ou três
+tomadas, com incrementos de 5 a 10 mg.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Antagonistas do cálcio&lt;/strong&gt;: A amlodipina seria uma terceira opção,
+na dose de 5 a 20 mg por dia por via oral. Verapamil também pode ser considerado. Iniciar com 80 mg/dia (dose máxima de 240 mg/dia).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para a emergência hipertensiva, a &lt;strong&gt;hidralazina&lt;/strong&gt; é a medicação de escolha. Feita em 5 mg IV de 20/20min até atingir 90-100 mmHg de PAD e 140-155 de PAS. Dose máxima de 20 mg.&lt;/p&gt;
+
+&lt;p&gt;Os diuréticos devem ser evitados, pois a gestante com pré-eclâmpsia apresenta uma contração do volume intravascular. Desta forma, o uso da
+medicação pode precipitar uma verdadeira hipovolemia e piorar a perfusão placentária. Os diuréticos só devem ser utilizados em casos de edema agudo de pulmão ou insuficiência cardíaca congestiva.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contraindicação absoluta&lt;/strong&gt;: os IECA possuem efeito nocivo ao feto. Dentre
+eles oligodrâmnia, anomalias renais, insuficiência renal neonatal, hipoplasia pulmonar, retardo mental e morte&lt;/p&gt;
+
+&lt;h3 id=&quot;prevenção-e-tratamento-das-crises-convulsivas&quot;&gt;Prevenção e tratamento das crises convulsivas&lt;/h3&gt;
+
+&lt;p&gt;Todo quadro grave ou que apresente crises convulsivas (eclâmpsia) deve ser abordado imediatamente com medicações que previnam ou tratem as crises convulsivas, antes mesmo de
+se interromper a gestação, por pelo menos 4-6h.&lt;/p&gt;
+
+&lt;p&gt;Sempre que houver sinais e sintomas de iminência de crises convulsivas (iminência de eclâmpsia), também está indicada a administração de medicação preventiva.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sinais e sintomas de iminência de eclâmpsia
+    &lt;ol&gt;
+      &lt;li&gt;distúrbios cerebrais, como cefaleia (frontoccipital e pouco responsiva a anal­gésicos), torpor e obnubilação;&lt;/li&gt;
+      &lt;li&gt;distúrbios visuais como turvação da visão, escotomas, diplopia e amaurose;&lt;/li&gt;
+      &lt;li&gt;dor epigástrica ou no quadrante superior direito (dor em barra de Chaussier), causada por isquemia hepática ou distensão da cápsula do órgão devido a edema ou hemorragia;&lt;/li&gt;
+      &lt;li&gt;reflexos tendinosos profundos
+exaltados.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A medicação mais efetiva é o &lt;strong&gt;sulfato de magnésio&lt;/strong&gt;, para prevenir ou controlar as convulsões.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/hasg/esquemas.jpeg&quot; alt=&quot;Esquemas&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cuidados-da-intoxicação-pelo-magnésio&quot;&gt;Cuidados da intoxicação pelo magnésio&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/hasg/mg.jpeg&quot; alt=&quot;Magnésio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Outros efeitos colaterais incluem rubor, sudorese intensa, sensação de calor (provavelmente por seu efeito vasodilatador), náuseas, vômitos, cefaleia, distúrbios visuais e palpitações. Como pode atravessar livremente a placenta, pode levar à diminuição da frequência cardíaca basal e da variabilidade da frequência cardíaca fetal, porém sem significados clínicos relevantes.&lt;/p&gt;
+
+&lt;h2 id=&quot;quando-interromper-a-gestação&quot;&gt;Quando interromper a gestação?&lt;/h2&gt;
+&lt;p&gt;A única forma de curar os distúrbios hipertensivos na gestação é com a interrupção da gravidez. Deve-se pesar a gravidade do acometimento x a idade gestacional do feto.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Casos leves: conduta expectante até as 37-40 semanas com avaliações laboratóriais e de vitalidade fetal. As consultas do pré-natal devem ser feitas com menor intervalo e recomenda-se a restrição de cafeína, fumo, massas, doces, gorduras, frituras, refrigerantes, e quanto ao ganho ponderal que deve ser de, no máximo 500 g, por semana.&lt;/li&gt;
+  &lt;li&gt;Casos graves:
+    &lt;ul&gt;
+      &lt;li&gt;Conduta conservadora: estabilização materna, utilização de corticoides e posterior interrupção da gestação.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Gestações menores que 23 semanas   com pré-eclâmpsia grave devem ser interrompidas pelo péssimo prognóstico materno-fetal&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A princípio, a via de parto ideal é a vaginal. A cesárea é necessária nas situações de indicação de cesárea.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Planejamento familiar</title><link href="http://localhost:4000/ginecologia/planejamento-familiar.html" rel="alternate" type="text/html" title="Planejamento familiar" /><published>2019-05-12T00:00:00-03:00</published><updated>2019-05-12T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/planejamento-familiar</id><content type="html" xml:base="http://localhost:4000/ginecologia/planejamento-familiar.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#temporários&quot; id=&quot;markdown-toc-temporários&quot;&gt;Temporários&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#de-barreira&quot; id=&quot;markdown-toc-de-barreira&quot;&gt;De barreira&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#diafragma&quot; id=&quot;markdown-toc-diafragma&quot;&gt;Diafragma&lt;/a&gt;&lt;/li&gt;
@@ -2259,232 +2544,4 @@ em sentido oposto.&lt;/li&gt;
 
 &lt;p&gt;TERMINAR TRATAMENTO PELO LIVRO DO CISAM&lt;/p&gt;
 
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Câncer de endométrio</title><link href="http://localhost:4000/ginecologia/cancer-de-endometrio.html" rel="alternate" type="text/html" title="Câncer de endométrio" /><published>2019-04-28T00:00:00-03:00</published><updated>2019-04-28T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/cancer-de-endometrio</id><content type="html" xml:base="http://localhost:4000/ginecologia/cancer-de-endometrio.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#subtipos-histológicos&quot; id=&quot;markdown-toc-subtipos-histológicos&quot;&gt;Subtipos histológicos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#lesões-precursoras&quot; id=&quot;markdown-toc-lesões-precursoras&quot;&gt;Lesões precursoras&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#câncer-de-encométrio&quot; id=&quot;markdown-toc-câncer-de-encométrio&quot;&gt;Câncer de encométrio&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-adjuvante&quot; id=&quot;markdown-toc-tratamento-adjuvante&quot;&gt;Tratamento adjuvante&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#sarcomas-uterinos&quot; id=&quot;markdown-toc-sarcomas-uterinos&quot;&gt;Sarcomas uterinos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É a neoplasia ginecológica mais frequente, o 2º tumor genital mais comum em mulheres no Brasil (4º CA mais incidente em mulheres nos EUA).&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;p&gt;75% dos casos ocorrem em mulheres menopausadas (X = 60a), sendo considerado raro na pré-menopausa. Em 80% dos casos a lesão está restrita ao útero no momento do diagnóstico. Mão se faz rastreamento!!&lt;/p&gt;
-
-&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Relacionados ao estímulo estrogênico
-    &lt;ul&gt;
-      &lt;li&gt;Ingestão de estrógenos&lt;/li&gt;
-      &lt;li&gt;Tumores ovarianos produtores de estrógeno&lt;/li&gt;
-      &lt;li&gt;Extensos períodos de anovulação&lt;/li&gt;
-      &lt;li&gt;↓Paridade&lt;/li&gt;
-      &lt;li&gt;Menarca precoce&lt;/li&gt;
-      &lt;li&gt;Menopausa tardia&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Obesidade&lt;/strong&gt; (3x)&lt;/li&gt;
-      &lt;li&gt;Uso de tamoxifen (usado para evitar recidiva de CA de mama, este efeito pode ser mais benéfico mesmo ao custo de maior risco de CA de endométrio)&lt;/li&gt;
-      &lt;li&gt;Síndrome dos ovários policísticos (↑chance na pré-menopausa)&lt;/li&gt;
-      &lt;li&gt;Tumores das células da granulosa (↑chance na pré-menopausa)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Hipertensão (não é consenso, associado ao DM)&lt;/li&gt;
-  &lt;li&gt;Diabéticas&lt;/li&gt;
-  &lt;li&gt;Etnia branca&lt;/li&gt;
-  &lt;li&gt;Fatores de proteção:
-    &lt;ul&gt;
-      &lt;li&gt;Multiparidade&lt;/li&gt;
-      &lt;li&gt;Tabagismo&lt;/li&gt;
-      &lt;li&gt;ACO combinados&lt;/li&gt;
-      &lt;li&gt;DIU de levonorgestrel&lt;/li&gt;
-      &lt;li&gt;Terapia hormonal combinada (para alguns autore, atenção pois sem a oposição de progesterona a terapia hormonal ↑risco)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;p&gt;Os sintomas costumam ser precoces, o que favorece seu tratamento e prognóstico.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sangramento vaginal anormal (principal sintoma): devido a áreas de massa tumoral friável com necrose superficial (15% desses sangramentos é devido a CA de endométrio)&lt;sup id=&quot;fnref:med&quot;&gt;&lt;a href=&quot;#fn:med&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;Leucorréia (10% das queixas)&lt;/li&gt;
-  &lt;li&gt;Dor&lt;/li&gt;
-  &lt;li&gt;Sensação de massa pélvica&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;USG-TV:&lt;/strong&gt; quando associada à dopplerfluxometria, consegue avaliar a espessura e textura do endométrio.
-    &lt;ul&gt;
-      &lt;li&gt;Espessura &amp;gt; 5 mm: requer investigação&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Biópsia, &lt;strong&gt;definidor do diagnóstico&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Cureta de Novak&lt;/li&gt;
-      &lt;li&gt;Curetagem uterina fracionada&lt;/li&gt;
-      &lt;li&gt;Por histeroscopia: a mais realizado e padrão ouro! É uma biópsia com visualização direta.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Laboratório
-    &lt;ul&gt;
-      &lt;li&gt;Hemograma&lt;/li&gt;
-      &lt;li&gt;Bioquímico&lt;/li&gt;
-      &lt;li&gt;Função hepática&lt;/li&gt;
-      &lt;li&gt;CA 125, CEA e CA19.9 (os dois últmos menos sensíveis), são mais usados no seguimento&lt;/li&gt;
-      &lt;li&gt;Papanicolau (↓sensibilidade)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;RX-Tórax: avaliação cardiopulmonar e pesquisa por metástases&lt;/li&gt;
-  &lt;li&gt;TC e RNM: úteis para avaliar comprometimento extra-uterino&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-&lt;p&gt;O câncer de endométrio estrógeno-dependente progride através de um estado pré-maligno definido como &lt;strong&gt;hiperplasia endometrial&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aspécto arquitetura glandular
-    &lt;ul&gt;
-      &lt;li&gt;Simples sem atipia (1% evolui para CA)&lt;/li&gt;
-      &lt;li&gt;Complexas sem atipia (3% → CA)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Achados citológicos
-    &lt;ul&gt;
-      &lt;li&gt;Típicas&lt;/li&gt;
-      &lt;li&gt;Atípicas
-        &lt;ul&gt;
-          &lt;li&gt;Simples com atipia (8% → CA)&lt;/li&gt;
-          &lt;li&gt;Complexa com atipia (29% → CA)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A neoplasia endometrial evolui localmente através de infiltração parcial ou total da mucosa podendo atingir o istmo e a endocérvix. Simultaneamente infiltra o miométrio e pode comprometer a superfície externa do útero infiltrando estruturas vizinhas, como trompas, ovários, bexiga e retosigmóide.&lt;/p&gt;
-
-&lt;p&gt;Em virtude da rica rede linfática uterina, as metástases ganglionares podem comprometer linfonodos ilíacos e para-aórticos. Embora a disseminação por via sanguínea não seja muito comum, os principais órgãos sede de metástases são os pulmões, fígado, ossos e cérebro.&lt;/p&gt;
-
-&lt;h3 id=&quot;subtipos-histológicos&quot;&gt;Subtipos histológicos&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Adenocarcinoma enometrióide&lt;/strong&gt;: A forma mais comum (80-90% dos casos) e de melhor prognóstico. Possui 3 subtipos (I o mais bem diferenciado e III o menos)&lt;/li&gt;
-  &lt;li&gt;Outros tipos (10%): são de pior prognóstico e evoluem mais para formas extra-uterinas
-    &lt;ul&gt;
-      &lt;li&gt;Carcinoma mucinoso&lt;/li&gt;
-      &lt;li&gt;Carcinoma seroso papilar&lt;/li&gt;
-      &lt;li&gt;Carcinoma de células claras&lt;/li&gt;
-      &lt;li&gt;Carcinoma indiferenciado&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h2&gt;
-&lt;p&gt;O estadiamento é &lt;strong&gt;feito cirurgicamente!&lt;/strong&gt; A avaliação clínica pré-operatória visa sequenciar comorbidades, doença disseminada por imagenologia e marcadores tumorais.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ginecologia/ca-endometrio/figo-novo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Colheita de líquido ascítico ou lavado peritoneal para citologia&lt;/li&gt;
-  &lt;li&gt;Exploração da cavidade abdominal (biopsiando lesões suspeitas)&lt;/li&gt;
-  &lt;li&gt;Histerectomia total com anexectomia bilateral e posterior histopatologia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;h3 id=&quot;lesões-precursoras&quot;&gt;Lesões precursoras&lt;sup id=&quot;fnref:med:1&quot;&gt;&lt;a href=&quot;#fn:med&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Lesões precursoras simples ou complexas SEM atipia:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Acompanhamento com biópsias seriadas (6 meses)&lt;/li&gt;
-      &lt;li&gt;Progesterona (o mais utilizado)&lt;/li&gt;
-      &lt;li&gt;Histerectomia para pacientes na pós-menopausa, prole definida ou que almejam a remoção do útero.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lesões precursoras simples ou complexa COM atipia&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Dejeso de engravidar: Progesterona e biópsias seriadas (3 meses)&lt;/li&gt;
-      &lt;li&gt;Histerectomia: é a conduta de eleição nos casos de atipia (↑potencial maligno)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;câncer-de-encométrio&quot;&gt;Câncer de encométrio&lt;/h3&gt;
-&lt;p&gt;A principal é a histerectomia + anexectomia (&lt;strong&gt;pan-histerectomia&lt;/strong&gt;). De bom prognóstico para os tumores restritos ao endométrio, independente do grau de diferenciação (I, II ou III), não sendo necessário tratamento adjuvante.&lt;/p&gt;
-
-&lt;p&gt;As formas de tumores com maiores chances de disseminação extra-uterina podem requerer linfadenectomia retroperitoneal.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Linfadenectomia&lt;/strong&gt; pélvica rotineira: indicada nas seguintes situações:
-    &lt;ul&gt;
-      &lt;li&gt;invasão miometrial &amp;gt; 50%&lt;/li&gt;
-      &lt;li&gt;extensão da neoplasia ao istmo ou colo uterino&lt;/li&gt;
-      &lt;li&gt;disseminação extra-uterina&lt;/li&gt;
-      &lt;li&gt;tumores indiferenciados (grau III)&lt;/li&gt;
-      &lt;li&gt;subtipos histológicos agressivos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Um método alternativo para o estadiamento e tratamento do câncer endometrial para
-diminuir ainda mais a morbidade é a realização de histerectomia vaginal assistida por video laparoscopia e linfadenectomia laparoscópica.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-adjuvante&quot;&gt;Tratamento adjuvante&lt;/h3&gt;
-&lt;p&gt;Nos casos de tumores restritos ao endométrio a radioterapia não é indicada, independente do grau de diferencação.&lt;/p&gt;
-
-&lt;p&gt;Realizado em todas as pacientes com alto risco de recidiva, como doença extrauterina ou metástases e invasão &amp;gt; 50% do miométrio. Se baseia na radioterapia pós-operatória.&lt;/p&gt;
-
-&lt;p&gt;O tratamento radioterápico em geral consiste de irradiação externa, pélvica, com 5040 cGy e 4 inserções vaginais de 600cGy cada (braquiterapia com alta taxa de dose).&lt;/p&gt;
-
-&lt;p&gt;Quando se identifica infiltração tumoral do colo uterino no pré-operatório (estádio clínico IIb) indica-se, em geral, radioterapia neoadjuvante, isto é, anterior ao tratamento cirúrgico. A irradiação diminui o volume neoplásico, facilitando o procedimento cirúrgico.&lt;/p&gt;
-
-&lt;p&gt;A terapia endócrina tem sua indicação mais clara nas doenças disseminadas e no tratamento da doença recorrente, com taxas de resposta (diminuição de volume tumoral e melhora de sintomas) de aproximadamente 25%. Utiliza-se, em geral, acetato de &lt;strong&gt;medroxiprogesterona&lt;/strong&gt; na dose de 200mg/dia ou &lt;strong&gt;acetato de megestrol&lt;/strong&gt; na dose de 160mg/dia. Os índices de resposta são maiores
-(podendo atingir 50 a 60%) nas pacientes cujos tumores possuem receptores de progesterona positivos, fato mais comum nas neoplasias bem diferenciadas.&lt;/p&gt;
-
-&lt;p&gt;A quimioterapia sistêmica também tem sua utilização principal na doença avançada
-(estádio III e IV), com taxas de resposta que variam de 20 a 50%. A duração da resposta, no entanto, é curta (varia de 4 a 8 meses) e a sobrevida é quase sempre inferior a 1 ano. As drogas mais utilizadas são &lt;strong&gt;ciclofosfamida&lt;/strong&gt;, &lt;strong&gt;doxorrubicina&lt;/strong&gt; e &lt;strong&gt;cisplatina&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;sarcomas-uterinos&quot;&gt;Sarcomas uterinos&lt;/h2&gt;
-&lt;p&gt;São bastante raros (3% dos tumores do corpo uterino), de origem mesenquimal e de prognóstico geralmente ruim. A etiologia é pouco conhecida, embora antecedentes de
-irradiação pélvica podem estar associados com a sua gênese. Acometem mulheres na pós-menopausa, com uma idade média de 65 anos.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Subtipos
-    &lt;ul&gt;
-      &lt;li&gt;Carcinossarcomas (mais frequentes)&lt;/li&gt;
-      &lt;li&gt;Leiomiossarcomas&lt;/li&gt;
-      &lt;li&gt;Sarcomas do estroma endometrial&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O sangramento uterino anormal é a principal queixa em todos os tipos de sarcoma, seguido pela dor pélvica e presença de massa abdominal&lt;/p&gt;
-
-&lt;p&gt;Em geral, os sarcomas são diagnosticados após a cirurgia, como um achado operatório. O tratamento é basicamente cirúrgico, sendo o procedimento padrão a histerectomia total com anexectomia bilateral. Não se indica linfadenectomias ilíacas ou para-aórtica de rotina pois esses tumores raramente metastatizam para o sistema linfático.&lt;/p&gt;
-
-&lt;p&gt;O uso de radioterapia é controverso pois trata-se de uma neoplasia rádio-resistente. A quimioterapia tem indicação freqüente devido à alta taxa de recorrência (50%) e a possibilidade de metástases à distância, principalmente para os pulmões.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:cisam&quot;&gt;
-      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:med&quot;&gt;
-      &lt;p&gt;MED &lt;a href=&quot;#fnref:med&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:med:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
