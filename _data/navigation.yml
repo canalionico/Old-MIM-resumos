@@ -1,12 +1,6 @@
 - name: Início
   link: https://canalionico.com.br
   icon: home
-- name: Arquivo
-  link: https://canalionico.com.br/arquivo.html
-  icon: archive
-- name: Sobre
-  link: https://canalionico.com.br/sobre.html
-  icon: portrait
 - name: Resumos
   link: /
   icon: align-left

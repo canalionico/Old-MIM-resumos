@@ -33,17 +33,17 @@ nav {
   a {
     text-decoration: none;
     font-size: 16px;
-    background-color: #b7b7b7;
+    background-color: #727272;
     padding: 4px 6px 4px 6px;
     border-radius: 0.5rem;
     color: white;
     display: inline-block;
+    margin-bottom: 0;
   }
   a:hover {
-    color: black;
+    background-color: #008000;
   }
 }
-
 .current {
   background-color: #008000;
 }
@@ -63,7 +63,7 @@ nav {
 .botao {
   text-decoration: none;
   font-size: 14px;
-  background-color: #b7b7b7;
+  background-color: #727272;
   padding: 4px 6px 4px 6px;
   border-radius: 0.5rem;
   color: white;
