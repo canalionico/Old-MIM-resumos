@@ -25,9 +25,10 @@ self.addEventListener('install', function (event) {
       {% for post in site.posts %}
         '{{ post.url }}',
       {% endfor %}
-      {% for asset in site.assets %}
-        '{{ asset.url }}',
+      {% for image in site.static_files %}
+        '{{ image.path }}'
       {% endfor %}
+
       ]);
     })
   )

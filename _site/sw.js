@@ -114,6 +114,211 @@ self.addEventListener('install', function (event) {
         '/obstetricia/semiologia-obstetrica.html',
       
       
+        '/CNAME'
+      
+        '/README.md'
+      
+        '/android-chrome-192x192.png'
+      
+        '/android-chrome-512x512.png'
+      
+        '/apple-touch-icon.png'
+      
+        '/assets/favicon.png'
+      
+        '/assets/ginecologia/ca-colo/figo.png'
+      
+        '/assets/ginecologia/ca-colo/tto1.png'
+      
+        '/assets/ginecologia/ca-colo/tto2.png'
+      
+        '/assets/ginecologia/ca-endometrio/figo-novo.png'
+      
+        '/assets/ginecologia/ca-endometrio/figo1.png'
+      
+        '/assets/ginecologia/ca-endometrio/figo2.png'
+      
+        '/assets/ginecologia/leiomioma/mioma.png'
+      
+        '/assets/imagens/ca-prostata/estadiamento.png'
+      
+        '/assets/imagens/ca-prostata/risco.png'
+      
+        '/assets/imagens/cesarea/tecnica.png'
+      
+        '/assets/imagens/ciclo-menstrual/fase-folicular.png'
+      
+        '/assets/imagens/ciclo-menstrual/foliculo.png'
+      
+        '/assets/imagens/ciclo-menstrual/horm.png'
+      
+        '/assets/imagens/corrimento-vaginal/flux.png'
+      
+        '/assets/imagens/dip/cilios-dip.png'
+      
+        '/assets/imagens/dip/dip-nejm.png'
+      
+        '/assets/imagens/dip/manejo-dip.png'
+      
+        '/assets/imagens/estatica-fetal/1.png'
+      
+        '/assets/imagens/estatica-fetal/assin.png'
+      
+        '/assets/imagens/estatica-fetal/cranio-feto.jpg'
+      
+        '/assets/imagens/estatica-fetal/delee.png'
+      
+        '/assets/imagens/estatica-fetal/diam.png'
+      
+        '/assets/imagens/estatica-fetal/ovoide-fetal.png'
+      
+        '/assets/imagens/estatica-fetal/ref.png'
+      
+        '/assets/imagens/estatica-fetal/tab.png'
+      
+        '/assets/imagens/glomerulopatias/art.jpg'
+      
+        '/assets/imagens/glomerulopatias/p.png'
+      
+        '/assets/imagens/gravidez-ectopica/acidentes.png'
+      
+        '/assets/imagens/gravidez-ectopica/diag.png'
+      
+        '/assets/imagens/gravidez-ectopica/probs.png'
+      
+        '/assets/imagens/gravidez-ectopica/tto-cerv.png'
+      
+        '/assets/imagens/gravidez-ectopica/tub.png'
+      
+        '/assets/imagens/gravidez-ectopica/tup.png'
+      
+        '/assets/imagens/hiperplasia-prostata/Urologia_Geral.bibtex'
+      
+        '/assets/imagens/hiperplasia-prostata/resseccao.png'
+      
+        '/assets/imagens/hiperplasia-prostata/tto.png'
+      
+        '/assets/imagens/infeccao-congenita/acomp.png'
+      
+        '/assets/imagens/infeccao-congenita/cong.jpg'
+      
+        '/assets/imagens/infeccao-congenita/diag-cong.png'
+      
+        '/assets/imagens/infeccao-congenita/flux-sif.jpg'
+      
+        '/assets/imagens/infeccao-congenita/flux-tto.png'
+      
+        '/assets/imagens/infeccao-congenita/flux1.jpg'
+      
+        '/assets/imagens/infeccao-congenita/imuno.jpg'
+      
+        '/assets/imagens/infeccao-congenita/neurosif.png'
+      
+        '/assets/imagens/infeccao-congenita/parto.jpg'
+      
+        '/assets/imagens/infeccao-congenita/profilaxia.png'
+      
+        '/assets/imagens/infeccao-congenita/profilaxia2.png'
+      
+        '/assets/imagens/infeccao-congenita/sif-diag1.jpg'
+      
+        '/assets/imagens/infeccao-congenita/sifilis.jpg'
+      
+        '/assets/imagens/infeccao-congenita/tto-cong1.png'
+      
+        '/assets/imagens/infeccao-congenita/tto-cong2.png'
+      
+        '/assets/imagens/infeccao-congenita/tto-sif.jpg'
+      
+        '/assets/imagens/mecanismo-parto/Captura de tela de 2019-03-26 11-53-32.png'
+      
+        '/assets/imagens/mecanismo-parto/diametros.jpg'
+      
+        '/assets/imagens/mecanismo-parto/eixos-cabeca.png'
+      
+        '/assets/imagens/mecanismo-parto/estreitos.png'
+      
+        '/assets/imagens/mecanismo-parto/insinuacao.png'
+      
+        '/assets/imagens/mecanismo-parto/ovoide.png'
+      
+        '/assets/imagens/mecanismo-parto/restituicao.png'
+      
+        '/assets/imagens/mecanismo-parto/rotacao.png'
+      
+        '/assets/imagens/pelviologia/e.png'
+      
+        '/assets/imagens/pelviologia/estreitos.jpg'
+      
+        '/assets/imagens/pelviologia/h.png'
+      
+        '/assets/imagens/semiologia-ginecologica/litotomia.jpg'
+      
+        '/assets/imagens/tocotraumatismo/caput.jpeg'
+      
+        '/assets/imagens/ulceras-genitais/flux.png'
+      
+        '/assets/imagens/ulceras-genitais/tto-sif.png'
+      
+        '/assets/imagens/ulceras-genitais/ulcera-tto1.png'
+      
+        '/assets/imagens/ulceras-genitais/ulcera-tto2.png'
+      
+        '/assets/logo-canal-ionico.png'
+      
+        '/assets/mastologia/derrame-papilar/tab1.png'
+      
+        '/assets/mastologia/derrame-papilar/tab2.jpeg'
+      
+        '/assets/nefrologia/drc/relogio.jpeg'
+      
+        '/assets/neonatologia/disturbios-metabolicos/flux1.jpeg'
+      
+        '/assets/neonatologia/disturbios-metabolicos/tab.png'
+      
+        '/assets/obstetricia/hasg/esquemas.jpeg'
+      
+        '/assets/obstetricia/hasg/mg.jpeg'
+      
+        '/assets/obstetricia/hasg/quadro.jpeg'
+      
+        '/assets/obstetricia/hasg/quadro2.jpeg'
+      
+        '/assets/obstetricia/hasg/quadro3.jpeg'
+      
+        '/assets/obstetricia/hasg/tabela.jpeg'
+      
+        '/assets/obstetricia/hpp/tab.png'
+      
+        '/browserconfig.xml'
+      
+        '/favicon-16x16.png'
+      
+        '/favicon-32x32.png'
+      
+        '/favicon-otimizado.svg'
+      
+        '/favicon.ico'
+      
+        '/manifest.json'
+      
+        '/mstile-144x144.png'
+      
+        '/mstile-150x150.png'
+      
+        '/mstile-310x150.png'
+      
+        '/mstile-310x310.png'
+      
+        '/mstile-70x70.png'
+      
+        '/safari-pinned-tab.svg'
+      
+        '/site.webmanifest'
+      
+        '/assets/minima-social-icons.svg'
+      
+
       ]);
     })
   )
