@@ -1,6 +1,6 @@
 @charset "UTF-8";
 .wrapper {
-  max-width: 700px;
+  max-width: 1000px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 20px;
@@ -94,14 +94,17 @@ nav {
 #markdown-toc {
   padding: 1.5em;
   list-style: decimal;
-  display: inline-block; }
+  display: inline-block;
+  float: right;
+  background-color: #f4f4f4;
+  border-radius: 1rem; }
   #markdown-toc li a, #markdown-toc li {
     font-size: 15px; }
   #markdown-toc li a {
     text-decoration: none;
-    color: gray; }
+    color: #686868; }
   #markdown-toc li a:hover {
-    color: black; }
+    color: blue; }
 
 ol {
   counter-reset: item; }
@@ -134,7 +137,8 @@ ol ol > li:before {
   color: gray;
   margin: 5px auto;
   width: 100%;
-  max-width: 320px; }
+  max-width: 320px;
+  text-align: center; }
 
 body {
   counter-reset: h2; }
@@ -176,7 +180,10 @@ h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.n
   counter-increment: none; }
 
 h1 {
-  font-size: 36px; }
+  font-size: 36px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400; }
 
 h2 {
   font-size: 32px; }
@@ -190,7 +197,7 @@ h4 {
 h5 {
   font-size: 24px; }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 400;
   text-align: left; }

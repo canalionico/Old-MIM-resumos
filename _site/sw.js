@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/urologia/2019/05/16/tumores-de-bexiga.html',
+      
         '/obstetricia/hipertensao-na-gravidez.html',
       
         '/ginecologia/planejamento-familiar.html',
