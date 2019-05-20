@@ -3,6 +3,7 @@ title: Amenorréia
 author: Filipe Mosca
 layout: post
 categories: ginecologia
+filename: 2019-05-18-amenorréia
 ---
 
 1. Sumário
@@ -15,9 +16,9 @@ categories: ginecologia
   * aos 13 anos na ausência de caracteristicas sexuais e/ou estirão do crescimento pondo-estatural.
 * **Secundária:** atrasos menstruais > 60 dias ou por 3 ou mais ciclos consecutivos
 
-> Relembrando: Hipotálamo (GnRH) → Hipófise anterior (FSH e LH) → Ovários (E e P) → Útero e vagina
+Como o desenvolvimento das características sexuais é progressivo (telarca → pubarca → menarca), a menina que não teve telarca até os 13 anos provavelmente não vai ter a menarca. Por isso não é necessário aguardar 2 anos para o início da investigação em meninas com 13 anos sem características sexuais secundárias.
 
-A amenorréia ocorre devido a um problema em algum desses compartimentos.
+> Relembrando: o eixo de regulação hormonal é Hipotálamo (GnRH) → Hipófise anterior (FSH e LH) → Ovários (E e P) → Útero e vagina. A amenorréia ocorre devido a um problema em algum desses compartimentos.
 
 ## Causas
 ### Defeitos anatômicos
@@ -42,8 +43,6 @@ A amenorréia ocorre devido a um problema em algum desses compartimentos.
 * **Síndrome de Asherman:** amenorréia secundárias após episódios de endometrite pós-parto ou após procedimento cirúrgico envolvendo o útero.
   * geralmente decorrente de sinéquias
 
-
-
 ### ↑FSH
 * **Disgenesias gonadais:** gonadas não funcionantes
   * **Turner**: 45X0
@@ -67,7 +66,6 @@ A amenorréia ocorre devido a um problema em algum desses compartimentos.
   * TTO: reposição hormonal
 * **Outras Causas:** causas mais raras de amenorréia hipergonadotrófica incluem deficiências emzimáticas com a de 17 hidroxilase, 21-hidroxilase, aromatase, galactosemia
 
-
 ### FSH normal ou ↓
 Geralmente secundária, as causas mais comuns são anovulação hipotalâmica e a anovulação hiperandrogênica (SOP), quando os sinais clínicos de hiperandrogenismo não estão tão evidentes.
 
@@ -85,3 +83,72 @@ Geralmente secundária, as causas mais comuns são anovulação hipotalâmica e 
 
 ### Síndrome dos ovários policísticos
 Quando a amenorréia vem acompanhada de hiperandrogenismo, o diagnóstico mais provável é a SOP.
+
+# Após seminário
+## Roteiro de Diagnóstico
+1. Dosagem de b-HCG e TSH
+2. Desafio ou teste da progesterona: administra progesterona por 7-10 dias e após a retirada espera-se a menstruação. Se houver a menstruação, indica que as genitalias internas são femininas e faltava apenas o estímulo e a retirada da progesterona para haver a menstruação. Ou seja, essa paciente possui anovulação crônica, não ovula e por isso não há produção da progesterona pelo corpo lúteo.
+3. Desafio do estrógeno: dd ponto de vista hormonal, se dá tudo que o endométrio precisa para menstruar
+4. ...
+
+## Primeiro compartimento, causa canalicular
+Negativas para ambos os testes de progesterona e estrógeno. O tratamento é cirúrgico com correção do canal.
+
+### Síndrome de Rokitanski
+Agenesia completa ou incompleta dos órgãos derivados dos ductos de Miller (agenesia Mulleriana), como trompas, útero e 2/3 superiores da vagina. O terço inferior da vagina vem dos túberculos genitais e não dos ductos de Muller.
+
+Em cerca de 25% dos casos pode ocorrer o acometimento do sistema urinário. Em cerca de 12% dos casos há acometimento lombar.
+
+**Ao exame físico:** o fenótipo é feminino, a genitália externa é feminina e normal, incluindo a pilificação. Contudo, a vagina é curta (de no máximo 4cm). As gonadas ovarianas são normais e podem ser vistas no USG.
+
+* Prognóstico:
+  * Infertilidade pela incapacidade de gestação intra-útero (ainda pode transplantar seus óvulos para um útero de aluguel)
+  * Dificuldade para relações sexuais
+  * Amenorréia para o resto da vida?
+
+### Insensibilidade aos androgênio
+Também chamada de Síndrome de Morris. O cariótipo é 46XY mas como há uma insensibilidade aos receptores de testosterona, não há desenvolvimento da genitalia e características masculinas. Assim, ocorre a formação da genitália feminina (o "default" da espécie humana).
+
+Pode ser completa ou incompleta. A incompleta envolve toda a gama do intersexo, com uma grande varaiação de caracteríticas pendendo mais pra um sexo ou outro.
+
+Tendo testículo, há produção do MIF (fator de inibição Mulleriano) que inibe o desenvolvimento dos órgãos derivados dos ductos de Miller. A apresentação é a ausência da pilificação.
+
+* FSH e LH estão elevados
+
+Se a insesibilidade for imcpleta, deve-se retirar logo os testículos para evitar a virilização. Contudo, se for completa, aguarda-se até a puberdade para a retirada beneficiando-se da conversão periférica dos androgênios.
+
+Diferenciação com Rokitanski: na insensibilidade a testosterona está acima dos níveis femininos, mas é o cariótipo o padrão ouro para o diagnóstico e diferenciação.
+
+Tratanento: terapia de reposição hormonal após a retirada das gônadas testiculares.
+
+### Síndrome de Asherman
+Após manipulação uterina, principalmente a curetagem. E principalmente após curetagem pós-parto devido ao efeito do hipoestrogenismo.
+
+### Hímen imperfurado
+
+## Segundo compartimento, causas ovarianos
+São as disgenesias gonadais.
+
+Hipogonadismo: estatura baixa a elevada estatura?
+
+### Síndrome de Turner
+### Síndrome de Swyer
+
+
+### Falência ovariana prematura
+
+## Derivada dos centros superiores
+### Hiperprolactinemia
+
+A prolactina é inibida pela dopamina.
+
+Ocorre hipoestrogenismo que acarreta em problemas para a mulher, como osteoporose e infertilidade.
+
+Prolactina > 100 indica-se o exame de imagem para avaliação da hipófise, principalmente RNM.
+
+prolactinoma: hemianopsia bitemporal
+
+### Síndrome de Sheehan
+Após a hemorragia pós-parto, a hipvolemia acarreta em necrose da hipófise que durante a gravidez está aumentada de tamanho e mais suscetível à isquemia e hipóxia.
+
+### Síndrome de Kallman
