@@ -46,7 +46,18 @@ A amenorréia ocorre devido a um problema em algum desses compartimentos.
 
 ### ↑FSH
 * **Disgenesias gonadais:** gonadas não funcionantes
-  * TTO: reposição hormonal
+  * **Turner**: 45X0
+    * Vagina normal
+    * Infantilismo
+    * Gônadas em fita
+    * Estigmas: retardo de crescimento, implantação baixa das orelhas, torax em escudo, cúbito valgo, pescoço alado, coarctação de aorta, escurtamento do quarto metacarpo
+    * TTO: TRH
+  * **Swyer**: 46XY
+    * Vagina normal
+    * Genitalias interna e externa são femininas
+    * A gonada é o testículo (sem células germinativas para produzirem testosterona)
+    * infantilismo
+    * TTO: TRE e gonadectomia (devido ao risco de malignização)
 * **Falência ovariana prematura (FOP)**
   * ocorre em 1% das mulheres
   * Por vezes de causa idiopática
@@ -60,10 +71,10 @@ A amenorréia ocorre devido a um problema em algum desses compartimentos.
 ### FSH normal ou ↓
 Geralmente secundária, as causas mais comuns são anovulação hipotalâmica e a anovulação hiperandrogênica (SOP), quando os sinais clínicos de hiperandrogenismo não estão tão evidentes.
 
-  * Estresse, perda de peso, desnutrição, exercício físico excessivo podem associar-se à anovulação hipotalâmica
-  * Mulheres envolvidas em atividades físicas com caráter competitivo têm três vezes mais risco de desenvolver amenorréia secundária, comparadas às não atletas
-  *  Ciclos anovulatórios e conseqüentes distúrbios menstruais como amenorréia secundária, menorragia, ou outros sangramentos disfuncionais são freqüentemente observados nos distúrbios tireoidianos
-  *  Quando se deseja a gravidez, deve-se estimular o ganho de peso para obtenção do peso corporal ideal, e a indução da ovulação com Citrato de Clomifeno, gonadotrofinas exógenas ou o GnRH pulsátil também deve ser oferecida.
+* Estresse, perda de peso, desnutrição, exercício físico excessivo podem associar-se à anovulação hipotalâmica
+* Mulheres envolvidas em atividades físicas com caráter competitivo têm três vezes mais risco de desenvolver amenorréia secundária, comparadas às não atletas
+*  Ciclos anovulatórios e conseqüentes distúrbios menstruais como amenorréia secundária, menorragia, ou outros sangramentos disfuncionais são freqüentemente observados nos distúrbios tireoidianos
+*  Quando se deseja a gravidez, deve-se estimular o ganho de peso para obtenção do peso corporal ideal, e a indução da ovulação com Citrato de Clomifeno, gonadotrofinas exógenas ou o GnRH pulsátil também deve ser oferecida.
 
 ### Hiperprolactinemia
 *  Uso de drogas: como estrogênios, antagonistas dopaminérgicos.
