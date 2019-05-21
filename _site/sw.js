@@ -29,6 +29,10 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/obstetricia/2019/05/20/sangramento-segundo-trimestre.html',
+      
+        '/ginecologia/2019/05/18/amenorreia.html',
+      
         '/urologia/2019/05/16/tumores-de-bexiga.html',
       
         '/obstetricia/hipertensao-na-gravidez.html',
@@ -291,6 +295,16 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/hasg/tabela.jpeg'
       
         '/assets/obstetricia/hpp/tab.png'
+      
+        '/assets/obstetricia/pp/dpp.jpeg'
+      
+        '/assets/obstetricia/pp/pp.jpeg'
+      
+        '/assets/obstetricia/pp/pp2.jpeg'
+      
+        '/assets/obstetricia/pp/pp3.jpeg'
+      
+        '/assets/obstetricia/pp/pp4.jpeg'
       
         '/browserconfig.xml'
       

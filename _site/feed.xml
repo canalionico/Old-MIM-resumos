@@ -1,4 +1,565 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-16T18:16:54-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores de bexiga</title><link href="http://localhost:4000/urologia/2019/05/16/tumores-de-bexiga.html" rel="alternate" type="text/html" title="Tumores de bexiga" /><published>2019-05-16T00:00:00-03:00</published><updated>2019-05-16T00:00:00-03:00</updated><id>http://localhost:4000/urologia/2019/05/16/tumores-de-bexiga</id><content type="html" xml:base="http://localhost:4000/urologia/2019/05/16/tumores-de-bexiga.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-20T23:06:38-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sangramentos do segundo trimestre</title><link href="http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre.html" rel="alternate" type="text/html" title="Sangramentos do segundo trimestre" /><published>2019-05-20T00:00:00-03:00</published><updated>2019-05-20T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#placenta-prévia&quot; id=&quot;markdown-toc-placenta-prévia&quot;&gt;Placenta prévia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#classificação-rcog-2011&quot; id=&quot;markdown-toc-classificação-rcog-2011&quot;&gt;Classificação RCOG 2011&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#placenta-acreta&quot; id=&quot;markdown-toc-placenta-acreta&quot;&gt;Placenta acreta&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#vasa-prévia&quot; id=&quot;markdown-toc-vasa-prévia&quot;&gt;Vasa prévia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#parto&quot; id=&quot;markdown-toc-parto&quot;&gt;Parto&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#rotura-do-seio-marginal&quot; id=&quot;markdown-toc-rotura-do-seio-marginal&quot;&gt;Rotura do seio marginal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#rotura-da-vasa-prévia&quot; id=&quot;markdown-toc-rotura-da-vasa-prévia&quot;&gt;Rotura da vasa prévia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#dppni&quot; id=&quot;markdown-toc-dppni&quot;&gt;DPPNI&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-1&quot; id=&quot;markdown-toc-quadro-clínico-1&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referência&quot; id=&quot;markdown-toc-referência&quot;&gt;Referência&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;placenta-prévia&quot;&gt;Placenta prévia&lt;/h2&gt;
+&lt;p&gt;É a placenta localizada total ou parcialmente no segmento inferior do útero.&lt;/p&gt;
+
+&lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Incidência de 1%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fatores de risco&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Cesárea anterior: o mais importante, lembrar que o risco aumenta progressivamente a cada nova cesárea&lt;/li&gt;
+      &lt;li&gt;Idade materna avançada&lt;/li&gt;
+      &lt;li&gt;Cicatriz uterina&lt;/li&gt;
+      &lt;li&gt;Multiparidade&lt;/li&gt;
+      &lt;li&gt;Tabagismo&lt;/li&gt;
+      &lt;li&gt;Gravidez gemelar&lt;/li&gt;
+      &lt;li&gt;Manuseio uterino prévio (curetagens e cesárea)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;É muito incomum haver associação de HASG e PP (livro do CISAM)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;classificação-rcog-2011&quot;&gt;Classificação RCOG 2011&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Menor: quando não alcança o OI do colo&lt;/li&gt;
+  &lt;li&gt;Baixa: margem da placenta à &amp;lt; 2 cm do OI&lt;/li&gt;
+  &lt;li&gt;Maior: quando alcança o OI do colo&lt;/li&gt;
+  &lt;li&gt;Marginal: margem da placenta alcança o OI mas não o ultrapassa&lt;/li&gt;
+  &lt;li&gt;Parcial: placenta recobre parcialmente o OI&lt;/li&gt;
+  &lt;li&gt;Total: placenta recobre totalmente o OI&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/pp.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hemorragia: indolor, de sangue vermelho vibrante, desvinculada de esforços ou traumatismos. Presente em &amp;gt; 90% dos casos, principalmente no último trimestre.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exame físico&lt;/strong&gt;: A palpação é capaz de identificar a estática fetal alterada: situações oblíquas e transversas (15%), apresentação pélvica (15%) e cefálicas altas, por motivo da interposição da placenta entre a cabeça e o andar superior da bacia.
+    &lt;ul&gt;
+      &lt;li&gt;Exame especular: para confirmar que a hemorrágia tem origem no canal cervical&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Secundamento: o acretismo é comum, sendo habitual as retenções placentárias podendo levar a atonia e hemorragia.&lt;/li&gt;
+  &lt;li&gt;Purpério: restos placentários podem permanecer aderidos e se infectar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;USG transabdominal: com 20-24 semanas&lt;/li&gt;
+  &lt;li&gt;USG-TV: o melhor exame e necessário para a confirmação do diagnóstico de PP&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Estima-se que cerca de 90% das placentas prévias diagnosticadas na ultrassonografia de 2º trimestre resolvam-se na ultrassonografia de 36 semanas, pela expansão do segmento inferior no 2º e no 3º trimestre, fenômeno conhecido como “&lt;strong&gt;migração placentária&lt;/strong&gt;”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/pp2.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;conduta&quot;&gt;Conduta&lt;/h3&gt;
+&lt;p&gt;A despeito de 2/3 das mulheres com placenta prévia sangrarem no período anteparto, esses
+raramente são episódios graves a ponto de exigirem interrupção da gravidez. Acredita-se que as mulheres com placenta prévia que apresentam sangramento (sintomáticas) e que permaneçam hemodinamicamente estáveis possam ser conduzidas ambulatorialmente.&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O achado de área sonolucente na margem placentária que recobre o orifício interno (OI) do colo (seio marginal) eleva em 10 vezes o risco de hemorragia grave anteparto.&lt;sup id=&quot;fnref:rez:1&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;O colo com comprimento &amp;lt; 3 cm, pela ultrassonografia de 3o trimestre, indica possibilidade elevada de cesárea de emergência, antes de 34 semanas, por sangramento importante anteparto.&lt;sup id=&quot;fnref:rez:2&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;Pacientes que apresentam distância entre a borda da placenta e o OI ≥ 2 cm podem ser
+candidatas ao parto vaginal. Aquelas com essa distância &amp;lt; 4 cm (placenta baixa) apresentarão sangramento intenso no pós-parto.&lt;sup id=&quot;fnref:rez:3&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Após a anamnese, exame obstétrico e especular, a paciente deverá ser internada já com a solicitação da ecografia e dos exames laboratoriais. O internamento visa prevenir o sangramento que pode ocorrer a qualquer momento.&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Conservadora:&lt;/strong&gt; indicada nos pequenos sangramentos sem desequilíbrio hemodinâmico, independente da variedade de placenta prévia e com gravidez que cursa a faixa da prematuridade. Tem, portanto, como objetivo maior ganhar tempo intra-útero para o
+amadurecimento do pulmão fetal.
+    &lt;ul&gt;
+      &lt;li&gt;Repouso físico e sexual&lt;/li&gt;
+      &lt;li&gt;Combate à anemia: manter a Hb em torno de 12g com o FeSO4&lt;/li&gt;
+      &lt;li&gt;Avaliações periódicas de maturidade e vitalidade do concepto&lt;/li&gt;
+      &lt;li&gt;Administração de corticoide&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Intervencionista:&lt;/strong&gt; nos casos de prenhez de termo ou com sangramento de vulto com desequilíbrio hemodinâmico
+    &lt;ul&gt;
+      &lt;li&gt;mesmo vigente a prematuridade, a gravidez deverá ser interrompida e na quase totalidade das vezes através da operação cesariana.&lt;/li&gt;
+      &lt;li&gt;Lembrando que PP oclusiva total é indicação absoluta de cesárea&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;placenta-acreta&quot;&gt;Placenta acreta&lt;/h3&gt;
+&lt;p&gt;O fator de risco mais importante para placenta acreta é a PP em mulheres cesaredas (placenta prévia-cesárea). A &lt;strong&gt;placenta prévia-acreta-cesárea&lt;/strong&gt; ocorre pela deficiência de decídua basal na zona da cicatriz uterina. O risco, assim como a PP, também aumenta a cada nova cesárea.&lt;/p&gt;
+
+&lt;p&gt;Os principais achados sonográficos sugestivos de acretismo incluem: perda da zona hipoecoica retroplacentária, adelgaçamento do miométrio, lagos placentários anômalos com fluxo turbulento ao Doppler colorido, hipervascularização ou disrupção da interface serosa-parede vesical com protrusão do tecido placentário para dentro da bexiga.&lt;/p&gt;
+
+&lt;p&gt;A RM seria especialmente útil para caracterizar o tipo de acretismo (acreta, increta, percreta),
+assim como a invasão de estruturas vizinhas (bexiga e paramétrios)&lt;/p&gt;
+
+&lt;h3 id=&quot;vasa-prévia&quot;&gt;Vasa prévia&lt;/h3&gt;
+&lt;p&gt;Na condição conhecida como vasa prévia, os vasos umbilicais cursam através das membranas sobre o orifício interno do colo e à frente da apresentação fetal, desprotegidos da estrutura placentária e do cordão umbilical&lt;/p&gt;
+
+&lt;p&gt;Existem 2 variantes de vasa prévia:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;tipo 1: resultante da inserção velamentosa do cordão,&lt;/li&gt;
+  &lt;li&gt;tipo 2: decorrente de vasos caminhando entre os lobos de uma placenta sucenturiada/bilobada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Em 2/3 dos casos a vasa prévia no 2º trimestre da gravidez está associada à placenta baixa. Em cerca de 30% dos casos a vasa prévia relaciona-se com a placenta sucenturiada/bilobada. Os fatores de risco
+para vasa prévia são fertilização in vitro, placenta sucenturiada/bilobada e placenta prévia no 2º trimestre, com odds ratio aproximado de, respectivamente, 8, 22 e 23.&lt;/p&gt;
+
+&lt;p&gt;Pouco mais de 35% dos casos de vasa prévia sangram no 3o trimestre da gravidez.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;quadro clínico&lt;/strong&gt; de vasa prévia no parto, após a ruptura das membranas, é o de exsanguinação fetal; a hemorragia de apenas 100 ml é suficiente para determinar choque e morte do feto. O traçado sinusoidal da frequência cardíaca fetal (fcf) pode ser o evento terminal, a indicar o óbito iminente do feto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tratamento&lt;/strong&gt;: Via de regra, a vasa prévia apresenta-se no parto, com sangramento vaginal após a ruptura das membranas e anormalidades na fcf, tais como bradicardia, desaceleração tardia e traçado
+sinusoide. Em casos de vasa prévia identificados no 2o trimestre, o exame transvaginal com Doppler colorido no 3o trimestre deve confirmar o diagnóstico.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parto&lt;/strong&gt;: Diagnosticada a vasa prévia no parto, pelo quadro clínico já descrito, indica-se a cesárea de emergência. Confirmada a vasa prévia no 3o trimestre, a paciente deve ser internada, iniciando-se o
+corticoide com 28 a 32 semanas, sendo a cesárea eletiva por volta de 35 a 37 semanas&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/pp3.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;p&gt;Pacientes com cesárea anterior constituem classe especial, pois apresentam dois problemas a serem excluídos: placenta prévia e placenta acreta. Se a placenta é prévia e anterior, a implantação na cicatriz uterina constitui a placenta prévia-cesárea, com elevado risco de ser
+também placenta prévia-acreta-cesárea.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pacientes que sangram (sintomáticas) devem ter conduta individualizada e não há regras sobre como conduzi-las. O prosseguimento da gravidez depende principalmente da estabilidade hemodinâmica.&lt;/li&gt;
+  &lt;li&gt;Pacientes de risco para parto pré-termo devem receber corticoide profilático.&lt;/li&gt;
+  &lt;li&gt;Pacientes assintomáticas com placenta prévia menor (baixa) devem ser reexaminadas por meio da ultrassonografia apenas com 36 semanas de gestação.&lt;/li&gt;
+  &lt;li&gt;Aquelas com placenta prévia maior ou com suspeita de placenta acreta devem realizar novo exame sonográfico com 32 semanas, para
+que o planejamento no 3ºT seja mais bem conduzido.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pacientes com placenta prévia definitiva no 3o trimestre devem ser informadas de que
+apresentam risco elevado de parto pré-termo e sangramento. As sintomáticas com placenta prévia maior devem ser hospitalizadas com 34 semanas, e as assintomáticas ou com placenta prévia menor podem ser conduzidas ambulatorialmente.&lt;/p&gt;
+
+&lt;p&gt;A época adequada para o parto deve ser individualizada, mas a cesárea costuma ser planejada para ocorrer com 34 semanas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/pp4.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;parto&quot;&gt;Parto&lt;/h4&gt;
+&lt;p&gt;O parto vaginal pode ser tentado na placenta baixa, quando a borda placentária está a mais de 2 cm do OI do colo.&lt;/p&gt;
+
+&lt;p&gt;Mulheres com placenta prévia cuja margem placentária está a mais de 2 cm do OI no 3o
+trimestre devem ser operadas por cesárea. A cesárea eletiva deve ser realizada com 38 a 39 semanas, nas assintomáticas com placenta prévia menor e com 36 a 37 semanas nas assintomáticas com placenta prévia maior. As pacientes com placenta acreta assintomáticas serão operadas com 34 semanas.&lt;/p&gt;
+
+&lt;p&gt;A placenta acreta é a maior indicação (38%) de histerectomia-cesárea. A histerectomia-cesárea tem particularidades: cesárea clássica (incisão corporal longitudinal),
+nenhuma tentativa de retirada da placenta e histerectomia com a placenta in situ. É válida a espera pelo secundamento espontâneo, face à possível imprecisão do diagnóstico sonográfico. Quando a contratilidade uterina estiver prejudicada, são recomendadas 3 ordenhas do cordão para evitar a anemia do bebê. Muitas pacientes com placenta percreta e invasão da bexiga necessitam de cistectomia parcial.&lt;/p&gt;
+
+&lt;p&gt;Em caso de placenta acreta-cesárea, abre-se o útero longe da placenta (cesárea clássica) e extrai-se o feto sem tentar descolar a placenta; ato contínuo procede-se à histerectomia-cesárea com a placenta in situ.&lt;/p&gt;
+
+&lt;p&gt;Graças à radiologia intervencionista, tem-se proposto a conduta conservadora na placenta acreta. A placenta é deixada in situ após a cesárea e a embolização da artéria uterina é realizada no pós-operatório imediato. As vantagens de deixar a placenta in situ são o menor risco de hemorragia e de lesões em órgãos vizinhos, assim como a redução no tempo operatório. As
+desvantagens são o rigoroso acompanhamento da involução placentária no pós-operatório, com ultrassonografia e dosagem dos níveis de hCG-β, e o risco de hemorragia e de infecção.&lt;/p&gt;
+
+&lt;p&gt;Contudo, o tratamento conservador da placenta percreta, com a placenta deixada in situ para ser reabsorvida, está associada a graves complicações tardias – infecção e hemorragia – incluindo o
+risco de histerectomia, em quase 60% dos casos, até 9 meses do parto.&lt;/p&gt;
+
+&lt;h2 id=&quot;rotura-do-seio-marginal&quot;&gt;Rotura do seio marginal&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;A causa mais frequente de hemorragia no 2T?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;É um sangramento indolor de sangue rutilante de caráter repetitivo e geralmente de
+pequena monta. Seu diagnóstico diferencial é feito com a placenta prévia que pode ser
+esclarecido através de ultra-sonografia.&lt;/p&gt;
+
+&lt;p&gt;O diagnostico é retrospectivo, constituindo-se na identificação de coágulo localizado no
+seio marginal da placenta.
+Embora possa evoluir para DPPNI, o prognostico, é, maioria das vezes, favorável.
+O tratamento é realizado através da operação cesariana.&lt;/p&gt;
+
+&lt;h2 id=&quot;rotura-da-vasa-prévia&quot;&gt;Rotura da vasa prévia&lt;/h2&gt;
+&lt;p&gt;Resulta da placenta com inserção velamentosa do cordão em que os vasos do funículo percorrem as membranas ovulares extra-placentárias.&lt;/p&gt;
+
+&lt;p&gt;O acidente acontece quando as membranas são rôtas seja espontânea ou provocada no
+qual podem ser atingidas a veia umbilical ou as artérias. Na primeira hipótese, a lesões desta implica em sangramento fulminante para o concepto.&lt;/p&gt;
+
+&lt;p&gt;Na eventualidade da injúria advir de uma das artérias umbilicais, pode o equilíbrio
+hemodinâmico fetal dar-se pela outra artéria. Neste caso se o diagnóstico foi feito em tempo
+hábil, a operação cesariana poderá salvar o concepto.&lt;/p&gt;
+
+&lt;p&gt;USG-doppler: pode confirmar o diagnóstico&lt;/p&gt;
+
+&lt;p&gt;Interromper a gravidez com 35 semanas por meio de operação cesariana.&lt;/p&gt;
+
+&lt;h2 id=&quot;dppni&quot;&gt;DPPNI&lt;/h2&gt;
+&lt;p&gt;É o descolamento de placenta normalmente inserida. A placenta se descola de maneira inopinada e repentina ainda com o concépto intraútero, após 22 semanas da IG. Possui uma incidência &amp;lt; 1%.&lt;/p&gt;
+
+&lt;p&gt;é causa importante de sangramento vaginal na
+segunda metade da gravidez, especialmente entre 24 e 26 semanas. A mortalidade materna é de 1 a 3%, e a perinatal é de 12% (1/3 de todas as mortes perinatais). A mortalidade perinatal é consequência da asfixia intrauterina e da prematuridade, e 15 a 20% dos recém-nascidos podem
+apresentar sequelas neurológicas.&lt;/p&gt;
+
+&lt;h3 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Causas traumáticas/mecânicas&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Cordão umbilical curto&lt;/li&gt;
+      &lt;li&gt;Esvaziamento rápido de polidramnio&lt;/li&gt;
+      &lt;li&gt;Retração uterina após expulsão do 1º gemelar&lt;/li&gt;
+      &lt;li&gt;Hipersistolia&lt;/li&gt;
+      &lt;li&gt;Hipertonia por uso indevido de ocitócicos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Causas não traumáticas&lt;/strong&gt;: as mais frequentes e que acabam sendo os &lt;strong&gt;fatores de risco&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;HAS&lt;/strong&gt; (presente em torno de 75% dos casos)&lt;/li&gt;
+      &lt;li&gt;Baixa condição socioeconômica&lt;/li&gt;
+      &lt;li&gt;Passado obstétrico desfaforável&lt;/li&gt;
+      &lt;li&gt;Multiparidade&lt;/li&gt;
+      &lt;li&gt;Idade materna avançada&lt;/li&gt;
+      &lt;li&gt;Relato de DPPNI anterior&lt;/li&gt;
+      &lt;li&gt;Corioamnionite&lt;/li&gt;
+      &lt;li&gt;Gemelidade&lt;/li&gt;
+      &lt;li&gt;DM&lt;/li&gt;
+      &lt;li&gt;RCIU&lt;/li&gt;
+      &lt;li&gt;TBR prolongado&lt;/li&gt;
+      &lt;li&gt;Etilismo&lt;/li&gt;
+      &lt;li&gt;Tabagismo&lt;/li&gt;
+      &lt;li&gt;Uso de cocaína (efeitos hipertensivos e vasoconstritivos)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;patologia&quot;&gt;Patologia&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Alterações útero-placentárias:&lt;/strong&gt; o sangue invade a zona de clivagem desciduoplacentária dando assim início a separação, com a formação do &lt;strong&gt;hematoma retroplacentário&lt;/strong&gt;. Este incita o útero à hipertonia que aumenta a pressão no local do descolamento aumentando-o cada vez mais. Parte do sangue se coagula formando hematoma já referido, outra parte descola as membranas e elimina-se através da cérvice uterina configurando a &lt;strong&gt;hemorragia externa presente em 80% dos casos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Na &lt;strong&gt;hemorragia oculta&lt;/strong&gt; que representa os 20% dos casos, o sangue é aprisionado e é
+impulsionado através das miofibrilas propiciando o quadro de apoplexia útero-placentária ou &lt;strong&gt;útero de Couvelaire&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ocasionalmente, o sangue pode alcançar a cavidade amniótica, por soluções de continuidade das membranas, e causar o &lt;strong&gt;hemoâmnio&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/dpp.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O útero apresenta cor azulada e o hematoma se estende através das trompas, dos ovários,
+dos ligamentos e do peritônio pélvico. Após o parto ao examinar-se a placenta pela sua
+face materna, encontra-se o hematoma que uma vez removido mostra no seu
+assentamento uma área deprimida denominada &lt;strong&gt;cratera&lt;/strong&gt;, sinal patognômonico do DPPNI.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alterações renais:&lt;/strong&gt; representadas pela síndrome do nefro inferior e pela necrose cortical bilateral. Esta última de ocorrência rara traduzida clinicamente por anúria persistente.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alterações da hemocoagulação:&lt;/strong&gt; estão presentes sob a forma aguda (DPPNI), embolia do líquido amniótico e choque septicêmico e sob a forma crônica como a que preside a retenção do ovo morto. Em síntese estão envolvidos no mecanismo dos distúrbios da hemocoagulação do DPPNI: consumo local dos fatores de coagulação, consumo sistêmico e fibrinólise.&lt;/p&gt;
+
+&lt;p&gt;No DPPNI a queda do fibrinogênio e de outros defeitos da hemóstase estão intimamente vinculados ao grau de separação da placenta, ao hematoma retroplacentário e ao choque. A taxa declinada de sangue alia-se a queda das plaquetas e dos fatores V e VIII, ao tempo em que aumentam os produtos de degradação do fibrogênio.&lt;/p&gt;
+
+&lt;h3 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Assintomático&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sangramento&lt;/strong&gt; retroplacentário 20% e externo 80%.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dor abdominal&lt;/strong&gt; geralmente alta.&lt;/li&gt;
+  &lt;li&gt;Ausculta fetal negativa, mesmo estando o feto vivo por motivo da hipertonia, sintoma freqüente.&lt;/li&gt;
+  &lt;li&gt;Bolsa das águas tensa.&lt;/li&gt;
+  &lt;li&gt;Parto em avalanche, isto é, expulsam-se o feto, logo em seguida a placenta e o hematoma retroplacentário.&lt;/li&gt;
+  &lt;li&gt;Associação freqüente com processos hipertensivos.&lt;/li&gt;
+  &lt;li&gt;Hematoma Retroplacentário.&lt;/li&gt;
+  &lt;li&gt;Desproporção entre a precariedade do estado geral da paciente e a perda sanguínea evidente.&lt;/li&gt;
+  &lt;li&gt;Equimose no local das punções (coagulopatia).&lt;/li&gt;
+  &lt;li&gt;Morte fetal elevada.&lt;/li&gt;
+  &lt;li&gt;Hemoâmnio.&lt;/li&gt;
+  &lt;li&gt;Hipertonia.&lt;/li&gt;
+  &lt;li&gt;Sinal da cratera.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h3&gt;
+&lt;p&gt;Sintomatologia + USG&lt;/p&gt;
+
+&lt;p&gt;D. diferencial: Placenta prévia (principalmente), Rotura do seio marginal, Rotura de vasa prévia, Rotura do útero, Gravidez abdominal tardia, Síndromes dolorosas abdominais agudas (apendicite aguda, cisto ovariano com pedículo
+torcido, pancreatite aguda, etc.).&lt;/p&gt;
+
+&lt;h3 id=&quot;classificação&quot;&gt;Classificação&lt;/h3&gt;
+&lt;p&gt;O DPPNI uma vez instalado não regride, antes progride de maneira inexorável, agravando-se à proporção que as horas passam. São 3 graus de evolução:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Leve: assintomático e de diagnóstico retrospectivo por análise da placenta após o parto (hematoma na face materna da placenta)&lt;/li&gt;
+  &lt;li&gt;Moderado: sintomático e com concepto vivo&lt;/li&gt;
+  &lt;li&gt;Grave: sintomas e óbito fetal. É dividida em com ou sem coagulopatia&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;p&gt;O tratamento consiste essencialmente no esvaziamento da cavidade uterina fundamentando-se
+em 2 princípios:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Prevenção da coagulopatia&lt;/li&gt;
+  &lt;li&gt;Proteção do concepto: mesmo com a ausculta negativa (hipertonia) pode o concepto encontrar-se com vida.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Uma vez firmado o diagnóstico, rompe-se a bolsa das águas e aquilata-se da evolução do
+parto que se antevisto iminente, será ultimado pela vida transpelviana. Caso contrário declinar
+pela via abdominal que será antecedida por cateterização de veia de grosso calibre com
+administração de solutos e sangue, preferencialmente fresco, se presentes choque ou
+coagulopatia.&lt;/p&gt;
+
+&lt;p&gt;A histerectomia é medida de exceção e apenas encontra justificativa nos casos de atonia
+uterina irresponsiva aos métodos usuais (massagem vigorosa, ocitocina venosa e intramural e
+ergotínico). A histerectomia subtotal é a preferida. Antes de sua execução, convém tentar a
+inibição do sangramento através da ligadura das artérias hipogástricas, principalmente se a
+paciente é jovem e de paridade reduzida.&lt;/p&gt;
+
+&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:rez&quot;&gt;
+      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:cisam&quot;&gt;
+      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Amenorréia</title><link href="http://localhost:4000/ginecologia/2019/05/18/amenorreia.html" rel="alternate" type="text/html" title="Amenorréia" /><published>2019-05-18T00:00:00-03:00</published><updated>2019-05-18T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/2019/05/18/amenorreia</id><content type="html" xml:base="http://localhost:4000/ginecologia/2019/05/18/amenorreia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#causas&quot; id=&quot;markdown-toc-causas&quot;&gt;Causas&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#defeitos-anatômicos&quot; id=&quot;markdown-toc-defeitos-anatômicos&quot;&gt;Defeitos anatômicos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fsh&quot; id=&quot;markdown-toc-fsh&quot;&gt;↑FSH&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fsh-normal-ou-&quot; id=&quot;markdown-toc-fsh-normal-ou-&quot;&gt;FSH normal ou ↓&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hiperprolactinemia&quot; id=&quot;markdown-toc-hiperprolactinemia&quot;&gt;Hiperprolactinemia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#síndrome-dos-ovários-policísticos&quot; id=&quot;markdown-toc-síndrome-dos-ovários-policísticos&quot;&gt;Síndrome dos ovários policísticos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#após-seminário&quot; id=&quot;markdown-toc-após-seminário&quot;&gt;Após seminário&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#roteiro-de-diagnóstico&quot; id=&quot;markdown-toc-roteiro-de-diagnóstico&quot;&gt;Roteiro de Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#primeiro-compartimento-causa-canalicular&quot; id=&quot;markdown-toc-primeiro-compartimento-causa-canalicular&quot;&gt;Primeiro compartimento, causa canalicular&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#síndrome-de-rokitanski&quot; id=&quot;markdown-toc-síndrome-de-rokitanski&quot;&gt;Síndrome de Rokitanski&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#insensibilidade-aos-androgênio&quot; id=&quot;markdown-toc-insensibilidade-aos-androgênio&quot;&gt;Insensibilidade aos androgênio&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#síndrome-de-asherman&quot; id=&quot;markdown-toc-síndrome-de-asherman&quot;&gt;Síndrome de Asherman&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#hímen-imperfurado&quot; id=&quot;markdown-toc-hímen-imperfurado&quot;&gt;Hímen imperfurado&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#segundo-compartimento-causas-ovarianos&quot; id=&quot;markdown-toc-segundo-compartimento-causas-ovarianos&quot;&gt;Segundo compartimento, causas ovarianos&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#síndrome-de-turner&quot; id=&quot;markdown-toc-síndrome-de-turner&quot;&gt;Síndrome de Turner&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#síndrome-de-swyer&quot; id=&quot;markdown-toc-síndrome-de-swyer&quot;&gt;Síndrome de Swyer&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#falência-ovariana-prematura&quot; id=&quot;markdown-toc-falência-ovariana-prematura&quot;&gt;Falência ovariana prematura&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#derivada-dos-centros-superiores&quot; id=&quot;markdown-toc-derivada-dos-centros-superiores&quot;&gt;Derivada dos centros superiores&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#hiperprolactinemia-1&quot; id=&quot;markdown-toc-hiperprolactinemia-1&quot;&gt;Hiperprolactinemia&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#síndrome-de-sheehan&quot; id=&quot;markdown-toc-síndrome-de-sheehan&quot;&gt;Síndrome de Sheehan&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#síndrome-de-kallman&quot; id=&quot;markdown-toc-síndrome-de-kallman&quot;&gt;Síndrome de Kallman&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a ausência de menstruação no período da menacme (período fértil da mulher).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Primária:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;ausente aos 15 anos na presença de caracteres sexuais secundários ou&lt;/li&gt;
+      &lt;li&gt;aos 13 anos na ausência de caracteristicas sexuais e/ou estirão do crescimento pondo-estatural.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Secundária:&lt;/strong&gt; atrasos menstruais &amp;gt; 60 dias ou por 3 ou mais ciclos consecutivos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Como o desenvolvimento das características sexuais é progressivo (telarca → pubarca → menarca), a menina que não teve telarca até os 13 anos provavelmente não vai ter a menarca. Por isso não é necessário aguardar 2 anos para o início da investigação em meninas com 13 anos sem características sexuais secundárias.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Relembrando: o eixo de regulação hormonal é Hipotálamo (GnRH) → Hipófise anterior (FSH e LH) → Ovários (E e P) → Útero e vagina. A amenorréia ocorre devido a um problema em algum desses compartimentos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;causas&quot;&gt;Causas&lt;/h2&gt;
+&lt;h3 id=&quot;defeitos-anatômicos&quot;&gt;Defeitos anatômicos&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Agenesia Mulleriana:&lt;/strong&gt; é a síndrome de &lt;strong&gt;Rokitanski&lt;/strong&gt;, ausência total ou parcial do útero e/ou vagina com presença das características sexuais secundárias femininas
+    &lt;ul&gt;
+      &lt;li&gt;10% dos casos de amenorréia primária&lt;/li&gt;
+      &lt;li&gt;Frequentemente acompanhada de malformações uro-genitais&lt;/li&gt;
+      &lt;li&gt;Vagina curta ou ausente&lt;/li&gt;
+      &lt;li&gt;Cariótipo 46XX&lt;/li&gt;
+      &lt;li&gt;Tem ovários, logo, há desenvolvimento dos caracteres sexuais secundários femininos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Síndrome da insensibilidade aos androgênios:&lt;/strong&gt; também chamadade síndrome de &lt;strong&gt;Morris&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;5% dos casos&lt;/li&gt;
+      &lt;li&gt;Dosagem de testosterona nos limites da normalidade nos padrões masculinos&lt;/li&gt;
+      &lt;li&gt;Cariótipo 46XY&lt;/li&gt;
+      &lt;li&gt;Insensiilidade dos receptores androgênicos (a testosterona não consegue atuar)&lt;/li&gt;
+      &lt;li&gt;Testículos ectópicos, sem ovários (não há desenvolvimento de características secundárias femininas)&lt;/li&gt;
+      &lt;li&gt;Genitália externa feminina (pela ausência de ação dos androgênios)&lt;/li&gt;
+      &lt;li&gt;vagina curta ou ausente&lt;/li&gt;
+      &lt;li&gt;Sem pilificação!&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Criptomenorréia:&lt;/strong&gt; hímen imperfurado e o septo vaginal transverso.
+    &lt;ul&gt;
+      &lt;li&gt;Dores cíclicas, pelo acúmulo de sangue mentrual pondendo refluir à cavidade abdominal e favorecer endometriose e aderências pélvicas&lt;/li&gt;
+      &lt;li&gt;TTO: remoção dos septos ou abertural himenal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Síndrome de Asherman:&lt;/strong&gt; amenorréia secundárias após episódios de endometrite pós-parto ou após procedimento cirúrgico envolvendo o útero.
+    &lt;ul&gt;
+      &lt;li&gt;geralmente decorrente de sinéquias&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fsh&quot;&gt;↑FSH&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Disgenesias gonadais:&lt;/strong&gt; gonadas não funcionantes
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Turner&lt;/strong&gt;: 45X0
+        &lt;ul&gt;
+          &lt;li&gt;Vagina normal&lt;/li&gt;
+          &lt;li&gt;Infantilismo&lt;/li&gt;
+          &lt;li&gt;Gônadas em fita&lt;/li&gt;
+          &lt;li&gt;Estigmas: retardo de crescimento, implantação baixa das orelhas, torax em escudo, cúbito valgo, pescoço alado, coarctação de aorta, escurtamento do quarto metacarpo&lt;/li&gt;
+          &lt;li&gt;TTO: TRH&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Swyer&lt;/strong&gt;: 46XY
+        &lt;ul&gt;
+          &lt;li&gt;Vagina normal&lt;/li&gt;
+          &lt;li&gt;Genitalias interna e externa são femininas&lt;/li&gt;
+          &lt;li&gt;A gonada é o testículo (sem células germinativas para produzirem testosterona)&lt;/li&gt;
+          &lt;li&gt;infantilismo&lt;/li&gt;
+          &lt;li&gt;TTO: TRE e gonadectomia (devido ao risco de malignização)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Falência ovariana prematura (FOP)&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;ocorre em 1% das mulheres&lt;/li&gt;
+      &lt;li&gt;Por vezes de causa idiopática&lt;/li&gt;
+      &lt;li&gt;40% dessas mulheres tễm alguma alteração auto-imune associada&lt;/li&gt;
+      &lt;li&gt;Diagnóstico: amenorréia secundária antes dos 40 anos com FSH &amp;gt; 40 mUI/mL&lt;/li&gt;
+      &lt;li&gt;Não tem indicação de biópsia&lt;/li&gt;
+      &lt;li&gt;TTO: reposição hormonal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Outras Causas:&lt;/strong&gt; causas mais raras de amenorréia hipergonadotrófica incluem deficiências emzimáticas com a de 17 hidroxilase, 21-hidroxilase, aromatase, galactosemia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fsh-normal-ou-&quot;&gt;FSH normal ou ↓&lt;/h3&gt;
+&lt;p&gt;Geralmente secundária, as causas mais comuns são anovulação hipotalâmica e a anovulação hiperandrogênica (SOP), quando os sinais clínicos de hiperandrogenismo não estão tão evidentes.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Estresse, perda de peso, desnutrição, exercício físico excessivo podem associar-se à anovulação hipotalâmica&lt;/li&gt;
+  &lt;li&gt;Mulheres envolvidas em atividades físicas com caráter competitivo têm três vezes mais risco de desenvolver amenorréia secundária, comparadas às não atletas&lt;/li&gt;
+  &lt;li&gt;Ciclos anovulatórios e conseqüentes distúrbios menstruais como amenorréia secundária, menorragia, ou outros sangramentos disfuncionais são freqüentemente observados nos distúrbios tireoidianos&lt;/li&gt;
+  &lt;li&gt;Quando se deseja a gravidez, deve-se estimular o ganho de peso para obtenção do peso corporal ideal, e a indução da ovulação com Citrato de Clomifeno, gonadotrofinas exógenas ou o GnRH pulsátil também deve ser oferecida.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;hiperprolactinemia&quot;&gt;Hiperprolactinemia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Uso de drogas: como estrogênios, antagonistas dopaminérgicos.&lt;/li&gt;
+  &lt;li&gt;Distúrbios tireoidianos&lt;/li&gt;
+  &lt;li&gt;Tumores hipofisários&lt;/li&gt;
+  &lt;li&gt;Quando maiores os níveis de prolactina mais intenso o é o distúrbio mentrual&lt;/li&gt;
+  &lt;li&gt;O tratamento visa restabelecer a função ovariana, diminuir os níveis de prolactina e aumentar as chances de gravidez. As drogas de escolha são os agonistas dopainérgicos, a bromoergocriptina e a lisurida, capazes de normalizar a função menstrual em cerca de 80% dos casos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;síndrome-dos-ovários-policísticos&quot;&gt;Síndrome dos ovários policísticos&lt;/h3&gt;
+&lt;p&gt;Quando a amenorréia vem acompanhada de hiperandrogenismo, o diagnóstico mais provável é a SOP.&lt;/p&gt;
+
+&lt;h1 id=&quot;após-seminário&quot;&gt;Após seminário&lt;/h1&gt;
+&lt;h2 id=&quot;roteiro-de-diagnóstico&quot;&gt;Roteiro de Diagnóstico&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Dosagem de b-HCG e TSH&lt;/li&gt;
+  &lt;li&gt;Desafio ou teste da progesterona: administra progesterona por 7-10 dias e após a retirada espera-se a menstruação. Se houver a menstruação, indica que as genitalias internas são femininas e faltava apenas o estímulo e a retirada da progesterona para haver a menstruação. Ou seja, essa paciente possui anovulação crônica, não ovula e por isso não há produção da progesterona pelo corpo lúteo.&lt;/li&gt;
+  &lt;li&gt;Desafio do estrógeno: dd ponto de vista hormonal, se dá tudo que o endométrio precisa para menstruar&lt;/li&gt;
+  &lt;li&gt;…&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;primeiro-compartimento-causa-canalicular&quot;&gt;Primeiro compartimento, causa canalicular&lt;/h2&gt;
+&lt;p&gt;Negativas para ambos os testes de progesterona e estrógeno. O tratamento é cirúrgico com correção do canal.&lt;/p&gt;
+
+&lt;h3 id=&quot;síndrome-de-rokitanski&quot;&gt;Síndrome de Rokitanski&lt;/h3&gt;
+&lt;p&gt;Agenesia completa ou incompleta dos órgãos derivados dos ductos de Miller (agenesia Mulleriana), como trompas, útero e 2/3 superiores da vagina. O terço inferior da vagina vem dos túberculos genitais e não dos ductos de Muller.&lt;/p&gt;
+
+&lt;p&gt;Em cerca de 25% dos casos pode ocorrer o acometimento do sistema urinário. Em cerca de 12% dos casos há acometimento lombar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ao exame físico:&lt;/strong&gt; o fenótipo é feminino, a genitália externa é feminina e normal, incluindo a pilificação. Contudo, a vagina é curta (de no máximo 4cm). As gonadas ovarianas são normais e podem ser vistas no USG.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prognóstico:
+    &lt;ul&gt;
+      &lt;li&gt;Infertilidade pela incapacidade de gestação intra-útero (ainda pode transplantar seus óvulos para um útero de aluguel)&lt;/li&gt;
+      &lt;li&gt;Dificuldade para relações sexuais&lt;/li&gt;
+      &lt;li&gt;Amenorréia para o resto da vida?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;insensibilidade-aos-androgênio&quot;&gt;Insensibilidade aos androgênio&lt;/h3&gt;
+&lt;p&gt;Também chamada de Síndrome de Morris. O cariótipo é 46XY mas como há uma insensibilidade aos receptores de testosterona, não há desenvolvimento da genitalia e características masculinas. Assim, ocorre a formação da genitália feminina (o “default” da espécie humana).&lt;/p&gt;
+
+&lt;p&gt;Pode ser completa ou incompleta. A incompleta envolve toda a gama do intersexo, com uma grande varaiação de caracteríticas pendendo mais pra um sexo ou outro.&lt;/p&gt;
+
+&lt;p&gt;Tendo testículo, há produção do MIF (fator de inibição Mulleriano) que inibe o desenvolvimento dos órgãos derivados dos ductos de Miller. A apresentação é a ausência da pilificação.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;FSH e LH estão elevados&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se a insesibilidade for imcpleta, deve-se retirar logo os testículos para evitar a virilização. Contudo, se for completa, aguarda-se até a puberdade para a retirada beneficiando-se da conversão periférica dos androgênios.&lt;/p&gt;
+
+&lt;p&gt;Diferenciação com Rokitanski: na insensibilidade a testosterona está acima dos níveis femininos, mas é o cariótipo o padrão ouro para o diagnóstico e diferenciação.&lt;/p&gt;
+
+&lt;p&gt;Tratanento: terapia de reposição hormonal após a retirada das gônadas testiculares.&lt;/p&gt;
+
+&lt;h3 id=&quot;síndrome-de-asherman&quot;&gt;Síndrome de Asherman&lt;/h3&gt;
+&lt;p&gt;Após manipulação uterina, principalmente a curetagem. E principalmente após curetagem pós-parto devido ao efeito do hipoestrogenismo.&lt;/p&gt;
+
+&lt;h3 id=&quot;hímen-imperfurado&quot;&gt;Hímen imperfurado&lt;/h3&gt;
+
+&lt;h2 id=&quot;segundo-compartimento-causas-ovarianos&quot;&gt;Segundo compartimento, causas ovarianos&lt;/h2&gt;
+&lt;p&gt;São as disgenesias gonadais.&lt;/p&gt;
+
+&lt;p&gt;Hipogonadismo: estatura baixa a elevada estatura?&lt;/p&gt;
+
+&lt;h3 id=&quot;síndrome-de-turner&quot;&gt;Síndrome de Turner&lt;/h3&gt;
+&lt;h3 id=&quot;síndrome-de-swyer&quot;&gt;Síndrome de Swyer&lt;/h3&gt;
+
+&lt;h3 id=&quot;falência-ovariana-prematura&quot;&gt;Falência ovariana prematura&lt;/h3&gt;
+
+&lt;h2 id=&quot;derivada-dos-centros-superiores&quot;&gt;Derivada dos centros superiores&lt;/h2&gt;
+&lt;h3 id=&quot;hiperprolactinemia-1&quot;&gt;Hiperprolactinemia&lt;/h3&gt;
+
+&lt;p&gt;A prolactina é inibida pela dopamina.&lt;/p&gt;
+
+&lt;p&gt;Ocorre hipoestrogenismo que acarreta em problemas para a mulher, como osteoporose e infertilidade.&lt;/p&gt;
+
+&lt;p&gt;Prolactina &amp;gt; 100 indica-se o exame de imagem para avaliação da hipófise, principalmente RNM.&lt;/p&gt;
+
+&lt;p&gt;prolactinoma: hemianopsia bitemporal&lt;/p&gt;
+
+&lt;h3 id=&quot;síndrome-de-sheehan&quot;&gt;Síndrome de Sheehan&lt;/h3&gt;
+&lt;p&gt;Após a hemorragia pós-parto, a hipvolemia acarreta em necrose da hipófise que durante a gravidez está aumentada de tamanho e mais suscetível à isquemia e hipóxia.&lt;/p&gt;
+
+&lt;h3 id=&quot;síndrome-de-kallman&quot;&gt;Síndrome de Kallman&lt;/h3&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Tumores de bexiga</title><link href="http://localhost:4000/urologia/2019/05/16/tumores-de-bexiga.html" rel="alternate" type="text/html" title="Tumores de bexiga" /><published>2019-05-16T00:00:00-03:00</published><updated>2019-05-16T00:00:00-03:00</updated><id>http://localhost:4000/urologia/2019/05/16/tumores-de-bexiga</id><content type="html" xml:base="http://localhost:4000/urologia/2019/05/16/tumores-de-bexiga.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;    &lt;ol&gt;
@@ -1912,508 +2473,4 @@ nas pacientes com infertilidade associada a endometriose.&lt;sup id=&quot;fnref:
       &lt;p&gt;Portaria de 2016 &lt;a href=&quot;#fnref:portaria&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:portaria:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:portaria:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:portaria:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Leiomioma uterino</title><link href="http://localhost:4000/ginecologia/leiomioma-uterino.html" rel="alternate" type="text/html" title="Leiomioma uterino" /><published>2019-05-04T00:00:00-03:00</published><updated>2019-05-04T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/leiomioma-uterino</id><content type="html" xml:base="http://localhost:4000/ginecologia/leiomioma-uterino.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#anatomia-patológica&quot; id=&quot;markdown-toc-anatomia-patológica&quot;&gt;Anatomia patológica&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-clínico&quot; id=&quot;markdown-toc-tratamento-clínico&quot;&gt;Tratamento clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-cirúrgico&quot; id=&quot;markdown-toc-tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#leiomioma-e-gravidez&quot; id=&quot;markdown-toc-leiomioma-e-gravidez&quot;&gt;Leiomioma e gravidez&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É uma neoplasia benigna da musculatura lisa miometrial, a mais frequente no sexo feminino e o mais comum dos tumores pélvicos.&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;São também a mais frequente indicação de hosterectomia (1/3 das indidações).&lt;sup id=&quot;fnref:cisam:1&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;25% das mulheres possuem&lt;/li&gt;
-  &lt;li&gt;Caráter hereditário (pacientes cujas mães fizeram histerectomia por miomatose têm 50% mais risco de apresentarem)&lt;/li&gt;
-  &lt;li&gt;Estrógeno dependente, ou seja, regridem após a puberdade&lt;/li&gt;
-  &lt;li&gt;Tabagismo é fator protetor! (↓20-50%)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fatores de risco:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;40-50 anos&lt;/li&gt;
-      &lt;li&gt;↑2-3x na incidência em negras (e podem surgir em idades mais precoces, como 30 anos)&lt;/li&gt;
-      &lt;li&gt;Nuliparidade&lt;/li&gt;
-      &lt;li&gt;Menarca precoce (↑2x risco)&lt;/li&gt;
-      &lt;li&gt;Obesidade&lt;/li&gt;
-      &lt;li&gt;Álcool&lt;/li&gt;
-      &lt;li&gt;Uso de hormônios esteróides sem oposição de progesterona&lt;/li&gt;
-      &lt;li&gt;Maior tempo de exposição a estrógenos&lt;/li&gt;
-      &lt;li&gt;História familiar&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;São neoplasias clonais, todas as células originam-se de um único miócito. Fatores genéticos multifatoriais parecem estar envolvidos.&lt;sup id=&quot;fnref:cisam:2&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Porção uterina:
-    &lt;ul&gt;
-      &lt;li&gt;Corporais&lt;/li&gt;
-      &lt;li&gt;Ístmicos&lt;/li&gt;
-      &lt;li&gt;Cervicais (mais raros, 2-3%)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Camada uterina: lembrar que podem envolver mais de uma camada
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Submucosos&lt;/strong&gt;: abaulam a cavidade endometrial, o mais sintomático, mais sangramento e mais ocorrência de infertilidade (sua presença dificulta a implantação)&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Subserosos&lt;/strong&gt;: distorcem a serosa uterina, o que apresenta menos sintomas
-        &lt;ul&gt;
-          &lt;li&gt;Intraligamentares: quando cresccem entre os folhetos largo&lt;/li&gt;
-          &lt;li&gt;Parasitas: quando aderem a outros órgãos e deles derivam vascularização&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Intramurais&lt;/strong&gt;: estão contidos na espessura miometrial&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os miomas submucosos e subserosos podem ser sésseis ou pediculados, dependendo da implantação no útero. Os submucosos pediculados podem ser expulsos da cavidade, os chamados &lt;em&gt;miomas paridos&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ginecologia/leiomioma/mioma.png&quot; alt=&quot;Classificação&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;anatomia-patológica&quot;&gt;Anatomia patológica&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tumoração esférica&lt;/li&gt;
-  &lt;li&gt;Coloração branco a rósea-amarelada&lt;/li&gt;
-  &lt;li&gt;Superfície bocelada&lt;/li&gt;
-  &lt;li&gt;Consistência elástica com superfície de corte apresentando fibras de aspécto trabecular espiralado&lt;/li&gt;
-  &lt;li&gt;Pseudo-cápsula&lt;/li&gt;
-  &lt;li&gt;Degenerações podem alterar a histologia dos miomas (geralmente o mioma cresce mais que o supprimento sanguíneo)
-    &lt;ul&gt;
-      &lt;li&gt;Hialina: a mais comum! substituição das fibras musculares por tecido colagenoso branco ou translúcido&lt;/li&gt;
-      &lt;li&gt;Cística: liquefação da hialina formando áreas de conteúdo cístico&lt;/li&gt;
-      &lt;li&gt;Rubra: comum na gravidez e sob tratamento pregestínico, quando o mioma sofre infartos hemorrágicos&lt;/li&gt;
-      &lt;li&gt;Mucóide: cistos com material gelatinoso&lt;/li&gt;
-      &lt;li&gt;Gordurosa: por acúmulo de gordura&lt;/li&gt;
-      &lt;li&gt;Calcificação: acúmulo de cálcio&lt;/li&gt;
-      &lt;li&gt;Necrose: comum nos pediculados&lt;/li&gt;
-      &lt;li&gt;Sarcomatosa: maligna!&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Frequentemente assintomáticos&lt;/li&gt;
-  &lt;li&gt;Sangramento genital&lt;/li&gt;
-  &lt;li&gt;Infertilidade (se distorcem a cavidade encometrial ou o trajeto das trompas)&lt;/li&gt;
-  &lt;li&gt;Dor (raramente)&lt;/li&gt;
-  &lt;li&gt;Metrorragia: sangramentos fora do ciclo menstrual&lt;/li&gt;
-  &lt;li&gt;Hipermenorragia: aumento do fluxo menstrual&lt;/li&gt;
-  &lt;li&gt;Sintomas compressivos&lt;/li&gt;
-  &lt;li&gt;Aumento de volume abdominal&lt;/li&gt;
-  &lt;li&gt;Complicações agudas: como torção ou degeneração carnosa (simulando um abdome agudo)&lt;/li&gt;
-  &lt;li&gt;Pode ocorrer sinais de hipovolemia e anemia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;p&gt;É em essência: anamnese + exame físico + USG-TV&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Toque vaginal: aumento de volume, superfície irregular, bocelada, endurecida, menor mobilidade (pólipos são mais móveis)&lt;/li&gt;
-  &lt;li&gt;Exame especular dos miomas paridos&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG-TV:&lt;/strong&gt; aspécto ecográfico de &lt;strong&gt;nódulo sólido hipoecóico&lt;/strong&gt; (embora possam ser mistos ou hiperecóicos)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Histerosonografia:&lt;/strong&gt; para avaliar a posição exata dos miomas submucosos&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Histeroscopia:&lt;/strong&gt; permite visualizar os submucosos e diferenciar miomas de pólipos endometriais
-    &lt;ul&gt;
-      &lt;li&gt;Leiomiomas: formações firmes, nacaradas, superfície lisa ou bocelada, reverstimento endometrial normal ou atrofiado&lt;/li&gt;
-      &lt;li&gt;Pólipos: móveis, maleáveis, congestos e com revestimento endometrial semelhante ao endométrio adjacente&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Histerosalpingografia:&lt;/strong&gt; descoberta acidental do mioma após exame por outros motivos. É um exame radiológico e não realizado de rotina.&lt;/li&gt;
-  &lt;li&gt;RNM: usada para mapear os miomas, auxiliando na decisão terapêutica como a definição da técnica cirúrgica&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Laparoscopia:&lt;/strong&gt; também não é para fins diagnósticos, mas pode revelar miomas quando realizadas por outros motivos. Permite visualizar miomas subserosos e intramurais.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;p&gt;A escolha do tratamento depende da intensidade dos sintomas, proximidade da menopausa, interesse reprodutivo da mulher. Para pacientes assintomáticas, a recomendação é a &lt;strong&gt;conduta expectante&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-clínico&quot;&gt;Tratamento clínico&lt;/h3&gt;
-&lt;p&gt;se baseia na estrógeno-dependência do tumor. O tratamento é quase como uma antecipação da menopausa.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Análogos de GnRH:&lt;/strong&gt; usados por 4-6 meses reduzem em 30-60% o volume dos miomas. Contudo, após sua supensão eles voltam a crescer. O tratamento prolongado é limitado devido aos efeitos do hipoestrogenismo com a redução da massa óssea, “é como uma menopausa precoce”.
-    &lt;ul&gt;
-      &lt;li&gt;Recomendado no pré-opetarório&lt;/li&gt;
-      &lt;li&gt;Para retardar a cirurgia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Outros antagonistas do GnRH:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Danazol&lt;/strong&gt;: não reduz o tamaho do mioma. Efeito hipoestrogênico e androgênico.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Gestrinona&lt;/strong&gt;: reduz os miomas. Efeito hipoestrogênico e androgênico.&lt;/li&gt;
-      &lt;li&gt;Inibidores da aromatase&lt;/li&gt;
-      &lt;li&gt;DIU de levonorgestrel&lt;/li&gt;
-      &lt;li&gt;AINEs&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Progesterona&lt;/strong&gt;: não reduz os miomas, serve para controlar o sangramento com baixo custo. (Não se coloca DIU em paciente com mioma submucoso?)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;ACO:&lt;/strong&gt; em mulheres com discreta menorragia e/ou dismenorreía (aliviar a sintomatologia e evitar cirurgia)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Miomectomia:&lt;/strong&gt; retirada apenas do mioma quando a paciente tem desejo de procriar e é sintomática ou o mioma é causa de infertilidade.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Via histeroscópia:&lt;/strong&gt; para submucosos, &amp;lt; 5cm e cujo ponto mais externo dista 5mm da serosa uterina (↓risco de perfuração uterina)
-        &lt;ul&gt;
-          &lt;li&gt;Para miomas que não respondem a esses critérios a cirugia pode ser feita em dois tempos. 1 tempo remove o componente submucoso e o 2 tempo espera a migração do restante para a mucosa e faz a segunda remoção&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Via laparoscópica:&lt;/strong&gt; indicada para volume uterino &amp;lt; 16s, poucos e pequenos miomas &amp;lt; 8cm com localização subserosa.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Via laparotômica:&lt;/strong&gt; para miomas intramurais profundos, miomas múltiplos, útero &amp;gt; 16s. Taxas de gestação viável em torno de 50%, o problema é a ↑possibilidade de recidiva. Aderências e sangramentos são as principais complicações do procedimento.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Embolização das artérias uterinas:&lt;/strong&gt; pacientes com prole definida mas desejo de preservar o útero ou que tenham elevado risco cirúrgico.
-    &lt;ul&gt;
-      &lt;li&gt;Isquemia irreversível!&lt;/li&gt;
-      &lt;li&gt;Cuidado com o pós-embolização: síndrome pós-embolização, endometrite e dor&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ablação de endométrio: raramemte utilizada, mais para resolver e controlar o sangramento, não é um tratamento propriamente dito. É a destruição do endométrio.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Histerectomia:&lt;/strong&gt; pacientes com prole definida
-    &lt;ul&gt;
-      &lt;li&gt;Subtotal: preservando o colo&lt;/li&gt;
-      &lt;li&gt;Total&lt;/li&gt;
-      &lt;li&gt;Via laparotômica: útero &amp;gt; 16s&lt;/li&gt;
-      &lt;li&gt;Via laparoscópica: útero &amp;lt; 14s até 350cm³&lt;/li&gt;
-      &lt;li&gt;Via vaginal: útero &amp;lt; 300cm³ e mobilidade uterina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Se a paciente fez miomectomia laparoscópica ou laparotômica, o parto deve ser de cesárea para prevenir o risco de rótura uterina.[^med]&lt;/p&gt;
-
-&lt;h2 id=&quot;leiomioma-e-gravidez&quot;&gt;Leiomioma e gravidez&lt;/h2&gt;
-&lt;p&gt;Os miomas podem crescer durante a gravidez, geralmente apenas até a primeira metade da gestação.&lt;/p&gt;
-
-&lt;p&gt;A degeneração carnosa é mais comum durante a gravidez, e a cística durante o puerpério.&lt;/p&gt;
-
-&lt;p&gt;A influência dos miomas na gravidez depende de sua localização, de sua relação com a placenta e de seu volume. As gestações associadas aos miomas transcorrem sem anormalidades em 70 a 80% dos casos.&lt;sup id=&quot;fnref:cisam:3&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Miomas submucosos: ↑risco gestacional (principalmente quando a placenta se insere proximamente)&lt;/li&gt;
-  &lt;li&gt;Complicações hemorrágicas são mais comuns
-    &lt;ul&gt;
-      &lt;li&gt;DPP&lt;/li&gt;
-      &lt;li&gt;Acretismo placentário e/ou hipotônia uterina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;↑incidência de abortamento e parto prematuro&lt;/li&gt;
-  &lt;li&gt;Não deve ser feito tratamento para o mioma durante a gravidez&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:cisam&quot;&gt;
-      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:cisam:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:cisam:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:cisam:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Massas renais</title><link href="http://localhost:4000/urologia/massas-renais.html" rel="alternate" type="text/html" title="Massas renais" /><published>2019-05-02T00:00:00-03:00</published><updated>2019-05-02T00:00:00-03:00</updated><id>http://localhost:4000/urologia/massas-renais</id><content type="html" xml:base="http://localhost:4000/urologia/massas-renais.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lesões-benignas&quot; id=&quot;markdown-toc-lesões-benignas&quot;&gt;Lesões benignas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lesões-malignas&quot; id=&quot;markdown-toc-lesões-malignas&quot;&gt;Lesões malignas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#carcinoma-de-células-renais&quot; id=&quot;markdown-toc-carcinoma-de-células-renais&quot;&gt;Carcinoma de células renais&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-de-imagem&quot; id=&quot;markdown-toc-exames-de-imagem&quot;&gt;Exames de imagem&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#usg&quot; id=&quot;markdown-toc-usg&quot;&gt;USG&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tc&quot; id=&quot;markdown-toc-tc&quot;&gt;TC&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rm&quot; id=&quot;markdown-toc-rm&quot;&gt;RM&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;50% das massas renais são diagnósticadas de forma incidental por exames de imagem como o USG.&lt;/p&gt;
-
-&lt;p&gt;Classificação:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Imagem
-    &lt;ul&gt;
-      &lt;li&gt;Sólidas&lt;/li&gt;
-      &lt;li&gt;Mistas&lt;/li&gt;
-      &lt;li&gt;Císticas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Histopatológico
-    &lt;ul&gt;
-      &lt;li&gt;Benignas&lt;/li&gt;
-      &lt;li&gt;Malignas&lt;/li&gt;
-      &lt;li&gt;Inflamatórias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;p&gt;Os sinais e sintomas não auxiliam no diagnóstico das massas renais.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Tríade clássica&lt;/strong&gt;: (só em 10% dos casos)
-    &lt;ul&gt;
-      &lt;li&gt;Hematúria&lt;/li&gt;
-      &lt;li&gt;Massa renal palpável&lt;/li&gt;
-      &lt;li&gt;Dor em flanco&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dor abdmonal, lombar ou no flanco&lt;/li&gt;
-  &lt;li&gt;Hematúria&lt;/li&gt;
-  &lt;li&gt;ITU&lt;/li&gt;
-  &lt;li&gt;HAS&lt;/li&gt;
-  &lt;li&gt;Hemorragia&lt;/li&gt;
-  &lt;li&gt;Massa palpável&lt;/li&gt;
-  &lt;li&gt;Sintomas inespecíficos
-    &lt;ul&gt;
-      &lt;li&gt;Emagrecimento&lt;/li&gt;
-      &lt;li&gt;Febre&lt;/li&gt;
-      &lt;li&gt;Sudorese noturna&lt;/li&gt;
-      &lt;li&gt;Varicocele direita&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Laboratório:
-    &lt;ul&gt;
-      &lt;li&gt;↑VHS&lt;/li&gt;
-      &lt;li&gt;Hipercalcemia&lt;/li&gt;
-      &lt;li&gt;Hb &amp;lt; 10 M e &amp;lt; 12 H&lt;/li&gt;
-      &lt;li&gt;Eritrocitose&lt;/li&gt;
-      &lt;li&gt;Trombocitose&lt;/li&gt;
-      &lt;li&gt;↑FA&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lesões-benignas&quot;&gt;Lesões benignas&lt;/h2&gt;
-&lt;p&gt;Lesões mesenquimais benignas do rim, incluindo leiomiomas, fibromas, lipomas e hamartomas, são relativamente incomuns.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Cisto simples&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;As mais comuns (70%)&lt;/li&gt;
-      &lt;li&gt;Podem ser múltiplos ou solitários&lt;/li&gt;
-      &lt;li&gt;50% dos paciente &amp;lt; 50 anos possuem&lt;/li&gt;
-      &lt;li&gt;Sintomáticos ou assintomáticos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Adenomas&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;pequenas lesões geralmente identificadas em autópsias (muito pequenas para a detecção com exames de imagem)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Oncocitomas&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;3-7% de todas as massas renais sólidas&lt;/li&gt;
-      &lt;li&gt;Tumores epiteliais derivados dos túbulos distais dos néfrons&lt;/li&gt;
-      &lt;li&gt;3-32% das vezes coexistem com CCR&lt;/li&gt;
-      &lt;li&gt;Dificil de diferenciar com o CCR&lt;/li&gt;
-      &lt;li&gt;Devem ser tratados como se fossem CCR
-        &lt;ul&gt;
-          &lt;li&gt;Nefrectomia parcial para lesões &amp;lt; 4cm&lt;/li&gt;
-          &lt;li&gt;radical para &amp;gt; 4cm&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;TC com necrose central que se estende para a periferia com roda de carroça é um achado característico&lt;/li&gt;
-      &lt;li&gt;Biópsia pode ser indicada&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Angiolipoma&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;3% das lesões sólidas renais&lt;/li&gt;
-      &lt;li&gt;Quantidade variada de tecido adiposo, músculo liso e vasos de parede espessada&lt;/li&gt;
-      &lt;li&gt;presença de pequena quantidade
-de gordura dentro de uma lesão renal na TC (praticamente exclui CCR e confirma o
-diagnóstico de angiomiolipoma)&lt;/li&gt;
-      &lt;li&gt;↑em mulheres (2:1)&lt;/li&gt;
-      &lt;li&gt;Raramente ocorre antes da puberdade&lt;/li&gt;
-      &lt;li&gt;50% dos pacientes com esclerose tuberosa desenvolvem angiomiolipoma em geral bilateral e multicêntrico&lt;/li&gt;
-      &lt;li&gt;TTO: acompanhamento clínico e radiológico.
-        &lt;ul&gt;
-          &lt;li&gt;Se &amp;lt; 4cm, rápido crescimento ou tendencia ao sangramento, nefrectomia parcial ou enucleação (se possível)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nefroma cístico multilocular&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Ocorre mais nos 2-3 e 40-50 anos de vida (incidência bimodal)&lt;/li&gt;
-      &lt;li&gt;na infância é ↑H e na vida adulta ↑M&lt;/li&gt;
-      &lt;li&gt;Sintomatologia é mais frequente em adultos do que crianças&lt;/li&gt;
-      &lt;li&gt;Não dá para diferenciar com clínica ou imagem do CCR em adultos ou tumor de Wilms cístico em crianças&lt;/li&gt;
-      &lt;li&gt;Tratamento semelhante ao CCR&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;lesões-malignas&quot;&gt;Lesões malignas&lt;/h2&gt;
-&lt;p&gt;Os tumores renais correspondem a 2-3% de todas as neoplasias malignas do adulto. O adenocarcinoma renal incide em cerca de 80-90% das massas renais malignas.&lt;/p&gt;
-
-&lt;p&gt;Na criança, o tumor de Wilms é a neoplasia abdominal mais frequente, 95%dos turmores renais.&lt;/p&gt;
-
-&lt;h3 id=&quot;carcinoma-de-células-renais&quot;&gt;Carcinoma de células renais&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Epidemiologia
-    &lt;ul&gt;
-      &lt;li&gt;85% de todas as neoplasias renais primárias&lt;/li&gt;
-      &lt;li&gt;O mais letal dos CAs urológicos&lt;/li&gt;
-      &lt;li&gt;H2:1M&lt;/li&gt;
-      &lt;li&gt;↑50-70 anos&lt;/li&gt;
-      &lt;li&gt;40-50% encontrados incidentalmente&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Etiologia
-    &lt;ul&gt;
-      &lt;li&gt;Origem no túbulo contorcido proximal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Fatores de risco
-    &lt;ul&gt;
-      &lt;li&gt;Tabagismo&lt;/li&gt;
-      &lt;li&gt;Obesidade&lt;/li&gt;
-      &lt;li&gt;Doença cística&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Prognóstico
-    &lt;ul&gt;
-      &lt;li&gt;Varia com o subtipo histológico&lt;/li&gt;
-      &lt;li&gt;De melhor para pior: Cromófobos, cromofílicos, células claras, ductos coletores e qualquer subtipo com diferenciação sarcomatóide&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Imagens
-    &lt;ul&gt;
-      &lt;li&gt;Na TC todos apresentam algum grau de realce pelo meio de contraste (diferenciando dos cistos simples)
-        &lt;ul&gt;
-          &lt;li&gt;Focos de necrose, calcificação e hemorragia podem ser vistos (principalmente nos maiores)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Cintilografia óssea para avaliar metástases&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;TX: Tumor primário não
-disponível ou classificado&lt;/li&gt;
-  &lt;li&gt;T0: Sem evidencia de Tumor
-primário&lt;/li&gt;
-  &lt;li&gt;T1a: Tumor limitado ao rim,
-&amp;lt;4cm de diâmetro&lt;/li&gt;
-  &lt;li&gt;T1b: Tumor limitado ao rim
-entre 4 e 7cm de diâmetro&lt;/li&gt;
-  &lt;li&gt;T2: Tumor limitado ao rim,
-maior que 7cm&lt;/li&gt;
-  &lt;li&gt;T3a: Tumor invade a gordura
-perirrenal e/ou adrenal&lt;/li&gt;
-  &lt;li&gt;T3b: Tumor invade a v.renal
-ou  cava infradiafragmática&lt;/li&gt;
-  &lt;li&gt;T3c: Tumor invade a veia cava supradiafragmática&lt;/li&gt;
-  &lt;li&gt;T4: Tumor invade além da
-cápsula de Gerota&lt;/li&gt;
-  &lt;li&gt;NX: Linfonodos não podem
-ser classificados&lt;/li&gt;
-  &lt;li&gt;N0: Sem metástase em linfonodos regionais&lt;/li&gt;
-  &lt;li&gt;N1: Metástase em um único
-linfonodo regional&lt;/li&gt;
-  &lt;li&gt;N2: Metástase em mais de um
-linfonodo regional&lt;/li&gt;
-  &lt;li&gt;MX: Metástase a distância não
-pode ser classificado&lt;/li&gt;
-  &lt;li&gt;M0: Sem metástase a distância&lt;/li&gt;
-  &lt;li&gt;M1: Metástase a distância
-presente&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Agrupado em estágios:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Estágio I – T1 N0 M0&lt;/li&gt;
-  &lt;li&gt;Estágio II – T2 N0 M0&lt;/li&gt;
-  &lt;li&gt;Estágio III – T3 ou N1 M0&lt;/li&gt;
-  &lt;li&gt;Estágio IV – T4 ou N2 ou M1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Cirúrgico
-    &lt;ul&gt;
-      &lt;li&gt;Nefrectomia radical (via aberta ou laparoscópica): retirada do rim, fáscia de Gerota e linfonodos circundantes e da glândula suprarrenal (no tumor de polo superior)&lt;/li&gt;
-      &lt;li&gt;Nefrectomia parcial quando há:
-        &lt;ul&gt;
-          &lt;li&gt;Lesões polares &amp;lt; 4cm&lt;/li&gt;
-          &lt;li&gt;Casos de rim único&lt;/li&gt;
-          &lt;li&gt;Tumores bilaterais&lt;/li&gt;
-          &lt;li&gt;Rim contralateral ameaçado por outras doenças&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Não existe indicação de tratamento adjuvante ou neoadjuvante para pacientes com câncer renal localizado. Nenhum tratamento sistêmico é satisfatório para o carcinoma renal avançado (metastático ou irressecável).&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-de-imagem&quot;&gt;Exames de imagem&lt;/h2&gt;
-&lt;h3 id=&quot;usg&quot;&gt;USG&lt;/h3&gt;
-&lt;p&gt;Muito utilizado e, por vezes, o primeiro a revelar a massa de forma incidental.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Diagnostica apenas 26% das massas &amp;lt; 1cm&lt;/li&gt;
-  &lt;li&gt;83% massas &amp;gt; 3cm&lt;/li&gt;
-  &lt;li&gt;O principal papel da US consiste em detectar lesões parenquimatosas
-focais e classificá-las em 3 categorias:
-    &lt;ul&gt;
-      &lt;li&gt;definitivamente um cisto simples&lt;/li&gt;
-      &lt;li&gt;definitivamente um nódulo sólido&lt;/li&gt;
-      &lt;li&gt;indeterminada (cística, porém não um cisto simples).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Nos casos de nódulo renal ou indeterminado deve-se continuar a investigação com a TC.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tc&quot;&gt;TC&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;As massas renais sólidas que captam contraste na TC podem ser consideradas malignas&lt;/li&gt;
-  &lt;li&gt;É possível avaliar:
-    &lt;ul&gt;
-      &lt;li&gt;Densidade tecidual&lt;/li&gt;
-      &lt;li&gt;Vascularização de massas renais&lt;/li&gt;
-      &lt;li&gt;Diferenciação dos cistos renais&lt;/li&gt;
-      &lt;li&gt;Auxiliar a programação cirúrgica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Classificação de Bosniak&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Tipo I: cisto benigno simples de parede fina, não septado, sem calcificações ou componentes sólidos. Lesão bem delimitada, adjacente ao parênquima sem
-espessamento ou realce de parede e com densidade semelhante a da água. Não há risco
-de malignidade.&lt;/li&gt;
-      &lt;li&gt;Tipo II: Cisto benigno com septos finos. Calcificações ou não na parede ou nos septos. Alta atenuação. Inferiores a 3 cm com margens irregulares não captantes.&lt;/li&gt;
-      &lt;li&gt;Tipo IIF: Cisto com septos finos, captação mínima de contraste nos septos e/ou paredes que podem ter espessamento mínimo. Pode conter calcificações nodulares e espessas sem captação de contraste. Não possuem captação em tecidos moles. Lesões intra-renais &amp;gt;3cm são também incluídas nesta categoria desde que sejam não captantes e bem delimitadas. Pode haver até 15% de chance de malignidade.&lt;/li&gt;
-      &lt;li&gt;Tipo III: Lesões císticas indeterminadas pode demonstrar septos mais espessos, calcificações maiores e discreta impregnação periférica pelo contraste. O risco de malignidade é significativo, chegando a 25-50%.&lt;/li&gt;
-      &lt;li&gt;Tipo IV: Lesões com espessamento de parede não uniforme ou hiperdenso, nódulos grandes ou densos na parede ou componentes claramente sólidos nas lesões císticas e apresentam captação de contraste. Há 95% de chance de malignidade.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pacientes com Bosniak I e II podem ser acompanhados clinicamente com USG, sem necessidade de cirugia. Já o IIF, deve ser acompanhado com TC com 6 meses, 1 e 2 anos.&lt;/p&gt;
-
-&lt;p&gt;Os tipos III ou IV devem ser abordados cirurgicamenrte. Devido ao alto risco.&lt;/p&gt;
-
-&lt;h3 id=&quot;rm&quot;&gt;RM&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Indicada quando há perda de função renal ou quando o contraste não pode ser usado&lt;/li&gt;
-  &lt;li&gt;Distinção entre carcinoma e oncocitoma (apresenta cápsula e cicatriz central estrelada)&lt;/li&gt;
-  &lt;li&gt;Método de escolha em nefropatas crônicos e pacientes com alergia ao contraste iodado&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
