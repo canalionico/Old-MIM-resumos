@@ -1,4 +1,274 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-20T23:06:38-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sangramentos do segundo trimestre</title><link href="http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre.html" rel="alternate" type="text/html" title="Sangramentos do segundo trimestre" /><published>2019-05-20T00:00:00-03:00</published><updated>2019-05-20T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-22T19:41:31-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Nefropatia diabética</title><link href="http://localhost:4000/nefrologia/2019/05/22/nefropatia-diabetica.html" rel="alternate" type="text/html" title="Nefropatia diabética" /><published>2019-05-22T00:00:00-03:00</published><updated>2019-05-22T00:00:00-03:00</updated><id>http://localhost:4000/nefrologia/2019/05/22/nefropatia-diabetica</id><content type="html" xml:base="http://localhost:4000/nefrologia/2019/05/22/nefropatia-diabetica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#estágios&quot; id=&quot;markdown-toc-estágios&quot;&gt;Estágios&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-de-nefropatia-incipiente&quot; id=&quot;markdown-toc-fase-de-nefropatia-incipiente&quot;&gt;Fase de nefropatia incipiente&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-de-nefropatia-clínica&quot; id=&quot;markdown-toc-fase-de-nefropatia-clínica&quot;&gt;Fase de nefropatia clínica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-de-insuficiência-renal-terminal&quot; id=&quot;markdown-toc-fase-de-insuficiência-renal-terminal&quot;&gt;Fase de insuficiência renal terminal&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco-e-patogênese&quot; id=&quot;markdown-toc-fatores-de-risco-e-patogênese&quot;&gt;Fatores de risco e patogênese&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fatores-não-genéticos&quot; id=&quot;markdown-toc-fatores-não-genéticos&quot;&gt;Fatores não genéticos&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#hiperglicemia&quot; id=&quot;markdown-toc-hiperglicemia&quot;&gt;Hiperglicemia&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#has&quot; id=&quot;markdown-toc-has&quot;&gt;HAS&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fatores-genéticos&quot; id=&quot;markdown-toc-fatores-genéticos&quot;&gt;Fatores genéticos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#rastreamento&quot; id=&quot;markdown-toc-rastreamento&quot;&gt;Rastreamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#prevenção-primária&quot; id=&quot;markdown-toc-prevenção-primária&quot;&gt;Prevenção primária&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prevenção-secundária&quot; id=&quot;markdown-toc-prevenção-secundária&quot;&gt;Prevenção secundária&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#resumão&quot; id=&quot;markdown-toc-resumão&quot;&gt;Resumão&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É uma complicação crônica do DM que acomete cerca de 35% dos pacientes com DM1 e é a principal causa de morte nesse grupo (↑risco em 100x).&lt;/p&gt;
+
+&lt;p&gt;Nos pacientes com DM2 a prevalência é de 10-40%, não é a principal causa de morte mas aumenta o risco em 5x.&lt;/p&gt;
+
+&lt;p&gt;Nos EUA, cerca de 40% dos pacientes em diálise possuem DM. No Brasil gira em torno de 15-26% e aumentando.&lt;/p&gt;
+
+&lt;h2 id=&quot;estágios&quot;&gt;Estágios&lt;/h2&gt;
+&lt;p&gt;O curso da ND evolui em três estágios:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fase de nefropatia incipiente&lt;/li&gt;
+  &lt;li&gt;Fase de nefropatia clínica&lt;/li&gt;
+  &lt;li&gt;Fase de insuficiência terminal: ocorre uremia e necessita de diálise ou transplante renal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fase-de-nefropatia-incipiente&quot;&gt;Fase de nefropatia incipiente&lt;/h3&gt;
+&lt;p&gt;caracterizada por níveis aumentados de excreção urinária de albumina, 20-200 microgramas/min, definido como &lt;strong&gt;microalnuminúria&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A progressão para proteinúria (fase de nefropatia clínica) ocorre em apenas 30-40% dos pacientes com DM. Podendo haver regressão para um estado de normoalbuminúria.&lt;/p&gt;
+
+&lt;p&gt;Pacientes microalbuminúricos já apresentam alterações histopatológicas renais, como&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;espessamento da membrana basal glomerular&lt;/li&gt;
+  &lt;li&gt;aumento do volume do mesângio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nos pacientes com DM tipo 2 e microalbuminúria tem sido descrita uma heterogeneidade nas alterações estruturais renais, desde ausência de anormalidades até presença de alterações compatíveis com glomerulopatia diabética típica.&lt;/p&gt;
+
+&lt;h3 id=&quot;fase-de-nefropatia-clínica&quot;&gt;Fase de nefropatia clínica&lt;/h3&gt;
+&lt;p&gt;É definica como uma excreção urinária de albumina (EUA) &amp;gt; ou = 200 microgramas/min ou proteinúria de 24h &amp;gt; ou = 500 mg. É uma fase de &lt;strong&gt;proteinúria&lt;/strong&gt; e &lt;strong&gt;macroalbuminúria&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nesta fase da doença renal, os pacientes DM tipo 2 em
+geral apresentam:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;idade avançada&lt;/li&gt;
+  &lt;li&gt;obesidade&lt;/li&gt;
+  &lt;li&gt;DM há mais de 10 anos&lt;/li&gt;
+  &lt;li&gt;HAS (em cerca de 70-90% dos pacientes)&lt;/li&gt;
+  &lt;li&gt;hipercolesterolemia&lt;/li&gt;
+  &lt;li&gt;mau controle glicêmico&lt;/li&gt;
+  &lt;li&gt;outras complicações crônicas do DM, como neuropatia periférica, neuropatia autonômica e retinopatia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nos pacientes com DM1, a partir do diagnóstico de nefropatia clínica, ocorre uma redução nos valores de TFG da ordem de 1 ml/min/mês. Embora possa haver uma grande variação interindividual, em um mesmo paciente esta perda costuma ser de mesma magnitude. A
+perda de função renal em pacientes com DM tipo 2 é mais heterogênea, podendo ocasionalmente ser mais lenta,
+com valor de declínio da TFG de aproximadamente 0,5 ml/min/mês.&lt;/p&gt;
+
+&lt;p&gt;Os principais determinantes da velocidade de declínio da TFG são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;os níveis da PA&lt;/li&gt;
+  &lt;li&gt;os níveis de colesterol sérico&lt;/li&gt;
+  &lt;li&gt;o hábito de fumar&lt;/li&gt;
+  &lt;li&gt;o controle glicêmico&lt;/li&gt;
+  &lt;li&gt;o nível de proteinúria (&amp;gt; 2 g de proteínas totais em 24 h)&lt;/li&gt;
+  &lt;li&gt;o grau de lesão histopatológica renal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fatores genéticos como polimorfismos do gene da enzima conversora da angiotensina (ECA) e da ectonucleotídeo pirofosfatase-fos-fodiesterase 1 (ENPP1), previamente denominada PC-1, parecem estar envolvidos na velocidade de perda de função renal, determinando um pior prognóstico.&lt;/p&gt;
+
+&lt;p&gt;Sem intervenção terapêutica específica, em cerca de 7 a 10 anos após o surgimento de proteinúria persistente os pacientes necessitarão de tratamento substitutivo da função renal.&lt;/p&gt;
+
+&lt;h3 id=&quot;fase-de-insuficiência-renal-terminal&quot;&gt;Fase de insuficiência renal terminal&lt;/h3&gt;
+&lt;p&gt;Discutida na parte de IRA e IRC&lt;/p&gt;
+
+&lt;h2 id=&quot;fatores-de-risco-e-patogênese&quot;&gt;Fatores de risco e patogênese&lt;/h2&gt;
+&lt;h3 id=&quot;fatores-não-genéticos&quot;&gt;Fatores não genéticos&lt;/h3&gt;
+&lt;h4 id=&quot;hiperglicemia&quot;&gt;Hiperglicemia&lt;/h4&gt;
+&lt;p&gt;Os produtos de glicação não-enzimática podem causar alterações quantitativas e qualitativas nos componentes da matriz extracelular, contribuindo para a ocorrência de oclusão glomerular.&lt;/p&gt;
+
+&lt;p&gt;A hiperglicemia promove um
+aumento da atividade na via dos polióis. Nesta via, a glicose é reduzida à sorbitol, sob ação da aldose redutase. O acúmulo do sorbitol ocasionaria estresse hiperosmótico para as células, diminuição do mioinositol intracelular e redução da atividade da ATPase Na/K dependente, levando ao dano celular.&lt;/p&gt;
+
+&lt;h4 id=&quot;has&quot;&gt;HAS&lt;/h4&gt;
+&lt;p&gt;Estudos prospectivos confirmam que a HAS é um fator de risco importante para o desenvolvimento da ND e também o fator promotor de progressão mais relevante.&lt;/p&gt;
+
+&lt;p&gt;Estudos de intervenção têm confirmado os benefícios do tratamento da HAS na prevenção das complicações microvasculares.&lt;/p&gt;
+
+&lt;p&gt;O controle rigoroso da PA em pacientes com DM2 promoveu uma diminuição do surgimento das complicações microvasculares.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fatores não genéticos:
+    &lt;ul&gt;
+      &lt;li&gt;mau controle glicêmico e pressórico&lt;/li&gt;
+      &lt;li&gt;hipercolesterolemia&lt;/li&gt;
+      &lt;li&gt;e outros fatores não tão bem estabelecidos, como:
+        &lt;ul&gt;
+          &lt;li&gt;tabagismo&lt;/li&gt;
+          &lt;li&gt;fatores alimentares
+            &lt;ul&gt;
+              &lt;li&gt;consumo de proteínas &amp;gt; 20%&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;fatores hemodinâmicos, como a hiperfiltração glomerular (↑TFG) e alterações da homeostase pressórica.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A hipótese hemodinâmica
+postula que a hiperfiltração glomerular ocasionaria dano
+direto à parede capilar, além de provocar um aumento na
+passagem de macromoléculas e depósito destas no mesângio. Estes eventos levariam a alterações na permeabilidade
+da membrana e, posteriormente, ao fechamento capilar glomerular, através da glomeruloesclerose. Os capilares menos afetados sofreriam uma hiperfiltração compensatória, fechando um círculo que favoreceria o dano glomerular progressivo.&lt;/p&gt;
+
+&lt;h3 id=&quot;fatores-genéticos&quot;&gt;Fatores genéticos&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;História familiar&lt;/li&gt;
+  &lt;li&gt;Predisposição genética à HAS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+&lt;p&gt;Raramente, a ND ocorre com pouco tempo de DM, devendo o rastreamento iniciar-se após cinco anos de duração em pacientes com DM1.&lt;/p&gt;
+
+&lt;p&gt;Existem evidências de que a duração de DM pré-puberal possa ser importante no desenvolvimento destas complica-
+ções, como por exemplo para a retinopatia. Portanto,
+pacientes pré-púberes com longa duração de DM devem ser também avaliados para ND.&lt;/p&gt;
+
+&lt;p&gt;Em pacientes com DM2, o rastreamento da ND deve ser feito por ocasião do diagnóstico de DM. Em pacientes com DM1 e DM2, o rastreamento deve ser repetido a intervalos de um ano.&lt;/p&gt;
+
+&lt;h3 id=&quot;rastreamento&quot;&gt;Rastreamento&lt;/h3&gt;
+&lt;p&gt;O rastreamento deve começar com a realização de exame comum de urina e urocultura em amostra casual de urina.&lt;/p&gt;
+
+&lt;p&gt;Na ausência de hematúria e de infecção urinária e presença de proteínas no exame comum de urina, deve-se realizar &lt;strong&gt;dosagem de proteínas totais em urina de 24 horas&lt;/strong&gt;, e na ausência de proteinúria, proceder à &lt;strong&gt;dosagem de albuminúria&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ao invés de utilizar a presença ou não de proteínas no exame comum de urina, recomendamos a
+&lt;strong&gt;medida da concentração de proteínas totais por método quantitativo na mesma amostra de urina casual&lt;/strong&gt;. Valores &amp;gt; ou = 430 mg/L apresentam uma sensibilidade de 100% e especificidade de 79,6% para o diagnóstico de nefropatia clínica.&lt;/p&gt;
+
+&lt;p&gt;Este diagnóstico deve ser confirmado com dosagem de proteínas totais em urina de 24 horas. Se o valor de proteínas totais na amostra casual de urina for &amp;lt; 430 mg/L, deve-se realizar medida de albuminúria na mesma amostra de urina.&lt;/p&gt;
+
+&lt;p&gt;Valores de albuminúria &amp;gt; ou = 17 mg/L são diagnósticos de microalbuminúria, e valores menores do que este são considerados normais.&lt;/p&gt;
+
+&lt;p&gt;A presença de microalbuminúria deve ser também confirmada em urina de 24h.&lt;/p&gt;
+
+&lt;p&gt;Nos pacientes com diagnóstico de micro ou macroalbuminúria deve ser realizada a &lt;strong&gt;medida da TFG&lt;/strong&gt; pelo menos anualmente para avaliação de perda de função renal ou de eficácia de intervenção terapêutica.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/nefrologia/nd/diag.jpeg&quot; alt=&quot;imagem&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;fórmula de Cockroft e Gault [(140 – idade) x peso/72 x creatinina; em mulheres x 0,85]&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fatores que aumentam os valores de albuminúria
+    &lt;ul&gt;
+      &lt;li&gt;Mau controle metabólico&lt;/li&gt;
+      &lt;li&gt;ITU&lt;/li&gt;
+      &lt;li&gt;Exercício físico&lt;/li&gt;
+      &lt;li&gt;PA elevada&lt;/li&gt;
+      &lt;li&gt;Obesidade maciça&lt;/li&gt;
+      &lt;li&gt;Insuficiência cardíaca&lt;/li&gt;
+      &lt;li&gt;Doença aguda ou febre&lt;/li&gt;
+      &lt;li&gt;Hematúria&lt;/li&gt;
+      &lt;li&gt;Ingesta protéica&lt;/li&gt;
+      &lt;li&gt;Ingesta de água&lt;/li&gt;
+      &lt;li&gt;Mesntruação&lt;/li&gt;
+      &lt;li&gt;Leucorréia&lt;/li&gt;
+      &lt;li&gt;Gestação&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;h3 id=&quot;prevenção-primária&quot;&gt;Prevenção primária&lt;/h3&gt;
+&lt;p&gt;A prevenção primária consiste em evitar a instalação da ND através da remoção ou modificação dos fatores de risco conhecidos.&lt;/p&gt;
+
+&lt;p&gt;Emprega-se o controle intensivo dos níveis glicêmicos e da pressão arterial.&lt;/p&gt;
+
+&lt;p&gt;O controle estrito da pressão arterial reduz
+cerca de 30% o risco de aparecimento da microalbuminúria.&lt;/p&gt;
+
+&lt;p&gt;Em pacientes com DM tipo 1 normoalbuminúricos foi demonstrado que a adoção de uma dieta à base de carne de galinha e peixe reduziu a hiperfiltração glomerular tanto quanto uma dieta hipoprotéica. Entretanto, o significado a longo prazo deste efeito não é conhecido e até o presente não existem evidências de que intervenções dietéticas evitem o surgimento da ND.&lt;/p&gt;
+
+&lt;h3 id=&quot;prevenção-secundária&quot;&gt;Prevenção secundária&lt;/h3&gt;
+&lt;p&gt;O tratamento da ND visa normalizar os níveis de EUA
+retardando ou revertendo o processo evolutivo da ND. A
+efetividade das diferentes intervenções terapêuticas pode
+variar conforme o estágio da ND.&lt;/p&gt;
+
+&lt;p&gt;Os pacientes com nefropatia clínica devem ser avalia-
+dos pelo menos a cada três meses e deve ser feito todo o
+esforço para a obtenção de um bom controle pressórico e
+glicêmico. Paralelamente, os fatores de risco cardiovascu-
+lar e de progressão da ND modificáveis devem ser agres-
+sivamente tratados, como a dislipidemia e o tabagismo.&lt;/p&gt;
+
+&lt;p&gt;Deve ser enfatizado o uso de aspirina em
+pacientes micro e macroalbuminúricos como estratégia de prevenção da doença cardiovascular. Além dis-
+so, é importante pesquisar e tratar adequadamente as demais complicações associadas à ND, como a retinopatia e a neuropatia periférica e autonômica.&lt;/p&gt;
+
+&lt;p&gt;Em pacientes com microalbuminúria e DM a adoção de
+uma dieta hipoprotéica reduz os níveis de EUA. Entretanto, não existem estudos em longo prazo que demonstrem que esse efeito seja persistente e que esses pacientes não evoluam para nefropatia clínica.&lt;/p&gt;
+
+&lt;p&gt;Já em fases avançadas da ND quando ocorre uremia, a redução de proteínas da dieta, apesar de
+promover alívio sintomático, não modifica a evolução para a terapia de substituição renal.&lt;/p&gt;
+
+&lt;p&gt;A recomendação atual em relação a pacientes com nefropatia clínica é a prescrição de uma dieta com moderada restrição de proteínas, cerca de 0,8 g/kg/dia. Se esta dieta não diminuir a velocidade de declínio da TFG, sugerese a adoção de restrição mais intensa (0,6 g/kg/dia).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/nefrologia/nd/tto.jpeg&quot; alt=&quot;imagem&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;No entanto, níveis de pressão arterial diastólica menores do que 70 mmHg devem ser evitados, pois nestes casos pode ocorrer perda do efeito benéfico da redução da pressão arterial.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Os inibidores da ECA estão indicados para o tratamento da ND (micro e macroalbuminúria) mesmo em indivíduos normotensos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em pacientes com DM tipo 1 e microalbuminúria, ocorre
+redução nos níveis de EUA com o uso de inibidores da
+ECA, independente da redução dos níveis pressóricos.&lt;/p&gt;
+
+&lt;p&gt;Nos pacientes diabéticos com nefropatia clínica, os ini-
+bidores da ECA, além de diminuir os níveis de proteinú-
+ria (+ ou - 30%), também são capazes de reduzir a velocida-
+de de decaimento da TFG.&lt;/p&gt;
+
+&lt;p&gt;Mais importante é a observação de que em pacientes com DM tipo 1 e nefropatia clínica e níveis de creatinina sérica &amp;lt; 2,5 mg/dl, estas drogas (captopril) reduzem em 50% a necessidade de diálise ou de transplante renal ou de morte (risco combinado) em um período de quatro anos de uso.&lt;/p&gt;
+
+&lt;p&gt;No entanto, não existe comprovação de redução de mortalidade isoladamente com o uso de inibidores da ECA em pacientes com ND.&lt;/p&gt;
+
+&lt;p&gt;A favor de uma ação nefroprotetora específica dos inibidores da ECA está a observação de que, ao serem comparados com beta-bloqueadores (metoprolol), os inibidores da ECA (enalapril) causam uma maior redução dos níveis de proteinúria, para os mesmos níveis de redução da pressão arterial.&lt;/p&gt;
+
+&lt;p&gt;Recentemente, foi também confirmada a eficácia dos antagonistas dos receptores da angiotensina II (irbesartan) em promover redução da incidência de macroalbuminúria em pacientes com DM tipo 2 microalbuminúricos.&lt;/p&gt;
+
+&lt;p&gt;Nesses estudos, houve redução da incidência de duplicação dos valores de creatinina sérica e de insuficiência renal terminal, embora não tenha sido documentada redução da mortalidade.&lt;/p&gt;
+
+&lt;p&gt;Portanto, com base nestes recentes grandes estudos randomizados, a Associação Americana de Diabetes recomenda o uso de antagonistas dos receptores da angiotensina II em pacientes com DM tipo 2 micro ou
+macroalbuminúricos.&lt;/p&gt;
+
+&lt;h2 id=&quot;resumão&quot;&gt;Resumão&lt;/h2&gt;
+&lt;p&gt;A detecção da ND é importante pela sua prevalência,
+morbidade e mortalidade associadas. A obtenção de um
+controle metabólico e pressórico estrito é até o momento a
+medida mais eficaz para prevenção de sua instalação. A
+microalbuminúria, que representa a fase mais precoce da
+doença renal diabética, é potencialmente reversível através do uso de inibidores da ECA e antagonistas dos receptores da angiotensina II e controle pressórico rigoroso. Nos
+pacientes com nefropatia clínica e HAS, a desaceleração da
+perda de função renal é possível através do tratamento
+anti-hipertensivo adequado. Além disso, independente da
+presença de HAS, os inibidores da ECA e os antagonistas
+dos receptores da angiotensina II estão indicados para o
+tratamento da ND. Finalmente, em especial na presença de
+nefropatia clínica, a restrição do conteúdo protéico da di-
+eta está indicada.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Sangramentos do segundo trimestre</title><link href="http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre.html" rel="alternate" type="text/html" title="Sangramentos do segundo trimestre" /><published>2019-05-20T00:00:00-03:00</published><updated>2019-05-20T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#placenta-prévia&quot; id=&quot;markdown-toc-placenta-prévia&quot;&gt;Placenta prévia&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#classificação-rcog-2011&quot; id=&quot;markdown-toc-classificação-rcog-2011&quot;&gt;Classificação RCOG 2011&lt;/a&gt;&lt;/li&gt;
@@ -2270,207 +2540,4 @@ Uma vez caracterizada, rigoroso controle hidroeletrolítico deve ser mantido.&lt
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 
-&lt;p&gt;INCOMPLETO!!!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Endometriose</title><link href="http://localhost:4000/ginecologia/endometriose.html" rel="alternate" type="text/html" title="Endometriose" /><published>2019-05-04T00:00:00-03:00</published><updated>2019-05-04T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/endometriose</id><content type="html" xml:base="http://localhost:4000/ginecologia/endometriose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#medicamentoso&quot; id=&quot;markdown-toc-medicamentoso&quot;&gt;Medicamentoso&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cirúrgico&quot; id=&quot;markdown-toc-cirúrgico&quot;&gt;Cirúrgico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É a presença de tecido endometrial funcionante fora da localização anatômica habitual. Esse tecido ectópico responde aos estímulos cíclicos dos hormônios ovarianos.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mulheres em idade fértil (raramente na pós-menopausa)&lt;/li&gt;
-  &lt;li&gt;X = 37 anos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;História familiar&lt;/li&gt;
-  &lt;li&gt;Menarca precoce&lt;/li&gt;
-  &lt;li&gt;Nuliparidade&lt;/li&gt;
-  &lt;li&gt;Ciclos menstruais curtos&lt;/li&gt;
-  &lt;li&gt;Obesidade&lt;/li&gt;
-  &lt;li&gt;Alcoolismo&lt;/li&gt;
-  &lt;li&gt;Cafeína&lt;/li&gt;
-  &lt;li&gt;Em jovens:anomalias obstrutivas congênitas do trato genital&lt;/li&gt;
-  &lt;li&gt;Colo mais longo e apertado (falicitaria o refluxo menstrual)&lt;/li&gt;
-  &lt;li&gt;Útero retrovertido&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Teoria da implantação: transporte de células endometriais por menstruação retrógrada (Sampson)
-    &lt;ul&gt;
-      &lt;li&gt;Contudo, 90% das M têm menst. retrog. e só 10-15% têm endometriose]&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Teoria imunológica: propõe que o sistema imune falha em retirar as células endometriais que chegam no peritônio, levando a endometriose&lt;/li&gt;
-  &lt;li&gt;Teoria da metaplasia celômica: propõe que o mesotélio peritoneal sofre transformação metaplásica em tecido endometrial (pode dar no homem!), já que ambos derivam do epitélio celômico.&lt;/li&gt;
-  &lt;li&gt;Teoria das células Mullerianas remanescentes&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Esterilidade:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;“piscina de fatores hormonais no peritônio”&lt;/li&gt;
-      &lt;li&gt;Distorção da anatomia pélvica&lt;/li&gt;
-      &lt;li&gt;Função peritoneal alterada: ↑fluido peritoneal, ↑macrófagos ativados, ↑prostaglandinas, IL-1, TNF e proteases; presença de inibidor de captura ovular&lt;/li&gt;
-      &lt;li&gt;Função hormonal alterada&lt;/li&gt;
-      &lt;li&gt;Anormalidades endócrinas e ovulatórias: síndrome do folículo luteinizado e não roto, dinfunção na fase luteal, crescimento folicular anormal e elevação prematura e múltipla do LH&lt;/li&gt;
-      &lt;li&gt;Impedimento da implantação&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Principais localizações: os ovários, fundo de saco posterior e anterior, folheto posterior do ligamento largo, ligamentos uterossacros, útero, tubas uterinas, cólon sigmoide, apêndice e ligamentos redondos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Assintomáticas&lt;/li&gt;
-  &lt;li&gt;Dismenorréia (o sintoma mais comum)&lt;/li&gt;
-  &lt;li&gt;Dispaurineia&lt;/li&gt;
-  &lt;li&gt;Dor pélvica&lt;/li&gt;
-  &lt;li&gt;Infertilidade&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
-&lt;p&gt;Dor à palpação de fundo de saco e de ligamentos uterossacros, palpação de nódulos ou
-massas anexiais, útero ou anexos fixos em posição retrovertida podem ser alguns dos achados ao exame
-físico.&lt;sup id=&quot;fnref:portaria&quot;&gt;&lt;a href=&quot;#fn:portaria&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Inspeção vaginal: atenção para parede vaginal superior, fórnix posterior e cérvice&lt;/li&gt;
-  &lt;li&gt;Exame especular: podem ser vistos implantes endometrióides azulados na vagina (fórnix posterior)&lt;/li&gt;
-  &lt;li&gt;Exame colposcópico com biópsia dirigida&lt;/li&gt;
-  &lt;li&gt;Toque bimanual: atenção ao fórnix porterior, lig. útero-sacros, posicionamento, mobilidadee tamanho do útero, dor associada com movimentação ou durante palpação&lt;/li&gt;
-  &lt;li&gt;Palpação reto-vaginal: avaliando o septo reto-vaginal, o fórnix posterior e os lig. útero-sacros&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;USG-TV&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;USG trans-retal e de vias urinárias: em casos excepcionais&lt;/li&gt;
-  &lt;li&gt;RM&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Videolaparoscopia:&lt;/strong&gt; o padrão ouro! para visualizar e confirmar histologicamente as lesões endometrióides em todo o abdome&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dosagem de CA125&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;patologia&quot;&gt;Patologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Lesão típica:&lt;/strong&gt; pode ser composta por glândulas, estroma e debris endometriais. Lesão negra, azulada ou arroxeada, pregueada, associada a uma cicatrização em forma de estrela, decorrente do sangramento tecidual e retenção de pigmentos sanguíneos
-    &lt;ul&gt;
-      &lt;li&gt;Evolução natural: vermelha → preta → branca&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Vermelhas&lt;/strong&gt;: as mais ativas e com maior poder de invasão, lesões em &lt;em&gt;chama de vela&lt;/em&gt;, excrescências glandulares, lesões petéquiais e áreas de hipervascularização (neoangiogênese)&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Pretas&lt;/strong&gt;: as menos ativas, nódulos pretos, castanho-escuros, azulados ou como pequenos cistos contendo hemorragia antiga&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Brancas&lt;/strong&gt;: opacificações brancas, aderências subovarianas, lesões tipo &lt;em&gt;café-com-leite&lt;/em&gt;, e defeitos do peritôneo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lesões atípicas:&lt;/strong&gt; são mais frequentes e geralmente mais ativas que as típicas
-    &lt;ul&gt;
-      &lt;li&gt;Vesículas&lt;/li&gt;
-      &lt;li&gt;Lesões em chama de vela&lt;/li&gt;
-      &lt;li&gt;Defeitos peritoneais&lt;/li&gt;
-      &lt;li&gt;Finas aderências&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;p&gt;O estadiamento mais comumente usado é a classificação revisada da American Society of Reproductive
-Medicine (ASRM), que leva em consideração o tamanho, a profundidade e a localização dos implantes
-endometrióticos e a gravidade das aderências.&lt;sup id=&quot;fnref:portaria:1&quot;&gt;&lt;a href=&quot;#fn:portaria&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Estágio 1 (doença mínima): implantes isolados e sem aderências significativas;&lt;/li&gt;
-  &lt;li&gt;Estágio 2 (doença leve): implantes superficiais com menos de 5 cm, sem aderências significativas;&lt;/li&gt;
-  &lt;li&gt;Estágio 3 (doença moderada): múltiplos implantes, aderências peritubárias e periovarianas evidentes;&lt;/li&gt;
-  &lt;li&gt;Estágio 4 (doença grave): múltiplos implantes superficiais e profundos, incluindo endometriomas, aderências densas e firmes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Não há correlação entre o estágio e o nível de dor ou sintomas.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;p&gt;Deve considerar faixa etária, desejo de gravidez, severidade dos sintomas, tipos e localizações das lesões, estáfio da doença, resposta a tratamentos prévios.&lt;/p&gt;
-
-&lt;h3 id=&quot;medicamentoso&quot;&gt;Medicamentoso&lt;/h3&gt;
-&lt;p&gt;O foco principal do tratamento medicamentoso é a manipulação hormonal com intenção de produzir uma
-pseudogravidez, pseudomenopausa ou anovulação crônica, criando um ambiente inadequado para o
-crescimento e manutenção dos implantes da endometriose.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;ACO:&lt;/strong&gt; ajudam na reabsorção do endométrio ectópico, simulando um regime de pseudogravidez. Não passar de 6 mêses de uso ininterrupto [Kátia].
-    &lt;ul&gt;
-      &lt;li&gt;Aumento da dor no início da terapia (efeito do estrógeno)&lt;/li&gt;
-      &lt;li&gt;Eficaz para controle da dor&lt;/li&gt;
-      &lt;li&gt;Previne recorrências&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Prostagênio:&lt;/strong&gt; promove decidualização e atrofia do endométrio ectópico (feed-back negativo com o estradiol)
-    &lt;ul&gt;
-      &lt;li&gt;Acetato de medroxiprogesterona 10-30mg/d 3x/d VO por 6m OU 150g IM a cada 3m&lt;/li&gt;
-      &lt;li&gt;Acetato de megestrol, 40mg/d por 24s&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Danazol:&lt;/strong&gt; androgênico, inibe a secreção do GnRH, LH e FSH e a esteroidogênese, levando a amenorréia. 600-800mg/d 3x/d (meia vida curta)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gestrinona:&lt;/strong&gt; androgênico, 2,5mg VO 2-3x/s (meia vida longa)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Análogos do GnRH&lt;/strong&gt;&lt;sup id=&quot;fnref:portaria:2&quot;&gt;&lt;a href=&quot;#fn:portaria&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;Gosserrelina: 3,6 mg por via subcutânea, mensalmente; ou 10,8 mg por via subcutânea a cada 3 meses.&lt;/li&gt;
-  &lt;li&gt;Leuprorrelina: 3,75 mg por via intramuscular, mensalmente; ou 11,25 mg intramuscular a cada 3 meses.&lt;/li&gt;
-  &lt;li&gt;Triptorrelina: 3,75 mg por via intramuscular, mensalmente ou 11,25 mg intramuscular a cada 3 meses.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Inibidores da aromatase&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;DIU de progesterona&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
-&lt;p&gt;O tratamento cirúrgico é indicado quando os sintomas são graves, incapacitantes, quando não houve
-melhora com tratamento empírico com contraceptivos orais ou progestágenos, em casos de endometriomas,
-de distorção da anatomia das estruturas pélvicas, de aderências, de obstrução do trato intestinal ou urinário e
-nas pacientes com infertilidade associada a endometriose.&lt;sup id=&quot;fnref:portaria:3&quot;&gt;&lt;a href=&quot;#fn:portaria&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Abordagem:
-    &lt;ul&gt;
-      &lt;li&gt;conservadora: preserva útero e ovários&lt;/li&gt;
-      &lt;li&gt;definitiva: histerectomia com ou sem ooferectomia bilateral&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Videolaparoscopia:&lt;/strong&gt; o método de escolha, menor morbidade, pode associar diagnóstico e tratamento.
-    &lt;ul&gt;
-      &lt;li&gt;diâmetro &amp;lt; 3cm: vaporização e remoção de aderências&lt;/li&gt;
-      &lt;li&gt;diâmetro &amp;gt; 3cm:
-        &lt;ol&gt;
-          &lt;li&gt;Irrigação e drenagem + tto clínico com análogos de GnRH por 12s&lt;/li&gt;
-          &lt;li&gt;Nova abordagem e remoção de aderências&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Esterilidade:&lt;/strong&gt; o tratamento é individualizado.
-    &lt;ul&gt;
-      &lt;li&gt;Estádio I ou II: tto expectante
-        &lt;ul&gt;
-          &lt;li&gt;Em jovens: superovulação ou inseminação intra-útero após laparoscopia&lt;/li&gt;
-          &lt;li&gt;Adultos &amp;gt; 35a: inseminação intra-útero, superovulação ou FIVET&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Estádio III: FIVET&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:portaria&quot;&gt;
-      &lt;p&gt;Portaria de 2016 &lt;a href=&quot;#fnref:portaria&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:portaria:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:portaria:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:portaria:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;INCOMPLETO!!!&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>

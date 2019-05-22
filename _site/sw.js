@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/nefrologia/2019/05/22/nefropatia-diabetica.html',
+      
         '/obstetricia/2019/05/20/sangramento-segundo-trimestre.html',
       
         '/ginecologia/2019/05/18/amenorreia.html',
@@ -277,6 +279,10 @@ self.addEventListener('install', function (event) {
         '/assets/mastologia/derrame-papilar/tab2.jpeg'
       
         '/assets/nefrologia/drc/relogio.jpeg'
+      
+        '/assets/nefrologia/nd/diag.jpeg'
+      
+        '/assets/nefrologia/nd/tto.jpeg'
       
         '/assets/neonatologia/disturbios-metabolicos/flux1.jpeg'
       
