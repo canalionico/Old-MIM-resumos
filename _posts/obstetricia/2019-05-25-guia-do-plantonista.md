@@ -2,6 +2,7 @@
 title: Guia do plantonista em obstetrícia
 author: Filipe Mosca
 Layout: post
+categories: obstetricia
 ---
 
 # Semiologia
