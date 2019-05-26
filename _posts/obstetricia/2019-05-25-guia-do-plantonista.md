@@ -1,11 +1,17 @@
 ---
-title: Técnica de cesariana
+title: Guia do plantonista em obstetrícia
 author: Filipe Mosca
 Layout: post
 ---
 
-## Intrumentação
+# Semiologia
+* IG
+  * Termo
+  * Pré-termo
+  * Pós-termo
 
+# Cesariana
+## Intrumentação
 * Foster
 * Halsted
 * Allis
