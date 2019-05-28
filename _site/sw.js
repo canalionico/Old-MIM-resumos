@@ -29,9 +29,25 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/ginecologia/2019/05/27/anovulacao-cronica.html',
+      
+        '/obstetricia/2019/05/25/rpmo.html',
+      
+        '/obstetricia/2019/05/25/guia-do-plantonista.html',
+      
+        '/obstetricia/2019/05/23/vias-arereas-e-iot.html',
+      
+        '/2019/05/22/dispneia-de-causa-cirurgica.html',
+      
         '/nefrologia/2019/05/22/nefropatia-diabetica.html',
       
+        '/obstetricia/2019/05/21/pp.html',
+      
+        '/obstetricia/2019/05/21/dpp.html',
+      
         '/obstetricia/2019/05/20/sangramento-segundo-trimestre.html',
+      
+        '/2019/05/20/disturbios-repiratorios.html',
       
         '/ginecologia/2019/05/18/amenorreia.html',
       
@@ -302,6 +318,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/hpp/tab.png'
       
+        '/assets/obstetricia/pp/dd.jpeg'
+      
         '/assets/obstetricia/pp/dpp.jpeg'
       
         '/assets/obstetricia/pp/pp.jpeg'
@@ -311,6 +329,16 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/pp/pp3.jpeg'
       
         '/assets/obstetricia/pp/pp4.jpeg'
+      
+        '/assets/obstetricia/pp/tto.jpeg'
+      
+        '/assets/obstetricia/rpmo/img.jpeg'
+      
+        '/assets/obstetricia/rpmo/img2.jpeg'
+      
+        '/assets/obstetricia/rpmo/img3.jpeg'
+      
+        '/assets/obstetricia/rpmo/img4.jpeg'
       
         '/browserconfig.xml'
       
