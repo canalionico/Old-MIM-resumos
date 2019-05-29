@@ -1,4 +1,193 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-28T00:08:16-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Anovulação crônica</title><link href="http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica.html" rel="alternate" type="text/html" title="Anovulação crônica" /><published>2019-05-27T00:00:00-03:00</published><updated>2019-05-27T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica</id><content type="html" xml:base="http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-29T13:26:03-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Dengue</title><link href="http://localhost:4000/infectologia/2019/05/29/dengue.html" rel="alternate" type="text/html" title="Dengue" /><published>2019-05-29T00:00:00-03:00</published><updated>2019-05-29T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/29/dengue</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/29/dengue.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#caso-clínico&quot; id=&quot;markdown-toc-caso-clínico&quot;&gt;Caso clínico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#objetivos&quot; id=&quot;markdown-toc-objetivos&quot;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#dengue&quot; id=&quot;markdown-toc-dengue&quot;&gt;Dengue&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-diferencial&quot; id=&quot;markdown-toc-diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;caso-clínico&quot;&gt;Caso clínico&lt;/h2&gt;
+&lt;p&gt;M.A.S., 48 anos, feminino, médica, residente em Recife-PE. Procurou atendimento médico em 13/1/2019, relatando que
+há cerca de três dias iniciou com febre alta, cefaleia, artralgia e leve mialgia. Tomou analgésico e antitérmico por conta própria. No atendimento apresentava persistência da febre, anorexia, intensa astenia, dor abdominal, palidez acentuada e mal-estar geral. Refere vômitos e diarreia. Refere ainda deslocamento para zona rural (ecoturismo). Nega vacinação contra febre amarela.&lt;/p&gt;
+
+&lt;p&gt;Exame físico geral:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Desidratada (+/4+),&lt;/li&gt;
+  &lt;li&gt;PA 90X60 mm Hg&lt;/li&gt;
+  &lt;li&gt;Abdome doloroso à palpação em QSD&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;objetivos&quot;&gt;Objetivos&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Quais as principais hipóteses diagnósticas?
+    &lt;ul&gt;
+      &lt;li&gt;Colecistite aguda&lt;/li&gt;
+      &lt;li&gt;hepatite aguda&lt;/li&gt;
+      &lt;li&gt;dengue&lt;/li&gt;
+      &lt;li&gt;febre amarela&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quais exames complementares solicitar primeiramente?
+    &lt;ul&gt;
+      &lt;li&gt;Hemograma completo&lt;/li&gt;
+      &lt;li&gt;Urina de rotina&lt;/li&gt;
+      &lt;li&gt;Ultrassonografia abdominal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quais hipóteses você matém?
+    &lt;ul&gt;
+      &lt;li&gt;Hepatite&lt;/li&gt;
+      &lt;li&gt;Dengue&lt;/li&gt;
+      &lt;li&gt;Febre amarela (A imunocromatografia é um teste de triagem com baixa sensibilidade e especificidade necessita de confirmação por técnicas mais sensíveis. Ex: ELISA)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quais outros exames complementares você solicitaria?
+    &lt;ul&gt;
+      &lt;li&gt;Marcadores virais de hepatite&lt;/li&gt;
+      &lt;li&gt;IgM para febre amarela&lt;/li&gt;
+      &lt;li&gt;Gama GT&lt;/li&gt;
+      &lt;li&gt;Tempo de protrombina&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/dengue/ref1.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/infectologia/dengue/ref2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;dengue&quot;&gt;Dengue&lt;/h2&gt;
+
+&lt;h3 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Prova do laço:&lt;/strong&gt; deve ser realizada na triagem, obrigatoriamente, em todo paciente com suspeita de dengue que não apresente sangramento espontâneo. Será positiva se houver &lt;strong&gt;20 ou mais petéquias em adultos&lt;/strong&gt; e &lt;strong&gt;10 ou mais em crianças&lt;/strong&gt;. Pode ser negativa em obesos e durante o choque.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dengue com sinais de alarme:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vômitos persistentes&lt;/li&gt;
+  &lt;li&gt;Dor abdominal intensa (referida ou à palpação) e contínua&lt;/li&gt;
+  &lt;li&gt;Acúmulo de líquidos (ascite, derrame pleural, derrame pericárdico)&lt;/li&gt;
+  &lt;li&gt;Hepatomegalia maior do que 2 cm abaixo do rebordo costal&lt;/li&gt;
+  &lt;li&gt;Hipotensão postural e/ou lipotimia&lt;/li&gt;
+  &lt;li&gt;Letargia e/ou irritabilidade&lt;/li&gt;
+  &lt;li&gt;Aumento progressivo do hematócrito&lt;/li&gt;
+  &lt;li&gt;Sangramento de mucosa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/dengue/dd.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Neurotoxoplasmose</title><link href="http://localhost:4000/infectologia/2019/05/29/neurotoxoplasmose.html" rel="alternate" type="text/html" title="Neurotoxoplasmose" /><published>2019-05-29T00:00:00-03:00</published><updated>2019-05-29T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/29/neurotoxoplasmose</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/29/neurotoxoplasmose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#caso&quot; id=&quot;markdown-toc-caso&quot;&gt;Caso&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#o-que-pedir&quot; id=&quot;markdown-toc-o-que-pedir&quot;&gt;O que pedir?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#essa-lesão-é-característica-de-que-donça&quot; id=&quot;markdown-toc-essa-lesão-é-característica-de-que-donça&quot;&gt;Essa lesão é característica de que donça?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta?&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#objetivos&quot; id=&quot;markdown-toc-objetivos&quot;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#neurotoxoplasmose&quot; id=&quot;markdown-toc-neurotoxoplasmose&quot;&gt;Neurotoxoplasmose&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico:&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#labortatório&quot; id=&quot;markdown-toc-labortatório&quot;&gt;Labortatório&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;caso&quot;&gt;Caso&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Há 3 semanas:
+    &lt;ul&gt;
+      &lt;li&gt;Hemiparesia:&lt;/li&gt;
+      &lt;li&gt;Cefaléia&lt;/li&gt;
+      &lt;li&gt;Tontura&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Convulsões no dia que deu entrada no serviço&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;o-que-pedir&quot;&gt;O que pedir?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;TAC de crânio:&lt;/strong&gt; lesão única hipoatenuante, no lobo frontal direito, em giro frontal superior, parasagital, com realce periférico irregular após o contraste, observando pequena imagem nodular adjacente e com relação a superfície interna da parede da lesão, projetada para interior da área hipoatenuante, com provável necrose interlesional, está lesão mede cerca de 3 cm x 3 cm x 2 cm.&lt;/p&gt;
+
+&lt;h3 id=&quot;essa-lesão-é-característica-de-que-donça&quot;&gt;Essa lesão é característica de que donça?&lt;/h3&gt;
+&lt;p&gt;Solicitado teste para HIV que deu reagente e o CD4 = 87 células/mm³&lt;/p&gt;
+
+&lt;h3 id=&quot;conduta&quot;&gt;Conduta?&lt;/h3&gt;
+&lt;p&gt;TARV&lt;/p&gt;
+
+&lt;h3 id=&quot;objetivos&quot;&gt;Objetivos&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Discutir diagnósticos diferenciais&lt;/li&gt;
+  &lt;li&gt;Discutir exames que poderiam ser pedidos para confirmar o resultado da TC&lt;/li&gt;
+  &lt;li&gt;Discutir neurotoxoplasmose&lt;/li&gt;
+  &lt;li&gt;Discutir os achados de imagem da neurotoxoplasmose&lt;/li&gt;
+  &lt;li&gt;Discutir por que o HIV é predisponente de neurotoxoplasmose&lt;/li&gt;
+  &lt;li&gt;Discutir os principais riscos da neurotoxoplasmose&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;neurotoxoplasmose&quot;&gt;Neurotoxoplasmose&lt;/h2&gt;
+&lt;p&gt;É uma doença causada pelo protozoário Toxoplasma gondii transmitida principalmente por animais domésticos como o gato através do contato do ser humano com as fezes contaminadas desses animais e também através de alimentos de origem animal contaminados e mal cozidos. Normalmente a toxoplasmose é combatida de forma espontânea pelo sistema imunológico dos seres humanos sem maiores complicações. A neurotoxoplasmose, em contrapartida, é uma manifestação grave da toxoplasmose, que pode acometer pessoas com uma imunidade deprimida e observada quando o protozoário instala-se no sistema nervoso central ou no cérebro, podendo acometê-lo difusamente ou formar abcessos discretos. Considera-se um fator importante para o desenvolvimento da neurotoxoplasmose a reativação de uma infecção latente de toxoplasmose, naturalmente combatida pelo organismo no passado e que voltam a causar efemeridades em pacientes imunodeprimidos, com prevalência de 3% a 50%.[2] Pode vir acompanhada, ou não, de danos na visão (toxoplasmose ocular).&lt;/p&gt;
+
+&lt;p&gt;A neurotoxoplasmose (NTX) é extremamente rara em adultos imunocompetentes mas é a infecção oportunista mais frequente no SNC em indivíduos HIV+, sendo a lesão com efeito de massa mais comum nesses pacientes, especialmente com níveis de células LT-CD4+ inferior a 200 células/mm³.&lt;/p&gt;
+
+&lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
+&lt;p&gt;Estudos epidemiológicos revelam a prevalência de &lt;strong&gt;80% de positividade para toxoplasmose na população do Brasil&lt;/strong&gt;. Em pacientes infectados pelo &lt;strong&gt;HIV, a sorologia para &lt;em&gt;Toxoplasma gondii&lt;/em&gt; é positiva em 84% dos casos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Assim, em um paciente com infecção pelo HIV, com &lt;strong&gt;rebaixamento de nível de consciência e presença de sinais neurológicos focais&lt;/strong&gt;, deve-se sempre &lt;strong&gt;aventar a hipótese diagnóstica de toxoplasmose cerebral&lt;/strong&gt;, principalmente na presença de uma TC sugestiva, sendo iniciado tratamento empírico.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A neurotoxoplasmose (NTX) é extremamente rara em adultos imunocompetentes mas é a &lt;strong&gt;infecção oportunista mais frequente no SNC em indivíduos HIV+&lt;/strong&gt;, sendo a lesão com efeito de massa mais comum nesses pacientes, especialmente com níveis de células &lt;strong&gt;LT-CD4+ inferior a 200 células/mm³&lt;/strong&gt;. A doença resulta, na maioria dos casos, de reativação de infecção latente.&lt;/p&gt;
+
+&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico:&lt;/h3&gt;
+&lt;p&gt;Manifesta-se clinicamente de forma semelhante às outras complicações oportunistas que acometem o SNC destes pacientes. Corriqueiramente costuma ser de forma subaguda, com duração de 2-3 semanas, podendo apresentar sintomas a depender da topografia encefálica acometida.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hemiparesia (60%)&lt;/li&gt;
+  &lt;li&gt;Cefaleia (52%)&lt;/li&gt;
+  &lt;li&gt;Confusão mental (51%)&lt;/li&gt;
+  &lt;li&gt;Letargia (47%)&lt;/li&gt;
+  &lt;li&gt;Convulsões (29%)&lt;/li&gt;
+  &lt;li&gt;Paralisia de nervos cranianos também podem ocorrer&lt;/li&gt;
+  &lt;li&gt;Acidentes vasculares encefálicos concomitantes ocorrem em 30% dos casos&lt;/li&gt;
+  &lt;li&gt;Sinais de irritação meníngea em menos de 10%&lt;/li&gt;
+  &lt;li&gt;Febre é uma queixa comum (47%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;labortatório&quot;&gt;Labortatório&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;CD4 normal: 600 a 1600
+    &lt;ul&gt;
+      &lt;li&gt;Na NTX costuma estar &amp;lt; 200&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
+&lt;p&gt;Os estudos de imagens do crânio, como a tomografia computadorizada (TC) e a ressonância magnética - RM, são de grande valor diagnóstico ao mostrarem &lt;strong&gt;lesões isodensas ou hipodensas, únicas ou múltiplas, com efeito de massa e que captam o contraste de forma anelar ou nodular, envolvendo, preferencialmente, os núcleos da base e junção da substância branca e cinzenta&lt;/strong&gt;. O edema perilesional é comum, reforçando o efeito de massa da lesão. Tais achados são encontrados em cerca de 90% dos casos, sendo bastante sugestivos de neurotoxoplasmose, porém não são patognomônicos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/ntx/tc.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;p&gt;O tratamento de escolha consiste na associação de:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sulfadiazina&lt;/strong&gt; 1000 a 1500mg a cada seis horas e &lt;strong&gt;Pirimetamina&lt;/strong&gt; 200mg no primeiro dia, seguido de 50 a 75mg/dia, prescritos conjuntamente com &lt;strong&gt;Ácido Folínico&lt;/strong&gt; 10mg/dia, para prevenir a mielotoxicidade e anemia megaloblástica causada pela Pirimetamina.
+    &lt;ul&gt;
+      &lt;li&gt;Deve ser mantido, no mínimo, por 6 semanas&lt;/li&gt;
+      &lt;li&gt;Após esse período de tratamento, deve-se prescrever terapia de manutenção para profilaxia secundária de toxoplasmose de acordo com o seguinte esquema
+        &lt;ul&gt;
+          &lt;li&gt;&lt;strong&gt;Sulfadiazina&lt;/strong&gt; 500 a 1000mg quatro vezes ao dia + &lt;strong&gt;Pirimetamina&lt;/strong&gt; 25 a 50mg uma vez ao dia + &lt;strong&gt;Ácido Folínico&lt;/strong&gt; 10mg uma vez ao dia.&lt;/li&gt;
+          &lt;li&gt;Os critérios de suspensão são a boa resposta à TARV com manutenção de LT-CD4 + &amp;gt; 200cel/mm³ por mais de seis meses.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h3&gt;
+&lt;p&gt;A evolução esperada é uma melhora progressiva, com mais de &lt;strong&gt;85% de resposta ao tratamento após 14 dias&lt;/strong&gt; e a &lt;strong&gt;recuperação completa é a regra&lt;/strong&gt;. A toxoplasmose do SNC pode recidivar, particularmente em pacientes com imunossupressão grave, mesmo com boa adesão ao tratamento. O monitoramento da resposta terapêutica inclui reavaliações clinicas e exames de imagem seriados. De maneira geral, &lt;strong&gt;a melhora clinica precede a resposta tomográfic&lt;/strong&gt;a. Recomenda-se, portanto, a reavaliação clínica diária e a repetição do exame de imagem (TC ou RM) após as primeiras duas semanas do início do tratamento.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Anovulação crônica</title><link href="http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica.html" rel="alternate" type="text/html" title="Anovulação crônica" /><published>2019-05-27T00:00:00-03:00</published><updated>2019-05-27T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica</id><content type="html" xml:base="http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
@@ -287,7 +476,8 @@ métodos contraceptivos. Outros progestágenos podem ser utilizados no tratament
       &lt;li&gt;&lt;a href=&quot;#vazamento-de-líquido-após-amniocentese&quot; id=&quot;markdown-toc-vazamento-de-líquido-após-amniocentese&quot;&gt;Vazamento de líquido após amniocentese&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações-e-repercussões&quot; id=&quot;markdown-toc-complicações-e-repercussões&quot;&gt;Complicações e repercussões&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#história&quot; id=&quot;markdown-toc-história&quot;&gt;História&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
@@ -344,7 +534,7 @@ membranas fetais.&lt;/p&gt;
   &lt;li&gt;Traumatismo&lt;/li&gt;
   &lt;li&gt;TPP&lt;/li&gt;
   &lt;li&gt;Infecções genitais (vaginose, gonococo)&lt;/li&gt;
-  &lt;li&gt;Exames invasivos (amnio e corcocentese)&lt;/li&gt;
+  &lt;li&gt;Exames invasivos (amnio e cordocentese, risco de 1-2%)&lt;/li&gt;
   &lt;li&gt;IIC&lt;/li&gt;
   &lt;li&gt;Inserção baixa da placenta&lt;/li&gt;
   &lt;li&gt;Macrossomia&lt;/li&gt;
@@ -428,6 +618,25 @@ em geral realizada para estudo genético no diagnóstico prénatal, ocorre em 1%
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;complicações-e-repercussões&quot;&gt;Complicações e repercussões&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Infecções como corioamnionite, endometrite e sepse&lt;/li&gt;
+  &lt;li&gt;Doença de membrana hialina&lt;/li&gt;
+  &lt;li&gt;Hemorragia intraventricular&lt;/li&gt;
+  &lt;li&gt;Leucomalácia periventricular&lt;/li&gt;
+  &lt;li&gt;Outras sequelas neurológicas&lt;/li&gt;
+  &lt;li&gt;Infecção fetal (sepse, pneumonia, meningite)&lt;/li&gt;
+  &lt;li&gt;Enterocolite necrosante;&lt;/li&gt;
+  &lt;li&gt;Risco aumentado de descolamento placentário&lt;/li&gt;
+  &lt;li&gt;Prolapso de cordão&lt;/li&gt;
+  &lt;li&gt;Apresentações anômalas&lt;/li&gt;
+  &lt;li&gt;Hipoplasia pulmonar&lt;/li&gt;
+  &lt;li&gt;Deformidades faciais e ortopédicas&lt;/li&gt;
+  &lt;li&gt;Sofrimento fetal&lt;/li&gt;
+  &lt;li&gt;Retenção placentária&lt;/li&gt;
+  &lt;li&gt;Risco de cesariana&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;história&quot;&gt;História&lt;/h3&gt;
 &lt;p&gt;Na grande maioria dos casos, o diagnóstico da RPM é feito pela história da paciente, que revela deflúvio abundante de líquido pela vagina (“líquido que escorre pela perna”).&lt;/p&gt;
 
@@ -435,7 +644,8 @@ em geral realizada para estudo genético no diagnóstico prénatal, ocorre em 1%
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Exame espécular&lt;/strong&gt;: confirma o diagnóstico ao visualizar líquido escorrendo pelo orifício cervical. Padrão ouro.
     &lt;ul&gt;
-      &lt;li&gt;Manobra de Tarnier: expressão do fundo uterino que intensifica a saída de fluido pelo OE&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Manobra de Tarnier&lt;/strong&gt;:  consiste em elevar apresentação fetal pela palpação abdominal e comprimir o útero ou aguardar contração para observar a saída de liquido pelo exame especular.&lt;/li&gt;
+      &lt;li&gt;Manobra de valsava para avaliar saída de líquido após aumento da pressão abdominal?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Toque vaginal&lt;/strong&gt;: aumenta o risco de infecção e nada acrescenta ao diagnóstico
@@ -449,17 +659,21 @@ em geral realizada para estudo genético no diagnóstico prénatal, ocorre em 1%
       &lt;li&gt;Candidíase pode ocasionar um falso positivo&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Teste do fenol vermelho&lt;/strong&gt;:  posiciona-se um tampão vaginal (simples algodão) na vagina da paciente e, após um tempo, adiciona-se algumas gotas do reagente, quando observa-se a alteração da coloração de laranja para vermelho.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Cristalização&lt;/strong&gt;: coleta de líquido vaginal, secado por 10 min em lâmina e observado ao microscópio, observando arborização (aspécto de folha de samambaia)&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;AmniSure®&lt;/strong&gt;: é um teste rápido,  imunocromatográfico, que detecta a proteína microglobulinaalfa-1 placentária (PAMG-1) no  meio vaginal&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img7.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;USG: utilíssima para confirmar a oligoidramnia (maior bolsão de líquido amniótico &amp;lt; 2 cm), mas não é diagnóstico da ruptura – cerca de 50% das amniorrexes ocorrem sem oligoidramnia
+  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;: utilíssima para diagnosticar a &lt;strong&gt;oligoidramnia&lt;/strong&gt; e perda de LA, mas não dá diagnóstico da ruptura – cerca de 50% das amniorrexes ocorrem sem oligoidramnia
     &lt;ul&gt;
-      &lt;li&gt;ILA (índice de LA) &amp;lt; 5&lt;/li&gt;
+      &lt;li&gt;ILA: índice de líquido amniótico: mede o maior bolsão vertical de líquido amniótico encontrado em cada um dos quatro quadrantes uterinos&lt;/li&gt;
+      &lt;li&gt;ILA diminuído quando &amp;lt; 5 ou quando maior bolsão vertical for &amp;lt; 2 cm&lt;/li&gt;
       &lt;li&gt;ILA normal não exclui RPMO&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -486,7 +700,30 @@ em geral realizada para estudo genético no diagnóstico prénatal, ocorre em 1%
 &lt;h3 id=&quot;corioamnionite&quot;&gt;Corioamnionite&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Uma vez diagnosticada a corioamnionite, a conduta, qualquer que seja a idade gestacional, é induzir o parto e administrar antibióticos.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;O regime preferencial é a clindamicina, 900 mg IV, 6/6h, associada à gentamicina, 240 mg IV, 1/dia. A antibioticoterapia na corioamnionite deve continuar até que a paciente esteja afebril e assintomática por 24-48h, após o parto.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Diagnóstico de corioamnionite[^med]
+    &lt;ul&gt;
+      &lt;li&gt;febre materna (≥ 37,8ºC) e pelo menos dois dos seguintes critérios (Ministério da Saúde, 2012):&lt;/li&gt;
+      &lt;li&gt;Leucocitose materna (leucometria &amp;gt; 15.000 cels/mm³);&lt;/li&gt;
+      &lt;li&gt;Taquicardia materna (&amp;gt; 100 bpm);&lt;/li&gt;
+      &lt;li&gt;Taquicardia fetal (&amp;gt; 160 bpm);&lt;/li&gt;
+      &lt;li&gt;Sensibilidade uterina;&lt;/li&gt;
+      &lt;li&gt;Líquido amniótico com odor fétido.&lt;/li&gt;
+      &lt;li&gt;Outros marcadores
+        &lt;ul&gt;
+          &lt;li&gt;PCR elevada (&amp;gt; 2 mg/dL)&lt;/li&gt;
+          &lt;li&gt;dosagem de interleucina-6&lt;/li&gt;
+          &lt;li&gt;Velocidade de Hemossedimentação&lt;/li&gt;
+          &lt;li&gt;análise do líquido amniótico por meio de amniocentese (GRAM, cultura e dosagem de glicose)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img8.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O regime preferencial é a &lt;strong&gt;clindamicina&lt;/strong&gt;, 900 mg IV, 6/6h, associada à &lt;strong&gt;gentamicina&lt;/strong&gt;, 240 mg IV, 1/dia. A antibioticoterapia na corioamnionite deve continuar até que a paciente esteja afebril e assintomática por 24-48h, após o parto.&lt;/p&gt;
 
 &lt;p&gt;Se a paciente continuar febril, apesar do tratamento antibiótico, devem ser procuradas outras fontes de infecção:&lt;/p&gt;
 &lt;ul&gt;
@@ -497,14 +734,14 @@ em geral realizada para estudo genético no diagnóstico prénatal, ocorre em 1%
 &lt;/ul&gt;
 
 &lt;p&gt;A RPM complica cerca de uma em cada quatro gestações com &lt;strong&gt;circlagem&lt;/strong&gt; e
-metade após a circlagem de emergência. Não há recomendação estabelecida sobre a permanência
-ou a retirada da circlagem. Se a opção for pela permanência da circlagem, não há indicação para que se prolongue o tratamento antibiótico profilático por mais de 7 dias.&lt;/p&gt;
+metade após a circlagem de emergência. Não há recomendação estabelecida sobre a permanência ou a retirada da circlagem. Se a opção for pela permanência da circlagem, não há indicação para que se prolongue o tratamento antibiótico profilático por mais de 7 dias.&lt;/p&gt;
 
 &lt;h3 id=&quot;rpm-a-termo-1&quot;&gt;RPM a termo&lt;/h3&gt;
 &lt;p&gt;O monitoramento eletrônico deverá ser prontamente utilizado para avaliar a vitalidade fetal.&lt;/p&gt;
 
-&lt;p&gt;A RPM a termo é indicação para a &lt;strong&gt;indução do parto&lt;/strong&gt; com ocitocina/misoprostol, nas doses habituais, para reduzir a morbidade infecciosa materna, sem elevar os riscos de cesárea ou de operatória transpélvica.
-A profilaxia intraparto GBS será indicada se a cultura previamente realizada for positiva ou se houver indicadores de risco.&lt;/p&gt;
+&lt;p&gt;A RPM a termo é indicação para a &lt;strong&gt;indução do parto&lt;/strong&gt; com ocitocina/misoprostol, nas doses habituais, para reduzir a morbidade infecciosa materna, sem elevar os riscos de cesárea ou de operatória transpélvica.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;profilaxia intraparto&lt;/strong&gt; GBS será indicada se a cultura previamente realizada for positiva ou se houver indicadores de risco.&lt;/p&gt;
 
 &lt;h3 id=&quot;rpm-após-34-semanas&quot;&gt;RPM após 34 semanas&lt;/h3&gt;
 &lt;p&gt;À semelhança do que ocorre para a RPM a termo, o melhor tratamento para a RPMP após 34 semanas é o parto imediato.&lt;/p&gt;
@@ -533,14 +770,14 @@ pode ser diária ou 2/semana, dependendo do resultado&lt;/li&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img4.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Antibiótico profilático:&lt;/strong&gt; visa à postergação do parto e à redução da morbidade neonatal. O retardo esperado no parto fornece tempo suficiente para que o corticoide exerça os seus efeitos
+  &lt;li&gt;&lt;strong&gt;Antibiótico profilático:&lt;/strong&gt; visa à postergação do parto, aumentar o período de latência, e à redução da morbidade neonatal. O retardo esperado no parto fornece tempo suficiente para que o corticoide exerça os seus efeitos
     &lt;ul&gt;
-      &lt;li&gt;Prefere-se a ampicilina IV, 1 g de 6/6 h por 48 h, associada à azitromicina, 1 g VO, dose única
+      &lt;li&gt;Prefere-se a &lt;strong&gt;ampicilina&lt;/strong&gt; IV, 1 g de 6/6 h por 48 h, associada à &lt;strong&gt;azitromicina&lt;/strong&gt;, 1 g VO, dose única
         &lt;ul&gt;
           &lt;li&gt;trata micoplasma e clamídia, causas de corioamnionite e de pneumonite e conjuntivite neonatal&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Depois, amoxicilina, 500 mg VO, de 8/8 h, por 5 dias&lt;/li&gt;
+      &lt;li&gt;Depois, &lt;strong&gt;amoxicilina&lt;/strong&gt;, 500 mg VO, de 8/8 h, por 5 dias&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Corticoide:&lt;/strong&gt; Um único curso de corticoide é recomendado para gestantes com RPMP entre 24 e 34 semanas com risco de parto iminente. Cursos múltiplos de corticoide ou
@@ -568,6 +805,12 @@ USG para avaliar a normalização do volume do LA.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Então se a gestante estiver em TPP (trabalho de parto prematuro) e a bolsa estourar, não é uma RPM?&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img5.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img9.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img6.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
@@ -1520,68 +1763,4 @@ risco de histerectomia, em quase 60% dos casos, até 9 meses do parto.&lt;/p&gt;
       &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Disturbios Repiratorios</title><link href="http://localhost:4000/2019/05/20/disturbios-repiratorios.html" rel="alternate" type="text/html" title="Disturbios Repiratorios" /><published>2019-05-20T00:00:00-03:00</published><updated>2019-05-20T00:00:00-03:00</updated><id>http://localhost:4000/2019/05/20/disturbios-repiratorios</id><content type="html" xml:base="http://localhost:4000/2019/05/20/disturbios-repiratorios.html">&lt;p&gt;até 24 semanas: não realiza-se intervenção
-após 26 semanas:&lt;/p&gt;
-
-&lt;p&gt;Exame físico&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;FR normal: 40 a 60 ipm&lt;/li&gt;
-  &lt;li&gt;Gemidos
-    &lt;ul&gt;
-      &lt;li&gt;ocorre na expiração com a contração das cordas vocais para manter a complacencia pulmonar e manter parte do ar no pulmão&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Batimento de asa do nariz&lt;/li&gt;
-  &lt;li&gt;Tiragem intercostal e subdiafragmática&lt;/li&gt;
-  &lt;li&gt;Retração esternal&lt;/li&gt;
-  &lt;li&gt;Sincronização&lt;/li&gt;
-  &lt;li&gt;Cianose&lt;/li&gt;
-  &lt;li&gt;MV diminuido ou normal&lt;/li&gt;
-  &lt;li&gt;Crepitantes ou estertores bolhosos&lt;/li&gt;
-  &lt;li&gt;Sopros cardíacos&lt;/li&gt;
-  &lt;li&gt;Boletim de Silverman-Andersen: uma forma de quantificar se o esforço respiratório está diminuindo ou aumentando&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Respiração paradoxal: na inspiração o tórax entra, sofre uma retração. Ocorre pois a caixa torácica ainda não é firme e o vácuo torácico faz as costelas retraírem.&lt;/p&gt;</content><author><name></name></author><summary type="html">até 24 semanas: não realiza-se intervenção após 26 semanas:</summary></entry><entry><title type="html">Sangramentos do segundo trimestre</title><link href="http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre.html" rel="alternate" type="text/html" title="Sangramentos do segundo trimestre" /><published>2019-05-20T00:00:00-03:00</published><updated>2019-05-20T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/20/sangramento-segundo-trimestre.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#placenta-prévia&quot; id=&quot;markdown-toc-placenta-prévia&quot;&gt;Placenta prévia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#rotura-do-seio-marginal&quot; id=&quot;markdown-toc-rotura-do-seio-marginal&quot;&gt;Rotura do seio marginal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#rotura-da-vasa-prévia&quot; id=&quot;markdown-toc-rotura-da-vasa-prévia&quot;&gt;Rotura da vasa prévia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#dppni&quot; id=&quot;markdown-toc-dppni&quot;&gt;DPPNI&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referência&quot; id=&quot;markdown-toc-referência&quot;&gt;Referência&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;placenta-prévia&quot;&gt;Placenta prévia&lt;/h2&gt;
-&lt;p&gt;Ver o capítulo específico.&lt;/p&gt;
-
-&lt;h2 id=&quot;rotura-do-seio-marginal&quot;&gt;Rotura do seio marginal&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;A causa mais frequente de hemorragia no 2T?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;É um sangramento indolor de sangue rutilante de caráter repetitivo e geralmente de
-pequena monta. Seu diagnóstico diferencial é feito com a placenta prévia que pode ser
-esclarecido através de ultra-sonografia.&lt;/p&gt;
-
-&lt;p&gt;O diagnostico é retrospectivo, constituindo-se na identificação de coágulo localizado no
-seio marginal da placenta.
-Embora possa evoluir para DPPNI, o prognostico, é, maioria das vezes, favorável.
-O tratamento é realizado através da operação cesariana.&lt;/p&gt;
-
-&lt;h2 id=&quot;rotura-da-vasa-prévia&quot;&gt;Rotura da vasa prévia&lt;/h2&gt;
-&lt;p&gt;Resulta da placenta com inserção velamentosa do cordão em que os vasos do funículo percorrem as membranas ovulares extra-placentárias.&lt;/p&gt;
-
-&lt;p&gt;O acidente acontece quando as membranas são rôtas seja espontânea ou provocada no
-qual podem ser atingidas a veia umbilical ou as artérias. Na primeira hipótese, a lesões desta implica em sangramento fulminante para o concepto.&lt;/p&gt;
-
-&lt;p&gt;Na eventualidade da injúria advir de uma das artérias umbilicais, pode o equilíbrio
-hemodinâmico fetal dar-se pela outra artéria. Neste caso se o diagnóstico foi feito em tempo
-hábil, a operação cesariana poderá salvar o concepto.&lt;/p&gt;
-
-&lt;p&gt;USG-doppler: pode confirmar o diagnóstico&lt;/p&gt;
-
-&lt;p&gt;Interromper a gravidez com 35 semanas por meio de operação cesariana.&lt;/p&gt;
-
-&lt;h2 id=&quot;dppni&quot;&gt;DPPNI&lt;/h2&gt;
-&lt;p&gt;Ver o capítulo específico.&lt;/p&gt;
-
-&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>

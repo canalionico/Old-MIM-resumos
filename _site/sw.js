@@ -29,6 +29,10 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/infectologia/2019/05/29/neurotoxoplasmose.html',
+      
+        '/infectologia/2019/05/29/dengue.html',
+      
         '/ginecologia/2019/05/27/anovulacao-cronica.html',
       
         '/obstetricia/2019/05/25/rpmo.html',
@@ -288,6 +292,14 @@ self.addEventListener('install', function (event) {
       
         '/assets/imagens/ulceras-genitais/ulcera-tto2.png'
       
+        '/assets/infectologia/dengue/dd.jpeg'
+      
+        '/assets/infectologia/dengue/ref1.jpeg'
+      
+        '/assets/infectologia/dengue/ref2.jpeg'
+      
+        '/assets/infectologia/ntx/tc.jpeg'
+      
         '/assets/logo-canal-ionico.png'
       
         '/assets/mastologia/derrame-papilar/tab1.png'
@@ -339,6 +351,16 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/rpmo/img3.jpeg'
       
         '/assets/obstetricia/rpmo/img4.jpeg'
+      
+        '/assets/obstetricia/rpmo/img5.jpeg'
+      
+        '/assets/obstetricia/rpmo/img6.jpeg'
+      
+        '/assets/obstetricia/rpmo/img7.jpeg'
+      
+        '/assets/obstetricia/rpmo/img8.jpeg'
+      
+        '/assets/obstetricia/rpmo/img9.jpeg'
       
         '/browserconfig.xml'
       
