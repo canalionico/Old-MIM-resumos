@@ -29,6 +29,10 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/urologia/2019/05/30/alteracoes-escrotais.html',
+      
+        '/infectologia/2019/05/30/exame-lcr.html',
+      
         '/infectologia/2019/05/29/neurotoxoplasmose.html',
       
         '/infectologia/2019/05/29/dengue.html',
@@ -297,6 +301,14 @@ self.addEventListener('install', function (event) {
         '/assets/infectologia/dengue/ref1.jpeg'
       
         '/assets/infectologia/dengue/ref2.jpeg'
+      
+        '/assets/infectologia/lcr/ag.jpeg'
+      
+        '/assets/infectologia/lcr/ag2.jpeg'
+      
+        '/assets/infectologia/lcr/tab1.jpeg'
+      
+        '/assets/infectologia/lcr/tab2.jpeg'
       
         '/assets/infectologia/ntx/tc.jpeg'
       

@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-29T13:26:03-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Dengue</title><link href="http://localhost:4000/infectologia/2019/05/29/dengue.html" rel="alternate" type="text/html" title="Dengue" /><published>2019-05-29T00:00:00-03:00</published><updated>2019-05-29T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/29/dengue</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/29/dengue.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-30T12:07:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Exame do LCR</title><link href="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html" rel="alternate" type="text/html" title="Exame do LCR" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/30/exame-lcr</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-agudos&quot; id=&quot;markdown-toc-processos-infecciosos-agudos&quot;&gt;Processos infecciosos agudos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-subagudos&quot; id=&quot;markdown-toc-processos-infecciosos-subagudos&quot;&gt;Processos infecciosos subagudos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-crônicos&quot; id=&quot;markdown-toc-processos-infecciosos-crônicos&quot;&gt;Processos infecciosos crônicos&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#neuromicoses&quot; id=&quot;markdown-toc-neuromicoses&quot;&gt;Neuromicoses&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#esquistossomose-do-snc&quot; id=&quot;markdown-toc-esquistossomose-do-snc&quot;&gt;Esquistossomose do SNC&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#neurocisticercose&quot; id=&quot;markdown-toc-neurocisticercose&quot;&gt;Neurocisticercose&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#neurossífilis&quot; id=&quot;markdown-toc-neurossífilis&quot;&gt;Neurossífilis&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#infecção-pelo-hiv&quot; id=&quot;markdown-toc-infecção-pelo-hiv&quot;&gt;Infecção pelo HIV&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#doença-priônica&quot; id=&quot;markdown-toc-doença-priônica&quot;&gt;Doença priônica&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Na fase aguda, o LCR mostra resposta celular com pleocitose, presença de neutrófilos, linfócitos, eosinófilos e resposta humoral caracterizada pela quebra
+da BHE e consequente aumento dos teores de albumina. Na fase crônica, a resposta celular pode ser menos intensa, a BHE se refez e existe produção intratecal de anticorpos específicos com aumento dos teores de globulinas gama. Na fase aguda, o LCR mostra resposta­&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/lcr/ag.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/infectologia/lcr/ag2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/lcr/tab2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;processos-infecciosos-agudos&quot;&gt;Processos infecciosos agudos&lt;/h2&gt;
+&lt;p&gt;O exame do LCR é fundamental para o diagnóstico das meningites agudas. Nelas, observa-se aumento da pressão do liquor devido ao aumento do volume por diminuição da reabsorção. Com relação à celularidade do LCR, o número de células pode ser superior a 1.000/mm³ nas bacterianas, com predomínio ou totalidade de neutrófilos.&lt;/p&gt;
+
+&lt;p&gt;Nas meningites virais, classicamente linfomonocitárias, pode haver predomínio de neutrófilos nas fases iniciais. Do ponto de vista bioquímico, as meningites agudas cursam com aumento dos níveis proteicos, que é mais intenso nas bacterianas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/lcr/tab1.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Classicamente, as meningites bacterianas cursam com aumento importante do número de células. Predominam os &lt;strong&gt;polimorfonucleares&lt;/strong&gt; (PMN), que podem chegar a 100% do total de leucócitos encontrados, mas a predominância de PMN não é um marcador satisfatório para determinar o tipo de agente causal, pois pode ocorrer em outros tipos de meningites – infecciosas ou inflamatórias.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;proteinorraquia&lt;/strong&gt; aumenta em virtude da quebra da BHE. Pode-se afirmar que a hiperproteinorraquia é tanto mais sensível e específica para os quadros bacterianos quanto maior for o seu teor.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;glicorraquia&lt;/strong&gt; tende a ser muito baixa devido à glicogenólise que ocorre nos processos celulares e, em menor grau, ao consumo bacteriano. Ela apresenta especificidade de 97% no diagnóstico de meningite bacteriana, mas sensibilidade de
+70%, devido a sua dependência da glicemia.&lt;/p&gt;
+
+&lt;p&gt;Assim, a detecção dos níveis do &lt;strong&gt;lactato&lt;/strong&gt; no LCR é importante, sobretudo no diagnóstico diferencial com os processos virais. Nas meningites bacterianas, os níveis de lactato estão
+aumentados no LCR. A determinação do lactato é mais sensível (89 a 100%) e específica (96 a 100%) na distinção entre as meningites bacterianas e virais, mesmo considerando as bacterianas previamente tratadas.&lt;/p&gt;
+
+&lt;p&gt;O exame do liquor nas meningites virais evidencia, classicamente, pleocitose menos intensa que nas meningites bacterianas agudas, com a concentração de proteínas discretamente elevada e os teores de glicose e lactato tendentes à
+normalidade.&lt;/p&gt;
+
+&lt;h2 id=&quot;processos-infecciosos-subagudos&quot;&gt;Processos infecciosos subagudos&lt;/h2&gt;
+&lt;p&gt;A meningoencefalite tuberculosa é a mais frequente e a mais grave complicação neurológica causada pelo &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;. O diagnóstico laboratorial, que pode ser feito pelo exame do LCR e por avaliação neurorradiológica, é difícil em razão da baixa sensibilidade dos métodos que identificam diretamente o agente etiológico, como micobacteriológico direto, cultura e PCR.&lt;/p&gt;
+
+&lt;p&gt;Geralmente, o diagnóstico e, consequentemente, o tratamento são feitos baseados no quadro clínico associado a
+pleocitose liquórica moderada (até 500 células/mm³), hiperproteinorraquia, diminuição dos teores de glicose e aumento
+da atividade da adenosina deaminase (ADA).&lt;/p&gt;
+
+&lt;p&gt;Além da meningoencefalite, a neurotuberculose pode se apresentar sob forma de tuberculoma e abscesso. A hipertensão intracraniana determina o quadro clínico, e os achados liquóricos são inespecíficos, prevalecendo os dados neurorradiológicos.&lt;/p&gt;
+
+&lt;h2 id=&quot;processos-infecciosos-crônicos&quot;&gt;Processos infecciosos crônicos&lt;/h2&gt;
+&lt;h3 id=&quot;neuromicoses&quot;&gt;Neuromicoses&lt;/h3&gt;
+&lt;p&gt;O envolvimento neurológico por fungos é uma condição grave cujo diagnóstico nem sempre é fácil, devido a inespecificidade dos achados laboratoriais. O quadro clínico pode caracterizar tanto o comprometimento meníngeo quanto o parenquimatoso. Além disso, a forma granulomatosa pode existir, levando à hipertensão intracraniana.&lt;/p&gt;
+
+&lt;p&gt;O exame do LCR mostra pleocitose, aumento dos teores proteicos, que é tanto mais intenso quanto maior for o tempo de evolução, e diminuição dos teores de glicose. Uma característica importante nas fases iniciais da doença é a dissociação entre o quadro liquórico e o quadro clínico, ou seja, &lt;strong&gt;alterações liquóricas importantes e quadro clínico pouco expressivo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;De modo geral, tanto a identificação direta como o crescimento em cultura têm baixa sensibilidade, assim como os
+exames imunológicos. Exceção deve ser feita à &lt;strong&gt;meningite criptococócica&lt;/strong&gt;, que, além da caracterização clínica mais específica, pode ser diagnosticada mais facilmente pela alta frequência com que são visualizadas tórulas ao exame direto do LCR, pela facilidade do crescimento em meio de cultura e pela existência de teste de aglutinação em látex (crypto-la test), sobretudo nos casos de meningite criptococócica em pacientes HIV positivos.&lt;/p&gt;
+
+&lt;h3 id=&quot;esquistossomose-do-snc&quot;&gt;Esquistossomose do SNC&lt;/h3&gt;
+&lt;h3 id=&quot;neurocisticercose&quot;&gt;Neurocisticercose&lt;/h3&gt;
+&lt;h3 id=&quot;neurossífilis&quot;&gt;Neurossífilis&lt;/h3&gt;
+&lt;h3 id=&quot;infecção-pelo-hiv&quot;&gt;Infecção pelo HIV&lt;/h3&gt;
+&lt;h3 id=&quot;doença-priônica&quot;&gt;Doença priônica&lt;/h3&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Alterações do conteúdo escrotal</title><link href="http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais.html" rel="alternate" type="text/html" title="Alterações do conteúdo escrotal" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais</id><content type="html" xml:base="http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#hidrocele&quot; id=&quot;markdown-toc-hidrocele&quot;&gt;Hidrocele&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A diferenciação da genitália externa do embrião masculino ocorre em torno da 12ª semana de gestação sob a influência da testosterona, mais precisamente da dihidrotestosterona. A diferenciação testicular tem início por volta da 7ª semana de gestação, com desenvolvimento retroperitoneal, podendo ser encontrado já na bolsa escrotal após a 24ª semana.&lt;/p&gt;
+
+&lt;h2 id=&quot;hidrocele&quot;&gt;Hidrocele&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Dengue</title><link href="http://localhost:4000/infectologia/2019/05/29/dengue.html" rel="alternate" type="text/html" title="Dengue" /><published>2019-05-29T00:00:00-03:00</published><updated>2019-05-29T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/29/dengue</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/29/dengue.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#caso-clínico&quot; id=&quot;markdown-toc-caso-clínico&quot;&gt;Caso clínico&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#objetivos&quot; id=&quot;markdown-toc-objetivos&quot;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
@@ -1293,474 +1363,4 @@ A mais comum causa cirúrgica congênita. Pode nascer bem e após alimentação 
   &lt;li&gt;Refluxo gastroesofágico quando mais velho&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Livro de matssuqi&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Descolamento prematuro de placenta</title><link href="http://localhost:4000/obstetricia/2019/05/21/dpp.html" rel="alternate" type="text/html" title="Descolamento prematuro de placenta" /><published>2019-05-21T00:00:00-03:00</published><updated>2019-05-21T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/21/dpp</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/21/dpp.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#aconselhamento-pós-concepcional&quot; id=&quot;markdown-toc-aconselhamento-pós-concepcional&quot;&gt;Aconselhamento pós-concepcional&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referência&quot; id=&quot;markdown-toc-referência&quot;&gt;Referência&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É o descolamento de placenta normalmente inserida no corpo uterino após 20 semanas de IG e antes da expulsão fetal. A placenta se descola de maneira inopinada e repentina ainda com o concépto intraútero.&lt;/p&gt;
-
-&lt;p&gt;Possui uma incidência &amp;lt; 1%, principalmente entre 24 e 26 semanas.&lt;/p&gt;
-
-&lt;p&gt;é causa importante de sangramento vaginal na
-segunda metade da gravidez, especialmente entre 24 e 26 semanas. A mortalidade materna é de 1 a 3%, e a perinatal é de 12% (1/3 de todas as mortes perinatais). A mortalidade perinatal é consequência da asfixia intrauterina e da prematuridade, e 15 a 20% dos recém-nascidos podem
-apresentar sequelas neurológicas.&lt;/p&gt;
-
-&lt;p&gt;No feto a DPP vai provocar sofrimento fetal agudo grave e precoce. O mecanismo envolve a diminuição da área de troca, a hipertonia uterina e a anemia aguda.&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Causas traumáticas/mecânicas&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Cordão umbilical curto&lt;/li&gt;
-      &lt;li&gt;Esvaziamento rápido de polidramnio&lt;/li&gt;
-      &lt;li&gt;Retração uterina após expulsão do 1º gemelar&lt;/li&gt;
-      &lt;li&gt;Hipersistolia&lt;/li&gt;
-      &lt;li&gt;Hipertonia por uso indevido de ocitócicos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Causas não traumáticas&lt;/strong&gt;: as mais frequentes e que acabam sendo os &lt;strong&gt;fatores de risco&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;HAS&lt;/strong&gt; (presente em torno de 75% dos casos)&lt;/li&gt;
-      &lt;li&gt;Baixa condição socioeconômica&lt;/li&gt;
-      &lt;li&gt;Passado obstétrico desfaforável&lt;/li&gt;
-      &lt;li&gt;Multiparidade&lt;/li&gt;
-      &lt;li&gt;Idade materna avançada&lt;/li&gt;
-      &lt;li&gt;Trombofilia&lt;/li&gt;
-      &lt;li&gt;Polidrâmnio&lt;/li&gt;
-      &lt;li&gt;Relato de DPPNI anterior&lt;/li&gt;
-      &lt;li&gt;Corioamnionite&lt;/li&gt;
-      &lt;li&gt;Gemelidade&lt;/li&gt;
-      &lt;li&gt;DM&lt;/li&gt;
-      &lt;li&gt;RCIU&lt;/li&gt;
-      &lt;li&gt;TBR prolongado&lt;/li&gt;
-      &lt;li&gt;Etilismo&lt;/li&gt;
-      &lt;li&gt;Tabagismo&lt;/li&gt;
-      &lt;li&gt;Uso de cocaína (efeitos hipertensivos e vasoconstritivos)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;patologia&quot;&gt;Patologia&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Alterações útero-placentárias:&lt;/strong&gt; o sangue invade a zona de clivagem desciduoplacentária dando assim início a separação, com a formação do &lt;strong&gt;hematoma retroplacentário&lt;/strong&gt;. Este incita o útero à hipertonia que aumenta a pressão no local do descolamento aumentando-o cada vez mais. Parte do sangue se coagula formando hematoma já referido, outra parte descola as membranas e elimina-se através da cérvice uterina configurando a &lt;strong&gt;hemorragia externa presente em 80% dos casos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Na &lt;strong&gt;hemorragia oculta&lt;/strong&gt; que representa os 20% dos casos, o sangue é aprisionado e é
-impulsionado através das miofibrilas propiciando o quadro de apoplexia útero-placentária ou &lt;strong&gt;útero de Couvelaire&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ocasionalmente, o sangue pode alcançar a cavidade amniótica, por soluções de continuidade das membranas, e causar o &lt;strong&gt;hemoâmnio&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/dpp.jpeg&quot; alt=&quot;Posições DPP&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O útero apresenta cor azulada e o hematoma se estende através das trompas, dos ovários,
-dos ligamentos e do peritônio pélvico. Após o parto ao examinar-se a placenta pela sua
-face materna, encontra-se o hematoma que uma vez removido mostra no seu
-assentamento uma área deprimida denominada &lt;strong&gt;cratera&lt;/strong&gt;, sinal patognômonico do DPPNI.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alterações renais:&lt;/strong&gt; representadas pela síndrome do nefro inferior e pela necrose cortical bilateral. Esta última de ocorrência rara traduzida clinicamente por anúria persistente.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alterações da hemocoagulação:&lt;/strong&gt; estão presentes sob a forma aguda (DPPNI), embolia do líquido amniótico e choque septicêmico e sob a forma crônica como a que preside a retenção do ovo morto. Em síntese estão envolvidos no mecanismo dos distúrbios da hemocoagulação do DPPNI: consumo local dos fatores de coagulação, consumo sistêmico e fibrinólise.&lt;/p&gt;
-
-&lt;p&gt;No DPPNI a queda do fibrinogênio e de outros defeitos da hemóstase estão intimamente vinculados ao grau de separação da placenta, ao hematoma retroplacentário e ao choque. A taxa declinada de sangue alia-se a queda das plaquetas e dos fatores V e VIII, ao tempo em que aumentam os produtos de degradação do fibrogênio.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Assintomático&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sangramento&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;retroplacentário 20%&lt;/li&gt;
-      &lt;li&gt;externo 80%.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dor abdominal&lt;/strong&gt; geralmente alta.&lt;/li&gt;
-  &lt;li&gt;Ausculta fetal negativa, mesmo estando o feto vivo por motivo da hipertonia, sintoma freqüente.&lt;/li&gt;
-  &lt;li&gt;Bolsa das águas tensa.&lt;/li&gt;
-  &lt;li&gt;Parto em avalanche, isto é, expulsam-se o feto, logo em seguida a placenta e o hematoma retroplacentário.&lt;/li&gt;
-  &lt;li&gt;Associação freqüente com processos hipertensivos.&lt;/li&gt;
-  &lt;li&gt;Hematoma Retroplacentário.&lt;/li&gt;
-  &lt;li&gt;Desproporção entre a precariedade do estado geral da paciente e a perda sanguínea evidente.&lt;/li&gt;
-  &lt;li&gt;Equimose no local das punções (coagulopatia).&lt;/li&gt;
-  &lt;li&gt;Morte fetal elevada.&lt;/li&gt;
-  &lt;li&gt;Hemoâmnio.&lt;/li&gt;
-  &lt;li&gt;Hipertonia.&lt;/li&gt;
-  &lt;li&gt;Sinal da cratera.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Palpação do útero: consistência lenhosa e aumento do fundo de útero
-    &lt;ul&gt;
-      &lt;li&gt;Duro e doloroso&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;TV: bolsa das águas tensa (pela hipertonia uterina)
-    &lt;ul&gt;
-      &lt;li&gt;Se rompida, despeja em jato forte, o líquido amniótico podendo contêr hemoâmnio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ausência de BCF: feto morto?&lt;/li&gt;
-  &lt;li&gt;Hipotensão pode estar presente&lt;/li&gt;
-  &lt;li&gt;Cervicodilatação: pode ser completada com rapidez surpreendente, e a expulsão fetal costuma ocorrer com a mesma agilidade.&lt;/li&gt;
-  &lt;li&gt;Parto: a placenta, já descolada, é expelida logo a seguir, juntamente com o hematoma retroplacentário; na face materna, mostra a cratera característica.
-    &lt;ul&gt;
-      &lt;li&gt;Parto &lt;em&gt;em alude&lt;/em&gt;: feto, placenta e páreas, expulsos em turbilhão, com coágulo apegado.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;p&gt;O diagnóstico é eminentemente clínico! Por meio de anamnese + hipertonia + sangramento. Sempre lembrando que 20% dos casos de DPP são hemorragias ocultas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fazer exames complementares?&lt;/strong&gt; A &lt;strong&gt;USG-TV&lt;/strong&gt; só diagnostica em 25% dos casos. Fazendo exames complementares perde-se tempo cirúrgico. A imagem sonográfica no DPP depende da extensão e da localização do coágulo, assim como da duração do acidente. A localização mais frequente do hematoma é a subcoriônica. Na fase aguda, o hematoma costuma ser hiper/isoecoico comparado com a placenta; nesses casos, a ultrassonografia pode mostrar apenas placenta heterogênea e espessada (&amp;gt; 5 cm). Posteriormente, dentro de 1 semana, o hematoma torna-se hipoecoico e, após 2 semanas, sonolucente.&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;E a cardiotocografia? Também não deve ser usada como critério de investigação ou diagnóstico na suspeita de DPP.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sangramento&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;retroplacentário 20%&lt;/li&gt;
-      &lt;li&gt;externo 80%.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hipertonia uterina&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dor abdominal&lt;/strong&gt; geralmente alta&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sofrimento fetal&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fatores de risco&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Atenção: O volume da hemorragia vaginal tem pouca correlação com o grau do DPP. Contudo, a dimensão do descolamento é proporcional ao risco fetal.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Diagnóstico diferencial:&lt;/strong&gt; &lt;strong&gt;PP&lt;/strong&gt; (principalmente), Rotura do seio marginal, Rotura de vasa prévia, Rotura do útero, Gravidez abdominal tardia, Síndromes dolorosas abdominais agudas (apendicite aguda, cisto ovariano com pedículo
-torcido, pancreatite aguda, etc.).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/dd.jpeg&quot; alt=&quot;Posições DPP&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Na avaliação complementar, pode-se pedir coagulograma, plaquetometria e fibrinogênio para avaliar a hemorragia e o estado hemodinâmico. Com apenas 8mL de sangue é possível fazer o &lt;strong&gt;teste de Weiner&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;p&gt;O DPPNI uma vez instalado não regride, antes progride de maneira inexorável, agravando-se à proporção que as horas passam. São 3 graus de evolução:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Leve&lt;/strong&gt;: assintomático e de diagnóstico retrospectivo por análise da placenta após o parto (hematoma na face materna da placenta)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Moderado&lt;/strong&gt;: sintomático e com concepto vivo&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Grave&lt;/strong&gt;: sintomas e óbito fetal. É dividida em:
-    &lt;ul&gt;
-      &lt;li&gt;3A: com coagulopatia associada&lt;/li&gt;
-      &lt;li&gt;3B:sem coagulopatia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;p&gt;O tratamento consiste essencialmente no esvaziamento da cavidade uterina fundamentando-se em 2 princípios:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Prevenção da coagulopatia&lt;/li&gt;
-  &lt;li&gt;Proteção do concepto: mesmo com a ausculta negativa (hipertonia) pode o concepto encontrar-se com vida.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Feto vivo e viável (&amp;gt; 24sem) → parto o mais rápido possível!
-    &lt;ul&gt;
-      &lt;li&gt;Se período expulsivo → fazer parto vaginal&lt;/li&gt;
-      &lt;li&gt;Período não expulsivo → fazer cesárea&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Feto morto ou inviável → tentar fazer o parto vaginal em até 4h após o diagnóstico (Em
-geral, após a amniotomia, o útero se contrai vigorosamente e o parto progride de maneira muito rápida)
-    &lt;ul&gt;
-      &lt;li&gt;Se não for possível respeitar esse tempo → fazer cesárea&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Amniotomia? também funciona como estudo de diagnóstico sendo possível avaliar sua tensão e presença de hemoâmnio&lt;/li&gt;
-  &lt;li&gt;Histerectomia: é medida de exceção e apenas encontra justificativa nos casos de atonia uterina irresponsiva aos métodos usuais (massagem vigorosa, ocitocina venosa e intramural e ergotínico). A histerectomia subtotal é a preferida. Antes de sua execução, convém tentar a inibição do sangramento através da ligadura das artérias hipogástricas, principalmente se a paciente é jovem e de paridade reduzida.
-    &lt;ul&gt;
-      &lt;li&gt;Útero ce Couvelaire por si só não é indicação de histerectomia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/tto.jpeg&quot; alt=&quot;Posições DPP&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Lembrar que a DPP apresenta um risco materno de CID (coagulação intravascular disseminada), estando presente em 10% dos casos. A cascata da coagulação é ativada pela liberação de tromboplastina (fator tecidual) nacirculação materna, proveniente do hematoma, com o consumo dos fatores da coagulação determinando a CID.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Uma vez firmado o diagnóstico, rompe-se a bolsa das águas e aquilata-se da evolução do parto que se antevisto iminente, será ultimado pela vida transpelviana. Caso contrário declinar pela via abdominal que será antecedida por cateterização de veia de grosso calibre com administração de solutos e sangue, preferencialmente fresco, se presentes choque ou coagulopatia.&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;aconselhamento-pós-concepcional&quot;&gt;Aconselhamento pós-concepcional&lt;/h2&gt;
-&lt;p&gt;Mulheres com DPP apresentam risco aumentado em 10 a 15 vezes de repetir o acidente na
-próxima gestação. Aquelas que fumam ou fazem uso de cocaína devem ser aconselhadas a parar; é
-necessário controlar a hipertensão.&lt;/p&gt;
-
-&lt;h2 id=&quot;referência&quot;&gt;Referência&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:rez&quot;&gt;
-      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:cisam&quot;&gt;
-      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Placenta prévia</title><link href="http://localhost:4000/obstetricia/2019/05/21/pp.html" rel="alternate" type="text/html" title="Placenta prévia" /><published>2019-05-21T00:00:00-03:00</published><updated>2019-05-21T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/21/pp</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/21/pp.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação-rcog-2011&quot; id=&quot;markdown-toc-classificação-rcog-2011&quot;&gt;Classificação RCOG 2011&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#placenta-acreta&quot; id=&quot;markdown-toc-placenta-acreta&quot;&gt;Placenta acreta&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#dianóstico&quot; id=&quot;markdown-toc-dianóstico&quot;&gt;Dianóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#conduto&quot; id=&quot;markdown-toc-conduto&quot;&gt;Conduto&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#vasa-prévia&quot; id=&quot;markdown-toc-vasa-prévia&quot;&gt;Vasa prévia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#parto&quot; id=&quot;markdown-toc-parto&quot;&gt;Parto&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É a placenta localizada total ou parcialmente no segmento inferior do útero.&lt;/p&gt;
-
-&lt;p&gt;Após 28 semanas de gestação, pois antes disso ainda pode ocorrer a migração placentária.&lt;sup id=&quot;fnref:med&quot;&gt;&lt;a href=&quot;#fn:med&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Incidência de 1%&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fatores de risco&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Cesárea anterior: o mais importante, lembrar que o risco aumenta progressivamente a cada nova cesárea&lt;/li&gt;
-      &lt;li&gt;Idade materna avançada&lt;/li&gt;
-      &lt;li&gt;Cicatriz uterina&lt;/li&gt;
-      &lt;li&gt;Multiparidade&lt;/li&gt;
-      &lt;li&gt;História de abortamentos&lt;/li&gt;
-      &lt;li&gt;Endometrite&lt;/li&gt;
-      &lt;li&gt;Tabagismo&lt;/li&gt;
-      &lt;li&gt;Gravidez gemelar&lt;/li&gt;
-      &lt;li&gt;Manuseio uterino prévio (curetagens e cesárea)&lt;/li&gt;
-      &lt;li&gt;DHPN (doença hemolítica perinatal)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;É muito incomum haver associação de HASG e PP (livro do CISAM)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;classificação-rcog-2011&quot;&gt;Classificação RCOG 2011&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Menor: quando não alcança o OI do colo&lt;/li&gt;
-  &lt;li&gt;Baixa: margem da placenta à &amp;lt; 2 cm do OI&lt;/li&gt;
-  &lt;li&gt;Maior: quando alcança o OI do colo&lt;/li&gt;
-  &lt;li&gt;Marginal: margem da placenta alcança o OI mas não o ultrapassa&lt;/li&gt;
-  &lt;li&gt;Parcial: placenta recobre parcialmente o OI&lt;/li&gt;
-  &lt;li&gt;Total: placenta recobre totalmente o OI&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/pp.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Hemorragia: indolor, viva, insidiosa e repetitiva.
-    &lt;ul&gt;
-      &lt;li&gt;Presente em &amp;gt; 90% dos casos, principalmente no último trimestre.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
-&lt;p&gt;A palpação é capaz de identificar a estática fetal alterada: situações oblíquas e transversas (15%), apresentação pélvica (15%) e cefálicas altas, por motivo da interposição da placenta entre a cabeça e o andar superior da bacia.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Exame especular: para confirmar que a hemorrágia tem origem no canal cervical&lt;/li&gt;
-  &lt;li&gt;Secundamento: o acretismo é comum, sendo habitual as retenções placentárias podendo levar a atonia e hemorragia.&lt;/li&gt;
-  &lt;li&gt;Purpério: restos placentários podem  permanecer aderidos e se infectar.&lt;/li&gt;
-  &lt;li&gt;Sofrimento fetal: consequente à hemorragia&lt;/li&gt;
-  &lt;li&gt;Não há hipertonia!!!&lt;/li&gt;
-  &lt;li&gt;EVITAR O TOQUE VAGINAL! Pode provocar um DPP!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;p&gt;Realizado principalmente pela USG.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;USG transabdominal: com 20-24 semanas&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG-TV&lt;/strong&gt;: o &lt;strong&gt;melhor exame e necessário para a confirmação do diagnóstico de PP&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Estima-se que cerca de 90% das placentas prévias diagnosticadas na ultrassonografia de 2º trimestre resolvam-se na ultrassonografia de 36 semanas, pela expansão do segmento inferior no 2º e no 3º trimestre, fenômeno conhecido como “&lt;strong&gt;migração placentária&lt;/strong&gt;”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/pp2.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Diagnósticos diferenciais&lt;/strong&gt;: &lt;strong&gt;DPP&lt;/strong&gt; (principal), rotura da vasa prévia, rotura do seio marginal, rotura uterina.&lt;/p&gt;
-
-&lt;h2 id=&quot;conduta&quot;&gt;Conduta&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Quem comando a conduta é a intensidade do sangramento, a idade gestacional e o tipo de PP.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A despeito de 2/3 das mulheres com placenta prévia sangrarem no período anteparto, esses
-raramente são episódios graves a ponto de exigirem interrupção da gravidez. Acredita-se que as mulheres com placenta prévia que apresentam sangramento (sintomáticas) e que permaneçam hemodinamicamente estáveis possam ser conduzidas ambulatorialmente.&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;O achado de área sonolucente na margem placentária que recobre o orifício interno (OI) do colo (seio marginal) eleva em 10 vezes o risco de hemorragia grave anteparto.&lt;sup id=&quot;fnref:rez:1&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;O colo com comprimento &amp;lt; 3 cm, pela ultrassonografia de 3o trimestre, indica possibilidade elevada de cesárea de emergência, antes de 34 semanas, por sangramento importante anteparto.&lt;sup id=&quot;fnref:rez:2&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;Pacientes que apresentam distância entre a borda da placenta e o OI ≥ 2 cm podem ser
-candidatas ao parto vaginal. Aquelas com essa distância &amp;lt; 4 cm (placenta baixa) apresentarão sangramento intenso no pós-parto.&lt;sup id=&quot;fnref:rez:3&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Após a anamnese, exame obstétrico e especular, a paciente deverá ser internada já com a solicitação da ecografia e dos exames laboratoriais. O internamento visa prevenir o sangramento que pode ocorrer a qualquer momento.&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Conservadora:&lt;/strong&gt; indicada nos pequenos sangramentos sem desequilíbrio hemodinâmico, independente da variedade de placenta prévia e com gravidez que cursa a faixa da prematuridade. Tem, portanto, como objetivo maior ganhar tempo intra-útero para o
-amadurecimento do pulmão fetal.
-    &lt;ul&gt;
-      &lt;li&gt;Repouso físico e sexual&lt;/li&gt;
-      &lt;li&gt;Combate à anemia: manter a Hb em torno de 12g com o FeSO4&lt;/li&gt;
-      &lt;li&gt;Avaliações periódicas de maturidade e vitalidade do concepto&lt;/li&gt;
-      &lt;li&gt;Administração de corticoide&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Intervencionista:&lt;/strong&gt; nos casos de prenhez de termo ou com sangramento de vulto com desequilíbrio hemodinâmico
-    &lt;ul&gt;
-      &lt;li&gt;mesmo vigente a prematuridade, a gravidez deverá ser interrompida e na quase totalidade das vezes através da operação cesariana.&lt;/li&gt;
-      &lt;li&gt;Parto:
-        &lt;ul&gt;
-          &lt;li&gt;No geral se faz cesárea&lt;/li&gt;
-          &lt;li&gt;Parto vaginal: indicação de realização de amniotomia, pois permite que o polo cefálico fetal comprima a placenta para estancar o sangramento
-            &lt;ul&gt;
-              &lt;li&gt;&lt;strong&gt;PP parcial&lt;/strong&gt;: pode ser feito parto vaginal se o sangramento for pequeno, parto próximo do fim, ausência de obstáculo mecânico&lt;/li&gt;
-              &lt;li&gt;&lt;strong&gt;PP marginal&lt;/strong&gt;: pode fazer parto vaginal se o sangramento for pequeno, a mãe estiver estável e o parto estiver próximo do fim&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Cesárea: &lt;strong&gt;PP oclusiva total&lt;/strong&gt; é indicação absoluta de &lt;strong&gt;cesárea&lt;/strong&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Parto prematuro&lt;/li&gt;
-  &lt;li&gt;RPMO&lt;/li&gt;
-  &lt;li&gt;Apresentações anômalas&lt;/li&gt;
-  &lt;li&gt;Discinesias&lt;/li&gt;
-  &lt;li&gt;SFA&lt;/li&gt;
-  &lt;li&gt;Infecção puerperal&lt;/li&gt;
-  &lt;li&gt;Distócias&lt;/li&gt;
-  &lt;li&gt;Atonia uterina&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Acretismo placentário&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;placenta-acreta&quot;&gt;Placenta acreta&lt;/h2&gt;
-&lt;p&gt;É quando a placenta invade além da camada compacta (limite normal de implantação), pegando a camada esponjosa.&lt;/p&gt;
-
-&lt;h3 id=&quot;classificação&quot;&gt;Classificação&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Acreta: invade a camada esponjosa&lt;/li&gt;
-  &lt;li&gt;Increta: invade o miométrio&lt;/li&gt;
-  &lt;li&gt;Percreta: invade a serosa e pode atingir órgãos adjacentes como a bexiga&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O fator de risco mais importante para placenta acreta é a PP em mulheres cesaredas (placenta prévia-cesárea). A &lt;strong&gt;placenta prévia-acreta-cesárea&lt;/strong&gt; ocorre pela deficiência de decídua basal na zona da cicatriz uterina. O risco, assim como a PP, também aumenta a cada nova cesárea.&lt;/p&gt;
-
-&lt;h3 id=&quot;dianóstico&quot;&gt;Dianóstico&lt;/h3&gt;
-&lt;p&gt;Os principais achados sonográficos sugestivos de acretismo incluem: perda da zona hipoecoica retroplacentária, adelgaçamento do miométrio, lagos placentários anômalos com fluxo turbulento ao Doppler colorido, hipervascularização ou disrupção da interface serosa-parede vesical com protrusão do tecido placentário para dentro da bexiga.&lt;/p&gt;
-
-&lt;p&gt;A RM seria especialmente útil para caracterizar o tipo de acretismo (acreta, increta, percreta),
-assim como a invasão de estruturas vizinhas (bexiga e paramétrios)&lt;/p&gt;
-
-&lt;h3 id=&quot;conduto&quot;&gt;Conduto&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Acreta: pode-se tentar a extração manual e fazer histeroscopia para remover os restos placentários&lt;/li&gt;
-  &lt;li&gt;Histerectomia: para placentas incretas e percretas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vasa-prévia&quot;&gt;Vasa prévia&lt;/h2&gt;
-&lt;p&gt;Na condição conhecida como vasa prévia, os vasos umbilicais cursam através das membranas sobre o orifício interno do colo e à frente da apresentação fetal, desprotegidos da estrutura placentária e do cordão umbilical&lt;/p&gt;
-
-&lt;p&gt;Existem 2 variantes de vasa prévia:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;tipo 1: resultante da inserção velamentosa do cordão,&lt;/li&gt;
-  &lt;li&gt;tipo 2: decorrente de vasos caminhando entre os lobos de uma placenta sucenturiada/bilobada&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em 2/3 dos casos a vasa prévia no 2º trimestre da gravidez está associada à placenta baixa. Em cerca de 30% dos casos a vasa prévia relaciona-se com a placenta sucenturiada/bilobada. Os fatores de risco
-para vasa prévia são fertilização in vitro, placenta sucenturiada/bilobada e placenta prévia no 2º trimestre, com odds ratio aproximado de, respectivamente, 8, 22 e 23.&lt;/p&gt;
-
-&lt;p&gt;Pouco mais de 35% dos casos de vasa prévia sangram no 3o trimestre da gravidez.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;quadro clínico&lt;/strong&gt; de vasa prévia no parto, após a ruptura das membranas, é o de exsanguinação fetal; a hemorragia de apenas 100 ml é suficiente para determinar choque e morte do feto. O traçado sinusoidal da frequência cardíaca fetal (fcf) pode ser o evento terminal, a indicar o óbito iminente do feto.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tratamento&lt;/strong&gt;: Via de regra, a vasa prévia apresenta-se no parto, com sangramento vaginal após a ruptura das membranas e anormalidades na fcf, tais como bradicardia, desaceleração tardia e traçado
-sinusoide. Em casos de vasa prévia identificados no 2o trimestre, o exame transvaginal com Doppler colorido no 3o trimestre deve confirmar o diagnóstico.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Parto&lt;/strong&gt;: Diagnosticada a vasa prévia no parto, pelo quadro clínico já descrito, indica-se a cesárea de emergência. Confirmada a vasa prévia no 3o trimestre, a paciente deve ser internada, iniciando-se o
-corticoide com 28 a 32 semanas, sendo a cesárea eletiva por volta de 35 a 37 semanas&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/pp3.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;p&gt;Pacientes com cesárea anterior constituem classe especial, pois apresentam dois problemas a serem excluídos: placenta prévia e placenta acreta. Se a placenta é prévia e anterior, a implantação na cicatriz uterina constitui a placenta prévia-cesárea, com elevado risco de ser
-também placenta prévia-acreta-cesárea.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pacientes que sangram (sintomáticas) devem ter conduta individualizada e não há regras sobre como conduzi-las. O prosseguimento da gravidez depende principalmente da estabilidade hemodinâmica.&lt;/li&gt;
-  &lt;li&gt;Pacientes de risco para parto pré-termo devem receber corticoide profilático.&lt;/li&gt;
-  &lt;li&gt;Pacientes assintomáticas com placenta prévia menor (baixa) devem ser reexaminadas por meio da ultrassonografia apenas com 36 semanas de gestação.&lt;/li&gt;
-  &lt;li&gt;Aquelas com placenta prévia maior ou com suspeita de placenta acreta devem realizar novo exame sonográfico com 32 semanas, para
-que o planejamento no 3ºT seja mais bem conduzido.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pacientes com placenta prévia definitiva no 3o trimestre devem ser informadas de que
-apresentam risco elevado de parto pré-termo e sangramento. As sintomáticas com placenta prévia maior devem ser hospitalizadas com 34 semanas, e as assintomáticas ou com placenta prévia menor podem ser conduzidas ambulatorialmente.&lt;/p&gt;
-
-&lt;p&gt;A época adequada para o parto deve ser individualizada, mas a cesárea costuma ser planejada para ocorrer com 34 semanas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pp/pp4.jpeg&quot; alt=&quot;Posições PP&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;parto&quot;&gt;Parto&lt;/h3&gt;
-&lt;p&gt;O parto vaginal pode ser tentado na placenta baixa, quando a borda placentária está a mais de 2 cm do OI do colo.&lt;/p&gt;
-
-&lt;p&gt;Mulheres com placenta prévia cuja margem placentária está a mais de 2 cm do OI no 3o
-trimestre devem ser operadas por cesárea. A cesárea eletiva deve ser realizada com 38 a 39 semanas, nas assintomáticas com placenta prévia menor e com 36 a 37 semanas nas assintomáticas com placenta prévia maior. As pacientes com placenta acreta assintomáticas serão operadas com 34 semanas.&lt;/p&gt;
-
-&lt;p&gt;A placenta acreta é a maior indicação (38%) de histerectomia-cesárea. A histerectomia-cesárea tem particularidades: cesárea clássica (incisão corporal longitudinal),
-nenhuma tentativa de retirada da placenta e histerectomia com a placenta in situ. É válida a espera pelo secundamento espontâneo, face à possível imprecisão do diagnóstico sonográfico. Quando a contratilidade uterina estiver prejudicada, são recomendadas 3 ordenhas do cordão para evitar a anemia do bebê. Muitas pacientes com placenta percreta e invasão da bexiga necessitam de cistectomia parcial.&lt;/p&gt;
-
-&lt;p&gt;Em caso de placenta acreta-cesárea, abre-se o útero longe da placenta (cesárea clássica) e extrai-se o feto sem tentar descolar a placenta; ato contínuo procede-se à histerectomia-cesárea com a placenta in situ.&lt;/p&gt;
-
-&lt;p&gt;Graças à radiologia intervencionista, tem-se proposto a conduta conservadora na placenta acreta. A placenta é deixada in situ após a cesárea e a embolização da artéria uterina é realizada no pós-operatório imediato. As vantagens de deixar a placenta in situ são o menor risco de hemorragia e de lesões em órgãos vizinhos, assim como a redução no tempo operatório. As
-desvantagens são o rigoroso acompanhamento da involução placentária no pós-operatório, com ultrassonografia e dosagem dos níveis de hCG-β, e o risco de hemorragia e de infecção.&lt;/p&gt;
-
-&lt;p&gt;Contudo, o tratamento conservador da placenta percreta, com a placenta deixada in situ para ser reabsorvida, está associada a graves complicações tardias – infecção e hemorragia – incluindo o
-risco de histerectomia, em quase 60% dos casos, até 9 meses do parto.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:med&quot;&gt;
-      &lt;p&gt;MED &lt;a href=&quot;#fnref:med&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:rez&quot;&gt;
-      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:cisam&quot;&gt;
-      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;Livro de matssuqi&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
