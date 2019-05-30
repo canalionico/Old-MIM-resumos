@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/urologia/2019/05/30/tumores-de-testiculo.html',
+      
         '/urologia/2019/05/30/alteracoes-escrotais.html',
       
         '/infectologia/2019/05/30/exame-lcr.html',
@@ -373,6 +375,12 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/rpmo/img8.jpeg'
       
         '/assets/obstetricia/rpmo/img9.jpeg'
+      
+        '/assets/urologia/tu-testiculos/estadio.jpeg'
+      
+        '/assets/urologia/tu-testiculos/img.jpeg'
+      
+        '/assets/urologia/tu-testiculos/lab.jpeg'
       
         '/browserconfig.xml'
       

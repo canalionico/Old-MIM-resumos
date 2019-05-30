@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-30T12:07:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Exame do LCR</title><link href="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html" rel="alternate" type="text/html" title="Exame do LCR" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/30/exame-lcr</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-30T15:11:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Exame do LCR</title><link href="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html" rel="alternate" type="text/html" title="Exame do LCR" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/30/exame-lcr</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-agudos&quot; id=&quot;markdown-toc-processos-infecciosos-agudos&quot;&gt;Processos infecciosos agudos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-subagudos&quot; id=&quot;markdown-toc-processos-infecciosos-subagudos&quot;&gt;Processos infecciosos subagudos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-crônicos&quot; id=&quot;markdown-toc-processos-infecciosos-crônicos&quot;&gt;Processos infecciosos crônicos&lt;/a&gt;    &lt;ul&gt;
@@ -63,12 +63,396 @@ exames imunológicos. Exceção deve ser feita à &lt;strong&gt;meningite cripto
 &lt;h3 id=&quot;neurossífilis&quot;&gt;Neurossífilis&lt;/h3&gt;
 &lt;h3 id=&quot;infecção-pelo-hiv&quot;&gt;Infecção pelo HIV&lt;/h3&gt;
 &lt;h3 id=&quot;doença-priônica&quot;&gt;Doença priônica&lt;/h3&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Alterações do conteúdo escrotal</title><link href="http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais.html" rel="alternate" type="text/html" title="Alterações do conteúdo escrotal" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais</id><content type="html" xml:base="http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#hidrocele&quot; id=&quot;markdown-toc-hidrocele&quot;&gt;Hidrocele&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hidrocele&quot; id=&quot;markdown-toc-hidrocele&quot;&gt;Hidrocele&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#hidrocele-simples&quot; id=&quot;markdown-toc-hidrocele-simples&quot;&gt;Hidrocele simples&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hidrocele-comunicante-e-hérnia-inguino-escrotal&quot; id=&quot;markdown-toc-hidrocele-comunicante-e-hérnia-inguino-escrotal&quot;&gt;Hidrocele Comunicante e Hérnia Inguino-escrotal&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hidrocele-de-cordão-espermático&quot; id=&quot;markdown-toc-hidrocele-de-cordão-espermático&quot;&gt;Hidrocele de cordão espermático&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#diagnóstico-2&quot; id=&quot;markdown-toc-diagnóstico-2&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#varicocele&quot; id=&quot;markdown-toc-varicocele&quot;&gt;Varicocele&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-3&quot; id=&quot;markdown-toc-diagnóstico-3&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-3&quot; id=&quot;markdown-toc-tratamento-3&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#criptorquidia&quot; id=&quot;markdown-toc-criptorquidia&quot;&gt;Criptorquidia&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-4&quot; id=&quot;markdown-toc-diagnóstico-4&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-4&quot; id=&quot;markdown-toc-tratamento-4&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;A diferenciação da genitália externa do embrião masculino ocorre em torno da 12ª semana de gestação sob a influência da testosterona, mais precisamente da dihidrotestosterona. A diferenciação testicular tem início por volta da 7ª semana de gestação, com desenvolvimento retroperitoneal, podendo ser encontrado já na bolsa escrotal após a 24ª semana.&lt;/p&gt;
 
-&lt;h2 id=&quot;hidrocele&quot;&gt;Hidrocele&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Dengue</title><link href="http://localhost:4000/infectologia/2019/05/29/dengue.html" rel="alternate" type="text/html" title="Dengue" /><published>2019-05-29T00:00:00-03:00</published><updated>2019-05-29T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/29/dengue</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/29/dengue.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;h2 id=&quot;hidrocele&quot;&gt;Hidrocele&lt;/h2&gt;
+&lt;p&gt;A migração do testículo, do abdômen para bolsa escrotal, é acompanhada de
+uma projeção de peritônio que envolve o testículo (processo vaginal), que normalmente
+se fecha abaixo do anel inguinal interno. Defeitos nesta obliteração acarretam em
+passagem de líquido peritoneal para o interior da túnica vaginal, levando ao acúmulo de
+líquido peritoneal entre o testículo e a túnica vaginal que o envolve, o que caracteriza a
+hidrocele.&lt;/p&gt;
+
+&lt;h3 id=&quot;hidrocele-simples&quot;&gt;Hidrocele simples&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;O processo vaginal encontra-se obliterado&lt;/li&gt;
+  &lt;li&gt;porém há acúmulo de líquido na túnica vaginal&lt;/li&gt;
+  &lt;li&gt;Nas crianças é geralmente
+    &lt;ul&gt;
+      &lt;li&gt;bilateral,&lt;/li&gt;
+      &lt;li&gt;de volume considerável,&lt;/li&gt;
+      &lt;li&gt;não redutível à manobras digitais ou mudanças de decúbito,&lt;/li&gt;
+      &lt;li&gt;indolor&lt;/li&gt;
+      &lt;li&gt;percebido ao nascimento&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Em adultos, resulta em aumento na produção de líquido pela túnica vaginal
+    &lt;ul&gt;
+      &lt;li&gt;como nos casos de virose ou pós-trauma e em defeitos na absorção, como na filariose.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h4&gt;
+&lt;p&gt;Feito através do exame físico, ficando a USG reservada para os casos cuja hidrocele surge tardiamente. Transiluminação presente e
+bolsa escrotal tensa são achados importantes.&lt;/p&gt;
+
+&lt;h4 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;nas crianças é expectante até os 2 anos de idade, pois há resolução espontânea na maioria dos casos.&lt;/li&gt;
+  &lt;li&gt;Abordagem cirúrgica
+    &lt;ul&gt;
+      &lt;li&gt;está indicada nos casos persistentes após os 02 anos de idade e nos de grande volume (crianças e adultos) ou com suspeita de persistência do conduto vaginal.&lt;/li&gt;
+      &lt;li&gt;deve ser inguinal nas crianças, para fechamento do conduto, com eversão da túnica vaginal.&lt;/li&gt;
+      &lt;li&gt;Em adultos, a abordagem cirúrgica preferencial é via bolsa escrotal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;hidrocele-comunicante-e-hérnia-inguino-escrotal&quot;&gt;Hidrocele Comunicante e Hérnia Inguino-escrotal&lt;/h3&gt;
+&lt;p&gt;A persistência do conduto vaginal permite a comunicação da cavidade
+abdominal com a bolsa escrotal, levando a passagem livre de líquido peritoneal e, às vezes, outros elementos intra-abdominais, gerando hérnias com conteúdo variável (alças
+intestinais, por exemplo).&lt;/p&gt;
+
+&lt;p&gt;É responsável pela maioria das hidroceles em recém-nascidos, principalmente nos prematuros, e em crianças.&lt;/p&gt;
+
+&lt;h4 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;O volume geralmente se altera com manobras digitais e mudanças de decúbito.&lt;/li&gt;
+  &lt;li&gt;O surgimento tardio é incomum, enquanto que alterações agudas no volume são comuns.&lt;/li&gt;
+  &lt;li&gt;USG está indicada nos casos duvidosos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Expectante até os 2 anos de idade
+    &lt;ul&gt;
+      &lt;li&gt;pois há resolução espontânea na maioria dos casos até esta idade.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A abordagem cirúrgica
+    &lt;ul&gt;
+      &lt;li&gt;está indicada nos casos persistentes após os 02 anos de idade e nos de grande volume ou com suspeita de persistência do conduto vaginal.&lt;/li&gt;
+      &lt;li&gt;Abordagem deve ser inguinal para fechamento do conduto e eversão da túnica vaginal nos de grande volume.&lt;/li&gt;
+      &lt;li&gt;Exploração contra-lateral está indicada nos casos de hérnia inguinal associada e nos casos de &lt;em&gt;shunts&lt;/em&gt; ventrículoabdominais e diálise peritoneal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;hidrocele-de-cordão-espermático&quot;&gt;Hidrocele de cordão espermático&lt;/h3&gt;
+&lt;p&gt;O conduto vaginal pode se obliterar segmentarmente, levando ao acúmulo de
+líquido peritoneal em parte do cordão espermático.&lt;/p&gt;
+
+&lt;h4 id=&quot;diagnóstico-2&quot;&gt;Diagnóstico&lt;/h4&gt;
+&lt;p&gt;Clinicamente, apresenta-se como uma massa de limites precisos, indolor,
+palpável abaixo do anel inguinal externo. Nestes casos, a ultrassonografia é importante
+para diferenciação com massas sólidas.&lt;/p&gt;
+
+&lt;h4 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;p&gt;A abordagem cirúrgica via inguinal está
+indicada nos casos de volume considerável.&lt;/p&gt;
+
+&lt;h2 id=&quot;varicocele&quot;&gt;Varicocele&lt;/h2&gt;
+&lt;p&gt;A varicocele corresponde à &lt;strong&gt;dilatação das veias do plexo pampiniforme&lt;/strong&gt; do
+cordão espermático. Cerca de 15% da população adulta masculina tem algum grau de varicocele.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mais comum à esquerda (cerca de 70%)
+    &lt;ul&gt;
+      &lt;li&gt;devido à drenagem, com inserção angulada, que ocorre da veia espermática esquerda para a veia renal ipsilateral (direto para veia renal da veia espermática deste lado).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;À direita, menos comum, drena direto para veia cava.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A varicocele é causa de infertilidade masculina, por influenciar negativamente a espermatogênese. Esta influência não é pontual. Podemos citar o refluxo de metabólitos adrenais, aumento da temperatura da bolsa escrotal, hipóxia testicular, entre outras causas.&lt;/p&gt;
+
+&lt;h3 id=&quot;diagnóstico-3&quot;&gt;Diagnóstico&lt;/h3&gt;
+&lt;p&gt;O diagnóstico é feito através do exame físico, podendo ser complementado por
+exame de imagem (USG com doppler da bolsa escrotal).&lt;/p&gt;
+
+&lt;p&gt;Na suspeita de infertilidade do casal, a incidência de varicocele é de 35 a 40% e o espermograma deve ser solicitado. Sendo os achados mais comuns são o baixo número de espermatozóides (Oligospermia), motilidade reduzida (Astenospermia) e
+formas anormais.&lt;/p&gt;
+
+&lt;h3 id=&quot;classificação&quot;&gt;Classificação&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Grau I: vasos palpáveis à manobra de Valsalva;&lt;/li&gt;
+  &lt;li&gt;Grau II: vasos palpáveis e visíveis à manobra de Valsalva;&lt;/li&gt;
+  &lt;li&gt;Grau III: vasos visíveis na posição supina, sem a necessidade de manobra de Valsalva.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tratamento-3&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;p&gt;Consiste na correção cirúrgica (ligadura das veias do plexo pampiniforme) para os pacientes com infertilidade.&lt;/p&gt;
+
+&lt;p&gt;A dor escrotal e o fator estético são
+indicações discutíveis.&lt;/p&gt;
+
+&lt;p&gt;Em crianças e adolescentes, a indicação da cirurgia é de maneira geral, feita na presença de atrofia testicular causando assimetria significativa (&amp;gt; 20%).&lt;/p&gt;
+
+&lt;p&gt;O técnica cirúrgica padrão ouro atualmente consiste na &lt;strong&gt;abordagem sub-inguinal por microcirurgia&lt;/strong&gt;, feita com lupa, o que diminui a ligadura inadvertida da drenagem linfática e do suprimento arterial.&lt;/p&gt;
+
+&lt;h2 id=&quot;criptorquidia&quot;&gt;Criptorquidia&lt;/h2&gt;
+&lt;p&gt;Definimos como testículo criptorquídico, aquele fora da bolsa
+escrotal, porém no seu trajeto de descida normal, enquanto que o testículo ectópico é aquele fora da bolsa escrotal e do trajeto normal de descenso.&lt;/p&gt;
+
+&lt;p&gt;Os testículos podem não atingir a  bolsa escrotal uni ou bilateralmente. Acomete em torno de 3% dos recém nascidos e aproximadamente 80% terão resolução espontânea ate o 3º mês de vida. A prematuridade e principalmente o baixo peso ao nascimento aumentam consideravelmente as chances de criptorquidia.&lt;/p&gt;
+
+&lt;h3 id=&quot;diagnóstico-4&quot;&gt;Diagnóstico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Em torno de 80%: os testículos criptorquídicos são palpáveis na base da bolsa escrotal
+    &lt;ul&gt;
+      &lt;li&gt;sendo o diagnóstico feito pelo exame físico.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Os 20% não palpáveis, dividem-se entre os:
+    &lt;ul&gt;
+      &lt;li&gt;abdominais&lt;/li&gt;
+      &lt;li&gt;e os ausentes (anorquia)
+        &lt;ul&gt;
+          &lt;li&gt;Nestes, o diagnóstico pode ser feito por exames de imagem como a TC, USG e RM.&lt;/li&gt;
+          &lt;li&gt;Porém o exame padrão ouro é a laparoscopia.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nos casos de testículos não palpáveis bilateralmente, temos que investigar a
+hipótese de criptorquidia bilateral intra-abdominal ou anorquia (raro). Para isso, dosamos LH, FSH e testosterona inicialmente. Após esta dosagem, administra-se &lt;strong&gt;1.000 U de HCG&lt;/strong&gt; IM &lt;strong&gt;a cada 4 dias&lt;/strong&gt;, num total de 4.000 U; as dosagens hormonais são repetidas e &lt;strong&gt;a resposta positiva ao estímulo hormonal indica a presença de testículos&lt;/strong&gt;. Caso contrário, quando a testosterona não se altera, indicando ausência de testículo, a cirurgia laparoscópica é desnecessária.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-4&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;p&gt;A correção da criptorquidia tem finalidade múltipla, incluindo a prevenção da infertilidade, prevenção da degeneração maligna, tratamento de anomalias associadas como herniações, prevenção de distúrbios psicológicos e prevenção de torção, que ocorre mais freqüentemente na criptorquidia devido a não fixação do gubernáculo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;tratamento não-invasivo
+    &lt;ul&gt;
+      &lt;li&gt;é representado pela hormonioterapia com gonadotrofina coriônica humana (&lt;strong&gt;HCG&lt;/strong&gt;) que simula o estímulo do LH, aumentando a concentração sérica de testosterona.&lt;/li&gt;
+      &lt;li&gt;O índice de sucesso desta linha de tratamento é diretamente proporcional à proximidade do testículo criptorquídico à bolsa escrotal.&lt;/li&gt;
+      &lt;li&gt;De uma maneira geral, os índices de resolução ficam entre 20 e 55% dos casos, sendo a idade também um fator a ser considerado na escolha deste tipo de tratamento.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Abordagem cirúrgica
+    &lt;ul&gt;
+      &lt;li&gt;está indicada nos casos de falha da hormonioterapia e quando já existe indicação primária de cirurgia como nos casos de outras doenças de correção cirúrgica associadas, como as hérnias.&lt;/li&gt;
+      &lt;li&gt;Os testículos palpáveis são abordados por inguinotomia clássica, liberando com adequada dissecção do cordão espermático e fixando-os na bolsa escrotal após confecção de trajeto, por dissecção digital-romba do espaço subdártico.&lt;/li&gt;
+      &lt;li&gt;Nos testículos não-palpáveis, técnicas diversificadas são utilizadas. Entre elas temos a inguinotomia exploradora com orquipexia em único estágio, podendo ainda fixarmos o testículo o mais próximo possível da bolsa escrotal, reabordando-o após 6 a 12 meses. O clampeamento dos vasos espermáticos (técnica de Fowler-Stephens) com incisão do testículo e observação de sangramento. Se positivo, os vasos são ligados e o testículo é abaixado até o escroto, nutrido pela artéria deferencial e testicular. O autotransplante testicular, por meio de anastomose microvascular dos vasos espermáticos com vasos epigástricos inferiores, é relatado na literatura, mas os resultados são controversos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Tumores de testículo</title><link href="http://localhost:4000/urologia/2019/05/30/tumores-de-testiculo.html" rel="alternate" type="text/html" title="Tumores de testículo" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/urologia/2019/05/30/tumores-de-testiculo</id><content type="html" xml:base="http://localhost:4000/urologia/2019/05/30/tumores-de-testiculo.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#tumores-de-células-germinativas&quot; id=&quot;markdown-toc-tumores-de-células-germinativas&quot;&gt;Tumores de células germinativas&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#marcadores-tumorais&quot; id=&quot;markdown-toc-marcadores-tumorais&quot;&gt;Marcadores tumorais&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnótico-diferencial&quot; id=&quot;markdown-toc-diagnótico-diferencial&quot;&gt;Diagnótico diferencial&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tumores-de-células-germinativas&quot;&gt;Tumores de células germinativas&lt;/h2&gt;
+&lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Raros&lt;/li&gt;
+  &lt;li&gt;De todos os tumores testiculares primários, 90 a 95% são tumores de célulares germinativas
+    &lt;ul&gt;
+      &lt;li&gt;seminoma (é o tumor de células germinativas mais comum entre os tumores testiculares bilaterais primários)&lt;/li&gt;
+      &lt;li&gt;não seminoma
+        &lt;ul&gt;
+          &lt;li&gt;linfoma maligno é o tumor bilateral mais comum do testículo&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;os res­tantes são neoplasias não germinativas (células de Leydig, células de Sertoli, gonadoblastoma)&lt;/li&gt;
+  &lt;li&gt;↑em Brancos&lt;/li&gt;
+  &lt;li&gt;Mais comum do lado direito&lt;/li&gt;
+  &lt;li&gt;1-2% são bilaterais&lt;/li&gt;
+  &lt;li&gt;Associação com criptorquidia&lt;/li&gt;
+  &lt;li&gt;Aproximadamente 7 a 10% dos tumores testiculares desenvolvem-se em pacientes que têm his­tória de criptorquidia&lt;/li&gt;
+  &lt;li&gt;O risco relativo de malignidade é mais alto para os testículos intra-abdominais (1 em 20)&lt;/li&gt;
+  &lt;li&gt;e é significativamente mais baixo para o testículo inguinal (1 em 80).&lt;/li&gt;
+  &lt;li&gt;A colocação do testículo criptorquídeo na bolsa escrotal (&lt;strong&gt;orquidopexia&lt;/strong&gt;) diminui o risco de malignidade se for realizada antes da idade de 13 anos&lt;/li&gt;
+  &lt;li&gt;A administração de estrogênio exógeno à mãe durante a gra­videz tem sido associada a um risco relativo aumentado de tumo­res testiculares no feto&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;classificação&quot;&gt;Classificação&lt;/h3&gt;
+&lt;p&gt;Por meio da histologia, se dividem em semiomas e não semiomatosos que incluem os tumores embrionários, teratoma, coriocarcinoma e tumores mistos.&lt;/p&gt;
+
+&lt;h3 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h3&gt;
+&lt;p&gt;Durante o desenvolvimento embrionário, as células germinativas totipotentes podem percorrer vias normais de diferenciação
+e se tornar espermatócitos. Entretanto, se essas células germinativas totipotentes percorrerem vias de desenvolvimento anormais, desenvolvem-se o seminoma ou carcinomas embrionários (tu­mores de células totipotentes).&lt;/p&gt;
+
+&lt;p&gt;Note que os tumores do saco embrionário produzem a-fetoproteína (AFP), do mesmo modo que o saco embrionário produz AFP no desenvolvimento normal. De modo semelhante, o coriocarcinoma produz gonadotrofina coriônica humana (hCG),
+como a placenta normal o faz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/urologia/tu-testiculos/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;patologia&quot;&gt;Patologia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Semiomas (35%)
+    &lt;ul&gt;
+      &lt;li&gt;Dividi-se em:
+        &lt;ul&gt;
+          &lt;li&gt;Clássico (85%)&lt;/li&gt;
+          &lt;li&gt;Anaplásico (5-10%)&lt;/li&gt;
+          &lt;li&gt;Espermatócito (5-10%), mais comum em &amp;gt; 50 anos&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Carcinomas de células embrionárias (20%)
+    &lt;ul&gt;
+      &lt;li&gt;Tipo adulto&lt;/li&gt;
+      &lt;li&gt;Tipo infantil (tumor do saco embrionário), o tumor mais comum de lactentes e crianças maiores&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Teratoma (5%)
+    &lt;ul&gt;
+      &lt;li&gt;Tanto em crianças como em adultos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Coriocarcinoma (&amp;lt;1%)
+    &lt;ul&gt;
+      &lt;li&gt;Clinicamente, os coriocarcinomas se comportam de uma maneira agressiva, caracterizada por disseminação hematogênica precoce.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tipos de células mistas (40%)
+    &lt;ul&gt;
+      &lt;li&gt;Teratocarcinomas (25%)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Carcinoma in situ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
+&lt;p&gt;O sintoma mais comum de câncer testicular é um &lt;strong&gt;aumento indolor do testículo&lt;/strong&gt;. O aumento geralmente é gradual, e uma sen­sação de peso no testículo não é incomum.&lt;/p&gt;
+
+&lt;p&gt;O atraso típico do tra­tamento a partir do reconhecimento inicial da lesão pelo paciente até a terapia definitiva (orquiectomia) varia de 3 a 6 meses. A du­ração do atraso correlaciona-se com a incidência de metástases. A importância da percepção do paciente e do autoexame é aparente.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dor testicular aguda é vista em aproximadamente 10% dos casos,
+    &lt;ul&gt;
+      &lt;li&gt;pode ser o resultado de hemorragia intratesticular ou infarto.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Uma tumoração testicular ou um aumento difuso é encon­trado na maioria dos casos.
+    &lt;ul&gt;
+      &lt;li&gt;Geralmente, a massa é firme e indo­lor,&lt;/li&gt;
+      &lt;li&gt;e o epidídimo deve ser facilmente separado dela.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Uma hidrocele pode acompanhar o tumor do testículo e ajudar a camuflá-lo.
+    &lt;ul&gt;
+      &lt;li&gt;A transiluminação da bolsa escrotal pode ajudar a distinguir en­tre essas entidades.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A palpação do abdome pode revelar doença retroperitoneal volumosa;&lt;/li&gt;
+  &lt;li&gt;uma avaliação dos gânglios supraclaviculares, escale­nos e inguinais deve ser feita.&lt;/li&gt;
+  &lt;li&gt;Ginecomastia está presente em 5% de todos os tumores de células germinativas, mas pode ocorrer em 30 a 50% dos tumores de células de Sertoli e Leydig.
+    &lt;ul&gt;
+      &lt;li&gt;Sua causa parece estar relacionada a múltiplas interações hormonais com ­ plexas, envolvendo testosterona, estrona, estradiol, prolactina e gonadotrofina coriônica humana (hCG).&lt;/li&gt;
+      &lt;li&gt;Hemoptise pode ser vista na doença pulmonar avançada.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Lab
+    &lt;ul&gt;
+      &lt;li&gt;Anemia na doença avançada&lt;/li&gt;
+      &lt;li&gt;Alteração enzimas hepáticas (metástase hepática)&lt;/li&gt;
+      &lt;li&gt;A avaliação da função renal (depura­ ção da creatinina) é obrigatória em pacientes com doença avan­çada que precisam de quimioterapia.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Imagem
+    &lt;ul&gt;
+      &lt;li&gt;USG da bolsa escrotal&lt;/li&gt;
+      &lt;li&gt;RX do tórax (PA e perfil) e TC do abdome e da pelve são usadas para avaliar os dois locais mais comuns de dissemina­ção metastática
+        &lt;ul&gt;
+          &lt;li&gt;pulmões e o retroperitônio&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;marcadores-tumorais&quot;&gt;Marcadores tumorais&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;AFP
+    &lt;ul&gt;
+      &lt;li&gt;nunca é encontrada em seminomas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;hCG
+    &lt;ul&gt;
+      &lt;li&gt;Um homem normal não deve ter níveis significativos de b-hCG.&lt;/li&gt;
+      &lt;li&gt;Pode estar alto em 7% dos semionomas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;desidrogenase láctica (LDH)
+    &lt;ul&gt;
+      &lt;li&gt;encontrada nor­malmente no músculo (liso, cardíaco, esquelético), fígado, rim e cérebro.&lt;/li&gt;
+      &lt;li&gt;Foi mostrado que a elevação de LDH total no soro, e em particular da isoenzima-I, correlaciona-se com a carga tumoral em NSGCTs.&lt;/li&gt;
+      &lt;li&gt;também pode estar elevada no seminoma.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/urologia/tu-testiculos/lab.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;diagnótico-diferencial&quot;&gt;Diagnótico diferencial&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Epidimitite&lt;/li&gt;
+  &lt;li&gt;Hidrocele&lt;/li&gt;
+  &lt;li&gt;Espermatocele&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/urologia/tu-testiculos/estadio.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;p&gt;A exploração inguinal com ligadura da vasculatura do cordão espermático e colocação do testículo no campo é a viga mestra da exploração para um possível tumor do testículo. Se o câncer não puder ser excluído pelo exame do testículo, uma or­quiectomia radical está indicada.&lt;/p&gt;
+
+&lt;p&gt;Abordagens escrotais e biópsias testiculares abertas devem ser evitadas. Uma terapia adicional
+depende das características histológicas do tumor, bem como do
+estágio clínico.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Dengue</title><link href="http://localhost:4000/infectologia/2019/05/29/dengue.html" rel="alternate" type="text/html" title="Dengue" /><published>2019-05-29T00:00:00-03:00</published><updated>2019-05-29T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/29/dengue</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/29/dengue.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#caso-clínico&quot; id=&quot;markdown-toc-caso-clínico&quot;&gt;Caso clínico&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#objetivos&quot; id=&quot;markdown-toc-objetivos&quot;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
@@ -1206,161 +1590,4 @@ presença de HAS, os inibidores da ECA e os antagonistas
 dos receptores da angiotensina II estão indicados para o
 tratamento da ND. Finalmente, em especial na presença de
 nefropatia clínica, a restrição do conteúdo protéico da di-
-eta está indicada.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Dispnéia de causa cirúrgica no recém-nascido</title><link href="http://localhost:4000/2019/05/22/dispneia-de-causa-cirurgica.html" rel="alternate" type="text/html" title="Dispnéia de causa cirúrgica no recém-nascido" /><published>2019-05-22T00:00:00-03:00</published><updated>2019-05-22T00:00:00-03:00</updated><id>http://localhost:4000/2019/05/22/dispneia-de-causa-cirurgica</id><content type="html" xml:base="http://localhost:4000/2019/05/22/dispneia-de-causa-cirurgica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#insuficiência-respiratória&quot; id=&quot;markdown-toc-insuficiência-respiratória&quot;&gt;Insuficiência respiratória&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#mecanismo-de-estabilidade-alveolar&quot; id=&quot;markdown-toc-mecanismo-de-estabilidade-alveolar&quot;&gt;Mecanismo de estabilidade alveolar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#qual-o-risco-de-ira-no-rn&quot; id=&quot;markdown-toc-qual-o-risco-de-ira-no-rn&quot;&gt;Qual o risco de IRA no RN?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#malformações-congênitas-do-pulmão&quot; id=&quot;markdown-toc-malformações-congênitas-do-pulmão&quot;&gt;Malformações congênitas do pulmão&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hérnia-diafragmática-congênita&quot; id=&quot;markdown-toc-hérnia-diafragmática-congênita&quot;&gt;Hérnia diafragmática congênita&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;&lt;strong&gt;Conduta&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#complicações-intra-op&quot; id=&quot;markdown-toc-complicações-intra-op&quot;&gt;Complicações intra-op&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O desenvolvimento pulmonar normal tem 5 fases:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Período embrionário: até 7sem&lt;/li&gt;
-  &lt;li&gt;Período pseudoglandular: 8-16 sem&lt;/li&gt;
-  &lt;li&gt;Periodo canalicular 17-24 sem&lt;/li&gt;
-  &lt;li&gt;saco terminal 25sem ao termo&lt;/li&gt;
-  &lt;li&gt;alveolar: últimas 4 semanas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ao termo, o número de alvéolos é 8% do número de alvéolos do adulto. Até os 8 anos ocorre formação de cerca de 100.000 alvéolos por dia.&lt;/p&gt;
-
-&lt;p&gt;Qualquer pressão externa sobre o bulbo pulmonar, na vida intra-uterina precoce, por formar uma hérnia diafragmática → hipoplasia pulmonar (ipsilateral)&lt;/p&gt;
-
-&lt;h2 id=&quot;insuficiência-respiratória&quot;&gt;Insuficiência respiratória&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;↑FR&lt;/li&gt;
-  &lt;li&gt;Batimento das asas do nariz&lt;/li&gt;
-  &lt;li&gt;Retração xifoidea&lt;/li&gt;
-  &lt;li&gt;Tiragem intercostal e estridor respiratório&lt;/li&gt;
-  &lt;li&gt;Cianose&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mecanismo-de-estabilidade-alveolar&quot;&gt;Mecanismo de estabilidade alveolar&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Surfactante complexo lipoproteico que mantêm a tensão baixa na interface líquida do alvéolo, desenvolvendo uma interface ar/líquido mantendo o alvéolo aerado para que ocorra a hematose.
-    &lt;ul&gt;
-      &lt;li&gt;Pneumocistos tipo II: 24 sem&lt;/li&gt;
-      &lt;li&gt;28 sem: dosagem a nivel traqueal&lt;/li&gt;
-      &lt;li&gt;32 sem: varios fosfolipidios no líquido amniótico&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Mecanismo de força e pressão
-    &lt;ul&gt;
-      &lt;li&gt;a distribuição de ar dentro do pulmão não é uniforme&lt;/li&gt;
-      &lt;li&gt;Abaixo de certo volume pulmonar há colabamento das vias aéreas&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ul&gt;
-      &lt;li&gt;muito mais shunts pulmonares que o adulto (RN 15-30% e adulto 7%) (?)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;qual-o-risco-de-ira-no-rn&quot;&gt;Qual o risco de IRA no RN?&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;reabertura dos shunts direita-esquerda no território pulmonar e cardíaco&lt;/li&gt;
-  &lt;li&gt;Ducto arterioso
-    &lt;ul&gt;
-      &lt;li&gt;Obliteração funcional&lt;/li&gt;
-      &lt;li&gt;Obliteração anatômica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;malformações-congênitas-do-pulmão&quot;&gt;Malformações congênitas do pulmão&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Enfisema lobar congễnito&lt;/li&gt;
-  &lt;li&gt;Doença adenomatóide cística&lt;/li&gt;
-  &lt;li&gt;Cisto broncogênico&lt;/li&gt;
-  &lt;li&gt;Cisto oncogênico: cursa com infecção de repetição&lt;/li&gt;
-  &lt;li&gt;Sequestro pulmonar
-    &lt;ul&gt;
-      &lt;li&gt;intralobar: infecção resp de repetição&lt;/li&gt;
-      &lt;li&gt;extralombar: mais difícil de dar diagnóstico&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;hérnia-diafragmática-congênita&quot;&gt;Hérnia diafragmática congênita&lt;/h2&gt;
-&lt;p&gt;É a protrusão do conteúdo intraperitoneal para dentro da cavidade torácica através do defeito diafragmático.
-A mais comum causa cirúrgica congênita. Pode nascer bem e após alimentação manifestar a herniação das alças intestinais.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hérnia de Bochdaleck&lt;/li&gt;
-  &lt;li&gt;Hernia de …&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;É mais comum do lado esquerdo (80% dos casos) mais quando acontece no direito é mais grave devido à herniação consecutiva do figado.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;1% é bilateral&lt;/li&gt;
-  &lt;li&gt;Mais em meninos do que meninas (2:1)&lt;/li&gt;
-  &lt;li&gt;Membrana pleuroperitoneal intacta em 20-40% dos casos&lt;/li&gt;
-  &lt;li&gt;História de polidrâmnio ante-natal&lt;/li&gt;
-  &lt;li&gt;32% são natimortos&lt;/li&gt;
-  &lt;li&gt;Comum a associação com outras malformações&lt;/li&gt;
-  &lt;li&gt;Neonatos a termo com essa afecção:
-    &lt;ul&gt;
-      &lt;li&gt;36% morre com poucas horas de vida&lt;/li&gt;
-      &lt;li&gt;anomalias do SNC&lt;/li&gt;
-      &lt;li&gt;Anencefalia&lt;/li&gt;
-      &lt;li&gt;Mielomeningocele&lt;/li&gt;
-      &lt;li&gt;etc…&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Por que ocorre?
-    &lt;ul&gt;
-      &lt;li&gt;Anomalia no desenvolvimento do diafragma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quadro clínico
-    &lt;ul&gt;
-      &lt;li&gt;IRA&lt;/li&gt;
-      &lt;li&gt;MV ausente no sítio da hérnia (difícil de perceber)&lt;/li&gt;
-      &lt;li&gt;RHA audíveis no hemitórax afetado (difícil de perceber)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;conduta&quot;&gt;&lt;strong&gt;Conduta&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;A correção cirúrgica só é a primeira opção se o RN estiver bem&lt;/li&gt;
-  &lt;li&gt;Quando não, a cirúrgia é adiada até que a ventilação pulmonar seja considerada boa&lt;/li&gt;
-  &lt;li&gt;Clínica:
-    &lt;ul&gt;
-      &lt;li&gt;entubar&lt;/li&gt;
-      &lt;li&gt;decúbito lateral para o lado afetado&lt;/li&gt;
-      &lt;li&gt;elevação do decúbito para a alça descer por gravidade&lt;/li&gt;
-      &lt;li&gt;Passar sonda para não distender a alça&lt;/li&gt;
-      &lt;li&gt;Não pode ventilar com máscara e não realizar hiperventilação&lt;/li&gt;
-      &lt;li&gt;Monitorizar a PA&lt;/li&gt;
-      &lt;li&gt;Cateterismo umbilical: PaO2 do sangué pós-ductal&lt;/li&gt;
-      &lt;li&gt;Analgesia e sedação: fentanil e midazolam&lt;/li&gt;
-      &lt;li&gt;Manipulação mínima&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Melhorando → operar&lt;/li&gt;
-  &lt;li&gt;Se não melhorar → oxigenação com membrana extra-corpórea (ECMO), uma “respiração extra-corpórea” feita por maquina
-    &lt;ul&gt;
-      &lt;li&gt;Indicação em casos bem graves que não respondem à terapia clínica&lt;/li&gt;
-      &lt;li&gt;IG &amp;gt; 33 semanas&lt;/li&gt;
-      &lt;li&gt;Terapia extrema para realmente tentar salvar a criança&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Surfactante: sem benefícios&lt;/li&gt;
-  &lt;li&gt;NO inalado: bem controverso o seu uso em hérnias diafragmáticas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;complicações-intra-op&quot;&gt;Complicações intra-op&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;pneumotorax&lt;/li&gt;
-  &lt;li&gt;Hipertensão Pulmonar&lt;/li&gt;
-  &lt;li&gt;Hemotórax&lt;/li&gt;
-  &lt;li&gt;Displasia broncopulmonar&lt;/li&gt;
-  &lt;li&gt;Refluxo gastroesofágico quando mais velho&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Livro de matssuqi&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+eta está indicada.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
