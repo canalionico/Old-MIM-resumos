@@ -1,4 +1,379 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-30T15:11:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Exame do LCR</title><link href="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html" rel="alternate" type="text/html" title="Exame do LCR" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/30/exame-lcr</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-02T13:01:33-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Parto prematuro</title><link href="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html" rel="alternate" type="text/html" title="Parto prematuro" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/06/02/parto-prematuro</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É o parto que ocorre antes de 37 sem de gestação (259 dias).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pré termo: &amp;lt; 37 sem
+    &lt;ul&gt;
+      &lt;li&gt;extremo: &amp;lt; 28 semanas (5%)&lt;/li&gt;
+      &lt;li&gt;Muito pré-termo: 28 a 30+6 semanas (15%)&lt;/li&gt;
+      &lt;li&gt;precoce: 31 a 33+6 semanas (20%)&lt;/li&gt;
+      &lt;li&gt;tardio: 34 a 36+6 semanas (60%)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Termo precoce:  entre 37 e 38sem e 6d&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O parto pré-termo é um problema de saúde pública e representa a causa principal de
+morbidade e de mortalidade neonatal precoce e tardia, em face do risco aumentado de
+complicações no neurodesenvolvimento, respiratórias e gastrintestinais, como síndrome de
+angústia respiratória (SAR), doença pulmonar crônica, enterocolite necrosante, hemorragia
+intraventricular e paralisia cerebral.&lt;/p&gt;
+
+&lt;p&gt;O RN também é categorizado quanto ao peso ao nascer:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Baixo peso: &amp;lt; 2.500g&lt;/li&gt;
+  &lt;li&gt;Muito baixo peso: &amp;lt; 1.500 g&lt;/li&gt;
+  &lt;li&gt;Baixo peso extremo: &amp;lt; 1.000 g&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;8-12% dos partos&lt;/li&gt;
+  &lt;li&gt;Para a mãe, o parto pré-termo aumenta o risco de nova interrupção em gravidez subsequente&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+  &lt;li&gt;Cerca de 2/3 dos RN de baixo peso são pré-termo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Parto pré-termo espontâneo
+    &lt;ul&gt;
+      &lt;li&gt;Associado ou não a RPMO&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Parto pré-termo indicado: decorrente da indução sob indicação por complicações como
+    &lt;ul&gt;
+      &lt;li&gt;Distúrbios hipertensivos&lt;/li&gt;
+      &lt;li&gt;Hemorragia&lt;/li&gt;
+      &lt;li&gt;CIUR&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img3.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Os processos patológicos implicados no parto pré-termo incluem infecção intrauterina,
+isquemia uterina, sobredistensão uterina, reação anormal ao aloenxerto, fenômeno alérgico,
+distúrbios do colo uterino e doenças endócrinas&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img4.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Vaginose bacteriana:&lt;/strong&gt; Condição clínica caraterizada por corrimento vaginal de odor fétido, pH vaginal &amp;gt; 4,5 e alteração na flora vaginal normal lactobacilo-dominante para outra com predomínio de &lt;em&gt;Gardnerella vaginalis, Prevotella sp.&lt;/em&gt; e &lt;em&gt;Atopobium sp&lt;/em&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;A vaginose bacteriana assintomática (rastreada no pré-natal com 16 semanas) é considerada causa de parto pré-termo, abortamento e infecção materna.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Infecções não genitais&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Pielonefrite&lt;/li&gt;
+      &lt;li&gt;Pneumonia&lt;/li&gt;
+      &lt;li&gt;Apendicite&lt;/li&gt;
+      &lt;li&gt;Doença periodontal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Infecção intrauterina:&lt;/strong&gt; A corioamnionite é responsável por &amp;gt; 30% de todos os partos pré-termo.
+    &lt;ul&gt;
+      &lt;li&gt;São encontrados microrganismos no líquido amniótico&lt;/li&gt;
+      &lt;li&gt;A via de infecção mais comum é a ascendente&lt;/li&gt;
+      &lt;li&gt;os microrganismos mais encontrados são &lt;em&gt;Mycoplasma spp.&lt;/em&gt; e &lt;em&gt;Ureaplasma urealyticum&lt;/em&gt;&lt;/li&gt;
+      &lt;li&gt;Esses microrganismos são tipicamente de baixa virulência, o que explica provavelmente a cronicidade da infecção intrauterina e a ausência frequente de sinais clínicos de infecção no parto pré-termo tardio.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Citocinas pró-inflamatórias:&lt;/strong&gt; A inflamação e seus mediadores, quimiocinas tais como a IL-8, citocinas pró-inflamatórias (IL-1, IL-6 e TNF-α) e outros [fator ativador de plaquetas (PAF), prostaglandinas] estão implicados no parto pré-termo infeccioso.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sobredistensão uterina:&lt;/strong&gt;  Ocorre em casos de malformações uterinas, polidrâmnia e gravidez gemelar, sendo dependente da exacerbação da contratilidade uterina, do amadurecimento do colo do útero e da ruptura das membranas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gravidez gemelar:&lt;/strong&gt; sobredistensão uterina, muito embora o parto pré-termo indicado também seja um fator. Apesar de representar em apenas 23% das gestações, a gravidez gemelar é responsável por 13 a 20% de todos os partos pré-termo. Aproximadamente 60% dos gêmeos nascem pré-termo e nas gestações múltiplas (3 ou mais), quase todos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sangramento vaginal:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;DPP: descolamento prematuro de placenta&lt;/li&gt;
+      &lt;li&gt;PP: placenta prévia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Isquemia uteroplacentária:&lt;/strong&gt; As características mais comuns na placenta de pacientes com parto pré-termo (&amp;lt; 28 semanas), mas sem alterações inflamatórias, são as lesões vasculares que incluem remodelação defeituosa das arteríolas espiraladas, aterose aguda e trombose dessas artérias (vasculopatia decidual), diminuição da quantidade e trombose das arteríolas nas vilosidades coriônicas. Essas alterações vasculares também são típicas da pré-eclâmpsia e do CIR e representam o substrato anatomopatológico das grandes síndromes obstétricas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Doenças e cirurgias maternas&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Doença da tireoide&lt;/li&gt;
+      &lt;li&gt;asma&lt;/li&gt;
+      &lt;li&gt;diabetes melito&lt;/li&gt;
+      &lt;li&gt;hipertensão arterial crônica&lt;/li&gt;
+      &lt;li&gt;cirurgias maternas abdominais no 2º e no 3º trimestres podem estimular as contrações uterinas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Doenças cervicais&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Insuficiência cervical: causada por cirurgia, trauma ou fraqueza congênita do colo do útero determinante de abortamento tardio&lt;/li&gt;
+      &lt;li&gt;A doença cervical pode resultar de alteração congênita (hipoplasia, exposição ao dietilestilbestrol in utero, útero septado), assim como de lesão traumática da estrutura cervical (conização, dilatações cervicais repetidas ou rudes para interrupção da gravidez).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Distúrbios hormonais:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;A progesterona é o hormônio central para a manutenção da gravidez.&lt;/li&gt;
+      &lt;li&gt;Acredita-se que a deficiência da fase lútea seja causa de infertilidade e de abortamento habitual.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;História pregressa de parto pré-
+termo&lt;/li&gt;
+  &lt;li&gt;baixo nível socioeconômicoeducacional&lt;/li&gt;
+  &lt;li&gt;etnia&lt;/li&gt;
+  &lt;li&gt;idade materna &amp;lt; 18 ou &amp;gt; 35 anos)&lt;/li&gt;
+  &lt;li&gt;tabagismo e uso de drogas ilícitas&lt;/li&gt;
+  &lt;li&gt;estresse&lt;/li&gt;
+  &lt;li&gt;abuso físico&lt;/li&gt;
+  &lt;li&gt;assistência pré-natal deficiente&lt;/li&gt;
+  &lt;li&gt;baixo peso pré-gravídico&lt;/li&gt;
+  &lt;li&gt;ganho de peso inadequado na gestação&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:rez&quot;&gt;
+      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Vitalidade fetal</title><link href="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html" rel="alternate" type="text/html" title="Vitalidade fetal" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot; id=&quot;markdown-toc-condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot;&gt;Condições associadas a risco elevado perinatal que necessitam de avaliação anteparto&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#os-principais-testes-de-avaliação-anteparto&quot; id=&quot;markdown-toc-os-principais-testes-de-avaliação-anteparto&quot;&gt;Os principais testes de avaliação anteparto&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#início-e-frequência-dos-testes-antenatais&quot; id=&quot;markdown-toc-início-e-frequência-dos-testes-antenatais&quot;&gt;Início e frequência dos testes antenatais&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#contagem-dos-movimentos-fetais&quot; id=&quot;markdown-toc-contagem-dos-movimentos-fetais&quot;&gt;Contagem dos movimentos fetais&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cardiotocografia&quot; id=&quot;markdown-toc-cardiotocografia&quot;&gt;Cardiotocografia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#perfil-biofísico-fetal-e-volume-do-líquido-amniótico&quot; id=&quot;markdown-toc-perfil-biofísico-fetal-e-volume-do-líquido-amniótico&quot;&gt;Perfil biofísico fetal e volume do líquido amniótico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#perfil-biofísico-fetal&quot; id=&quot;markdown-toc-perfil-biofísico-fetal&quot;&gt;Perfil biofísico fetal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#volume-de-líquido-amniótico&quot; id=&quot;markdown-toc-volume-de-líquido-amniótico&quot;&gt;Volume de líquido amniótico&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#doppler&quot; id=&quot;markdown-toc-doppler&quot;&gt;Doppler&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#artéria-uterina&quot; id=&quot;markdown-toc-artéria-uterina&quot;&gt;Artéria uterina&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#artéria-umbilical&quot; id=&quot;markdown-toc-artéria-umbilical&quot;&gt;Artéria umbilical&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#classes&quot; id=&quot;markdown-toc-classes&quot;&gt;Classes&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#artéria-cerebral-média&quot; id=&quot;markdown-toc-artéria-cerebral-média&quot;&gt;Artéria cerebral média&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A avaliação anteparto da vitalidade fetal está indicada especialmente nas gestações que
+cursam com insuficiência placentária, capaz de determinar o sofrimento fetal crônico, muitas
+vezes associado ao &lt;abbr title=&quot;Crescimento intra-uterino restrito&quot;&gt;CIUR&lt;/abbr&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
+&lt;h3 id=&quot;condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot;&gt;Condições associadas a risco elevado perinatal que necessitam de avaliação anteparto&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;História obstétrica
+    &lt;ul&gt;
+      &lt;li&gt;HAS&lt;/li&gt;
+      &lt;li&gt;DPP&lt;/li&gt;
+      &lt;li&gt;&lt;abbr title=&quot;Crescimento intra-uterino restrito&quot;&gt;CIUR&lt;/abbr&gt;&lt;/li&gt;
+      &lt;li&gt;Natimorto&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gravidez atual
+    &lt;ul&gt;
+      &lt;li&gt;Gravidez prolongada&lt;/li&gt;
+      &lt;li&gt;HAS&lt;/li&gt;
+      &lt;li&gt;&lt;abbr title=&quot;Diabetes mellitus&quot;&gt;DM&lt;/abbr&gt; ou &lt;abbr title=&quot;Diabetes mellitus gestacional&quot;&gt;DMG&lt;/abbr&gt;&lt;/li&gt;
+      &lt;li&gt;RPMO pré-termo&lt;/li&gt;
+      &lt;li&gt;DPP “crônico”&lt;/li&gt;
+      &lt;li&gt;Aloimunização Rh&lt;/li&gt;
+      &lt;li&gt;Sangramento vaginal&lt;/li&gt;
+      &lt;li&gt;Obesidade mórbida&lt;/li&gt;
+      &lt;li&gt;Idade materna avançada&lt;/li&gt;
+      &lt;li&gt;Gravidez após reprodução assistida&lt;/li&gt;
+      &lt;li&gt;Diminuição do movimento fetal&lt;/li&gt;
+      &lt;li&gt;&lt;abbr title=&quot;Crescimento intra-uterino restrito&quot;&gt;CIUR&lt;/abbr&gt;&lt;/li&gt;
+      &lt;li&gt;Oligo/polidramnia&lt;/li&gt;
+      &lt;li&gt;Gestação múltipla&lt;/li&gt;
+      &lt;li&gt;Parto pré-termo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;os-principais-testes-de-avaliação-anteparto&quot;&gt;Os principais testes de avaliação anteparto&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Contagem dos movimentos fetais&lt;/li&gt;
+  &lt;li&gt;Cardiotocografia (CTG)&lt;/li&gt;
+  &lt;li&gt;Perfil biofísico fetal (PBF) e volume do líquido amniótico (vLA)&lt;/li&gt;
+  &lt;li&gt;Doppler&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Além de algumas evidências de que a percepção dos movimentos fetais possa ser benéfica em todas as gestações, não há dados de que qualquer dos testes antenatais deva ser aplicado de rotina em gestações consideradas de baixo risco.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;início-e-frequência-dos-testes-antenatais&quot;&gt;Início e frequência dos testes antenatais&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Não iniciar fazer testes de vitalidade antes da viabilidade (26 sem)&lt;/li&gt;
+  &lt;li&gt;Em grávidas com &lt;abbr title=&quot;Diabetes mellitus&quot;&gt;DM&lt;/abbr&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Que necessitam de insulina, mas estão controladas, os testes fetais devem ser utilizados a partir de 32 a 36 sem&lt;/li&gt;
+      &lt;li&gt;Com diabetes pouco controlado serão investigadas a partir de 26 sem&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Em mulheres com gravidez prolongada, sem outras complicações, a CTG e o vLA devem ser iniciados a partir de 41 sem
+    &lt;ul&gt;
+      &lt;li&gt;embora seja melhor induzir o parto&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A frequência dos testes antenatais será de 1 a 2/sem. No entanto, excepcionalmente, na eventualidade do parto pré-termo indicado, sua frequência pode ser diária, ou até maior, para maximizar a &lt;abbr title=&quot;Idade gestacional&quot;&gt;IG&lt;/abbr&gt; e ao mesmo tempo evitar a asfixia intrauterina.&lt;/p&gt;
+
+&lt;h2 id=&quot;contagem-dos-movimentos-fetais&quot;&gt;Contagem dos movimentos fetais&lt;/h2&gt;
+&lt;p&gt;Todas as mulheres com &lt;strong&gt;fator de risco para prognóstico perinatal&lt;/strong&gt; adverso devem ser orientadas para a contagem dos movimentos fetais &lt;strong&gt;a partir de 26 a 32 sem&lt;/strong&gt; de gravidez.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Resultado normal: 6 movimentos a cada 2h&lt;/li&gt;
+  &lt;li&gt;Se resultado anormal: fazer avaliação completa materna e fetal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Carência de embasamento científico de sua eficácia.&lt;/p&gt;
+
+&lt;h2 id=&quot;cardiotocografia&quot;&gt;Cardiotocografia&lt;/h2&gt;
+&lt;p&gt;Segundo o &lt;em&gt;Rezendinho&lt;/em&gt;, está indicada apenas no &lt;abbr title=&quot;Diabetes mellitus&quot;&gt;DM&lt;/abbr&gt; sem complicação vascular e na pós-maturidade.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;FCF basal normal: entre 110 e 160 bpm&lt;/li&gt;
+  &lt;li&gt;Indicativos de sofrimento fetal:
+    &lt;ul&gt;
+      &lt;li&gt;se &amp;gt; 160: taquicardia fetal&lt;/li&gt;
+      &lt;li&gt;se &amp;gt; 110: bradicardia fetal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Classificação&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Reativa: quando apresenta ≥ 2 acelerações ao MF, com amplitude ≥ 15 bpm e duração ≥ 15s, em 20min de traçado.
+    &lt;ul&gt;
+      &lt;li&gt;indica boa vitalidade fetal&lt;/li&gt;
+      &lt;li&gt;Em particular, no pré-termo (&amp;lt; 32 semanas), considera-se normal a aceleração com amplitude ≥ 10 bpm e duração ≥ 10s.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Não reativa: quando mostra &amp;lt; 2 acelerações em 20min de traçado (pode ser estendido para 40min)
+    &lt;ul&gt;
+      &lt;li&gt;indica comprometimento da vitalidade fetal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;perfil-biofísico-fetal-e-volume-do-líquido-amniótico&quot;&gt;Perfil biofísico fetal e volume do líquido amniótico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Indicado para:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;avaliar o &lt;strong&gt;pós-maduro&lt;/strong&gt; na gravidez prolongada&lt;/li&gt;
+      &lt;li&gt;apenas o &lt;strong&gt;PBF&lt;/strong&gt; para acompanhar a vitalidade fetal no &lt;strong&gt;diabetes sem complicação vascular&lt;/strong&gt;
+        &lt;ul&gt;
+          &lt;li&gt;em vez de exibir oligoidramnia, mostra &lt;strong&gt;polidramnia/macrossomia&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Não indicado para:
+    &lt;ul&gt;
+      &lt;li&gt;avaliar o SF no &lt;abbr title=&quot;Crescimento intra-uterino restrito&quot;&gt;CIUR&lt;/abbr&gt; placentário&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;perfil-biofísico-fetal&quot;&gt;Perfil biofísico fetal&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Observa quatro variáveis sonográficas durante 30 min:
+    &lt;ul&gt;
+      &lt;li&gt;MRF: movimento respiratório fetal&lt;/li&gt;
+      &lt;li&gt;MF: movimento fetal&lt;/li&gt;
+      &lt;li&gt;Tônus fetal&lt;/li&gt;
+      &lt;li&gt;vLA: volume de líquido amniótico&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Adicionando a CTG no teste, com a contagem das acelerações da FCF, as variáveis valem 2 pontos se estiverem presentes e 0 se ausentes. Logo, o teste vale de 0 a 10.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;8 a 10: normal se vLA receber 2 pontos&lt;/li&gt;
+  &lt;li&gt;6: equivocado&lt;/li&gt;
+  &lt;li&gt;&amp;lt; ou = 4: anormal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;volume-de-líquido-amniótico&quot;&gt;Volume de líquido amniótico&lt;/h3&gt;
+&lt;p&gt;O vLA avalia a existência de oligoidramnia.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O diâmetro vertical do maior bolsão de LA é normal quando mede entre &lt;strong&gt;2 e 8 cm&lt;/strong&gt;;
+    &lt;ul&gt;
+      &lt;li&gt;Oligodramnia: &amp;lt; 2 cm&lt;/li&gt;
+      &lt;li&gt;Polidramnia: &amp;gt; 8 cm&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;doppler&quot;&gt;Doppler&lt;/h2&gt;
+&lt;h3 id=&quot;artéria-uterina&quot;&gt;Artéria uterina&lt;/h3&gt;
+&lt;p&gt;O Doppler da artéria uterina avalia a resistência dos vasos
+que suprem a placenta, refletindo a remodelação das artérias espiraladas, comprometida na pré-eclâmpsia, CIR, descolamento prematuro da placenta (DPP) e morte fetal intrauterina.&lt;/p&gt;
+
+&lt;p&gt;O Doppler da artéria uterina está totalmente incorporado à ultrassonografia de 20 a 24
+semanas. O resultado é considerado anormal quando a média das duas uterinas mostra índice de resistência (RI) &amp;gt; 0,58 e caso haja incisuras
+diastólicas em ambas as artérias.&lt;/p&gt;
+
+&lt;p&gt;O Doppler uterino anormal está associado a risco 4 a 8 vezes maior de pré-eclâmpsia/&lt;abbr title=&quot;Crescimento intra-uterino restrito&quot;&gt;CIUR&lt;/abbr&gt;. Ao contrário, o Doppler uterino normal exibe valor preditivo negativo de 99 %, praticamente excluindo essas complicações da gravidez.&lt;/p&gt;
+
+&lt;h3 id=&quot;artéria-umbilical&quot;&gt;Artéria umbilical&lt;/h3&gt;
+&lt;p&gt;Na gestação normal, a circulação umbilical está caracterizada por baixa resistência, crescente com a evolução da gravidez, à medida que se desenvolve a arquitetura vascular das vilosidades terminais.&lt;/p&gt;
+
+&lt;p&gt;A elevação da
+resistência implica redução das unidades vasculares vilosas, caracterizada por aumento da
+relação sístole/diástole (A/B) e do índice pulsátil (PI). A experimentação com embolização das
+artérias umbilicais em ovelhas mostrou que a ausência de fluxo diastólico (&lt;strong&gt;diástole-zero&lt;/strong&gt;) no
+Doppler da artéria umbilical é alcançada quando &amp;gt; 80% das vilosidades funcionais estão
+obliteradas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/vitalidade-fetal/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;classes&quot;&gt;Classes&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Normal&lt;/li&gt;
+  &lt;li&gt;I: diástole diminuida&lt;/li&gt;
+  &lt;li&gt;II: diástole zero&lt;/li&gt;
+  &lt;li&gt;III: diástole reversa&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;É o teste de eleição para avaliar insuficiência placentária no &lt;abbr title=&quot;Crescimento intra-uterino restrito&quot;&gt;CIUR&lt;/abbr&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;artéria-cerebral-média&quot;&gt;Artéria cerebral média&lt;/h3&gt;
+&lt;p&gt;Inicialmente, &lt;em&gt;pari passu&lt;/em&gt; com o desenvolvimento da hipoxia
+fetal, a redistribuição do fluxo sanguíneo ocorre de tal maneira que a resistência na artéria
+cerebral média (ACM) cai e, na artéria umbilical, se eleva, pela obliteração das arteríolas
+vilosas, traduzindo o chamado &lt;em&gt;brain sparing effect&lt;/em&gt; ou centralização.&lt;/p&gt;
+
+&lt;p&gt;As alterações na circulação cerebral, no entanto, não se correlacionam adequadamente com os estágios finais do comprometimento asfíxico fetal e, por isso, não são úteis para indicar a melhor oportunidade para o parto indicado.&lt;/p&gt;
+
+&lt;p&gt;A avaliação do sistema venoso pode traduzir melhor o comprometimento iminente da função cardíaca fetal e a necessidade de interromper a gravidez. A deterioração da contratilidade do
+ventrículo direito conduz a sua dilatação e regurgitação (insuficiência) tricúspide, exacerbando a
+pressão de enchimento atrial direita e a resistência ao enchimento venoso. Tal resistência se
+reflete no ducto venoso que exibe padrão zero/reverso o, à semelhança da artéria umbilical, durante
+a contração atrial (ponto a), achado altamente relacionado com iminente asfixia fetal. Por fim, o aumento da pressão venosa sistêmica conduz a dilatação máxima do ducto
+venoso e transmissão direta do impulso cardíaco à veia umbilical, causando pulsação nesse vaso.
+A pulsação na veia umbilical está intimamente relacionada com o estágio terminal do feto.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Exame do LCR</title><link href="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html" rel="alternate" type="text/html" title="Exame do LCR" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/30/exame-lcr</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-agudos&quot; id=&quot;markdown-toc-processos-infecciosos-agudos&quot;&gt;Processos infecciosos agudos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-subagudos&quot; id=&quot;markdown-toc-processos-infecciosos-subagudos&quot;&gt;Processos infecciosos subagudos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-crônicos&quot; id=&quot;markdown-toc-processos-infecciosos-crônicos&quot;&gt;Processos infecciosos crônicos&lt;/a&gt;    &lt;ul&gt;
@@ -869,6 +1244,67 @@ métodos contraceptivos. Outros progestágenos podem ser utilizados no tratament
       &lt;li&gt;Similar à clássica ressecção em cunha dos ovários, técnica atualmente abandonada, a eletrocauterização dos ovários resulta em importante declínio dos níveis plasmáticos de androgênios, devido, em parte a destruição do estroma ovariano.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Vômitos no recém nascido</title><link href="http://localhost:4000/neonatologia/2019/05/27/vomitos-no-rn.html" rel="alternate" type="text/html" title="Vômitos no recém nascido" /><published>2019-05-27T00:00:00-03:00</published><updated>2019-05-27T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/05/27/vomitos-no-rn</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/05/27/vomitos-no-rn.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-desencadeantes&quot; id=&quot;markdown-toc-fatores-desencadeantes&quot;&gt;Fatores desencadeantes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sinais-de-alarme&quot; id=&quot;markdown-toc-sinais-de-alarme&quot;&gt;Sinais de alarme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#atresias-instestinais&quot; id=&quot;markdown-toc-atresias-instestinais&quot;&gt;Atresias instestinais&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Até 12h os RNs costumam eliminar mecônio. Até 48h é considerado normal.&lt;/p&gt;
+
+&lt;h2 id=&quot;fatores-desencadeantes&quot;&gt;Fatores desencadeantes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mecanorreceptores&lt;/li&gt;
+  &lt;li&gt;Quimiorreceptores&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;sinais-de-alarme&quot;&gt;Sinais de alarme&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vômito:
+    &lt;ul&gt;
+      &lt;li&gt;alimentar&lt;/li&gt;
+      &lt;li&gt;bilioso&lt;/li&gt;
+      &lt;li&gt;fecalóide&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Distensão abdominal abdominal:
+    &lt;ul&gt;
+      &lt;li&gt;epigástrica&lt;/li&gt;
+      &lt;li&gt;localizada&lt;/li&gt;
+      &lt;li&gt;generalizada&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Eliminação de mecônio&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quanto mais alta a obstruçao, menor a distensão…
+Quanto mais baixa a obstrução…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Exame do tórax
+Exame do abdome
+Exame do períneo&lt;/p&gt;
+
+&lt;h2 id=&quot;atresias-instestinais&quot;&gt;Atresias instestinais&lt;/h2&gt;
+&lt;p&gt;Obstrução total de luz intestinal, onde a obstrução incompleta chama-se de estenose.&lt;/p&gt;
+
+&lt;p&gt;Por que ocorre?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Atresia duodenal
+    &lt;ul&gt;
+      &lt;li&gt;Teoria de Tandler&lt;/li&gt;
+      &lt;li&gt;Pâncreas anular&lt;/li&gt;
+      &lt;li&gt;Uso de drogas teratogênicas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atresias jejuno ileais&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Como se classifica?&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Intrinseca&lt;/li&gt;
+  &lt;li&gt;Extrínseca&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Guia do plantonista em obstetrícia</title><link href="http://localhost:4000/obstetricia/2019/05/25/guia-do-plantonista.html" rel="alternate" type="text/html" title="Guia do plantonista em obstetrícia" /><published>2019-05-25T00:00:00-03:00</published><updated>2019-05-25T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/25/guia-do-plantonista</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/25/guia-do-plantonista.html">&lt;h1 id=&quot;semiologia&quot;&gt;Semiologia&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;IG
@@ -919,675 +1355,4 @@ métodos contraceptivos. Outros progestágenos podem ser utilizados no tratament
       &lt;li&gt;pontos simples&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Semiologia IG Termo Pré-termo Pós-termo</summary></entry><entry><title type="html">Rotura prematura de membrana</title><link href="http://localhost:4000/obstetricia/2019/05/25/rpmo.html" rel="alternate" type="text/html" title="Rotura prematura de membrana" /><published>2019-05-25T00:00:00-03:00</published><updated>2019-05-25T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/25/rpmo</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/25/rpmo.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#história-natural&quot; id=&quot;markdown-toc-história-natural&quot;&gt;História natural&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#rpm-a-termo&quot; id=&quot;markdown-toc-rpm-a-termo&quot;&gt;RPM a termo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rpm-pré-termo&quot; id=&quot;markdown-toc-rpm-pré-termo&quot;&gt;RPM pré-termo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rpm-pré-viável&quot; id=&quot;markdown-toc-rpm-pré-viável&quot;&gt;RPM pré-viável&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#vazamento-de-líquido-após-amniocentese&quot; id=&quot;markdown-toc-vazamento-de-líquido-após-amniocentese&quot;&gt;Vazamento de líquido após amniocentese&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#complicações-e-repercussões&quot; id=&quot;markdown-toc-complicações-e-repercussões&quot;&gt;Complicações e repercussões&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#história&quot; id=&quot;markdown-toc-história&quot;&gt;História&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#atenção&quot; id=&quot;markdown-toc-atenção&quot;&gt;Atenção&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#corioamnionite&quot; id=&quot;markdown-toc-corioamnionite&quot;&gt;Corioamnionite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rpm-a-termo-1&quot; id=&quot;markdown-toc-rpm-a-termo-1&quot;&gt;RPM a termo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rpm-após-34-semanas&quot; id=&quot;markdown-toc-rpm-após-34-semanas&quot;&gt;RPM após 34 semanas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rpm-entre-24-e-34-semanas&quot; id=&quot;markdown-toc-rpm-entre-24-e-34-semanas&quot;&gt;RPM entre 24 e 34 semanas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rpm-pré-viável-24-semanas&quot; id=&quot;markdown-toc-rpm-pré-viável-24-semanas&quot;&gt;RPM pré-viável (&amp;lt;24 semanas)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#vazamento-de-líquido-amniótico-após-amniocentese&quot; id=&quot;markdown-toc-vazamento-de-líquido-amniótico-após-amniocentese&quot;&gt;Vazamento de líquido amniótico após amniocentese&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#conduta-em-próxima-gravidez&quot; id=&quot;markdown-toc-conduta-em-próxima-gravidez&quot;&gt;Conduta em próxima gravidez&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;A RPM é a amniorrexe espontânea que ocorre após 20 semanas e antes do início do trabalho de parto&lt;/strong&gt;. RPMP é a rotura prematura de membrana prétermo que ocorre antes de 37 semanas.&lt;/p&gt;
-
-&lt;p&gt;A morbidade materna está relacionada à infecção intrauterina (corioamnionite) e ao DPP. A morbimortalidade perinatal se relaciona à sepse neonatal, sofrimento fetal (compressão do cordão umbilical por oligodrâmnio, DPP) e prematuridade (síndrome de angústia respiratória, enterocolite necrotizante e hemorragia intraventricular).&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;RPM no termo: 8% das gestantes apresentam RPM&lt;/li&gt;
-  &lt;li&gt;RPMP: incide em 3% de todas as gestações, responsável por 30% dos partos pré-termos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;A RPM tem sido tradicionalmente atribuída ao estresse físico que produz estiramento das
-membranas, como, por exemplo, o associado a polidrâmnio, gravidez gemelar e contrações
-uterinas sintomáticas. Todavia, evidências recentes sugerem que a ruptura das membranas está também relacionada a processos bioquímicos, incluindo a disrupção do colágeno dentro da matriz extracelular do âmnio e do cório.&lt;/p&gt;
-
-&lt;p&gt;A infecção intrauterina, &lt;strong&gt;corioamnionite&lt;/strong&gt;, tem papel relevante em cerca de 50% dos casos de RPMP/parto pré-termo, especialmente em IGs precoces, atuando por meio de
-diversos mecanismos, como, por exemplo, citocinas próinflamatórias (TNFα, IL-1, IL-6), metaloproteinases da matriz (MMP) e produção de prostaglandinas (PGE2, PGF2α ) pelas
-membranas fetais.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;síndrome de Ehlers-Danlos&lt;/strong&gt;, distúrbio hereditário do tecido conjuntivo, é caracterizada por vários defeitos na estrutura da síntese do colágeno e constitui exemplo drástico de doença genética associada à RPM.&lt;/p&gt;
-
-&lt;p&gt;Na maioria dos casos não se identifica o fator etiológico da RPM.&lt;/p&gt;
-
-&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Sangramento vaginal no 2T e no 3T&lt;/li&gt;
-  &lt;li&gt;Tabagismo e uso de drogas ilícitas&lt;/li&gt;
-  &lt;li&gt;Baixo nível socioeconômico&lt;/li&gt;
-  &lt;li&gt;Conização ou circlagem cervical&lt;/li&gt;
-  &lt;li&gt;Colo curto (&amp;lt; 25 mm) no 2T e amniocentese&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;História de ruptura em gravidez anterior&lt;/strong&gt;, com taxa de &lt;strong&gt;recorrência de aproximadamente 15 a 30%&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Passado de parto prematuro&lt;/li&gt;
-  &lt;li&gt;Polidramnia&lt;/li&gt;
-  &lt;li&gt;Gestação múltipla&lt;/li&gt;
-  &lt;li&gt;Traumatismo&lt;/li&gt;
-  &lt;li&gt;TPP&lt;/li&gt;
-  &lt;li&gt;Infecções genitais (vaginose, gonococo)&lt;/li&gt;
-  &lt;li&gt;Exames invasivos (amnio e cordocentese, risco de 1-2%)&lt;/li&gt;
-  &lt;li&gt;IIC&lt;/li&gt;
-  &lt;li&gt;Inserção baixa da placenta&lt;/li&gt;
-  &lt;li&gt;Macrossomia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;história-natural&quot;&gt;História natural&lt;/h2&gt;
-&lt;h3 id=&quot;rpm-a-termo&quot;&gt;RPM a termo&lt;/h3&gt;
-&lt;p&gt;Ocorre em 8% das gestações, é gerealmente seguida pelo início imediato do parto, 50% dentro de 5h e 95% após 28h. A principal consequência da RPM a termo é a &lt;strong&gt;infecção intrauterina, que aumenta com a duração entre o tempo de ruptura e o início do parto (&amp;gt; 18 h)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;rpm-pré-termo&quot;&gt;RPM pré-termo&lt;/h3&gt;
-&lt;p&gt;Quando ocorre em gestação &amp;lt; 37 semanas. Ocorre em 3% das gestações. Em 50% dos casos a gestante entra em TP com até 1 semana. Quanto menor a IG maior o tempo de latência.&lt;/p&gt;
-
-&lt;p&gt;Com o tratamento expectante, 2,8 a 13% das gestantes podem parar de perder líquido, restaurando o volume do líquido amniótico (LA) à normalidade, caracterizando um prognóstico favorável.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Infecção intrauterina&lt;/strong&gt;: ocorre em 15 a 25% dos casos&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;infecção pós-parto&lt;/strong&gt; em 15 a 20% dos casos&lt;/li&gt;
-  &lt;li&gt;A incidência da infecção é maior em idades mais precoces da ruptura&lt;/li&gt;
-  &lt;li&gt;O DPP incide em 2 a 5% dessas gestações.&lt;/li&gt;
-  &lt;li&gt;Embora seja evidente o risco de infecção fetal pela corioamnionite, a complicação mais importante para o feto é a &lt;strong&gt;prematuridade&lt;/strong&gt; (SAR, enterocolite necrotizante, hemorragia intraventricular e paralisia cerebral)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;rpm-pré-viável&quot;&gt;RPM pré-viável&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Quando ocorre em IG &amp;lt; 24 semanas&lt;/li&gt;
-  &lt;li&gt;Incide em menos de 1% das gestações&lt;/li&gt;
-  &lt;li&gt;Parto
-    &lt;ul&gt;
-      &lt;li&gt;Cerca de 40 a 50% das grávidas com RPM pré-viável dão à luz na primeira semana após a ruptura&lt;/li&gt;
-      &lt;li&gt;70-80% dentro de 2-5 semanas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tratamento expectante
-    &lt;ul&gt;
-      &lt;li&gt;a taxa de sobrevida fetal com a ruptura após 22 semanas é de aproximadamente 55%&lt;/li&gt;
-      &lt;li&gt;e antes de 22 semanas de apenas 15%.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A incidência de hipoplasia pulmonar após a RPMP de &amp;lt; 24 semanas é de 10-20%
-    &lt;ul&gt;
-      &lt;li&gt;associada a alta mortalidade, mas é raramente letal quando a ruptura ocorre com 23-24 semanas&lt;/li&gt;
-      &lt;li&gt;provavelmente porque o crescimento alveolar adequado para suportar o desenvolvimento pós-natal já ocorreu&lt;/li&gt;
-      &lt;li&gt;Rupturas em IGs precoces e com pouco volume residual de LA são determinantes primários de hipoplasia pulmonar&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A &lt;strong&gt;oligoidramnia&lt;/strong&gt; acentuada e precoce é responsável ainda pela &lt;strong&gt;síndrome de Potter&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;fácies de Potter (implantação baixa das orelhas e prega nos epicantos)&lt;/li&gt;
-      &lt;li&gt;contratura dos membros&lt;/li&gt;
-      &lt;li&gt;hipoplasia pulmonar.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;As complicações maternas significantes são:
-    &lt;ul&gt;
-      &lt;li&gt;Infecção intramniótica&lt;/li&gt;
-      &lt;li&gt;Endometrite&lt;/li&gt;
-      &lt;li&gt;DPP&lt;/li&gt;
-      &lt;li&gt;Eetenção placentária&lt;/li&gt;
-      &lt;li&gt;Sepse tem sido observada em aproximadamente 1% dos casos, por vezes levando ao óbito materno&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;vazamento-de-líquido-após-amniocentese&quot;&gt;Vazamento de líquido após amniocentese&lt;/h3&gt;
-&lt;p&gt;O vazamento de LA após amniocentese,
-em geral realizada para estudo genético no diagnóstico prénatal, ocorre em 1% dos casos e o de perda fetal em &amp;lt; 0,5%. Na maioria das vezes, há resselagem das membranas, com normalização do volume do LA em 70% dos casos dentro de 1 mês da amniocentese.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;RPMO: AAAA!
-    &lt;ul&gt;
-      &lt;li&gt;Relato&lt;/li&gt;
-      &lt;li&gt;pH&lt;/li&gt;
-      &lt;li&gt;Microscopia (cristalização arboriforme)&lt;/li&gt;
-      &lt;li&gt;Olhar (espéculo padrão ouro)&lt;/li&gt;
-      &lt;li&gt;Azul do nilo (presença de células fetais)&lt;/li&gt;
-      &lt;li&gt;Amniocentese&lt;/li&gt;
-      &lt;li&gt;Alfafetoproteína (AFP)&lt;/li&gt;
-      &lt;li&gt;Amniosure&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;complicações-e-repercussões&quot;&gt;Complicações e repercussões&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Infecções como corioamnionite, endometrite e sepse&lt;/li&gt;
-  &lt;li&gt;Doença de membrana hialina&lt;/li&gt;
-  &lt;li&gt;Hemorragia intraventricular&lt;/li&gt;
-  &lt;li&gt;Leucomalácia periventricular&lt;/li&gt;
-  &lt;li&gt;Outras sequelas neurológicas&lt;/li&gt;
-  &lt;li&gt;Infecção fetal (sepse, pneumonia, meningite)&lt;/li&gt;
-  &lt;li&gt;Enterocolite necrosante;&lt;/li&gt;
-  &lt;li&gt;Risco aumentado de descolamento placentário&lt;/li&gt;
-  &lt;li&gt;Prolapso de cordão&lt;/li&gt;
-  &lt;li&gt;Apresentações anômalas&lt;/li&gt;
-  &lt;li&gt;Hipoplasia pulmonar&lt;/li&gt;
-  &lt;li&gt;Deformidades faciais e ortopédicas&lt;/li&gt;
-  &lt;li&gt;Sofrimento fetal&lt;/li&gt;
-  &lt;li&gt;Retenção placentária&lt;/li&gt;
-  &lt;li&gt;Risco de cesariana&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;história&quot;&gt;História&lt;/h3&gt;
-&lt;p&gt;Na grande maioria dos casos, o diagnóstico da RPM é feito pela história da paciente, que revela deflúvio abundante de líquido pela vagina (“líquido que escorre pela perna”).&lt;/p&gt;
-
-&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Exame espécular&lt;/strong&gt;: confirma o diagnóstico ao visualizar líquido escorrendo pelo orifício cervical. Padrão ouro.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Manobra de Tarnier&lt;/strong&gt;:  consiste em elevar apresentação fetal pela palpação abdominal e comprimir o útero ou aguardar contração para observar a saída de liquido pelo exame especular.&lt;/li&gt;
-      &lt;li&gt;Manobra de valsava para avaliar saída de líquido após aumento da pressão abdominal?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Toque vaginal&lt;/strong&gt;: aumenta o risco de infecção e nada acrescenta ao diagnóstico
-    &lt;ul&gt;
-      &lt;li&gt;deve ser evitado, a menos que a paciente esteja em pleno TP&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Papel de nitrazina&lt;/strong&gt;: assume coloração azul (pH &amp;gt; 6,5)
-    &lt;ul&gt;
-      &lt;li&gt;Enquanto o pH da secreção vaginal é ácido e varia entre 4,5-6 o do LA é alcalino e se situa entre 7,1-7,3&lt;/li&gt;
-      &lt;li&gt;Candidíase pode ocasionar um falso positivo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Teste do fenol vermelho&lt;/strong&gt;:  posiciona-se um tampão vaginal (simples algodão) na vagina da paciente e, após um tempo, adiciona-se algumas gotas do reagente, quando observa-se a alteração da coloração de laranja para vermelho.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cristalização&lt;/strong&gt;: coleta de líquido vaginal, secado por 10 min em lâmina e observado ao microscópio, observando arborização (aspécto de folha de samambaia)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;AmniSure®&lt;/strong&gt;: é um teste rápido,  imunocromatográfico, que detecta a proteína microglobulinaalfa-1 placentária (PAMG-1) no  meio vaginal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img7.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;: utilíssima para diagnosticar a &lt;strong&gt;oligoidramnia&lt;/strong&gt; e perda de LA, mas não dá diagnóstico da ruptura – cerca de 50% das amniorrexes ocorrem sem oligoidramnia
-    &lt;ul&gt;
-      &lt;li&gt;ILA: índice de líquido amniótico: mede o maior bolsão vertical de líquido amniótico encontrado em cada um dos quatro quadrantes uterinos&lt;/li&gt;
-      &lt;li&gt;ILA diminuído quando &amp;lt; 5 ou quando maior bolsão vertical for &amp;lt; 2 cm&lt;/li&gt;
-      &lt;li&gt;ILA normal não exclui RPMO&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;atenção&quot;&gt;Atenção&lt;/h3&gt;
-&lt;p&gt;Na &lt;strong&gt;fissura alta das membranas&lt;/strong&gt;, o escoamento é habitualmente escasso e persistente. A integridade do polo inferior do ovo possibilitará, no parto, a formação da bolsa das águas e o falso diagnóstico de não ter havido amniorrexe.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;p&gt;Depende da IG na qual ocorra a rotura e na existência de complicações, como infecção, DPP, SF e TP.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Em qualquer idade gestacional, a evidência de trabalho de parto, infecção intrauterina, DPP ou de comprometimento da vitalidade fetal é indicação para a pronta interrupção da gravidez.&lt;/strong&gt;&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;O tratamento ambulatorial não é recomendado em pacientes com RPMP e feto viável, tornando obrigatória a &lt;strong&gt;hospitalização&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A coleta de material da vagina e do reto para a &lt;strong&gt;cultura de estreptococo do grupo B&lt;/strong&gt; (GBS) será indicada se o tratamento for expectante. No termo (≥ 37 semanas), se o intervalo entre a amniorrexe e o parto é prolongado,  &lt;strong&gt;TBR ≥ 18 h&lt;/strong&gt;, está também aumentado o risco de sepse neonatal precoce por GBS e indicada a profilaxia antibiótica intraparto.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img3.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Na paciente com RPMP, a &lt;strong&gt;temperatura &amp;gt; 38°C&lt;/strong&gt; pode indicar infecção amniótica ou corioamnionite (Figura 26.4), embora a &lt;strong&gt;dor à palpação uterina&lt;/strong&gt; e a &lt;strong&gt;taquicardia fetal&lt;/strong&gt; possam ser indicadores melhores, em face da possibilidade da &lt;strong&gt;corioamnionite subclínica&lt;/strong&gt;. A contagem de leucócitos não é específica e a oligoidramnia (maior bolsão &amp;lt; 2 cm) revela antes a probabilidade de morbidade neonatal por SAR do que o risco de infecção materna e fetal. Recentemente, tem-se apontado a concentração de &lt;strong&gt;PCR ≥ 5 mg/l&lt;/strong&gt; (durante a admissão de gestante com RPMP após 34 semanas) como o melhor indicador de infecção neonatal precoce&lt;/p&gt;
-
-&lt;h3 id=&quot;corioamnionite&quot;&gt;Corioamnionite&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Uma vez diagnosticada a corioamnionite, a conduta, qualquer que seja a idade gestacional, é induzir o parto e administrar antibióticos.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Diagnóstico de corioamnionite[^med]
-    &lt;ul&gt;
-      &lt;li&gt;febre materna (≥ 37,8ºC) e pelo menos dois dos seguintes critérios (Ministério da Saúde, 2012):&lt;/li&gt;
-      &lt;li&gt;Leucocitose materna (leucometria &amp;gt; 15.000 cels/mm³);&lt;/li&gt;
-      &lt;li&gt;Taquicardia materna (&amp;gt; 100 bpm);&lt;/li&gt;
-      &lt;li&gt;Taquicardia fetal (&amp;gt; 160 bpm);&lt;/li&gt;
-      &lt;li&gt;Sensibilidade uterina;&lt;/li&gt;
-      &lt;li&gt;Líquido amniótico com odor fétido.&lt;/li&gt;
-      &lt;li&gt;Outros marcadores
-        &lt;ul&gt;
-          &lt;li&gt;PCR elevada (&amp;gt; 2 mg/dL)&lt;/li&gt;
-          &lt;li&gt;dosagem de interleucina-6&lt;/li&gt;
-          &lt;li&gt;Velocidade de Hemossedimentação&lt;/li&gt;
-          &lt;li&gt;análise do líquido amniótico por meio de amniocentese (GRAM, cultura e dosagem de glicose)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img8.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O regime preferencial é a &lt;strong&gt;clindamicina&lt;/strong&gt;, 900 mg IV, 6/6h, associada à &lt;strong&gt;gentamicina&lt;/strong&gt;, 240 mg IV, 1/dia. A antibioticoterapia na corioamnionite deve continuar até que a paciente esteja afebril e assintomática por 24-48h, após o parto.&lt;/p&gt;
-
-&lt;p&gt;Se a paciente continuar febril, apesar do tratamento antibiótico, devem ser procuradas outras fontes de infecção:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;tromboflebite pélvica&lt;/li&gt;
-  &lt;li&gt;infecção de parede&lt;/li&gt;
-  &lt;li&gt;retenção de restos ovulares&lt;/li&gt;
-  &lt;li&gt;infecção do sistema urinário&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A RPM complica cerca de uma em cada quatro gestações com &lt;strong&gt;circlagem&lt;/strong&gt; e
-metade após a circlagem de emergência. Não há recomendação estabelecida sobre a permanência ou a retirada da circlagem. Se a opção for pela permanência da circlagem, não há indicação para que se prolongue o tratamento antibiótico profilático por mais de 7 dias.&lt;/p&gt;
-
-&lt;h3 id=&quot;rpm-a-termo-1&quot;&gt;RPM a termo&lt;/h3&gt;
-&lt;p&gt;O monitoramento eletrônico deverá ser prontamente utilizado para avaliar a vitalidade fetal.&lt;/p&gt;
-
-&lt;p&gt;A RPM a termo é indicação para a &lt;strong&gt;indução do parto&lt;/strong&gt; com ocitocina/misoprostol, nas doses habituais, para reduzir a morbidade infecciosa materna, sem elevar os riscos de cesárea ou de operatória transpélvica.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;profilaxia intraparto&lt;/strong&gt; GBS será indicada se a cultura previamente realizada for positiva ou se houver indicadores de risco.&lt;/p&gt;
-
-&lt;h3 id=&quot;rpm-após-34-semanas&quot;&gt;RPM após 34 semanas&lt;/h3&gt;
-&lt;p&gt;À semelhança do que ocorre para a RPM a termo, o melhor tratamento para a RPMP após 34 semanas é o parto imediato.&lt;/p&gt;
-
-&lt;h3 id=&quot;rpm-entre-24-e-34-semanas&quot;&gt;RPM entre 24 e 34 semanas&lt;/h3&gt;
-&lt;p&gt;Na ausência de complicações, o melhor tratamento é o &lt;strong&gt;expectante&lt;/strong&gt; com a paciente hospitalizada.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Repouso relativo no leito (evitar atividade física) e pélvico (proibido o coito e o toque vaginal)&lt;/li&gt;
-  &lt;li&gt;A gestante deve ser observada para a evidência de
-    &lt;ul&gt;
-      &lt;li&gt;infecção&lt;/li&gt;
-      &lt;li&gt;DPP&lt;/li&gt;
-      &lt;li&gt;compressão do cordão umbilical&lt;/li&gt;
-      &lt;li&gt;sofrimento fetal&lt;/li&gt;
-      &lt;li&gt;início do parto&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A avaliação fetal é feita pelo monitoramento eletrônico de seus
-batimentos cardíacos e pelo perfil biofísico fetal (PBF) simplificado.&lt;/li&gt;
-  &lt;li&gt;A frequência desses testes
-pode ser diária ou 2/semana, dependendo do resultado&lt;/li&gt;
-  &lt;li&gt;É razoável considerar a indução do parto quando a gravidez chegar a 34 semanas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img4.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Antibiótico profilático:&lt;/strong&gt; visa à postergação do parto, aumentar o período de latência, e à redução da morbidade neonatal. O retardo esperado no parto fornece tempo suficiente para que o corticoide exerça os seus efeitos
-    &lt;ul&gt;
-      &lt;li&gt;Prefere-se a &lt;strong&gt;ampicilina&lt;/strong&gt; IV, 1 g de 6/6 h por 48 h, associada à &lt;strong&gt;azitromicina&lt;/strong&gt;, 1 g VO, dose única
-        &lt;ul&gt;
-          &lt;li&gt;trata micoplasma e clamídia, causas de corioamnionite e de pneumonite e conjuntivite neonatal&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Depois, &lt;strong&gt;amoxicilina&lt;/strong&gt;, 500 mg VO, de 8/8 h, por 5 dias&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Corticoide:&lt;/strong&gt; Um único curso de corticoide é recomendado para gestantes com RPMP entre 24 e 34 semanas com risco de parto iminente. Cursos múltiplos de corticoide ou
-um de resgate ainda mostram evidências insuficientes de benefícios.&lt;/li&gt;
-  &lt;li&gt;Tocólise: Não há indicação de tocólise terapêutica no tratamento expectante da RPMP&lt;/li&gt;
-  &lt;li&gt;Neuroproteção fetal: Mulheres com RPMP antes de 32 semanas e risco de parto iminente são candidatas ao tratamento com sulfato de magnésio para a neuroproteção fetal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;rpm-pré-viável-24-semanas&quot;&gt;RPM pré-viável (&amp;lt;24 semanas)&lt;/h3&gt;
-&lt;p&gt;Devem ser aconselhadas em relação aos riscos e benefícios do tratamento expectante versus o parto imediato.&lt;/p&gt;
-
-&lt;p&gt;O tratamento expectante ambulatorial pode ser tentado com monitoramento da infecção, DPP e parto, e USG seriada para avaliar a oligoidramnia, na esperança da resselagem das membranas e restauração do volume amniótico, o que só parece ocorrer em 8% dos casos. Se houver oligoidramnia persistente, a interrupção da gravidez pode ser oferecida à paciente.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&amp;lt; que 24 semanas interrompe a gravidez?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;vazamento-de-líquido-amniótico-após-amniocentese&quot;&gt;Vazamento de líquido amniótico após amniocentese&lt;/h3&gt;
-&lt;p&gt;O tratamento expectante ambulatorial é o recomendado, com vigilância atenta para a infecção e a interrupção da gravidez. Estão indicados exames periódicos de
-USG para avaliar a normalização do volume do LA.&lt;/p&gt;
-
-&lt;h3 id=&quot;conduta-em-próxima-gravidez&quot;&gt;Conduta em próxima gravidez&lt;/h3&gt;
-&lt;p&gt;Para reduzir o risco de recorrência, a suplementação com progesterona vaginal, com início entre 16-24 semanas, deve ser oferecida a mulheres com história de RPM. Mulheres com história de ruptura e colo curto (&amp;lt; 25 mm) antes de 24 semanas são candidatas à circlagem cervical.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Então se a gestante estiver em TPP (trabalho de parto prematuro) e a bolsa estourar, não é uma RPM?&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img5.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img9.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/rpmo/img6.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:rez&quot;&gt;
-      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Descolamento prematuro de placenta</title><link href="http://localhost:4000/obstetricia/2019/05/23/vias-arereas-e-iot.html" rel="alternate" type="text/html" title="Descolamento prematuro de placenta" /><published>2019-05-23T00:00:00-03:00</published><updated>2019-05-23T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/23/vias-arereas-e-iot</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/23/vias-arereas-e-iot.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#abordagem-inicial&quot; id=&quot;markdown-toc-abordagem-inicial&quot;&gt;Abordagem inicial&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quem-precisa-ser-intubado&quot; id=&quot;markdown-toc-quem-precisa-ser-intubado&quot;&gt;Quem precisa ser intubado?&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Abertura de vias aeréas através de elevação do queixo ou elevação da mandíbula.&lt;/p&gt;
-
-&lt;p&gt;Geddel: mantêm a via aérea pérvia contendo a língua&lt;/p&gt;
-
-&lt;h2 id=&quot;abordagem-inicial&quot;&gt;Abordagem inicial&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Oxigenação
-    &lt;ul&gt;
-      &lt;li&gt;Ambu (bolsa-valva máscara): fornece pressão positiva. Atenção ao correto selamento da máscara com a forma em C da pegada.&lt;/li&gt;
-      &lt;li&gt;Cânula orofaríngea&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Prevendo dificuldade da via aérea, mnemônico &lt;em&gt;LEMON&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;Look&lt;/li&gt;
-      &lt;li&gt;Evaluate 3.3.2 (abertura da boca)&lt;/li&gt;
-      &lt;li&gt;Mallampati
-        &lt;ul&gt;
-          &lt;li&gt;I&lt;/li&gt;
-          &lt;li&gt;II&lt;/li&gt;
-          &lt;li&gt;III&lt;/li&gt;
-          &lt;li&gt;IV&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Obstrução
-        &lt;ul&gt;
-          &lt;li&gt;rouquidão&lt;/li&gt;
-          &lt;li&gt;salivação&lt;/li&gt;
-          &lt;li&gt;Estridor&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Neck mobility&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quem-precisa-ser-intubado&quot;&gt;Quem precisa ser intubado?&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Glasgow &amp;lt; ou = 8&lt;/li&gt;
-  &lt;li&gt;Via aérea definitiva&lt;/li&gt;
-  &lt;li&gt;Ventilação mecânica&lt;/li&gt;
-  &lt;li&gt;Preventiva&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Nefropatia diabética</title><link href="http://localhost:4000/nefrologia/2019/05/22/nefropatia-diabetica.html" rel="alternate" type="text/html" title="Nefropatia diabética" /><published>2019-05-22T00:00:00-03:00</published><updated>2019-05-22T00:00:00-03:00</updated><id>http://localhost:4000/nefrologia/2019/05/22/nefropatia-diabetica</id><content type="html" xml:base="http://localhost:4000/nefrologia/2019/05/22/nefropatia-diabetica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#estágios&quot; id=&quot;markdown-toc-estágios&quot;&gt;Estágios&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-de-nefropatia-incipiente&quot; id=&quot;markdown-toc-fase-de-nefropatia-incipiente&quot;&gt;Fase de nefropatia incipiente&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-de-nefropatia-clínica&quot; id=&quot;markdown-toc-fase-de-nefropatia-clínica&quot;&gt;Fase de nefropatia clínica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-de-insuficiência-renal-terminal&quot; id=&quot;markdown-toc-fase-de-insuficiência-renal-terminal&quot;&gt;Fase de insuficiência renal terminal&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco-e-patogênese&quot; id=&quot;markdown-toc-fatores-de-risco-e-patogênese&quot;&gt;Fatores de risco e patogênese&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fatores-não-genéticos&quot; id=&quot;markdown-toc-fatores-não-genéticos&quot;&gt;Fatores não genéticos&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#hiperglicemia&quot; id=&quot;markdown-toc-hiperglicemia&quot;&gt;Hiperglicemia&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#has&quot; id=&quot;markdown-toc-has&quot;&gt;HAS&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fatores-genéticos&quot; id=&quot;markdown-toc-fatores-genéticos&quot;&gt;Fatores genéticos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#rastreamento&quot; id=&quot;markdown-toc-rastreamento&quot;&gt;Rastreamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#prevenção-primária&quot; id=&quot;markdown-toc-prevenção-primária&quot;&gt;Prevenção primária&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#prevenção-secundária&quot; id=&quot;markdown-toc-prevenção-secundária&quot;&gt;Prevenção secundária&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#resumão&quot; id=&quot;markdown-toc-resumão&quot;&gt;Resumão&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É uma complicação crônica do DM que acomete cerca de 35% dos pacientes com DM1 e é a principal causa de morte nesse grupo (↑risco em 100x).&lt;/p&gt;
-
-&lt;p&gt;Nos pacientes com DM2 a prevalência é de 10-40%, não é a principal causa de morte mas aumenta o risco em 5x.&lt;/p&gt;
-
-&lt;p&gt;Nos EUA, cerca de 40% dos pacientes em diálise possuem DM. No Brasil gira em torno de 15-26% e aumentando.&lt;/p&gt;
-
-&lt;h2 id=&quot;estágios&quot;&gt;Estágios&lt;/h2&gt;
-&lt;p&gt;O curso da ND evolui em três estágios:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fase de nefropatia incipiente&lt;/li&gt;
-  &lt;li&gt;Fase de nefropatia clínica&lt;/li&gt;
-  &lt;li&gt;Fase de insuficiência terminal: ocorre uremia e necessita de diálise ou transplante renal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fase-de-nefropatia-incipiente&quot;&gt;Fase de nefropatia incipiente&lt;/h3&gt;
-&lt;p&gt;caracterizada por níveis aumentados de excreção urinária de albumina, 20-200 microgramas/min, definido como &lt;strong&gt;microalnuminúria&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A progressão para proteinúria (fase de nefropatia clínica) ocorre em apenas 30-40% dos pacientes com DM. Podendo haver regressão para um estado de normoalbuminúria.&lt;/p&gt;
-
-&lt;p&gt;Pacientes microalbuminúricos já apresentam alterações histopatológicas renais, como&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;espessamento da membrana basal glomerular&lt;/li&gt;
-  &lt;li&gt;aumento do volume do mesângio.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nos pacientes com DM tipo 2 e microalbuminúria tem sido descrita uma heterogeneidade nas alterações estruturais renais, desde ausência de anormalidades até presença de alterações compatíveis com glomerulopatia diabética típica.&lt;/p&gt;
-
-&lt;h3 id=&quot;fase-de-nefropatia-clínica&quot;&gt;Fase de nefropatia clínica&lt;/h3&gt;
-&lt;p&gt;É definica como uma excreção urinária de albumina (EUA) &amp;gt; ou = 200 microgramas/min ou proteinúria de 24h &amp;gt; ou = 500 mg. É uma fase de &lt;strong&gt;proteinúria&lt;/strong&gt; e &lt;strong&gt;macroalbuminúria&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Nesta fase da doença renal, os pacientes DM tipo 2 em
-geral apresentam:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;idade avançada&lt;/li&gt;
-  &lt;li&gt;obesidade&lt;/li&gt;
-  &lt;li&gt;DM há mais de 10 anos&lt;/li&gt;
-  &lt;li&gt;HAS (em cerca de 70-90% dos pacientes)&lt;/li&gt;
-  &lt;li&gt;hipercolesterolemia&lt;/li&gt;
-  &lt;li&gt;mau controle glicêmico&lt;/li&gt;
-  &lt;li&gt;outras complicações crônicas do DM, como neuropatia periférica, neuropatia autonômica e retinopatia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nos pacientes com DM1, a partir do diagnóstico de nefropatia clínica, ocorre uma redução nos valores de TFG da ordem de 1 ml/min/mês. Embora possa haver uma grande variação interindividual, em um mesmo paciente esta perda costuma ser de mesma magnitude. A
-perda de função renal em pacientes com DM tipo 2 é mais heterogênea, podendo ocasionalmente ser mais lenta,
-com valor de declínio da TFG de aproximadamente 0,5 ml/min/mês.&lt;/p&gt;
-
-&lt;p&gt;Os principais determinantes da velocidade de declínio da TFG são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;os níveis da PA&lt;/li&gt;
-  &lt;li&gt;os níveis de colesterol sérico&lt;/li&gt;
-  &lt;li&gt;o hábito de fumar&lt;/li&gt;
-  &lt;li&gt;o controle glicêmico&lt;/li&gt;
-  &lt;li&gt;o nível de proteinúria (&amp;gt; 2 g de proteínas totais em 24 h)&lt;/li&gt;
-  &lt;li&gt;o grau de lesão histopatológica renal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fatores genéticos como polimorfismos do gene da enzima conversora da angiotensina (ECA) e da ectonucleotídeo pirofosfatase-fos-fodiesterase 1 (ENPP1), previamente denominada PC-1, parecem estar envolvidos na velocidade de perda de função renal, determinando um pior prognóstico.&lt;/p&gt;
-
-&lt;p&gt;Sem intervenção terapêutica específica, em cerca de 7 a 10 anos após o surgimento de proteinúria persistente os pacientes necessitarão de tratamento substitutivo da função renal.&lt;/p&gt;
-
-&lt;h3 id=&quot;fase-de-insuficiência-renal-terminal&quot;&gt;Fase de insuficiência renal terminal&lt;/h3&gt;
-&lt;p&gt;Discutida na parte de IRA e IRC&lt;/p&gt;
-
-&lt;h2 id=&quot;fatores-de-risco-e-patogênese&quot;&gt;Fatores de risco e patogênese&lt;/h2&gt;
-&lt;h3 id=&quot;fatores-não-genéticos&quot;&gt;Fatores não genéticos&lt;/h3&gt;
-&lt;h4 id=&quot;hiperglicemia&quot;&gt;Hiperglicemia&lt;/h4&gt;
-&lt;p&gt;Os produtos de glicação não-enzimática podem causar alterações quantitativas e qualitativas nos componentes da matriz extracelular, contribuindo para a ocorrência de oclusão glomerular.&lt;/p&gt;
-
-&lt;p&gt;A hiperglicemia promove um
-aumento da atividade na via dos polióis. Nesta via, a glicose é reduzida à sorbitol, sob ação da aldose redutase. O acúmulo do sorbitol ocasionaria estresse hiperosmótico para as células, diminuição do mioinositol intracelular e redução da atividade da ATPase Na/K dependente, levando ao dano celular.&lt;/p&gt;
-
-&lt;h4 id=&quot;has&quot;&gt;HAS&lt;/h4&gt;
-&lt;p&gt;Estudos prospectivos confirmam que a HAS é um fator de risco importante para o desenvolvimento da ND e também o fator promotor de progressão mais relevante.&lt;/p&gt;
-
-&lt;p&gt;Estudos de intervenção têm confirmado os benefícios do tratamento da HAS na prevenção das complicações microvasculares.&lt;/p&gt;
-
-&lt;p&gt;O controle rigoroso da PA em pacientes com DM2 promoveu uma diminuição do surgimento das complicações microvasculares.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fatores não genéticos:
-    &lt;ul&gt;
-      &lt;li&gt;mau controle glicêmico e pressórico&lt;/li&gt;
-      &lt;li&gt;hipercolesterolemia&lt;/li&gt;
-      &lt;li&gt;e outros fatores não tão bem estabelecidos, como:
-        &lt;ul&gt;
-          &lt;li&gt;tabagismo&lt;/li&gt;
-          &lt;li&gt;fatores alimentares
-            &lt;ul&gt;
-              &lt;li&gt;consumo de proteínas &amp;gt; 20%&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;fatores hemodinâmicos, como a hiperfiltração glomerular (↑TFG) e alterações da homeostase pressórica.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A hipótese hemodinâmica
-postula que a hiperfiltração glomerular ocasionaria dano
-direto à parede capilar, além de provocar um aumento na
-passagem de macromoléculas e depósito destas no mesângio. Estes eventos levariam a alterações na permeabilidade
-da membrana e, posteriormente, ao fechamento capilar glomerular, através da glomeruloesclerose. Os capilares menos afetados sofreriam uma hiperfiltração compensatória, fechando um círculo que favoreceria o dano glomerular progressivo.&lt;/p&gt;
-
-&lt;h3 id=&quot;fatores-genéticos&quot;&gt;Fatores genéticos&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;História familiar&lt;/li&gt;
-  &lt;li&gt;Predisposição genética à HAS&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;p&gt;Raramente, a ND ocorre com pouco tempo de DM, devendo o rastreamento iniciar-se após cinco anos de duração em pacientes com DM1.&lt;/p&gt;
-
-&lt;p&gt;Existem evidências de que a duração de DM pré-puberal possa ser importante no desenvolvimento destas complica-
-ções, como por exemplo para a retinopatia. Portanto,
-pacientes pré-púberes com longa duração de DM devem ser também avaliados para ND.&lt;/p&gt;
-
-&lt;p&gt;Em pacientes com DM2, o rastreamento da ND deve ser feito por ocasião do diagnóstico de DM. Em pacientes com DM1 e DM2, o rastreamento deve ser repetido a intervalos de um ano.&lt;/p&gt;
-
-&lt;h3 id=&quot;rastreamento&quot;&gt;Rastreamento&lt;/h3&gt;
-&lt;p&gt;O rastreamento deve começar com a realização de exame comum de urina e urocultura em amostra casual de urina.&lt;/p&gt;
-
-&lt;p&gt;Na ausência de hematúria e de infecção urinária e presença de proteínas no exame comum de urina, deve-se realizar &lt;strong&gt;dosagem de proteínas totais em urina de 24 horas&lt;/strong&gt;, e na ausência de proteinúria, proceder à &lt;strong&gt;dosagem de albuminúria&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ao invés de utilizar a presença ou não de proteínas no exame comum de urina, recomendamos a
-&lt;strong&gt;medida da concentração de proteínas totais por método quantitativo na mesma amostra de urina casual&lt;/strong&gt;. Valores &amp;gt; ou = 430 mg/L apresentam uma sensibilidade de 100% e especificidade de 79,6% para o diagnóstico de nefropatia clínica.&lt;/p&gt;
-
-&lt;p&gt;Este diagnóstico deve ser confirmado com dosagem de proteínas totais em urina de 24 horas. Se o valor de proteínas totais na amostra casual de urina for &amp;lt; 430 mg/L, deve-se realizar medida de albuminúria na mesma amostra de urina.&lt;/p&gt;
-
-&lt;p&gt;Valores de albuminúria &amp;gt; ou = 17 mg/L são diagnósticos de microalbuminúria, e valores menores do que este são considerados normais.&lt;/p&gt;
-
-&lt;p&gt;A presença de microalbuminúria deve ser também confirmada em urina de 24h.&lt;/p&gt;
-
-&lt;p&gt;Nos pacientes com diagnóstico de micro ou macroalbuminúria deve ser realizada a &lt;strong&gt;medida da TFG&lt;/strong&gt; pelo menos anualmente para avaliação de perda de função renal ou de eficácia de intervenção terapêutica.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/nefrologia/nd/diag.jpeg&quot; alt=&quot;imagem&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;fórmula de Cockroft e Gault [(140 – idade) x peso/72 x creatinina; em mulheres x 0,85]&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fatores que aumentam os valores de albuminúria
-    &lt;ul&gt;
-      &lt;li&gt;Mau controle metabólico&lt;/li&gt;
-      &lt;li&gt;ITU&lt;/li&gt;
-      &lt;li&gt;Exercício físico&lt;/li&gt;
-      &lt;li&gt;PA elevada&lt;/li&gt;
-      &lt;li&gt;Obesidade maciça&lt;/li&gt;
-      &lt;li&gt;Insuficiência cardíaca&lt;/li&gt;
-      &lt;li&gt;Doença aguda ou febre&lt;/li&gt;
-      &lt;li&gt;Hematúria&lt;/li&gt;
-      &lt;li&gt;Ingesta protéica&lt;/li&gt;
-      &lt;li&gt;Ingesta de água&lt;/li&gt;
-      &lt;li&gt;Mesntruação&lt;/li&gt;
-      &lt;li&gt;Leucorréia&lt;/li&gt;
-      &lt;li&gt;Gestação&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;h3 id=&quot;prevenção-primária&quot;&gt;Prevenção primária&lt;/h3&gt;
-&lt;p&gt;A prevenção primária consiste em evitar a instalação da ND através da remoção ou modificação dos fatores de risco conhecidos.&lt;/p&gt;
-
-&lt;p&gt;Emprega-se o controle intensivo dos níveis glicêmicos e da pressão arterial.&lt;/p&gt;
-
-&lt;p&gt;O controle estrito da pressão arterial reduz
-cerca de 30% o risco de aparecimento da microalbuminúria.&lt;/p&gt;
-
-&lt;p&gt;Em pacientes com DM tipo 1 normoalbuminúricos foi demonstrado que a adoção de uma dieta à base de carne de galinha e peixe reduziu a hiperfiltração glomerular tanto quanto uma dieta hipoprotéica. Entretanto, o significado a longo prazo deste efeito não é conhecido e até o presente não existem evidências de que intervenções dietéticas evitem o surgimento da ND.&lt;/p&gt;
-
-&lt;h3 id=&quot;prevenção-secundária&quot;&gt;Prevenção secundária&lt;/h3&gt;
-&lt;p&gt;O tratamento da ND visa normalizar os níveis de EUA
-retardando ou revertendo o processo evolutivo da ND. A
-efetividade das diferentes intervenções terapêuticas pode
-variar conforme o estágio da ND.&lt;/p&gt;
-
-&lt;p&gt;Os pacientes com nefropatia clínica devem ser avalia-
-dos pelo menos a cada três meses e deve ser feito todo o
-esforço para a obtenção de um bom controle pressórico e
-glicêmico. Paralelamente, os fatores de risco cardiovascu-
-lar e de progressão da ND modificáveis devem ser agres-
-sivamente tratados, como a dislipidemia e o tabagismo.&lt;/p&gt;
-
-&lt;p&gt;Deve ser enfatizado o uso de aspirina em
-pacientes micro e macroalbuminúricos como estratégia de prevenção da doença cardiovascular. Além dis-
-so, é importante pesquisar e tratar adequadamente as demais complicações associadas à ND, como a retinopatia e a neuropatia periférica e autonômica.&lt;/p&gt;
-
-&lt;p&gt;Em pacientes com microalbuminúria e DM a adoção de
-uma dieta hipoprotéica reduz os níveis de EUA. Entretanto, não existem estudos em longo prazo que demonstrem que esse efeito seja persistente e que esses pacientes não evoluam para nefropatia clínica.&lt;/p&gt;
-
-&lt;p&gt;Já em fases avançadas da ND quando ocorre uremia, a redução de proteínas da dieta, apesar de
-promover alívio sintomático, não modifica a evolução para a terapia de substituição renal.&lt;/p&gt;
-
-&lt;p&gt;A recomendação atual em relação a pacientes com nefropatia clínica é a prescrição de uma dieta com moderada restrição de proteínas, cerca de 0,8 g/kg/dia. Se esta dieta não diminuir a velocidade de declínio da TFG, sugerese a adoção de restrição mais intensa (0,6 g/kg/dia).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/nefrologia/nd/tto.jpeg&quot; alt=&quot;imagem&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;No entanto, níveis de pressão arterial diastólica menores do que 70 mmHg devem ser evitados, pois nestes casos pode ocorrer perda do efeito benéfico da redução da pressão arterial.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Os inibidores da ECA estão indicados para o tratamento da ND (micro e macroalbuminúria) mesmo em indivíduos normotensos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Em pacientes com DM tipo 1 e microalbuminúria, ocorre
-redução nos níveis de EUA com o uso de inibidores da
-ECA, independente da redução dos níveis pressóricos.&lt;/p&gt;
-
-&lt;p&gt;Nos pacientes diabéticos com nefropatia clínica, os ini-
-bidores da ECA, além de diminuir os níveis de proteinú-
-ria (+ ou - 30%), também são capazes de reduzir a velocida-
-de de decaimento da TFG.&lt;/p&gt;
-
-&lt;p&gt;Mais importante é a observação de que em pacientes com DM tipo 1 e nefropatia clínica e níveis de creatinina sérica &amp;lt; 2,5 mg/dl, estas drogas (captopril) reduzem em 50% a necessidade de diálise ou de transplante renal ou de morte (risco combinado) em um período de quatro anos de uso.&lt;/p&gt;
-
-&lt;p&gt;No entanto, não existe comprovação de redução de mortalidade isoladamente com o uso de inibidores da ECA em pacientes com ND.&lt;/p&gt;
-
-&lt;p&gt;A favor de uma ação nefroprotetora específica dos inibidores da ECA está a observação de que, ao serem comparados com beta-bloqueadores (metoprolol), os inibidores da ECA (enalapril) causam uma maior redução dos níveis de proteinúria, para os mesmos níveis de redução da pressão arterial.&lt;/p&gt;
-
-&lt;p&gt;Recentemente, foi também confirmada a eficácia dos antagonistas dos receptores da angiotensina II (irbesartan) em promover redução da incidência de macroalbuminúria em pacientes com DM tipo 2 microalbuminúricos.&lt;/p&gt;
-
-&lt;p&gt;Nesses estudos, houve redução da incidência de duplicação dos valores de creatinina sérica e de insuficiência renal terminal, embora não tenha sido documentada redução da mortalidade.&lt;/p&gt;
-
-&lt;p&gt;Portanto, com base nestes recentes grandes estudos randomizados, a Associação Americana de Diabetes recomenda o uso de antagonistas dos receptores da angiotensina II em pacientes com DM tipo 2 micro ou
-macroalbuminúricos.&lt;/p&gt;
-
-&lt;h2 id=&quot;resumão&quot;&gt;Resumão&lt;/h2&gt;
-&lt;p&gt;A detecção da ND é importante pela sua prevalência,
-morbidade e mortalidade associadas. A obtenção de um
-controle metabólico e pressórico estrito é até o momento a
-medida mais eficaz para prevenção de sua instalação. A
-microalbuminúria, que representa a fase mais precoce da
-doença renal diabética, é potencialmente reversível através do uso de inibidores da ECA e antagonistas dos receptores da angiotensina II e controle pressórico rigoroso. Nos
-pacientes com nefropatia clínica e HAS, a desaceleração da
-perda de função renal é possível através do tratamento
-anti-hipertensivo adequado. Além disso, independente da
-presença de HAS, os inibidores da ECA e os antagonistas
-dos receptores da angiotensina II estão indicados para o
-tratamento da ND. Finalmente, em especial na presença de
-nefropatia clínica, a restrição do conteúdo protéico da di-
-eta está indicada.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Semiologia IG Termo Pré-termo Pós-termo</summary></entry></feed>

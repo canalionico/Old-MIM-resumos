@@ -29,6 +29,10 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/obstetricia/2019/06/02/parto-prematuro.html',
+      
+        '/neonatologia/2019/06/01/vitalidade-fetal.html',
+      
         '/urologia/2019/05/30/tumores-de-testiculo.html',
       
         '/urologia/2019/05/30/alteracoes-escrotais.html',
@@ -38,6 +42,8 @@ self.addEventListener('install', function (event) {
         '/infectologia/2019/05/29/neurotoxoplasmose.html',
       
         '/infectologia/2019/05/29/dengue.html',
+      
+        '/neonatologia/2019/05/27/vomitos-no-rn.html',
       
         '/ginecologia/2019/05/27/anovulacao-cronica.html',
       
@@ -330,6 +336,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/disturbios-metabolicos/tab.png'
       
+        '/assets/neonatologia/vitalidade-fetal/img.jpeg'
+      
         '/assets/obstetricia/hasg/esquemas.jpeg'
       
         '/assets/obstetricia/hasg/mg.jpeg'
@@ -375,6 +383,14 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/rpmo/img8.jpeg'
       
         '/assets/obstetricia/rpmo/img9.jpeg'
+      
+        '/assets/obstetricia/tpp/img.jpeg'
+      
+        '/assets/obstetricia/tpp/img2.jpeg'
+      
+        '/assets/obstetricia/tpp/img3.jpeg'
+      
+        '/assets/obstetricia/tpp/img4.jpeg'
       
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       
