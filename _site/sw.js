@@ -404,8 +404,6 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/tpp/img9.jpeg'
       
-        '/assets/obstetricia/tpp/pessario.jpeg'
-      
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       
         '/assets/urologia/tu-testiculos/img.jpeg'
