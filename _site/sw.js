@@ -386,11 +386,25 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/tpp/img.jpeg'
       
+        '/assets/obstetricia/tpp/img10.jpeg'
+      
         '/assets/obstetricia/tpp/img2.jpeg'
       
         '/assets/obstetricia/tpp/img3.jpeg'
       
         '/assets/obstetricia/tpp/img4.jpeg'
+      
+        '/assets/obstetricia/tpp/img5.jpeg'
+      
+        '/assets/obstetricia/tpp/img6.jpeg'
+      
+        '/assets/obstetricia/tpp/img7.jpeg'
+      
+        '/assets/obstetricia/tpp/img8.jpeg'
+      
+        '/assets/obstetricia/tpp/img9.jpeg'
+      
+        '/assets/obstetricia/tpp/pessario.jpeg'
       
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       
