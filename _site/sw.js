@@ -31,6 +31,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/2019/06/02/parto-prematuro.html',
       
+        '/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html',
+      
         '/neonatologia/2019/06/01/vitalidade-fetal.html',
       
         '/urologia/2019/05/30/tumores-de-testiculo.html',
@@ -383,6 +385,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/rpmo/img8.jpeg'
       
         '/assets/obstetricia/rpmo/img9.jpeg'
+      
+        '/assets/obstetricia/tpp/cisam.jpeg'
       
         '/assets/obstetricia/tpp/img.jpeg'
       

@@ -1,14 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-02T17:22:33-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Parto prematuro</title><link href="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html" rel="alternate" type="text/html" title="Parto prematuro" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/06/02/parto-prematuro</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-02T22:21:32-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sangramento uterino disfuncional</title><link href="http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html" rel="alternate" type="text/html" title="Sangramento uterino disfuncional" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional</id><content type="html" xml:base="http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html">&lt;p&gt;O que coloco aqui?&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Parto prematuro</title><link href="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html" rel="alternate" type="text/html" title="Parto prematuro" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/06/02/parto-prematuro</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#teste-de-clements&quot; id=&quot;markdown-toc-teste-de-clements&quot;&gt;Teste de Clements&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#predição-de-parto-prematuro&quot; id=&quot;markdown-toc-predição-de-parto-prematuro&quot;&gt;Predição de parto prematuro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#predição&quot; id=&quot;markdown-toc-predição&quot;&gt;Predição&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#ameaça-de-parto-pré-termo&quot; id=&quot;markdown-toc-ameaça-de-parto-pré-termo&quot;&gt;Ameaça de parto pré-termo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#prevenção-e-tratamento&quot; id=&quot;markdown-toc-prevenção-e-tratamento&quot;&gt;Prevenção e tratamento&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#tocolíticos&quot; id=&quot;markdown-toc-tocolíticos&quot;&gt;Tocolíticos&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#nifedipina&quot; id=&quot;markdown-toc-nifedipina&quot;&gt;Nifedipina&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#corticoide-antenatal&quot; id=&quot;markdown-toc-corticoide-antenatal&quot;&gt;Corticoide antenatal&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#corticoide-na-ameaça-de-parto-pré-termo&quot; id=&quot;markdown-toc-corticoide-na-ameaça-de-parto-pré-termo&quot;&gt;Corticoide na ameaça de parto pré-termo&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#circlagem&quot; id=&quot;markdown-toc-circlagem&quot;&gt;Circlagem&lt;/a&gt;&lt;/li&gt;
@@ -16,7 +20,7 @@
       &lt;li&gt;&lt;a href=&quot;#gravidez-gemelar&quot; id=&quot;markdown-toc-gravidez-gemelar&quot;&gt;Gravidez gemelar&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#neuroproteção-fetal&quot; id=&quot;markdown-toc-neuroproteção-fetal&quot;&gt;Neuroproteção fetal&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#assistência-ao-parto&quot; id=&quot;markdown-toc-assistência-ao-parto&quot;&gt;Assistência ao parto&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#ligadura-do-cordão&quot; id=&quot;markdown-toc-ligadura-do-cordão&quot;&gt;Ligadura do cordão&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#clampeamento-do-cordão&quot; id=&quot;markdown-toc-clampeamento-do-cordão&quot;&gt;Clampeamento do cordão&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#apgar&quot; id=&quot;markdown-toc-apgar&quot;&gt;Apgar&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#aspiração&quot; id=&quot;markdown-toc-aspiração&quot;&gt;Aspiração&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#aquecimento&quot; id=&quot;markdown-toc-aquecimento&quot;&gt;Aquecimento&lt;/a&gt;&lt;/li&gt;
@@ -24,12 +28,17 @@
       &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#síndrome-de-angustia-respiratória&quot; id=&quot;markdown-toc-síndrome-de-angustia-respiratória&quot;&gt;Síndrome de angustia respiratória&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#corticoide-antenatal&quot; id=&quot;markdown-toc-corticoide-antenatal&quot;&gt;Corticoide antenatal&lt;/a&gt;            &lt;ol&gt;
-              &lt;li&gt;&lt;a href=&quot;#corticoide-na-ameaça-de-parto-pré-termo&quot; id=&quot;markdown-toc-corticoide-na-ameaça-de-parto-pré-termo&quot;&gt;Corticoide na ameaça de parto pré-termo&lt;/a&gt;&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#protocolo-do-cisam&quot; id=&quot;markdown-toc-protocolo-do-cisam&quot;&gt;Protocolo do CISAM&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#exames&quot; id=&quot;markdown-toc-exames&quot;&gt;Exames&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#corticoterapia&quot; id=&quot;markdown-toc-corticoterapia&quot;&gt;Corticoterapia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#antibioticoterapia&quot; id=&quot;markdown-toc-antibioticoterapia&quot;&gt;Antibioticoterapia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tocolítico&quot; id=&quot;markdown-toc-tocolítico&quot;&gt;Tocolítico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#orientação-para-alta&quot; id=&quot;markdown-toc-orientação-para-alta&quot;&gt;Orientação para alta&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#neuroproteção-fetal-com-mgso4&quot; id=&quot;markdown-toc-neuroproteção-fetal-com-mgso4&quot;&gt;Neuroproteção fetal com MgSO4&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
@@ -46,7 +55,7 @@
       &lt;li&gt;tardio: 34 a 36+6 semanas (60%)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Termo precoce:  entre 37 e 38sem e 6d&lt;/li&gt;
+  &lt;li&gt;Termo precoce: entre 37 e 38sem e 6d&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;O parto pré-termo é um problema de saúde pública e representa a causa principal de
@@ -54,14 +63,6 @@ morbidade e de mortalidade neonatal precoce e tardia, em face do risco aumentado
 complicações no neurodesenvolvimento, respiratórias e gastrintestinais, como síndrome de
 angústia respiratória (SAR), doença pulmonar crônica, enterocolite necrosante, hemorragia
 intraventricular e paralisia cerebral.&lt;/p&gt;
-
-&lt;p&gt;O RN também é categorizado quanto ao peso ao nascer:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Baixo peso: &amp;lt; 2.500g&lt;/li&gt;
-  &lt;li&gt;Muito baixo peso: &amp;lt; 1.500 g&lt;/li&gt;
-  &lt;li&gt;Baixo peso extremo: &amp;lt; 1.000 g&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
@@ -155,21 +156,35 @@ distúrbios do colo uterino e doenças endócrinas&lt;/p&gt;
 
 &lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;História pregressa de parto pré-termo
+  &lt;li&gt;Prematuridade anterior
     &lt;ul&gt;
+      &lt;li&gt;O principal fator de risco&lt;/li&gt;
       &lt;li&gt;20% de chance de novo parto prematuro&lt;/li&gt;
       &lt;li&gt;Risco aumenta progressivamente a cada parto pré-termo&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;baixo nível socioeconômicoeducacional&lt;/li&gt;
-  &lt;li&gt;etnia&lt;/li&gt;
-  &lt;li&gt;idade materna &amp;lt; 18 ou &amp;gt; 35 anos)&lt;/li&gt;
-  &lt;li&gt;tabagismo e uso de drogas ilícitas&lt;/li&gt;
-  &lt;li&gt;estresse&lt;/li&gt;
-  &lt;li&gt;abuso físico&lt;/li&gt;
-  &lt;li&gt;assistência pré-natal deficiente&lt;/li&gt;
-  &lt;li&gt;baixo peso pré-gravídico&lt;/li&gt;
-  &lt;li&gt;ganho de peso inadequado na gestação&lt;/li&gt;
+  &lt;li&gt;RPMO&lt;/li&gt;
+  &lt;li&gt;Estresse&lt;/li&gt;
+  &lt;li&gt;Miomas e outras alterações uterinas&lt;/li&gt;
+  &lt;li&gt;Anemia&lt;/li&gt;
+  &lt;li&gt;Tabagismo&lt;/li&gt;
+  &lt;li&gt;Urina (Infecções urinárias e DST)&lt;/li&gt;
+  &lt;li&gt;Raça negra&lt;/li&gt;
+  &lt;li&gt;Idade materna (&amp;lt; 18 ou &amp;gt; 35 anos)&lt;/li&gt;
+  &lt;li&gt;Desnutrição (↓IMC e ↓nível socioeconômico)&lt;/li&gt;
+  &lt;li&gt;Alcoolismo&lt;/li&gt;
+  &lt;li&gt;Distensão uterina
+    &lt;ul&gt;
+      &lt;li&gt;Gemelaridade&lt;/li&gt;
+      &lt;li&gt;Polidramnia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hemorragias
+    &lt;ul&gt;
+      &lt;li&gt;PP&lt;/li&gt;
+      &lt;li&gt;DPP&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;teste-de-clements&quot;&gt;Teste de Clements&lt;/h2&gt;
@@ -178,8 +193,7 @@ distúrbios do colo uterino e doenças endócrinas&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img5.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
-&lt;p&gt;A sobrevida dos RN pré-termo, que nascem após 32 semanas de gravidez, é similar à de RN a
-termo. Todavia, esses prematuros também não estejam isentos de complicações, como se verá adiante. A maioria dos problemas graves está associada àqueles que nascem antes de 32 semanas (1 a 2% do total de partos), principalmente àqueles nascidos antes de 28 semanas (0,4% do total de partos).&lt;/p&gt;
+&lt;p&gt;A sobrevida dos RN pré-termo, que nascem após 32 semanas de gravidez, é similar à de RN a termo. Todavia, esses prematuros também não estejam isentos de complicações, como se verá adiante. A maioria dos problemas graves está associada àqueles que nascem antes de 32 semanas (1 a 2% do total de partos), principalmente àqueles nascidos antes de 28 semanas (0,4% do total de partos).&lt;/p&gt;
 
 &lt;p&gt;O atendimento moderno perinatal (corticoide, surfactante, centros terciários) foi importante para melhorar o prognóstico do prematuro. Todavia, o prognóstico permanece desalentador para
 aqueles pré-viáveis nascidos entre 22 e 25 semanas.&lt;/p&gt;
@@ -288,14 +302,11 @@ para a interrupção da gravidez (CIUR e oligoidrâmnia isolados, pré-eclâmpsi
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;predição-de-parto-prematuro&quot;&gt;Predição de parto prematuro&lt;/h2&gt;
-&lt;p&gt;O grande fator de risco para o parto pré-termo é a história pregressa de parto pré-termo.
-Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos
-anteriores, o risco passa para 35 a 40%.&lt;/p&gt;
+&lt;h2 id=&quot;predição&quot;&gt;Predição&lt;/h2&gt;
+&lt;p&gt;O grande fator de risco para o parto pré-termo é a história pregressa de parto pré-termo. Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos anteriores, o risco passa para 35 a 40%.&lt;/p&gt;
 
-&lt;p&gt;Existem três grandes marcadores de parto pré-termo:
-vaginose bacteriana, ultrassonografia do colo e fibronectina fetal. Esses marcadores estão
-indicados quando a grávida relata história pregressa de parto pré-termo.&lt;/p&gt;
+&lt;p&gt;Existem três grandes marcadores de parto pré-termo: vaginose bacteriana, ultrassonografia do colo e fibronectina fetal. Esses marcadores estão
+indicados quando a grávida relata história pregressa de parto pré-termo ou quando manifesta sintomas.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Vaginose bacteriana:&lt;/strong&gt; é rastreada pelo método de Gram na gestação de 16 semanas; tem por objetivo diagnosticar a vaginose bacteriana assintomática.&lt;/li&gt;
@@ -303,6 +314,7 @@ indicados quando a grávida relata história pregressa de parto pré-termo.&lt;/
     &lt;ul&gt;
       &lt;li&gt;Em gestantes assintomáticas, o comprimento do &lt;strong&gt;colo &amp;lt; 20 mm entre a 20ª e a 24ª semana&lt;/strong&gt; define risco aumentado para parto pré-termo.&lt;/li&gt;
       &lt;li&gt;A USG-abd não deve ser utilizada para medir o comprimento do colo, pois os resultados não são fidedignos.&lt;/li&gt;
+      &lt;li&gt;Obs: comprimenti cervical = distância entre OI e OE&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Fibronectina fetal:&lt;/strong&gt; o mais importante marcador bioquímico de parto pré-termo.
@@ -310,6 +322,7 @@ indicados quando a grávida relata história pregressa de parto pré-termo.&lt;/
       &lt;li&gt;Glicoproteína existente na secreção cervicovaginal, marcadora de disrupção coriodecidual.&lt;/li&gt;
       &lt;li&gt;Tipicamente, a fibronectina fetal não existe na secreção vaginal da 24ª semana até o termo;&lt;/li&gt;
       &lt;li&gt;Todavia, 3 a 4% das mulheres com fibronectina positiva (≥ 50 ng/ml) no rastreamento de 24 a 26 semanas apresentam risco elevado de parto pré-termo.&lt;/li&gt;
+      &lt;li&gt;Bom valor preditivo negativo&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -329,9 +342,8 @@ indicação de internação, uso de corticoide e tocolítico.&lt;/p&gt;
   &lt;li&gt;aquelas com valores entre 15 e 25 mm merecem vigilância atenta pela ultrassonografia seriada.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img6.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img7.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img6.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/obstetricia/tpp/img7.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;prevenção-e-tratamento&quot;&gt;Prevenção e tratamento&lt;/h2&gt;
 &lt;h3 id=&quot;tocolíticos&quot;&gt;Tocolíticos&lt;/h3&gt;
@@ -344,22 +356,67 @@ indicação de internação, uso de corticoide e tocolítico.&lt;/p&gt;
   &lt;li&gt;Doadores de óxido nítrico.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;O uso de tocolítico visa prolongar a gestação por 48 h enquanto se aguardam os efeitos
-benéficos do corticoide e se espera a transferência da paciente para um centro de atendimento
+&lt;p&gt;O uso de tocolítico visa &lt;strong&gt;prolongar a gestação por 48 h enquanto se aguardam os efeitos benéficos do corticoide&lt;/strong&gt; e se espera a transferência da paciente para um centro de atendimento
 terciário.&lt;/p&gt;
 
-&lt;p&gt;Dos agonistas-β 2, o salbutamol é o mais empregado no Brasil. A indometacina também pode
-ser utilizada, mas antes de 32 semanas e, no máximo, por 48 h.&lt;/p&gt;
+&lt;p&gt;Dos agonistas-β 2, o salbutamol é o mais empregado no Brasil. A indometacina também pode ser utilizada, mas antes de 32 semanas e, no máximo, por 48 h.&lt;/p&gt;
 
 &lt;h4 id=&quot;nifedipina&quot;&gt;Nifedipina&lt;/h4&gt;
-&lt;p&gt;É o fármaco de primeira escolha para inibir o parto pré-termo, por apresentar as seguintes vantagens: via oral de administração, poucos efeitos colaterais e eficácia em reduzir as complicações neonatais.&lt;/p&gt;
+&lt;p&gt;É o fármaco de primeira escolha para inibir o parto pré-termo, um bloqueador dos canais de cálcio. Apresenta as seguintes vantagens: via oral de administração, poucos efeitos colaterais e eficácia em reduzir as complicações neonatais.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Deve-se iniciar com 10 mg VO, podendo repetir a dose a cada 15 min na 1a hora até o máximo de 40 mg. Deve-se administrar ao menos 20 mg de nifedipina de liberação lenta VO a cada 8 h após dose inicial, sendo a dose máxima 160 mg/dia&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A nifedipina e a atosibana têm efetividade comparável em prolongar a gravidez por 7 dias,
-mas a atosibana é quase 10 vezes mais cara que a nifedipina.&lt;/p&gt;
+&lt;p&gt;A nifedipina e a atosibana têm efetividade comparável em prolongar a gravidez por 7 dias, mas a atosibana é quase 10 vezes mais cara que a nifedipina.&lt;/p&gt;
+
+&lt;h3 id=&quot;corticoide-antenatal&quot;&gt;Corticoide antenatal&lt;/h3&gt;
+&lt;p&gt;O corticoide estimula a síntese e a liberação de material surfactante no alvéolo pulmonar. A &lt;strong&gt;betametasona&lt;/strong&gt; e a &lt;strong&gt;dexametasona&lt;/strong&gt; atravessam a barreira placentária e, por via IM, são os
+corticoides preferidos para a corticoterapia antenatal. Usado para gestações com &lt;strong&gt;IG entre 24 e 34 semanas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;O corticoide é capaz não só de reduzir a incidência de SAR como também de outras complicações no bebê, tais como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;hemorragia intraventricular&lt;/li&gt;
+  &lt;li&gt;leucomalacia periventricular&lt;/li&gt;
+  &lt;li&gt;retinopatia da prematuridade&lt;/li&gt;
+  &lt;li&gt;enterocolite necrosante&lt;/li&gt;
+  &lt;li&gt;persistência do canal arterial&lt;/li&gt;
+  &lt;li&gt;taxa de mortalidade neonatal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ocorre redução de 50% na incidência de SAR, e sueficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.&lt;/p&gt;
+
+&lt;p&gt;A Revisão Cochrane (2007) recomenda um único curso de corticoide, que pode ser a
+betametasona, 12 mg via IM repetida 2 vezes com intervalo de 24h sempre que houver
+risco de parto pré-termo, incluindo:&lt;sup id=&quot;fnref:rez:1&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Grávidas com ruptura das membranas&lt;/li&gt;
+  &lt;li&gt;Grávidas com pré-eclâmpsia&lt;/li&gt;
+  &lt;li&gt;Pacientes com gestação múltipla&lt;/li&gt;
+  &lt;li&gt;Aquelas em que o parto pode ocorrer em menos de 24h&lt;/li&gt;
+  &lt;li&gt;Na prática neonatal moderna em que o surfactante é disponível.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ACOG (2008):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Duas doses de 12 mg de &lt;strong&gt;betametasona&lt;/strong&gt; por via IM, espaçadas de 24h&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dexametasona&lt;/strong&gt; na dose de 6 mg por via IM a cada 12h (4 doses)&lt;/li&gt;
+  &lt;li&gt;Orientações
+    &lt;ul&gt;
+      &lt;li&gt;Apenas um curso de corticoide deve ser administrado em pacientes entre 24 e 34sem que correm risco iminente de parto pré-termo dentro de 7 dias&lt;/li&gt;
+      &lt;li&gt;Apenas um curso de corticoide deve ser utilizado em pacientes com RPMP entre 24 e 32sem&lt;/li&gt;
+      &lt;li&gt;A eficácia do corticoide na RPMP na gestação de 32 e de 33sem é incerta&lt;/li&gt;
+      &lt;li&gt;O corticoide não é recomendado antes da viabilidade fetal (24 sem)&lt;/li&gt;
+      &lt;li&gt;Não se aconselha a repetição dos cursos de corticoide.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;corticoide-na-ameaça-de-parto-pré-termo&quot;&gt;Corticoide na ameaça de parto pré-termo&lt;/h5&gt;
+&lt;p&gt;Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo &amp;lt; 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo &amp;gt; 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.&lt;/p&gt;
 
 &lt;h3 id=&quot;circlagem&quot;&gt;Circlagem&lt;/h3&gt;
 &lt;p&gt;Originalmente proposta para uso em pacientes com abortamento habitual de 2º trimestre, a circlagem tem sido recomendada também para aquelas com história pregressa de parto pré-termo.&lt;/p&gt;
@@ -368,12 +425,11 @@ mas a atosibana é quase 10 vezes mais cara que a nifedipina.&lt;/p&gt;
 &lt;p&gt;A SMFM, o AIUM e o ACOG (2012) propõem a prevenção do parto pré-termo pela USG transvaginal universal do colo uterino, após a USG morfológica detrimestre, entre a 20ª e a 24ª semana. O colo ≤ 20 mm é indicação para progesterona vaginal, 200
 mg/dia, até 34 a 36 semanas&lt;/p&gt;
 
-&lt;p&gt;O ACOG (2012) também recomenda em pacientes com &lt;strong&gt;história pregressa de parto pré-termo&lt;/strong&gt;
-o uso de &lt;strong&gt;progesterona vaginal&lt;/strong&gt; (200 mg/dia) a partir da 16ª semana. Entre 16 e 24 semanas deve-se realizar a USG transvaginal e se o colo estiver ≤ 25 mm, estaria indicada a circlagem
+&lt;p&gt;O ACOG (2012) também recomenda em pacientes com &lt;strong&gt;história pregressa de parto pré-termo&lt;/strong&gt; o uso de &lt;strong&gt;progesterona vaginal&lt;/strong&gt; (200 mg/dia) a partir da 16ª semana. Entre 16 e 24 semanas deve-se realizar a USG transvaginal e se o colo estiver ≤ 25 mm, estaria indicada a circlagem
 cervical.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A Revisão Cochrane (2013) afrma que o uso de pesário em colos ≤ 25 mm, entre 18 e 20 semanas da gravidez, conseguiu reduzir significativamente a ocorrência de parto pré-termo, quando comparado a grupo controle (20 vs. 60%; risco relativo = 0,36).&lt;sup id=&quot;fnref:rez:1&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;A Revisão Cochrane (2013) afrma que o uso de pesário em colos ≤ 25 mm, entre 18 e 20 semanas da gravidez, conseguiu reduzir significativamente a ocorrência de parto pré-termo, quando comparado a grupo controle (20 vs. 60%; risco relativo = 0,36).&lt;sup id=&quot;fnref:rez:2&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img8.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
@@ -388,18 +444,18 @@ intervenções desnecessárias.&lt;/p&gt;
 foram efetivas para evitar o parto pré-termo na gravidez gemelar. Pelo contrário, a circlagem trouxe até resultados negativos (ACOG, 2012).&lt;/p&gt;
 
 &lt;h3 id=&quot;neuroproteção-fetal&quot;&gt;Neuroproteção fetal&lt;/h3&gt;
-&lt;p&gt;Usa-se o MgSO4, indicado na gestação entre 23 e 31+6 sem quando o parto é iminente ou a gravidez deve ser interrompida nas 24h seguintes.&lt;/p&gt;
+&lt;p&gt;Usa-se o MgSO4, indicado na gestação &lt;strong&gt;entre 23 e 31+6 sem&lt;/strong&gt; quando o parto é iminente ou a gravidez deve ser interrompida nas 24h seguintes.&lt;/p&gt;
 
 &lt;p&gt;No parto pré-termo com indicação clínica, o MgSO4 deve ser iniciado 4h antes da interrupção.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A Revisão Cochrane (2009), avaliando o uso do Mag para a neuroproteção fetal, encontrou risco relativo de 0,71, vale dizer, redução de 30% de paralisia cerebral.&lt;sup id=&quot;fnref:rez:2&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;A Revisão Cochrane (2009), avaliando o uso do Mag para a neuroproteção fetal, encontrou risco relativo de 0,71, vale dizer, redução de 30% de paralisia cerebral.&lt;sup id=&quot;fnref:rez:3&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img10.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;assistência-ao-parto&quot;&gt;Assistência ao parto&lt;/h3&gt;
-&lt;h4 id=&quot;ligadura-do-cordão&quot;&gt;Ligadura do cordão&lt;/h4&gt;
+&lt;h4 id=&quot;clampeamento-do-cordão&quot;&gt;Clampeamento do cordão&lt;/h4&gt;
 &lt;p&gt;&lt;strong&gt;Para o RN pré-termo que não necessite de reanimação&lt;/strong&gt;, o
 clampeamento do cordão deve ser postergado por &lt;strong&gt;30 a 120s&lt;/strong&gt;.&lt;/p&gt;
 
@@ -407,7 +463,7 @@ clampeamento do cordão deve ser postergado por &lt;strong&gt;30 a 120s&lt;/stro
 no RN pré-termo.&lt;/p&gt;
 
 &lt;h4 id=&quot;apgar&quot;&gt;Apgar&lt;/h4&gt;
-&lt;p&gt;Na população de RN pré-termo, em face de sua imaturidade fisiológica, o índice de Apgar não tem importância clínica (ACOG, 2006).&lt;sup id=&quot;fnref:rez:3&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Na população de RN pré-termo, em face de sua imaturidade fisiológica, o índice de Apgar não tem importância clínica (ACOG, 2006).&lt;sup id=&quot;fnref:rez:4&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;aspiração&quot;&gt;Aspiração&lt;/h4&gt;
 &lt;p&gt;A limpeza da orofaringe será imediata por meio de pera de borracha quando do desprendimento do polo cefálico.&lt;/p&gt;
@@ -446,66 +502,143 @@ recuperação, embora nem sempre completa.&lt;/p&gt;
 aeração&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;O laboratório exibe** PO2 &amp;lt; 65 mmHg (ar ambiente), PCO2 &amp;gt; 50 mmHg e pH &amp;lt; 7,30**.&lt;/p&gt;
+&lt;p&gt;O laboratório exibe &lt;strong&gt;PO2 &amp;lt; 65 mmHg (ar ambiente), PCO2 &amp;gt; 50 mmHg e pH &amp;lt; 7,30&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Radiografia é indispensável para o diagnóstico, revelando &lt;strong&gt;padrão difuso reticulogranular nos pulmões&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;O óbito tende a ocorrer antes de 72h. A necropsia revela atelectasia, ingurgitamento capilarfrequentemente, depósito de fibrina nos alvéolos (membrana hialina). Se sobreviver,recuperação ocorre em 48h.&lt;/p&gt;
 
-&lt;h4 id=&quot;corticoide-antenatal&quot;&gt;Corticoide antenatal&lt;/h4&gt;
-&lt;p&gt;O corticoide estimula a síntese e a liberação de material surfactante no alvéolo pulmonar. A &lt;strong&gt;betametasona&lt;/strong&gt; e a &lt;strong&gt;dexametasona&lt;/strong&gt; atravessam a barreira placentária e, por via IM, são os
-corticoides preferidos para a corticoterapia antenatal.&lt;/p&gt;
+&lt;h2 id=&quot;protocolo-do-cisam&quot;&gt;Protocolo do CISAM&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
+&lt;h3 id=&quot;exames&quot;&gt;Exames&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Hemograma e Sumário de urina&lt;/li&gt;
+  &lt;li&gt;Urocultura&lt;/li&gt;
+  &lt;li&gt;Exame especular e Exame a fresco da secreção vaginal&lt;/li&gt;
+  &lt;li&gt;USG obstétrica&lt;/li&gt;
+  &lt;li&gt;Cardiotocografia fetal anteparto, se IG &amp;gt; 32 semanas&lt;/li&gt;
+  &lt;li&gt;Coleta da CSV para estreptococos B&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;O corticoide é capaz não só de reduzir a incidência de SAR como também de outras complicações no bebê, tais como&lt;/p&gt;
-
+&lt;h3 id=&quot;corticoterapia&quot;&gt;Corticoterapia&lt;/h3&gt;
+&lt;p&gt;Entre 24-34 semanas&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;hemorragia intraventricular&lt;/li&gt;
-  &lt;li&gt;leucomalacia periventricular&lt;/li&gt;
-  &lt;li&gt;retinopatia da prematuridade&lt;/li&gt;
-  &lt;li&gt;enterocolite necrosante&lt;/li&gt;
-  &lt;li&gt;persistência do canal arterial&lt;/li&gt;
-  &lt;li&gt;taxa de mortalidade neonatal&lt;/li&gt;
+  &lt;li&gt;Droga de escolha: &lt;strong&gt;Betametasona&lt;/strong&gt; – 12mg IM, 1x/dia, e repete após 24h.&lt;/li&gt;
+  &lt;li&gt;Opção: &lt;strong&gt;Dexametasona&lt;/strong&gt; – 6mg IM, 12/12h, por 2 dias, sendo 4 doses.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ocorre redução de 50% na incidência de SAR, e sueficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Obs: no caso de recidiva do TPP dentro de 15 dias, e quando a administração foi IG &amp;lt; 28 semanas, repetir a corticoterpia (1 ciclo completo).&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;A Revisão Cochrane (2007) recomenda um único curso de corticoide, que pode ser a
-betametasona, 12 mg via IM repetida 2 vezes com intervalo de 24h sempre que houver
-risco de parto pré-termo, incluindo:&lt;sup id=&quot;fnref:rez:4&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&quot;antibioticoterapia&quot;&gt;Antibioticoterapia&lt;/h3&gt;
+&lt;p&gt;TPP com ou sem bolsa rota, de 24-36 sem. A droga de escolha é &lt;strong&gt;Ampicilina&lt;/strong&gt; Dose de ataque 2g EV // Manutenção 1g EV 4/4h, até o parto / inibição&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Grávidas com ruptura das membranas&lt;/li&gt;
-  &lt;li&gt;Grávidas com pré-eclâmpsia&lt;/li&gt;
-  &lt;li&gt;Pacientes com gestação múltipla&lt;/li&gt;
-  &lt;li&gt;Aquelas em que o parto pode ocorrer em menos de 24h&lt;/li&gt;
-  &lt;li&gt;Na prática neonatal moderna em que o surfactante é disponível.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;ACOG (2008):&lt;/p&gt;
+&lt;h3 id=&quot;tocolítico&quot;&gt;Tocolítico&lt;/h3&gt;
+&lt;p&gt;entre 24 a 34 semanas, mesmo com dilatação avançada. Na dúvida do diagnóstico, observar durante 1h para confirmação do diagnóstico do TPP, durante esse período pode ser usado Buscopam®.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Duas doses de 12 mg de &lt;strong&gt;betametasona&lt;/strong&gt; por via IM, espaçadas de 24h&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dexametasona&lt;/strong&gt; na dose de 6 mg por via IM a cada 12h (4 doses)&lt;/li&gt;
-  &lt;li&gt;Orientações
+  &lt;li&gt;Contra-indicações do tocolítico:
+    &lt;ol&gt;
+      &lt;li&gt;Feto morto&lt;/li&gt;
+      &lt;li&gt;Corioamnionite&lt;/li&gt;
+      &lt;li&gt;Sofrimento fetal agudo&lt;/li&gt;
+      &lt;li&gt;Sangramento genital intenso&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Drogas:
     &lt;ul&gt;
-      &lt;li&gt;Apenas um curso de corticoide deve ser administrado em pacientes entre 24 e 34sem que correm risco iminente de parto pré-termo dentro de 7 dias&lt;/li&gt;
-      &lt;li&gt;Apenas um curso de corticoide deve ser utilizado em pacientes com RPMP entre 24 e 32sem&lt;/li&gt;
-      &lt;li&gt;A eficácia do corticoide na RPMP na gestação de 32 e de 33sem é incerta&lt;/li&gt;
-      &lt;li&gt;O corticoide não é recomendado antes da viabilidade fetal (24 sem)&lt;/li&gt;
-      &lt;li&gt;Não se aconselha a repetição dos cursos de corticoide.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;NIFEDIPINA&lt;/strong&gt; (primeira droga de escolha)
+        &lt;ul&gt;
+          &lt;li&gt;Dose de ataque: 30mg VO // Dose de manutenção: 20mg 4/4h VO, iniciar 4h após o ataque.&lt;/li&gt;
+          &lt;li&gt;Duração do tratamento: 24h (mínimo) – 48h (máximo)&lt;/li&gt;
+          &lt;li&gt;Momento da suspensão da droga: se 6 – 12h sem dinâmica. Observar 24h após suspender a droga&lt;/li&gt;
+          &lt;li&gt;Contra-indicação à Nifedipina: HAS&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Outras drogas (Falha do tratamento ou contra-indicação à Nifedipina)
+        &lt;ul&gt;
+          &lt;li&gt;IG &amp;lt; 32 semanas - &lt;strong&gt;Indometacina&lt;/strong&gt; 100mg VR (ataque) + 25mg VO 6/6h por 48h (manutenção)&lt;/li&gt;
+          &lt;li&gt;IG &amp;gt; 32 semanas - &lt;strong&gt;Atosiban&lt;/strong&gt;* (resumo a seguir)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;corticoide-na-ameaça-de-parto-pré-termo&quot;&gt;Corticoide na ameaça de parto pré-termo&lt;/h5&gt;
+&lt;h3 id=&quot;orientação-para-alta&quot;&gt;Orientação para alta&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Repouso físico relativo e sexual&lt;/li&gt;
+  &lt;li&gt;Retorno ao pré-natal de alto risco com 7-15 dias.&lt;/li&gt;
+  &lt;li&gt;Progesterona natural micronizada 200mg/dia, VV, até 36 semanas, se:
+    &lt;ul&gt;
+      &lt;li&gt;antecedente de parto prematuro em gestação anterior&lt;/li&gt;
+      &lt;li&gt;colo uterino curto (&amp;lt; 2,5cm)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo &amp;lt; 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo &amp;gt; 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/cisam.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;neuroproteção-fetal-com-mgso4&quot;&gt;Neuroproteção fetal com MgSO4&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Indicações:
+    &lt;ul&gt;
+      &lt;li&gt;IG &amp;gt; 23 e &amp;lt; 32 sem&lt;/li&gt;
+      &lt;li&gt;TPP com dilatação ≥ 4cm com ou sem bolsa rota&lt;/li&gt;
+      &lt;li&gt;Contra-indicações:&lt;/li&gt;
+      &lt;li&gt;Pré-eclâmpsia grave&lt;/li&gt;
+      &lt;li&gt;Óbito fetal&lt;/li&gt;
+      &lt;li&gt;Anomalia fetal incompatível com a vida&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Contraindicações maternas ao Sulfato de Magnésio:
+    &lt;ul&gt;
+      &lt;li&gt;Miastenia gravis&lt;/li&gt;
+      &lt;li&gt;falência renal&lt;/li&gt;
+      &lt;li&gt;etc&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Esquema:
+    &lt;ul&gt;
+      &lt;li&gt;Ataque: MgSO4 50% 12ml (6g) + SF 0,9% ou SRL 100ml EV em 20-30 minutos.&lt;/li&gt;
+      &lt;li&gt;Manutenção: MgSO4 50% 24ml (12g) + SF 0,9% ou SRL 500ml em BIC (81ml/h) 6/6h.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tempo de uso:
+    &lt;ul&gt;
+      &lt;li&gt;Até o parto (quando não se consegue inibir)&lt;/li&gt;
+      &lt;li&gt;Caso seja inibido, suspender imediatamente&lt;/li&gt;
+      &lt;li&gt;Iniciar, no mínimo, até 4h antes da interrupção eletiva&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Início do tratamento: A infusão deve ser iniciada na sala de parto junto com o tocolítico (Nifedipina) ou sem, quando o parto for irreversível.&lt;/li&gt;
+  &lt;li&gt;Repetição da dose:
+    &lt;ul&gt;
+      &lt;li&gt;Ataque + manutenção, se &amp;gt; 6h do esquema inicial e persistência do risco de PP iminente&lt;/li&gt;
+      &lt;li&gt;Manutenção, se &amp;lt; 6h do esquema inicial e persistência do risco de PP iminente&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Monitorização:
+    &lt;ul&gt;
+      &lt;li&gt;Ao término de cada fase avaliar parâmetros: FR, FC, PA, diurese, reflexos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Transferência para o alto risco:
+    &lt;ul&gt;
+      &lt;li&gt;Paciente sem contrações&lt;/li&gt;
+      &lt;li&gt;Ao término da infusão do Sulfato de Magnésio&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:rez&quot;&gt;
       &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:cisam&quot;&gt;
+      &lt;p&gt;Protocolo CISAM 2019 &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Vitalidade fetal</title><link href="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html" rel="alternate" type="text/html" title="Vitalidade fetal" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
@@ -1668,54 +1801,4 @@ Exame do períneo&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Intrinseca&lt;/li&gt;
   &lt;li&gt;Extrínseca&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Guia do plantonista em obstetrícia</title><link href="http://localhost:4000/obstetricia/2019/05/25/guia-do-plantonista.html" rel="alternate" type="text/html" title="Guia do plantonista em obstetrícia" /><published>2019-05-25T00:00:00-03:00</published><updated>2019-05-25T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/05/25/guia-do-plantonista</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/05/25/guia-do-plantonista.html">&lt;h1 id=&quot;semiologia&quot;&gt;Semiologia&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;IG
-    &lt;ul&gt;
-      &lt;li&gt;Termo&lt;/li&gt;
-      &lt;li&gt;Pré-termo&lt;/li&gt;
-      &lt;li&gt;Pós-termo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;cesariana&quot;&gt;Cesariana&lt;/h1&gt;
-&lt;h2 id=&quot;intrumentação&quot;&gt;Intrumentação&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Foster&lt;/li&gt;
-  &lt;li&gt;Halsted&lt;/li&gt;
-  &lt;li&gt;Allis&lt;/li&gt;
-  &lt;li&gt;Kocher&lt;/li&gt;
-  &lt;li&gt;Criller&lt;/li&gt;
-  &lt;li&gt;Kelly&lt;/li&gt;
-  &lt;li&gt;Valva suprapúbica&lt;/li&gt;
-  &lt;li&gt;Doyen&lt;/li&gt;
-  &lt;li&gt;Farabeuf&lt;/li&gt;
-  &lt;li&gt;Porta agulha (mayo)&lt;/li&gt;
-  &lt;li&gt;Tesoura reta (mayo)&lt;/li&gt;
-  &lt;li&gt;Metzenbaum (tesoura curva)&lt;/li&gt;
-  &lt;li&gt;Pinça anatômica&lt;/li&gt;
-  &lt;li&gt;Pinça dente de rato&lt;/li&gt;
-  &lt;li&gt;Cuba&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sutura&quot;&gt;Sutura&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;Histerorrafia: catgut cromado
-    &lt;ul&gt;
-      &lt;li&gt;sutura em chuleio ancorado&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Rafi do M. reto abd: catgut simples&lt;/li&gt;
-  &lt;li&gt;Aponeurose: vycril&lt;/li&gt;
-  &lt;li&gt;Subcutâneo: catgut simples
-    &lt;ul&gt;
-      &lt;li&gt;pontos simples&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Pele: nylon 2-0
-    &lt;ul&gt;
-      &lt;li&gt;pontos simples&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Semiologia IG Termo Pré-termo Pós-termo</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>

@@ -15,19 +15,13 @@ categories: obstetricia
   * Muito pré-termo: 28 a 30+6 semanas (15%)
   * precoce: 31 a 33+6 semanas (20%)
   * tardio: 34 a 36+6 semanas (60%)
-* Termo precoce:  entre 37 e 38sem e 6d
+* Termo precoce: entre 37 e 38sem e 6d
 
 O parto pré-termo é um problema de saúde pública e representa a causa principal de
 morbidade e de mortalidade neonatal precoce e tardia, em face do risco aumentado de
 complicações no neurodesenvolvimento, respiratórias e gastrintestinais, como síndrome de
 angústia respiratória (SAR), doença pulmonar crônica, enterocolite necrosante, hemorragia
 intraventricular e paralisia cerebral.
-
-O RN também é categorizado quanto ao peso ao nascer:
-
-* Baixo peso: < 2.500g
-* Muito baixo peso: < 1.500 g
-* Baixo peso extremo: < 1.000 g
 
 ![img](/assets/obstetricia/tpp/img.jpeg)
 
@@ -87,18 +81,26 @@ distúrbios do colo uterino e doenças endócrinas
   * Acredita-se que a deficiência da fase lútea seja causa de infertilidade e de abortamento habitual.
 
 ## Fatores de risco
-* História pregressa de parto pré-termo
+* Prematuridade anterior
+  * O principal fator de risco
   * 20% de chance de novo parto prematuro
   * Risco aumenta progressivamente a cada parto pré-termo
-* baixo nível socioeconômicoeducacional
-* etnia
-* idade materna < 18 ou > 35 anos)
-* tabagismo e uso de drogas ilícitas
-* estresse
-* abuso físico
-* assistência pré-natal deficiente
-* baixo peso pré-gravídico
-* ganho de peso inadequado na gestação
+* RPMO
+* Estresse
+* Miomas e outras alterações uterinas
+* Anemia
+* Tabagismo
+* Urina (Infecções urinárias e DST)
+* Raça negra
+* Idade materna (< 18 ou > 35 anos)
+* Desnutrição (↓IMC e ↓nível socioeconômico)
+* Alcoolismo
+* Distensão uterina
+  * Gemelaridade
+  * Polidramnia
+* Hemorragias
+  * PP
+  * DPP
 
 ## Teste de Clements
 Para avaliar a maturidade pulmonar
@@ -106,8 +108,7 @@ Para avaliar a maturidade pulmonar
 ![img](/assets/obstetricia/tpp/img5.jpeg)
 
 ## Prognóstico
-A sobrevida dos RN pré-termo, que nascem após 32 semanas de gravidez, é similar à de RN a
-termo. Todavia, esses prematuros também não estejam isentos de complicações, como se verá adiante. A maioria dos problemas graves está associada àqueles que nascem antes de 32 semanas (1 a 2% do total de partos), principalmente àqueles nascidos antes de 28 semanas (0,4% do total de partos).
+A sobrevida dos RN pré-termo, que nascem após 32 semanas de gravidez, é similar à de RN a termo. Todavia, esses prematuros também não estejam isentos de complicações, como se verá adiante. A maioria dos problemas graves está associada àqueles que nascem antes de 32 semanas (1 a 2% do total de partos), principalmente àqueles nascidos antes de 28 semanas (0,4% do total de partos).
 
 O atendimento moderno perinatal (corticoide, surfactante, centros terciários) foi importante para melhorar o prognóstico do prematuro. Todavia, o prognóstico permanece desalentador para
 aqueles pré-viáveis nascidos entre 22 e 25 semanas.
@@ -138,23 +139,22 @@ para a interrupção da gravidez (CIUR e oligoidrâmnia isolados, pré-eclâmpsi
 | 35 | > 99 | < 1 |
 | 36 | > 99 | < 1 |
 
-## Predição de parto prematuro
-O grande fator de risco para o parto pré-termo é a história pregressa de parto pré-termo.
-Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos
-anteriores, o risco passa para 35 a 40%.
+## Predição
+O grande fator de risco para o parto pré-termo é a história pregressa de parto pré-termo. Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos anteriores, o risco passa para 35 a 40%.
 
-Existem três grandes marcadores de parto pré-termo:
-vaginose bacteriana, ultrassonografia do colo e fibronectina fetal. Esses marcadores estão
-indicados quando a grávida relata história pregressa de parto pré-termo.
+Existem três grandes marcadores de parto pré-termo: vaginose bacteriana, ultrassonografia do colo e fibronectina fetal. Esses marcadores estão
+indicados quando a grávida relata história pregressa de parto pré-termo ou quando manifesta sintomas.
 
 * **Vaginose bacteriana:** é rastreada pelo método de Gram na gestação de 16 semanas; tem por objetivo diagnosticar a vaginose bacteriana assintomática.
 * **USG-TV do colo uterino:** é um marcador muito útil de parto pré-termo em duas circunstâncias: gestantes assintomáticas e sintomáticas com ameaça de parto pré-termo.
   * Em gestantes assintomáticas, o comprimento do **colo < 20 mm entre a 20ª e a 24ª semana** define risco aumentado para parto pré-termo.
   * A USG-abd não deve ser utilizada para medir o comprimento do colo, pois os resultados não são fidedignos.
+  * Obs: comprimenti cervical = distância entre OI e OE
 * **Fibronectina fetal:** o mais importante marcador bioquímico de parto pré-termo.
   * Glicoproteína existente na secreção cervicovaginal, marcadora de disrupção coriodecidual.
   * Tipicamente, a fibronectina fetal não existe na secreção vaginal da 24ª semana até o termo;
   * Todavia, 3 a 4% das mulheres com fibronectina positiva (≥ 50 ng/ml) no rastreamento de 24 a 26 semanas apresentam risco elevado de parto pré-termo.
+  * Bom valor preditivo negativo
 
 ## Ameaça de parto pré-termo
 Esse quadro clínico engloba o que se rotulam casos sintomáticos e se caracteriza por
@@ -170,7 +170,6 @@ A US transvaginal é muito útil nesses casos:
 * aquelas com valores entre 15 e 25 mm merecem vigilância atenta pela ultrassonografia seriada.
 
 ![img](/assets/obstetricia/tpp/img6.jpeg)
-
 ![img](/assets/obstetricia/tpp/img7.jpeg)
 
 ## Prevenção e tratamento
@@ -182,20 +181,56 @@ A US transvaginal é muito útil nesses casos:
 * Antagonistas do receptor de ocitocina
 * Doadores de óxido nítrico.
 
-O uso de tocolítico visa prolongar a gestação por 48 h enquanto se aguardam os efeitos
-benéficos do corticoide e se espera a transferência da paciente para um centro de atendimento
+O uso de tocolítico visa **prolongar a gestação por 48 h enquanto se aguardam os efeitos benéficos do corticoide** e se espera a transferência da paciente para um centro de atendimento
 terciário.
 
-Dos agonistas-β 2, o salbutamol é o mais empregado no Brasil. A indometacina também pode
-ser utilizada, mas antes de 32 semanas e, no máximo, por 48 h.
+Dos agonistas-β 2, o salbutamol é o mais empregado no Brasil. A indometacina também pode ser utilizada, mas antes de 32 semanas e, no máximo, por 48 h.
 
 #### Nifedipina
-É o fármaco de primeira escolha para inibir o parto pré-termo, por apresentar as seguintes vantagens: via oral de administração, poucos efeitos colaterais e eficácia em reduzir as complicações neonatais.
+É o fármaco de primeira escolha para inibir o parto pré-termo, um bloqueador dos canais de cálcio. Apresenta as seguintes vantagens: via oral de administração, poucos efeitos colaterais e eficácia em reduzir as complicações neonatais.
 
 > Deve-se iniciar com 10 mg VO, podendo repetir a dose a cada 15 min na 1a hora até o máximo de 40 mg. Deve-se administrar ao menos 20 mg de nifedipina de liberação lenta VO a cada 8 h após dose inicial, sendo a dose máxima 160 mg/dia
 
-A nifedipina e a atosibana têm efetividade comparável em prolongar a gravidez por 7 dias,
-mas a atosibana é quase 10 vezes mais cara que a nifedipina.
+A nifedipina e a atosibana têm efetividade comparável em prolongar a gravidez por 7 dias, mas a atosibana é quase 10 vezes mais cara que a nifedipina.
+
+### Corticoide antenatal
+O corticoide estimula a síntese e a liberação de material surfactante no alvéolo pulmonar. A **betametasona** e a **dexametasona** atravessam a barreira placentária e, por via IM, são os
+corticoides preferidos para a corticoterapia antenatal. Usado para gestações com **IG entre 24 e 34 semanas**.
+
+O corticoide é capaz não só de reduzir a incidência de SAR como também de outras complicações no bebê, tais como:
+
+* hemorragia intraventricular
+* leucomalacia periventricular
+* retinopatia da prematuridade
+* enterocolite necrosante
+* persistência do canal arterial
+* taxa de mortalidade neonatal
+
+Ocorre redução de 50% na incidência de SAR, e sueficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.
+
+A Revisão Cochrane (2007) recomenda um único curso de corticoide, que pode ser a
+betametasona, 12 mg via IM repetida 2 vezes com intervalo de 24h sempre que houver
+risco de parto pré-termo, incluindo:[^rez]
+
+* Grávidas com ruptura das membranas
+* Grávidas com pré-eclâmpsia
+* Pacientes com gestação múltipla
+* Aquelas em que o parto pode ocorrer em menos de 24h
+* Na prática neonatal moderna em que o surfactante é disponível.
+
+ACOG (2008):
+
+* Duas doses de 12 mg de **betametasona** por via IM, espaçadas de 24h
+* **Dexametasona** na dose de 6 mg por via IM a cada 12h (4 doses)
+* Orientações
+  * Apenas um curso de corticoide deve ser administrado em pacientes entre 24 e 34sem que correm risco iminente de parto pré-termo dentro de 7 dias
+  * Apenas um curso de corticoide deve ser utilizado em pacientes com RPMP entre 24 e 32sem
+  * A eficácia do corticoide na RPMP na gestação de 32 e de 33sem é incerta
+  * O corticoide não é recomendado antes da viabilidade fetal (24 sem)
+  * Não se aconselha a repetição dos cursos de corticoide.
+
+##### Corticoide na ameaça de parto pré-termo
+Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo < 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo > 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.
 
 ### Circlagem
 Originalmente proposta para uso em pacientes com abortamento habitual de 2º trimestre, a circlagem tem sido recomendada também para aquelas com história pregressa de parto pré-termo.
@@ -204,8 +239,7 @@ Originalmente proposta para uso em pacientes com abortamento habitual de 2º tri
 A SMFM, o AIUM e o ACOG (2012) propõem a prevenção do parto pré-termo pela USG transvaginal universal do colo uterino, após a USG morfológica detrimestre, entre a 20ª e a 24ª semana. O colo ≤ 20 mm é indicação para progesterona vaginal, 200
 mg/dia, até 34 a 36 semanas
 
-O ACOG (2012) também recomenda em pacientes com **história pregressa de parto pré-termo**
-o uso de **progesterona vaginal** (200 mg/dia) a partir da 16ª semana. Entre 16 e 24 semanas deve-se realizar a USG transvaginal e se o colo estiver ≤ 25 mm, estaria indicada a circlagem
+O ACOG (2012) também recomenda em pacientes com **história pregressa de parto pré-termo** o uso de **progesterona vaginal** (200 mg/dia) a partir da 16ª semana. Entre 16 e 24 semanas deve-se realizar a USG transvaginal e se o colo estiver ≤ 25 mm, estaria indicada a circlagem
 cervical.
 
 > A Revisão Cochrane (2013) afrma que o uso de pesário em colos ≤ 25 mm, entre 18 e 20 semanas da gravidez, conseguiu reduzir significativamente a ocorrência de parto pré-termo, quando comparado a grupo controle (20 vs. 60%; risco relativo = 0,36).[^rez]
@@ -222,7 +256,7 @@ Mas nem a progesterona vaginal/IM, nem a circlagem
 foram efetivas para evitar o parto pré-termo na gravidez gemelar. Pelo contrário, a circlagem trouxe até resultados negativos (ACOG, 2012).
 
 ### Neuroproteção fetal
-Usa-se o MgSO4, indicado na gestação entre 23 e 31+6 sem quando o parto é iminente ou a gravidez deve ser interrompida nas 24h seguintes.
+Usa-se o MgSO4, indicado na gestação **entre 23 e 31+6 sem** quando o parto é iminente ou a gravidez deve ser interrompida nas 24h seguintes.
 
 No parto pré-termo com indicação clínica, o MgSO4 deve ser iniciado 4h antes da interrupção.
 
@@ -231,7 +265,7 @@ No parto pré-termo com indicação clínica, o MgSO4 deve ser iniciado 4h antes
 ![img](/assets/obstetricia/tpp/img10.jpeg)
 
 ### Assistência ao parto
-#### Ligadura do cordão
+#### Clampeamento do cordão
 **Para o RN pré-termo que não necessite de reanimação**, o
 clampeamento do cordão deve ser postergado por **30 a 120s**.
 
@@ -276,51 +310,87 @@ O RN não consegue manter adequadas a oxigenação e a eliminação de gás carb
 * Estertores pulmonares pela má
 aeração
 
-O laboratório exibe** PO2 < 65 mmHg (ar ambiente), PCO2 > 50 mmHg e pH < 7,30**.
+O laboratório exibe **PO2 < 65 mmHg (ar ambiente), PCO2 > 50 mmHg e pH < 7,30**.
 
 Radiografia é indispensável para o diagnóstico, revelando **padrão difuso reticulogranular nos pulmões**.
 
 O óbito tende a ocorrer antes de 72h. A necropsia revela atelectasia, ingurgitamento capilarfrequentemente, depósito de fibrina nos alvéolos (membrana hialina). Se sobreviver,recuperação ocorre em 48h.
 
-#### Corticoide antenatal
-O corticoide estimula a síntese e a liberação de material surfactante no alvéolo pulmonar. A **betametasona** e a **dexametasona** atravessam a barreira placentária e, por via IM, são os
-corticoides preferidos para a corticoterapia antenatal.
+## Protocolo do CISAM[^cisam]
+### Exames
+1. Hemograma e Sumário de urina
+2. Urocultura
+3. Exame especular e Exame a fresco da secreção vaginal
+4. USG obstétrica
+5. Cardiotocografia fetal anteparto, se IG > 32 semanas
+6. Coleta da CSV para estreptococos B
 
-O corticoide é capaz não só de reduzir a incidência de SAR como também de outras complicações no bebê, tais como
+### Corticoterapia
+Entre 24-34 semanas
+* Droga de escolha: **Betametasona** – 12mg IM, 1x/dia, e repete após 24h.
+* Opção: **Dexametasona** – 6mg IM, 12/12h, por 2 dias, sendo 4 doses.
 
-* hemorragia intraventricular
-* leucomalacia periventricular
-* retinopatia da prematuridade
-* enterocolite necrosante
-* persistência do canal arterial
-* taxa de mortalidade neonatal
+> Obs: no caso de recidiva do TPP dentro de 15 dias, e quando a administração foi IG < 28 semanas, repetir a corticoterpia (1 ciclo completo).
 
-Ocorre redução de 50% na incidência de SAR, e sueficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.
+### Antibioticoterapia
+TPP com ou sem bolsa rota, de 24-36 sem. A droga de escolha é **Ampicilina** Dose de ataque 2g EV // Manutenção 1g EV 4/4h, até o parto / inibição
 
-A Revisão Cochrane (2007) recomenda um único curso de corticoide, que pode ser a
-betametasona, 12 mg via IM repetida 2 vezes com intervalo de 24h sempre que houver
-risco de parto pré-termo, incluindo:[^rez]
+### Tocolítico
+entre 24 a 34 semanas, mesmo com dilatação avançada. Na dúvida do diagnóstico, observar durante 1h para confirmação do diagnóstico do TPP, durante esse período pode ser usado Buscopam®.
 
-* Grávidas com ruptura das membranas
-* Grávidas com pré-eclâmpsia
-* Pacientes com gestação múltipla
-* Aquelas em que o parto pode ocorrer em menos de 24h
-* Na prática neonatal moderna em que o surfactante é disponível.
+* Contra-indicações do tocolítico:
+  1. Feto morto
+  2. Corioamnionite
+  3. Sofrimento fetal agudo
+  4. Sangramento genital intenso
+* Drogas:
+  * **NIFEDIPINA** (primeira droga de escolha)
+    * Dose de ataque: 30mg VO // Dose de manutenção: 20mg 4/4h VO, iniciar 4h após o ataque.
+    * Duração do tratamento: 24h (mínimo) – 48h (máximo)
+    * Momento da suspensão da droga: se 6 – 12h sem dinâmica. Observar 24h após suspender a droga
+    * Contra-indicação à Nifedipina: HAS
+  * Outras drogas (Falha do tratamento ou contra-indicação à Nifedipina)
+    * IG < 32 semanas - **Indometacina** 100mg VR (ataque) + 25mg VO 6/6h por 48h (manutenção)
+    * IG > 32 semanas - **Atosiban*** (resumo a seguir)
 
-ACOG (2008):
+### Orientação para alta
+* Repouso físico relativo e sexual
+* Retorno ao pré-natal de alto risco com 7-15 dias.
+* Progesterona natural micronizada 200mg/dia, VV, até 36 semanas, se:
+  * antecedente de parto prematuro em gestação anterior
+  * colo uterino curto (< 2,5cm)
 
-* Duas doses de 12 mg de **betametasona** por via IM, espaçadas de 24h
-* **Dexametasona** na dose de 6 mg por via IM a cada 12h (4 doses)
-* Orientações
-  * Apenas um curso de corticoide deve ser administrado em pacientes entre 24 e 34sem que correm risco iminente de parto pré-termo dentro de 7 dias
-  * Apenas um curso de corticoide deve ser utilizado em pacientes com RPMP entre 24 e 32sem
-  * A eficácia do corticoide na RPMP na gestação de 32 e de 33sem é incerta
-  * O corticoide não é recomendado antes da viabilidade fetal (24 sem)
-  * Não se aconselha a repetição dos cursos de corticoide.
+![img](/assets/obstetricia/tpp/cisam.jpeg)
 
-##### Corticoide na ameaça de parto pré-termo
-
-Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo < 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo > 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.
+### Neuroproteção fetal com MgSO4
+* Indicações:
+  * IG > 23 e < 32 sem
+  * TPP com dilatação ≥ 4cm com ou sem bolsa rota
+  * Contra-indicações:
+  * Pré-eclâmpsia grave
+  * Óbito fetal
+  * Anomalia fetal incompatível com a vida
+* Contraindicações maternas ao Sulfato de Magnésio:
+  * Miastenia gravis
+  * falência renal
+  * etc
+* Esquema:
+  * Ataque: MgSO4 50% 12ml (6g) + SF 0,9% ou SRL 100ml EV em 20-30 minutos.
+  * Manutenção: MgSO4 50% 24ml (12g) + SF 0,9% ou SRL 500ml em BIC (81ml/h) 6/6h.
+* Tempo de uso:
+  * Até o parto (quando não se consegue inibir)
+  * Caso seja inibido, suspender imediatamente
+  * Iniciar, no mínimo, até 4h antes da interrupção eletiva
+* Início do tratamento: A infusão deve ser iniciada na sala de parto junto com o tocolítico (Nifedipina) ou sem, quando o parto for irreversível.
+* Repetição da dose:
+  * Ataque + manutenção, se > 6h do esquema inicial e persistência do risco de PP iminente
+  * Manutenção, se < 6h do esquema inicial e persistência do risco de PP iminente
+* Monitorização:
+  * Ao término de cada fase avaliar parâmetros: FR, FC, PA, diurese, reflexos
+* Transferência para o alto risco:
+  * Paciente sem contrações
+  * Ao término da infusão do Sulfato de Magnésio
 
 ## Referências
 [^rez]: Rezendinho
+[^cisam]: Protocolo CISAM 2019
