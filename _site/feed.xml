@@ -1,4 +1,308 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-02T22:21:32-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sangramento uterino disfuncional</title><link href="http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html" rel="alternate" type="text/html" title="Sangramento uterino disfuncional" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional</id><content type="html" xml:base="http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html">&lt;p&gt;O que coloco aqui?&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Parto prematuro</title><link href="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html" rel="alternate" type="text/html" title="Parto prematuro" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/06/02/parto-prematuro</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-03T21:54:16-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Infecções cogênitas</title><link href="http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas.html" rel="alternate" type="text/html" title="Infecções cogênitas" /><published>2019-06-03T00:00:00-03:00</published><updated>2019-06-03T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#rubéola-congênita&quot; id=&quot;markdown-toc-rubéola-congênita&quot;&gt;Rubéola congênita&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#citomegalovirose&quot; id=&quot;markdown-toc-citomegalovirose&quot;&gt;Citomegalovirose&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;rubéola-congênita&quot;&gt;Rubéola congênita&lt;/h2&gt;
+&lt;p&gt;É uma doença crônica e progressiva, muitas vezes de evolução silenciosa. Contudo, em alguns casos a infecção é tão grave que resulta em morte intrauterina ou pós-natal.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;É uma doença devastadora no feto.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A infecção pode resultar em vários tipos de malformações, dependendo da idade gestacional em que a viremia se instala.&lt;/p&gt;
+
+&lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Trasmitido por via transplacentária
+*&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Catarata&lt;/li&gt;
+  &lt;li&gt;Surdez&lt;/li&gt;
+  &lt;li&gt;Cardiopatia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;citomegalovirose&quot;&gt;Citomegalovirose&lt;/h2&gt;
+&lt;p&gt;##&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Sangramento uterino disfuncional</title><link href="http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html" rel="alternate" type="text/html" title="Sangramento uterino disfuncional" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional</id><content type="html" xml:base="http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#anamnese&quot; id=&quot;markdown-toc-anamnese&quot;&gt;Anamnese&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#palm&quot; id=&quot;markdown-toc-palm&quot;&gt;PALM&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#pólipos-uterinos&quot; id=&quot;markdown-toc-pólipos-uterinos&quot;&gt;Pólipos uterinos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#adenomiose&quot; id=&quot;markdown-toc-adenomiose&quot;&gt;Adenomiose&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#leiomiomatose&quot; id=&quot;markdown-toc-leiomiomatose&quot;&gt;Leiomiomatose&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#malignidade-e-hiperplasia&quot; id=&quot;markdown-toc-malignidade-e-hiperplasia&quot;&gt;Malignidade e Hiperplasia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#coein&quot; id=&quot;markdown-toc-coein&quot;&gt;COEIN&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#coagulopatias&quot; id=&quot;markdown-toc-coagulopatias&quot;&gt;Coagulopatias&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ovulatory-dysfunction&quot; id=&quot;markdown-toc-ovulatory-dysfunction&quot;&gt;Ovulatory dysfunction&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#endometrial&quot; id=&quot;markdown-toc-endometrial&quot;&gt;Endometrial&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#não-classificada&quot; id=&quot;markdown-toc-não-classificada&quot;&gt;Não classificada&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sangramento Uterino Anormal (SUA) é qualquer desvio menstrual para mais, seja na duração, intensidade, freqüência das menstruações ou ainda a ocorrência de sangramentos não associados ao período menstrual.&lt;/p&gt;
+
+&lt;p&gt;Aproximadamente metade das pacientes
+estão na pré ou perimenopausa, 20% na adolescência e 30% no menacme.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SUA agudo: sangramento de origem no corpo uterino em mulheres no menacme e fora do ciclo grávido-puerperal em quantidade suficiente para determinar a necessidade de intervenção médica.&lt;/li&gt;
+  &lt;li&gt;SUA crônico: são alterações que estão presentes na maioria dos últimos 6 meses&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O sangramento que ocorre sem correspondência com os períodos menstruais esperados,
+devem ser chamados de Sangramento intermenstrual, classificados em:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sangramento &lt;strong&gt;intermenstrual&lt;/strong&gt; do meio do ciclo&lt;/li&gt;
+  &lt;li&gt;Sangramento intermenstrual &lt;strong&gt;pré-menstrual&lt;/strong&gt; ou &lt;strong&gt;pós-menstrual&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Sangramento intermenstrual acíclico&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Em mulheres em uso de medicação hormonal, o padrão menstrual pode ser definido a partir da observação de um período de 90 dias de uso. Assim teremos os seguintes padrões:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Amenorréia&lt;/li&gt;
+  &lt;li&gt;Sangramento infreqüente: Menos de 3 episódios no período de 90 dias&lt;/li&gt;
+  &lt;li&gt;Sangramento freqüente: Mais de 5 episódios&lt;/li&gt;
+  &lt;li&gt;Sangramento irregular: Entre 3 e 5 episódios, com menos de 3 intervalos livres de sangramento ≥ 14 dias.&lt;/li&gt;
+  &lt;li&gt;Sangramento prolongado: 1 ou mais episódios com duração ≥ 14 dias.&lt;/li&gt;
+  &lt;li&gt;Normal: Nenhum dos anteriores.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Ou seja, em mulheres em uso de medicação hormonal, é considerado normal quando,
+no intervalo de 90 dias, se observa: 3 a 5 episódios menstruais, de duração inferior a 14 dias
+e intervalo de 14 dias ou mais. Em usuárias de ACO combinados com intervalo, é
+considerado sangramento programado aquele que se inicia no intervalo livre de hormônio e
+se prolonga até 4 dias da próxima cartela.&lt;/p&gt;
+
+&lt;p&gt;Os sangramentos uterinos
+anormais devem ser subdivididos em duas grandes categorias:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Com anomalia estrutural do útero e&lt;/li&gt;
+  &lt;li&gt;Sem anomalia estrutural do útero.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A FIGO elaborou um sistema de classificação de causas de sangramento uterino em mulheres não grávidas em idade reprodutiva conhecido como “PALM-COEIN”. As
+anomalias estruturais do útero, (diagnosticadas por método de imagem ou histopatológico)
+são reunidas no acrônimo PALM:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;P-Polyp&lt;/li&gt;
+  &lt;li&gt;A-Adenomyosis&lt;/li&gt;
+  &lt;li&gt;L-Leiomyoma&lt;/li&gt;
+  &lt;li&gt;M-Malignancy &amp;amp; hyperplasia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;E as entidades clinicas que não têm representação por método
+de imagem ou histopatológico e corresponderiam ao grupo sem anomalia estrutural são reunidas no acrônimo COEIN:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;C-Coagulopathies&lt;/li&gt;
+  &lt;li&gt;O-Ovulatory dysfunction&lt;/li&gt;
+  &lt;li&gt;E-Endometrial&lt;/li&gt;
+  &lt;li&gt;I-Iatrogenic&lt;/li&gt;
+  &lt;li&gt;N-Not yet classified&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As doenças do trato genital inferior que
+podem cursar com sangramento devem ser descartadas pelo exame físico e não são
+incluídas na definição de SUA.&lt;/p&gt;
+
+&lt;p&gt;Em geral, o sangramento vermelho rutilante e a presença de coágulos indicam um volume menstrual aumentado. Os coágulos traduzem a superação da capacidade fibrinolítica endometrial e, portanto, fluxo excessivo. De maneira
+mais objetiva, a dosagem da hemoglobina, bem como os níveis séricos de ferro e da
+ferritina seriam marcadores confiáveis da perda hemática excessiva. A ferritina sérica
+apresenta boa correlação com a concentração de ferro medular e seria um dos parâmetros
+mais sensíveis a se alterar nas situações com discreto balanço negativo de ferro. Muitas
+vezes, a mudança do padrão habitual é mais importante do que a quantificação exata do
+volume menstrual.&lt;/p&gt;
+
+&lt;p&gt;Os sangramentos intermenstruais chamam a atenção para a possibilidade de doença
+que acometa a cavidade endometrial (mioma submucoso, pólipo, neoplasia e hiperplasia),
+tendo em vista que as doenças exclusivamente miometriais (miomas intramurais e
+adenomiose) costumam aumentar apenas o volume e talvez a duração do fluxo menstrual
+tempestivo.&lt;/p&gt;
+
+&lt;p&gt;A relação sexual pode precipitar o sangramento de qualquer natureza, porém
+chama a atenção para a possibilidade de lesão cervical.&lt;/p&gt;
+
+&lt;h2 id=&quot;anamnese&quot;&gt;Anamnese&lt;/h2&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;estimar a perda sanguínea e as repercussões hematimétricas e hemodinâmicas dela decorrentes.&lt;/li&gt;
+  &lt;li&gt;Uma vez constatada a necessidade de reposição volêmica, deve ser iniciada mesmo antes do restante da investigação.&lt;/li&gt;
+  &lt;li&gt;exame especular nas pacientes com vida sexual ativa, única forma de afastar neoplasias cervicais e outras lesões orgânicas e traumáticas do trato genital inferior.&lt;/li&gt;
+  &lt;li&gt;O toque genital é fundamental, pois estima o volume, a consistência e a regularidade do contorno uterino, alterados nas anomalias estruturais e na gravidez, bem como estima a sensibilidade anexial, para diagnóstico diferencial com a doença inflamatória pélvica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+&lt;p&gt;A recomendação mínima da FIGO inclui:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hematimetria&lt;/li&gt;
+  &lt;li&gt;USG do útero&lt;/li&gt;
+  &lt;li&gt;avaliação da cavidade endometrial (por algum método)&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;pesquisa de coagulopatias&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;afastar a possibilidade de gravidez através de métodos clínicos, dosagem do hCG ou USG&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;palm&quot;&gt;PALM&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;assets/ginecologia/sua/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;pólipos-uterinos&quot;&gt;Pólipos uterinos&lt;/h3&gt;
+&lt;p&gt;são tumores epiteliais que podem se situar na cavidade endometrial ou no canal cervical. Sua presença é definida por histerossonografia ou histeroscopia, com ou sem confirmação histopatológica.&lt;/p&gt;
+
+&lt;h3 id=&quot;adenomiose&quot;&gt;Adenomiose&lt;/h3&gt;
+&lt;p&gt;Definida pela presença de tecido endometrial presente dentro do miométrio. distando 2,5 mm ou mais a partir da junção endo-miometrial. Embora classicamente o
+diagnóstico de certeza seja definido pela histopatologia, atualmente, a confirmação pela
+ultrassonografia ou ressonância magnética são suficientes para o manejo clínico.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Achados sugestivos na USG:
+    &lt;ul&gt;
+      &lt;li&gt;Aumento global do volume uterino não justificado por miomas&lt;/li&gt;
+      &lt;li&gt;lacunas anecóicas miometriais&lt;/li&gt;
+      &lt;li&gt;espessamento assimétrico das paredes miometriais&lt;/li&gt;
+      &lt;li&gt;estrias ecogênicas subendometriais&lt;/li&gt;
+      &lt;li&gt;ecogenicidade heterogênea do miométrio&lt;/li&gt;
+      &lt;li&gt;perda da nitidez da transição endomiometrial&lt;/li&gt;
+      &lt;li&gt;espessamento do halo hipoecóico subendometrial.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Na ressonância magnética
+    &lt;ul&gt;
+      &lt;li&gt;espessamento da zona juncional igual ou superior a 12 mm seria o critério diagnóstico&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;leiomiomatose&quot;&gt;Leiomiomatose&lt;/h3&gt;
+&lt;p&gt;Para o diagnóstico operacional dos miomas uterinos a ultrassonografia é suficiente na grande maioria dos casos, havendo muito raramente, a necessidade de complementação
+por ressonância magnética. Os miomas devem ser descritos em número, diâmetro e
+principalmente localização em relação à camada do útero acometida. Só devem ser considerados como causa de sangramento os miomas submucosos e os intramurais que
+distorcem ou se aproximam da cavidade endometrial.&lt;/p&gt;
+
+&lt;h3 id=&quot;malignidade-e-hiperplasia&quot;&gt;Malignidade e Hiperplasia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;adenocarcinoma do endométrio&lt;/li&gt;
+  &lt;li&gt;sarcoma do estroma endometrial&lt;/li&gt;
+  &lt;li&gt;leiomiosarcomas&lt;/li&gt;
+  &lt;li&gt;hiperplasia endometrial com atipia citológica&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O diagnóstico dessas lesões é baseado na histopatologia de amostras de biópsia endometrial independente de terem sido realizadas por curetagem uterina, biópsia endometrial às cegas ou guiadas por histeroscopia.&lt;/p&gt;
+
+&lt;p&gt;Embora a ultrassonografia transvaginal possa fornecer alguns dados sobre o endométrio, tais como a
+espessura, ecogenicidade e regularidade do contorno endomiometrial, o Colégio Americano
+de Ginecologia e Obstetrícia, recomenda a realização de uma biópsia de endométrio às
+cegas com Pipelle de Cornier como teste de primeira linha em mulheres acima de 45 anos
+com desvio menstrual para mais.&lt;/p&gt;
+
+&lt;h2 id=&quot;coein&quot;&gt;COEIN&lt;/h2&gt;
+&lt;h3 id=&quot;coagulopatias&quot;&gt;Coagulopatias&lt;/h3&gt;
+&lt;p&gt;As coagulopatias
+podem acometer até 15 a 24% das mulheres em idade reprodutiva, particularmente em
+torno da menarca ou na pré-menopausa, quando a deficiência estrogênica pode reduzir a
+produção do fator de von Willebrand, principal distúrbio de coagulação encontrado nessas
+mulheres. Podem ser encontrados ainda trombocitopenia imune e defeitos de função
+plaquetária.&lt;/p&gt;
+
+&lt;p&gt;Um screening clínico deve nortear as pacientes que necessitam de testes
+hematológicos, considerando candidatas aquelas que se enquadram nos seguintes critérios:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sangramento uterino anormal desde a menarca&lt;/li&gt;
+  &lt;li&gt;Uma ou mais das seguintes condições: Hemorragia pós-parto, sangramento relacionado a cirurgia ou a tratamento dentário&lt;/li&gt;
+  &lt;li&gt;Duas ou mais das seguintes condições: Equimoses pelo menos uma vez por mês, Epistaxe pelo menos uma vez por mês, sangramento gengival frequente ou antecedentes familiares de sintomas hemorrágicos.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A propedêutica hematológica constará de:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;hemograma completo&lt;/li&gt;
+  &lt;li&gt;TTPA&lt;/li&gt;
+  &lt;li&gt;TPAE&lt;/li&gt;
+  &lt;li&gt;fibrinogênio&lt;/li&gt;
+  &lt;li&gt;fator de von Willebrand&lt;/li&gt;
+  &lt;li&gt;ensaio do cofator ristocetina&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ovulatory-dysfunction&quot;&gt;Ovulatory dysfunction&lt;/h3&gt;
+&lt;p&gt;Inclui a anovulação crônica e as disovulias como a
+insuficiência de fase lútea. As causas mais comuns das disfunções ovulatória são a
+síndrome dos ovários policísticos, hipo ou hipertireoidismo, disfunção hipotalâmica e
+hiperprolactinemia.&lt;/p&gt;
+
+&lt;p&gt;Mulheres que ovulam com regularidade, podem apresentar episódios
+agudos de disfunção ovulatória, por stress psicológico, perda ou ganho de peso, exercício físico extenuante. Habitualmente, as disfunções ovulatórias cursam com ciclos menstruais irregulares, ou seja, com variação superior a 7 dias entre o menor e o maior ciclo, no intervalo de um ano, embora não possa ser descartada anovulação em mulheres com duração normal do ciclo, entre 24 e 38 dias.&lt;/p&gt;
+
+&lt;p&gt;Quando a disfunção ovulatória ocorre por conta de uso de medicações hormonais, o
+sangramento é dito iatrogênico. Também iatrogênico é o sangramento que ocorre por conta
+do uso de anticoagulantes ou dispositivos intrauterinos.&lt;/p&gt;
+
+&lt;h3 id=&quot;endometrial&quot;&gt;Endometrial&lt;/h3&gt;
+&lt;p&gt;Mulheres com ciclos regulares, descartadas outras causas estruturais e não estruturais,
+podem apresentar sangramento uterino abundante (menorragia). Esse tipo de sangramento,
+antigamente denominado de menorragia essencial, ocorre habitualmente acima dos 40 anos
+de idade e deve-se, em geral a desordens primárias do endométrio que regulam localmente
+a coagulação. Por definição, não há métodos laboratoriais disponíveis para o diagnóstico.
+Cogita-se distúrbios na concentração tecidual de prostaglandinas, alterações na
+microcirculação, endometrite, dentre outros.&lt;/p&gt;
+
+&lt;h3 id=&quot;não-classificada&quot;&gt;Não classificada&lt;/h3&gt;
+&lt;p&gt;Algumas causas de sangramento são mal definidas, sem métodos estabelecidos de diagnóstico ou muito raras. A esse conjunto denominam-se Causas não classificadas de
+outra forma (not otherwise classified). Incluem-se nessa categoria as malformações
+arteriovenosas, os divertículos de cicatriz de cesárea (istmocele).&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;p&gt;Os desvios menstruais para mais devem ser tratados quando interferem com a
+qualidade de vida da mulher ou quando provocam anemia. Outras vezes, as condições
+clínicas que os provocam podem resultar em riscos para a saúde, como é o caso das
+neoplasias e lesões precursoras e da anovulação crônica nas suas mais diversas etiologias.&lt;/p&gt;
+
+&lt;p&gt;Os estrogênios são o tratamento de escolha para o sangramento disfuncional em sua
+fase aguda. Ministrados em doses farmacológicas têm a propriedade de induzir a
+multiplicação das células endometriais e promover rapidamente a reepitelização do
+endométrio sangrante.&lt;/p&gt;
+
+&lt;p&gt;Atuam também através do aumento do fibrinogênio, dos fatores V e
+IX, aumentando a agregação plaquetária e diminuindo a permeabilidade capilar.&lt;/p&gt;
+
+&lt;p&gt;A parada do sangramento em geral ocorre nas primeiras 24 horas. Obtida a menostasia, deve-se associar um progestagênio, na dose
+correspondente a 10 mg de Acetato de Medroxiprogesterona durante 7 a 10 dias. Ao final
+deste período a suspensão de ambas as medicações levará a um sangramento de supressão, em geral de volume e duração controlados. Alternativamente, pode-se estender o tratamento de manutenção por até 21 dias, adiando o sangramento de supressão, sendo esta estratégia
+interessante quando o episódio agudo tiver espoliado a paciente.&lt;/p&gt;
+
+&lt;p&gt;O tratamento combinado estro-progestativo, por ser mais prático, pode ser adotado desde o início do episódio agudo, desde que a magnitude do sangramento não seja preocupante. A parada do sangramento, em geral, não ocorre de maneira tão rápida, devido à ação do progestagênio que reduz a formação de receptores estrogênicos.&lt;/p&gt;
+
+&lt;p&gt;Outra opção farmacológica para o controle do episódio agudo é o uso do ácido tranexâmico. Trata-se de um agente anti-fibrinolítico que bloqueia a conversão do plasminogênio em plasmina, reduzindo a fibrinólise. Não parece aumentar o risco de trombose quando usados na população geral.&lt;/p&gt;
+
+&lt;p&gt;Nas pacientes com 40 anos ou mais, naquelas com fatores de risco para neoplasia
+endometrial e mais de 35 anos e nos sangramentos com hipovolemia, a curetagem uterina,
+além de contribuir para o diagnóstico da patologia endometrial, trata o sangramento. Remove o endométrio sangrante, estruturalmente frágil, permite a contração
+adequada do miométrio, a restauração dos eventos hemostáticos e a adequada proliferação
+endometrial.&lt;/p&gt;
+
+&lt;p&gt;Para as pacientes com sangramento uterino abundante de causa
+endometrial (menorragia essencial) uma série de alternativas terapêuticas clínicas e
+cirúrgicas são atualmente disponíveis.
+Os métodos mais utilizados são: anticoncepcionais
+orais, progestágenos, DIU medicado com progestágeno, agentes antifibrinolíticos (ácido
+tranexâmico e seus precursores), anti-inflamatórios não esteróides, ablação endometrial
+histeroscópica ou outros métodos de destruição endometrial e histerectomia.&lt;/p&gt;
+
+&lt;p&gt;Os DIUs medicados com progestagênio são alternativas mais recentes e talvez o tratamento clínico de maior eficácia no tratamento do SUA-endometrial.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Parto prematuro</title><link href="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html" rel="alternate" type="text/html" title="Parto prematuro" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/06/02/parto-prematuro</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
@@ -11,10 +315,7 @@
           &lt;li&gt;&lt;a href=&quot;#nifedipina&quot; id=&quot;markdown-toc-nifedipina&quot;&gt;Nifedipina&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#corticoide-antenatal&quot; id=&quot;markdown-toc-corticoide-antenatal&quot;&gt;Corticoide antenatal&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#corticoide-na-ameaça-de-parto-pré-termo&quot; id=&quot;markdown-toc-corticoide-na-ameaça-de-parto-pré-termo&quot;&gt;Corticoide na ameaça de parto pré-termo&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#corticoide-antenatal&quot; id=&quot;markdown-toc-corticoide-antenatal&quot;&gt;Corticoide antenatal&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#circlagem&quot; id=&quot;markdown-toc-circlagem&quot;&gt;Circlagem&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#usg-universal-do-colo&quot; id=&quot;markdown-toc-usg-universal-do-colo&quot;&gt;USG universal do colo&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#gravidez-gemelar&quot; id=&quot;markdown-toc-gravidez-gemelar&quot;&gt;Gravidez gemelar&lt;/a&gt;&lt;/li&gt;
@@ -122,15 +423,18 @@ distúrbios do colo uterino e doenças endócrinas&lt;/p&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Citocinas pró-inflamatórias:&lt;/strong&gt; A inflamação e seus mediadores, quimiocinas tais como a IL-8, citocinas pró-inflamatórias (IL-1, IL-6 e TNF-α) e outros [fator ativador de plaquetas (PAF), prostaglandinas] estão implicados no parto pré-termo infeccioso.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sobredistensão uterina:&lt;/strong&gt;  Ocorre em casos de malformações uterinas, polidrâmnia e gravidez gemelar, sendo dependente da exacerbação da contratilidade uterina, do amadurecimento do colo do útero e da ruptura das membranas.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gravidez gemelar:&lt;/strong&gt; sobredistensão uterina, muito embora o parto pré-termo indicado também seja um fator. Apesar de representar em apenas 23% das gestações, a gravidez gemelar é responsável por 13 a 20% de todos os partos pré-termo. Aproximadamente 60% dos gêmeos nascem pré-termo e nas gestações múltiplas (3 ou mais), quase todos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sobredistensão uterina:&lt;/strong&gt;  Ocorre em casos de malformações uterinas, polidrâmnia e gravidez gemelar, sendo dependente da exacerbação da contratilidade uterina, do amadurecimento do colo do útero e da ruptura das membranas.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Gravidez gemelar:&lt;/strong&gt; sobredistensão uterina, muito embora o parto pré-termo indicado também seja um fator. Apesar de representar em apenas 23% das gestações, a gravidez gemelar é responsável por 13 a 20% de todos os partos pré-termo. Aproximadamente 60% dos gêmeos nascem pré-termo e nas gestações múltiplas (3 ou mais), quase todos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Sangramento vaginal:&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;DPP: descolamento prematuro de placenta&lt;/li&gt;
       &lt;li&gt;PP: placenta prévia&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Isquemia uteroplacentária:&lt;/strong&gt; As características mais comuns na placenta de pacientes com parto pré-termo (&amp;lt; 28 semanas), mas sem alterações inflamatórias, são as lesões vasculares que incluem remodelação defeituosa das arteríolas espiraladas, aterose aguda e trombose dessas artérias (vasculopatia decidual), diminuição da quantidade e trombose das arteríolas nas vilosidades coriônicas. Essas alterações vasculares também são típicas da pré-eclâmpsia e do CIR e representam o substrato anatomopatológico das grandes síndromes obstétricas&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Isquemia uteroplacentária:&lt;/strong&gt; As características mais comuns na placenta de pacientes com parto pré-termo (&amp;lt; 28 semanas), mas sem alterações inflamatórias, são as lesões vasculares que incluem remodelação defeituosa das arteríolas espiraladas, aterose aguda e trombose dessas artérias (vasculopatia decidual), diminuição da quantidade e trombose das arteríolas nas vilosidades coriônicas. Essas alterações vasculares também são típicas da pré-eclâmpsia e do CIUR e representam o substrato anatomopatológico das grandes síndromes obstétricas&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Doenças e cirurgias maternas&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Doença da tireoide&lt;/li&gt;
@@ -142,7 +446,7 @@ distúrbios do colo uterino e doenças endócrinas&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Doenças cervicais&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;Insuficiência cervical: causada por cirurgia, trauma ou fraqueza congênita do colo do útero determinante de abortamento tardio&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Insuficiência cervical:&lt;/strong&gt; causada por cirurgia, trauma ou fraqueza congênita do colo do útero determinante de abortamento tardio&lt;/li&gt;
       &lt;li&gt;A doença cervical pode resultar de alteração congênita (hipoplasia, exposição ao dietilestilbestrol in utero, útero septado), assim como de lesão traumática da estrutura cervical (conização, dilatações cervicais repetidas ou rudes para interrupção da gravidez).&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -156,7 +460,7 @@ distúrbios do colo uterino e doenças endócrinas&lt;/p&gt;
 
 &lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Prematuridade anterior
+  &lt;li&gt;&lt;strong&gt;Prematuridade anterior&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;O principal fator de risco&lt;/li&gt;
       &lt;li&gt;20% de chance de novo parto prematuro&lt;/li&gt;
@@ -199,7 +503,7 @@ distúrbios do colo uterino e doenças endócrinas&lt;/p&gt;
 aqueles pré-viáveis nascidos entre 22 e 25 semanas.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Pré-termo pré-viável:&lt;/strong&gt; a taxa de sobrevida é de 1, 11, 26 e 44%, respectivamente, para os RN de 22, 23, 24 e 25 semanas
+  &lt;li&gt;&lt;strong&gt;Pré-termo pré-viável:&lt;/strong&gt; entre 22 e 25 sem. A taxa de sobrevida é de 1, 11, 26 e 44%, respectivamente, para os RN de 22, 23, 24 e 25 semanas
     &lt;ul&gt;
       &lt;li&gt;No levantamento de 30 meses e de 6 anos foram expressivas as incapacidades mental, motora, sensorial (auditiva, visual) e cognitiva.&lt;/li&gt;
     &lt;/ul&gt;
@@ -303,7 +607,7 @@ para a interrupção da gravidez (CIUR e oligoidrâmnia isolados, pré-eclâmpsi
 &lt;/table&gt;
 
 &lt;h2 id=&quot;predição&quot;&gt;Predição&lt;/h2&gt;
-&lt;p&gt;O grande fator de risco para o parto pré-termo é a história pregressa de parto pré-termo. Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos anteriores, o risco passa para 35 a 40%.&lt;/p&gt;
+&lt;p&gt;O grande fator de risco para o parto pré-termo é a &lt;strong&gt;história pregressa de parto pré-termo&lt;/strong&gt;. Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos anteriores, o risco passa para 35 a 40%.&lt;/p&gt;
 
 &lt;p&gt;Existem três grandes marcadores de parto pré-termo: vaginose bacteriana, ultrassonografia do colo e fibronectina fetal. Esses marcadores estão
 indicados quando a grávida relata história pregressa de parto pré-termo ou quando manifesta sintomas.&lt;/p&gt;
@@ -337,9 +641,9 @@ indicação de internação, uso de corticoide e tocolítico.&lt;/p&gt;
 
 &lt;p&gt;A US transvaginal é muito útil nesses casos:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;Quando a paciente apresentava o colo &amp;lt; 15 mm, o parto ocorreu em 1 semana&lt;/li&gt;
+  &lt;li&gt;Quando a paciente apresentava o colo &amp;lt; 15 mm, o parto ocorre em 1 semana&lt;/li&gt;
   &lt;li&gt;O colo &amp;gt; 25 mm assegura parto a termo&lt;/li&gt;
-  &lt;li&gt;aquelas com valores entre 15 e 25 mm merecem vigilância atenta pela ultrassonografia seriada.&lt;/li&gt;
+  &lt;li&gt;Aquelas com valores entre 15 e 25 mm merecem vigilância atenta pela ultrassonografia seriada.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img6.jpeg&quot; alt=&quot;img&quot; /&gt;
@@ -385,7 +689,7 @@ corticoides preferidos para a corticoterapia antenatal. Usado para gestações c
   &lt;li&gt;taxa de mortalidade neonatal&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Ocorre redução de 50% na incidência de SAR, e sueficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.&lt;/p&gt;
+&lt;p&gt;Ocorre redução de 50% na incidência de SAR, e sua eficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.&lt;/p&gt;
 
 &lt;p&gt;A Revisão Cochrane (2007) recomenda um único curso de corticoide, que pode ser a
 betametasona, 12 mg via IM repetida 2 vezes com intervalo de 24h sempre que houver
@@ -415,11 +719,14 @@ risco de parto pré-termo, incluindo:&lt;sup id=&quot;fnref:rez:1&quot;&gt;&lt;a
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h5 id=&quot;corticoide-na-ameaça-de-parto-pré-termo&quot;&gt;Corticoide na ameaça de parto pré-termo&lt;/h5&gt;
-&lt;p&gt;Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo &amp;lt; 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo &amp;gt; 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Corticoide na ameaça de parto pré-termo:&lt;/strong&gt; Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo &amp;lt; 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo &amp;gt; 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.&lt;/p&gt;
 
 &lt;h3 id=&quot;circlagem&quot;&gt;Circlagem&lt;/h3&gt;
 &lt;p&gt;Originalmente proposta para uso em pacientes com abortamento habitual de 2º trimestre, a circlagem tem sido recomendada também para aquelas com história pregressa de parto pré-termo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A Revisão Cochrane (2013) afrma que o uso de pesário em colos ≤ 25 mm, entre 18 e 20 semanas da gravidez, conseguiu reduzir significativamente a ocorrência de parto pré-termo, quando comparado a grupo controle (20 vs. 60%; risco relativo = 0,36).&lt;sup id=&quot;fnref:rez:2&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h3 id=&quot;usg-universal-do-colo&quot;&gt;USG universal do colo&lt;/h3&gt;
 &lt;p&gt;A SMFM, o AIUM e o ACOG (2012) propõem a prevenção do parto pré-termo pela USG transvaginal universal do colo uterino, após a USG morfológica detrimestre, entre a 20ª e a 24ª semana. O colo ≤ 20 mm é indicação para progesterona vaginal, 200
@@ -427,10 +734,6 @@ mg/dia, até 34 a 36 semanas&lt;/p&gt;
 
 &lt;p&gt;O ACOG (2012) também recomenda em pacientes com &lt;strong&gt;história pregressa de parto pré-termo&lt;/strong&gt; o uso de &lt;strong&gt;progesterona vaginal&lt;/strong&gt; (200 mg/dia) a partir da 16ª semana. Entre 16 e 24 semanas deve-se realizar a USG transvaginal e se o colo estiver ≤ 25 mm, estaria indicada a circlagem
 cervical.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A Revisão Cochrane (2013) afrma que o uso de pesário em colos ≤ 25 mm, entre 18 e 20 semanas da gravidez, conseguiu reduzir significativamente a ocorrência de parto pré-termo, quando comparado a grupo controle (20 vs. 60%; risco relativo = 0,36).&lt;sup id=&quot;fnref:rez:2&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img8.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
@@ -440,8 +743,8 @@ cervical.&lt;/p&gt;
 &lt;p&gt;Na gravidez gemelar, o colo &amp;gt; 25 mm afasta a possibilidade de parto pré-termo, evitando
 intervenções desnecessárias.&lt;/p&gt;
 
-&lt;p&gt;Mas nem a progesterona vaginal/IM, nem a circlagem
-foram efetivas para evitar o parto pré-termo na gravidez gemelar. Pelo contrário, a circlagem trouxe até resultados negativos (ACOG, 2012).&lt;/p&gt;
+&lt;p&gt;Mas nem a progesterona vaginal (IM), nem a circlagem
+foram efetivas para evitar o parto pré-termo na gravidez gemelar. Pelo contrário, a circlagem trouxe até resultados negativos (ACOG, 2012). Logo, &lt;strong&gt;não fazer progesterona nem circlagem!&lt;/strong&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;neuroproteção-fetal&quot;&gt;Neuroproteção fetal&lt;/h3&gt;
 &lt;p&gt;Usa-se o MgSO4, indicado na gestação &lt;strong&gt;entre 23 e 31+6 sem&lt;/strong&gt; quando o parto é iminente ou a gravidez deve ser interrompida nas 24h seguintes.&lt;/p&gt;
@@ -641,7 +944,49 @@ aeração&lt;/li&gt;
       &lt;p&gt;Protocolo CISAM 2019 &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Vitalidade fetal</title><link href="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html" rel="alternate" type="text/html" title="Vitalidade fetal" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Hemograma</title><link href="http://localhost:4000/refs-rapidas/2019/06/02/hemograma.html" rel="alternate" type="text/html" title="Hemograma" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/refs-rapidas/2019/06/02/hemograma</id><content type="html" xml:base="http://localhost:4000/refs-rapidas/2019/06/02/hemograma.html">&lt;ul&gt;
+  &lt;li&gt;Eritrócitos
+    &lt;ul&gt;
+      &lt;li&gt;H: 4,5 a 6,1&lt;/li&gt;
+      &lt;li&gt;M: 4,0 a 5,4&lt;/li&gt;
+      &lt;li&gt;Idosos &amp;gt; 70: 3,9 a 5,3&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hb
+    &lt;ul&gt;
+      &lt;li&gt;H: 12,8 a 17,8&lt;/li&gt;
+      &lt;li&gt;M: 11,6 a 15,6&lt;/li&gt;
+      &lt;li&gt;Idosos &amp;gt; 70: 11,0 a 16,0&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ht
+    &lt;ul&gt;
+      &lt;li&gt;H: 39 a 53&lt;/li&gt;
+      &lt;li&gt;M: 36 a 48&lt;/li&gt;
+      &lt;li&gt;Idosos &amp;gt; 70: 35-47&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Plaquetas
+    &lt;ul&gt;
+      &lt;li&gt;150.000 a 400.000&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Leucócitos: 3.600 a 11.000
+    &lt;ul&gt;
+      &lt;li&gt;Neutrófilos: 40 a 70% (1,550 a 6.800)&lt;/li&gt;
+      &lt;li&gt;Linfócitos: 20 a 50% (1.000 a 3.800)&lt;/li&gt;
+      &lt;li&gt;Monócitos: 2 a 10% (100 a 800)&lt;/li&gt;
+      &lt;li&gt;Eosinófilos: 1 a 7% (50 a 400)&lt;/li&gt;
+      &lt;li&gt;Basófilos: 0 a 3% (0 a 200)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Eritrócitos H: 4,5 a 6,1 M: 4,0 a 5,4 Idosos &amp;gt; 70: 3,9 a 5,3 Hb H: 12,8 a 17,8 M: 11,6 a 15,6 Idosos &amp;gt; 70: 11,0 a 16,0 Ht H: 39 a 53 M: 36 a 48 Idosos &amp;gt; 70: 35-47 Plaquetas 150.000 a 400.000 Leucócitos: 3.600 a 11.000 Neutrófilos: 40 a 70% (1,550 a 6.800) Linfócitos: 20 a 50% (1.000 a 3.800) Monócitos: 2 a 10% (100 a 800) Eosinófilos: 1 a 7% (50 a 400) Basófilos: 0 a 3% (0 a 200)</summary></entry><entry><title type="html">Doenças da prostata</title><link href="http://localhost:4000/2019/06/01/as-primeiras-cesarias.html" rel="alternate" type="text/html" title="Doenças da prostata" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/2019/06/01/as-primeiras-cesarias</id><content type="html" xml:base="http://localhost:4000/2019/06/01/as-primeiras-cesarias.html">&lt;p&gt;Hoje acompanhei minha sexta cesárea e a cada nova continuo aprendendo.&lt;/p&gt;
+
+&lt;p&gt;Para clampear o cordão usa-se as hemostáticas sem dente e o corte é feito com a tesoura de metzembaum curva.&lt;/p&gt;
+
+&lt;p&gt;A Allis pode ser usada para clampear a aponeurose e ajudar em sua sutura, facilitando a tração e o campo de visão.&lt;/p&gt;
+
+&lt;p&gt;Também descobri que &lt;abbr title=&quot;Trabalho de parto prematuro&quot;&gt;TPP&lt;/abbr&gt; é uma indicação de antibioticoterapia. Normalmente usa-se a ampicilina. Faz sentido uma vez que infecção, como &lt;abbr title=&quot;Infecção do trato urinário&quot;&gt;ITU&lt;/abbr&gt;, é um importante fator de risco para &lt;abbr title=&quot;Trabalho de parto prematuro&quot;&gt;TPP&lt;/abbr&gt;.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Hoje acompanhei minha sexta cesárea e a cada nova continuo aprendendo.</summary></entry><entry><title type="html">Vitalidade fetal</title><link href="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html" rel="alternate" type="text/html" title="Vitalidade fetal" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot; id=&quot;markdown-toc-condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot;&gt;Condições associadas a risco elevado perinatal que necessitam de avaliação anteparto&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#os-principais-testes-de-avaliação-anteparto&quot; id=&quot;markdown-toc-os-principais-testes-de-avaliação-anteparto&quot;&gt;Os principais testes de avaliação anteparto&lt;/a&gt;&lt;/li&gt;
@@ -1401,404 +1746,4 @@ há cerca de três dias iniciou com febre alta, cefaleia, artralgia e leve mialg
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/dengue/dd.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Neurotoxoplasmose</title><link href="http://localhost:4000/infectologia/2019/05/29/neurotoxoplasmose.html" rel="alternate" type="text/html" title="Neurotoxoplasmose" /><published>2019-05-29T00:00:00-03:00</published><updated>2019-05-29T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/29/neurotoxoplasmose</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/29/neurotoxoplasmose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#caso&quot; id=&quot;markdown-toc-caso&quot;&gt;Caso&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#o-que-pedir&quot; id=&quot;markdown-toc-o-que-pedir&quot;&gt;O que pedir?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#essa-lesão-é-característica-de-que-donça&quot; id=&quot;markdown-toc-essa-lesão-é-característica-de-que-donça&quot;&gt;Essa lesão é característica de que donça?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#objetivos&quot; id=&quot;markdown-toc-objetivos&quot;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#neurotoxoplasmose&quot; id=&quot;markdown-toc-neurotoxoplasmose&quot;&gt;Neurotoxoplasmose&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico:&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#labortatório&quot; id=&quot;markdown-toc-labortatório&quot;&gt;Labortatório&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;caso&quot;&gt;Caso&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Há 3 semanas:
-    &lt;ul&gt;
-      &lt;li&gt;Hemiparesia:&lt;/li&gt;
-      &lt;li&gt;Cefaléia&lt;/li&gt;
-      &lt;li&gt;Tontura&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Convulsões no dia que deu entrada no serviço&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;o-que-pedir&quot;&gt;O que pedir?&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;TAC de crânio:&lt;/strong&gt; lesão única hipoatenuante, no lobo frontal direito, em giro frontal superior, parasagital, com realce periférico irregular após o contraste, observando pequena imagem nodular adjacente e com relação a superfície interna da parede da lesão, projetada para interior da área hipoatenuante, com provável necrose interlesional, está lesão mede cerca de 3 cm x 3 cm x 2 cm.&lt;/p&gt;
-
-&lt;h3 id=&quot;essa-lesão-é-característica-de-que-donça&quot;&gt;Essa lesão é característica de que donça?&lt;/h3&gt;
-&lt;p&gt;Solicitado teste para HIV que deu reagente e o CD4 = 87 células/mm³&lt;/p&gt;
-
-&lt;h3 id=&quot;conduta&quot;&gt;Conduta?&lt;/h3&gt;
-&lt;p&gt;TARV&lt;/p&gt;
-
-&lt;h3 id=&quot;objetivos&quot;&gt;Objetivos&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Discutir diagnósticos diferenciais&lt;/li&gt;
-  &lt;li&gt;Discutir exames que poderiam ser pedidos para confirmar o resultado da TC&lt;/li&gt;
-  &lt;li&gt;Discutir neurotoxoplasmose&lt;/li&gt;
-  &lt;li&gt;Discutir os achados de imagem da neurotoxoplasmose&lt;/li&gt;
-  &lt;li&gt;Discutir por que o HIV é predisponente de neurotoxoplasmose&lt;/li&gt;
-  &lt;li&gt;Discutir os principais riscos da neurotoxoplasmose&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;neurotoxoplasmose&quot;&gt;Neurotoxoplasmose&lt;/h2&gt;
-&lt;p&gt;É uma doença causada pelo protozoário Toxoplasma gondii transmitida principalmente por animais domésticos como o gato através do contato do ser humano com as fezes contaminadas desses animais e também através de alimentos de origem animal contaminados e mal cozidos. Normalmente a toxoplasmose é combatida de forma espontânea pelo sistema imunológico dos seres humanos sem maiores complicações. A neurotoxoplasmose, em contrapartida, é uma manifestação grave da toxoplasmose, que pode acometer pessoas com uma imunidade deprimida e observada quando o protozoário instala-se no sistema nervoso central ou no cérebro, podendo acometê-lo difusamente ou formar abcessos discretos. Considera-se um fator importante para o desenvolvimento da neurotoxoplasmose a reativação de uma infecção latente de toxoplasmose, naturalmente combatida pelo organismo no passado e que voltam a causar efemeridades em pacientes imunodeprimidos, com prevalência de 3% a 50%.[2] Pode vir acompanhada, ou não, de danos na visão (toxoplasmose ocular).&lt;/p&gt;
-
-&lt;p&gt;A neurotoxoplasmose (NTX) é extremamente rara em adultos imunocompetentes mas é a infecção oportunista mais frequente no SNC em indivíduos HIV+, sendo a lesão com efeito de massa mais comum nesses pacientes, especialmente com níveis de células LT-CD4+ inferior a 200 células/mm³.&lt;/p&gt;
-
-&lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
-&lt;p&gt;Estudos epidemiológicos revelam a prevalência de &lt;strong&gt;80% de positividade para toxoplasmose na população do Brasil&lt;/strong&gt;. Em pacientes infectados pelo &lt;strong&gt;HIV, a sorologia para &lt;em&gt;Toxoplasma gondii&lt;/em&gt; é positiva em 84% dos casos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Assim, em um paciente com infecção pelo HIV, com &lt;strong&gt;rebaixamento de nível de consciência e presença de sinais neurológicos focais&lt;/strong&gt;, deve-se sempre &lt;strong&gt;aventar a hipótese diagnóstica de toxoplasmose cerebral&lt;/strong&gt;, principalmente na presença de uma TC sugestiva, sendo iniciado tratamento empírico.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A neurotoxoplasmose (NTX) é extremamente rara em adultos imunocompetentes mas é a &lt;strong&gt;infecção oportunista mais frequente no SNC em indivíduos HIV+&lt;/strong&gt;, sendo a lesão com efeito de massa mais comum nesses pacientes, especialmente com níveis de células &lt;strong&gt;LT-CD4+ inferior a 200 células/mm³&lt;/strong&gt;. A doença resulta, na maioria dos casos, de reativação de infecção latente.&lt;/p&gt;
-
-&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico:&lt;/h3&gt;
-&lt;p&gt;Manifesta-se clinicamente de forma semelhante às outras complicações oportunistas que acometem o SNC destes pacientes. Corriqueiramente costuma ser de forma subaguda, com duração de 2-3 semanas, podendo apresentar sintomas a depender da topografia encefálica acometida.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hemiparesia (60%)&lt;/li&gt;
-  &lt;li&gt;Cefaleia (52%)&lt;/li&gt;
-  &lt;li&gt;Confusão mental (51%)&lt;/li&gt;
-  &lt;li&gt;Letargia (47%)&lt;/li&gt;
-  &lt;li&gt;Convulsões (29%)&lt;/li&gt;
-  &lt;li&gt;Paralisia de nervos cranianos também podem ocorrer&lt;/li&gt;
-  &lt;li&gt;Acidentes vasculares encefálicos concomitantes ocorrem em 30% dos casos&lt;/li&gt;
-  &lt;li&gt;Sinais de irritação meníngea em menos de 10%&lt;/li&gt;
-  &lt;li&gt;Febre é uma queixa comum (47%)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;labortatório&quot;&gt;Labortatório&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;CD4 normal: 600 a 1600
-    &lt;ul&gt;
-      &lt;li&gt;Na NTX costuma estar &amp;lt; 200&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
-&lt;p&gt;Os estudos de imagens do crânio, como a tomografia computadorizada (TC) e a ressonância magnética - RM, são de grande valor diagnóstico ao mostrarem &lt;strong&gt;lesões isodensas ou hipodensas, únicas ou múltiplas, com efeito de massa e que captam o contraste de forma anelar ou nodular, envolvendo, preferencialmente, os núcleos da base e junção da substância branca e cinzenta&lt;/strong&gt;. O edema perilesional é comum, reforçando o efeito de massa da lesão. Tais achados são encontrados em cerca de 90% dos casos, sendo bastante sugestivos de neurotoxoplasmose, porém não são patognomônicos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/ntx/tc.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;p&gt;O tratamento de escolha consiste na associação de:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sulfadiazina&lt;/strong&gt; 1000 a 1500mg a cada seis horas e &lt;strong&gt;Pirimetamina&lt;/strong&gt; 200mg no primeiro dia, seguido de 50 a 75mg/dia, prescritos conjuntamente com &lt;strong&gt;Ácido Folínico&lt;/strong&gt; 10mg/dia, para prevenir a mielotoxicidade e anemia megaloblástica causada pela Pirimetamina.
-    &lt;ul&gt;
-      &lt;li&gt;Deve ser mantido, no mínimo, por 6 semanas&lt;/li&gt;
-      &lt;li&gt;Após esse período de tratamento, deve-se prescrever terapia de manutenção para profilaxia secundária de toxoplasmose de acordo com o seguinte esquema
-        &lt;ul&gt;
-          &lt;li&gt;&lt;strong&gt;Sulfadiazina&lt;/strong&gt; 500 a 1000mg quatro vezes ao dia + &lt;strong&gt;Pirimetamina&lt;/strong&gt; 25 a 50mg uma vez ao dia + &lt;strong&gt;Ácido Folínico&lt;/strong&gt; 10mg uma vez ao dia.&lt;/li&gt;
-          &lt;li&gt;Os critérios de suspensão são a boa resposta à TARV com manutenção de LT-CD4 + &amp;gt; 200cel/mm³ por mais de seis meses.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h3&gt;
-&lt;p&gt;A evolução esperada é uma melhora progressiva, com mais de &lt;strong&gt;85% de resposta ao tratamento após 14 dias&lt;/strong&gt; e a &lt;strong&gt;recuperação completa é a regra&lt;/strong&gt;. A toxoplasmose do SNC pode recidivar, particularmente em pacientes com imunossupressão grave, mesmo com boa adesão ao tratamento. O monitoramento da resposta terapêutica inclui reavaliações clinicas e exames de imagem seriados. De maneira geral, &lt;strong&gt;a melhora clinica precede a resposta tomográfic&lt;/strong&gt;a. Recomenda-se, portanto, a reavaliação clínica diária e a repetição do exame de imagem (TC ou RM) após as primeiras duas semanas do início do tratamento.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Anovulação crônica</title><link href="http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica.html" rel="alternate" type="text/html" title="Anovulação crônica" /><published>2019-05-27T00:00:00-03:00</published><updated>2019-05-27T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica</id><content type="html" xml:base="http://localhost:4000/ginecologia/2019/05/27/anovulacao-cronica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#livro-cisam&quot; id=&quot;markdown-toc-livro-cisam&quot;&gt;Livro CISAM&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#repercussões-clínicas&quot; id=&quot;markdown-toc-repercussões-clínicas&quot;&gt;Repercussões clínicas&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#critérios-de-rotterdam&quot; id=&quot;markdown-toc-critérios-de-rotterdam&quot;&gt;Critérios de Rotterdam&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-diferencial&quot; id=&quot;markdown-toc-diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#aco-hormonais-e-progestagenos&quot; id=&quot;markdown-toc-aco-hormonais-e-progestagenos&quot;&gt;ACO hormonais e progestagenos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#antiandrogênios&quot; id=&quot;markdown-toc-antiandrogênios&quot;&gt;Antiandrogênios&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#indutores-da-ovulação&quot; id=&quot;markdown-toc-indutores-da-ovulação&quot;&gt;Indutores da ovulação&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Na sua essência, ela se caracteriza por ciclos anovulatórios irregulares (às vezes com períodos de amenorreia), infertilidade, manifestações de hiperandrogenismo (hirsutismo e acne), obesidade e ovários aumentados de volume com múltiplos cistos. É a causa mais comum de hiperandrogenismo, anovulação crônica, hirsutismo e infertilidade por fator ovulatório.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Encontrada em aproximadamente 80% dos casos de hiperandrogenismo em mulheres&lt;/li&gt;
-  &lt;li&gt;Afeta 5-10% das mulheres em idade reprodutiva&lt;/li&gt;
-  &lt;li&gt;Pode ser identificada em cerca de 30-40% das pacientes com infertilidade&lt;/li&gt;
-  &lt;li&gt;Pode ser identificada em aproximadamente 90% das pacientes com ciclos irregulares&lt;/li&gt;
-  &lt;li&gt;É a endocrinopatia mais comum da mulher.&lt;/li&gt;
-  &lt;li&gt;É a causa mais comum de hiperandrogenismo, anovulação crônica, hirsutismo e infertilidade por anovulação&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;Ainda pouco esclarecida. Parece que fatores gênicos exercem importante papel.&lt;/p&gt;
-
-&lt;p&gt;Estudos recentes sugerem que as alterações têm início na fase fetal. Os elevados níveis séricos maternos de androgênios e/ou insulina influenciam na programação genética, que predispõe ao desenvolvimento da SOP e dos distúrbios metabólicos a ela associados.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-&lt;p&gt;Alterações na secreção de gonadotrofinas, excessiva
-produção androgênica e uma resistência periférica à insulina.&lt;/p&gt;
-
-&lt;p&gt;Na SOP parece haver um aumento na freqüência de pulsos do GnRH, o que resulta em aumento na secreção do LH e redução do FSH. A hiperandrogenemia pode ser uma disfunção primária e, em algumas pacientes, parece ter uma origem combinada: ovariana e adrenal&lt;/p&gt;
-
-&lt;p&gt;Dessa forma, a resistência à insulina resulta, compensatoriamente, numa hiperinsulinemia que, por vários
-mecanismos independentes causam aumento nos níveis de androgênios ovarianos.&lt;/p&gt;
-
-&lt;p&gt;Essa predisposição parece
-existir independente do peso corporal, podendo der observada em mulheres magras.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Irregularidade menstrual&lt;/li&gt;
-  &lt;li&gt;Acne, seborreia, alopecia frontal&lt;/li&gt;
-  &lt;li&gt;Acantose nigricans&lt;/li&gt;
-  &lt;li&gt;Infertilidade&lt;/li&gt;
-  &lt;li&gt;Hirsutismo&lt;/li&gt;
-  &lt;li&gt;Obesidade (central)&lt;/li&gt;
-  &lt;li&gt;Hipertensão arterial&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;livro-cisam&quot;&gt;Livro CISAM&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Manifestações hiperandrogênicas:
-    &lt;ul&gt;
-      &lt;li&gt;São habitualmente moderadas e consistem em hirsutismo, acne, seborréia ou alopécia, o que refletem o estímulo androgênico na unidade pilo-sebácea. Sinais severos de virilização (clitorimegalia, calvície temporal e engrossamento de voz) são infrequentes e sugerem uma investigação para tumor de ovário.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Manifestações  da  anovulação  crônica:
-    &lt;ul&gt;
-      &lt;li&gt;Oligomenorréia  ou  amenorréia intercaladas ou não de sangramento uterino disfuncional, são as manifestações mais frequentes, ambas relacionadas à infertilidade.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Manifestações das alterações metabólicas:
-    &lt;ul&gt;
-      &lt;li&gt;Incluem a obesidade, observada em 30 a 50% das pacientes, a distribuição da gordura corporal tipo androgênica (relação cintura/quadril &amp;gt; 0,8) e acantose nigricans e, a longo prazo, a intolerância à glicose, diabete tipo II, dislipidemia, e, maior incidência de doenças cardiovasculares.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;repercussões-clínicas&quot;&gt;Repercussões clínicas&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;DM (7,5-10% dos casos)&lt;/li&gt;
-  &lt;li&gt;Hiperplasia/CA endometrial (↑efeito estrogênico)&lt;/li&gt;
-  &lt;li&gt;CA de mama e de ovário (hiperestrogenismo)&lt;/li&gt;
-  &lt;li&gt;HAS (40% na perimenopausa)&lt;/li&gt;
-  &lt;li&gt;Doença cardiovascular (↑7x no risco de IAM)&lt;/li&gt;
-  &lt;li&gt;Dislipidemia (↑colesterol total, LDL e TG)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;h3 id=&quot;critérios-de-rotterdam&quot;&gt;Critérios de Rotterdam&lt;/h3&gt;
-&lt;p&gt;A presença de &lt;strong&gt;dois dos três critérios&lt;/strong&gt; descritos confirma o diagnóstico:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Distúrbio menstrual e/ou anovulação&lt;/li&gt;
-  &lt;li&gt;Hiperandrogenismo
-    &lt;ul&gt;
-      &lt;li&gt;Clínico ou laboratorial&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ovários policísticos à USG
-    &lt;ul&gt;
-      &lt;li&gt;12 ou mais folículos medindo 2-9 mm de diâmetro e/ou volume ovariano aumentado (&amp;gt; 10 cm³)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Apesar de o achado de relação LH/FSH &amp;gt; ou = 2:1 ser característico da SOP, não é um critério diagnóstico.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Gravidez&lt;/li&gt;
-  &lt;li&gt;Hipertireoidismo&lt;/li&gt;
-  &lt;li&gt;Hiperprolactinemia&lt;/li&gt;
-  &lt;li&gt;Hiperplasia adrenal congênita&lt;/li&gt;
-  &lt;li&gt;Tumor ovariano&lt;/li&gt;
-  &lt;li&gt;Tumor adrenal&lt;/li&gt;
-  &lt;li&gt;Síndrome de Cushing&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;p&gt;O tratamento da paciente com SOP depende do objetivo final:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Controle da irregularidade menstrual&lt;/li&gt;
-  &lt;li&gt;Tratamento do hirsutismo&lt;/li&gt;
-  &lt;li&gt;Desejo de gestação&lt;/li&gt;
-  &lt;li&gt;Manejo da resistência insulínica
-Na prática clínica, pode existir mais de um objetivo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em linhas gerais, o tratamento tem como objetivos, restaurar a função ovulatória, e consequentemente, a
-regularidade dos ciclos menstruais e a fertilidade, reduzir a produção excessiva dos androgênios e diminuir a resistência periférica à insulina, vislumbrando, a longo prazo, uma
-proteção ao sistema cardiovascular.&lt;/p&gt;
-
-&lt;h3 id=&quot;aco-hormonais-e-progestagenos&quot;&gt;ACO hormonais e progestagenos&lt;/h3&gt;
-&lt;p&gt;Utilizados nas mulheres que não desejam engravidar, com o objetivo de regular os ciclos menstruais.  Objetivo de interromper o ciclo vicioso que caracteriza a complexa
-fisiopatologia da SOP. Essa interrupção pode ser conseguida pelo bloqueio da
-esteroidogênese ovariana, o que depende de uma adequada supressão do LH.&lt;/p&gt;
-
-&lt;p&gt;Podem reduzir a secreção dos androgênios, o que contribui
-para a melhora dos sinais de hiperandrogenismo, quais sejam o hirsutismo, acne, queda de
-cabelos e outros. Benefício adicional pode ser alcançado com o uso dos anticoncepcionais
-hormonais, já que os estrógenos aumentam os níveis da proteína carreadora dos hormônios
-sexuais, o que resulta numa maior capacidade de ligação e, consequentemente, redução na
-concentração de testosterona livre.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Recomenda-se não usar os progestágenos que sejam derivados da 19-nortestosterona, como o levonorgestrel, pela sua elevada atividade androgênica, quando comparada a do &lt;strong&gt;desogestrel&lt;/strong&gt;, &lt;strong&gt;gestodene&lt;/strong&gt; ou &lt;strong&gt;acetato de ciproterona&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Bons resultados também podem ser alcançados com os progestágenos no tratamento
-do hiperandrogenismo. Podem ser utilizados, como o &lt;strong&gt;acetato de medroxiprogesterona&lt;/strong&gt;, 30
-mg/dia, ou 150 mg IM a cada 3 meses. Doses menores do acetato de medroxiprogesterona
-(10 mg/dia, por 10 a 12 dias do ciclo) podem ser utilizadas quando o objetivo for apenas a
-regularização do ciclo menstrual, em mulheres sem vida sexual, ou usuárias de outros
-métodos contraceptivos. Outros progestágenos podem ser utilizados no tratamento da SOP:
-&lt;strong&gt;desogestrel&lt;/strong&gt;, &lt;strong&gt;dihidrogesterona&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;antiandrogênios&quot;&gt;Antiandrogênios&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Acetato de ciproterona:&lt;/strong&gt; Progestágeno com potente ação antiandrogênica e antigonadotrófica. Atua no hiperandrogenismo por suprimir a liberação hipofisária de LH, e a síntese ovariana de androgênio
-    &lt;ul&gt;
-      &lt;li&gt;Recomenda-se administrar o acetato de ciproterona em associação com os estrógenos, já que, isoladamente, pode causar atrofia endometrial e amenorréia. Além disso, pode causar masculinização incompleta da genitália, em fetos do sexo masculino, caso ocorra uma gestação.&lt;/li&gt;
-      &lt;li&gt;Recomenda-se administrar o acetato de ciproterona em associação com os estrógenos, já que, isoladamente, pode causar atrofia endometrial e amenorréia. Alem disso, pode causar masculinização incompleta da genitália, em fetos do sexo masculino, caso ocorra uma gestação.&lt;/li&gt;
-      &lt;li&gt;Os efeitos colaterais mais comuns são a fadiga, ganho de peso, diminuição da libido.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Espironolactona&lt;/strong&gt;: É um antagonista da aldosterona e seu efeito antiandrogênico é atribuído à inibição da síntese ovariana de androgênios através da inibição da citocromo p450, fundamental para a biossíntese dos esteróides sexuais, à competição com os receptores androgênicos na unidade pilosebácea, à inibição da 5 alfa redutase, enzima que converte a testosterona em di-hidrotestosterona no folículo piloso, e ao aumento do clearance hepático da testosterona
-    &lt;ul&gt;
-      &lt;li&gt;Recomenda-se doses de 100 a 200 mg/dia, podendo ser reduzidas a 25 a 50 mg/dia após algum resultado terapêutico, geralmente conseguido cerca de 6 meses após o início do tratamento. Aconselha-se usar a espironolactona associada aos contraceptivos orais, já que quando usada isoladamente pode levar a irregularidade menstrual.&lt;/li&gt;
-      &lt;li&gt;Efeitos colaterais como aumento da diurese ou hipotensão são pouco frequentes&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Finasterida&lt;/strong&gt;: É um inibidor seletivo da 5 alfa redutase. Representa uma perspectiva nova para o tratamento do hirsutismo, porém mais indicada para os casos de hipersensibilidade da unidade pilosebácea. Em doses de 5 mg/dia parece promover uma redução de 80% nos níveis de Di-hidrotestosterona, sem efeitos sobre a produção de estrogênios. Parece ser similar a outros anti-androgênicos, sem efeitos colaterais importantes.
-    &lt;ul&gt;
-      &lt;li&gt;Recomenda-se cautela no uso dessa droga em mulheres durante o período fértil, sem práticas contraceptivas, devido ao risco de masculinização imperfeita da genitália de fetos do sexo masculino.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Flutamina&lt;/strong&gt;: É um antiandrogênico não esteróide puro, pois atua apenas no receptor dos androgênios, competindo com eles e bloqueando a ação desses esteróides circulantes no orgão alvo.
-    &lt;ul&gt;
-      &lt;li&gt;Alguns estudos mostram melhora do hirsutismo, mesmo em portadoras da SOP, podendo ser utilizado associado aos anticoncepcionais, com uma elevada relação custo-benefício.&lt;/li&gt;
-      &lt;li&gt;As doses recomendadas são de 500 mg/dia, porém há estudos mostrando boas respostas com doses menores (250 mg/dia).&lt;/li&gt;
-      &lt;li&gt;Pela hepatoxicidade requer uma rigorosa vigilância da função hepática.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;indutores-da-ovulação&quot;&gt;Indutores da ovulação&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Citrato de Clomifeno&lt;/strong&gt; (CC): em grande parte ao seu efeito anti-estrogênico a nível do hipotálamo, o que resulta na liberação de GnRH, e consequentemente das gonadotrofinas.
-    &lt;ul&gt;
-      &lt;li&gt;A dose inicial é de 50 mg/dia, por 5 dias, iniciando habitualmente no 3º dia do ciclo&lt;/li&gt;
-      &lt;li&gt;A monitorização da resposta ovulatória pode ser feita através da dosagem de progesterona 2 semanas após o último comprimido do CC, assim como pela monitorização ultrasonográfica do crescimento folicular.&lt;/li&gt;
-      &lt;li&gt;Se não ocorrer a ovulação, a dose do CC pode ser aumentada, gradativamente, até 150 mg/dia, por 5 dias.&lt;/li&gt;
-      &lt;li&gt;A ovulação pode ser alcançada em mais de 70% das pacientes com a dose de 50 a 100 mg, embora apenas 50% ocorra a gravidez&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Metformina:&lt;/strong&gt;  A metformina é um agente anti-hiperglicêmico, do grupo das biguanidas, usado no tratamento do diabetes mellitus tipo II, isolado ou associado a outros agentes hipoglicemiantes.
-    &lt;ul&gt;
-      &lt;li&gt;O controle glicêmico em pacientes diabéticas parece relacionar-se, primariamente, a redução da neoglicogênese hepática e, em menor extensão, ao incremento da captação periférica da glicose&lt;/li&gt;
-      &lt;li&gt;A utilização da metformina como tratamento da SOP baseia-se no fato da resistência à insulina ser altamente prevalente em mulheres com SOP e do uso das drogas que melhoram a sensibilidade à insulina, em mulheres não diabéticas diminuirem a incidência dessa doença&lt;/li&gt;
-      &lt;li&gt;tanto as pacientes obesas quanto as magras tem respostas positivas com o uso da metformina, mas a resposta é melhor em obesas&lt;/li&gt;
-      &lt;li&gt;Recomenda-se iniciar com baixas doses, com incremento gradual da dose, a cada 3 a 4 semanas, já que os efeitos indesejáveis, como náuseas, flatulência, diarréia são dose dependentes.&lt;/li&gt;
-      &lt;li&gt;a maioria das pacientes tolera bem doses iniciais de &lt;strong&gt;500 mg/dia&lt;/strong&gt;, ingeridos após o jantar, procurando atingir, gradualmente, a dose de pelo menos 1.500 mg/dia. Também tem sido recomendada, a suplementação com vitamina B12 e ácido fólico, devido ao comprometimento da absorção intestinal com o uso da metformina.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gonadotrofinas&lt;/strong&gt;: Para as pacientes com SOP, não responsivas às medidas de perda de peso, CC com ou sem metformina, a indução da ovulação com gonadotrofinas injetáveis é uma opção terapêutica.
-    &lt;ul&gt;
-      &lt;li&gt;Independente da preparação usada, a indução da ovulação, sobretudo das pacientes com SOP, requer uma monitorização rigorosa, devido aos riscos de gravidez múltipla e da síndrome da hiperestimulação.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Redução do peso corporal:&lt;/strong&gt; importante melhora da disfunção ovariana, do hiperandrogenismo e até dos índices de gestação, apenas com a redução do peso corporal.
-    &lt;ul&gt;
-      &lt;li&gt;Perdas de 5% do peso corporal podem, frequentemente, levar a restauração da função ovulatória, com resultados ainda melhores se o exercício físico for associado aos programas de restrição alimentar&lt;/li&gt;
-      &lt;li&gt;Além disso, as respostas clínicas aos indutores da ovulação costumam ser melhores com prévia redução do peso corporal&lt;/li&gt;
-      &lt;li&gt;a metformina parece ter um papel facilitador na perda de peso&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Eletrocauterização laparoscópica dos ovários:&lt;/strong&gt; Indicado especialmente para as pacientes que não respondem à indução da ovulação com as medidas já comentadas.
-    &lt;ul&gt;
-      &lt;li&gt;Similar à clássica ressecção em cunha dos ovários, técnica atualmente abandonada, a eletrocauterização dos ovários resulta em importante declínio dos níveis plasmáticos de androgênios, devido, em parte a destruição do estroma ovariano.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Vômitos no recém nascido</title><link href="http://localhost:4000/neonatologia/2019/05/27/vomitos-no-rn.html" rel="alternate" type="text/html" title="Vômitos no recém nascido" /><published>2019-05-27T00:00:00-03:00</published><updated>2019-05-27T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/05/27/vomitos-no-rn</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/05/27/vomitos-no-rn.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fatores-desencadeantes&quot; id=&quot;markdown-toc-fatores-desencadeantes&quot;&gt;Fatores desencadeantes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#sinais-de-alarme&quot; id=&quot;markdown-toc-sinais-de-alarme&quot;&gt;Sinais de alarme&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#atresias-instestinais&quot; id=&quot;markdown-toc-atresias-instestinais&quot;&gt;Atresias instestinais&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Até 12h os RNs costumam eliminar mecônio. Até 48h é considerado normal.&lt;/p&gt;
-
-&lt;h2 id=&quot;fatores-desencadeantes&quot;&gt;Fatores desencadeantes&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mecanorreceptores&lt;/li&gt;
-  &lt;li&gt;Quimiorreceptores&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sinais-de-alarme&quot;&gt;Sinais de alarme&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Vômito:
-    &lt;ul&gt;
-      &lt;li&gt;alimentar&lt;/li&gt;
-      &lt;li&gt;bilioso&lt;/li&gt;
-      &lt;li&gt;fecalóide&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Distensão abdominal abdominal:
-    &lt;ul&gt;
-      &lt;li&gt;epigástrica&lt;/li&gt;
-      &lt;li&gt;localizada&lt;/li&gt;
-      &lt;li&gt;generalizada&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Eliminação de mecônio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Quanto mais alta a obstruçao, menor a distensão…
-Quanto mais baixa a obstrução…&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Exame do tórax
-Exame do abdome
-Exame do períneo&lt;/p&gt;
-
-&lt;h2 id=&quot;atresias-instestinais&quot;&gt;Atresias instestinais&lt;/h2&gt;
-&lt;p&gt;Obstrução total de luz intestinal, onde a obstrução incompleta chama-se de estenose.&lt;/p&gt;
-
-&lt;p&gt;Por que ocorre?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Atresia duodenal
-    &lt;ul&gt;
-      &lt;li&gt;Teoria de Tandler&lt;/li&gt;
-      &lt;li&gt;Pâncreas anular&lt;/li&gt;
-      &lt;li&gt;Uso de drogas teratogênicas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atresias jejuno ileais&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Como se classifica?&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Intrinseca&lt;/li&gt;
-  &lt;li&gt;Extrínseca&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/dengue/dd.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>

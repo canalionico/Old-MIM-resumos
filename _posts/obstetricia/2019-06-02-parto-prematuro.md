@@ -62,11 +62,11 @@ distúrbios do colo uterino e doenças endócrinas
   * Esses microrganismos são tipicamente de baixa virulência, o que explica provavelmente a cronicidade da infecção intrauterina e a ausência frequente de sinais clínicos de infecção no parto pré-termo tardio.
 * **Citocinas pró-inflamatórias:** A inflamação e seus mediadores, quimiocinas tais como a IL-8, citocinas pró-inflamatórias (IL-1, IL-6 e TNF-α) e outros [fator ativador de plaquetas (PAF), prostaglandinas] estão implicados no parto pré-termo infeccioso.
 * **Sobredistensão uterina:**  Ocorre em casos de malformações uterinas, polidrâmnia e gravidez gemelar, sendo dependente da exacerbação da contratilidade uterina, do amadurecimento do colo do útero e da ruptura das membranas.
-* **Gravidez gemelar:** sobredistensão uterina, muito embora o parto pré-termo indicado também seja um fator. Apesar de representar em apenas 23% das gestações, a gravidez gemelar é responsável por 13 a 20% de todos os partos pré-termo. Aproximadamente 60% dos gêmeos nascem pré-termo e nas gestações múltiplas (3 ou mais), quase todos.
+  * **Gravidez gemelar:** sobredistensão uterina, muito embora o parto pré-termo indicado também seja um fator. Apesar de representar em apenas 23% das gestações, a gravidez gemelar é responsável por 13 a 20% de todos os partos pré-termo. Aproximadamente 60% dos gêmeos nascem pré-termo e nas gestações múltiplas (3 ou mais), quase todos.
 * **Sangramento vaginal:**
   * DPP: descolamento prematuro de placenta
   * PP: placenta prévia
-* **Isquemia uteroplacentária:** As características mais comuns na placenta de pacientes com parto pré-termo (< 28 semanas), mas sem alterações inflamatórias, são as lesões vasculares que incluem remodelação defeituosa das arteríolas espiraladas, aterose aguda e trombose dessas artérias (vasculopatia decidual), diminuição da quantidade e trombose das arteríolas nas vilosidades coriônicas. Essas alterações vasculares também são típicas da pré-eclâmpsia e do CIR e representam o substrato anatomopatológico das grandes síndromes obstétricas
+* **Isquemia uteroplacentária:** As características mais comuns na placenta de pacientes com parto pré-termo (< 28 semanas), mas sem alterações inflamatórias, são as lesões vasculares que incluem remodelação defeituosa das arteríolas espiraladas, aterose aguda e trombose dessas artérias (vasculopatia decidual), diminuição da quantidade e trombose das arteríolas nas vilosidades coriônicas. Essas alterações vasculares também são típicas da pré-eclâmpsia e do CIUR e representam o substrato anatomopatológico das grandes síndromes obstétricas
 * **Doenças e cirurgias maternas**
   * Doença da tireoide
   * asma
@@ -74,14 +74,14 @@ distúrbios do colo uterino e doenças endócrinas
   * hipertensão arterial crônica
   * cirurgias maternas abdominais no 2º e no 3º trimestres podem estimular as contrações uterinas
 * **Doenças cervicais**
-  * Insuficiência cervical: causada por cirurgia, trauma ou fraqueza congênita do colo do útero determinante de abortamento tardio
+  * **Insuficiência cervical:** causada por cirurgia, trauma ou fraqueza congênita do colo do útero determinante de abortamento tardio
   * A doença cervical pode resultar de alteração congênita (hipoplasia, exposição ao dietilestilbestrol in utero, útero septado), assim como de lesão traumática da estrutura cervical (conização, dilatações cervicais repetidas ou rudes para interrupção da gravidez).
 * **Distúrbios hormonais:**
   * A progesterona é o hormônio central para a manutenção da gravidez.
   * Acredita-se que a deficiência da fase lútea seja causa de infertilidade e de abortamento habitual.
 
 ## Fatores de risco
-* Prematuridade anterior
+* **Prematuridade anterior**
   * O principal fator de risco
   * 20% de chance de novo parto prematuro
   * Risco aumenta progressivamente a cada parto pré-termo
@@ -113,7 +113,7 @@ A sobrevida dos RN pré-termo, que nascem após 32 semanas de gravidez, é simil
 O atendimento moderno perinatal (corticoide, surfactante, centros terciários) foi importante para melhorar o prognóstico do prematuro. Todavia, o prognóstico permanece desalentador para
 aqueles pré-viáveis nascidos entre 22 e 25 semanas.
 
-* **Pré-termo pré-viável:** a taxa de sobrevida é de 1, 11, 26 e 44%, respectivamente, para os RN de 22, 23, 24 e 25 semanas
+* **Pré-termo pré-viável:** entre 22 e 25 sem. A taxa de sobrevida é de 1, 11, 26 e 44%, respectivamente, para os RN de 22, 23, 24 e 25 semanas
   * No levantamento de 30 meses e de 6 anos foram expressivas as incapacidades mental, motora, sensorial (auditiva, visual) e cognitiva.
 * **Pré-termos tardio e termo precoce:** A despeito de documentada a maturidade pulmonar, quando comparados àqueles nascidos com 39 semanas ou mais, os pré-termo tardio e a termo precoce apresentam morbidade neonatal mais elevada. Por isso, o ACOG, 2011, recomenda: a gestação não deve ser eletivamente interrompida antes de 39 semanas.
 
@@ -140,7 +140,7 @@ para a interrupção da gravidez (CIUR e oligoidrâmnia isolados, pré-eclâmpsi
 | 36 | > 99 | < 1 |
 
 ## Predição
-O grande fator de risco para o parto pré-termo é a história pregressa de parto pré-termo. Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos anteriores, o risco passa para 35 a 40%.
+O grande fator de risco para o parto pré-termo é a **história pregressa de parto pré-termo**. Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos anteriores, o risco passa para 35 a 40%.
 
 Existem três grandes marcadores de parto pré-termo: vaginose bacteriana, ultrassonografia do colo e fibronectina fetal. Esses marcadores estão
 indicados quando a grávida relata história pregressa de parto pré-termo ou quando manifesta sintomas.
@@ -165,9 +165,9 @@ de ameaça de parto pré-termo, pois o parto ocorre no termo não havendo, por c
 indicação de internação, uso de corticoide e tocolítico.
 
 A US transvaginal é muito útil nesses casos:
-* Quando a paciente apresentava o colo < 15 mm, o parto ocorreu em 1 semana
+* Quando a paciente apresentava o colo < 15 mm, o parto ocorre em 1 semana
 * O colo > 25 mm assegura parto a termo
-* aquelas com valores entre 15 e 25 mm merecem vigilância atenta pela ultrassonografia seriada.
+* Aquelas com valores entre 15 e 25 mm merecem vigilância atenta pela ultrassonografia seriada.
 
 ![img](/assets/obstetricia/tpp/img6.jpeg)
 ![img](/assets/obstetricia/tpp/img7.jpeg)
@@ -206,7 +206,7 @@ O corticoide é capaz não só de reduzir a incidência de SAR como também de o
 * persistência do canal arterial
 * taxa de mortalidade neonatal
 
-Ocorre redução de 50% na incidência de SAR, e sueficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.
+Ocorre redução de 50% na incidência de SAR, e sua eficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.
 
 A Revisão Cochrane (2007) recomenda um único curso de corticoide, que pode ser a
 betametasona, 12 mg via IM repetida 2 vezes com intervalo de 24h sempre que houver
@@ -229,11 +229,12 @@ ACOG (2008):
   * O corticoide não é recomendado antes da viabilidade fetal (24 sem)
   * Não se aconselha a repetição dos cursos de corticoide.
 
-##### Corticoide na ameaça de parto pré-termo
-Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo < 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo > 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.
+**Corticoide na ameaça de parto pré-termo:** Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo < 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo > 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.
 
 ### Circlagem
 Originalmente proposta para uso em pacientes com abortamento habitual de 2º trimestre, a circlagem tem sido recomendada também para aquelas com história pregressa de parto pré-termo.
+
+> A Revisão Cochrane (2013) afrma que o uso de pesário em colos ≤ 25 mm, entre 18 e 20 semanas da gravidez, conseguiu reduzir significativamente a ocorrência de parto pré-termo, quando comparado a grupo controle (20 vs. 60%; risco relativo = 0,36).[^rez]
 
 ### USG universal do colo
 A SMFM, o AIUM e o ACOG (2012) propõem a prevenção do parto pré-termo pela USG transvaginal universal do colo uterino, após a USG morfológica detrimestre, entre a 20ª e a 24ª semana. O colo ≤ 20 mm é indicação para progesterona vaginal, 200
@@ -241,8 +242,6 @@ mg/dia, até 34 a 36 semanas
 
 O ACOG (2012) também recomenda em pacientes com **história pregressa de parto pré-termo** o uso de **progesterona vaginal** (200 mg/dia) a partir da 16ª semana. Entre 16 e 24 semanas deve-se realizar a USG transvaginal e se o colo estiver ≤ 25 mm, estaria indicada a circlagem
 cervical.
-
-> A Revisão Cochrane (2013) afrma que o uso de pesário em colos ≤ 25 mm, entre 18 e 20 semanas da gravidez, conseguiu reduzir significativamente a ocorrência de parto pré-termo, quando comparado a grupo controle (20 vs. 60%; risco relativo = 0,36).[^rez]
 
 ![img](/assets/obstetricia/tpp/img8.jpeg)
 
@@ -252,8 +251,8 @@ cervical.
 Na gravidez gemelar, o colo > 25 mm afasta a possibilidade de parto pré-termo, evitando
 intervenções desnecessárias.
 
-Mas nem a progesterona vaginal/IM, nem a circlagem
-foram efetivas para evitar o parto pré-termo na gravidez gemelar. Pelo contrário, a circlagem trouxe até resultados negativos (ACOG, 2012).
+Mas nem a progesterona vaginal (IM), nem a circlagem
+foram efetivas para evitar o parto pré-termo na gravidez gemelar. Pelo contrário, a circlagem trouxe até resultados negativos (ACOG, 2012). Logo, **não fazer progesterona nem circlagem!**
 
 ### Neuroproteção fetal
 Usa-se o MgSO4, indicado na gestação **entre 23 e 31+6 sem** quando o parto é iminente ou a gravidez deve ser interrompida nas 24h seguintes.

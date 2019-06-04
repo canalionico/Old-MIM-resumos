@@ -29,11 +29,17 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/neonatologia/2019/06/03/infeccoes-congenitas.html',
+      
+        '/refs-rapidas/2019/06/02/hemograma.html',
+      
         '/obstetricia/2019/06/02/parto-prematuro.html',
       
         '/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html',
       
         '/neonatologia/2019/06/01/vitalidade-fetal.html',
+      
+        '/2019/06/01/as-primeiras-cesarias.html',
       
         '/urologia/2019/05/30/tumores-de-testiculo.html',
       
@@ -181,6 +187,8 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/ca-endometrio/figo2.png'
       
         '/assets/ginecologia/leiomioma/mioma.png'
+      
+        '/assets/ginecologia/sua/img.jpeg'
       
         '/assets/imagens/ca-prostata/estadiamento.png'
       

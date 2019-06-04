@@ -228,7 +228,8 @@ h2, h3, h4, h5, h6 {
 p, a, li, figcaption {
   font-family: 'Open Sans', sans-serif;
   font-size: 18px;
-  text-align: left;
+  text-align: justify;
+  hyphens: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6; }
