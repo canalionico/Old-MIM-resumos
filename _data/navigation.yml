@@ -4,6 +4,6 @@
 - name: Resumos
   link: /
   icon: align-left
-- name: Radical
-  link: https://radical.canalionico.com.br
-  icon: bolt
+- name: Blog
+  link: https://blog.canalionico.com.br
+  icon: stethoscope

@@ -29,6 +29,12 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/nefrologia/2019/06/05/doenca-renal-policistica.html',
+      
+        '/neonatologia/2019/06/04/obstrucao-intestinal.html',
+      
+        '/2019/06/04/tocoliticos.html',
+      
         '/neonatologia/2019/06/03/infeccoes-congenitas.html',
       
         '/refs-rapidas/2019/06/02/hemograma.html',
@@ -38,8 +44,6 @@ self.addEventListener('install', function (event) {
         '/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html',
       
         '/neonatologia/2019/06/01/vitalidade-fetal.html',
-      
-        '/2019/06/01/as-primeiras-cesarias.html',
       
         '/urologia/2019/05/30/tumores-de-testiculo.html',
       
@@ -337,6 +341,14 @@ self.addEventListener('install', function (event) {
         '/assets/mastologia/derrame-papilar/tab2.jpeg'
       
         '/assets/nefrologia/drc/relogio.jpeg'
+      
+        '/assets/nefrologia/drpad/gra.jpeg'
+      
+        '/assets/nefrologia/drpad/gra2.jpeg'
+      
+        '/assets/nefrologia/drpad/pet.jpeg'
+      
+        '/assets/nefrologia/drpad/tc.jpeg'
       
         '/assets/nefrologia/nd/diag.jpeg'
       

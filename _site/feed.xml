@@ -1,4 +1,501 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-03T21:54:16-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Infecções cogênitas</title><link href="http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas.html" rel="alternate" type="text/html" title="Infecções cogênitas" /><published>2019-06-03T00:00:00-03:00</published><updated>2019-06-03T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-05T18:42:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença renal policística autossômica dominante</title><link href="http://localhost:4000/nefrologia/2019/06/05/doenca-renal-policistica.html" rel="alternate" type="text/html" title="Doença renal policística autossômica dominante" /><published>2019-06-05T00:00:00-03:00</published><updated>2019-06-05T00:00:00-03:00</updated><id>http://localhost:4000/nefrologia/2019/06/05/doenca-renal-policistica</id><content type="html" xml:base="http://localhost:4000/nefrologia/2019/06/05/doenca-renal-policistica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#estratificação&quot; id=&quot;markdown-toc-estratificação&quot;&gt;Estratificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#nefrolitíase&quot; id=&quot;markdown-toc-nefrolitíase&quot;&gt;Nefrolitíase&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#infecção-do-cisto&quot; id=&quot;markdown-toc-infecção-do-cisto&quot;&gt;Infecção do cisto&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#rastreamento-de-aneurismas&quot; id=&quot;markdown-toc-rastreamento-de-aneurismas&quot;&gt;Rastreamento de aneurismas&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#dor-crônica&quot; id=&quot;markdown-toc-dor-crônica&quot;&gt;Dor crônica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ruptura-do-cisto-e-sangramento&quot; id=&quot;markdown-toc-ruptura-do-cisto-e-sangramento&quot;&gt;Ruptura do cisto e sangramento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#nefrolitíase-1&quot; id=&quot;markdown-toc-nefrolitíase-1&quot;&gt;Nefrolitíase&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#itu-e-infecção-do-cisto&quot; id=&quot;markdown-toc-itu-e-infecção-do-cisto&quot;&gt;ITU e infecção do cisto&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hipertensão&quot; id=&quot;markdown-toc-hipertensão&quot;&gt;Hipertensão&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A Doença Renal Policística Autossômica Dominante (DRPAD) é a enfermidade renal hereditária mais comum em seres humanos.&lt;sup id=&quot;fnref:art&quot;&gt;&lt;a href=&quot;#fn:art&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Essa enfermidade caracteriza-se por
+desenvolvimento bilateral de cistos renais múltiplos, crescimento progressivo do
+volume dos rins acompanhado de distorção de sua arquitetura e, após muitos
+anos de preservação relativa da função renal, declínio acentuado da taxa de
+filtração glomerular (TFG). De natureza sistêmica, associa-se, contudo, também
+a manifestações extrarrenais envolvendo fígado, vasos sanguíneos, coração,
+pâncreas e tecido conjuntivo.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;A doença renal monogênica mais comum&lt;/li&gt;
+  &lt;li&gt;Prevalência populacional aproximada de 1:1.000&lt;/li&gt;
+  &lt;li&gt;A quarta causa mais comum de doença renal crônica terminal (DRCT)&lt;/li&gt;
+  &lt;li&gt;8% dos pacientes em terapia de substituição renal possuem DRPAD&lt;/li&gt;
+  &lt;li&gt;Até 25% dos pacientes com DRPAD não referem história familiar positiva
+para a doença&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A DRPAD é a terceira causa da Doença Renal Crônica (DRC) estágio 5 e afeta 5%-13,4% dos pacientes em hemodiálise na Europa e Estados Unidos12, e cerca de 3% em países orientais. A DRC estágio 5 causada pela
+DRPAD apresenta uma taxa de incidência anual de 8,7 e 6,9 casos por milhão de habitantes (1998-2001 nos Estados Unidos) e de 7,8 e 6,0 por milhão de habitantes (1998-1999 na Europa), para homens e
+mulheres, respectivamente.&lt;/p&gt;
+
+&lt;p&gt;A literatura mostra que
+os homens portadores de DRPAD são diagnosticados
+mais tardiamente que as mulheres, indicando que o
+gênero masculino seja um determinante na pior progressão da doença.&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+&lt;p&gt;Os genes responsáveis são:&lt;sup id=&quot;fnref:art:1&quot;&gt;&lt;a href=&quot;#fn:art&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PKD1 - estão localizados no cromossomo 16p 13.3, responsáveis por &lt;strong&gt;85%&lt;/strong&gt; dos casos (DRPAD-1);
+    &lt;ul&gt;
+      &lt;li&gt;Curso clínico mais grave&lt;/li&gt;
+      &lt;li&gt;Evolui mais precocemente para doença renal crônica terminal&lt;/li&gt;
+      &lt;li&gt;Na DRPAD1, a DRCT ocorre em média 20 anos mais cedo do que na DRPAD2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PKD2 - estão localizados no cromossomo 4q 21-23, com frequência de &lt;strong&gt;10-15%&lt;/strong&gt; dos casos (DRPAD-2);
+    &lt;ul&gt;
+      &lt;li&gt;iniciam a diálise mais tarde (idade média de 74 anos) em relação ao gene PKD1 (idade média de 54 anos)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PKD3, que ainda não foi identificado.
+    &lt;ul&gt;
+      &lt;li&gt;Nem é citado no Riella&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os cistos apresentam natureza focal na DRPAD. Iniciam-se como dilatações
+em segmentos do néfron, notadamente nos túbulos e ductos coletores, e, ao
+alcançarem 2 a 3 mm de diâmetro, tendem a se desconectar do segmento tubular de origem.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Modelo de “&lt;strong&gt;dois eventos&lt;/strong&gt;” como mecanismo da cistogênese:
+    &lt;ul&gt;
+      &lt;li&gt;Primeiro evento: todas as células tubulares de um paciente com DRPAD apresentam uma mutação germinativa&lt;/li&gt;
+      &lt;li&gt;Segundo evento: decorre de uma mutação somática na cópia previamente normal do gene, que atinge as células individualmente.&lt;/li&gt;
+      &lt;li&gt;A inativação ou o intenso comprometimento funcional de ambos os alelos resultam, então, em expansão clonal da célula afetada e consequente mudança de seu fenótipo para
+        &lt;ul&gt;
+          &lt;li&gt;desdiferenciação,&lt;/li&gt;
+          &lt;li&gt;defeitos de polaridade celular,&lt;/li&gt;
+          &lt;li&gt;alteração de adesão célula-célula e célulamatriz,&lt;/li&gt;
+          &lt;li&gt;elevadas taxas de proliferação e apoptose,&lt;/li&gt;
+          &lt;li&gt;conversão do fenótipo reabsortivo em secretor.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dessa forma, apesar de a DRPAD apresentar transmissão genética dominante, no nível celular e molecular, o mecanismo de cistogênese segue um padrão recessivo.&lt;sup id=&quot;fnref:riella&quot;&gt;&lt;a href=&quot;#fn:riella&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Em geral manifesta-se na idade adulta&lt;/li&gt;
+  &lt;li&gt;Manifestação em idade pediátrica constitui apresentação incomum na prática clínica, respondendo por 1 a 2% dos casos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;HAS&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Em cerca de 60% dos pacientes antes do declínio significativo da função renal&lt;/li&gt;
+      &lt;li&gt;A ativação do SRAA é central nesse processo&lt;/li&gt;
+      &lt;li&gt;decorrendo principalmente da expansão  cística, da distensão/compressão  vascular e da formação de áreas renais focais de baixa perfusão&lt;/li&gt;
+      &lt;li&gt;A reduzida geração endotelial de óxido nítrico e a ativação do sistema nervoso simpático também contribuem&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Comprometimento da função renal&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Com frequência, a função renal permanece estável até fases relativamente tardias da doença, quando os rins já se estão significativamente aumentados.&lt;/li&gt;
+      &lt;li&gt;Taxas mais elevadas de crescimento do volume renal total (VRT) estão relacionadas com um declínio mais rápido da TFG&lt;/li&gt;
+      &lt;li&gt;A variação do VRT tem sido empregada para avaliar a efetividade de intervenções&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dor lombar&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Crônica: decorre em geral do estiramento da cápsula e/ou do pedículo renal, constituindo complicação tardia da doença
+        &lt;ul&gt;
+          &lt;li&gt;Sua manifestação em flanco ou abdominal reflete o aumento do volume renal ou hepático, ou mesmo compressão de tecidos adjacentes&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Aguda: pode decorrer de sangramento intracístico, cólica ureteral ou infecção em cisto, ou de causas não diretamente associadas à doença.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hematúria&lt;/strong&gt; micro ou macroscópica&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nefrolitíase&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;complicação comum&lt;/li&gt;
+      &lt;li&gt;ocorrendo em até 36% dos pacientes&lt;/li&gt;
+      &lt;li&gt;associação com ITUs&lt;/li&gt;
+      &lt;li&gt;VRT superior a 500 ml consiste em fator de risco independente para nefrolitíase&lt;/li&gt;
+      &lt;li&gt;maior prevalência de hiperoxalúria&lt;/li&gt;
+      &lt;li&gt;também hipocitratúria&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;↓capacidade de concentração urinária e de excreção de amônia
+    &lt;ul&gt;
+      &lt;li&gt;alterações que podem ocorrer precocemente&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ITUs são frequentes
+    &lt;ul&gt;
+      &lt;li&gt;Infecções em cistos renais podem ser graves e de difícil diagnóstico diferencial com outras complicações, como sangramento.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cistos em outros órgãos
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Cistos hepáticos&lt;/strong&gt; são a manifestação cistica extrarrenal mais comum
+        &lt;ul&gt;
+          &lt;li&gt;Mais da metade dos pacientes &amp;gt; 30 anos apresentam também cistos hepáticos&lt;/li&gt;
+          &lt;li&gt;fígados policísticos de grandes dimensões se dão geralmente no sexo feminino
+            &lt;ul&gt;
+              &lt;li&gt;particularmente associados à história de múltiplas gestações ou a uso de estrógeno.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;As complicações em cistos hepáticos compreendem sintomas decorrentes de expansão do órgão
+            &lt;ul&gt;
+              &lt;li&gt;hemorragia,&lt;/li&gt;
+              &lt;li&gt;infecção&lt;/li&gt;
+              &lt;li&gt;ruptura&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Elevações de enzimas canaliculares podem ser observadas&lt;/li&gt;
+          &lt;li&gt;a função hepática, contudo, é geralmente preservada.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Outros órgãos: aracnoide, o pâncreas, o baço, o trato seminal e a meninge espinal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anormalidades do tecido conjuntivo
+    &lt;ul&gt;
+      &lt;li&gt;destacando-se os &lt;strong&gt;aneurismas intracranianos&lt;/strong&gt; (AIC)
+        &lt;ul&gt;
+          &lt;li&gt;prevalência de 12%, 4x vezes maior que na população geral.&lt;/li&gt;
+          &lt;li&gt;rompem em média 10 anos antes&lt;/li&gt;
+          &lt;li&gt;presentam distribuição igual entre os sexos, diferentemente da maior prevalência em sexo feminino observada na população geral&lt;/li&gt;
+          &lt;li&gt;Rastrear aneurismas nestes pacientes? se fatores de risco, sim!&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;prolapso de valva mitral e outras alterações valvares&lt;/li&gt;
+      &lt;li&gt;doença diverticular do cólon&lt;/li&gt;
+      &lt;li&gt;hérnias abdominais e inguinais&lt;/li&gt;
+      &lt;li&gt;aneurisma de aorta abdominal e torácica&lt;/li&gt;
+      &lt;li&gt;bronquiectasias&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;História familiar da doença&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Alguns fatores, no entanto, associam-se à progressão mais rápida da doença, como:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;sexo masculino&lt;/li&gt;
+  &lt;li&gt;afrodescendentes&lt;/li&gt;
+  &lt;li&gt;HAS antes dos 35 anos&lt;/li&gt;
+  &lt;li&gt;hematúria macroscópica antes dos 30 anos&lt;/li&gt;
+  &lt;li&gt;múltiplas ITUs&lt;/li&gt;
+  &lt;li&gt;dislipidemia&lt;/li&gt;
+  &lt;li&gt;proteinúria&lt;/li&gt;
+  &lt;li&gt;tabagismo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;estratificação&quot;&gt;Estratificação&lt;/h2&gt;
+&lt;p&gt;Com o intuito de individualizar o risco de progressão, um estudo prospectivo propôs uma classificação radiológica prática e transversal, com base
+na &lt;strong&gt;idade&lt;/strong&gt; do paciente e no &lt;strong&gt;VRT ajustado para a altura&lt;/strong&gt; (VRTa), além de se amparar na estratificação de casos típicos (classe 1) de DRPAD em cinco
+subclasses diretamente associadas à progressão do VRT:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1A, &lt;strong&gt;risco baixo&lt;/strong&gt; de ↓TFG: aumento renal anual &amp;lt; 1,5%;&lt;/li&gt;
+  &lt;li&gt;1B, &lt;strong&gt;risco intermediário&lt;/strong&gt;: entre 1,5 a 3,0%&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Doença rapidamente progressiva&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1C: entre 3,0 a 4,5%;&lt;/li&gt;
+      &lt;li&gt;1D: entre 4,5 e 6,0%;&lt;/li&gt;
+      &lt;li&gt;1E: &amp;gt; 6%.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Casos atípicos (classe 2): caracterizados pela ocorrência de cistos
+    &lt;ul&gt;
+      &lt;li&gt;unilaterais,&lt;/li&gt;
+      &lt;li&gt;segmentares,&lt;/li&gt;
+      &lt;li&gt;assimétricos ou&lt;/li&gt;
+      &lt;li&gt;associados à atrofia renal,&lt;/li&gt;
+      &lt;li&gt;não apresentaram correlação entre o VRT e a progressão da doença renal.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;&lt;img src=&quot;/assets/nefrologia/drpad/gra2.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/nefrologia/drpad/gra.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+&lt;p&gt;O diagnóstico da doença é feito sem dificuldades na maioria dos casos,
+especialmente em pacientes com cistos renais bilaterais, nefromegalia e história
+familiar positiva. Diversas doenças genéticas ou adquiridas, contudo, também
+cursam com cistos renais, devendo ser consideradas no diagnóstico diferencial
+em casos específicos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/nefrologia/drpad/tc.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/nefrologia/drpad/pet.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;nefrolitíase&quot;&gt;Nefrolitíase&lt;/h3&gt;
+&lt;p&gt;TC helicoidal sem contraste representa o exame de escolha para o diagnóstico da &lt;strong&gt;nefrolitíase&lt;/strong&gt; associada.&lt;/p&gt;
+
+&lt;h3 id=&quot;infecção-do-cisto&quot;&gt;Infecção do cisto&lt;/h3&gt;
+&lt;p&gt;Os critérios diagnósticos atuais consideram &lt;strong&gt;infecção em cisto&lt;/strong&gt; “confirmada” quando o aspirado do cisto suspeito apresenta microrganismos ou débris de neutrófilos ou quando, no contexto de nefrectomia ou mesmo necropsia, infecção é confirmada por anatomopatologia.&lt;/p&gt;
+
+&lt;p&gt;Considera-se infecção “provável”
+a presença de febre por pelo menos 3 dias, dor abdominal (geralmente bem
+localizada e em topografia de rim ou fígado) e aumento dos níveis de proteína C
+reativa (&amp;gt; 50 mg/l), associada à exclusão de sangramento cístico e de outras
+doenças que potencialmente resultem em febre e dor abdominal.&lt;/p&gt;
+
+&lt;p&gt;O exame de imagem de escolha para avaliação inicial é a TC de abdome,
+por sua capacidade de excluir diagnósticos diferenciais relevantes, como
+sangramento, nefrolitíase e outras doenças abdominais agudas. Embora o
+espessamento da parede cística e/ou borramento perilesional sugiram o
+diagnóstico de infecção em cisto, sua sensibilidade é de apenas 18 a 25%.&lt;/p&gt;
+
+&lt;p&gt;Nesse cenário, a tomografia por emissão de pósitrons/tomografia computadorizada
+(PET-CT) com 18flúor-deoxiglicose (18FDG) destaca-se em relação aos métodos
+de imagem convencionais, atingindo sensibilidade de 95 a 99%.&lt;/p&gt;
+
+&lt;h3 id=&quot;rastreamento-de-aneurismas&quot;&gt;Rastreamento de aneurismas&lt;/h3&gt;
+&lt;p&gt;Indicada para pacientes com boa expectativa de vida e com fatores de risco ou sinais clínicos de alerta.&lt;/p&gt;
+
+&lt;p&gt;A angiorressonância magnética de encéfalo constitui o método de escolha para rastreamento (3D TOF MRA, threedimensional time-of-flight magnetic
+resonance angiography) e não há necessidade do uso de contraste.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;h3 id=&quot;dor-crônica&quot;&gt;Dor crônica&lt;/h3&gt;
+&lt;p&gt;A dor renal é de difícil tratamento. Quando refratária, a dor renal crônica requer abordagem invasiva, como aspiração de cisto(s) seguida de esclerose ou fenestração de cistos, mais frequentemente via videolaparoscopia.&lt;/p&gt;
+
+&lt;p&gt;Nefrectomia, denervação renal e embolização renal compreendem procedimentos também descritos para tratamento de dor crônica, mas menos utilizados na prática clínica.&lt;/p&gt;
+
+&lt;h3 id=&quot;ruptura-do-cisto-e-sangramento&quot;&gt;Ruptura do cisto e sangramento&lt;/h3&gt;
+&lt;p&gt;O tratamento da hematúria macroscópica associada a ruptura de cisto inclui
+repouso, analgesia, suspensão provisória de IECA ou de bloqueadores dos receptores AT1 da angiotensina II (BRA) e, quando não contraindicada por insuficiência renal, hidratação.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;ácido tranexâmico&lt;/strong&gt; pode ser utilizado para controle de sangramento em pacientes sem resposta às medidas mencionadas.&lt;/p&gt;
+
+&lt;p&gt;Em geral, a &lt;strong&gt;nefrectomia&lt;/strong&gt; é indicada em casos refratários às medidas conservadoras e que evoluíram com necessidade de múltiplas transfusões e/ou instabilidade hemodinâmica. &lt;strong&gt;Embolização renal seletiva&lt;/strong&gt; pode ser considerada uma medida anterior à nefrectomia em serviços
+com experiência nessa abordagem.&lt;/p&gt;
+
+&lt;h3 id=&quot;nefrolitíase-1&quot;&gt;Nefrolitíase&lt;/h3&gt;
+&lt;p&gt;O tratamento clínico da nefrolitíase segue os mesmos princípios utilizados para a nefrolitíase
+em geral. Quando apropriadamente indicadas e realizadas em centros
+experientes, litotripsia extracorpórea, ureteroscopia flexível e nefrolitotomia
+percutânea não parecem estar associadas a um maior índice de complicações que
+em pacientes sem DRPAD.&lt;/p&gt;
+
+&lt;p&gt;Ver artigo sobre litíase renal.&lt;/p&gt;
+
+&lt;h3 id=&quot;itu-e-infecção-do-cisto&quot;&gt;ITU e infecção do cisto&lt;/h3&gt;
+&lt;p&gt;A maior parte dos pacientes apresenta resposta ao tratamento com antibióticos, sem exigir intervenções invasivas. Na suspeita de infecção em cisto,
+recomenda-se o início imediato de antibioticoterapia, sempre que possível após coleta de urocultura e hemocultura.&lt;/p&gt;
+
+&lt;p&gt;O antibiótico a ser empregado deve
+apresentar atividade bactericida contra as bactérias &lt;strong&gt;Gram negativas&lt;/strong&gt; de trato
+urinário e ser lipofílico, possibilitando a penetração e o acúmulo no cisto.&lt;/p&gt;
+
+&lt;p&gt;Desse modo, &lt;strong&gt;ciprofloxacino&lt;/strong&gt; ou &lt;strong&gt;sulfametoxazol-trimetoprima&lt;/strong&gt; constituem os medicamentos de escolha. &lt;strong&gt;Cloranfenicol&lt;/strong&gt;, um antibiótico que também compartilha as características mencionadas, é reservado para casos mais graves.&lt;/p&gt;
+
+&lt;p&gt;O tempo mínimo preconizado para tratamento
+antibiótico de infecção em cisto é de 4 a 6 semanas, podendo se estender
+dependendo do caso e de seu curso. A eficácia do tratamento baseia-se na
+remissão da febre, na normalização da proteína C reativa e em duas ou mais
+hemoculturas e/ou uroculturas negativas.&lt;/p&gt;
+
+&lt;p&gt;A maioria dos pacientes responde adequadamente a medidas
+terapêuticas não invasivas, porém aqueles associados a maior gravidade
+frequentemente exigem intervenção invasiva.&lt;/p&gt;
+
+&lt;p&gt;A identificação precisa do cisto acometido torna possível sua &lt;strong&gt;drenagem percutânea guiada por imagem&lt;/strong&gt;, procedimento de escolha nos casos que ainda não se encontram em TRS e apresentam infecção grave.&lt;/p&gt;
+
+&lt;h3 id=&quot;hipertensão&quot;&gt;Hipertensão&lt;/h3&gt;
+&lt;p&gt;Os resultados disponíveis sobre HAS na DRPAD apoiam a recomendação do uso de IECA (ou BRA) como primeira opção para o tratamento da HAS e a não recomendação da associação IECA/BRA.&lt;/p&gt;
+
+&lt;p&gt;Quanto for necessária para controle adequado da PA, recomendam-se a associação de IECA (ou BRA) com
+betabloqueador, diurético (se necessário) e, se o controle ainda for insuficiente,
+vasodilatadores.&lt;/p&gt;
+
+&lt;p&gt;O alvo inferior a &lt;strong&gt;110 × 75 mmHg&lt;/strong&gt;, baseado no bloqueio do SRAA, pode ser indicado em determinados pacientes, sobretudo jovens, saudáveis e com função renal relativamente preservada. Nos demais casos, recomenda-se um alvo pressórico inferior a &lt;strong&gt;130 × 80 mmHg&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:art&quot;&gt;
+      &lt;p&gt;Alves Everton Fernando, Tsuneto Luiza Tamie, Pelloso Sandra Marisa, Torres Paulo Roberto Aranha, Otto Guido Luis Gomes, Silva Adaelson Alves et al . Doenca renal policistica autossomica dominante em pacientes em hemodialise no sul do Brasil. J. Bras. Nefrol.  [Internet]. 2014  Mar [cited  2019  June  05] ;  36( 1 ): 18-25. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S0101-28002014000100018&amp;amp;lng=en.  http://dx.doi.org/10.5935/0101-2800.20140005. &lt;a href=&quot;#fnref:art&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:art:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:riella&quot;&gt;
+      &lt;p&gt;Riella 6ª edição &lt;a href=&quot;#fnref:riella&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Tocolíticos</title><link href="http://localhost:4000/2019/06/04/tocoliticos.html" rel="alternate" type="text/html" title="Tocolíticos" /><published>2019-06-04T00:00:00-03:00</published><updated>2019-06-04T00:00:00-03:00</updated><id>http://localhost:4000/2019/06/04/tocoliticos</id><content type="html" xml:base="http://localhost:4000/2019/06/04/tocoliticos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#nifedipina&quot; id=&quot;markdown-toc-nifedipina&quot;&gt;Nifedipina&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#salbutarmol&quot; id=&quot;markdown-toc-salbutarmol&quot;&gt;Salbutarmol&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#indometacina&quot; id=&quot;markdown-toc-indometacina&quot;&gt;Indometacina&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sulfato-de-magnésio&quot; id=&quot;markdown-toc-sulfato-de-magnésio&quot;&gt;Sulfato de magnésio&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;nifedipina&quot;&gt;Nifedipina&lt;/h2&gt;
+&lt;h2 id=&quot;salbutarmol&quot;&gt;Salbutarmol&lt;/h2&gt;
+&lt;h2 id=&quot;indometacina&quot;&gt;Indometacina&lt;/h2&gt;
+&lt;h2 id=&quot;sulfato-de-magnésio&quot;&gt;Sulfato de magnésio&lt;/h2&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Obstrução intestinal</title><link href="http://localhost:4000/neonatologia/2019/06/04/obstrucao-intestinal.html" rel="alternate" type="text/html" title="Obstrução intestinal" /><published>2019-06-04T00:00:00-03:00</published><updated>2019-06-04T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/04/obstrucao-intestinal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/04/obstrucao-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#embriologia&quot; id=&quot;markdown-toc-embriologia&quot;&gt;Embriologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#causas&quot; id=&quot;markdown-toc-causas&quot;&gt;Causas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#atresia-congênita-do-piloro&quot; id=&quot;markdown-toc-atresia-congênita-do-piloro&quot;&gt;Atresia congênita do piloro&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-1&quot; id=&quot;markdown-toc-quadro-clínico-1&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#etiopatogenia&quot; id=&quot;markdown-toc-etiopatogenia&quot;&gt;Etiopatogenia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#obstrução-duodenal&quot; id=&quot;markdown-toc-obstrução-duodenal&quot;&gt;Obstrução duodenal&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#etiopatogenia-1&quot; id=&quot;markdown-toc-etiopatogenia-1&quot;&gt;Etiopatogenia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-2&quot; id=&quot;markdown-toc-quadro-clínico-2&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#má-rotação-intestinal&quot; id=&quot;markdown-toc-má-rotação-intestinal&quot;&gt;Má rotação intestinal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#atresia-jejunoilear&quot; id=&quot;markdown-toc-atresia-jejunoilear&quot;&gt;Atresia jejunoilear&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#íleo-meconial&quot; id=&quot;markdown-toc-íleo-meconial&quot;&gt;Íleo meconial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vômitos (geralmente biliosos)
+    &lt;ul&gt;
+      &lt;li&gt;Hipovolemia e desidratação&lt;/li&gt;
+      &lt;li&gt;Desequilíbrio ácido-básico&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Distensão abdominal&lt;/li&gt;
+  &lt;li&gt;Desconforto respiratório (elevação do diafragma)&lt;/li&gt;
+  &lt;li&gt;Ausência de evacuação&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pode ocorrer proliferação bacteriana, dano à muscosa e proliferação de microorganismos pela corrente sanguínea. Resultando em perfuração intestinal e sepse.&lt;/p&gt;
+
+&lt;h2 id=&quot;embriologia&quot;&gt;Embriologia&lt;/h2&gt;
+&lt;p&gt;O período critico da embriogenese intestinal ocorre na 5ª semana de gestação, quando o intestino médio, que compreende o duodeno até a metade do cólon transverso, começa a crescer mais rápido do que o embrião.&lt;/p&gt;
+
+&lt;p&gt;Este intestino em crescimento se dirige à cavidade celômica onde seu ápice está conectado ao ducto onfalomesentérico. Com a continuidade do alongamento intestinal, todo o intestino irrigado pela artéria mesentérica superior se encontra fora da cavidade abdominal do embrião.&lt;/p&gt;
+
+&lt;p&gt;Durante a 10ª semana  o intestino retorna à cavidade abdominal.&lt;/p&gt;
+
+&lt;p&gt;As anormalidades nesse processo resultam em má rotação do intestino, ocasionando em obstrução.&lt;/p&gt;
+
+&lt;h2 id=&quot;causas&quot;&gt;Causas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fibrose cística do pâncreas&lt;/li&gt;
+  &lt;li&gt;Atresias do intestino&lt;/li&gt;
+  &lt;li&gt;Ausência congênita de células ganglionares nos plexos mioentéricos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;atresia-congênita-do-piloro&quot;&gt;Atresia congênita do piloro&lt;/h2&gt;
+&lt;p&gt;Ocorre em &amp;lt; 1% de todas as anomalias do trato gastrointestinal. Há suspeita que seja uma herança autossômica recessiva.&lt;/p&gt;
+
+&lt;h3 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Vômitos não biliosos&lt;/li&gt;
+  &lt;li&gt;Desidratação&lt;/li&gt;
+  &lt;li&gt;Desnutrição&lt;/li&gt;
+  &lt;li&gt;Desequilíbrio ácido-básico&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;etiopatogenia&quot;&gt;Etiopatogenia&lt;/h3&gt;
+&lt;p&gt;Há um sólido diafragma de mucosa que pode ser resultado de uma injúria vascular ou mecânica. Essa lesão tem de ser diferenciada da membrana antral perfurada, que causa obstrução parcial em crianças maiores e que pode ser confundida com estenose de piloro.&lt;/p&gt;
+
+&lt;h3 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Rx simples de abdome&lt;/strong&gt; evidencia estômago dilatado e ausência de ar distal.&lt;/p&gt;
+
+&lt;p&gt;Estudo constrastado do esôfago, estômago e duodeno (&lt;abbr title=&quot;Estudo constrastado do esôfago, estômago e duodeno&quot;&gt;EED&lt;/abbr&gt;) pode ser empregado.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;p&gt;É cirúrgico, mas antes fazer a hidratação e o controle dos eletrólitos.&lt;/p&gt;
+
+&lt;p&gt;Cirurgia: incisão vertical no local da oculsão do estômago e duodeno. Uma sutura horizontal é feita no sentido de ampliar a junção piloroduodenal.&lt;/p&gt;
+
+&lt;p&gt;Uma gastroduodenostomia está indicada somente quando o piloro e duodeno estão completamente separados, devendo-se manter uma drenagem gástrica com sonda.&lt;/p&gt;
+
+&lt;h2 id=&quot;obstrução-duodenal&quot;&gt;Obstrução duodenal&lt;/h2&gt;
+&lt;p&gt;Há associação entre a história de polidramnio e obstrução intestinal alta, observada em 50% dos casos. 30% dos RNs com essa patologia são portadores da síndrome de Down.&lt;/p&gt;
+
+&lt;p&gt;A obstrução pode ser completa ou incompleta e intrínseca ou extrínseca.&lt;/p&gt;
+
+&lt;h3 id=&quot;etiopatogenia-1&quot;&gt;Etiopatogenia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;associada a compressão extrínseca da parede duodenal&lt;/li&gt;
+  &lt;li&gt;Obstrução parcial pode ser associada a:&lt;/li&gt;
+  &lt;li&gt;bandas mesentéricas associadas a má rotação do colo&lt;/li&gt;
+  &lt;li&gt;veia porta anterior&lt;/li&gt;
+  &lt;li&gt;tecido pancreático  aberrante na parede duodenal&lt;/li&gt;
+  &lt;li&gt;pâncreas anular (a forma mais comum de compressão extrínseca do duodeno)&lt;/li&gt;
+  &lt;li&gt;Dividida em 3 tipos:&lt;/li&gt;
+  &lt;li&gt;Tipo I: produzida por diafragma ou membrana completos e intactos, formados de mucosa e submucosa&lt;/li&gt;
+  &lt;li&gt;Tipo II: constituída por dois terminais em fundo-cego do duodeno, unidos por um cordão fibroso e um mesentério intacto&lt;/li&gt;
+  &lt;li&gt;Tipo III: não há nenhum cordão fibroso conectando as porções terminais em fundo-cego do duodeno, com ausência do mesentério&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;quadro-clínico-2&quot;&gt;Quadro clínico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pode ser assintomático até a idade adulta dependendo do grau de obstrução&lt;/li&gt;
+  &lt;li&gt;Vômitos biliosos frequentemente nas primeiras horas de vida
+    &lt;ul&gt;
+      &lt;li&gt;O sinal mais comum e precoce&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Distensão abdominal é incomum&lt;/li&gt;
+  &lt;li&gt;A eliminação de mecônio vai depender se a obstrução é completa ou incompleta&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;USG pré-natal pode sugerir o diagnóstico
+    &lt;ul&gt;
+      &lt;li&gt;Estômado e primeira porção do duodeno dilatados em com líquido em seu interior&lt;/li&gt;
+      &lt;li&gt;Presença de polidramnio é fator de atenção&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rx de abdome
+    &lt;ul&gt;
+      &lt;li&gt;Sinal da dupla bolha: 1ª bolha (distensão gástrica) seguida de piloro e a 2ª bolha (primeira porção do duodeno dilatada)&lt;/li&gt;
+      &lt;li&gt;Não se observa ar no restante das alças&lt;/li&gt;
+      &lt;li&gt;Se ar no intestino delgado → complementar com &lt;abbr title=&quot;Estudo constrastado do esôfago, estômago e duodeno&quot;&gt;EED&lt;/abbr&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Indicação cirúrgica
+    &lt;ul&gt;
+      &lt;li&gt;Mas não é uma emergência, pode ser marcada para um melhor momento de condições clínicas&lt;/li&gt;
+      &lt;li&gt;Exceto na suspeita de volvo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;má-rotação-intestinal&quot;&gt;Má rotação intestinal&lt;/h2&gt;
+&lt;h2 id=&quot;atresia-jejunoilear&quot;&gt;Atresia jejunoilear&lt;/h2&gt;
+&lt;h2 id=&quot;íleo-meconial&quot;&gt;Íleo meconial&lt;/h2&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+&lt;ol&gt;
+  &lt;li&gt;Imipão&lt;/li&gt;
+  &lt;li&gt;ou&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Infecções cogênitas</title><link href="http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas.html" rel="alternate" type="text/html" title="Infecções cogênitas" /><published>2019-06-03T00:00:00-03:00</published><updated>2019-06-03T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#rubéola-congênita&quot; id=&quot;markdown-toc-rubéola-congênita&quot;&gt;Rubéola congênita&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
@@ -980,13 +1477,7 @@ aeração&lt;/li&gt;
       &lt;li&gt;Basófilos: 0 a 3% (0 a 200)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Eritrócitos H: 4,5 a 6,1 M: 4,0 a 5,4 Idosos &amp;gt; 70: 3,9 a 5,3 Hb H: 12,8 a 17,8 M: 11,6 a 15,6 Idosos &amp;gt; 70: 11,0 a 16,0 Ht H: 39 a 53 M: 36 a 48 Idosos &amp;gt; 70: 35-47 Plaquetas 150.000 a 400.000 Leucócitos: 3.600 a 11.000 Neutrófilos: 40 a 70% (1,550 a 6.800) Linfócitos: 20 a 50% (1.000 a 3.800) Monócitos: 2 a 10% (100 a 800) Eosinófilos: 1 a 7% (50 a 400) Basófilos: 0 a 3% (0 a 200)</summary></entry><entry><title type="html">Doenças da prostata</title><link href="http://localhost:4000/2019/06/01/as-primeiras-cesarias.html" rel="alternate" type="text/html" title="Doenças da prostata" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/2019/06/01/as-primeiras-cesarias</id><content type="html" xml:base="http://localhost:4000/2019/06/01/as-primeiras-cesarias.html">&lt;p&gt;Hoje acompanhei minha sexta cesárea e a cada nova continuo aprendendo.&lt;/p&gt;
-
-&lt;p&gt;Para clampear o cordão usa-se as hemostáticas sem dente e o corte é feito com a tesoura de metzembaum curva.&lt;/p&gt;
-
-&lt;p&gt;A Allis pode ser usada para clampear a aponeurose e ajudar em sua sutura, facilitando a tração e o campo de visão.&lt;/p&gt;
-
-&lt;p&gt;Também descobri que &lt;abbr title=&quot;Trabalho de parto prematuro&quot;&gt;TPP&lt;/abbr&gt; é uma indicação de antibioticoterapia. Normalmente usa-se a ampicilina. Faz sentido uma vez que infecção, como &lt;abbr title=&quot;Infecção do trato urinário&quot;&gt;ITU&lt;/abbr&gt;, é um importante fator de risco para &lt;abbr title=&quot;Trabalho de parto prematuro&quot;&gt;TPP&lt;/abbr&gt;.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Hoje acompanhei minha sexta cesárea e a cada nova continuo aprendendo.</summary></entry><entry><title type="html">Vitalidade fetal</title><link href="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html" rel="alternate" type="text/html" title="Vitalidade fetal" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Eritrócitos H: 4,5 a 6,1 M: 4,0 a 5,4 Idosos &amp;gt; 70: 3,9 a 5,3 Hb H: 12,8 a 17,8 M: 11,6 a 15,6 Idosos &amp;gt; 70: 11,0 a 16,0 Ht H: 39 a 53 M: 36 a 48 Idosos &amp;gt; 70: 35-47 Plaquetas 150.000 a 400.000 Leucócitos: 3.600 a 11.000 Neutrófilos: 40 a 70% (1,550 a 6.800) Linfócitos: 20 a 50% (1.000 a 3.800) Monócitos: 2 a 10% (100 a 800) Eosinófilos: 1 a 7% (50 a 400) Basófilos: 0 a 3% (0 a 200)</summary></entry><entry><title type="html">Vitalidade fetal</title><link href="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html" rel="alternate" type="text/html" title="Vitalidade fetal" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot; id=&quot;markdown-toc-condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot;&gt;Condições associadas a risco elevado perinatal que necessitam de avaliação anteparto&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#os-principais-testes-de-avaliação-anteparto&quot; id=&quot;markdown-toc-os-principais-testes-de-avaliação-anteparto&quot;&gt;Os principais testes de avaliação anteparto&lt;/a&gt;&lt;/li&gt;
@@ -1485,265 +1976,4 @@ hipótese de criptorquidia bilateral intra-abdominal ou anorquia (raro). Para is
       &lt;li&gt;Nos testículos não-palpáveis, técnicas diversificadas são utilizadas. Entre elas temos a inguinotomia exploradora com orquipexia em único estágio, podendo ainda fixarmos o testículo o mais próximo possível da bolsa escrotal, reabordando-o após 6 a 12 meses. O clampeamento dos vasos espermáticos (técnica de Fowler-Stephens) com incisão do testículo e observação de sangramento. Se positivo, os vasos são ligados e o testículo é abaixado até o escroto, nutrido pela artéria deferencial e testicular. O autotransplante testicular, por meio de anastomose microvascular dos vasos espermáticos com vasos epigástricos inferiores, é relatado na literatura, mas os resultados são controversos.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Tumores de testículo</title><link href="http://localhost:4000/urologia/2019/05/30/tumores-de-testiculo.html" rel="alternate" type="text/html" title="Tumores de testículo" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/urologia/2019/05/30/tumores-de-testiculo</id><content type="html" xml:base="http://localhost:4000/urologia/2019/05/30/tumores-de-testiculo.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#tumores-de-células-germinativas&quot; id=&quot;markdown-toc-tumores-de-células-germinativas&quot;&gt;Tumores de células germinativas&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#marcadores-tumorais&quot; id=&quot;markdown-toc-marcadores-tumorais&quot;&gt;Marcadores tumorais&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnótico-diferencial&quot; id=&quot;markdown-toc-diagnótico-diferencial&quot;&gt;Diagnótico diferencial&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tumores-de-células-germinativas&quot;&gt;Tumores de células germinativas&lt;/h2&gt;
-&lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Raros&lt;/li&gt;
-  &lt;li&gt;De todos os tumores testiculares primários, 90 a 95% são tumores de célulares germinativas
-    &lt;ul&gt;
-      &lt;li&gt;seminoma (é o tumor de células germinativas mais comum entre os tumores testiculares bilaterais primários)&lt;/li&gt;
-      &lt;li&gt;não seminoma
-        &lt;ul&gt;
-          &lt;li&gt;linfoma maligno é o tumor bilateral mais comum do testículo&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;os res­tantes são neoplasias não germinativas (células de Leydig, células de Sertoli, gonadoblastoma)&lt;/li&gt;
-  &lt;li&gt;↑em Brancos&lt;/li&gt;
-  &lt;li&gt;Mais comum do lado direito&lt;/li&gt;
-  &lt;li&gt;1-2% são bilaterais&lt;/li&gt;
-  &lt;li&gt;Associação com criptorquidia&lt;/li&gt;
-  &lt;li&gt;Aproximadamente 7 a 10% dos tumores testiculares desenvolvem-se em pacientes que têm his­tória de criptorquidia&lt;/li&gt;
-  &lt;li&gt;O risco relativo de malignidade é mais alto para os testículos intra-abdominais (1 em 20)&lt;/li&gt;
-  &lt;li&gt;e é significativamente mais baixo para o testículo inguinal (1 em 80).&lt;/li&gt;
-  &lt;li&gt;A colocação do testículo criptorquídeo na bolsa escrotal (&lt;strong&gt;orquidopexia&lt;/strong&gt;) diminui o risco de malignidade se for realizada antes da idade de 13 anos&lt;/li&gt;
-  &lt;li&gt;A administração de estrogênio exógeno à mãe durante a gra­videz tem sido associada a um risco relativo aumentado de tumo­res testiculares no feto&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;classificação&quot;&gt;Classificação&lt;/h3&gt;
-&lt;p&gt;Por meio da histologia, se dividem em semiomas e não semiomatosos que incluem os tumores embrionários, teratoma, coriocarcinoma e tumores mistos.&lt;/p&gt;
-
-&lt;h3 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h3&gt;
-&lt;p&gt;Durante o desenvolvimento embrionário, as células germinativas totipotentes podem percorrer vias normais de diferenciação
-e se tornar espermatócitos. Entretanto, se essas células germinativas totipotentes percorrerem vias de desenvolvimento anormais, desenvolvem-se o seminoma ou carcinomas embrionários (tu­mores de células totipotentes).&lt;/p&gt;
-
-&lt;p&gt;Note que os tumores do saco embrionário produzem a-fetoproteína (AFP), do mesmo modo que o saco embrionário produz AFP no desenvolvimento normal. De modo semelhante, o coriocarcinoma produz gonadotrofina coriônica humana (hCG),
-como a placenta normal o faz.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/urologia/tu-testiculos/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;patologia&quot;&gt;Patologia&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Semiomas (35%)
-    &lt;ul&gt;
-      &lt;li&gt;Dividi-se em:
-        &lt;ul&gt;
-          &lt;li&gt;Clássico (85%)&lt;/li&gt;
-          &lt;li&gt;Anaplásico (5-10%)&lt;/li&gt;
-          &lt;li&gt;Espermatócito (5-10%), mais comum em &amp;gt; 50 anos&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Carcinomas de células embrionárias (20%)
-    &lt;ul&gt;
-      &lt;li&gt;Tipo adulto&lt;/li&gt;
-      &lt;li&gt;Tipo infantil (tumor do saco embrionário), o tumor mais comum de lactentes e crianças maiores&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Teratoma (5%)
-    &lt;ul&gt;
-      &lt;li&gt;Tanto em crianças como em adultos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Coriocarcinoma (&amp;lt;1%)
-    &lt;ul&gt;
-      &lt;li&gt;Clinicamente, os coriocarcinomas se comportam de uma maneira agressiva, caracterizada por disseminação hematogênica precoce.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tipos de células mistas (40%)
-    &lt;ul&gt;
-      &lt;li&gt;Teratocarcinomas (25%)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Carcinoma in situ&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
-&lt;p&gt;O sintoma mais comum de câncer testicular é um &lt;strong&gt;aumento indolor do testículo&lt;/strong&gt;. O aumento geralmente é gradual, e uma sen­sação de peso no testículo não é incomum.&lt;/p&gt;
-
-&lt;p&gt;O atraso típico do tra­tamento a partir do reconhecimento inicial da lesão pelo paciente até a terapia definitiva (orquiectomia) varia de 3 a 6 meses. A du­ração do atraso correlaciona-se com a incidência de metástases. A importância da percepção do paciente e do autoexame é aparente.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dor testicular aguda é vista em aproximadamente 10% dos casos,
-    &lt;ul&gt;
-      &lt;li&gt;pode ser o resultado de hemorragia intratesticular ou infarto.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Uma tumoração testicular ou um aumento difuso é encon­trado na maioria dos casos.
-    &lt;ul&gt;
-      &lt;li&gt;Geralmente, a massa é firme e indo­lor,&lt;/li&gt;
-      &lt;li&gt;e o epidídimo deve ser facilmente separado dela.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Uma hidrocele pode acompanhar o tumor do testículo e ajudar a camuflá-lo.
-    &lt;ul&gt;
-      &lt;li&gt;A transiluminação da bolsa escrotal pode ajudar a distinguir en­tre essas entidades.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A palpação do abdome pode revelar doença retroperitoneal volumosa;&lt;/li&gt;
-  &lt;li&gt;uma avaliação dos gânglios supraclaviculares, escale­nos e inguinais deve ser feita.&lt;/li&gt;
-  &lt;li&gt;Ginecomastia está presente em 5% de todos os tumores de células germinativas, mas pode ocorrer em 30 a 50% dos tumores de células de Sertoli e Leydig.
-    &lt;ul&gt;
-      &lt;li&gt;Sua causa parece estar relacionada a múltiplas interações hormonais com ­ plexas, envolvendo testosterona, estrona, estradiol, prolactina e gonadotrofina coriônica humana (hCG).&lt;/li&gt;
-      &lt;li&gt;Hemoptise pode ser vista na doença pulmonar avançada.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Lab
-    &lt;ul&gt;
-      &lt;li&gt;Anemia na doença avançada&lt;/li&gt;
-      &lt;li&gt;Alteração enzimas hepáticas (metástase hepática)&lt;/li&gt;
-      &lt;li&gt;A avaliação da função renal (depura­ ção da creatinina) é obrigatória em pacientes com doença avan­çada que precisam de quimioterapia.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Imagem
-    &lt;ul&gt;
-      &lt;li&gt;USG da bolsa escrotal&lt;/li&gt;
-      &lt;li&gt;RX do tórax (PA e perfil) e TC do abdome e da pelve são usadas para avaliar os dois locais mais comuns de dissemina­ção metastática
-        &lt;ul&gt;
-          &lt;li&gt;pulmões e o retroperitônio&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;marcadores-tumorais&quot;&gt;Marcadores tumorais&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;AFP
-    &lt;ul&gt;
-      &lt;li&gt;nunca é encontrada em seminomas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;hCG
-    &lt;ul&gt;
-      &lt;li&gt;Um homem normal não deve ter níveis significativos de b-hCG.&lt;/li&gt;
-      &lt;li&gt;Pode estar alto em 7% dos semionomas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;desidrogenase láctica (LDH)
-    &lt;ul&gt;
-      &lt;li&gt;encontrada nor­malmente no músculo (liso, cardíaco, esquelético), fígado, rim e cérebro.&lt;/li&gt;
-      &lt;li&gt;Foi mostrado que a elevação de LDH total no soro, e em particular da isoenzima-I, correlaciona-se com a carga tumoral em NSGCTs.&lt;/li&gt;
-      &lt;li&gt;também pode estar elevada no seminoma.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/urologia/tu-testiculos/lab.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;diagnótico-diferencial&quot;&gt;Diagnótico diferencial&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Epidimitite&lt;/li&gt;
-  &lt;li&gt;Hidrocele&lt;/li&gt;
-  &lt;li&gt;Espermatocele&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/urologia/tu-testiculos/estadio.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;p&gt;A exploração inguinal com ligadura da vasculatura do cordão espermático e colocação do testículo no campo é a viga mestra da exploração para um possível tumor do testículo. Se o câncer não puder ser excluído pelo exame do testículo, uma or­quiectomia radical está indicada.&lt;/p&gt;
-
-&lt;p&gt;Abordagens escrotais e biópsias testiculares abertas devem ser evitadas. Uma terapia adicional
-depende das características histológicas do tumor, bem como do
-estágio clínico.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Dengue</title><link href="http://localhost:4000/infectologia/2019/05/29/dengue.html" rel="alternate" type="text/html" title="Dengue" /><published>2019-05-29T00:00:00-03:00</published><updated>2019-05-29T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/29/dengue</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/29/dengue.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#caso-clínico&quot; id=&quot;markdown-toc-caso-clínico&quot;&gt;Caso clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#objetivos&quot; id=&quot;markdown-toc-objetivos&quot;&gt;Objetivos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#dengue&quot; id=&quot;markdown-toc-dengue&quot;&gt;Dengue&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-diferencial&quot; id=&quot;markdown-toc-diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;caso-clínico&quot;&gt;Caso clínico&lt;/h2&gt;
-&lt;p&gt;M.A.S., 48 anos, feminino, médica, residente em Recife-PE. Procurou atendimento médico em 13/1/2019, relatando que
-há cerca de três dias iniciou com febre alta, cefaleia, artralgia e leve mialgia. Tomou analgésico e antitérmico por conta própria. No atendimento apresentava persistência da febre, anorexia, intensa astenia, dor abdominal, palidez acentuada e mal-estar geral. Refere vômitos e diarreia. Refere ainda deslocamento para zona rural (ecoturismo). Nega vacinação contra febre amarela.&lt;/p&gt;
-
-&lt;p&gt;Exame físico geral:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Desidratada (+/4+),&lt;/li&gt;
-  &lt;li&gt;PA 90X60 mm Hg&lt;/li&gt;
-  &lt;li&gt;Abdome doloroso à palpação em QSD&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;objetivos&quot;&gt;Objetivos&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Quais as principais hipóteses diagnósticas?
-    &lt;ul&gt;
-      &lt;li&gt;Colecistite aguda&lt;/li&gt;
-      &lt;li&gt;hepatite aguda&lt;/li&gt;
-      &lt;li&gt;dengue&lt;/li&gt;
-      &lt;li&gt;febre amarela&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quais exames complementares solicitar primeiramente?
-    &lt;ul&gt;
-      &lt;li&gt;Hemograma completo&lt;/li&gt;
-      &lt;li&gt;Urina de rotina&lt;/li&gt;
-      &lt;li&gt;Ultrassonografia abdominal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quais hipóteses você matém?
-    &lt;ul&gt;
-      &lt;li&gt;Hepatite&lt;/li&gt;
-      &lt;li&gt;Dengue&lt;/li&gt;
-      &lt;li&gt;Febre amarela (A imunocromatografia é um teste de triagem com baixa sensibilidade e especificidade necessita de confirmação por técnicas mais sensíveis. Ex: ELISA)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quais outros exames complementares você solicitaria?
-    &lt;ul&gt;
-      &lt;li&gt;Marcadores virais de hepatite&lt;/li&gt;
-      &lt;li&gt;IgM para febre amarela&lt;/li&gt;
-      &lt;li&gt;Gama GT&lt;/li&gt;
-      &lt;li&gt;Tempo de protrombina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/dengue/ref1.jpeg&quot; alt=&quot;img&quot; /&gt;
-&lt;img src=&quot;/assets/infectologia/dengue/ref2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;dengue&quot;&gt;Dengue&lt;/h2&gt;
-
-&lt;h3 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Prova do laço:&lt;/strong&gt; deve ser realizada na triagem, obrigatoriamente, em todo paciente com suspeita de dengue que não apresente sangramento espontâneo. Será positiva se houver &lt;strong&gt;20 ou mais petéquias em adultos&lt;/strong&gt; e &lt;strong&gt;10 ou mais em crianças&lt;/strong&gt;. Pode ser negativa em obesos e durante o choque.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dengue com sinais de alarme:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Vômitos persistentes&lt;/li&gt;
-  &lt;li&gt;Dor abdominal intensa (referida ou à palpação) e contínua&lt;/li&gt;
-  &lt;li&gt;Acúmulo de líquidos (ascite, derrame pleural, derrame pericárdico)&lt;/li&gt;
-  &lt;li&gt;Hepatomegalia maior do que 2 cm abaixo do rebordo costal&lt;/li&gt;
-  &lt;li&gt;Hipotensão postural e/ou lipotimia&lt;/li&gt;
-  &lt;li&gt;Letargia e/ou irritabilidade&lt;/li&gt;
-  &lt;li&gt;Aumento progressivo do hematócrito&lt;/li&gt;
-  &lt;li&gt;Sangramento de mucosa&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/dengue/dd.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
