@@ -1,13 +1,11 @@
 ---
 title: Doença renal policística autossômica dominante
 categories: nefrologia
-layout: post
-author: Filipe Mosca
+slug: doenca-renal-policistica
 ---
 
 1. Sumário
 {:toc}
-
 
 A Doença Renal Policística Autossômica Dominante (DRPAD) é a enfermidade renal hereditária mais comum em seres humanos.[^art]
 
@@ -158,8 +156,30 @@ familiar positiva. Diversas doenças genéticas ou adquiridas, contudo, também
 cursam com cistos renais, devendo ser consideradas no diagnóstico diferencial
 em casos específicos.
 
+O diagnóstico de DRPAD tem base na história familiar positiva e é estabelecido por meio de exames de imagem. O exame diagnóstico de um indivíduo com risco de 50% de apresentar a doença pode ser feito por ultrassonografia, TC ou RM renal, identificando-se cistos múltiplos que aumentam em número e tamanho com a idade.
+
+A TC é mais apropriada para a avaliação de cistos complexos e nefrolitíase na
+DRPAD, enquanto a RM constitui o método de primeira escolha para a
+quantificação do volume renal.
+
+Em 2009, foram estabelecidos critérios diagnósticos ultrassonográficos
+independentes do locus gênico envolvido, aplicáveis a indivíduos sob risco,
+membros de família afetada.
+
+Segundo esses critérios:
+
+* a presença uni ou bilateral de três ou mais cistos é suficiente para estabelecer o diagnóstico em indivíduos de 15 a 39 anos;
+* dois ou mais cistos em cada rim entre 40 e 59 anos;
+* quatro ou mais cistos em cada rim para 60 anos ou mais.
+
+![img](/assets/nefrologia/drpad/diag1.jpeg)
+![img](/assets/nefrologia/drpad/diag2.jpeg)
 ![img](/assets/nefrologia/drpad/tc.jpeg)
 ![img](/assets/nefrologia/drpad/pet.jpeg)
+
+O diagnóstico molecular pode ser feito por exame de ligação gênica,
+exame gênico direto e, mais recentemente, protocolos envolvendo
+sequenciamento de DNA de nova geração.
 
 ### Nefrolitíase
 TC helicoidal sem contraste representa o exame de escolha para o diagnóstico da **nefrolitíase** associada.
@@ -190,6 +210,37 @@ A angiorressonância magnética de encéfalo constitui o método de escolha para
 resonance angiography) e não há necessidade do uso de contraste.
 
 ## Tratamento
+### Tratamento específico
+**Antagonistas do receptor V2 da vasopressina** (RV2VP) mostraram-se
+capazes de diminuir os níveis de cAMP nos ductos coletores, segmento no qual o
+processo de formação cística predomina na DRPAD.
+
+* Tolvaptana: Ainda não aprovado no Brasil
+
+Recomendado a **elevação da ingestão de água para pacientes com DRPAD**. A orientação predominante objetiva uma osmolalidade urinária média de 250 mOsm/kg H2O em urina de 24 h, alvo geralmente
+alcançado com um débito urinário de 2,5 a 4,0 l por dia. Essa abordagem, entretanto, é contraindicada nos seguintes casos (Vale lembrar que o adequado monitoramento do sódio sérico integra esse procedimento):
+
+* Pacientes com TFG ≤ 30 ml/min/1,73 m²
+* Obstrução moderada a grave ao fluxo urinário
+* Quando o risco de hiponatremia é elevado, por medicamentos ou situações clínicas com redução da depuração de água livre.
+
+Outra medida recentemente confirmada como benéfica no manejo de pacientes com DRPAD é a **restrição dietética de sal**, cuja recomendação de ingestão diária compreende **4 a 6 g**.
+
+Os **análogos da somatostatina** exercem efeito inibitório sobre a geração de
+cAMP, o que lhes possibilita inibir a secreção de cloreto e a proliferação celular em cistos hepáticos e renais. Ex: octreotida e lanreotida.
+
+Um estudo recente, controlado e randomizado, mostrou que o tratamento
+com **pravastatina** por 3 anos resultou em menor elevação percentual do VRT
+ajustado por altura. A população analisada incluiu crianças e adultos jovens com DRPAD com TFGe > 80 ml/min/1,73 m² SC e em tratamento com lisinopril.
+Vale destacar que esse efeito benéfico ocorreu independentemente dos níveis de
+colesterol. Tais resultados abrem perspectivas promissoras para o uso de
+**estatinas** na DRPAD.
+
+inibição da atividade tirosinoquinase do receptor do fator de crescimento
+epidérmico....
+
+E muito mais coisa ainda em estudo. Depois ver isso mais detalhadamente!
+
 ### Dor crônica
 A dor renal é de difícil tratamento. Quando refratária, a dor renal crônica requer abordagem invasiva, como aspiração de cisto(s) seguida de esclerose ou fenestração de cistos, mais frequentemente via videolaparoscopia.
 
@@ -245,6 +296,6 @@ vasodilatadores.
 O alvo inferior a **110 × 75 mmHg**, baseado no bloqueio do SRAA, pode ser indicado em determinados pacientes, sobretudo jovens, saudáveis e com função renal relativamente preservada. Nos demais casos, recomenda-se um alvo pressórico inferior a **130 × 80 mmHg**.
 
 ## Referências
-[^art]: Alves Everton Fernando, Tsuneto Luiza Tamie, Pelloso Sandra Marisa, Torres Paulo Roberto Aranha, Otto Guido Luis Gomes, Silva Adaelson Alves et al . Doenca renal policistica autossomica dominante em pacientes em hemodialise no sul do Brasil. J. Bras. Nefrol.  [Internet]. 2014  Mar [cited  2019  June  05] ;  36( 1 ): 18-25. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-28002014000100018&lng=en.  http://dx.doi.org/10.5935/0101-2800.20140005.
+[^art]: Alves Everton Fernando, Tsuneto Luiza Tamie, Pelloso Sandra Marisa, Torres Paulo Roberto Aranha, Otto Guido Luis Gomes, Silva Adaelson Alves et al. Doenca renal policistica autossomica dominante em pacientes em hemodialise no sul do Brasil. J. Bras. Nefrol. [Internet]. 2014 Mar [cited  2019  June  05]; 36(1):18-25. Available from: [here](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-28002014000100018&lng=en). DOI: [10.5935/0101-2800.20140005](http://dx.doi.org/10.5935/0101-2800.20140005).
 
 [^riella]: Riella 6ª edição

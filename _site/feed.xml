@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-05T18:42:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença renal policística autossômica dominante</title><link href="http://localhost:4000/nefrologia/2019/06/05/doenca-renal-policistica.html" rel="alternate" type="text/html" title="Doença renal policística autossômica dominante" /><published>2019-06-05T00:00:00-03:00</published><updated>2019-06-05T00:00:00-03:00</updated><id>http://localhost:4000/nefrologia/2019/06/05/doenca-renal-policistica</id><content type="html" xml:base="http://localhost:4000/nefrologia/2019/06/05/doenca-renal-policistica.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-05T23:19:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença renal policística autossômica dominante</title><link href="http://localhost:4000/doenca-renal-policistica" rel="alternate" type="text/html" title="Doença renal policística autossômica dominante" /><published>2019-06-05T00:00:00-03:00</published><updated>2019-06-05T00:00:00-03:00</updated><id>http://localhost:4000/doenca-renal-policistica</id><content type="html" xml:base="http://localhost:4000/doenca-renal-policistica">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
@@ -10,6 +10,7 @@
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-específico&quot; id=&quot;markdown-toc-tratamento-específico&quot;&gt;Tratamento específico&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#dor-crônica&quot; id=&quot;markdown-toc-dor-crônica&quot;&gt;Dor crônica&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#ruptura-do-cisto-e-sangramento&quot; id=&quot;markdown-toc-ruptura-do-cisto-e-sangramento&quot;&gt;Ruptura do cisto e sangramento&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#nefrolitíase-1&quot; id=&quot;markdown-toc-nefrolitíase-1&quot;&gt;Nefrolitíase&lt;/a&gt;&lt;/li&gt;
@@ -241,8 +242,32 @@ familiar positiva. Diversas doenças genéticas ou adquiridas, contudo, também
 cursam com cistos renais, devendo ser consideradas no diagnóstico diferencial
 em casos específicos.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/nefrologia/drpad/tc.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;p&gt;O diagnóstico de DRPAD tem base na história familiar positiva e é estabelecido por meio de exames de imagem. O exame diagnóstico de um indivíduo com risco de 50% de apresentar a doença pode ser feito por ultrassonografia, TC ou RM renal, identificando-se cistos múltiplos que aumentam em número e tamanho com a idade.&lt;/p&gt;
+
+&lt;p&gt;A TC é mais apropriada para a avaliação de cistos complexos e nefrolitíase na
+DRPAD, enquanto a RM constitui o método de primeira escolha para a
+quantificação do volume renal.&lt;/p&gt;
+
+&lt;p&gt;Em 2009, foram estabelecidos critérios diagnósticos ultrassonográficos
+independentes do locus gênico envolvido, aplicáveis a indivíduos sob risco,
+membros de família afetada.&lt;/p&gt;
+
+&lt;p&gt;Segundo esses critérios:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;a presença uni ou bilateral de três ou mais cistos é suficiente para estabelecer o diagnóstico em indivíduos de 15 a 39 anos;&lt;/li&gt;
+  &lt;li&gt;dois ou mais cistos em cada rim entre 40 e 59 anos;&lt;/li&gt;
+  &lt;li&gt;quatro ou mais cistos em cada rim para 60 anos ou mais.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/nefrologia/drpad/diag1.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/nefrologia/drpad/diag2.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/nefrologia/drpad/tc.jpeg&quot; alt=&quot;img&quot; /&gt;
 &lt;img src=&quot;/assets/nefrologia/drpad/pet.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O diagnóstico molecular pode ser feito por exame de ligação gênica,
+exame gênico direto e, mais recentemente, protocolos envolvendo
+sequenciamento de DNA de nova geração.&lt;/p&gt;
 
 &lt;h3 id=&quot;nefrolitíase&quot;&gt;Nefrolitíase&lt;/h3&gt;
 &lt;p&gt;TC helicoidal sem contraste representa o exame de escolha para o diagnóstico da &lt;strong&gt;nefrolitíase&lt;/strong&gt; associada.&lt;/p&gt;
@@ -273,6 +298,41 @@ de imagem convencionais, atingindo sensibilidade de 95 a 99%.&lt;/p&gt;
 resonance angiography) e não há necessidade do uso de contraste.&lt;/p&gt;
 
 &lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;h3 id=&quot;tratamento-específico&quot;&gt;Tratamento específico&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Antagonistas do receptor V2 da vasopressina&lt;/strong&gt; (RV2VP) mostraram-se
+capazes de diminuir os níveis de cAMP nos ductos coletores, segmento no qual o
+processo de formação cística predomina na DRPAD.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tolvaptana: Ainda não aprovado no Brasil&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Recomendado a &lt;strong&gt;elevação da ingestão de água para pacientes com DRPAD&lt;/strong&gt;. A orientação predominante objetiva uma osmolalidade urinária média de 250 mOsm/kg H2O em urina de 24 h, alvo geralmente
+alcançado com um débito urinário de 2,5 a 4,0 l por dia. Essa abordagem, entretanto, é contraindicada nos seguintes casos (Vale lembrar que o adequado monitoramento do sódio sérico integra esse procedimento):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pacientes com TFG ≤ 30 ml/min/1,73 m²&lt;/li&gt;
+  &lt;li&gt;Obstrução moderada a grave ao fluxo urinário&lt;/li&gt;
+  &lt;li&gt;Quando o risco de hiponatremia é elevado, por medicamentos ou situações clínicas com redução da depuração de água livre.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Outra medida recentemente confirmada como benéfica no manejo de pacientes com DRPAD é a &lt;strong&gt;restrição dietética de sal&lt;/strong&gt;, cuja recomendação de ingestão diária compreende &lt;strong&gt;4 a 6 g&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Os &lt;strong&gt;análogos da somatostatina&lt;/strong&gt; exercem efeito inibitório sobre a geração de
+cAMP, o que lhes possibilita inibir a secreção de cloreto e a proliferação celular em cistos hepáticos e renais. Ex: octreotida e lanreotida.&lt;/p&gt;
+
+&lt;p&gt;Um estudo recente, controlado e randomizado, mostrou que o tratamento
+com &lt;strong&gt;pravastatina&lt;/strong&gt; por 3 anos resultou em menor elevação percentual do VRT
+ajustado por altura. A população analisada incluiu crianças e adultos jovens com DRPAD com TFGe &amp;gt; 80 ml/min/1,73 m² SC e em tratamento com lisinopril.
+Vale destacar que esse efeito benéfico ocorreu independentemente dos níveis de
+colesterol. Tais resultados abrem perspectivas promissoras para o uso de
+&lt;strong&gt;estatinas&lt;/strong&gt; na DRPAD.&lt;/p&gt;
+
+&lt;p&gt;inibição da atividade tirosinoquinase do receptor do fator de crescimento
+epidérmico….&lt;/p&gt;
+
+&lt;p&gt;E muito mais coisa ainda em estudo. Depois ver isso mais detalhadamente!&lt;/p&gt;
+
 &lt;h3 id=&quot;dor-crônica&quot;&gt;Dor crônica&lt;/h3&gt;
 &lt;p&gt;A dor renal é de difícil tratamento. Quando refratária, a dor renal crônica requer abordagem invasiva, como aspiração de cisto(s) seguida de esclerose ou fenestração de cistos, mais frequentemente via videolaparoscopia.&lt;/p&gt;
 
@@ -332,13 +392,13 @@ vasodilatadores.&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:art&quot;&gt;
-      &lt;p&gt;Alves Everton Fernando, Tsuneto Luiza Tamie, Pelloso Sandra Marisa, Torres Paulo Roberto Aranha, Otto Guido Luis Gomes, Silva Adaelson Alves et al . Doenca renal policistica autossomica dominante em pacientes em hemodialise no sul do Brasil. J. Bras. Nefrol.  [Internet]. 2014  Mar [cited  2019  June  05] ;  36( 1 ): 18-25. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S0101-28002014000100018&amp;amp;lng=en.  http://dx.doi.org/10.5935/0101-2800.20140005. &lt;a href=&quot;#fnref:art&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:art:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Alves Everton Fernando, Tsuneto Luiza Tamie, Pelloso Sandra Marisa, Torres Paulo Roberto Aranha, Otto Guido Luis Gomes, Silva Adaelson Alves et al. Doenca renal policistica autossomica dominante em pacientes em hemodialise no sul do Brasil. J. Bras. Nefrol. [Internet]. 2014 Mar [cited  2019  June  05]; 36(1):18-25. Available from: &lt;a href=&quot;http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S0101-28002014000100018&amp;amp;lng=en&quot;&gt;here&lt;/a&gt;. DOI: &lt;a href=&quot;http://dx.doi.org/10.5935/0101-2800.20140005&quot;&gt;10.5935/0101-2800.20140005&lt;/a&gt;. &lt;a href=&quot;#fnref:art&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:art:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:riella&quot;&gt;
       &lt;p&gt;Riella 6ª edição &lt;a href=&quot;#fnref:riella&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Tocolíticos</title><link href="http://localhost:4000/2019/06/04/tocoliticos.html" rel="alternate" type="text/html" title="Tocolíticos" /><published>2019-06-04T00:00:00-03:00</published><updated>2019-06-04T00:00:00-03:00</updated><id>http://localhost:4000/2019/06/04/tocoliticos</id><content type="html" xml:base="http://localhost:4000/2019/06/04/tocoliticos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Tocolíticos</title><link href="http://localhost:4000/tocoliticos" rel="alternate" type="text/html" title="Tocolíticos" /><published>2019-06-04T00:00:00-03:00</published><updated>2019-06-04T00:00:00-03:00</updated><id>http://localhost:4000/tocoliticos</id><content type="html" xml:base="http://localhost:4000/tocoliticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#nifedipina&quot; id=&quot;markdown-toc-nifedipina&quot;&gt;Nifedipina&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#salbutarmol&quot; id=&quot;markdown-toc-salbutarmol&quot;&gt;Salbutarmol&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#indometacina&quot; id=&quot;markdown-toc-indometacina&quot;&gt;Indometacina&lt;/a&gt;&lt;/li&gt;
@@ -348,7 +408,7 @@ vasodilatadores.&lt;/p&gt;
 &lt;h2 id=&quot;nifedipina&quot;&gt;Nifedipina&lt;/h2&gt;
 &lt;h2 id=&quot;salbutarmol&quot;&gt;Salbutarmol&lt;/h2&gt;
 &lt;h2 id=&quot;indometacina&quot;&gt;Indometacina&lt;/h2&gt;
-&lt;h2 id=&quot;sulfato-de-magnésio&quot;&gt;Sulfato de magnésio&lt;/h2&gt;</content><author><name></name></author><summary type="html"></summary></entry><entry><title type="html">Obstrução intestinal</title><link href="http://localhost:4000/neonatologia/2019/06/04/obstrucao-intestinal.html" rel="alternate" type="text/html" title="Obstrução intestinal" /><published>2019-06-04T00:00:00-03:00</published><updated>2019-06-04T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/04/obstrucao-intestinal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/04/obstrucao-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;h2 id=&quot;sulfato-de-magnésio&quot;&gt;Sulfato de magnésio&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Obstrução intestinal</title><link href="http://localhost:4000/obstrucao-intestinal" rel="alternate" type="text/html" title="Obstrução intestinal" /><published>2019-06-04T00:00:00-03:00</published><updated>2019-06-04T00:00:00-03:00</updated><id>http://localhost:4000/obstrucao-intestinal</id><content type="html" xml:base="http://localhost:4000/obstrucao-intestinal">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#embriologia&quot; id=&quot;markdown-toc-embriologia&quot;&gt;Embriologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#causas&quot; id=&quot;markdown-toc-causas&quot;&gt;Causas&lt;/a&gt;&lt;/li&gt;
@@ -495,7 +555,7 @@ vasodilatadores.&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;Imipão&lt;/li&gt;
   &lt;li&gt;ou&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Infecções cogênitas</title><link href="http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas.html" rel="alternate" type="text/html" title="Infecções cogênitas" /><published>2019-06-03T00:00:00-03:00</published><updated>2019-06-03T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/03/infeccoes-congenitas.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/ol&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Infecções cogênitas</title><link href="http://localhost:4000/infeccoes-congenitas" rel="alternate" type="text/html" title="Infecções cogênitas" /><published>2019-06-03T00:00:00-03:00</published><updated>2019-06-03T00:00:00-03:00</updated><id>http://localhost:4000/infeccoes-congenitas</id><content type="html" xml:base="http://localhost:4000/infeccoes-congenitas">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#rubéola-congênita&quot; id=&quot;markdown-toc-rubéola-congênita&quot;&gt;Rubéola congênita&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
@@ -524,7 +584,7 @@ vasodilatadores.&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;citomegalovirose&quot;&gt;Citomegalovirose&lt;/h2&gt;
-&lt;p&gt;##&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Sangramento uterino disfuncional</title><link href="http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html" rel="alternate" type="text/html" title="Sangramento uterino disfuncional" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional</id><content type="html" xml:base="http://localhost:4000/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;##&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Sangramento uterino disfuncional</title><link href="http://localhost:4000/sangramento-uterino-disfuncional" rel="alternate" type="text/html" title="Sangramento uterino disfuncional" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/sangramento-uterino-disfuncional</id><content type="html" xml:base="http://localhost:4000/sangramento-uterino-disfuncional">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#anamnese&quot; id=&quot;markdown-toc-anamnese&quot;&gt;Anamnese&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
@@ -799,7 +859,7 @@ orais, progestágenos, DIU medicado com progestágeno, agentes antifibrinolític
 tranexâmico e seus precursores), anti-inflamatórios não esteróides, ablação endometrial
 histeroscópica ou outros métodos de destruição endometrial e histerectomia.&lt;/p&gt;
 
-&lt;p&gt;Os DIUs medicados com progestagênio são alternativas mais recentes e talvez o tratamento clínico de maior eficácia no tratamento do SUA-endometrial.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Parto prematuro</title><link href="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html" rel="alternate" type="text/html" title="Parto prematuro" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/2019/06/02/parto-prematuro</id><content type="html" xml:base="http://localhost:4000/obstetricia/2019/06/02/parto-prematuro.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;Os DIUs medicados com progestagênio são alternativas mais recentes e talvez o tratamento clínico de maior eficácia no tratamento do SUA-endometrial.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Parto prematuro</title><link href="http://localhost:4000/parto-prematuro" rel="alternate" type="text/html" title="Parto prematuro" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/parto-prematuro</id><content type="html" xml:base="http://localhost:4000/parto-prematuro">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
@@ -1441,7 +1501,7 @@ aeração&lt;/li&gt;
       &lt;p&gt;Protocolo CISAM 2019 &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Hemograma</title><link href="http://localhost:4000/refs-rapidas/2019/06/02/hemograma.html" rel="alternate" type="text/html" title="Hemograma" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/refs-rapidas/2019/06/02/hemograma</id><content type="html" xml:base="http://localhost:4000/refs-rapidas/2019/06/02/hemograma.html">&lt;ul&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Hemograma</title><link href="http://localhost:4000/hemograma" rel="alternate" type="text/html" title="Hemograma" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/hemograma</id><content type="html" xml:base="http://localhost:4000/hemograma">&lt;ul&gt;
   &lt;li&gt;Eritrócitos
     &lt;ul&gt;
       &lt;li&gt;H: 4,5 a 6,1&lt;/li&gt;
@@ -1477,7 +1537,7 @@ aeração&lt;/li&gt;
       &lt;li&gt;Basófilos: 0 a 3% (0 a 200)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Eritrócitos H: 4,5 a 6,1 M: 4,0 a 5,4 Idosos &amp;gt; 70: 3,9 a 5,3 Hb H: 12,8 a 17,8 M: 11,6 a 15,6 Idosos &amp;gt; 70: 11,0 a 16,0 Ht H: 39 a 53 M: 36 a 48 Idosos &amp;gt; 70: 35-47 Plaquetas 150.000 a 400.000 Leucócitos: 3.600 a 11.000 Neutrófilos: 40 a 70% (1,550 a 6.800) Linfócitos: 20 a 50% (1.000 a 3.800) Monócitos: 2 a 10% (100 a 800) Eosinófilos: 1 a 7% (50 a 400) Basófilos: 0 a 3% (0 a 200)</summary></entry><entry><title type="html">Vitalidade fetal</title><link href="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html" rel="alternate" type="text/html" title="Vitalidade fetal" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal</id><content type="html" xml:base="http://localhost:4000/neonatologia/2019/06/01/vitalidade-fetal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html">Eritrócitos H: 4,5 a 6,1 M: 4,0 a 5,4 Idosos &amp;gt; 70: 3,9 a 5,3 Hb H: 12,8 a 17,8 M: 11,6 a 15,6 Idosos &amp;gt; 70: 11,0 a 16,0 Ht H: 39 a 53 M: 36 a 48 Idosos &amp;gt; 70: 35-47 Plaquetas 150.000 a 400.000 Leucócitos: 3.600 a 11.000 Neutrófilos: 40 a 70% (1,550 a 6.800) Linfócitos: 20 a 50% (1.000 a 3.800) Monócitos: 2 a 10% (100 a 800) Eosinófilos: 1 a 7% (50 a 400) Basófilos: 0 a 3% (0 a 200)</summary></entry><entry><title type="html">Vitalidade fetal</title><link href="http://localhost:4000/vitalidade-fetal" rel="alternate" type="text/html" title="Vitalidade fetal" /><published>2019-06-01T00:00:00-03:00</published><updated>2019-06-01T00:00:00-03:00</updated><id>http://localhost:4000/vitalidade-fetal</id><content type="html" xml:base="http://localhost:4000/vitalidade-fetal">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot; id=&quot;markdown-toc-condições-associadas-a-risco-elevado-perinatal-que-necessitam-de-avaliação-anteparto&quot;&gt;Condições associadas a risco elevado perinatal que necessitam de avaliação anteparto&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#os-principais-testes-de-avaliação-anteparto&quot; id=&quot;markdown-toc-os-principais-testes-de-avaliação-anteparto&quot;&gt;Os principais testes de avaliação anteparto&lt;/a&gt;&lt;/li&gt;
@@ -1705,7 +1765,7 @@ pressão de enchimento atrial direita e a resistência ao enchimento venoso. Tal
 reflete no ducto venoso que exibe padrão zero/reverso o, à semelhança da artéria umbilical, durante
 a contração atrial (ponto a), achado altamente relacionado com iminente asfixia fetal. Por fim, o aumento da pressão venosa sistêmica conduz a dilatação máxima do ducto
 venoso e transmissão direta do impulso cardíaco à veia umbilical, causando pulsação nesse vaso.
-A pulsação na veia umbilical está intimamente relacionada com o estágio terminal do feto.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Exame do LCR</title><link href="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html" rel="alternate" type="text/html" title="Exame do LCR" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/2019/05/30/exame-lcr</id><content type="html" xml:base="http://localhost:4000/infectologia/2019/05/30/exame-lcr.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+A pulsação na veia umbilical está intimamente relacionada com o estágio terminal do feto.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Exame do LCR</title><link href="http://localhost:4000/exame-lcr" rel="alternate" type="text/html" title="Exame do LCR" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/exame-lcr</id><content type="html" xml:base="http://localhost:4000/exame-lcr">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-agudos&quot; id=&quot;markdown-toc-processos-infecciosos-agudos&quot;&gt;Processos infecciosos agudos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-subagudos&quot; id=&quot;markdown-toc-processos-infecciosos-subagudos&quot;&gt;Processos infecciosos subagudos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-crônicos&quot; id=&quot;markdown-toc-processos-infecciosos-crônicos&quot;&gt;Processos infecciosos crônicos&lt;/a&gt;    &lt;ul&gt;
@@ -1769,7 +1829,7 @@ exames imunológicos. Exceção deve ser feita à &lt;strong&gt;meningite cripto
 &lt;h3 id=&quot;neurocisticercose&quot;&gt;Neurocisticercose&lt;/h3&gt;
 &lt;h3 id=&quot;neurossífilis&quot;&gt;Neurossífilis&lt;/h3&gt;
 &lt;h3 id=&quot;infecção-pelo-hiv&quot;&gt;Infecção pelo HIV&lt;/h3&gt;
-&lt;h3 id=&quot;doença-priônica&quot;&gt;Doença priônica&lt;/h3&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Alterações do conteúdo escrotal</title><link href="http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais.html" rel="alternate" type="text/html" title="Alterações do conteúdo escrotal" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais</id><content type="html" xml:base="http://localhost:4000/urologia/2019/05/30/alteracoes-escrotais.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;h3 id=&quot;doença-priônica&quot;&gt;Doença priônica&lt;/h3&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Alterações do conteúdo escrotal</title><link href="http://localhost:4000/alteracoes-escrotais" rel="alternate" type="text/html" title="Alterações do conteúdo escrotal" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/alteracoes-escrotais</id><content type="html" xml:base="http://localhost:4000/alteracoes-escrotais">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#hidrocele&quot; id=&quot;markdown-toc-hidrocele&quot;&gt;Hidrocele&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#hidrocele-simples&quot; id=&quot;markdown-toc-hidrocele-simples&quot;&gt;Hidrocele simples&lt;/a&gt;        &lt;ul&gt;
           &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;

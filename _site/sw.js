@@ -29,57 +29,57 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
-        '/nefrologia/2019/06/05/doenca-renal-policistica.html',
+        '/doenca-renal-policistica',
       
-        '/neonatologia/2019/06/04/obstrucao-intestinal.html',
+        '/obstrucao-intestinal',
       
-        '/2019/06/04/tocoliticos.html',
+        '/tocoliticos',
       
-        '/neonatologia/2019/06/03/infeccoes-congenitas.html',
+        '/infeccoes-congenitas',
       
-        '/refs-rapidas/2019/06/02/hemograma.html',
+        '/hemograma',
       
-        '/obstetricia/2019/06/02/parto-prematuro.html',
+        '/parto-prematuro',
       
-        '/ginecologia/2019/06/02/sangramento-uterino-disfuncional.html',
+        '/sangramento-uterino-disfuncional',
       
-        '/neonatologia/2019/06/01/vitalidade-fetal.html',
+        '/vitalidade-fetal',
       
-        '/urologia/2019/05/30/tumores-de-testiculo.html',
+        '/tumores-de-testiculo',
       
-        '/urologia/2019/05/30/alteracoes-escrotais.html',
+        '/alteracoes-escrotais',
       
-        '/infectologia/2019/05/30/exame-lcr.html',
+        '/exame-lcr',
       
-        '/infectologia/2019/05/29/neurotoxoplasmose.html',
+        '/neurotoxoplasmose',
       
-        '/infectologia/2019/05/29/dengue.html',
+        '/dengue',
       
-        '/neonatologia/2019/05/27/vomitos-no-rn.html',
+        '/vomitos-no-rn',
       
-        '/ginecologia/2019/05/27/anovulacao-cronica.html',
+        '/anovulacao-cronica',
       
-        '/obstetricia/2019/05/25/rpmo.html',
+        '/rpmo',
       
-        '/obstetricia/2019/05/25/guia-do-plantonista.html',
+        '/guia-do-plantonista',
       
-        '/obstetricia/2019/05/23/vias-arereas-e-iot.html',
+        '/vias-arereas-e-iot',
       
-        '/2019/05/22/dispneia-de-causa-cirurgica.html',
+        '/dispneia-de-causa-cirurgica',
       
-        '/nefrologia/2019/05/22/nefropatia-diabetica.html',
+        '/nefropatia-diabetica',
       
-        '/obstetricia/2019/05/21/pp.html',
+        '/pp',
       
-        '/obstetricia/2019/05/21/dpp.html',
+        '/dpp',
       
-        '/obstetricia/2019/05/20/sangramento-segundo-trimestre.html',
+        '/sangramento-segundo-trimestre',
       
-        '/2019/05/20/disturbios-repiratorios.html',
+        '/disturbios-repiratorios',
       
-        '/ginecologia/2019/05/18/amenorreia.html',
+        '/amenorreia',
       
-        '/urologia/2019/05/16/tumores-de-bexiga.html',
+        '/tumores-de-bexiga',
       
         '/obstetricia/hipertensao-na-gravidez.html',
       
@@ -123,7 +123,7 @@ self.addEventListener('install', function (event) {
       
         '/ginecologia/incontinencia-urinaria.html',
       
-        '/2019/04/16/corrimento-vaginal.html',
+        '/corrimento-vaginal',
       
         '/urologia/litiase-urinaria.html',
       
@@ -341,6 +341,10 @@ self.addEventListener('install', function (event) {
         '/assets/mastologia/derrame-papilar/tab2.jpeg'
       
         '/assets/nefrologia/drc/relogio.jpeg'
+      
+        '/assets/nefrologia/drpad/diag1.jpeg'
+      
+        '/assets/nefrologia/drpad/diag2.jpeg'
       
         '/assets/nefrologia/drpad/gra.jpeg'
       
