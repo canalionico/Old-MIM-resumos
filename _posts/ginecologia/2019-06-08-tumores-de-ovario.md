@@ -19,7 +19,7 @@ As tumorações ovarianas podem ser de diversas naturezas. Podemos dividi-las em
 * Neoplásicas
 
 ## Tumorações não-neoplásicas
-### Funcionais
+### Cistos funcionais
 Os cistos funcionais constituem a imensa maioria das massas ovarianas durante o menacme.
 
 Os cistos funcionais, por definição, regridem espontaneamente. O uso de contraceptivos
@@ -31,7 +31,6 @@ independente de realizar ou não o tratamento, entretanto, o tratamento pode ser
 evitar a formação de novos cistos que possam confundir o diagnóstico durante o período de
 observação.
 
-
 #### Cistos foliculares
 A falha na ruptura do folículo com acúmulo de líquido em seu interior tornando-o
 hidrópico é responsável pelo aparecimento dos **cistos foliculares**. São assim chamados quando **ultrapassam 3 cm e excepcionalmente superam os 8 cm** de diâmetro.
@@ -42,13 +41,11 @@ hidrópico é responsável pelo aparecimento dos **cistos foliculares**. São as
 * Descobertos em ecografias de rotina
   * aparecem à ecografia como massas císticas unilaterais simples que em geral não ultrapassam os 8 cm de diâmetro
 
-#### Cistos  de corpo lútero
+#### Cistos do corpo lútero
 O **corpo lúteo** pode igualmente originar cistos, os quais, por conta da neovascularização pós-ovulatória freqüentemente se tornam hemorrágicos.
 
 * Podem desencadear sintomatologia dolorosa
   * por conta de distensão capsular e discreto hemoperitônio
-* Os cistos teca-luteínicos resultam da hiperestimulação ovariana que costuma ocorrer na doença trofoblástica gestacional, indução da ovulação para reprodução assistida, gestação gemelar e hidropisia fetal.
-  * São áreas císticas múltiplas que podem redundar em diâmetros ovarianos acima de 10 cm.
 
 Os cistos hemorrágicos de corpo lúteo apresentam ao ultra-som ecos de baixa amplitude
 com padrão reticular, correspondente à rede de fibrina, podendo apresentar ainda área sólida
@@ -57,6 +54,9 @@ líquido espesso e homogêneo simulando um endometrioma. À dopplervelocimetria,
 fluxo de baixa ou média resistência na periferia. A ausência de fluxo no coágulo do cisto
 hemorrágico contribui para diferenciá-lo de componente sólido neoplásico.
 
+#### Cistos tecaluteínicos
+* Os cistos teca-luteínicos resultam da hiperestimulação ovariana que costuma ocorrer na doença trofoblástica gestacional, indução da ovulação para reprodução assistida, gestação gemelar e hidropisia fetal.
+  * São áreas císticas múltiplas que podem redundar em diâmetros ovarianos acima de 10 cm.
 
 ### Inflamatórias
 As tumorações inflamatórias dos ovários ocorrem como complicações de doenças pélvicas como endometriose e infecção pélvica.
@@ -82,7 +82,6 @@ Têm aspecto ecográfico bastante característico. Tipicamente são cistos
 de baixa amplitude homogeneamente distribuídos. Pontos de calcificação isolados podem ser
 encontrados na cápsula, recebendo a denominação de corpúsculos de Rokitanski.
 
-
 #### Abcessos pélvicos
 Em geral, envolvem as trompas e os ovários, quando não outros órgãos adjacentes. Ocorrem como uma evolução da doença inflamatória pélvica, com predominância de germes anaeróbios.
 
@@ -106,11 +105,52 @@ ser uma importante aliada da antibioticoterapia reduzindo o tempo de tratamento,
 Os cistos serosos de inclusão podem ocorrer desde a infância até a pós-menopausa. São compostos de cápsula fina e conteúdo aquoso. Trazem dificuldades de interpretação diagnóstica porque apesar do aspecto funcional não regridem, nem tampouco evoluem como os neoplásicos.
 
 ## Tumorações neoplásicas
-Dada a ampla variedade de tecidos que compõem o ovário, podemos encontrar uma extensa
-gama de tipos histológicos entre as neoplasias ovarianas. Independente do tipo histológico, as
-neoplasias podem ser classificadas como benignas, malignas e tumores proliferativos atípicos do
-ovário (carcinoma de baixo potencial de malignidade). Esses últimos são os antigos tumores
-borderline, nomenclatura desaconselhada pela FIGO.
+Dada a ampla variedade de tecidos que compõem o ovário, podemos encontrar uma extensa gama de tipos histológicos entre as neoplasias ovarianas. Independente do tipo histológico, as neoplasias podem ser classificadas como benignas, malignas e tumores proliferativos atípicos do ovário (carcinoma de baixo potencial de malignidade). Esses últimos são os antigos tumores borderline, nomenclatura desaconselhada pela FIGO.
+
+### Classificação histológica
+* **Tumores epitelial-estromal de superfície**
+  * **Tumores serosos**: mais comuns, normalmente bilaterais e possuem corpos psamomatosos (áreas de calcificação)
+    * Maligno: Adenocarcinoma, Adenocarcinoma papilar de superfície, adenocarcinofibroma.
+    * Tumor borderline: Tumor cístico papilar, tumor papilar de superfície, adenofibroma e cistadenofibroma
+    * Benigno: Cistadenoma, cistadenoma papilar, papiloma de superfície, adenofibroma e cistadenofibroma
+  * **Tumores mucinosos**: atingem grandes volumes
+    * Maligno: Adenocarcinoma, adenocarcinofibroma Tumor
+    * borderline: Tipo intestinal e tipo endocervical
+    * Benigno: Cistadenoma, adenofibroma e cistadenofibroma
+  * **Tumores endometrióides**: relação com endometriose
+    * Maligno: Adenocarcinoma, adenocarcinofibroma, tumor mulleriano mixto
+    * Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma
+    * Benigno: Cistadenoma, adenofibroma e cistadenofibroma
+  * **Tumores de células claras**: de pior prognóstico
+    * Maligno: Adenocarcinoma, adenocarcinofibroma
+    * Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma
+    * Benigno: Cistadenoma, adenofibroma e cistadenofibroma
+  * Tumores de células transicionais
+    * Malignos: Carcinoma de células transicionais, tumor de Brenner maligno
+    * Borderline: **Tumor de Brenner** variante proliferante
+    * Benigno: Tumor de Brenner
+  * Tumor de células escamosas
+    * Carcinoma de células escamosas e cisto epidermóide
+    * Tumor epitelial misto (componente específico)
+    * Maligno, borderline e benigno
+* **Tumores do cordão-estroma sexual**
+  * **Teca-granulosa:** puberdade precoce, CA de endométrio pois produzem estrogênio, corpúsculos de Carl-Exner
+  * **Sertoli-Leydig** (Androblastoma): Bem, moderadamente e pouco diferenciado, virilização, androstenediona, testosterona
+  * **Tecomas e fibromas:** mais comuns causa da síndrome de Meigs (ascite + derrame pleural)
+* **Tumor de células germinativas**: mais comuns em pacientes jovens
+  * **Digerminoma**: mais comuns
+  * **Teratoma**: pode ser maduro (cisto dermóide, maior tendencia a a torção) ou imaturo (áreas de atipia)
+  * Seio endodérmico
+  * Embrionários
+  * Coriocarcinoma
+* Tumores misto de células germinativas e do cordão sexual
+  * Gonadoblastoma
+* Tumores da rete ovarii
+  * Adenocarcinoma, adenoma, cistadenoma, cistadenofibroma
+* Tumores diversos
+  * Carcinoma de pequenas células, mesotelioma primitivo do ovário, carcinoma hepatóide, tumor de Wilms, coriocarcinoma gestacional, mola hidatiforme, outros
+* Condições tumor-like
+  * Luteoma da gravidez, hipertecose, fibromatose, edema ovariano maciço
 
 ### Epidemiologia
 * A incidência do câncer de ovário é de 15/100.000 mulheres na Escandinávia, 10/100.000 na Europa ocidental e América do Norte e 5/100.000 no Japão e países subdesenvolvidos
@@ -120,14 +160,20 @@ borderline, nomenclatura desaconselhada pela FIGO.
 
 #### Fatores de risco
 * Tempo de menacme (menarca precoce e menopausa tardia) tem fraco efeito
-* Infertilidade
-* TRH não parece ter efeito
+* Infertilidade e indutores de ovulação
+* Terapia de reposição hormonal não parece ter efeito
 * Ingesta de gordura animal
+* Obesidade
 * Asbesto
 * Síndrome de Lynch II (síndrome do câncer colo-retal não polipóide hereditário)
   * a forma mais comum do câncer colo-retal hereditário e envolve a ocorrência de malignidades extra-colônicas, a saber: endométrio, ovário, estômago, intestino delgado, pâncreas, trato hepato-biliar, cérebro e trato urinário superior.
 * síndrome do câncer mama-ovário, ligada à mutação dos genes BRCA 1 e 2.
   * Ooforectomia profilática após a menopausa e uso de contraceptivos hormonais antes da menopausa?
+* História familiar
+* Idade > 60 anos
+* Etnia branca
+* Nuliparidade
+* Tabagismo
 
 #### Fatores protetores
 * Gravidez (↓40% + 14% a cada nova gestação)
@@ -137,6 +183,7 @@ borderline, nomenclatura desaconselhada pela FIGO.
 * Contraceptivos orais
 * Ligadura tubária
 * Histerectomia
+* Ooferectomia profilática
 
 ### Quadro clínico
 * Costumam se desenvolver silenciosamente
@@ -168,22 +215,27 @@ borderline, nomenclatura desaconselhada pela FIGO.
   * podendo dificultar a percepção de pequenas massas
 
 ### Exames complementares
-* USG
+* **USG**
   * o primeiro e mais versátil método utilizado no diagnóstico diferencial, sendo particularmente útil na diferenciação entre cistos funcionais e neoplásicos
   * a maioria dos tumores ovarianos são achados incidentais de ultra-sonografias de rotina.
   * Os abscessos e os endometriomas, como complicações de doenças pélvicas específicas, muitas vezes apresentam um quadro clínico característico que orienta o diagnóstico diferencial
   * **São sinais ecográficos sugestivos de natureza neoplásica**
     * bilateralidade,
+    * tamanho > 8 cm
     * a cápsula espessa,
     * projeções papilíferas intra ou extra císticas,
     * presença de septos, principalmente os septos com espessura igual ou superior a 4 mm e no qual se visualizam vasos à dopplervelocimetria
     * massas sólidas, mistas ou císticas com componente sólido mural
+    * ultra/dopplerfluxometria com índice de resistência < 0,4 e índice de pulsatilidade < 1,0
   * Embora a ecografia possa ser utilizada para orientar a punção de cistos ovarianos, raramente encontramos situações que a justifiquem.
     * nos neoplásicos é arriscada, havendo suspeita de que possa piorar o prognóstico por disseminar células tumorais para a cavidade peritoneal
-* CA-125
-  * níveis de superiores a 35 UI/mL parecem ser marcadores independentes de risco de malignidade nos tumores ecograficamente suspeitos
+* Rx simples do abdome
+* Citologia do líquido ascítico
+* Videolaparoscopia
 * Tomografia computadorizada ou ressonância magnética do abdome que podem alertar para a existência de metástase em outros órgãos abdominais
 * Leucograma com VSH
+* CA-125
+  * níveis de superiores a 35 UI/mL parecem ser marcadores independentes de risco de malignidade nos tumores ecograficamente suspeitos
 
 ### Estadiamento
 * **I: Tumor confinado aos ovários**
@@ -200,69 +252,12 @@ borderline, nomenclatura desaconselhada pela FIGO.
   * IIIc: Metástase peritoneal maior que 2 cm em sua maior dimensão ou metástase para linfonodos regionais
 * **IV: Metástase a distância (fora da cavidade peritoneal) incluindo parênquima hepático.**
 
-### Classificação histológica
-* Tumores epitelial-estromal de superfície
-  * Tumores serosos
-    * Maligno: Adenocarcinoma, Adenocarcinoma papilar de superfície, adenocarcinofibroma.
-    * Tumor borderline: Tumor cístico papilar, tumor papilar de superfície, adenofibroma e cistadenofibroma
-    * Benigno: Cistadenoma, cistadenoma papilar, papiloma de superfície, adenofibroma e cistadenofibroma
-  * Tumores mucinosos
-    * Maligno: Adenocarcinoma, adenocarcinofibroma Tumor
-    * borderline: Tipo intestinal e tipo endocervical
-    * Benigno: Cistadenoma, adenofibroma e cistadenofibroma
-  * Tumores endometrióides
-    * Maligno: Adenocarcinoma, adenocarcinofibroma, tumor mulleriano mixto
-    * Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma
-    * Benigno: Cistadenoma, adenofibroma e cistadenofibroma
-  * Tumores de células claras
-    * Maligno: Adenocarcinoma, adenocarcinofibroma
-    * Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma
-    * Benigno: Cistadenoma, adenofibroma e cistadenofibroma
-  * Tumores de células transicionais
-    * Malignos: Carcinoma de células transicionais, tumor de Brenner maligno
-    * Borderline: Tumor de Brenner variante proliferante
-    * Benigno: Tumor de Brenner
-  * Tumor de células escamosas
-    * Carcinoma de células escamosas e cisto epidermóide
-    * Tumor epitelial misto (componente específico)
-    * Maligno, borderline e benigno
-* Tumores do cordão-estroma sexual
-  * Grupo de células da granulosa: tipo adulto e juvenil
-  * Grupo dos tecoma-fibroma: Tecoma (típico, luteinizado), fibroma, fibrossarcoma, fibrotecoma.
-  * Grupo de células Sertoli-Leydig (Androblastoma): Bem, moderadamente e pouco diferenciado.
-  * Tumor de células de Sertoli, tumor de células estroma-Leyding
-  * Tumores do cordão sexual misto ou de células não classificadas:
-  * Tumor do cordão sexual com túbulos anulares, ginandroblastoma
-  * Tumor de células esteróides: Tumor de células de Leyding
-* Tumor de células germinativas
-  * Tumor de células germinativas primitivas: Digerminoma, tumor do saco vitelino, carcinoma embrionário, poliembrioma, coriocarcinoma, tumor de células germinativas misto
-  * Teratoma bifásico ou trifásico : Imaturo, maduro: sólido, cístico (cisto dermóide), fetiforme
-  * Teratoma monodérmico:Tumores tireoidianos (struma ovarii), tumores carcinóides, tumores neuroectodérmicos, carcinomas, tumores melanocíticos, outros
-* Tumores misto de células germinativas e do cordão sexual
-  * Gonadoblastoma
-* Tumores da rete ovarii
-  * Adenocarcinoma, adenoma, cistadenoma, cistadenofibroma
-* Tumores diversos
-* Carcinoma de pequenas células, mesotelioma primitivo do ovário, carcinoma hepatóide, tumor de Wilms, coriocarcinoma gestacional, mola hidatiforme, outros
-* Condições tumor-like
-  * Luteoma da gravidez, hipertecose, fibromatose, edema ovariano maciço
-* Tumores linfóides ou hematopoieticos
-  * Linfoma maligno, leucemia, plasmocitoma
-  * Tumores secundários
-
 ### Tratamento
-Embora os métodos diagnósticos já descritos possibilitem alguma aproximação da natureza
-benigna ou maligna dos tumores de ovário, o diagnóstico definitivo somente pode ser firmado
-pela histopatologia da peça cirúrgica.
+Embora os métodos diagnósticos já descritos possibilitem alguma aproximação da natureza benigna ou maligna dos tumores de ovário, o diagnóstico definitivo somente pode ser firmado pela **histopatologia** da peça cirúrgica.
 
-Considerando ainda que as neoplasias benignas podem
-sofrer complicações tais como torçao, sangramento ou ruptura, **a presença de tumoração ovariana suspeita de neoplasia é indicação de cirurgia.** Em se confirmando a natureza benigna da neoplasia, a ooforectomia ou mesmo a exérese da tumoração é curativa.
+Considerando ainda que as neoplasias benignas podem sofrer complicações tais como torção, sangramento ou ruptura, **a presença de tumoração ovariana suspeita de neoplasia é indicação de cirurgia.** Em se confirmando a natureza benigna da neoplasia, a ooforectomia ou mesmo a exérese da tumoração é curativa.
 
-A cirurgia é o tratamento primário do câncer de ovário. Permite, além do diagnóstico
-definitivo, a exérese da lesão e o seu estadiamento. Vigente a possibilidade de tumor maligno, um
-cirurgião oncologista ginecológico deverá, necessariamente, integrar a equipe. Também
-indispensável é a participação de patologista na sala de cirurgia para realizar a histopatologia
-intra-operatória por congelação que orientará a extensão do procedimento.
+A cirurgia é o tratamento primário do câncer de ovário. Permite, além do diagnóstico definitivo, a exérese da lesão e o seu estadiamento. Vigente a possibilidade de tumor maligno, um cirurgião oncologista ginecológico deverá, necessariamente, integrar a equipe. Também indispensável é a participação de patologista na sala de cirurgia para realizar a histopatologia intra-operatória por congelação que orientará a extensão do procedimento.
 
 A equipe deverá estar habilitada a realizar ressecções de órgãos de toda a cavidade abdominal, tendo em vista que 70% dos cânceres de ovário apresentam metástases no momento do diagnóstico, das quais:
 
@@ -273,45 +268,47 @@ A equipe deverá estar habilitada a realizar ressecções de órgãos de toda a 
   * 80% delas para linfonodos pélvicos
   * 67% aos para-aórticos
 
-A laparotomia continua sendo o método mais empregado para a abordagem das neoplasias
-ovarianas, A laparoscopia têm evidentes limitações quanto a radicalidade oncológica, além dos
-riscos de disseminação inerentes às limitações do acesso para retirada da peça operatória. A
-exequibilidade de um procedimento por via laparoscópica não significa ser esta a via de escolha.
+Lembrando que as visas de disseminação incluem:
 
-Após abordagem da cavidade por incisão mediana, aspira-se o líquido ascítico e, na
-ausência deste, procede-se o lavado da cavidade peritoneal, incluindo o fundo de saco de
-Douglas, goteiras parieto-cólicas direita e esquerda e o espaço subdiafragmático direito. É
-obrigatório o inventário de toda a cavidade com biópsia de lesões suspeitas e biópsia de
-linfonodos pélvicos e para-aórticos. A simples palpação dos linfonodos, com biópsia apenas dos
-suspeitos incorre em elevada taxa de falsos-negativos.
+* Transcelômica: mais comum e precoce, células ovarianas se implantam na cavidade peritoneal
+* Continuidade: disseminação direta para trompas, ovário contralateral e peritônio pélvico
+* Linfática: comum porém tardia, linfonodos paraórticos, pélvicos e inguinais
+* Hematogênica: a mais rara, ocorrendo em casos avançados
 
-**A cirurgia básica para o câncer do ovário é a histerectomia total abdominal com anexectomia bilateral e omentectomia, além do inventário e das biópsias descritas**
+A laparotomia continua sendo o método mais empregado para a abordagem das neoplasias ovarianas, A laparoscopia têm evidentes limitações quanto a radicalidade oncológica, além dos riscos de disseminação inerentes às limitações do acesso para retirada da peça operatória. A exequibilidade de um procedimento por via laparoscópica não significa ser esta a via de escolha.
 
-Fazem exceção as pacientes jovens, desejosas de procriar, portadoras de tumores no estadio Ia, nas quais
-pode-se realizar a ooforectomia unilateral com biópsia contralateral. Negativa a biópsia, está autorizada a permanência do útero e do ovário não acometido até a consumação da maternidade,
-quando então uma nova laparotomia se impõe para completar o procedimento.
+Após abordagem da cavidade por incisão mediana, aspira-se o líquido ascítico e, na ausência deste, procede-se o lavado da cavidade peritoneal, incluindo o fundo de saco de Douglas, goteiras parieto-cólicas direita e esquerda e o espaço subdiafragmático direito. É
+obrigatório o inventário de toda a cavidade com biópsia de lesões suspeitas e biópsia de linfonodos pélvicos e para-aórticos. A simples palpação dos linfonodos, com biópsia apenas dos suspeitos incorre em elevada taxa de falsos-negativos.
 
-Nos tumores ovarianos avançados recomenda-se a remoção de todas as massas possíveis de serem ressecadas, com o objetivo de eliminar todas as lesões macroscópicas, ou, pelo menos,
-aquelas maiores de 2 cm. Este procedimento, denominado de **cirurgia citorredutora (debulking surgery)** se justifica pelo alívio da sintomatologia, principalmente gastrointestinal, pela diminuição da produção de fatores imunossupressores pelas grandes massas neoplásicas e, principalmente, pela eliminação de grandes massas, cujas células são resistentes à quimio e à
-radioterapia por serem mal vascularizadas e estarem predominantemente na fase de repouso do
-ciclo celular.
+**A cirurgia básica para o câncer do ovário é a histerectomia total abdominal com anexectomia bilateral e omentectomia, além do inventário e das biópsias descritas**.
 
-Nos tumores Ia a **quimioterapia** não aumenta a sobrevida e, portanto, não é recomendada. Nos demais casos está indicada.
+* **Cirurgia fundamental**
+  * Histerectomia total extrafascial
+  * Salpingooferectomia bilateral
+  * Omentectomia infracólica
+  * Incisão mediana longitudinal
+  * Coleta do líquidoperitoneal
+  * Biópsias peritoneais na pelve
+  * inventário abdominal
+  * Ressecção de implantes macroscópicos
+  * Avaliação de linfonodos pélvicos e paraórticos
 
-O cisplatino, o carboplatino, a ciclofosfamida e o paclitaxel são os agentes mais ativos
-contra o câncer epitelial. Em geral, os esquemas combinados têm resultado superior à
-monoterapia. O esquema mais utilizado para os tumores epiteliais é a combinação do paclitaxel com o cisplatino ou carboplatino, sendo este último preferível pela menor incidência de efeitos colaterais e neurotoxicidade. Os efeitos colaterais mais frequentes da quimioterapia para os
-tumores de ovário são náuseas, vômitos e alopécia, enquanto que o mais temido é a
+Fazem exceção as pacientes jovens, desejosas de procriar, portadoras de tumores no estadio Ia, nas quais pode-se realizar a ooforectomia unilateral com biópsia contralateral. Negativa a biópsia, está autorizada a permanência do útero e do ovário não acometido até a consumação da maternidade, quando então uma nova laparotomia se impõe para completar o procedimento.
+
+Nos tumores ovarianos avançados (> estágio II) recomenda-se a remoção de todas as massas possíveis de serem ressecadas, com o objetivo de eliminar todas as lesões macroscópicas, ou, pelo menos, aquelas maiores de 2 cm. Este procedimento, denominado de **cirurgia citorredutora (debulking surgery)** se justifica pelo alívio da sintomatologia, principalmente gastrointestinal, pela diminuição da produção de fatores imunossupressores pelas grandes massas neoplásicas e, principalmente, pela eliminação de grandes massas, cujas células são resistentes à quimio e à radioterapia por serem mal vascularizadas e estarem predominantemente na fase de repouso do ciclo celular.
+
+Nos tumores Ia a **quimioterapia** não aumenta a sobrevida e, portanto, não é recomendada. Nos demais casos está indicada (no MED fala que Ib também não faz quimioterapia).
+
+O cisplatino, o carboplatino, a ciclofosfamida e o paclitaxel são os agentes mais ativos contra o câncer epitelial. Em geral, os esquemas combinados têm resultado superior à monoterapia. O esquema mais utilizado para os tumores epiteliais é a combinação do paclitaxel com o cisplatino ou carboplatino, sendo este último preferível pela menor incidência de efeitos colaterais e neurotoxicidade. Os efeitos colaterais mais frequentes da quimioterapia para os tumores de ovário são náuseas, vômitos e alopécia, enquanto que o mais temido é a
 mielodepressão.
 
-Embora alguns tumores de ovário sejam radiosensíveis, como por exemplo os
-disgerminomas e os tumores endometrióides, a **radioterapia tem caído em desuso** pela dificuldade em realizar uma irradiação eficaz em toda a cavidade peritoneal sem incorrer em riscos
-importantes de lesão de alças delgadas, fígado e rins.
+Nos tumores estádio IV normalmente não se opera, fazendo apenas uma poliquimioterapia exclusiva. A cirurgia citorredutora é feita em casos individualizados.
 
-Alguns meses após o final do tratamento, as pacientes devem se submeter a uma cirurgia de
-revisão (second-look), com inventário da cavidade e biópsia, afim de reavaliar o sucesso do tratamento e programar novas terapias. O seguimento posterior será realizado através de exames
-de imagem do abdome e outras regiões conforme a necessidade, além da dosagem seriada do CA
-125 e outros marcadores que tenham se revelado positivos no período pré-operatório.
+Embora alguns tumores de ovário sejam radiosensíveis, como por exemplo os
+disgerminomas e os tumores endometrióides, a **radioterapia tem caído em desuso** pela dificuldade em realizar uma irradiação eficaz em toda a cavidade peritoneal sem incorrer em riscos importantes de lesão de alças delgadas, fígado e rins.
+
+Alguns meses após o final do tratamento, as pacientes devem se submeter a uma cirurgia de revisão (second-look), com inventário da cavidade e biópsia, afim de reavaliar o sucesso do tratamento e programar novas terapias. O seguimento posterior será realizado através de exames
+de imagem do abdome e outras regiões conforme a necessidade, além da dosagem seriada do CA 125 e outros marcadores que tenham se revelado positivos no período pré-operatório.
 
 ### Prognóstico
 Diretamente relacionado ao

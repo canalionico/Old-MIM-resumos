@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-08T18:05:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores de ovário</title><link href="http://localhost:4000/tumores-de-ovario" rel="alternate" type="text/html" title="Tumores de ovário" /><published>2019-06-08T00:00:00-03:00</published><updated>2019-06-08T00:00:00-03:00</updated><id>http://localhost:4000/tumores-de-ovario</id><content type="html" xml:base="http://localhost:4000/tumores-de-ovario">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-08T20:17:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores de ovário</title><link href="http://localhost:4000/tumores-de-ovario" rel="alternate" type="text/html" title="Tumores de ovário" /><published>2019-06-08T00:00:00-03:00</published><updated>2019-06-08T00:00:00-03:00</updated><id>http://localhost:4000/tumores-de-ovario</id><content type="html" xml:base="http://localhost:4000/tumores-de-ovario">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#tumorações-não-neoplásicas&quot; id=&quot;markdown-toc-tumorações-não-neoplásicas&quot;&gt;Tumorações não-neoplásicas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#funcionais&quot; id=&quot;markdown-toc-funcionais&quot;&gt;Funcionais&lt;/a&gt;        &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#cistos-funcionais&quot; id=&quot;markdown-toc-cistos-funcionais&quot;&gt;Cistos funcionais&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#cistos-foliculares&quot; id=&quot;markdown-toc-cistos-foliculares&quot;&gt;Cistos foliculares&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#cistos--de-corpo-lútero&quot; id=&quot;markdown-toc-cistos--de-corpo-lútero&quot;&gt;Cistos  de corpo lútero&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#cistos-do-corpo-lútero&quot; id=&quot;markdown-toc-cistos-do-corpo-lútero&quot;&gt;Cistos do corpo lútero&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#cistos-tecaluteínicos&quot; id=&quot;markdown-toc-cistos-tecaluteínicos&quot;&gt;Cistos tecaluteínicos&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#inflamatórias&quot; id=&quot;markdown-toc-inflamatórias&quot;&gt;Inflamatórias&lt;/a&gt;        &lt;ol&gt;
@@ -14,6 +15,7 @@
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tumorações-neoplásicas&quot; id=&quot;markdown-toc-tumorações-neoplásicas&quot;&gt;Tumorações neoplásicas&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#classificação-histológica&quot; id=&quot;markdown-toc-classificação-histológica&quot;&gt;Classificação histológica&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#fatores-protetores&quot; id=&quot;markdown-toc-fatores-protetores&quot;&gt;Fatores protetores&lt;/a&gt;&lt;/li&gt;
@@ -23,7 +25,6 @@
       &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#classificação-histológica&quot; id=&quot;markdown-toc-classificação-histológica&quot;&gt;Classificação histológica&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
@@ -51,7 +52,7 @@
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;tumorações-não-neoplásicas&quot;&gt;Tumorações não-neoplásicas&lt;/h2&gt;
-&lt;h3 id=&quot;funcionais&quot;&gt;Funcionais&lt;/h3&gt;
+&lt;h3 id=&quot;cistos-funcionais&quot;&gt;Cistos funcionais&lt;/h3&gt;
 &lt;p&gt;Os cistos funcionais constituem a imensa maioria das massas ovarianas durante o menacme.&lt;/p&gt;
 
 &lt;p&gt;Os cistos funcionais, por definição, regridem espontaneamente. O uso de contraceptivos
@@ -78,18 +79,13 @@ hidrópico é responsável pelo aparecimento dos &lt;strong&gt;cistos foliculare
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;cistos--de-corpo-lútero&quot;&gt;Cistos  de corpo lútero&lt;/h4&gt;
+&lt;h4 id=&quot;cistos-do-corpo-lútero&quot;&gt;Cistos do corpo lútero&lt;/h4&gt;
 &lt;p&gt;O &lt;strong&gt;corpo lúteo&lt;/strong&gt; pode igualmente originar cistos, os quais, por conta da neovascularização pós-ovulatória freqüentemente se tornam hemorrágicos.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Podem desencadear sintomatologia dolorosa
     &lt;ul&gt;
       &lt;li&gt;por conta de distensão capsular e discreto hemoperitônio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Os cistos teca-luteínicos resultam da hiperestimulação ovariana que costuma ocorrer na doença trofoblástica gestacional, indução da ovulação para reprodução assistida, gestação gemelar e hidropisia fetal.
-    &lt;ul&gt;
-      &lt;li&gt;São áreas císticas múltiplas que podem redundar em diâmetros ovarianos acima de 10 cm.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -100,6 +96,15 @@ hipoecóica correspondente ao coágulo. Quando muito recente pode se apresentar 
 líquido espesso e homogêneo simulando um endometrioma. À dopplervelocimetria, apresenta
 fluxo de baixa ou média resistência na periferia. A ausência de fluxo no coágulo do cisto
 hemorrágico contribui para diferenciá-lo de componente sólido neoplásico.&lt;/p&gt;
+
+&lt;h4 id=&quot;cistos-tecaluteínicos&quot;&gt;Cistos tecaluteínicos&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Os cistos teca-luteínicos resultam da hiperestimulação ovariana que costuma ocorrer na doença trofoblástica gestacional, indução da ovulação para reprodução assistida, gestação gemelar e hidropisia fetal.
+    &lt;ul&gt;
+      &lt;li&gt;São áreas císticas múltiplas que podem redundar em diâmetros ovarianos acima de 10 cm.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;inflamatórias&quot;&gt;Inflamatórias&lt;/h3&gt;
 &lt;p&gt;As tumorações inflamatórias dos ovários ocorrem como complicações de doenças pélvicas como endometriose e infecção pélvica.&lt;/p&gt;
@@ -162,11 +167,93 @@ ser uma importante aliada da antibioticoterapia reduzindo o tempo de tratamento,
 &lt;p&gt;Os cistos serosos de inclusão podem ocorrer desde a infância até a pós-menopausa. São compostos de cápsula fina e conteúdo aquoso. Trazem dificuldades de interpretação diagnóstica porque apesar do aspecto funcional não regridem, nem tampouco evoluem como os neoplásicos.&lt;/p&gt;
 
 &lt;h2 id=&quot;tumorações-neoplásicas&quot;&gt;Tumorações neoplásicas&lt;/h2&gt;
-&lt;p&gt;Dada a ampla variedade de tecidos que compõem o ovário, podemos encontrar uma extensa
-gama de tipos histológicos entre as neoplasias ovarianas. Independente do tipo histológico, as
-neoplasias podem ser classificadas como benignas, malignas e tumores proliferativos atípicos do
-ovário (carcinoma de baixo potencial de malignidade). Esses últimos são os antigos tumores
-borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
+&lt;p&gt;Dada a ampla variedade de tecidos que compõem o ovário, podemos encontrar uma extensa gama de tipos histológicos entre as neoplasias ovarianas. Independente do tipo histológico, as neoplasias podem ser classificadas como benignas, malignas e tumores proliferativos atípicos do ovário (carcinoma de baixo potencial de malignidade). Esses últimos são os antigos tumores borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
+
+&lt;h3 id=&quot;classificação-histológica&quot;&gt;Classificação histológica&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Tumores epitelial-estromal de superfície&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Tumores serosos&lt;/strong&gt;: mais comuns, normalmente bilaterais e possuem corpos psamomatosos (áreas de calcificação)
+        &lt;ul&gt;
+          &lt;li&gt;Maligno: Adenocarcinoma, Adenocarcinoma papilar de superfície, adenocarcinofibroma.&lt;/li&gt;
+          &lt;li&gt;Tumor borderline: Tumor cístico papilar, tumor papilar de superfície, adenofibroma e cistadenofibroma&lt;/li&gt;
+          &lt;li&gt;Benigno: Cistadenoma, cistadenoma papilar, papiloma de superfície, adenofibroma e cistadenofibroma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Tumores mucinosos&lt;/strong&gt;: atingem grandes volumes
+        &lt;ul&gt;
+          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma Tumor&lt;/li&gt;
+          &lt;li&gt;borderline: Tipo intestinal e tipo endocervical&lt;/li&gt;
+          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Tumores endometrióides&lt;/strong&gt;: relação com endometriose
+        &lt;ul&gt;
+          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma, tumor mulleriano mixto&lt;/li&gt;
+          &lt;li&gt;Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma&lt;/li&gt;
+          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Tumores de células claras&lt;/strong&gt;: de pior prognóstico
+        &lt;ul&gt;
+          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma&lt;/li&gt;
+          &lt;li&gt;Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma&lt;/li&gt;
+          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tumores de células transicionais
+        &lt;ul&gt;
+          &lt;li&gt;Malignos: Carcinoma de células transicionais, tumor de Brenner maligno&lt;/li&gt;
+          &lt;li&gt;Borderline: &lt;strong&gt;Tumor de Brenner&lt;/strong&gt; variante proliferante&lt;/li&gt;
+          &lt;li&gt;Benigno: Tumor de Brenner&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tumor de células escamosas
+        &lt;ul&gt;
+          &lt;li&gt;Carcinoma de células escamosas e cisto epidermóide&lt;/li&gt;
+          &lt;li&gt;Tumor epitelial misto (componente específico)&lt;/li&gt;
+          &lt;li&gt;Maligno, borderline e benigno&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tumores do cordão-estroma sexual&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Teca-granulosa:&lt;/strong&gt; puberdade precoce, CA de endométrio pois produzem estrogênio, corpúsculos de Carl-Exner&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Sertoli-Leydig&lt;/strong&gt; (Androblastoma): Bem, moderadamente e pouco diferenciado, virilização, androstenediona, testosterona&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Tecomas e fibromas:&lt;/strong&gt; mais comuns causa da síndrome de Meigs (ascite + derrame pleural)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tumor de células germinativas&lt;/strong&gt;: mais comuns em pacientes jovens
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Digerminoma&lt;/strong&gt;: mais comuns&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Teratoma&lt;/strong&gt;: pode ser maduro (cisto dermóide, maior tendencia a a torção) ou imaturo (áreas de atipia)&lt;/li&gt;
+      &lt;li&gt;Seio endodérmico&lt;/li&gt;
+      &lt;li&gt;Embrionários&lt;/li&gt;
+      &lt;li&gt;Coriocarcinoma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumores misto de células germinativas e do cordão sexual
+    &lt;ul&gt;
+      &lt;li&gt;Gonadoblastoma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumores da rete ovarii
+    &lt;ul&gt;
+      &lt;li&gt;Adenocarcinoma, adenoma, cistadenoma, cistadenofibroma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumores diversos
+    &lt;ul&gt;
+      &lt;li&gt;Carcinoma de pequenas células, mesotelioma primitivo do ovário, carcinoma hepatóide, tumor de Wilms, coriocarcinoma gestacional, mola hidatiforme, outros&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Condições tumor-like
+    &lt;ul&gt;
+      &lt;li&gt;Luteoma da gravidez, hipertecose, fibromatose, edema ovariano maciço&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
 &lt;ul&gt;
@@ -179,9 +266,10 @@ borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
 &lt;h4 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h4&gt;
 &lt;ul&gt;
   &lt;li&gt;Tempo de menacme (menarca precoce e menopausa tardia) tem fraco efeito&lt;/li&gt;
-  &lt;li&gt;Infertilidade&lt;/li&gt;
-  &lt;li&gt;TRH não parece ter efeito&lt;/li&gt;
+  &lt;li&gt;Infertilidade e indutores de ovulação&lt;/li&gt;
+  &lt;li&gt;Terapia de reposição hormonal não parece ter efeito&lt;/li&gt;
   &lt;li&gt;Ingesta de gordura animal&lt;/li&gt;
+  &lt;li&gt;Obesidade&lt;/li&gt;
   &lt;li&gt;Asbesto&lt;/li&gt;
   &lt;li&gt;Síndrome de Lynch II (síndrome do câncer colo-retal não polipóide hereditário)
     &lt;ul&gt;
@@ -193,6 +281,11 @@ borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
       &lt;li&gt;Ooforectomia profilática após a menopausa e uso de contraceptivos hormonais antes da menopausa?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;História familiar&lt;/li&gt;
+  &lt;li&gt;Idade &amp;gt; 60 anos&lt;/li&gt;
+  &lt;li&gt;Etnia branca&lt;/li&gt;
+  &lt;li&gt;Nuliparidade&lt;/li&gt;
+  &lt;li&gt;Tabagismo&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id=&quot;fatores-protetores&quot;&gt;Fatores protetores&lt;/h4&gt;
@@ -207,6 +300,7 @@ borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
   &lt;li&gt;Contraceptivos orais&lt;/li&gt;
   &lt;li&gt;Ligadura tubária&lt;/li&gt;
   &lt;li&gt;Histerectomia&lt;/li&gt;
+  &lt;li&gt;Ooferectomia profilática&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
@@ -265,7 +359,7 @@ borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
 
 &lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;USG
+  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;o primeiro e mais versátil método utilizado no diagnóstico diferencial, sendo particularmente útil na diferenciação entre cistos funcionais e neoplásicos&lt;/li&gt;
       &lt;li&gt;a maioria dos tumores ovarianos são achados incidentais de ultra-sonografias de rotina.&lt;/li&gt;
@@ -273,10 +367,12 @@ borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
       &lt;li&gt;&lt;strong&gt;São sinais ecográficos sugestivos de natureza neoplásica&lt;/strong&gt;
         &lt;ul&gt;
           &lt;li&gt;bilateralidade,&lt;/li&gt;
+          &lt;li&gt;tamanho &amp;gt; 8 cm&lt;/li&gt;
           &lt;li&gt;a cápsula espessa,&lt;/li&gt;
           &lt;li&gt;projeções papilíferas intra ou extra císticas,&lt;/li&gt;
           &lt;li&gt;presença de septos, principalmente os septos com espessura igual ou superior a 4 mm e no qual se visualizam vasos à dopplervelocimetria&lt;/li&gt;
           &lt;li&gt;massas sólidas, mistas ou císticas com componente sólido mural&lt;/li&gt;
+          &lt;li&gt;ultra/dopplerfluxometria com índice de resistência &amp;lt; 0,4 e índice de pulsatilidade &amp;lt; 1,0&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Embora a ecografia possa ser utilizada para orientar a punção de cistos ovarianos, raramente encontramos situações que a justifiquem.
@@ -286,13 +382,16 @@ borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;Rx simples do abdome&lt;/li&gt;
+  &lt;li&gt;Citologia do líquido ascítico&lt;/li&gt;
+  &lt;li&gt;Videolaparoscopia&lt;/li&gt;
+  &lt;li&gt;Tomografia computadorizada ou ressonância magnética do abdome que podem alertar para a existência de metástase em outros órgãos abdominais&lt;/li&gt;
+  &lt;li&gt;Leucograma com VSH&lt;/li&gt;
   &lt;li&gt;CA-125
     &lt;ul&gt;
       &lt;li&gt;níveis de superiores a 35 UI/mL parecem ser marcadores independentes de risco de malignidade nos tumores ecograficamente suspeitos&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Tomografia computadorizada ou ressonância magnética do abdome que podem alertar para a existência de metástase em outros órgãos abdominais&lt;/li&gt;
-  &lt;li&gt;Leucograma com VSH&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h3&gt;
@@ -321,110 +420,12 @@ borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
   &lt;li&gt;&lt;strong&gt;IV: Metástase a distância (fora da cavidade peritoneal) incluindo parênquima hepático.&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;classificação-histológica&quot;&gt;Classificação histológica&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tumores epitelial-estromal de superfície
-    &lt;ul&gt;
-      &lt;li&gt;Tumores serosos
-        &lt;ul&gt;
-          &lt;li&gt;Maligno: Adenocarcinoma, Adenocarcinoma papilar de superfície, adenocarcinofibroma.&lt;/li&gt;
-          &lt;li&gt;Tumor borderline: Tumor cístico papilar, tumor papilar de superfície, adenofibroma e cistadenofibroma&lt;/li&gt;
-          &lt;li&gt;Benigno: Cistadenoma, cistadenoma papilar, papiloma de superfície, adenofibroma e cistadenofibroma&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tumores mucinosos
-        &lt;ul&gt;
-          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma Tumor&lt;/li&gt;
-          &lt;li&gt;borderline: Tipo intestinal e tipo endocervical&lt;/li&gt;
-          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tumores endometrióides
-        &lt;ul&gt;
-          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma, tumor mulleriano mixto&lt;/li&gt;
-          &lt;li&gt;Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma&lt;/li&gt;
-          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tumores de células claras
-        &lt;ul&gt;
-          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma&lt;/li&gt;
-          &lt;li&gt;Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma&lt;/li&gt;
-          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tumores de células transicionais
-        &lt;ul&gt;
-          &lt;li&gt;Malignos: Carcinoma de células transicionais, tumor de Brenner maligno&lt;/li&gt;
-          &lt;li&gt;Borderline: Tumor de Brenner variante proliferante&lt;/li&gt;
-          &lt;li&gt;Benigno: Tumor de Brenner&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tumor de células escamosas
-        &lt;ul&gt;
-          &lt;li&gt;Carcinoma de células escamosas e cisto epidermóide&lt;/li&gt;
-          &lt;li&gt;Tumor epitelial misto (componente específico)&lt;/li&gt;
-          &lt;li&gt;Maligno, borderline e benigno&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumores do cordão-estroma sexual
-    &lt;ul&gt;
-      &lt;li&gt;Grupo de células da granulosa: tipo adulto e juvenil&lt;/li&gt;
-      &lt;li&gt;Grupo dos tecoma-fibroma: Tecoma (típico, luteinizado), fibroma, fibrossarcoma, fibrotecoma.&lt;/li&gt;
-      &lt;li&gt;Grupo de células Sertoli-Leydig (Androblastoma): Bem, moderadamente e pouco diferenciado.&lt;/li&gt;
-      &lt;li&gt;Tumor de células de Sertoli, tumor de células estroma-Leyding&lt;/li&gt;
-      &lt;li&gt;Tumores do cordão sexual misto ou de células não classificadas:&lt;/li&gt;
-      &lt;li&gt;Tumor do cordão sexual com túbulos anulares, ginandroblastoma&lt;/li&gt;
-      &lt;li&gt;Tumor de células esteróides: Tumor de células de Leyding&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumor de células germinativas
-    &lt;ul&gt;
-      &lt;li&gt;Tumor de células germinativas primitivas: Digerminoma, tumor do saco vitelino, carcinoma embrionário, poliembrioma, coriocarcinoma, tumor de células germinativas misto&lt;/li&gt;
-      &lt;li&gt;Teratoma bifásico ou trifásico : Imaturo, maduro: sólido, cístico (cisto dermóide), fetiforme&lt;/li&gt;
-      &lt;li&gt;Teratoma monodérmico:Tumores tireoidianos (struma ovarii), tumores carcinóides, tumores neuroectodérmicos, carcinomas, tumores melanocíticos, outros&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumores misto de células germinativas e do cordão sexual
-    &lt;ul&gt;
-      &lt;li&gt;Gonadoblastoma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumores da rete ovarii
-    &lt;ul&gt;
-      &lt;li&gt;Adenocarcinoma, adenoma, cistadenoma, cistadenofibroma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumores diversos&lt;/li&gt;
-  &lt;li&gt;Carcinoma de pequenas células, mesotelioma primitivo do ovário, carcinoma hepatóide, tumor de Wilms, coriocarcinoma gestacional, mola hidatiforme, outros&lt;/li&gt;
-  &lt;li&gt;Condições tumor-like
-    &lt;ul&gt;
-      &lt;li&gt;Luteoma da gravidez, hipertecose, fibromatose, edema ovariano maciço&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumores linfóides ou hematopoieticos
-    &lt;ul&gt;
-      &lt;li&gt;Linfoma maligno, leucemia, plasmocitoma&lt;/li&gt;
-      &lt;li&gt;Tumores secundários&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;p&gt;Embora os métodos diagnósticos já descritos possibilitem alguma aproximação da natureza
-benigna ou maligna dos tumores de ovário, o diagnóstico definitivo somente pode ser firmado
-pela histopatologia da peça cirúrgica.&lt;/p&gt;
+&lt;p&gt;Embora os métodos diagnósticos já descritos possibilitem alguma aproximação da natureza benigna ou maligna dos tumores de ovário, o diagnóstico definitivo somente pode ser firmado pela &lt;strong&gt;histopatologia&lt;/strong&gt; da peça cirúrgica.&lt;/p&gt;
 
-&lt;p&gt;Considerando ainda que as neoplasias benignas podem
-sofrer complicações tais como torçao, sangramento ou ruptura, &lt;strong&gt;a presença de tumoração ovariana suspeita de neoplasia é indicação de cirurgia.&lt;/strong&gt; Em se confirmando a natureza benigna da neoplasia, a ooforectomia ou mesmo a exérese da tumoração é curativa.&lt;/p&gt;
+&lt;p&gt;Considerando ainda que as neoplasias benignas podem sofrer complicações tais como torção, sangramento ou ruptura, &lt;strong&gt;a presença de tumoração ovariana suspeita de neoplasia é indicação de cirurgia.&lt;/strong&gt; Em se confirmando a natureza benigna da neoplasia, a ooforectomia ou mesmo a exérese da tumoração é curativa.&lt;/p&gt;
 
-&lt;p&gt;A cirurgia é o tratamento primário do câncer de ovário. Permite, além do diagnóstico
-definitivo, a exérese da lesão e o seu estadiamento. Vigente a possibilidade de tumor maligno, um
-cirurgião oncologista ginecológico deverá, necessariamente, integrar a equipe. Também
-indispensável é a participação de patologista na sala de cirurgia para realizar a histopatologia
-intra-operatória por congelação que orientará a extensão do procedimento.&lt;/p&gt;
+&lt;p&gt;A cirurgia é o tratamento primário do câncer de ovário. Permite, além do diagnóstico definitivo, a exérese da lesão e o seu estadiamento. Vigente a possibilidade de tumor maligno, um cirurgião oncologista ginecológico deverá, necessariamente, integrar a equipe. Também indispensável é a participação de patologista na sala de cirurgia para realizar a histopatologia intra-operatória por congelação que orientará a extensão do procedimento.&lt;/p&gt;
 
 &lt;p&gt;A equipe deverá estar habilitada a realizar ressecções de órgãos de toda a cavidade abdominal, tendo em vista que 70% dos cânceres de ovário apresentam metástases no momento do diagnóstico, das quais:&lt;/p&gt;
 
@@ -440,45 +441,54 @@ intra-operatória por congelação que orientará a extensão do procedimento.&l
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;A laparotomia continua sendo o método mais empregado para a abordagem das neoplasias
-ovarianas, A laparoscopia têm evidentes limitações quanto a radicalidade oncológica, além dos
-riscos de disseminação inerentes às limitações do acesso para retirada da peça operatória. A
-exequibilidade de um procedimento por via laparoscópica não significa ser esta a via de escolha.&lt;/p&gt;
+&lt;p&gt;Lembrando que as visas de disseminação incluem:&lt;/p&gt;
 
-&lt;p&gt;Após abordagem da cavidade por incisão mediana, aspira-se o líquido ascítico e, na
-ausência deste, procede-se o lavado da cavidade peritoneal, incluindo o fundo de saco de
-Douglas, goteiras parieto-cólicas direita e esquerda e o espaço subdiafragmático direito. É
-obrigatório o inventário de toda a cavidade com biópsia de lesões suspeitas e biópsia de
-linfonodos pélvicos e para-aórticos. A simples palpação dos linfonodos, com biópsia apenas dos
-suspeitos incorre em elevada taxa de falsos-negativos.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Transcelômica: mais comum e precoce, células ovarianas se implantam na cavidade peritoneal&lt;/li&gt;
+  &lt;li&gt;Continuidade: disseminação direta para trompas, ovário contralateral e peritônio pélvico&lt;/li&gt;
+  &lt;li&gt;Linfática: comum porém tardia, linfonodos paraórticos, pélvicos e inguinais&lt;/li&gt;
+  &lt;li&gt;Hematogênica: a mais rara, ocorrendo em casos avançados&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;strong&gt;A cirurgia básica para o câncer do ovário é a histerectomia total abdominal com anexectomia bilateral e omentectomia, além do inventário e das biópsias descritas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A laparotomia continua sendo o método mais empregado para a abordagem das neoplasias ovarianas, A laparoscopia têm evidentes limitações quanto a radicalidade oncológica, além dos riscos de disseminação inerentes às limitações do acesso para retirada da peça operatória. A exequibilidade de um procedimento por via laparoscópica não significa ser esta a via de escolha.&lt;/p&gt;
 
-&lt;p&gt;Fazem exceção as pacientes jovens, desejosas de procriar, portadoras de tumores no estadio Ia, nas quais
-pode-se realizar a ooforectomia unilateral com biópsia contralateral. Negativa a biópsia, está autorizada a permanência do útero e do ovário não acometido até a consumação da maternidade,
-quando então uma nova laparotomia se impõe para completar o procedimento.&lt;/p&gt;
+&lt;p&gt;Após abordagem da cavidade por incisão mediana, aspira-se o líquido ascítico e, na ausência deste, procede-se o lavado da cavidade peritoneal, incluindo o fundo de saco de Douglas, goteiras parieto-cólicas direita e esquerda e o espaço subdiafragmático direito. É
+obrigatório o inventário de toda a cavidade com biópsia de lesões suspeitas e biópsia de linfonodos pélvicos e para-aórticos. A simples palpação dos linfonodos, com biópsia apenas dos suspeitos incorre em elevada taxa de falsos-negativos.&lt;/p&gt;
 
-&lt;p&gt;Nos tumores ovarianos avançados recomenda-se a remoção de todas as massas possíveis de serem ressecadas, com o objetivo de eliminar todas as lesões macroscópicas, ou, pelo menos,
-aquelas maiores de 2 cm. Este procedimento, denominado de &lt;strong&gt;cirurgia citorredutora (debulking surgery)&lt;/strong&gt; se justifica pelo alívio da sintomatologia, principalmente gastrointestinal, pela diminuição da produção de fatores imunossupressores pelas grandes massas neoplásicas e, principalmente, pela eliminação de grandes massas, cujas células são resistentes à quimio e à
-radioterapia por serem mal vascularizadas e estarem predominantemente na fase de repouso do
-ciclo celular.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A cirurgia básica para o câncer do ovário é a histerectomia total abdominal com anexectomia bilateral e omentectomia, além do inventário e das biópsias descritas&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Nos tumores Ia a &lt;strong&gt;quimioterapia&lt;/strong&gt; não aumenta a sobrevida e, portanto, não é recomendada. Nos demais casos está indicada.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Cirurgia fundamental&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Histerectomia total extrafascial&lt;/li&gt;
+      &lt;li&gt;Salpingooferectomia bilateral&lt;/li&gt;
+      &lt;li&gt;Omentectomia infracólica&lt;/li&gt;
+      &lt;li&gt;Incisão mediana longitudinal&lt;/li&gt;
+      &lt;li&gt;Coleta do líquidoperitoneal&lt;/li&gt;
+      &lt;li&gt;Biópsias peritoneais na pelve&lt;/li&gt;
+      &lt;li&gt;inventário abdominal&lt;/li&gt;
+      &lt;li&gt;Ressecção de implantes macroscópicos&lt;/li&gt;
+      &lt;li&gt;Avaliação de linfonodos pélvicos e paraórticos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;O cisplatino, o carboplatino, a ciclofosfamida e o paclitaxel são os agentes mais ativos
-contra o câncer epitelial. Em geral, os esquemas combinados têm resultado superior à
-monoterapia. O esquema mais utilizado para os tumores epiteliais é a combinação do paclitaxel com o cisplatino ou carboplatino, sendo este último preferível pela menor incidência de efeitos colaterais e neurotoxicidade. Os efeitos colaterais mais frequentes da quimioterapia para os
-tumores de ovário são náuseas, vômitos e alopécia, enquanto que o mais temido é a
+&lt;p&gt;Fazem exceção as pacientes jovens, desejosas de procriar, portadoras de tumores no estadio Ia, nas quais pode-se realizar a ooforectomia unilateral com biópsia contralateral. Negativa a biópsia, está autorizada a permanência do útero e do ovário não acometido até a consumação da maternidade, quando então uma nova laparotomia se impõe para completar o procedimento.&lt;/p&gt;
+
+&lt;p&gt;Nos tumores ovarianos avançados (&amp;gt; estágio II) recomenda-se a remoção de todas as massas possíveis de serem ressecadas, com o objetivo de eliminar todas as lesões macroscópicas, ou, pelo menos, aquelas maiores de 2 cm. Este procedimento, denominado de &lt;strong&gt;cirurgia citorredutora (debulking surgery)&lt;/strong&gt; se justifica pelo alívio da sintomatologia, principalmente gastrointestinal, pela diminuição da produção de fatores imunossupressores pelas grandes massas neoplásicas e, principalmente, pela eliminação de grandes massas, cujas células são resistentes à quimio e à radioterapia por serem mal vascularizadas e estarem predominantemente na fase de repouso do ciclo celular.&lt;/p&gt;
+
+&lt;p&gt;Nos tumores Ia a &lt;strong&gt;quimioterapia&lt;/strong&gt; não aumenta a sobrevida e, portanto, não é recomendada. Nos demais casos está indicada (no MED fala que Ib também não faz quimioterapia).&lt;/p&gt;
+
+&lt;p&gt;O cisplatino, o carboplatino, a ciclofosfamida e o paclitaxel são os agentes mais ativos contra o câncer epitelial. Em geral, os esquemas combinados têm resultado superior à monoterapia. O esquema mais utilizado para os tumores epiteliais é a combinação do paclitaxel com o cisplatino ou carboplatino, sendo este último preferível pela menor incidência de efeitos colaterais e neurotoxicidade. Os efeitos colaterais mais frequentes da quimioterapia para os tumores de ovário são náuseas, vômitos e alopécia, enquanto que o mais temido é a
 mielodepressão.&lt;/p&gt;
 
-&lt;p&gt;Embora alguns tumores de ovário sejam radiosensíveis, como por exemplo os
-disgerminomas e os tumores endometrióides, a &lt;strong&gt;radioterapia tem caído em desuso&lt;/strong&gt; pela dificuldade em realizar uma irradiação eficaz em toda a cavidade peritoneal sem incorrer em riscos
-importantes de lesão de alças delgadas, fígado e rins.&lt;/p&gt;
+&lt;p&gt;Nos tumores estádio IV normalmente não se opera, fazendo apenas uma poliquimioterapia exclusiva. A cirurgia citorredutora é feita em casos individualizados.&lt;/p&gt;
 
-&lt;p&gt;Alguns meses após o final do tratamento, as pacientes devem se submeter a uma cirurgia de
-revisão (second-look), com inventário da cavidade e biópsia, afim de reavaliar o sucesso do tratamento e programar novas terapias. O seguimento posterior será realizado através de exames
-de imagem do abdome e outras regiões conforme a necessidade, além da dosagem seriada do CA
-125 e outros marcadores que tenham se revelado positivos no período pré-operatório.&lt;/p&gt;
+&lt;p&gt;Embora alguns tumores de ovário sejam radiosensíveis, como por exemplo os
+disgerminomas e os tumores endometrióides, a &lt;strong&gt;radioterapia tem caído em desuso&lt;/strong&gt; pela dificuldade em realizar uma irradiação eficaz em toda a cavidade peritoneal sem incorrer em riscos importantes de lesão de alças delgadas, fígado e rins.&lt;/p&gt;
+
+&lt;p&gt;Alguns meses após o final do tratamento, as pacientes devem se submeter a uma cirurgia de revisão (second-look), com inventário da cavidade e biópsia, afim de reavaliar o sucesso do tratamento e programar novas terapias. O seguimento posterior será realizado através de exames
+de imagem do abdome e outras regiões conforme a necessidade, além da dosagem seriada do CA 125 e outros marcadores que tenham se revelado positivos no período pré-operatório.&lt;/p&gt;
 
 &lt;h3 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h3&gt;
 &lt;p&gt;Diretamente relacionado ao
