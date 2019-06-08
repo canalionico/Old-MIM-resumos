@@ -29,6 +29,10 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/tumores-de-ovario',
+      
+        '/oncomastologia',
+      
         '/doenca-renal-policistica',
       
         '/obstrucao-intestinal',
@@ -447,6 +451,8 @@ self.addEventListener('install', function (event) {
         '/favicon-otimizado.svg'
       
         '/favicon.ico'
+      
+        '/favicon.png'
       
         '/manifest.json'
       

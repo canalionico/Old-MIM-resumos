@@ -1,4 +1,706 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-05T23:19:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença renal policística autossômica dominante</title><link href="http://localhost:4000/doenca-renal-policistica" rel="alternate" type="text/html" title="Doença renal policística autossômica dominante" /><published>2019-06-05T00:00:00-03:00</published><updated>2019-06-05T00:00:00-03:00</updated><id>http://localhost:4000/doenca-renal-policistica</id><content type="html" xml:base="http://localhost:4000/doenca-renal-policistica">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-08T18:05:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores de ovário</title><link href="http://localhost:4000/tumores-de-ovario" rel="alternate" type="text/html" title="Tumores de ovário" /><published>2019-06-08T00:00:00-03:00</published><updated>2019-06-08T00:00:00-03:00</updated><id>http://localhost:4000/tumores-de-ovario</id><content type="html" xml:base="http://localhost:4000/tumores-de-ovario">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#tumorações-não-neoplásicas&quot; id=&quot;markdown-toc-tumorações-não-neoplásicas&quot;&gt;Tumorações não-neoplásicas&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#funcionais&quot; id=&quot;markdown-toc-funcionais&quot;&gt;Funcionais&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#cistos-foliculares&quot; id=&quot;markdown-toc-cistos-foliculares&quot;&gt;Cistos foliculares&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#cistos--de-corpo-lútero&quot; id=&quot;markdown-toc-cistos--de-corpo-lútero&quot;&gt;Cistos  de corpo lútero&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#inflamatórias&quot; id=&quot;markdown-toc-inflamatórias&quot;&gt;Inflamatórias&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#endometriomas&quot; id=&quot;markdown-toc-endometriomas&quot;&gt;Endometriomas&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#abcessos-pélvicos&quot; id=&quot;markdown-toc-abcessos-pélvicos&quot;&gt;Abcessos pélvicos&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cistos-serosos-de-inclusão&quot; id=&quot;markdown-toc-cistos-serosos-de-inclusão&quot;&gt;Cistos serosos de inclusão&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tumorações-neoplásicas&quot; id=&quot;markdown-toc-tumorações-neoplásicas&quot;&gt;Tumorações neoplásicas&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#fatores-protetores&quot; id=&quot;markdown-toc-fatores-protetores&quot;&gt;Fatores protetores&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#classificação-histológica&quot; id=&quot;markdown-toc-classificação-histológica&quot;&gt;Classificação histológica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As tumorações ovarianas podem ser de diversas naturezas. Podemos dividi-las em:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Funcionais
+    &lt;ul&gt;
+      &lt;li&gt;cistos foliculares,&lt;/li&gt;
+      &lt;li&gt;cistos de corpo lúteo (hemorrágicos ou não)&lt;/li&gt;
+      &lt;li&gt;cistos teca-luteínicos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Inflamatórias
+    &lt;ul&gt;
+      &lt;li&gt;endometriomas&lt;/li&gt;
+      &lt;li&gt;abscessos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;De inclusão&lt;/li&gt;
+  &lt;li&gt;Neoplásicas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tumorações-não-neoplásicas&quot;&gt;Tumorações não-neoplásicas&lt;/h2&gt;
+&lt;h3 id=&quot;funcionais&quot;&gt;Funcionais&lt;/h3&gt;
+&lt;p&gt;Os cistos funcionais constituem a imensa maioria das massas ovarianas durante o menacme.&lt;/p&gt;
+
+&lt;p&gt;Os cistos funcionais, por definição, regridem espontaneamente. O uso de contraceptivos
+orais em esquemas contínuos por dois meses, conhecido teste de Spanius, visa manter o ovário
+em repouso e assim acelerar a regressão dos cistos funcionais.&lt;/p&gt;
+
+&lt;p&gt;A taxa de regressão é a mesma,
+independente de realizar ou não o tratamento, entretanto, o tratamento pode ser empregado, para
+evitar a formação de novos cistos que possam confundir o diagnóstico durante o período de
+observação.&lt;/p&gt;
+
+&lt;h4 id=&quot;cistos-foliculares&quot;&gt;Cistos foliculares&lt;/h4&gt;
+&lt;p&gt;A falha na ruptura do folículo com acúmulo de líquido em seu interior tornando-o
+hidrópico é responsável pelo aparecimento dos &lt;strong&gt;cistos foliculares&lt;/strong&gt;. São assim chamados quando &lt;strong&gt;ultrapassam 3 cm e excepcionalmente superam os 8 cm&lt;/strong&gt; de diâmetro.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Comuns durante o menacme&lt;/li&gt;
+  &lt;li&gt;podem ocorrer até 3 anos após a menopausa em resposta aos altos níveis de FSH&lt;/li&gt;
+  &lt;li&gt;De regra são assintomáticos&lt;/li&gt;
+  &lt;li&gt;Descobertos em ecografias de rotina
+    &lt;ul&gt;
+      &lt;li&gt;aparecem à ecografia como massas císticas unilaterais simples que em geral não ultrapassam os 8 cm de diâmetro&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;cistos--de-corpo-lútero&quot;&gt;Cistos  de corpo lútero&lt;/h4&gt;
+&lt;p&gt;O &lt;strong&gt;corpo lúteo&lt;/strong&gt; pode igualmente originar cistos, os quais, por conta da neovascularização pós-ovulatória freqüentemente se tornam hemorrágicos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Podem desencadear sintomatologia dolorosa
+    &lt;ul&gt;
+      &lt;li&gt;por conta de distensão capsular e discreto hemoperitônio&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Os cistos teca-luteínicos resultam da hiperestimulação ovariana que costuma ocorrer na doença trofoblástica gestacional, indução da ovulação para reprodução assistida, gestação gemelar e hidropisia fetal.
+    &lt;ul&gt;
+      &lt;li&gt;São áreas císticas múltiplas que podem redundar em diâmetros ovarianos acima de 10 cm.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os cistos hemorrágicos de corpo lúteo apresentam ao ultra-som ecos de baixa amplitude
+com padrão reticular, correspondente à rede de fibrina, podendo apresentar ainda área sólida
+hipoecóica correspondente ao coágulo. Quando muito recente pode se apresentar como cisto de
+líquido espesso e homogêneo simulando um endometrioma. À dopplervelocimetria, apresenta
+fluxo de baixa ou média resistência na periferia. A ausência de fluxo no coágulo do cisto
+hemorrágico contribui para diferenciá-lo de componente sólido neoplásico.&lt;/p&gt;
+
+&lt;h3 id=&quot;inflamatórias&quot;&gt;Inflamatórias&lt;/h3&gt;
+&lt;p&gt;As tumorações inflamatórias dos ovários ocorrem como complicações de doenças pélvicas como endometriose e infecção pélvica.&lt;/p&gt;
+
+&lt;h4 id=&quot;endometriomas&quot;&gt;Endometriomas&lt;/h4&gt;
+&lt;p&gt;Podem surgir como uma
+cistificação de foco superficial de endometriose ovariana ou como uma colonização de um cisto
+não neoplásico a partir de células endometrióticas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;São repletos de sangue antigo associado a debris menstruais
+    &lt;ul&gt;
+      &lt;li&gt;conferindo ao seu conteúdo um &lt;strong&gt;aspecto achocolatado&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Comumente, estão aderidos a outras estruturas pélvicas, em particular ao peritônio da fosseta ovárica&lt;/li&gt;
+  &lt;li&gt;Cursam habitualmente com
+    &lt;ul&gt;
+      &lt;li&gt;dor pélvica crônica
+        &lt;ul&gt;
+          &lt;li&gt;podendo ocasional dor tipo abdome agudo nos casos de ruptura&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;dismenorréia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Seu tratamento é cirúrgico
+    &lt;ul&gt;
+      &lt;li&gt;quando ultrapassam os 2-3 cm de diâmetro,&lt;/li&gt;
+      &lt;li&gt;sendo de escolha, a via laparoscópica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Têm aspecto ecográfico bastante característico. Tipicamente são cistos
+únicos, embora possam ser múltiplos simulando septações. Em seu interior, visualizam-se ecos
+de baixa amplitude homogeneamente distribuídos. Pontos de calcificação isolados podem ser
+encontrados na cápsula, recebendo a denominação de corpúsculos de Rokitanski.&lt;/p&gt;
+
+&lt;h4 id=&quot;abcessos-pélvicos&quot;&gt;Abcessos pélvicos&lt;/h4&gt;
+&lt;p&gt;Em geral, envolvem as trompas e os ovários, quando não outros órgãos adjacentes. Ocorrem como uma evolução da doença inflamatória pélvica, com predominância de germes anaeróbios.&lt;/p&gt;
+
+&lt;p&gt;Precedendo o surgimento dos abscessos, podem ocorrer
+massas sólidas conhecidas como complexos inflamatórios tubo-ovarianos. Envolvem extensas
+aderências e destruição tissular, com perda de função e seqüelas como dor pélvica crônica. A
+clínica e o tratamento dos abscessos são revistos no artigo de DIP.&lt;/p&gt;
+
+&lt;p&gt;Os abscessos aparecem ao ultra-som como massas mistas complexas, de limites mal
+definidos, por vezes envolvendo os anexos uterinos e outras estruturas pélvicas. Com o evoluir do
+processo, o abscesso vai se liquefazendo e o componente cístico predominando na imagem
+ecográfica. A dopplervelocimetria costuma revelar fluxo de baixa resistência, dado o
+hipermetabolismo do processo inflamatório.&lt;/p&gt;
+
+&lt;p&gt;Experiências recentes
+indicam que a punção dos abscessos tubo-ovarianos guiada pela ultra-sonografia é segura e pode
+ser uma importante aliada da antibioticoterapia reduzindo o tempo de tratamento, melhorando os
+índices de cura e reduzindo a necessidade de cirurgia.&lt;/p&gt;
+
+&lt;h3 id=&quot;cistos-serosos-de-inclusão&quot;&gt;Cistos serosos de inclusão&lt;/h3&gt;
+&lt;p&gt;Os cistos serosos de inclusão podem ocorrer desde a infância até a pós-menopausa. São compostos de cápsula fina e conteúdo aquoso. Trazem dificuldades de interpretação diagnóstica porque apesar do aspecto funcional não regridem, nem tampouco evoluem como os neoplásicos.&lt;/p&gt;
+
+&lt;h2 id=&quot;tumorações-neoplásicas&quot;&gt;Tumorações neoplásicas&lt;/h2&gt;
+&lt;p&gt;Dada a ampla variedade de tecidos que compõem o ovário, podemos encontrar uma extensa
+gama de tipos histológicos entre as neoplasias ovarianas. Independente do tipo histológico, as
+neoplasias podem ser classificadas como benignas, malignas e tumores proliferativos atípicos do
+ovário (carcinoma de baixo potencial de malignidade). Esses últimos são os antigos tumores
+borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
+
+&lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;A incidência do câncer de ovário é de 15/100.000 mulheres na Escandinávia, 10/100.000 na Europa ocidental e América do Norte e 5/100.000 no Japão e países subdesenvolvidos&lt;/li&gt;
+  &lt;li&gt;Apesar dos avanços no tratamento, particularmente envolvendo a combinação da cirurgia com a quimioterapia a base do paclitaxel, a sobrevida em 5 anos tem estado em torno dos 40%&lt;/li&gt;
+  &lt;li&gt;Os padrões hereditários ou familiares respondem por apenas
+5 a 10% de todas as malignidades.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tempo de menacme (menarca precoce e menopausa tardia) tem fraco efeito&lt;/li&gt;
+  &lt;li&gt;Infertilidade&lt;/li&gt;
+  &lt;li&gt;TRH não parece ter efeito&lt;/li&gt;
+  &lt;li&gt;Ingesta de gordura animal&lt;/li&gt;
+  &lt;li&gt;Asbesto&lt;/li&gt;
+  &lt;li&gt;Síndrome de Lynch II (síndrome do câncer colo-retal não polipóide hereditário)
+    &lt;ul&gt;
+      &lt;li&gt;a forma mais comum do câncer colo-retal hereditário e envolve a ocorrência de malignidades extra-colônicas, a saber: endométrio, ovário, estômago, intestino delgado, pâncreas, trato hepato-biliar, cérebro e trato urinário superior.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;síndrome do câncer mama-ovário, ligada à mutação dos genes BRCA 1 e 2.
+    &lt;ul&gt;
+      &lt;li&gt;Ooforectomia profilática após a menopausa e uso de contraceptivos hormonais antes da menopausa?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;fatores-protetores&quot;&gt;Fatores protetores&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gravidez (↓40% + 14% a cada nova gestação)
+    &lt;ul&gt;
+      &lt;li&gt;A anovulação, a redução dos níveis de gonadotrofinas, a interrupção do fluxo retrógrado de carcinógenos e de fluxo menstrual pelo trato reprodutivo, os atos níveis de progesterona e a apoptose associada à gravidez são mecanismos sugeridos.&lt;/li&gt;
+      &lt;li&gt;parece que as gestações que terminam em abortamento reduzem a incidência da neoplasia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Amamentação&lt;/li&gt;
+  &lt;li&gt;Contraceptivos orais&lt;/li&gt;
+  &lt;li&gt;Ligadura tubária&lt;/li&gt;
+  &lt;li&gt;Histerectomia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Costumam se desenvolver silenciosamente
+    &lt;ul&gt;
+      &lt;li&gt;Nos estádios iniciais os sintomas são ausentes, ou leves, por vezes simulando quadros gastrintestinais inespecíficos&lt;/li&gt;
+      &lt;li&gt;Grande parte das pacientes se encontra em estádios avançados quando a doença é diagnosticada&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dor abdominal vaga&lt;/li&gt;
+  &lt;li&gt;Distensão abdominal
+    &lt;ul&gt;
+      &lt;li&gt;Pela massa tumoral ou ascite&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sintomas gastrointestinais
+    &lt;ul&gt;
+      &lt;li&gt;Empachamento&lt;/li&gt;
+      &lt;li&gt;Dispepsia&lt;/li&gt;
+      &lt;li&gt;Náuseas&lt;/li&gt;
+      &lt;li&gt;Diarréia ou constipação&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Perda de peso&lt;/li&gt;
+  &lt;li&gt;Sintomas compressivos de órgãos abdominais
+    &lt;ul&gt;
+      &lt;li&gt;Principalmente do trato urinário e gastrointestinal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sangramento genital&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Massa pélvica ou pélvico-abdominal uni ou bilateral
+    &lt;ul&gt;
+      &lt;li&gt;sendo a &lt;strong&gt;bilateralidade&lt;/strong&gt; fortemente indicativa de malignidade&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Abdome volumoso sobre membros inferiores emagrecidos (casos avançados)&lt;/li&gt;
+  &lt;li&gt;Toque vaginal: identifica tumores
+    &lt;ul&gt;
+      &lt;li&gt;sólidos ou mistos,&lt;/li&gt;
+      &lt;li&gt;de consistência firme, por vezes, pétrea,&lt;/li&gt;
+      &lt;li&gt;freqüentemente aderida a outros órgãos pélvicos&lt;/li&gt;
+      &lt;li&gt;superfície irregular&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ascite pode ser volumosa
+    &lt;ul&gt;
+      &lt;li&gt;podendo dificultar a percepção de pequenas massas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;USG
+    &lt;ul&gt;
+      &lt;li&gt;o primeiro e mais versátil método utilizado no diagnóstico diferencial, sendo particularmente útil na diferenciação entre cistos funcionais e neoplásicos&lt;/li&gt;
+      &lt;li&gt;a maioria dos tumores ovarianos são achados incidentais de ultra-sonografias de rotina.&lt;/li&gt;
+      &lt;li&gt;Os abscessos e os endometriomas, como complicações de doenças pélvicas específicas, muitas vezes apresentam um quadro clínico característico que orienta o diagnóstico diferencial&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;São sinais ecográficos sugestivos de natureza neoplásica&lt;/strong&gt;
+        &lt;ul&gt;
+          &lt;li&gt;bilateralidade,&lt;/li&gt;
+          &lt;li&gt;a cápsula espessa,&lt;/li&gt;
+          &lt;li&gt;projeções papilíferas intra ou extra císticas,&lt;/li&gt;
+          &lt;li&gt;presença de septos, principalmente os septos com espessura igual ou superior a 4 mm e no qual se visualizam vasos à dopplervelocimetria&lt;/li&gt;
+          &lt;li&gt;massas sólidas, mistas ou císticas com componente sólido mural&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Embora a ecografia possa ser utilizada para orientar a punção de cistos ovarianos, raramente encontramos situações que a justifiquem.
+        &lt;ul&gt;
+          &lt;li&gt;nos neoplásicos é arriscada, havendo suspeita de que possa piorar o prognóstico por disseminar células tumorais para a cavidade peritoneal&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CA-125
+    &lt;ul&gt;
+      &lt;li&gt;níveis de superiores a 35 UI/mL parecem ser marcadores independentes de risco de malignidade nos tumores ecograficamente suspeitos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tomografia computadorizada ou ressonância magnética do abdome que podem alertar para a existência de metástase em outros órgãos abdominais&lt;/li&gt;
+  &lt;li&gt;Leucograma com VSH&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;I: Tumor confinado aos ovários&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Ia: Tumor limitado a um ovário, com cápsula intacta, sem tumor na superfície ovariana e sem células malignas no líquido ascítico ou lavado peritoneal.&lt;/li&gt;
+      &lt;li&gt;Ib: Tumor limitado aos dois ovários, com cápsula intacta, sem tumor na superfície ovariana e sem células malignas no líquido ascítico ou lavado peritoneal.&lt;/li&gt;
+      &lt;li&gt;Ic: Tumor limitado a um ou aos dois ovários com um dos seguintes achados: cápsula rota, tumor na superfície ovariana, células malignas no líquido ascítico ou no lavado peritoneal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;II: Tumor envolvendo um ou dois ovários com extensão para a pelve&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;IIa: Extensão e/ou implantes no útero e/ou trompas&lt;/li&gt;
+      &lt;li&gt;IIb: Extensão para outros órgãos pélvicos&lt;/li&gt;
+      &lt;li&gt;IIc: Tumor no estádio IIa ou IIb com células malignas no líquido ascítico ou no lavado peritoneal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;III: Tumor envolvendo um ou dois ovários com metástases para a cavidade peritoneal (fora da pelve) e/ou metástase para linfonodos regionais.&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;IIIa: Metástase peritoneal microscópica além da pelve.&lt;/li&gt;
+      &lt;li&gt;IIIb: Metástase peritoneal macroscópica além da pelve, de 2 cm ou menos em sua maior dimensão.&lt;/li&gt;
+      &lt;li&gt;IIIc: Metástase peritoneal maior que 2 cm em sua maior dimensão ou metástase para linfonodos regionais&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IV: Metástase a distância (fora da cavidade peritoneal) incluindo parênquima hepático.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;classificação-histológica&quot;&gt;Classificação histológica&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Tumores epitelial-estromal de superfície
+    &lt;ul&gt;
+      &lt;li&gt;Tumores serosos
+        &lt;ul&gt;
+          &lt;li&gt;Maligno: Adenocarcinoma, Adenocarcinoma papilar de superfície, adenocarcinofibroma.&lt;/li&gt;
+          &lt;li&gt;Tumor borderline: Tumor cístico papilar, tumor papilar de superfície, adenofibroma e cistadenofibroma&lt;/li&gt;
+          &lt;li&gt;Benigno: Cistadenoma, cistadenoma papilar, papiloma de superfície, adenofibroma e cistadenofibroma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tumores mucinosos
+        &lt;ul&gt;
+          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma Tumor&lt;/li&gt;
+          &lt;li&gt;borderline: Tipo intestinal e tipo endocervical&lt;/li&gt;
+          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tumores endometrióides
+        &lt;ul&gt;
+          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma, tumor mulleriano mixto&lt;/li&gt;
+          &lt;li&gt;Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma&lt;/li&gt;
+          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tumores de células claras
+        &lt;ul&gt;
+          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma&lt;/li&gt;
+          &lt;li&gt;Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma&lt;/li&gt;
+          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tumores de células transicionais
+        &lt;ul&gt;
+          &lt;li&gt;Malignos: Carcinoma de células transicionais, tumor de Brenner maligno&lt;/li&gt;
+          &lt;li&gt;Borderline: Tumor de Brenner variante proliferante&lt;/li&gt;
+          &lt;li&gt;Benigno: Tumor de Brenner&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tumor de células escamosas
+        &lt;ul&gt;
+          &lt;li&gt;Carcinoma de células escamosas e cisto epidermóide&lt;/li&gt;
+          &lt;li&gt;Tumor epitelial misto (componente específico)&lt;/li&gt;
+          &lt;li&gt;Maligno, borderline e benigno&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumores do cordão-estroma sexual
+    &lt;ul&gt;
+      &lt;li&gt;Grupo de células da granulosa: tipo adulto e juvenil&lt;/li&gt;
+      &lt;li&gt;Grupo dos tecoma-fibroma: Tecoma (típico, luteinizado), fibroma, fibrossarcoma, fibrotecoma.&lt;/li&gt;
+      &lt;li&gt;Grupo de células Sertoli-Leydig (Androblastoma): Bem, moderadamente e pouco diferenciado.&lt;/li&gt;
+      &lt;li&gt;Tumor de células de Sertoli, tumor de células estroma-Leyding&lt;/li&gt;
+      &lt;li&gt;Tumores do cordão sexual misto ou de células não classificadas:&lt;/li&gt;
+      &lt;li&gt;Tumor do cordão sexual com túbulos anulares, ginandroblastoma&lt;/li&gt;
+      &lt;li&gt;Tumor de células esteróides: Tumor de células de Leyding&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumor de células germinativas
+    &lt;ul&gt;
+      &lt;li&gt;Tumor de células germinativas primitivas: Digerminoma, tumor do saco vitelino, carcinoma embrionário, poliembrioma, coriocarcinoma, tumor de células germinativas misto&lt;/li&gt;
+      &lt;li&gt;Teratoma bifásico ou trifásico : Imaturo, maduro: sólido, cístico (cisto dermóide), fetiforme&lt;/li&gt;
+      &lt;li&gt;Teratoma monodérmico:Tumores tireoidianos (struma ovarii), tumores carcinóides, tumores neuroectodérmicos, carcinomas, tumores melanocíticos, outros&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumores misto de células germinativas e do cordão sexual
+    &lt;ul&gt;
+      &lt;li&gt;Gonadoblastoma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumores da rete ovarii
+    &lt;ul&gt;
+      &lt;li&gt;Adenocarcinoma, adenoma, cistadenoma, cistadenofibroma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumores diversos&lt;/li&gt;
+  &lt;li&gt;Carcinoma de pequenas células, mesotelioma primitivo do ovário, carcinoma hepatóide, tumor de Wilms, coriocarcinoma gestacional, mola hidatiforme, outros&lt;/li&gt;
+  &lt;li&gt;Condições tumor-like
+    &lt;ul&gt;
+      &lt;li&gt;Luteoma da gravidez, hipertecose, fibromatose, edema ovariano maciço&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tumores linfóides ou hematopoieticos
+    &lt;ul&gt;
+      &lt;li&gt;Linfoma maligno, leucemia, plasmocitoma&lt;/li&gt;
+      &lt;li&gt;Tumores secundários&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;p&gt;Embora os métodos diagnósticos já descritos possibilitem alguma aproximação da natureza
+benigna ou maligna dos tumores de ovário, o diagnóstico definitivo somente pode ser firmado
+pela histopatologia da peça cirúrgica.&lt;/p&gt;
+
+&lt;p&gt;Considerando ainda que as neoplasias benignas podem
+sofrer complicações tais como torçao, sangramento ou ruptura, &lt;strong&gt;a presença de tumoração ovariana suspeita de neoplasia é indicação de cirurgia.&lt;/strong&gt; Em se confirmando a natureza benigna da neoplasia, a ooforectomia ou mesmo a exérese da tumoração é curativa.&lt;/p&gt;
+
+&lt;p&gt;A cirurgia é o tratamento primário do câncer de ovário. Permite, além do diagnóstico
+definitivo, a exérese da lesão e o seu estadiamento. Vigente a possibilidade de tumor maligno, um
+cirurgião oncologista ginecológico deverá, necessariamente, integrar a equipe. Também
+indispensável é a participação de patologista na sala de cirurgia para realizar a histopatologia
+intra-operatória por congelação que orientará a extensão do procedimento.&lt;/p&gt;
+
+&lt;p&gt;A equipe deverá estar habilitada a realizar ressecções de órgãos de toda a cavidade abdominal, tendo em vista que 70% dos cânceres de ovário apresentam metástases no momento do diagnóstico, das quais:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;85% para o peritônio,&lt;/li&gt;
+  &lt;li&gt;70% para o omento,&lt;/li&gt;
+  &lt;li&gt;35% para o fígado.&lt;/li&gt;
+  &lt;li&gt;Metástases linfáticas também são comuns, sendo
+    &lt;ul&gt;
+      &lt;li&gt;80% delas para linfonodos pélvicos&lt;/li&gt;
+      &lt;li&gt;67% aos para-aórticos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A laparotomia continua sendo o método mais empregado para a abordagem das neoplasias
+ovarianas, A laparoscopia têm evidentes limitações quanto a radicalidade oncológica, além dos
+riscos de disseminação inerentes às limitações do acesso para retirada da peça operatória. A
+exequibilidade de um procedimento por via laparoscópica não significa ser esta a via de escolha.&lt;/p&gt;
+
+&lt;p&gt;Após abordagem da cavidade por incisão mediana, aspira-se o líquido ascítico e, na
+ausência deste, procede-se o lavado da cavidade peritoneal, incluindo o fundo de saco de
+Douglas, goteiras parieto-cólicas direita e esquerda e o espaço subdiafragmático direito. É
+obrigatório o inventário de toda a cavidade com biópsia de lesões suspeitas e biópsia de
+linfonodos pélvicos e para-aórticos. A simples palpação dos linfonodos, com biópsia apenas dos
+suspeitos incorre em elevada taxa de falsos-negativos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A cirurgia básica para o câncer do ovário é a histerectomia total abdominal com anexectomia bilateral e omentectomia, além do inventário e das biópsias descritas&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Fazem exceção as pacientes jovens, desejosas de procriar, portadoras de tumores no estadio Ia, nas quais
+pode-se realizar a ooforectomia unilateral com biópsia contralateral. Negativa a biópsia, está autorizada a permanência do útero e do ovário não acometido até a consumação da maternidade,
+quando então uma nova laparotomia se impõe para completar o procedimento.&lt;/p&gt;
+
+&lt;p&gt;Nos tumores ovarianos avançados recomenda-se a remoção de todas as massas possíveis de serem ressecadas, com o objetivo de eliminar todas as lesões macroscópicas, ou, pelo menos,
+aquelas maiores de 2 cm. Este procedimento, denominado de &lt;strong&gt;cirurgia citorredutora (debulking surgery)&lt;/strong&gt; se justifica pelo alívio da sintomatologia, principalmente gastrointestinal, pela diminuição da produção de fatores imunossupressores pelas grandes massas neoplásicas e, principalmente, pela eliminação de grandes massas, cujas células são resistentes à quimio e à
+radioterapia por serem mal vascularizadas e estarem predominantemente na fase de repouso do
+ciclo celular.&lt;/p&gt;
+
+&lt;p&gt;Nos tumores Ia a &lt;strong&gt;quimioterapia&lt;/strong&gt; não aumenta a sobrevida e, portanto, não é recomendada. Nos demais casos está indicada.&lt;/p&gt;
+
+&lt;p&gt;O cisplatino, o carboplatino, a ciclofosfamida e o paclitaxel são os agentes mais ativos
+contra o câncer epitelial. Em geral, os esquemas combinados têm resultado superior à
+monoterapia. O esquema mais utilizado para os tumores epiteliais é a combinação do paclitaxel com o cisplatino ou carboplatino, sendo este último preferível pela menor incidência de efeitos colaterais e neurotoxicidade. Os efeitos colaterais mais frequentes da quimioterapia para os
+tumores de ovário são náuseas, vômitos e alopécia, enquanto que o mais temido é a
+mielodepressão.&lt;/p&gt;
+
+&lt;p&gt;Embora alguns tumores de ovário sejam radiosensíveis, como por exemplo os
+disgerminomas e os tumores endometrióides, a &lt;strong&gt;radioterapia tem caído em desuso&lt;/strong&gt; pela dificuldade em realizar uma irradiação eficaz em toda a cavidade peritoneal sem incorrer em riscos
+importantes de lesão de alças delgadas, fígado e rins.&lt;/p&gt;
+
+&lt;p&gt;Alguns meses após o final do tratamento, as pacientes devem se submeter a uma cirurgia de
+revisão (second-look), com inventário da cavidade e biópsia, afim de reavaliar o sucesso do tratamento e programar novas terapias. O seguimento posterior será realizado através de exames
+de imagem do abdome e outras regiões conforme a necessidade, além da dosagem seriada do CA
+125 e outros marcadores que tenham se revelado positivos no período pré-operatório.&lt;/p&gt;
+
+&lt;h3 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h3&gt;
+&lt;p&gt;Diretamente relacionado ao
+estadio. Assim&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Estadio I, a sobrevidade de 5 anos é de 76 a 93%,&lt;/li&gt;
+  &lt;li&gt;Estadio II a sobrevida está entre 60 e 74%,&lt;/li&gt;
+  &lt;li&gt;Estadio III entre 23 e 41 %&lt;/li&gt;
+  &lt;li&gt;Estadio IV em torno de 11%&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Oncomastologia</title><link href="http://localhost:4000/oncomastologia" rel="alternate" type="text/html" title="Oncomastologia" /><published>2019-06-07T00:00:00-03:00</published><updated>2019-06-07T00:00:00-03:00</updated><id>http://localhost:4000/oncomastologia</id><content type="html" xml:base="http://localhost:4000/oncomastologia">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#carcinogênese&quot; id=&quot;markdown-toc-carcinogênese&quot;&gt;Carcinogênese&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-proteção&quot; id=&quot;markdown-toc-fatores-de-proteção&quot;&gt;Fatores de proteção&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#metástase&quot; id=&quot;markdown-toc-metástase&quot;&gt;Metástase&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#imunohistoquímico&quot; id=&quot;markdown-toc-imunohistoquímico&quot;&gt;Imunohistoquímico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#trataemnto&quot; id=&quot;markdown-toc-trataemnto&quot;&gt;Trataemnto&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#quimioterapia&quot; id=&quot;markdown-toc-quimioterapia&quot;&gt;Quimioterapia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hormonioterapia&quot; id=&quot;markdown-toc-hormonioterapia&quot;&gt;Hormonioterapia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#painel-prognóstico&quot; id=&quot;markdown-toc-painel-prognóstico&quot;&gt;Painel prognóstico&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Baseado na aula de Prof. Rossano Araújo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Todo câncer é genético&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;carcinogênese&quot;&gt;Carcinogênese&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fase de indução
+    &lt;ul&gt;
+      &lt;li&gt;Genes protetores: função semelhante à p53
+        &lt;ul&gt;
+          &lt;li&gt;BRCA1: cromossomo 13&lt;/li&gt;
+          &lt;li&gt;BRCA2: cromossomo 17&lt;/li&gt;
+          &lt;li&gt;Muitos outros&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fase de promoção: o estrógeno e progesterona alimentão a célula previamente alterada.&lt;/li&gt;
+  &lt;li&gt;HER1&lt;/li&gt;
+  &lt;li&gt;HER2
+    &lt;ul&gt;
+      &lt;li&gt;Presença de hiperexpressão de oncoproteína HER2 aumenta os receptores hormonais na célula alterada.&lt;/li&gt;
+      &lt;li&gt;↑multiplicação celular&lt;/li&gt;
+      &lt;li&gt;Principal fator de prognóstico biológico do câncer de mama&lt;/li&gt;
+      &lt;li&gt;Paciente pode se beneficiar de terapia biológica que atinja o HER2&lt;/li&gt;
+      &lt;li&gt;Ainda não se conhecem os ligantes do HER2&lt;/li&gt;
+      &lt;li&gt;Não é o HER que causa câncer, é a mutação dele&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Amplificação do gene e superexpressão da proteína&lt;/li&gt;
+  &lt;li&gt;Tempo de duplicação
+    &lt;ul&gt;
+      &lt;li&gt;Uma interação entre
+        &lt;ul&gt;
+          &lt;li&gt;Duração do ciclo celular&lt;/li&gt;
+          &lt;li&gt;Fração de proliferação&lt;/li&gt;
+          &lt;li&gt;Fração de perda celular pós-mitótica: 50% no mínimo é o normal&lt;/li&gt;
+          &lt;li&gt;Fatores determinantes do tempo de duplicação
+            &lt;ul&gt;
+              &lt;li&gt;Potencialidades genéticas&lt;/li&gt;
+              &lt;li&gt;Estímulos hormonais&lt;/li&gt;
+              &lt;li&gt;Necrose&lt;/li&gt;
+              &lt;li&gt;Apoptose celular&lt;/li&gt;
+              &lt;li&gt;Reação imunológica sistêmica local&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Defesa do organismo
+    &lt;ul&gt;
+      &lt;li&gt;Restrição imunológica do hospedeiro&lt;/li&gt;
+      &lt;li&gt;Permanência em estágio G0&lt;/li&gt;
+      &lt;li&gt;Ausência do estímulo hormonal&lt;/li&gt;
+      &lt;li&gt;Proliferação muito lenta&lt;/li&gt;
+      &lt;li&gt;Reação imunitária
+        &lt;ul&gt;
+          &lt;li&gt;RI inata: NRC (&lt;em&gt;natural killer&lt;/em&gt;), macrófagos e neutrófilos&lt;/li&gt;
+          &lt;li&gt;RI adaptativa: linfócitos T e B&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;DOGMA DA MUTAÇÂO GENÉTICA: Síntese de proteínas estranhas e antígenos de superfície.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Estímulos nos recptores de tirosinaquinase promovem aproliferação celular.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Alterações genéticas, hormônios, fatores do crescimento e enzimas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fatores-de-proteção&quot;&gt;Fatores de proteção&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Gestações&lt;/li&gt;
+  &lt;li&gt;Imunocompetência&lt;/li&gt;
+  &lt;li&gt;Biomoduladores tumorais&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;“Mudança de lâmina”: antes da primeira gestação o tecido mamário ainda é indiferendiado. Aborto na primeira gestação é fator de risco pra CA de mama? Alta exposição a hormônios sem completar a gestação e mantendo-a em crescimento e indiferenciada.&lt;/p&gt;
+
+&lt;h2 id=&quot;metástase&quot;&gt;Metástase&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Linfonodos axilares&lt;/li&gt;
+  &lt;li&gt;Pulmão&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Estadiamentos clínicos 3 e 4 o tratamento inical é quimioterapia neoadjuvante, antes da cirúrgia.&lt;/p&gt;
+
+&lt;h2 id=&quot;imunohistoquímico&quot;&gt;Imunohistoquímico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sempre fazer o imunohistoquímico de todas as metástases que aparecerem. Pois cada metástase pode ser biologicamente diferente do tumor primário.
+    &lt;ul&gt;
+      &lt;li&gt;Mostra a hiperexpressão&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Método de FISH
+    &lt;ul&gt;
+      &lt;li&gt;Mostra a amplificação do geneTransitusimab&lt;/li&gt;
+      &lt;li&gt;No núcleo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trataemnto&quot;&gt;Trataemnto&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Primera linha: tratar a primeira metástase&lt;/li&gt;
+  &lt;li&gt;Segunda linha: tratar a segunda metástase…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Receptores EGFR como alvo clínico&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Trastuzumabe:
+    &lt;ul&gt;
+      &lt;li&gt;15 mil reais uma ampola&lt;/li&gt;
+      &lt;li&gt;Anticorpo monoclonal&lt;/li&gt;
+      &lt;li&gt;Terapia alvo&lt;/li&gt;
+      &lt;li&gt;Age no HER2&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bevacizumab: inibe receptor endotelial, impede a neoangiogênese turmor e o tumor entra em hipóxia.&lt;/li&gt;
+  &lt;li&gt;Lapatinibe&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;quimioterapia&quot;&gt;Quimioterapia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Antracíclicos
+    &lt;ul&gt;
+      &lt;li&gt;Adriblastina&lt;/li&gt;
+      &lt;li&gt;Epirrubicina&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Taxanes
+    &lt;ul&gt;
+      &lt;li&gt;Paclitaxel&lt;/li&gt;
+      &lt;li&gt;Docetaxel&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gencitabina&lt;/li&gt;
+  &lt;li&gt;Vinorelbina&lt;/li&gt;
+  &lt;li&gt;Capecitabina&lt;/li&gt;
+  &lt;li&gt;Derivados da platina&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;hormonioterapia&quot;&gt;Hormonioterapia&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;SERMS: moduladores seletivos dos receptores de estrogênio
+    &lt;ul&gt;
+      &lt;li&gt;Tamoxifeno&lt;/li&gt;
+      &lt;li&gt;Raloxifeno&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Inibidores de aromatase: só utilizado em pacientes pós-menopausadas
+    &lt;ul&gt;
+      &lt;li&gt;Anastrozol&lt;/li&gt;
+      &lt;li&gt;Letrozol&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Inativador de aromatase
+    &lt;ul&gt;
+      &lt;li&gt;Exemestrano&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;AEP
+    &lt;ul&gt;
+      &lt;li&gt;Fulvestrano&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;AGHRH: antiestrogênico puro, destrói receptor de estrogênio.
+    &lt;ul&gt;
+      &lt;li&gt;Fulvestrano&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ooferectimia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;painel-prognóstico&quot;&gt;Painel prognóstico&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Receptor hormonais
+    &lt;ul&gt;
+      &lt;li&gt;Estrógeno&lt;/li&gt;
+      &lt;li&gt;Progesterona&lt;/li&gt;
+      &lt;li&gt;Quanto mais expressão do receptor, maior a resposta terapêutica.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Oncoproteína HER2&lt;/li&gt;
+  &lt;li&gt;Antígeno de proliferação &lt;strong&gt;Ki67&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&amp;lt; 14: tumores: luminais A&lt;/li&gt;
+      &lt;li&gt;menor 14: luminais B, pior prognóstico&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;P53&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Doença renal policística autossômica dominante</title><link href="http://localhost:4000/doenca-renal-policistica" rel="alternate" type="text/html" title="Doença renal policística autossômica dominante" /><published>2019-06-05T00:00:00-03:00</published><updated>2019-06-05T00:00:00-03:00</updated><id>http://localhost:4000/doenca-renal-policistica</id><content type="html" xml:base="http://localhost:4000/doenca-renal-policistica">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
@@ -1765,275 +2467,4 @@ pressão de enchimento atrial direita e a resistência ao enchimento venoso. Tal
 reflete no ducto venoso que exibe padrão zero/reverso o, à semelhança da artéria umbilical, durante
 a contração atrial (ponto a), achado altamente relacionado com iminente asfixia fetal. Por fim, o aumento da pressão venosa sistêmica conduz a dilatação máxima do ducto
 venoso e transmissão direta do impulso cardíaco à veia umbilical, causando pulsação nesse vaso.
-A pulsação na veia umbilical está intimamente relacionada com o estágio terminal do feto.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Exame do LCR</title><link href="http://localhost:4000/exame-lcr" rel="alternate" type="text/html" title="Exame do LCR" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/exame-lcr</id><content type="html" xml:base="http://localhost:4000/exame-lcr">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-agudos&quot; id=&quot;markdown-toc-processos-infecciosos-agudos&quot;&gt;Processos infecciosos agudos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-subagudos&quot; id=&quot;markdown-toc-processos-infecciosos-subagudos&quot;&gt;Processos infecciosos subagudos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#processos-infecciosos-crônicos&quot; id=&quot;markdown-toc-processos-infecciosos-crônicos&quot;&gt;Processos infecciosos crônicos&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#neuromicoses&quot; id=&quot;markdown-toc-neuromicoses&quot;&gt;Neuromicoses&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#esquistossomose-do-snc&quot; id=&quot;markdown-toc-esquistossomose-do-snc&quot;&gt;Esquistossomose do SNC&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#neurocisticercose&quot; id=&quot;markdown-toc-neurocisticercose&quot;&gt;Neurocisticercose&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#neurossífilis&quot; id=&quot;markdown-toc-neurossífilis&quot;&gt;Neurossífilis&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#infecção-pelo-hiv&quot; id=&quot;markdown-toc-infecção-pelo-hiv&quot;&gt;Infecção pelo HIV&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#doença-priônica&quot; id=&quot;markdown-toc-doença-priônica&quot;&gt;Doença priônica&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Na fase aguda, o LCR mostra resposta celular com pleocitose, presença de neutrófilos, linfócitos, eosinófilos e resposta humoral caracterizada pela quebra
-da BHE e consequente aumento dos teores de albumina. Na fase crônica, a resposta celular pode ser menos intensa, a BHE se refez e existe produção intratecal de anticorpos específicos com aumento dos teores de globulinas gama. Na fase aguda, o LCR mostra resposta­&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/lcr/ag.jpeg&quot; alt=&quot;img&quot; /&gt;
-&lt;img src=&quot;/assets/infectologia/lcr/ag2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/lcr/tab2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;processos-infecciosos-agudos&quot;&gt;Processos infecciosos agudos&lt;/h2&gt;
-&lt;p&gt;O exame do LCR é fundamental para o diagnóstico das meningites agudas. Nelas, observa-se aumento da pressão do liquor devido ao aumento do volume por diminuição da reabsorção. Com relação à celularidade do LCR, o número de células pode ser superior a 1.000/mm³ nas bacterianas, com predomínio ou totalidade de neutrófilos.&lt;/p&gt;
-
-&lt;p&gt;Nas meningites virais, classicamente linfomonocitárias, pode haver predomínio de neutrófilos nas fases iniciais. Do ponto de vista bioquímico, as meningites agudas cursam com aumento dos níveis proteicos, que é mais intenso nas bacterianas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/lcr/tab1.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Classicamente, as meningites bacterianas cursam com aumento importante do número de células. Predominam os &lt;strong&gt;polimorfonucleares&lt;/strong&gt; (PMN), que podem chegar a 100% do total de leucócitos encontrados, mas a predominância de PMN não é um marcador satisfatório para determinar o tipo de agente causal, pois pode ocorrer em outros tipos de meningites – infecciosas ou inflamatórias.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;proteinorraquia&lt;/strong&gt; aumenta em virtude da quebra da BHE. Pode-se afirmar que a hiperproteinorraquia é tanto mais sensível e específica para os quadros bacterianos quanto maior for o seu teor.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;glicorraquia&lt;/strong&gt; tende a ser muito baixa devido à glicogenólise que ocorre nos processos celulares e, em menor grau, ao consumo bacteriano. Ela apresenta especificidade de 97% no diagnóstico de meningite bacteriana, mas sensibilidade de
-70%, devido a sua dependência da glicemia.&lt;/p&gt;
-
-&lt;p&gt;Assim, a detecção dos níveis do &lt;strong&gt;lactato&lt;/strong&gt; no LCR é importante, sobretudo no diagnóstico diferencial com os processos virais. Nas meningites bacterianas, os níveis de lactato estão
-aumentados no LCR. A determinação do lactato é mais sensível (89 a 100%) e específica (96 a 100%) na distinção entre as meningites bacterianas e virais, mesmo considerando as bacterianas previamente tratadas.&lt;/p&gt;
-
-&lt;p&gt;O exame do liquor nas meningites virais evidencia, classicamente, pleocitose menos intensa que nas meningites bacterianas agudas, com a concentração de proteínas discretamente elevada e os teores de glicose e lactato tendentes à
-normalidade.&lt;/p&gt;
-
-&lt;h2 id=&quot;processos-infecciosos-subagudos&quot;&gt;Processos infecciosos subagudos&lt;/h2&gt;
-&lt;p&gt;A meningoencefalite tuberculosa é a mais frequente e a mais grave complicação neurológica causada pelo &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt;. O diagnóstico laboratorial, que pode ser feito pelo exame do LCR e por avaliação neurorradiológica, é difícil em razão da baixa sensibilidade dos métodos que identificam diretamente o agente etiológico, como micobacteriológico direto, cultura e PCR.&lt;/p&gt;
-
-&lt;p&gt;Geralmente, o diagnóstico e, consequentemente, o tratamento são feitos baseados no quadro clínico associado a
-pleocitose liquórica moderada (até 500 células/mm³), hiperproteinorraquia, diminuição dos teores de glicose e aumento
-da atividade da adenosina deaminase (ADA).&lt;/p&gt;
-
-&lt;p&gt;Além da meningoencefalite, a neurotuberculose pode se apresentar sob forma de tuberculoma e abscesso. A hipertensão intracraniana determina o quadro clínico, e os achados liquóricos são inespecíficos, prevalecendo os dados neurorradiológicos.&lt;/p&gt;
-
-&lt;h2 id=&quot;processos-infecciosos-crônicos&quot;&gt;Processos infecciosos crônicos&lt;/h2&gt;
-&lt;h3 id=&quot;neuromicoses&quot;&gt;Neuromicoses&lt;/h3&gt;
-&lt;p&gt;O envolvimento neurológico por fungos é uma condição grave cujo diagnóstico nem sempre é fácil, devido a inespecificidade dos achados laboratoriais. O quadro clínico pode caracterizar tanto o comprometimento meníngeo quanto o parenquimatoso. Além disso, a forma granulomatosa pode existir, levando à hipertensão intracraniana.&lt;/p&gt;
-
-&lt;p&gt;O exame do LCR mostra pleocitose, aumento dos teores proteicos, que é tanto mais intenso quanto maior for o tempo de evolução, e diminuição dos teores de glicose. Uma característica importante nas fases iniciais da doença é a dissociação entre o quadro liquórico e o quadro clínico, ou seja, &lt;strong&gt;alterações liquóricas importantes e quadro clínico pouco expressivo&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;De modo geral, tanto a identificação direta como o crescimento em cultura têm baixa sensibilidade, assim como os
-exames imunológicos. Exceção deve ser feita à &lt;strong&gt;meningite criptococócica&lt;/strong&gt;, que, além da caracterização clínica mais específica, pode ser diagnosticada mais facilmente pela alta frequência com que são visualizadas tórulas ao exame direto do LCR, pela facilidade do crescimento em meio de cultura e pela existência de teste de aglutinação em látex (crypto-la test), sobretudo nos casos de meningite criptococócica em pacientes HIV positivos.&lt;/p&gt;
-
-&lt;h3 id=&quot;esquistossomose-do-snc&quot;&gt;Esquistossomose do SNC&lt;/h3&gt;
-&lt;h3 id=&quot;neurocisticercose&quot;&gt;Neurocisticercose&lt;/h3&gt;
-&lt;h3 id=&quot;neurossífilis&quot;&gt;Neurossífilis&lt;/h3&gt;
-&lt;h3 id=&quot;infecção-pelo-hiv&quot;&gt;Infecção pelo HIV&lt;/h3&gt;
-&lt;h3 id=&quot;doença-priônica&quot;&gt;Doença priônica&lt;/h3&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Alterações do conteúdo escrotal</title><link href="http://localhost:4000/alteracoes-escrotais" rel="alternate" type="text/html" title="Alterações do conteúdo escrotal" /><published>2019-05-30T00:00:00-03:00</published><updated>2019-05-30T00:00:00-03:00</updated><id>http://localhost:4000/alteracoes-escrotais</id><content type="html" xml:base="http://localhost:4000/alteracoes-escrotais">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#hidrocele&quot; id=&quot;markdown-toc-hidrocele&quot;&gt;Hidrocele&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#hidrocele-simples&quot; id=&quot;markdown-toc-hidrocele-simples&quot;&gt;Hidrocele simples&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hidrocele-comunicante-e-hérnia-inguino-escrotal&quot; id=&quot;markdown-toc-hidrocele-comunicante-e-hérnia-inguino-escrotal&quot;&gt;Hidrocele Comunicante e Hérnia Inguino-escrotal&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hidrocele-de-cordão-espermático&quot; id=&quot;markdown-toc-hidrocele-de-cordão-espermático&quot;&gt;Hidrocele de cordão espermático&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#diagnóstico-2&quot; id=&quot;markdown-toc-diagnóstico-2&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#varicocele&quot; id=&quot;markdown-toc-varicocele&quot;&gt;Varicocele&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-3&quot; id=&quot;markdown-toc-diagnóstico-3&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-3&quot; id=&quot;markdown-toc-tratamento-3&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#criptorquidia&quot; id=&quot;markdown-toc-criptorquidia&quot;&gt;Criptorquidia&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-4&quot; id=&quot;markdown-toc-diagnóstico-4&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-4&quot; id=&quot;markdown-toc-tratamento-4&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A diferenciação da genitália externa do embrião masculino ocorre em torno da 12ª semana de gestação sob a influência da testosterona, mais precisamente da dihidrotestosterona. A diferenciação testicular tem início por volta da 7ª semana de gestação, com desenvolvimento retroperitoneal, podendo ser encontrado já na bolsa escrotal após a 24ª semana.&lt;/p&gt;
-
-&lt;h2 id=&quot;hidrocele&quot;&gt;Hidrocele&lt;/h2&gt;
-&lt;p&gt;A migração do testículo, do abdômen para bolsa escrotal, é acompanhada de
-uma projeção de peritônio que envolve o testículo (processo vaginal), que normalmente
-se fecha abaixo do anel inguinal interno. Defeitos nesta obliteração acarretam em
-passagem de líquido peritoneal para o interior da túnica vaginal, levando ao acúmulo de
-líquido peritoneal entre o testículo e a túnica vaginal que o envolve, o que caracteriza a
-hidrocele.&lt;/p&gt;
-
-&lt;h3 id=&quot;hidrocele-simples&quot;&gt;Hidrocele simples&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;O processo vaginal encontra-se obliterado&lt;/li&gt;
-  &lt;li&gt;porém há acúmulo de líquido na túnica vaginal&lt;/li&gt;
-  &lt;li&gt;Nas crianças é geralmente
-    &lt;ul&gt;
-      &lt;li&gt;bilateral,&lt;/li&gt;
-      &lt;li&gt;de volume considerável,&lt;/li&gt;
-      &lt;li&gt;não redutível à manobras digitais ou mudanças de decúbito,&lt;/li&gt;
-      &lt;li&gt;indolor&lt;/li&gt;
-      &lt;li&gt;percebido ao nascimento&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Em adultos, resulta em aumento na produção de líquido pela túnica vaginal
-    &lt;ul&gt;
-      &lt;li&gt;como nos casos de virose ou pós-trauma e em defeitos na absorção, como na filariose.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h4&gt;
-&lt;p&gt;Feito através do exame físico, ficando a USG reservada para os casos cuja hidrocele surge tardiamente. Transiluminação presente e
-bolsa escrotal tensa são achados importantes.&lt;/p&gt;
-
-&lt;h4 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;nas crianças é expectante até os 2 anos de idade, pois há resolução espontânea na maioria dos casos.&lt;/li&gt;
-  &lt;li&gt;Abordagem cirúrgica
-    &lt;ul&gt;
-      &lt;li&gt;está indicada nos casos persistentes após os 02 anos de idade e nos de grande volume (crianças e adultos) ou com suspeita de persistência do conduto vaginal.&lt;/li&gt;
-      &lt;li&gt;deve ser inguinal nas crianças, para fechamento do conduto, com eversão da túnica vaginal.&lt;/li&gt;
-      &lt;li&gt;Em adultos, a abordagem cirúrgica preferencial é via bolsa escrotal.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;hidrocele-comunicante-e-hérnia-inguino-escrotal&quot;&gt;Hidrocele Comunicante e Hérnia Inguino-escrotal&lt;/h3&gt;
-&lt;p&gt;A persistência do conduto vaginal permite a comunicação da cavidade
-abdominal com a bolsa escrotal, levando a passagem livre de líquido peritoneal e, às vezes, outros elementos intra-abdominais, gerando hérnias com conteúdo variável (alças
-intestinais, por exemplo).&lt;/p&gt;
-
-&lt;p&gt;É responsável pela maioria das hidroceles em recém-nascidos, principalmente nos prematuros, e em crianças.&lt;/p&gt;
-
-&lt;h4 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;O volume geralmente se altera com manobras digitais e mudanças de decúbito.&lt;/li&gt;
-  &lt;li&gt;O surgimento tardio é incomum, enquanto que alterações agudas no volume são comuns.&lt;/li&gt;
-  &lt;li&gt;USG está indicada nos casos duvidosos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Expectante até os 2 anos de idade
-    &lt;ul&gt;
-      &lt;li&gt;pois há resolução espontânea na maioria dos casos até esta idade.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A abordagem cirúrgica
-    &lt;ul&gt;
-      &lt;li&gt;está indicada nos casos persistentes após os 02 anos de idade e nos de grande volume ou com suspeita de persistência do conduto vaginal.&lt;/li&gt;
-      &lt;li&gt;Abordagem deve ser inguinal para fechamento do conduto e eversão da túnica vaginal nos de grande volume.&lt;/li&gt;
-      &lt;li&gt;Exploração contra-lateral está indicada nos casos de hérnia inguinal associada e nos casos de &lt;em&gt;shunts&lt;/em&gt; ventrículoabdominais e diálise peritoneal.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;hidrocele-de-cordão-espermático&quot;&gt;Hidrocele de cordão espermático&lt;/h3&gt;
-&lt;p&gt;O conduto vaginal pode se obliterar segmentarmente, levando ao acúmulo de
-líquido peritoneal em parte do cordão espermático.&lt;/p&gt;
-
-&lt;h4 id=&quot;diagnóstico-2&quot;&gt;Diagnóstico&lt;/h4&gt;
-&lt;p&gt;Clinicamente, apresenta-se como uma massa de limites precisos, indolor,
-palpável abaixo do anel inguinal externo. Nestes casos, a ultrassonografia é importante
-para diferenciação com massas sólidas.&lt;/p&gt;
-
-&lt;h4 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h4&gt;
-&lt;p&gt;A abordagem cirúrgica via inguinal está
-indicada nos casos de volume considerável.&lt;/p&gt;
-
-&lt;h2 id=&quot;varicocele&quot;&gt;Varicocele&lt;/h2&gt;
-&lt;p&gt;A varicocele corresponde à &lt;strong&gt;dilatação das veias do plexo pampiniforme&lt;/strong&gt; do
-cordão espermático. Cerca de 15% da população adulta masculina tem algum grau de varicocele.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mais comum à esquerda (cerca de 70%)
-    &lt;ul&gt;
-      &lt;li&gt;devido à drenagem, com inserção angulada, que ocorre da veia espermática esquerda para a veia renal ipsilateral (direto para veia renal da veia espermática deste lado).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;À direita, menos comum, drena direto para veia cava.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A varicocele é causa de infertilidade masculina, por influenciar negativamente a espermatogênese. Esta influência não é pontual. Podemos citar o refluxo de metabólitos adrenais, aumento da temperatura da bolsa escrotal, hipóxia testicular, entre outras causas.&lt;/p&gt;
-
-&lt;h3 id=&quot;diagnóstico-3&quot;&gt;Diagnóstico&lt;/h3&gt;
-&lt;p&gt;O diagnóstico é feito através do exame físico, podendo ser complementado por
-exame de imagem (USG com doppler da bolsa escrotal).&lt;/p&gt;
-
-&lt;p&gt;Na suspeita de infertilidade do casal, a incidência de varicocele é de 35 a 40% e o espermograma deve ser solicitado. Sendo os achados mais comuns são o baixo número de espermatozóides (Oligospermia), motilidade reduzida (Astenospermia) e
-formas anormais.&lt;/p&gt;
-
-&lt;h3 id=&quot;classificação&quot;&gt;Classificação&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Grau I: vasos palpáveis à manobra de Valsalva;&lt;/li&gt;
-  &lt;li&gt;Grau II: vasos palpáveis e visíveis à manobra de Valsalva;&lt;/li&gt;
-  &lt;li&gt;Grau III: vasos visíveis na posição supina, sem a necessidade de manobra de Valsalva.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-3&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;p&gt;Consiste na correção cirúrgica (ligadura das veias do plexo pampiniforme) para os pacientes com infertilidade.&lt;/p&gt;
-
-&lt;p&gt;A dor escrotal e o fator estético são
-indicações discutíveis.&lt;/p&gt;
-
-&lt;p&gt;Em crianças e adolescentes, a indicação da cirurgia é de maneira geral, feita na presença de atrofia testicular causando assimetria significativa (&amp;gt; 20%).&lt;/p&gt;
-
-&lt;p&gt;O técnica cirúrgica padrão ouro atualmente consiste na &lt;strong&gt;abordagem sub-inguinal por microcirurgia&lt;/strong&gt;, feita com lupa, o que diminui a ligadura inadvertida da drenagem linfática e do suprimento arterial.&lt;/p&gt;
-
-&lt;h2 id=&quot;criptorquidia&quot;&gt;Criptorquidia&lt;/h2&gt;
-&lt;p&gt;Definimos como testículo criptorquídico, aquele fora da bolsa
-escrotal, porém no seu trajeto de descida normal, enquanto que o testículo ectópico é aquele fora da bolsa escrotal e do trajeto normal de descenso.&lt;/p&gt;
-
-&lt;p&gt;Os testículos podem não atingir a  bolsa escrotal uni ou bilateralmente. Acomete em torno de 3% dos recém nascidos e aproximadamente 80% terão resolução espontânea ate o 3º mês de vida. A prematuridade e principalmente o baixo peso ao nascimento aumentam consideravelmente as chances de criptorquidia.&lt;/p&gt;
-
-&lt;h3 id=&quot;diagnóstico-4&quot;&gt;Diagnóstico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Em torno de 80%: os testículos criptorquídicos são palpáveis na base da bolsa escrotal
-    &lt;ul&gt;
-      &lt;li&gt;sendo o diagnóstico feito pelo exame físico.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Os 20% não palpáveis, dividem-se entre os:
-    &lt;ul&gt;
-      &lt;li&gt;abdominais&lt;/li&gt;
-      &lt;li&gt;e os ausentes (anorquia)
-        &lt;ul&gt;
-          &lt;li&gt;Nestes, o diagnóstico pode ser feito por exames de imagem como a TC, USG e RM.&lt;/li&gt;
-          &lt;li&gt;Porém o exame padrão ouro é a laparoscopia.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nos casos de testículos não palpáveis bilateralmente, temos que investigar a
-hipótese de criptorquidia bilateral intra-abdominal ou anorquia (raro). Para isso, dosamos LH, FSH e testosterona inicialmente. Após esta dosagem, administra-se &lt;strong&gt;1.000 U de HCG&lt;/strong&gt; IM &lt;strong&gt;a cada 4 dias&lt;/strong&gt;, num total de 4.000 U; as dosagens hormonais são repetidas e &lt;strong&gt;a resposta positiva ao estímulo hormonal indica a presença de testículos&lt;/strong&gt;. Caso contrário, quando a testosterona não se altera, indicando ausência de testículo, a cirurgia laparoscópica é desnecessária.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-4&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;p&gt;A correção da criptorquidia tem finalidade múltipla, incluindo a prevenção da infertilidade, prevenção da degeneração maligna, tratamento de anomalias associadas como herniações, prevenção de distúrbios psicológicos e prevenção de torção, que ocorre mais freqüentemente na criptorquidia devido a não fixação do gubernáculo.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;tratamento não-invasivo
-    &lt;ul&gt;
-      &lt;li&gt;é representado pela hormonioterapia com gonadotrofina coriônica humana (&lt;strong&gt;HCG&lt;/strong&gt;) que simula o estímulo do LH, aumentando a concentração sérica de testosterona.&lt;/li&gt;
-      &lt;li&gt;O índice de sucesso desta linha de tratamento é diretamente proporcional à proximidade do testículo criptorquídico à bolsa escrotal.&lt;/li&gt;
-      &lt;li&gt;De uma maneira geral, os índices de resolução ficam entre 20 e 55% dos casos, sendo a idade também um fator a ser considerado na escolha deste tipo de tratamento.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Abordagem cirúrgica
-    &lt;ul&gt;
-      &lt;li&gt;está indicada nos casos de falha da hormonioterapia e quando já existe indicação primária de cirurgia como nos casos de outras doenças de correção cirúrgica associadas, como as hérnias.&lt;/li&gt;
-      &lt;li&gt;Os testículos palpáveis são abordados por inguinotomia clássica, liberando com adequada dissecção do cordão espermático e fixando-os na bolsa escrotal após confecção de trajeto, por dissecção digital-romba do espaço subdártico.&lt;/li&gt;
-      &lt;li&gt;Nos testículos não-palpáveis, técnicas diversificadas são utilizadas. Entre elas temos a inguinotomia exploradora com orquipexia em único estágio, podendo ainda fixarmos o testículo o mais próximo possível da bolsa escrotal, reabordando-o após 6 a 12 meses. O clampeamento dos vasos espermáticos (técnica de Fowler-Stephens) com incisão do testículo e observação de sangramento. Se positivo, os vasos são ligados e o testículo é abaixado até o escroto, nutrido pela artéria deferencial e testicular. O autotransplante testicular, por meio de anastomose microvascular dos vasos espermáticos com vasos epigástricos inferiores, é relatado na literatura, mas os resultados são controversos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+A pulsação na veia umbilical está intimamente relacionada com o estágio terminal do feto.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>

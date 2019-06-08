@@ -230,8 +230,8 @@ h2, h3, h4, h5, h6 {
 p, a, li, figcaption {
   font: 100%/1.45 'Helvetica Neue','Segoe UI','Helvetica','Arial',sans-serif;
   font-size: 1.3rem;
-  text-align: justify;
-  hyphens: auto;
+  text-align: left;
+  hyphens: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6;
