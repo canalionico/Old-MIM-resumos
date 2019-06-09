@@ -87,7 +87,7 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/hipertensao-na-gravidez.html',
       
-        '/ginecologia/planejamento-familiar.html',
+        '/planejamento-familiar',
       
         '/mastologia/tumores-malignos-da-mama',
       
