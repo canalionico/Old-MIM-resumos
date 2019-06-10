@@ -1,14 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-09T22:12:02-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Infecção puerperal</title><link href="http://localhost:4000/infeccao-puerperal" rel="alternate" type="text/html" title="Infecção puerperal" /><published>2019-06-09T00:00:00-03:00</published><updated>2019-06-09T00:00:00-03:00</updated><id>http://localhost:4000/infeccao-puerperal</id><content type="html" xml:base="http://localhost:4000/infeccao-puerperal">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-09T22:45:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Infecção puerperal</title><link href="http://localhost:4000/infeccao-puerperal" rel="alternate" type="text/html" title="Infecção puerperal" /><published>2019-06-09T00:00:00-03:00</published><updated>2019-06-09T00:00:00-03:00</updated><id>http://localhost:4000/infeccao-puerperal</id><content type="html" xml:base="http://localhost:4000/infeccao-puerperal">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#microbiologia&quot; id=&quot;markdown-toc-microbiologia&quot;&gt;Microbiologia&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#microbiota-cervicovaginal-normal-na-gravidez&quot; id=&quot;markdown-toc-microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#aeróbios&quot; id=&quot;markdown-toc-aeróbios&quot;&gt;Aeróbios&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#anaeróbios&quot; id=&quot;markdown-toc-anaeróbios&quot;&gt;Anaeróbios&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#micoplasma&quot; id=&quot;markdown-toc-micoplasma&quot;&gt;Micoplasma&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#clamídia&quot; id=&quot;markdown-toc-clamídia&quot;&gt;Clamídia&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#microbiota-cervicovaginal-normal-na-gravidez&quot; id=&quot;markdown-toc-microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#aerbios&quot; id=&quot;markdown-toc-aerbios&quot;&gt;Aeróbios&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#anaerbios&quot; id=&quot;markdown-toc-anaerbios&quot;&gt;Anaeróbios&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#micoplasma&quot; id=&quot;markdown-toc-micoplasma&quot;&gt;Micoplasma&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#clamdia&quot; id=&quot;markdown-toc-clamdia&quot;&gt;Clamídia&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#bactérias-mais-comuns-nas-infecções-genitais-femininas&quot; id=&quot;markdown-toc-bactérias-mais-comuns-nas-infecções-genitais-femininas&quot;&gt;Bactérias mais comuns nas infecções genitais femininas&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
@@ -58,186 +55,206 @@ microrganismos e é frequentemente precedida por infecção intra-amniótica cl�
 &lt;p&gt;Os patógenos anaeróbios desempenham papel relevante na endometrite após operação cesariana e são isolados em 40 a 60% das culturas coletadas apropriadamente. Mulheres com endometrite após o parto vaginal são candidatas à infecção por patógeno único, com destaque para o
 Streptococcus.&lt;/p&gt;
 
-&lt;h3 id=&quot;microbiologia&quot;&gt;Microbiologia&lt;/h3&gt;
-&lt;h4 id=&quot;microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;A gravidez pode suscitar mudanças na microbiota cervicovaginal&lt;/li&gt;
-  &lt;li&gt;A colonização por Lactobacillus aumenta na gravidez e existe a possibilidade de outros tipos de microrganismos serem diminuídos.&lt;/li&gt;
-  &lt;li&gt;Trata-se de alterações fisiológicas, destinadas a proteger o concepto, uma vez que Lactobacilli são avirulentos&lt;/li&gt;
-  &lt;li&gt;Depois do parto vaginal, espécies anaeróbias se proliferam dramaticamente no 3º dia do puerpério&lt;/li&gt;
-  &lt;li&gt;O mecanismo, embora ainda não elucidado, pode decorrer do
-    &lt;ul&gt;
-      &lt;li&gt;trauma relacionado com o processo do nascimento,&lt;/li&gt;
-      &lt;li&gt;os lóquios,&lt;/li&gt;
-      &lt;li&gt;a contaminação da vagina durante o parto&lt;/li&gt;
-      &lt;li&gt;e o término do estímulo hormonal ao epitélio vaginal.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;É uma situação transitória, 6 semanas depois, a microbiota vaginal está normalizada.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;&lt;button class=&quot;collapsible&quot;&gt;Microbiologia&lt;/button&gt;&lt;/p&gt;
+&lt;div class=&quot;content&quot;&gt;
+  &lt;h4 id=&quot;microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/h4&gt;
+  &lt;ul&gt;
+    &lt;li&gt;A gravidez pode suscitar mudanças na microbiota cervicovaginal&lt;/li&gt;
+    &lt;li&gt;A colonização por Lactobacillus aumenta na gravidez e existe a possibilidade de outros tipos de microrganismos serem diminuídos.&lt;/li&gt;
+    &lt;li&gt;Trata-se de alterações fisiológicas, destinadas a proteger o concepto, uma vez que Lactobacilli são avirulentos&lt;/li&gt;
+    &lt;li&gt;Depois do parto vaginal, espécies anaeróbias se proliferam dramaticamente no 3º dia do puerpério&lt;/li&gt;
+    &lt;li&gt;O mecanismo, embora ainda não elucidado, pode decorrer do
+      &lt;ul&gt;
+        &lt;li&gt;trauma relacionado com o processo do nascimento,&lt;/li&gt;
+        &lt;li&gt;os lóquios,&lt;/li&gt;
+        &lt;li&gt;a contaminação da vagina durante o parto&lt;/li&gt;
+        &lt;li&gt;e o término do estímulo hormonal ao epitélio vaginal.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;É uma situação transitória, 6 semanas depois, a microbiota vaginal está normalizada.&lt;/li&gt;
+  &lt;/ul&gt;
 
-&lt;h4 id=&quot;aeróbios&quot;&gt;Aeróbios&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo B&lt;/strong&gt; (S. mastitidis, S. agalactiae)
-    &lt;ul&gt;
-      &lt;li&gt;importantes causadores de infecção puerperal precoce e neonatal&lt;/li&gt;
-      &lt;li&gt;Encontrados em cerca de 30% das culturas vaginais e cervicais de grávidas&lt;/li&gt;
-      &lt;li&gt;a infecção seria, portanto, endêmica, pois os estreptococos do grupo B colonizam o sistema genital materno, provenientes do reto ou do contato sexual.&lt;/li&gt;
-      &lt;li&gt;A infecção ocorre dentro de 24h do parto, com rápido agravamento do estado materno.&lt;/li&gt;
-      &lt;li&gt;Os sintomas são:
-        &lt;ul&gt;
-          &lt;li&gt;febre elevada (39°C),&lt;/li&gt;
-          &lt;li&gt;calafrios,&lt;/li&gt;
-          &lt;li&gt;taquicardia&lt;/li&gt;
-          &lt;li&gt;útero doloroso à palpação (endomiometrite)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Consideram-se de risco as pacientes que tiveram parto disfuncional com ruptura prolongada das membranas submetidas à operação cesariana.&lt;/li&gt;
-      &lt;li&gt;O tratamento antibiótico deve ser imediato para evitar abscessos e endocardite.
-        &lt;ul&gt;
-          &lt;li&gt;Esses estreptococos são sensíveis a penicilina, ampicilina, cefalosporinas e eritromicina.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo D&lt;/strong&gt; (inclui enterococos, especialmente S. faecalis)
-    &lt;ul&gt;
-      &lt;li&gt;Não são considerados patogênicos em infecções cirúrgicas, embora sejam observados em pequeno número de mulheres com endometrite pós-parto ou bacteriemia.&lt;/li&gt;
-      &lt;li&gt;são resistentes a penicilina, cefalosporinas, aminoglicosídios e clindamicina; a ampicilina ou o efeito sinérgico da penicilina e de um aminoglicosídio inibem os enterococos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo A&lt;/strong&gt; (Streptococcus pyogenes)
-    &lt;ul&gt;
-      &lt;li&gt;Não fazem parte da microbiota normal da vagina e da cérvice
-        &lt;ul&gt;
-          &lt;li&gt;a origem é exógena, em geral da nasofaringe ou de lesões da pele da paciente, do bebê ou do corpo clínico do hospital.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;A principal característica dessa infecção é sua enorme capacidade de invasão
-        &lt;ul&gt;
-          &lt;li&gt;com sinais mínimos de localização nos pontos lesados do canal do parto.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Os microrganismos são sensíveis a penicilina, cefalosporinas e eritromicina
-        &lt;ul&gt;
-          &lt;li&gt;a resposta ao tratamento antibiótico adequado é muito rápida.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estafilococos aeróbios&lt;/strong&gt; (Staphylococcus epidermidis, Staphylococcus aureus)
-    &lt;ul&gt;
-      &lt;li&gt;S. aureus é encontrado em apenas 2% das culturas vaginais em grávidas.
-        &lt;ul&gt;
-          &lt;li&gt;Raramente determina endometrite, estando associado, mais frequentemente, a abscessos vulvovaginais e mastites.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;S. epidermidis é habitante normal da microbiota cervical
-        &lt;ul&gt;
-          &lt;li&gt;quando existente no útero, faz parte da infecção polimicrobiana.&lt;/li&gt;
-          &lt;li&gt;É resistente a penicilina e ampicilina, sensível a oxacilina, meticilina, cloxacilina e cefalosporinas.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gram-negativos aeróbios&lt;/strong&gt; (Escherichia coli, Klebsiella, Enterobacter, Proteus, Pseudomonas)
-    &lt;ul&gt;
-      &lt;li&gt;Grandes protagonistas das infecções urinárias costumam ser encontrados nos intestinos e em incidência variável no sistema genital:
-        &lt;ul&gt;
-          &lt;li&gt;E. coli em 2 a 10% das grávidas e em 33% das puérperas;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;outros membros da família Enterobacteriaceae raramente são encontrados.&lt;/li&gt;
-      &lt;li&gt;E. coli exerce papel importante na infecção puerperal.&lt;/li&gt;
-      &lt;li&gt;Principal responsável pelo choque septicêmico,&lt;/li&gt;
-      &lt;li&gt;sua sensibilidade aos antibióticos varia de hospital para hospital.&lt;/li&gt;
-      &lt;li&gt;Canamicina, gentamicina e cloranfenicol costumam ser efetivos contra 95% das espécies;&lt;/li&gt;
-      &lt;li&gt;as cefalosporinas atuam em 80 a 93%, e a ampicilina e a tetraciclina em, talvez, 80%.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Haemophilus influenzae&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;A literatura registra 20 casos de infecção puerperal por Haemophilus influenzae a partir de 1969.&lt;/li&gt;
-      &lt;li&gt;Dentre essas pacientes, nove evoluíram para estado de sepse,
-        &lt;ul&gt;
-          &lt;li&gt;a indicar a elevada virulência do microrganismo, que há de ser cogitada nos casos de refratariedade aos esquemas habituais de antibióticos utilizados na infecção puerperal.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Haemophilus influenzae é sensível a ampicilina, cloranfenicol e tetraciclinas.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gardnerella vaginalis&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Tem-se registrado um número crescente de casos relacionados com Gardnerella vaginalis em culturas sanguíneas no pós-parto,
-        &lt;ul&gt;
-          &lt;li&gt;especialmente em mulheres com febre.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Existe a possibilidade de que determine infecção puerperal, em associação a anaeróbios,&lt;/li&gt;
-      &lt;li&gt;mas é sensível à maioria dos antibióticos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+  &lt;h4 id=&quot;aerbios&quot;&gt;Aeróbios&lt;/h4&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo B&lt;/strong&gt; (S. mastitidis, S. agalactiae)
+      &lt;ul&gt;
+        &lt;li&gt;importantes causadores de infecção puerperal precoce e neonatal&lt;/li&gt;
+        &lt;li&gt;Encontrados em cerca de 30% das culturas vaginais e cervicais de grávidas&lt;/li&gt;
+        &lt;li&gt;a infecção seria, portanto, endêmica, pois os estreptococos do grupo B colonizam o sistema genital materno, provenientes do reto ou do contato sexual.&lt;/li&gt;
+        &lt;li&gt;A infecção ocorre dentro de 24h do parto, com rápido agravamento do estado materno.&lt;/li&gt;
+        &lt;li&gt;Os sintomas são:
+          &lt;ul&gt;
+            &lt;li&gt;febre elevada (39°C),&lt;/li&gt;
+            &lt;li&gt;calafrios,&lt;/li&gt;
+            &lt;li&gt;taquicardia&lt;/li&gt;
+            &lt;li&gt;útero doloroso à palpação (endomiometrite)&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Consideram-se de risco as pacientes que tiveram parto disfuncional com ruptura prolongada das membranas submetidas à operação cesariana.&lt;/li&gt;
+        &lt;li&gt;O tratamento antibiótico deve ser imediato para evitar abscessos e endocardite.
+          &lt;ul&gt;
+            &lt;li&gt;Esses estreptococos são sensíveis a penicilina, ampicilina, cefalosporinas e eritromicina.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo D&lt;/strong&gt; (inclui enterococos, especialmente S. faecalis)
+      &lt;ul&gt;
+        &lt;li&gt;Não são considerados patogênicos em infecções cirúrgicas, embora sejam observados em pequeno número de mulheres com endometrite pós-parto ou bacteriemia.&lt;/li&gt;
+        &lt;li&gt;são resistentes a penicilina, cefalosporinas, aminoglicosídios e clindamicina; a ampicilina ou o efeito sinérgico da penicilina e de um aminoglicosídio inibem os enterococos&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo A&lt;/strong&gt; (Streptococcus pyogenes)
+      &lt;ul&gt;
+        &lt;li&gt;Não fazem parte da microbiota normal da vagina e da cérvice
+          &lt;ul&gt;
+            &lt;li&gt;a origem é exógena, em geral da nasofaringe ou de lesões da pele da paciente, do bebê ou do corpo clínico do hospital.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;A principal característica dessa infecção é sua enorme capacidade de invasão
+          &lt;ul&gt;
+            &lt;li&gt;com sinais mínimos de localização nos pontos lesados do canal do parto.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Os microrganismos são sensíveis a penicilina, cefalosporinas e eritromicina
+          &lt;ul&gt;
+            &lt;li&gt;a resposta ao tratamento antibiótico adequado é muito rápida.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Estafilococos aeróbios&lt;/strong&gt; (Staphylococcus epidermidis, Staphylococcus aureus)
+      &lt;ul&gt;
+        &lt;li&gt;S. aureus é encontrado em apenas 2% das culturas vaginais em grávidas.
+          &lt;ul&gt;
+            &lt;li&gt;Raramente determina endometrite, estando associado, mais frequentemente, a abscessos vulvovaginais e mastites.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;S. epidermidis é habitante normal da microbiota cervical
+          &lt;ul&gt;
+            &lt;li&gt;quando existente no útero, faz parte da infecção polimicrobiana.&lt;/li&gt;
+            &lt;li&gt;É resistente a penicilina e ampicilina, sensível a oxacilina, meticilina, cloxacilina e cefalosporinas.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Gram-negativos aeróbios&lt;/strong&gt; (Escherichia coli, Klebsiella, Enterobacter, Proteus, Pseudomonas)
+      &lt;ul&gt;
+        &lt;li&gt;Grandes protagonistas das infecções urinárias costumam ser encontrados nos intestinos e em incidência variável no sistema genital:
+          &lt;ul&gt;
+            &lt;li&gt;E. coli em 2 a 10% das grávidas e em 33% das puérperas;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;outros membros da família Enterobacteriaceae raramente são encontrados.&lt;/li&gt;
+        &lt;li&gt;E. coli exerce papel importante na infecção puerperal.&lt;/li&gt;
+        &lt;li&gt;Principal responsável pelo choque septicêmico,&lt;/li&gt;
+        &lt;li&gt;sua sensibilidade aos antibióticos varia de hospital para hospital.&lt;/li&gt;
+        &lt;li&gt;Canamicina, gentamicina e cloranfenicol costumam ser efetivos contra 95% das espécies;&lt;/li&gt;
+        &lt;li&gt;as cefalosporinas atuam em 80 a 93%, e a ampicilina e a tetraciclina em, talvez, 80%.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Haemophilus influenzae&lt;/strong&gt;
+      &lt;ul&gt;
+        &lt;li&gt;A literatura registra 20 casos de infecção puerperal por Haemophilus influenzae a partir de 1969.&lt;/li&gt;
+        &lt;li&gt;Dentre essas pacientes, nove evoluíram para estado de sepse,
+          &lt;ul&gt;
+            &lt;li&gt;a indicar a elevada virulência do microrganismo, que há de ser cogitada nos casos de refratariedade aos esquemas habituais de antibióticos utilizados na infecção puerperal.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Haemophilus influenzae é sensível a ampicilina, cloranfenicol e tetraciclinas.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Gardnerella vaginalis&lt;/strong&gt;
+      &lt;ul&gt;
+        &lt;li&gt;Tem-se registrado um número crescente de casos relacionados com Gardnerella vaginalis em culturas sanguíneas no pós-parto,
+          &lt;ul&gt;
+            &lt;li&gt;especialmente em mulheres com febre.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;Existe a possibilidade de que determine infecção puerperal, em associação a anaeróbios,&lt;/li&gt;
+        &lt;li&gt;mas é sensível à maioria dos antibióticos.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
 
-&lt;h4 id=&quot;anaeróbios&quot;&gt;Anaeróbios&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Gram-positivos anaeróbios&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Cocos anaeróbios&lt;/strong&gt; (peptococos, peptoestreptococos): habitantes não patogênicos da vagina e do colo costumam se tornar virulentos na presença de tecido traumatizado e desvitalizado e de sangue coagulado.
-        &lt;ul&gt;
-          &lt;li&gt;Os lóquios têm cheiro pútrido.&lt;/li&gt;
-          &lt;li&gt;Tornaram-se comuns as infecções mistas por aeróbios (E. coli, enterococos) e outros anaeróbios (bacteroides).&lt;/li&gt;
-          &lt;li&gt;A penicilina é o antibiótico&lt;/li&gt;
-          &lt;li&gt;de escolha;&lt;/li&gt;
-          &lt;li&gt;secundariamente, opta-se por cefalosporinas, eritromicina e clindamicina&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Bastonetes anaeróbios&lt;/strong&gt; (clostrídios):
-        &lt;ul&gt;
-          &lt;li&gt;Clostridium perfringens (antes C. welchii) tem participação em 85% das infecções.&lt;/li&gt;
-          &lt;li&gt;Hóspede normal da vagina e do colo, tem virulência muito pequena e poucas vezes determina infecção puerperal.&lt;/li&gt;
-          &lt;li&gt;Por motivos desconhecidos, pode ocasionar quadro gravíssimo (gangrena gasosa, hemólise; hipotensão, insuficiência renal) quando patogênico, com mortalidade de 50 a 85% dos casos.&lt;/li&gt;
-          &lt;li&gt;Os lóquios têm odor fétido e a infecção é mais encontrada no abortamento infectado.&lt;/li&gt;
-          &lt;li&gt;O simples isolamento do clostrídio, no sistema genital, em casos de infecção, não indica ameaça à vida da paciente.&lt;/li&gt;
-          &lt;li&gt;Em geral, a endometrite é discreta e cede ao tratamento antibiótico (penicilina).&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gram-negativos anaeróbios&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Bacteroides&lt;/strong&gt; (Bacteroides fragilis):
-        &lt;ul&gt;
-          &lt;li&gt;agentes importantes na infecção puerperal,&lt;/li&gt;
-          &lt;li&gt;anaeróbios não patogênicos do canal do parto e dos intestinos, só se tornam virulentos quando há tecido necrosado, lóquios fétidos e quadro clínico prolongado,&lt;/li&gt;
-          &lt;li&gt;frequentemente complicado por tromboflebite pélvica séptica.&lt;/li&gt;
-          &lt;li&gt;Não é uma infecção trivial que ameace a vida da paciente;&lt;/li&gt;
-          &lt;li&gt;B. fragilis costuma ser sensível à clindamicina e ao cloranfenicol, antibióticos de escolha.&lt;/li&gt;
-          &lt;li&gt;Cefoxitina e metronidazol também são efetivos.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+  &lt;h4 id=&quot;anaerbios&quot;&gt;Anaeróbios&lt;/h4&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Gram-positivos anaeróbios&lt;/strong&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Cocos anaeróbios&lt;/strong&gt; (peptococos, peptoestreptococos): habitantes não patogênicos da vagina e do colo costumam se tornar virulentos na presença de tecido traumatizado e desvitalizado e de sangue coagulado.
+          &lt;ul&gt;
+            &lt;li&gt;Os lóquios têm cheiro pútrido.&lt;/li&gt;
+            &lt;li&gt;Tornaram-se comuns as infecções mistas por aeróbios (E. coli, enterococos) e outros anaeróbios (bacteroides).&lt;/li&gt;
+            &lt;li&gt;A penicilina é o antibiótico&lt;/li&gt;
+            &lt;li&gt;de escolha;&lt;/li&gt;
+            &lt;li&gt;secundariamente, opta-se por cefalosporinas, eritromicina e clindamicina&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Bastonetes anaeróbios&lt;/strong&gt; (clostrídios):
+          &lt;ul&gt;
+            &lt;li&gt;Clostridium perfringens (antes C. welchii) tem participação em 85% das infecções.&lt;/li&gt;
+            &lt;li&gt;Hóspede normal da vagina e do colo, tem virulência muito pequena e poucas vezes determina infecção puerperal.&lt;/li&gt;
+            &lt;li&gt;Por motivos desconhecidos, pode ocasionar quadro gravíssimo (gangrena gasosa, hemólise; hipotensão, insuficiência renal) quando patogênico, com mortalidade de 50 a 85% dos casos.&lt;/li&gt;
+            &lt;li&gt;Os lóquios têm odor fétido e a infecção é mais encontrada no abortamento infectado.&lt;/li&gt;
+            &lt;li&gt;O simples isolamento do clostrídio, no sistema genital, em casos de infecção, não indica ameaça à vida da paciente.&lt;/li&gt;
+            &lt;li&gt;Em geral, a endometrite é discreta e cede ao tratamento antibiótico (penicilina).&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Gram-negativos anaeróbios&lt;/strong&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Bacteroides&lt;/strong&gt; (Bacteroides fragilis):
+          &lt;ul&gt;
+            &lt;li&gt;agentes importantes na infecção puerperal,&lt;/li&gt;
+            &lt;li&gt;anaeróbios não patogênicos do canal do parto e dos intestinos, só se tornam virulentos quando há tecido necrosado, lóquios fétidos e quadro clínico prolongado,&lt;/li&gt;
+            &lt;li&gt;frequentemente complicado por tromboflebite pélvica séptica.&lt;/li&gt;
+            &lt;li&gt;Não é uma infecção trivial que ameace a vida da paciente;&lt;/li&gt;
+            &lt;li&gt;B. fragilis costuma ser sensível à clindamicina e ao cloranfenicol, antibióticos de escolha.&lt;/li&gt;
+            &lt;li&gt;Cefoxitina e metronidazol também são efetivos.&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
 
-&lt;h4 id=&quot;micoplasma&quot;&gt;Micoplasma&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;São frequentemente encontrados na cérvice das gestantes.&lt;/li&gt;
-  &lt;li&gt;Mycoplasma hominis foi isolado em 20 a 50% das pacientes, e Ureaplasma urealyticum, em 60 a 80%.&lt;/li&gt;
-  &lt;li&gt;A associação entre micoplasmas genitais e febre puerperal não está ainda inteiramente esclarecida.&lt;/li&gt;
-  &lt;li&gt;O isolamento anteparto de micoplasma tem sido relacionado a febre puerperal em alguns estudos e contestado em outros.&lt;/li&gt;
-  &lt;li&gt;O micoplasma foi identificado no sangue em 3 a 8% das puérperas com febre inexplicada.&lt;/li&gt;
-  &lt;li&gt;Esses microrganismos determinam infecção de baixa morbidade que explica a evolução favorável mesmo sem terapia específica.&lt;/li&gt;
-  &lt;li&gt;Os micoplasmas genitais, encontrados no endométrio e/ou sangue em 15% das puérperas com endometrite, são sensíveis às tetraciclinas, à eritromicina e ao cloranfenicol.&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;h4 id=&quot;micoplasma&quot;&gt;Micoplasma&lt;/h4&gt;
+  &lt;ul&gt;
+    &lt;li&gt;São frequentemente encontrados na cérvice das gestantes.&lt;/li&gt;
+    &lt;li&gt;Mycoplasma hominis foi isolado em 20 a 50% das pacientes, e Ureaplasma urealyticum, em 60 a 80%.&lt;/li&gt;
+    &lt;li&gt;A associação entre micoplasmas genitais e febre puerperal não está ainda inteiramente esclarecida.&lt;/li&gt;
+    &lt;li&gt;O isolamento anteparto de micoplasma tem sido relacionado a febre puerperal em alguns estudos e contestado em outros.&lt;/li&gt;
+    &lt;li&gt;O micoplasma foi identificado no sangue em 3 a 8% das puérperas com febre inexplicada.&lt;/li&gt;
+    &lt;li&gt;Esses microrganismos determinam infecção de baixa morbidade que explica a evolução favorável mesmo sem terapia específica.&lt;/li&gt;
+    &lt;li&gt;Os micoplasmas genitais, encontrados no endométrio e/ou sangue em 15% das puérperas com endometrite, são sensíveis às tetraciclinas, à eritromicina e ao cloranfenicol.&lt;/li&gt;
+  &lt;/ul&gt;
 
-&lt;h4 id=&quot;clamídia&quot;&gt;Clamídia&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Chlamydia trachomatis está relacionada com a infecção puerperal, especialmente a partir do 3º  dia de puerpério.&lt;/li&gt;
-  &lt;li&gt;Verificou-se maior incidência de infecção puerperal nas gestantes portadoras de clamídia.&lt;/li&gt;
-  &lt;li&gt;Em estudo similar, não foi encontrado qualquer diferença quanto à intercorrência de infecção puerperal entre as gestantes com ou sem cultura positiva para clamídia.&lt;/li&gt;
-  &lt;li&gt;São agentes sensíveis à tetraciclina e à eritromicina.&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;h4 id=&quot;clamdia&quot;&gt;Clamídia&lt;/h4&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Chlamydia trachomatis está relacionada com a infecção puerperal, especialmente a partir do 3º  dia de puerpério.&lt;/li&gt;
+    &lt;li&gt;Verificou-se maior incidência de infecção puerperal nas gestantes portadoras de clamídia.&lt;/li&gt;
+    &lt;li&gt;Em estudo similar, não foi encontrado qualquer diferença quanto à intercorrência de infecção puerperal entre as gestantes com ou sem cultura positiva para clamídia.&lt;/li&gt;
+    &lt;li&gt;São agentes sensíveis à tetraciclina e à eritromicina.&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;p&gt;oi&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+var coll = document.getElementsByClassName(&quot;collapsible&quot;);
+var i;
+
+for (i = 0; i &lt; coll.length; i++) {
+  coll[i].addEventListener(&quot;click&quot;, function() {
+    this.classList.toggle(&quot;active&quot;);
+    var content = this.nextElementSibling;
+    if (content.style.display === &quot;block&quot;) {
+      content.style.display = &quot;none&quot;;
+    } else {
+      content.style.display = &quot;block&quot;;
+    }
+  });
+}
+&lt;/script&gt;
 
 &lt;h3 id=&quot;bactérias-mais-comuns-nas-infecções-genitais-femininas&quot;&gt;Bactérias mais comuns nas infecções genitais femininas&lt;/h3&gt;
 &lt;ul&gt;

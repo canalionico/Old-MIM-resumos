@@ -25,7 +25,9 @@ microrganismos e é frequentemente precedida por infecção intra-amniótica cl�
 Os patógenos anaeróbios desempenham papel relevante na endometrite após operação cesariana e são isolados em 40 a 60% das culturas coletadas apropriadamente. Mulheres com endometrite após o parto vaginal são candidatas à infecção por patógeno único, com destaque para o
 Streptococcus.
 
-### Microbiologia
+
+<button class="collapsible">Microbiologia</button>
+<div class="content" markdown="1">
 #### Microbiota cervicovaginal normal na gravidez
 * A gravidez pode suscitar mudanças na microbiota cervicovaginal
 * A colonização por Lactobacillus aumenta na gravidez e existe a possibilidade de outros tipos de microrganismos serem diminuídos.
@@ -126,7 +128,25 @@ Streptococcus.
 * Verificou-se maior incidência de infecção puerperal nas gestantes portadoras de clamídia.
 * Em estudo similar, não foi encontrado qualquer diferença quanto à intercorrência de infecção puerperal entre as gestantes com ou sem cultura positiva para clamídia.
 * São agentes sensíveis à tetraciclina e à eritromicina.
+<p>oi</p>
+</div>
 
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 
 ### Bactérias mais comuns nas infecções genitais femininas
 * Aeróbios
