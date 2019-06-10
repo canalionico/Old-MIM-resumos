@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/infeccao-puerperal',
+      
         '/tumores-de-ovario',
       
         '/oncomastologia',
@@ -195,6 +197,10 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/ca-endometrio/figo2.png'
       
         '/assets/ginecologia/leiomioma/mioma.png'
+      
+        '/assets/ginecologia/planejamento-familiar/pearl.jpeg'
+      
+        '/assets/ginecologia/planejamento-familiar/tab.jpeg'
       
         '/assets/ginecologia/sua/img.jpeg'
       
@@ -381,6 +387,10 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/hasg/tabela.jpeg'
       
         '/assets/obstetricia/hpp/tab.png'
+      
+        '/assets/obstetricia/infeccao-puerperal/colpo.jpeg'
+      
+        '/assets/obstetricia/infeccao-puerperal/img.jpeg'
       
         '/assets/obstetricia/pp/dd.jpeg'
       
