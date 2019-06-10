@@ -328,54 +328,26 @@ a{
     color: black;
   }
 }
-
-// collapsible
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-.active, .collapsible:hover {
-  background-color: #555;
-}
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-// end collapsible
-
 pre {
   padding: 8px 12px;
   overflow-x: auto;
 }
-
 pre > code {
     border: 0;
     padding-right: 0;
     padding-left: 0;
 }
-
 pre, code {
   font-size: 15px;
   border: 1px solid #e8e8e8;
   border-radius: 3px;
   background-color: #eef;
 }
-
 code {
   padding: 1px 5px;
   padding-right: 5px;
   padding-left: 5px;
 }
-
 kbd {
   background-color: #eee;
   border-radius: 3px;

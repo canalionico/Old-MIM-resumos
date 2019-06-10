@@ -1,42 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-09T22:45:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Infecção puerperal</title><link href="http://localhost:4000/infeccao-puerperal" rel="alternate" type="text/html" title="Infecção puerperal" /><published>2019-06-09T00:00:00-03:00</published><updated>2019-06-09T00:00:00-03:00</updated><id>http://localhost:4000/infeccao-puerperal</id><content type="html" xml:base="http://localhost:4000/infeccao-puerperal">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-09T23:42:06-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Infecção puerperal</title><link href="http://localhost:4000/infeccao-puerperal" rel="alternate" type="text/html" title="Infecção puerperal" /><published>2019-06-09T00:00:00-03:00</published><updated>2019-06-09T00:00:00-03:00</updated><id>http://localhost:4000/infeccao-puerperal</id><content type="html" xml:base="http://localhost:4000/infeccao-puerperal">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#microbiota-cervicovaginal-normal-na-gravidez&quot; id=&quot;markdown-toc-microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#aerbios&quot; id=&quot;markdown-toc-aerbios&quot;&gt;Aeróbios&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#anaerbios&quot; id=&quot;markdown-toc-anaerbios&quot;&gt;Anaeróbios&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#micoplasma&quot; id=&quot;markdown-toc-micoplasma&quot;&gt;Micoplasma&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#clamdia&quot; id=&quot;markdown-toc-clamdia&quot;&gt;Clamídia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#microbiologia&quot; id=&quot;markdown-toc-microbiologia&quot;&gt;Microbiologia&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#microbiota-cervicovaginal-normal-na-gravidez&quot; id=&quot;markdown-toc-microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#aeróbios&quot; id=&quot;markdown-toc-aeróbios&quot;&gt;Aeróbios&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#anaeróbios&quot; id=&quot;markdown-toc-anaeróbios&quot;&gt;Anaeróbios&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#micoplasma&quot; id=&quot;markdown-toc-micoplasma&quot;&gt;Micoplasma&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#clamídia&quot; id=&quot;markdown-toc-clamídia&quot;&gt;Clamídia&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#bactérias-mais-comuns-nas-infecções-genitais-femininas&quot; id=&quot;markdown-toc-bactérias-mais-comuns-nas-infecções-genitais-femininas&quot;&gt;Bactérias mais comuns nas infecções genitais femininas&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fatores-predisponentes&quot; id=&quot;markdown-toc-fatores-predisponentes&quot;&gt;Fatores predisponentes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#perineovulvovaginite-e-cervicite&quot; id=&quot;markdown-toc-perineovulvovaginite-e-cervicite&quot;&gt;Perineovulvovaginite e cervicite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#infecção-da-episiotomia&quot; id=&quot;markdown-toc-infecção-da-episiotomia&quot;&gt;Infecção da episiotomia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#endometrite&quot; id=&quot;markdown-toc-endometrite&quot;&gt;Endometrite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#parametrite&quot; id=&quot;markdown-toc-parametrite&quot;&gt;Parametrite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#anexite-salpingite-e-ovarite&quot; id=&quot;markdown-toc-anexite-salpingite-e-ovarite&quot;&gt;Anexite (salpingite e ovarite)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#peritonite&quot; id=&quot;markdown-toc-peritonite&quot;&gt;Peritonite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tromboflebite-pélvica-séptica&quot; id=&quot;markdown-toc-tromboflebite-pélvica-séptica&quot;&gt;Tromboflebite pélvica séptica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#choque-septicêmico&quot; id=&quot;markdown-toc-choque-septicêmico&quot;&gt;Choque septicêmico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#endometrite&quot; id=&quot;markdown-toc-endometrite&quot;&gt;Endometrite&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#abscessos&quot; id=&quot;markdown-toc-abscessos&quot;&gt;Abscessos&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#perineovulvovaginite-e-cervicite&quot; id=&quot;markdown-toc-perineovulvovaginite-e-cervicite&quot;&gt;Perineovulvovaginite e cervicite&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#infecção-da-episiotomia&quot; id=&quot;markdown-toc-infecção-da-episiotomia&quot;&gt;Infecção da episiotomia&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#parametrite&quot; id=&quot;markdown-toc-parametrite&quot;&gt;Parametrite&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-3&quot; id=&quot;markdown-toc-tratamento-3&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#anexite-salpingite-e-ovarite&quot; id=&quot;markdown-toc-anexite-salpingite-e-ovarite&quot;&gt;Anexite (salpingite e ovarite)&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-4&quot; id=&quot;markdown-toc-tratamento-4&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#peritonite&quot; id=&quot;markdown-toc-peritonite&quot;&gt;Peritonite&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-5&quot; id=&quot;markdown-toc-tratamento-5&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tromboflebite-pélvica-séptica&quot; id=&quot;markdown-toc-tromboflebite-pélvica-séptica&quot;&gt;Tromboflebite pélvica séptica&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-6&quot; id=&quot;markdown-toc-tratamento-6&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#choque-septicêmico&quot; id=&quot;markdown-toc-choque-septicêmico&quot;&gt;Choque septicêmico&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-7&quot; id=&quot;markdown-toc-tratamento-7&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#classificação-em-grupos-de-risco&quot; id=&quot;markdown-toc-classificação-em-grupos-de-risco&quot;&gt;Classificação em grupos de risco&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#perineovulvovaginite-e-cervicite-1&quot; id=&quot;markdown-toc-perineovulvovaginite-e-cervicite-1&quot;&gt;Perineovulvovaginite e cervicite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#endometrite-e-miometrite&quot; id=&quot;markdown-toc-endometrite-e-miometrite&quot;&gt;Endometrite e miometrite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#parametrite-1&quot; id=&quot;markdown-toc-parametrite-1&quot;&gt;Parametrite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#anexite&quot; id=&quot;markdown-toc-anexite&quot;&gt;Anexite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tromboflebite-pélvica-séptica-1&quot; id=&quot;markdown-toc-tromboflebite-pélvica-séptica-1&quot;&gt;Tromboflebite pélvica séptica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#peritonite-1&quot; id=&quot;markdown-toc-peritonite-1&quot;&gt;Peritonite&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#choque-septicêmico-1&quot; id=&quot;markdown-toc-choque-septicêmico-1&quot;&gt;Choque septicêmico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Denomina-se infecção puerperal (febre puerperal) a que se origina no aparelho genital após parto recente. Por ser, às vezes, impossível caracterizar a infecção que ocorre após o parto, alguns preferem conceituar a morbidade febril puerperal da seguinte maneira: temperatura de, no mínimo, &lt;strong&gt;38°C, durante 2 dias quaisquer, dos primeiros 10 do período pós-parto, excluídas as 24h iniciais&lt;/strong&gt;.&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Denomina-se infecção puerperal (&lt;em&gt;febre puerperal&lt;/em&gt;) a que se origina no aparelho genital após parto recente. Por ser, às vezes, impossível caracterizar a infecção que ocorre após o parto, alguns preferem conceituar a morbidade febril puerperal da seguinte maneira: temperatura de, no mínimo, &lt;strong&gt;38°C, por mais de 48h, nos primeiros 10 do período pós-parto, excluídas as 24h iniciais&lt;/strong&gt;.&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
 &lt;ul&gt;
@@ -55,206 +73,186 @@ microrganismos e é frequentemente precedida por infecção intra-amniótica cl�
 &lt;p&gt;Os patógenos anaeróbios desempenham papel relevante na endometrite após operação cesariana e são isolados em 40 a 60% das culturas coletadas apropriadamente. Mulheres com endometrite após o parto vaginal são candidatas à infecção por patógeno único, com destaque para o
 Streptococcus.&lt;/p&gt;
 
-&lt;p&gt;&lt;button class=&quot;collapsible&quot;&gt;Microbiologia&lt;/button&gt;&lt;/p&gt;
-&lt;div class=&quot;content&quot;&gt;
-  &lt;h4 id=&quot;microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/h4&gt;
-  &lt;ul&gt;
-    &lt;li&gt;A gravidez pode suscitar mudanças na microbiota cervicovaginal&lt;/li&gt;
-    &lt;li&gt;A colonização por Lactobacillus aumenta na gravidez e existe a possibilidade de outros tipos de microrganismos serem diminuídos.&lt;/li&gt;
-    &lt;li&gt;Trata-se de alterações fisiológicas, destinadas a proteger o concepto, uma vez que Lactobacilli são avirulentos&lt;/li&gt;
-    &lt;li&gt;Depois do parto vaginal, espécies anaeróbias se proliferam dramaticamente no 3º dia do puerpério&lt;/li&gt;
-    &lt;li&gt;O mecanismo, embora ainda não elucidado, pode decorrer do
-      &lt;ul&gt;
-        &lt;li&gt;trauma relacionado com o processo do nascimento,&lt;/li&gt;
-        &lt;li&gt;os lóquios,&lt;/li&gt;
-        &lt;li&gt;a contaminação da vagina durante o parto&lt;/li&gt;
-        &lt;li&gt;e o término do estímulo hormonal ao epitélio vaginal.&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;É uma situação transitória, 6 semanas depois, a microbiota vaginal está normalizada.&lt;/li&gt;
-  &lt;/ul&gt;
+&lt;h3 id=&quot;microbiologia&quot;&gt;Microbiologia&lt;/h3&gt;
+&lt;h4 id=&quot;microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;A gravidez pode suscitar mudanças na microbiota cervicovaginal&lt;/li&gt;
+  &lt;li&gt;A colonização por Lactobacillus aumenta na gravidez e existe a possibilidade de outros tipos de microrganismos serem diminuídos.&lt;/li&gt;
+  &lt;li&gt;Trata-se de alterações fisiológicas, destinadas a proteger o concepto, uma vez que Lactobacilli são avirulentos&lt;/li&gt;
+  &lt;li&gt;Depois do parto vaginal, espécies anaeróbias se proliferam dramaticamente no 3º dia do puerpério&lt;/li&gt;
+  &lt;li&gt;O mecanismo, embora ainda não elucidado, pode decorrer do
+    &lt;ul&gt;
+      &lt;li&gt;trauma relacionado com o processo do nascimento,&lt;/li&gt;
+      &lt;li&gt;os lóquios,&lt;/li&gt;
+      &lt;li&gt;a contaminação da vagina durante o parto&lt;/li&gt;
+      &lt;li&gt;e o término do estímulo hormonal ao epitélio vaginal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;É uma situação transitória, 6 semanas depois, a microbiota vaginal está normalizada.&lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;h4 id=&quot;aerbios&quot;&gt;Aeróbios&lt;/h4&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo B&lt;/strong&gt; (S. mastitidis, S. agalactiae)
-      &lt;ul&gt;
-        &lt;li&gt;importantes causadores de infecção puerperal precoce e neonatal&lt;/li&gt;
-        &lt;li&gt;Encontrados em cerca de 30% das culturas vaginais e cervicais de grávidas&lt;/li&gt;
-        &lt;li&gt;a infecção seria, portanto, endêmica, pois os estreptococos do grupo B colonizam o sistema genital materno, provenientes do reto ou do contato sexual.&lt;/li&gt;
-        &lt;li&gt;A infecção ocorre dentro de 24h do parto, com rápido agravamento do estado materno.&lt;/li&gt;
-        &lt;li&gt;Os sintomas são:
-          &lt;ul&gt;
-            &lt;li&gt;febre elevada (39°C),&lt;/li&gt;
-            &lt;li&gt;calafrios,&lt;/li&gt;
-            &lt;li&gt;taquicardia&lt;/li&gt;
-            &lt;li&gt;útero doloroso à palpação (endomiometrite)&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Consideram-se de risco as pacientes que tiveram parto disfuncional com ruptura prolongada das membranas submetidas à operação cesariana.&lt;/li&gt;
-        &lt;li&gt;O tratamento antibiótico deve ser imediato para evitar abscessos e endocardite.
-          &lt;ul&gt;
-            &lt;li&gt;Esses estreptococos são sensíveis a penicilina, ampicilina, cefalosporinas e eritromicina.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo D&lt;/strong&gt; (inclui enterococos, especialmente S. faecalis)
-      &lt;ul&gt;
-        &lt;li&gt;Não são considerados patogênicos em infecções cirúrgicas, embora sejam observados em pequeno número de mulheres com endometrite pós-parto ou bacteriemia.&lt;/li&gt;
-        &lt;li&gt;são resistentes a penicilina, cefalosporinas, aminoglicosídios e clindamicina; a ampicilina ou o efeito sinérgico da penicilina e de um aminoglicosídio inibem os enterococos&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo A&lt;/strong&gt; (Streptococcus pyogenes)
-      &lt;ul&gt;
-        &lt;li&gt;Não fazem parte da microbiota normal da vagina e da cérvice
-          &lt;ul&gt;
-            &lt;li&gt;a origem é exógena, em geral da nasofaringe ou de lesões da pele da paciente, do bebê ou do corpo clínico do hospital.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;A principal característica dessa infecção é sua enorme capacidade de invasão
-          &lt;ul&gt;
-            &lt;li&gt;com sinais mínimos de localização nos pontos lesados do canal do parto.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Os microrganismos são sensíveis a penicilina, cefalosporinas e eritromicina
-          &lt;ul&gt;
-            &lt;li&gt;a resposta ao tratamento antibiótico adequado é muito rápida.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Estafilococos aeróbios&lt;/strong&gt; (Staphylococcus epidermidis, Staphylococcus aureus)
-      &lt;ul&gt;
-        &lt;li&gt;S. aureus é encontrado em apenas 2% das culturas vaginais em grávidas.
-          &lt;ul&gt;
-            &lt;li&gt;Raramente determina endometrite, estando associado, mais frequentemente, a abscessos vulvovaginais e mastites.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;S. epidermidis é habitante normal da microbiota cervical
-          &lt;ul&gt;
-            &lt;li&gt;quando existente no útero, faz parte da infecção polimicrobiana.&lt;/li&gt;
-            &lt;li&gt;É resistente a penicilina e ampicilina, sensível a oxacilina, meticilina, cloxacilina e cefalosporinas.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Gram-negativos aeróbios&lt;/strong&gt; (Escherichia coli, Klebsiella, Enterobacter, Proteus, Pseudomonas)
-      &lt;ul&gt;
-        &lt;li&gt;Grandes protagonistas das infecções urinárias costumam ser encontrados nos intestinos e em incidência variável no sistema genital:
-          &lt;ul&gt;
-            &lt;li&gt;E. coli em 2 a 10% das grávidas e em 33% das puérperas;&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;outros membros da família Enterobacteriaceae raramente são encontrados.&lt;/li&gt;
-        &lt;li&gt;E. coli exerce papel importante na infecção puerperal.&lt;/li&gt;
-        &lt;li&gt;Principal responsável pelo choque septicêmico,&lt;/li&gt;
-        &lt;li&gt;sua sensibilidade aos antibióticos varia de hospital para hospital.&lt;/li&gt;
-        &lt;li&gt;Canamicina, gentamicina e cloranfenicol costumam ser efetivos contra 95% das espécies;&lt;/li&gt;
-        &lt;li&gt;as cefalosporinas atuam em 80 a 93%, e a ampicilina e a tetraciclina em, talvez, 80%.&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Haemophilus influenzae&lt;/strong&gt;
-      &lt;ul&gt;
-        &lt;li&gt;A literatura registra 20 casos de infecção puerperal por Haemophilus influenzae a partir de 1969.&lt;/li&gt;
-        &lt;li&gt;Dentre essas pacientes, nove evoluíram para estado de sepse,
-          &lt;ul&gt;
-            &lt;li&gt;a indicar a elevada virulência do microrganismo, que há de ser cogitada nos casos de refratariedade aos esquemas habituais de antibióticos utilizados na infecção puerperal.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Haemophilus influenzae é sensível a ampicilina, cloranfenicol e tetraciclinas.&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Gardnerella vaginalis&lt;/strong&gt;
-      &lt;ul&gt;
-        &lt;li&gt;Tem-se registrado um número crescente de casos relacionados com Gardnerella vaginalis em culturas sanguíneas no pós-parto,
-          &lt;ul&gt;
-            &lt;li&gt;especialmente em mulheres com febre.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;Existe a possibilidade de que determine infecção puerperal, em associação a anaeróbios,&lt;/li&gt;
-        &lt;li&gt;mas é sensível à maioria dos antibióticos.&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
+&lt;h4 id=&quot;aeróbios&quot;&gt;Aeróbios&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo B&lt;/strong&gt; (S. mastitidis, S. agalactiae)
+    &lt;ul&gt;
+      &lt;li&gt;importantes causadores de infecção puerperal precoce e neonatal&lt;/li&gt;
+      &lt;li&gt;Encontrados em cerca de 30% das culturas vaginais e cervicais de grávidas&lt;/li&gt;
+      &lt;li&gt;a infecção seria, portanto, endêmica, pois os estreptococos do grupo B colonizam o sistema genital materno, provenientes do reto ou do contato sexual.&lt;/li&gt;
+      &lt;li&gt;A infecção ocorre dentro de 24h do parto, com rápido agravamento do estado materno.&lt;/li&gt;
+      &lt;li&gt;Os sintomas são:
+        &lt;ul&gt;
+          &lt;li&gt;febre elevada (39°C),&lt;/li&gt;
+          &lt;li&gt;calafrios,&lt;/li&gt;
+          &lt;li&gt;taquicardia&lt;/li&gt;
+          &lt;li&gt;útero doloroso à palpação (endomiometrite)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Consideram-se de risco as pacientes que tiveram parto disfuncional com ruptura prolongada das membranas submetidas à operação cesariana.&lt;/li&gt;
+      &lt;li&gt;O tratamento antibiótico deve ser imediato para evitar abscessos e endocardite.
+        &lt;ul&gt;
+          &lt;li&gt;Esses estreptococos são sensíveis a penicilina, ampicilina, cefalosporinas e eritromicina.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo D&lt;/strong&gt; (inclui enterococos, especialmente S. faecalis)
+    &lt;ul&gt;
+      &lt;li&gt;Não são considerados patogênicos em infecções cirúrgicas, embora sejam observados em pequeno número de mulheres com endometrite pós-parto ou bacteriemia.&lt;/li&gt;
+      &lt;li&gt;são resistentes a penicilina, cefalosporinas, aminoglicosídios e clindamicina; a ampicilina ou o efeito sinérgico da penicilina e de um aminoglicosídio inibem os enterococos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo A&lt;/strong&gt; (Streptococcus pyogenes)
+    &lt;ul&gt;
+      &lt;li&gt;Não fazem parte da microbiota normal da vagina e da cérvice
+        &lt;ul&gt;
+          &lt;li&gt;a origem é exógena, em geral da nasofaringe ou de lesões da pele da paciente, do bebê ou do corpo clínico do hospital.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;A principal característica dessa infecção é sua enorme capacidade de invasão
+        &lt;ul&gt;
+          &lt;li&gt;com sinais mínimos de localização nos pontos lesados do canal do parto.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Os microrganismos são sensíveis a penicilina, cefalosporinas e eritromicina
+        &lt;ul&gt;
+          &lt;li&gt;a resposta ao tratamento antibiótico adequado é muito rápida.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estafilococos aeróbios&lt;/strong&gt; (Staphylococcus epidermidis, Staphylococcus aureus)
+    &lt;ul&gt;
+      &lt;li&gt;S. aureus é encontrado em apenas 2% das culturas vaginais em grávidas.
+        &lt;ul&gt;
+          &lt;li&gt;Raramente determina endometrite, estando associado, mais frequentemente, a abscessos vulvovaginais e mastites.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;S. epidermidis é habitante normal da microbiota cervical
+        &lt;ul&gt;
+          &lt;li&gt;quando existente no útero, faz parte da infecção polimicrobiana.&lt;/li&gt;
+          &lt;li&gt;É resistente a penicilina e ampicilina, sensível a oxacilina, meticilina, cloxacilina e cefalosporinas.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gram-negativos aeróbios&lt;/strong&gt; (Escherichia coli, Klebsiella, Enterobacter, Proteus, Pseudomonas)
+    &lt;ul&gt;
+      &lt;li&gt;Grandes protagonistas das infecções urinárias costumam ser encontrados nos intestinos e em incidência variável no sistema genital:
+        &lt;ul&gt;
+          &lt;li&gt;E. coli em 2 a 10% das grávidas e em 33% das puérperas;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;outros membros da família Enterobacteriaceae raramente são encontrados.&lt;/li&gt;
+      &lt;li&gt;E. coli exerce papel importante na infecção puerperal.&lt;/li&gt;
+      &lt;li&gt;Principal responsável pelo choque septicêmico,&lt;/li&gt;
+      &lt;li&gt;sua sensibilidade aos antibióticos varia de hospital para hospital.&lt;/li&gt;
+      &lt;li&gt;Canamicina, gentamicina e cloranfenicol costumam ser efetivos contra 95% das espécies;&lt;/li&gt;
+      &lt;li&gt;as cefalosporinas atuam em 80 a 93%, e a ampicilina e a tetraciclina em, talvez, 80%.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Haemophilus influenzae&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;A literatura registra 20 casos de infecção puerperal por Haemophilus influenzae a partir de 1969.&lt;/li&gt;
+      &lt;li&gt;Dentre essas pacientes, nove evoluíram para estado de sepse,
+        &lt;ul&gt;
+          &lt;li&gt;a indicar a elevada virulência do microrganismo, que há de ser cogitada nos casos de refratariedade aos esquemas habituais de antibióticos utilizados na infecção puerperal.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Haemophilus influenzae é sensível a ampicilina, cloranfenicol e tetraciclinas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gardnerella vaginalis&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Tem-se registrado um número crescente de casos relacionados com Gardnerella vaginalis em culturas sanguíneas no pós-parto,
+        &lt;ul&gt;
+          &lt;li&gt;especialmente em mulheres com febre.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Existe a possibilidade de que determine infecção puerperal, em associação a anaeróbios,&lt;/li&gt;
+      &lt;li&gt;mas é sensível à maioria dos antibióticos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;h4 id=&quot;anaerbios&quot;&gt;Anaeróbios&lt;/h4&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;Gram-positivos anaeróbios&lt;/strong&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Cocos anaeróbios&lt;/strong&gt; (peptococos, peptoestreptococos): habitantes não patogênicos da vagina e do colo costumam se tornar virulentos na presença de tecido traumatizado e desvitalizado e de sangue coagulado.
-          &lt;ul&gt;
-            &lt;li&gt;Os lóquios têm cheiro pútrido.&lt;/li&gt;
-            &lt;li&gt;Tornaram-se comuns as infecções mistas por aeróbios (E. coli, enterococos) e outros anaeróbios (bacteroides).&lt;/li&gt;
-            &lt;li&gt;A penicilina é o antibiótico&lt;/li&gt;
-            &lt;li&gt;de escolha;&lt;/li&gt;
-            &lt;li&gt;secundariamente, opta-se por cefalosporinas, eritromicina e clindamicina&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Bastonetes anaeróbios&lt;/strong&gt; (clostrídios):
-          &lt;ul&gt;
-            &lt;li&gt;Clostridium perfringens (antes C. welchii) tem participação em 85% das infecções.&lt;/li&gt;
-            &lt;li&gt;Hóspede normal da vagina e do colo, tem virulência muito pequena e poucas vezes determina infecção puerperal.&lt;/li&gt;
-            &lt;li&gt;Por motivos desconhecidos, pode ocasionar quadro gravíssimo (gangrena gasosa, hemólise; hipotensão, insuficiência renal) quando patogênico, com mortalidade de 50 a 85% dos casos.&lt;/li&gt;
-            &lt;li&gt;Os lóquios têm odor fétido e a infecção é mais encontrada no abortamento infectado.&lt;/li&gt;
-            &lt;li&gt;O simples isolamento do clostrídio, no sistema genital, em casos de infecção, não indica ameaça à vida da paciente.&lt;/li&gt;
-            &lt;li&gt;Em geral, a endometrite é discreta e cede ao tratamento antibiótico (penicilina).&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Gram-negativos anaeróbios&lt;/strong&gt;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Bacteroides&lt;/strong&gt; (Bacteroides fragilis):
-          &lt;ul&gt;
-            &lt;li&gt;agentes importantes na infecção puerperal,&lt;/li&gt;
-            &lt;li&gt;anaeróbios não patogênicos do canal do parto e dos intestinos, só se tornam virulentos quando há tecido necrosado, lóquios fétidos e quadro clínico prolongado,&lt;/li&gt;
-            &lt;li&gt;frequentemente complicado por tromboflebite pélvica séptica.&lt;/li&gt;
-            &lt;li&gt;Não é uma infecção trivial que ameace a vida da paciente;&lt;/li&gt;
-            &lt;li&gt;B. fragilis costuma ser sensível à clindamicina e ao cloranfenicol, antibióticos de escolha.&lt;/li&gt;
-            &lt;li&gt;Cefoxitina e metronidazol também são efetivos.&lt;/li&gt;
-          &lt;/ul&gt;
-        &lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
+&lt;h4 id=&quot;anaeróbios&quot;&gt;Anaeróbios&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gram-positivos anaeróbios&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Cocos anaeróbios&lt;/strong&gt; (peptococos, peptoestreptococos): habitantes não patogênicos da vagina e do colo costumam se tornar virulentos na presença de tecido traumatizado e desvitalizado e de sangue coagulado.
+        &lt;ul&gt;
+          &lt;li&gt;Os lóquios têm cheiro pútrido.&lt;/li&gt;
+          &lt;li&gt;Tornaram-se comuns as infecções mistas por aeróbios (E. coli, enterococos) e outros anaeróbios (bacteroides).&lt;/li&gt;
+          &lt;li&gt;A penicilina é o antibiótico&lt;/li&gt;
+          &lt;li&gt;de escolha;&lt;/li&gt;
+          &lt;li&gt;secundariamente, opta-se por cefalosporinas, eritromicina e clindamicina&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Bastonetes anaeróbios&lt;/strong&gt; (clostrídios):
+        &lt;ul&gt;
+          &lt;li&gt;Clostridium perfringens (antes C. welchii) tem participação em 85% das infecções.&lt;/li&gt;
+          &lt;li&gt;Hóspede normal da vagina e do colo, tem virulência muito pequena e poucas vezes determina infecção puerperal.&lt;/li&gt;
+          &lt;li&gt;Por motivos desconhecidos, pode ocasionar quadro gravíssimo (gangrena gasosa, hemólise; hipotensão, insuficiência renal) quando patogênico, com mortalidade de 50 a 85% dos casos.&lt;/li&gt;
+          &lt;li&gt;Os lóquios têm odor fétido e a infecção é mais encontrada no abortamento infectado.&lt;/li&gt;
+          &lt;li&gt;O simples isolamento do clostrídio, no sistema genital, em casos de infecção, não indica ameaça à vida da paciente.&lt;/li&gt;
+          &lt;li&gt;Em geral, a endometrite é discreta e cede ao tratamento antibiótico (penicilina).&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gram-negativos anaeróbios&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Bacteroides&lt;/strong&gt; (Bacteroides fragilis):
+        &lt;ul&gt;
+          &lt;li&gt;agentes importantes na infecção puerperal,&lt;/li&gt;
+          &lt;li&gt;anaeróbios não patogênicos do canal do parto e dos intestinos, só se tornam virulentos quando há tecido necrosado, lóquios fétidos e quadro clínico prolongado,&lt;/li&gt;
+          &lt;li&gt;frequentemente complicado por tromboflebite pélvica séptica.&lt;/li&gt;
+          &lt;li&gt;Não é uma infecção trivial que ameace a vida da paciente;&lt;/li&gt;
+          &lt;li&gt;B. fragilis costuma ser sensível à clindamicina e ao cloranfenicol, antibióticos de escolha.&lt;/li&gt;
+          &lt;li&gt;Cefoxitina e metronidazol também são efetivos.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;h4 id=&quot;micoplasma&quot;&gt;Micoplasma&lt;/h4&gt;
-  &lt;ul&gt;
-    &lt;li&gt;São frequentemente encontrados na cérvice das gestantes.&lt;/li&gt;
-    &lt;li&gt;Mycoplasma hominis foi isolado em 20 a 50% das pacientes, e Ureaplasma urealyticum, em 60 a 80%.&lt;/li&gt;
-    &lt;li&gt;A associação entre micoplasmas genitais e febre puerperal não está ainda inteiramente esclarecida.&lt;/li&gt;
-    &lt;li&gt;O isolamento anteparto de micoplasma tem sido relacionado a febre puerperal em alguns estudos e contestado em outros.&lt;/li&gt;
-    &lt;li&gt;O micoplasma foi identificado no sangue em 3 a 8% das puérperas com febre inexplicada.&lt;/li&gt;
-    &lt;li&gt;Esses microrganismos determinam infecção de baixa morbidade que explica a evolução favorável mesmo sem terapia específica.&lt;/li&gt;
-    &lt;li&gt;Os micoplasmas genitais, encontrados no endométrio e/ou sangue em 15% das puérperas com endometrite, são sensíveis às tetraciclinas, à eritromicina e ao cloranfenicol.&lt;/li&gt;
-  &lt;/ul&gt;
+&lt;h4 id=&quot;micoplasma&quot;&gt;Micoplasma&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;São frequentemente encontrados na cérvice das gestantes.&lt;/li&gt;
+  &lt;li&gt;Mycoplasma hominis foi isolado em 20 a 50% das pacientes, e Ureaplasma urealyticum, em 60 a 80%.&lt;/li&gt;
+  &lt;li&gt;A associação entre micoplasmas genitais e febre puerperal não está ainda inteiramente esclarecida.&lt;/li&gt;
+  &lt;li&gt;O isolamento anteparto de micoplasma tem sido relacionado a febre puerperal em alguns estudos e contestado em outros.&lt;/li&gt;
+  &lt;li&gt;O micoplasma foi identificado no sangue em 3 a 8% das puérperas com febre inexplicada.&lt;/li&gt;
+  &lt;li&gt;Esses microrganismos determinam infecção de baixa morbidade que explica a evolução favorável mesmo sem terapia específica.&lt;/li&gt;
+  &lt;li&gt;Os micoplasmas genitais, encontrados no endométrio e/ou sangue em 15% das puérperas com endometrite, são sensíveis às tetraciclinas, à eritromicina e ao cloranfenicol.&lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;h4 id=&quot;clamdia&quot;&gt;Clamídia&lt;/h4&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Chlamydia trachomatis está relacionada com a infecção puerperal, especialmente a partir do 3º  dia de puerpério.&lt;/li&gt;
-    &lt;li&gt;Verificou-se maior incidência de infecção puerperal nas gestantes portadoras de clamídia.&lt;/li&gt;
-    &lt;li&gt;Em estudo similar, não foi encontrado qualquer diferença quanto à intercorrência de infecção puerperal entre as gestantes com ou sem cultura positiva para clamídia.&lt;/li&gt;
-    &lt;li&gt;São agentes sensíveis à tetraciclina e à eritromicina.&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;p&gt;oi&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-var coll = document.getElementsByClassName(&quot;collapsible&quot;);
-var i;
-
-for (i = 0; i &lt; coll.length; i++) {
-  coll[i].addEventListener(&quot;click&quot;, function() {
-    this.classList.toggle(&quot;active&quot;);
-    var content = this.nextElementSibling;
-    if (content.style.display === &quot;block&quot;) {
-      content.style.display = &quot;none&quot;;
-    } else {
-      content.style.display = &quot;block&quot;;
-    }
-  });
-}
-&lt;/script&gt;
+&lt;h4 id=&quot;clamídia&quot;&gt;Clamídia&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Chlamydia trachomatis está relacionada com a infecção puerperal, especialmente a partir do 3º  dia de puerpério.&lt;/li&gt;
+  &lt;li&gt;Verificou-se maior incidência de infecção puerperal nas gestantes portadoras de clamídia.&lt;/li&gt;
+  &lt;li&gt;Em estudo similar, não foi encontrado qualquer diferença quanto à intercorrência de infecção puerperal entre as gestantes com ou sem cultura positiva para clamídia.&lt;/li&gt;
+  &lt;li&gt;São agentes sensíveis à tetraciclina e à eritromicina.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;bactérias-mais-comuns-nas-infecções-genitais-femininas&quot;&gt;Bactérias mais comuns nas infecções genitais femininas&lt;/h3&gt;
 &lt;ul&gt;
@@ -311,18 +309,79 @@ a morbiletalidade puerperal. Em relação aos partos vaginais, a cesárea eleva 
 
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/infeccao-puerperal/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
 
+&lt;h3 id=&quot;endometrite&quot;&gt;Endometrite&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;É a infecção puerperal da genitália mais frequente&lt;/li&gt;
+  &lt;li&gt;Surge na área de implantação da placenta (área muito nutritiva)&lt;/li&gt;
+  &lt;li&gt;Após partos vaginais, incide em 1 a 3% dos casos e tende a instalar-se no 4º ou 5º dia de pós-parto&lt;/li&gt;
+  &lt;li&gt;o aparecimento mais precoce sugere maior virulência.&lt;/li&gt;
+  &lt;li&gt;As condições gerais se mantêm boas, a não ser nas formas muito graves&lt;/li&gt;
+  &lt;li&gt;Clinicamente, a infecção inicia-se pela ascensão da temperatura, que atinge 38,5 a 39°C&lt;/li&gt;
+  &lt;li&gt;os lóquios tornam-se purulentos e com mau cheiro quando anaeróbios estão envolvidos&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;O exame pélvico demonstra&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;útero amolecido e doloroso&lt;/li&gt;
+      &lt;li&gt;engrandecido no abdome&lt;/li&gt;
+      &lt;li&gt;colo permeável à polpa digital
+        &lt;ul&gt;
+          &lt;li&gt;que, manipulado, deixa escoar secreção purulenta&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A miometrite acompanha, em geral, a endometrite, com quadro clínico similar ou mais intenso que o anterior&lt;/li&gt;
+  &lt;li&gt;A endometrite após parto vaginal geralmente tem prognóstico benigno&lt;/li&gt;
+  &lt;li&gt;poucos casos complicam-se por abscesso pélvico, peritonite generalizada e tromboflebite pélvica&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Se a metrite é leve e se desenvolve depois de a mulher receber alta após o parto vaginal, o tratamento com antibiótico oral tende a ser suficiente&lt;/li&gt;
+  &lt;li&gt;Infecções moderadas e graves
+    &lt;ul&gt;
+      &lt;li&gt;especialmente após o parto cesáreo, o tratamento IV com antibióticos de largo espectro é mandatório&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;A melhora após 48 a 72h ocorre em cerca de 90% das mulheres&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;A persistência de febre após esse prazo faz pensar em complicações
+        &lt;ul&gt;
+          &lt;li&gt;abscesso de paramétrio, de parede ou pélvico&lt;/li&gt;
+          &lt;li&gt;tromboflebite pélvica séptica&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;O esquema antibiótico mais utilizado é
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;clindamicina&lt;/strong&gt; (900 mg IV cada 8 h) associada a &lt;strong&gt;gentamicina&lt;/strong&gt; (1,5 mg/kg IV cada 8 h)&lt;/li&gt;
+      &lt;li&gt;Ampicilina (2 g IV cada 6 h) ou metronidazol (500 mg IV cada 8 h) pode ser adicionado para prover cobertura contra anaeróbios se tiver sido realizada cesárea&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A intervenção na cavidade da matriz infectada só estará indicada na suspeita de retenção de restos ovulares com sangramento anormal e persistente, e deve ser feita pela curetagem com antibiótico e ocitócico&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;abscessos&quot;&gt;Abscessos&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Febre persistente apesar da antibioticoterapia&lt;/li&gt;
+  &lt;li&gt;Palpação de massa pélvica&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Devem ser abertos e drenados&lt;/li&gt;
+  &lt;li&gt;Antibioticoterapia&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;perineovulvovaginite-e-cervicite&quot;&gt;Perineovulvovaginite e cervicite&lt;/h3&gt;
 &lt;p&gt;As infecções do períneo, as vulvovaginais e as do colo uterino decorrem das inevitáveis soluções de continuidade aí produzidas pela passagem do feto, além das episiotomias. Clinicamente, caracterizam-se pelo:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Aparecimento de dor&lt;/li&gt;
   &lt;li&gt;Rubor&lt;/li&gt;
-  &lt;li&gt;eEema&lt;/li&gt;
+  &lt;li&gt;Edema&lt;/li&gt;
   &lt;li&gt;por vezes, secreção purulenta.&lt;/li&gt;
   &lt;li&gt;Febre moderada (38,5°C)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;infecção-da-episiotomia&quot;&gt;Infecção da episiotomia&lt;/h3&gt;
+&lt;h4 id=&quot;infecção-da-episiotomia&quot;&gt;Infecção da episiotomia&lt;/h4&gt;
 &lt;p&gt;A despeito de ser uma ferida em região contaminada, a infecção da episiotomia não é comum, vigente em menos de 0,5% dos casos.&lt;/p&gt;
 
 &lt;p&gt;A maioria não é grave e raramente é mortal. Essas infecções podem ser classificadas em 4 tipos, de acordo com a profundidade e a gravidade do processo inflamatório.&lt;/p&gt;
@@ -358,29 +417,28 @@ a morbiletalidade puerperal. Em relação aos partos vaginais, a cesárea eleva 
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;endometrite&quot;&gt;Endometrite&lt;/h3&gt;
+&lt;h4 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h4&gt;
 &lt;ul&gt;
-  &lt;li&gt;É a infecção puerperal da genitália mais frequente&lt;/li&gt;
-  &lt;li&gt;Surge na área de implantação da placenta&lt;/li&gt;
-  &lt;li&gt;Após partos vaginais, incide em 1 a 3% dos casos e tende a instalar-se no 4º ou 5º dia de pós-parto&lt;/li&gt;
-  &lt;li&gt;o aparecimento mais precoce sugere maior virulência.&lt;/li&gt;
-  &lt;li&gt;As condições gerais se mantêm boas, a não ser nas formas muito graves.&lt;/li&gt;
-  &lt;li&gt;Clinicamente, a infecção inicia-se pela ascensão da temperatura, que atinge 38,5 a 39°C&lt;/li&gt;
-  &lt;li&gt;os lóquios tornam-se purulentos e com mau cheiro quando anaeróbios estão envolvidos&lt;/li&gt;
-  &lt;li&gt;O exame pélvico demonstra
+  &lt;li&gt;&lt;strong&gt;Lacerações&lt;/strong&gt; perineais, vaginais e cervicais
     &lt;ul&gt;
-      &lt;li&gt;útero amolecido e doloroso,&lt;/li&gt;
-      &lt;li&gt;engrandecido no abdome,&lt;/li&gt;
-      &lt;li&gt;colo permeável à polpa digital,
+      &lt;li&gt;Devem ser suturadas&lt;/li&gt;
+      &lt;li&gt;A terapêutica das lacerações infectadas consiste na administração de antibióticos sistêmicos e antissépticos locais
         &lt;ul&gt;
-          &lt;li&gt;que, manipulado, deixa escoar secreção purulenta.&lt;/li&gt;
+          &lt;li&gt;cefalosporinas&lt;/li&gt;
+          &lt;li&gt;oxacilina&lt;/li&gt;
+          &lt;li&gt;meticilina&lt;/li&gt;
+          &lt;li&gt;cloxacilina&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;A miometrite acompanha, em geral, a endometrite, com quadro clínico similar ou mais intenso que o anterior&lt;/li&gt;
-  &lt;li&gt;A endometrite após parto vaginal geralmente tem prognóstico benigno;&lt;/li&gt;
-  &lt;li&gt;poucos casos complicam-se por abscesso pélvico, peritonite  generalizada e tromboflebite pélvica.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Episiotomias&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Merecem cuidados constantes até sua completa cicatrização&lt;/li&gt;
+      &lt;li&gt;Quando infectada merece abertura cirúrgica e exploração instrumental sob anestesia geral, não se dispensando, concomitantemente, antibióticos sistêmicos.&lt;/li&gt;
+      &lt;li&gt;Pacientes com infecção de episiotomia e manifestações tóxicas que não respondam à terapia   antibiótica em 24 a 48h além de edema e eritema em áreas que ultrapassam a perineal (abdome,   coxas e região glútea) devem ser submetidas, obrigatoriamente, à exploração cirúrgica, pois é   quase certa a possibilidade de necrose da fáscia superficial.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;parametrite&quot;&gt;Parametrite&lt;/h3&gt;
@@ -401,6 +459,17 @@ a morbiletalidade puerperal. Em relação aos partos vaginais, a cesárea eleva 
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;O prognóstico costuma ser favorável&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tratamento-3&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;baseia-se no emprego de antibióticos e anti-inflamatórios&lt;/li&gt;
+  &lt;li&gt;Quando há formação de abscessos, deve-se drenar pela via vaginal ou abdominal (flegmão do ligamento largo)
+    &lt;ul&gt;
+      &lt;li&gt;com mobilização da mecha no 2º ou no 3º dia&lt;/li&gt;
+      &lt;li&gt;sendo retirada completamente apenas quando terminada a exsudação&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;anexite-salpingite-e-ovarite&quot;&gt;Anexite (salpingite e ovarite)&lt;/h3&gt;
@@ -436,6 +505,12 @@ a morbiletalidade puerperal. Em relação aos partos vaginais, a cesárea eleva 
 notada na evolução da doença&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h4 id=&quot;tratamento-4&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;O tratamento é feito por antibióticos&lt;/li&gt;
+  &lt;li&gt;Em raros casos, por motivo da possibilidade de ruptura de piossalpinge, há necessidade de realizar a salpingectomia&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;peritonite&quot;&gt;Peritonite&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;A pelviperitonite acompanha muitas formas de infecção puerperal localizada:
@@ -463,9 +538,45 @@ notada na evolução da doença&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h4 id=&quot;tratamento-5&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Quando há abscesso no fundo de saco de Douglas, pratica-se a colpotomia e a drenagem&lt;/li&gt;
+  &lt;li&gt;Outros só indicam essa operação se a paciente estiver em
+    &lt;ul&gt;
+      &lt;li&gt;bom estado geral e com&lt;/li&gt;
+      &lt;li&gt;abdome flácido&lt;/li&gt;
+      &lt;li&gt;ruídos intestinais presentes&lt;/li&gt;
+      &lt;li&gt;optando por laparotomia nas demais oportunidades&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;No entanto, a mecha deve ser retirada somente quando, após 2 a 3 dias, não mais se notar a saída de material purulento ou seroso.&lt;/li&gt;
+  &lt;li&gt;Se depois desse período de drenagem as melhoras não se acentuarem (queda da temperatura e do pulso, alívio do estado geral), vale suspeitar de
+    &lt;ul&gt;
+      &lt;li&gt;generalização do processo,&lt;/li&gt;
+      &lt;li&gt;possível formação de lojas purulentas em outras regiões da cavidade abdominal&lt;/li&gt;
+      &lt;li&gt;tromboflebite pélvica séptica&lt;/li&gt;
+      &lt;li&gt;e septicemia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;O tratamento da peritonite generalizada há muito baseia-se na &lt;strong&gt;laparotomia&lt;/strong&gt;, que possibilita a aspiração do exsudato livre a fim de reduzir a absorção tóxica
+    &lt;ul&gt;
+      &lt;li&gt;Os focos sépticos devem ser incisados por via abdominal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;a colpotomia é insuficiente, porque lojas purulentas podem surgir até no espaço subdiafragmático
+    &lt;ul&gt;
+      &lt;li&gt;Os drenos são deixados nas fossas ilíacas&lt;/li&gt;
+      &lt;li&gt;Antes de se fechar a cavidade abdominal, é conveniente proceder à lavagem peritoneal com solução fisiológica e aí colocar ampicilina&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dependendo do estado geral da paciente e da precocidade da laparotomia, pode-se considerar a retirada do útero quando nele está o foco septicêmico&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/infeccao-puerperal/colpo.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;tromboflebite-pélvica-séptica&quot;&gt;Tromboflebite pélvica séptica&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Costuma ser o ponto de partida da pioemia (êmbolos sépticos),determinando abscessos renais, pulmonares e de outros órgãos&lt;/li&gt;
+  &lt;li&gt;Costuma ser o ponto de partida da pioemia (êmbolos sépticos), determinando abscessos renais, pulmonares e de outros órgãos&lt;/li&gt;
   &lt;li&gt;Não provoca embolia pulmonar maciça mortal&lt;/li&gt;
   &lt;li&gt;Os agentes infecciosos geralmente são os anaeróbios:
     &lt;ul&gt;
@@ -475,7 +586,7 @@ notada na evolução da doença&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Cerca de dois terços das pacientes apresentam febre e calafrios, e muitas também apresentam taquicardia e taquipneia&lt;/li&gt;
-  &lt;li&gt;Mais de um quinto refere
+  &lt;li&gt;Mais de 20% refere
     &lt;ul&gt;
       &lt;li&gt;dor torácica&lt;/li&gt;
       &lt;li&gt;apresenta tosse e hemoptise&lt;/li&gt;
@@ -523,6 +634,23 @@ notada na evolução da doença&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h4 id=&quot;tratamento-6&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;O melhor tratamento para a tromboflebite pélvica séptica, inclusive o da trombose da veia ovariana, é o &lt;strong&gt;antibiótico em combinação com o anticoagulante&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Deve-se iniciar com &lt;strong&gt;heparina&lt;/strong&gt; de baixo peso molecular (HBPM), no caso, enoxaparina em dose terapêutica: 1 mg/kg, 12/12 h, 1 ou 1,5 mg/kg, 24/24h, por injeção SC
+        &lt;ul&gt;
+          &lt;li&gt;Após o curso inicial com enoxaparina, associa-se o anticoagulante oral varfarina (10 mg/dia), e depois suspende-se a heparina&lt;/li&gt;
+          &lt;li&gt;Nesse período, o índice normalizado internacional (INR) deve ficar entre 2,0 e 3,0&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Muitos autores recomendam continuar os antibióticos por 48 a 72h e os anticoagulantes por, no mínimo, 7 a 10 dias após a resolução da febre&lt;/li&gt;
+      &lt;li&gt;Se o trombo estender-se à veia renal ou à veia cava inferior, como mostrado por TC, a varfarina deve ser mantida por 3 meses.&lt;/li&gt;
+      &lt;li&gt;A colocação de filtro na veia cava inferior pode estar indicada em situações de embolização pulmonar, apesar da anticoagulação adequada&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;choque-septicêmico&quot;&gt;Choque septicêmico&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;O principal responsável é a E. coli, raramente os clostrídios e os bacteroides&lt;/li&gt;
@@ -564,6 +692,13 @@ notada na evolução da doença&lt;/li&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h4 id=&quot;tratamento-7&quot;&gt;Tratamento&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;A cultura do sangue é exame obrigatório para identificar o germe&lt;/li&gt;
+  &lt;li&gt;Nos casos de infecção por &lt;em&gt;Clostridium&lt;/em&gt;, se estiverem presentes os sinais ominosos descritos no quadro clínico, está indicada a &lt;strong&gt;histerectomia total com anexectomia bilateral&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;As transfusões sanguíneas e o tratamento da insuficiência renal aguda são medidas adicionais&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;classificação-em-grupos-de-risco&quot;&gt;Classificação em grupos de risco&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Muito alto&lt;/strong&gt; (risco de infecção de 40 a 85%): operação cesariana após parto e amniorrexe de 6 a 12h, com múltiplos exames vaginais em mulheres indigentes&lt;/li&gt;
@@ -591,134 +726,6 @@ notada na evolução da doença&lt;/li&gt;
 &lt;p&gt;Não se justifica mais o teste da heparina intravenosa para estabelecer o diagnóstico.&lt;/p&gt;
 
 &lt;p&gt;A &lt;strong&gt;USG&lt;/strong&gt; é valiosa para o diagnóstico do &lt;strong&gt;abscesso pélvico e tubo-ovariano&lt;/strong&gt;, este último geralmente presente 1 a 2 semanas após o parto.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;h3 id=&quot;perineovulvovaginite-e-cervicite-1&quot;&gt;Perineovulvovaginite e cervicite&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Lacerações&lt;/strong&gt; perineais, vaginais e cervicais
-    &lt;ul&gt;
-      &lt;li&gt;Devem ser suturadas&lt;/li&gt;
-      &lt;li&gt;A terapêutica das lacerações infectadas consiste na administração de antibióticos sistêmicos e antissépticos locais
-        &lt;ul&gt;
-          &lt;li&gt;cefalosporinas&lt;/li&gt;
-          &lt;li&gt;oxacilina&lt;/li&gt;
-          &lt;li&gt;meticilina&lt;/li&gt;
-          &lt;li&gt;cloxacilina&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Episiotomias&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Merecem cuidados constantes até sua completa cicatrização&lt;/li&gt;
-      &lt;li&gt;Quando infectada merece abertura cirúrgica e exploração instrumental sob anestesia geral, não se dispensando, concomitantemente, antibióticos sistêmicos.&lt;/li&gt;
-      &lt;li&gt;Pacientes com infecção de episiotomia e manifestações tóxicas que não respondam à terapia   antibiótica em 24 a 48h além de edema e eritema em áreas que ultrapassam a perineal (abdome,   coxas e região glútea) devem ser submetidas, obrigatoriamente, à exploração cirúrgica, pois é   quase certa a possibilidade de necrose da fáscia superficial.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Abscessos&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;devem ser abertos e drenados&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;endometrite-e-miometrite&quot;&gt;Endometrite e miometrite&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Se a metrite é leve e se desenvolve depois de a mulher receber alta após o parto vaginal, o tratamento com antibiótico oral tende a ser suficiente&lt;/li&gt;
-  &lt;li&gt;Infecções moderadas e graves
-    &lt;ul&gt;
-      &lt;li&gt;especialmente após o parto cesáreo, o tratamento IV com antibióticos de largo espectro é mandatório&lt;/li&gt;
-      &lt;li&gt;A melhora após 48 a 72h ocorre em cerca de 90% das mulheres&lt;/li&gt;
-      &lt;li&gt;A persistência de febre após esse prazo faz pensar em complicações
-        &lt;ul&gt;
-          &lt;li&gt;abscesso de paramétrio, de parede ou pélvico&lt;/li&gt;
-          &lt;li&gt;tromboflebite pélvica séptica&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;O esquema antibiótico mais utilizado é
-        &lt;ul&gt;
-          &lt;li&gt;clindamicina (900 mg IV cada 8 h) associada a gentamicina (1,5 mg/kg IV cada 8 h)&lt;/li&gt;
-          &lt;li&gt;Ampicilina (2 g IV cada 6 h) ou metronidazol (500 mg IV cada 8 h) pode ser adicionado para prover cobertura contra anaeróbios se tiver sido realizada cesárea&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A intervenção na cavidade da matriz infectada só estará indicada na suspeita de retenção de restos ovulares com sangramento anormal e persistente, e deve ser feita pela curetagem com antibiótico e ocitócico&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;parametrite-1&quot;&gt;Parametrite&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;baseia-se no emprego de antibióticos e anti-inflamatórios&lt;/li&gt;
-  &lt;li&gt;Quando há formação de abscessos, deve-se drenar pela via vaginal ou abdominal (flegmão do ligamento largo)
-    &lt;ul&gt;
-      &lt;li&gt;com mobilização da mecha no 2º ou no 3º dia&lt;/li&gt;
-      &lt;li&gt;sendo retirada completamente apenas quando terminada a exsudação&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;anexite&quot;&gt;Anexite&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;O tratamento é feito por antibióticos&lt;/li&gt;
-  &lt;li&gt;Em raros casos, por motivo da possibilidade de ruptura de piossalpinge, há necessidade de realizar a salpingectomia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tromboflebite-pélvica-séptica-1&quot;&gt;Tromboflebite pélvica séptica&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;O melhor tratamento para a tromboflebite pélvica séptica, inclusive o da trombose da veia ovariana, é o antibiótico em combinação com o anticoagulante
-    &lt;ul&gt;
-      &lt;li&gt;Deve-se iniciar com heparina de baixo peso molecular (HBPM), no caso, enoxaparina em dose terapêutica: 1 mg/kg, 12/12 h, 1 ou 1,5 mg/kg, 24/24h, por injeção SC&lt;/li&gt;
-      &lt;li&gt;Após o curso inicial com enoxaparina, associa-se o anticoagulante oral varfarina (10 mg/dia), e depois suspende-se a heparina&lt;/li&gt;
-      &lt;li&gt;Nesse período, o índice normalizado internacional (INR) deve ficar entre 2,0 e 3,0&lt;/li&gt;
-      &lt;li&gt;Muitos autores recomendam continuar os antibióticos por 48 a 72h e os anticoagulantes por, no mínimo, 7 a 10 dias após a resolução da febre&lt;/li&gt;
-      &lt;li&gt;Se o trombo estender-se à veia renal ou à veia cava inferior, como mostrado por TC, a varfarina deve ser mantida por 3 meses.&lt;/li&gt;
-      &lt;li&gt;A colocação de filtro na veia cava inferior pode estar indicada em situações de embolização pulmonar, apesar da anticoagulação adequada&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;peritonite-1&quot;&gt;Peritonite&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Quando há abscesso no fundo de saco de Douglas, pratica-se a colpotomia e a drenagem&lt;/li&gt;
-  &lt;li&gt;Outros só indicam essa operação se a paciente estiver em
-    &lt;ul&gt;
-      &lt;li&gt;bom estado geral e com&lt;/li&gt;
-      &lt;li&gt;abdome flácido&lt;/li&gt;
-      &lt;li&gt;ruídos intestinais presentes&lt;/li&gt;
-      &lt;li&gt;optando por laparotomia nas demais oportunidades&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;No entanto, a mecha deve ser retirada somente quando, após 2 a 3 dias, não mais se notar a saída de material purulento ou seroso.&lt;/li&gt;
-  &lt;li&gt;Se depois desse período de drenagem as melhoras não se acentuarem (queda da temperatura e do pulso, alívio do estado geral), vale suspeitar de
-    &lt;ul&gt;
-      &lt;li&gt;generalização do processo,&lt;/li&gt;
-      &lt;li&gt;possível formação de lojas purulentas em outras regiões da cavidade abdominal&lt;/li&gt;
-      &lt;li&gt;tromboflebite pélvica séptica&lt;/li&gt;
-      &lt;li&gt;e septicemia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O tratamento da peritonite generalizada há muito baseia-se na &lt;strong&gt;laparotomia&lt;/strong&gt;, que possibilita a aspiração do exsudato livre a fim de reduzir a absorção tóxica
-    &lt;ul&gt;
-      &lt;li&gt;Os focos sépticos devem ser incisados por via abdominal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;a colpotomia é insuficiente, porque lojas purulentas podem surgir até no espaço subdiafragmático
-    &lt;ul&gt;
-      &lt;li&gt;Os drenos são deixados nas fossas ilíacas&lt;/li&gt;
-      &lt;li&gt;Antes de se fechar a cavidade abdominal, é conveniente proceder à lavagem peritoneal com solução fisiológica e aí colocar ampicilina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dependendo do estado geral da paciente e da precocidade da laparotomia, pode-se considerar a retirada do útero quando nele está o foco septicêmico&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/infeccao-puerperal/colpo.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;choque-septicêmico-1&quot;&gt;Choque septicêmico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;A cultura do sangue é exame obrigatório para identificar o germe&lt;/li&gt;
-  &lt;li&gt;Nos casos de infecção por &lt;em&gt;Clostridium&lt;/em&gt;, se estiverem presentes os sinais ominosos descritos no quadro clínico, está indicada a &lt;strong&gt;histerectomia total com anexectomia bilateral&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;As transfusões sanguíneas e o tratamento da insuficiência renal aguda são medidas adicionais&lt;/li&gt;
-&lt;/ul&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 &lt;div class=&quot;footnotes&quot;&gt;

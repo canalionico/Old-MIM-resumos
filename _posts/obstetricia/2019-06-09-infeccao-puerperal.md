@@ -8,7 +8,7 @@ categories: obstetricia
 1. Sumário
 {:toc}
 
-Denomina-se infecção puerperal (febre puerperal) a que se origina no aparelho genital após parto recente. Por ser, às vezes, impossível caracterizar a infecção que ocorre após o parto, alguns preferem conceituar a morbidade febril puerperal da seguinte maneira: temperatura de, no mínimo, **38°C, durante 2 dias quaisquer, dos primeiros 10 do período pós-parto, excluídas as 24h iniciais**.[^rez]
+Denomina-se infecção puerperal (_febre puerperal_) a que se origina no aparelho genital após parto recente. Por ser, às vezes, impossível caracterizar a infecção que ocorre após o parto, alguns preferem conceituar a morbidade febril puerperal da seguinte maneira: temperatura de, no mínimo, **38°C, por mais de 48h, nos primeiros 10 do período pós-parto, excluídas as 24h iniciais**.[^rez]
 
 ## Epidemiologia
 * Cerca de 15% de todas as mulheres com febre puerperal apresentam apenas ingurgitamento mamário.
@@ -25,9 +25,7 @@ microrganismos e é frequentemente precedida por infecção intra-amniótica cl�
 Os patógenos anaeróbios desempenham papel relevante na endometrite após operação cesariana e são isolados em 40 a 60% das culturas coletadas apropriadamente. Mulheres com endometrite após o parto vaginal são candidatas à infecção por patógeno único, com destaque para o
 Streptococcus.
 
-
-<button class="collapsible">Microbiologia</button>
-<div class="content" markdown="1">
+### Microbiologia
 #### Microbiota cervicovaginal normal na gravidez
 * A gravidez pode suscitar mudanças na microbiota cervicovaginal
 * A colonização por Lactobacillus aumenta na gravidez e existe a possibilidade de outros tipos de microrganismos serem diminuídos.
@@ -128,25 +126,6 @@ Streptococcus.
 * Verificou-se maior incidência de infecção puerperal nas gestantes portadoras de clamídia.
 * Em estudo similar, não foi encontrado qualquer diferença quanto à intercorrência de infecção puerperal entre as gestantes com ou sem cultura positiva para clamídia.
 * São agentes sensíveis à tetraciclina e à eritromicina.
-<p>oi</p>
-</div>
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
 
 ### Bactérias mais comuns nas infecções genitais femininas
 * Aeróbios
@@ -185,16 +164,54 @@ A infecção local, com penetração de germes, surge, inicialmente, pela porta 
 
 ![img](/assets/obstetricia/infeccao-puerperal/img.jpeg)
 
+### Endometrite
+* É a infecção puerperal da genitália mais frequente
+* Surge na área de implantação da placenta (área muito nutritiva)
+* Após partos vaginais, incide em 1 a 3% dos casos e tende a instalar-se no 4º ou 5º dia de pós-parto
+* o aparecimento mais precoce sugere maior virulência.
+* As condições gerais se mantêm boas, a não ser nas formas muito graves
+* Clinicamente, a infecção inicia-se pela ascensão da temperatura, que atinge 38,5 a 39°C
+* os lóquios tornam-se purulentos e com mau cheiro quando anaeróbios estão envolvidos
+* **O exame pélvico demonstra**
+  * útero amolecido e doloroso
+  * engrandecido no abdome
+  * colo permeável à polpa digital
+    * que, manipulado, deixa escoar secreção purulenta
+* A miometrite acompanha, em geral, a endometrite, com quadro clínico similar ou mais intenso que o anterior
+* A endometrite após parto vaginal geralmente tem prognóstico benigno
+* poucos casos complicam-se por abscesso pélvico, peritonite generalizada e tromboflebite pélvica
+
+#### Tratamento
+* Se a metrite é leve e se desenvolve depois de a mulher receber alta após o parto vaginal, o tratamento com antibiótico oral tende a ser suficiente
+* Infecções moderadas e graves
+  * especialmente após o parto cesáreo, o tratamento IV com antibióticos de largo espectro é mandatório
+  * **A melhora após 48 a 72h ocorre em cerca de 90% das mulheres**
+  * A persistência de febre após esse prazo faz pensar em complicações
+    * abscesso de paramétrio, de parede ou pélvico
+    * tromboflebite pélvica séptica
+* O esquema antibiótico mais utilizado é
+  * **clindamicina** (900 mg IV cada 8 h) associada a **gentamicina** (1,5 mg/kg IV cada 8 h)
+  * Ampicilina (2 g IV cada 6 h) ou metronidazol (500 mg IV cada 8 h) pode ser adicionado para prover cobertura contra anaeróbios se tiver sido realizada cesárea
+* A intervenção na cavidade da matriz infectada só estará indicada na suspeita de retenção de restos ovulares com sangramento anormal e persistente, e deve ser feita pela curetagem com antibiótico e ocitócico
+
+### Abscessos
+* Febre persistente apesar da antibioticoterapia
+* Palpação de massa pélvica
+
+#### Tratamento
+* Devem ser abertos e drenados
+* Antibioticoterapia
+
 ### Perineovulvovaginite e cervicite
 As infecções do períneo, as vulvovaginais e as do colo uterino decorrem das inevitáveis soluções de continuidade aí produzidas pela passagem do feto, além das episiotomias. Clinicamente, caracterizam-se pelo:
 
 * Aparecimento de dor
 * Rubor
-* eEema
+* Edema
 * por vezes, secreção purulenta.
 * Febre moderada (38,5°C)
 
-### Infecção da episiotomia
+#### Infecção da episiotomia
 A despeito de ser uma ferida em região contaminada, a infecção da episiotomia não é comum, vigente em menos de 0,5% dos casos.
 
 A maioria não é grave e raramente é mortal. Essas infecções podem ser classificadas em 4 tipos, de acordo com a profundidade e a gravidade do processo inflamatório.
@@ -216,22 +233,18 @@ A maioria não é grave e raramente é mortal. Essas infecções podem ser class
   * na maior parte das vezes, é causada por infecção por _Clostridium perfringens_
   * A dor é desproporcionada aos sinais físicos
 
-### Endometrite
-* É a infecção puerperal da genitália mais frequente
-* Surge na área de implantação da placenta
-* Após partos vaginais, incide em 1 a 3% dos casos e tende a instalar-se no 4º ou 5º dia de pós-parto
-* o aparecimento mais precoce sugere maior virulência.
-* As condições gerais se mantêm boas, a não ser nas formas muito graves.
-* Clinicamente, a infecção inicia-se pela ascensão da temperatura, que atinge 38,5 a 39°C
-* os lóquios tornam-se purulentos e com mau cheiro quando anaeróbios estão envolvidos
-* O exame pélvico demonstra
-  * útero amolecido e doloroso,
-  * engrandecido no abdome,
-  * colo permeável à polpa digital,
-    * que, manipulado, deixa escoar secreção purulenta.
-* A miometrite acompanha, em geral, a endometrite, com quadro clínico similar ou mais intenso que o anterior
-* A endometrite após parto vaginal geralmente tem prognóstico benigno;
-* poucos casos complicam-se por abscesso pélvico, peritonite  generalizada e tromboflebite pélvica.
+#### Tratamento
+* **Lacerações** perineais, vaginais e cervicais
+  * Devem ser suturadas
+  * A terapêutica das lacerações infectadas consiste na administração de antibióticos sistêmicos e antissépticos locais
+    * cefalosporinas
+    * oxacilina
+    * meticilina
+    * cloxacilina
+* **Episiotomias**
+  * Merecem cuidados constantes até sua completa cicatrização
+  * Quando infectada merece abertura cirúrgica e exploração instrumental sob anestesia geral, não se dispensando, concomitantemente, antibióticos sistêmicos.
+  * Pacientes com infecção de episiotomia e manifestações tóxicas que não respondam à terapia   antibiótica em 24 a 48h além de edema e eritema em áreas que ultrapassam a perineal (abdome,   coxas e região glútea) devem ser submetidas, obrigatoriamente, à exploração cirúrgica, pois é   quase certa a possibilidade de necrose da fáscia superficial.
 
 ### Parametrite
 * É a infecção do tecido conectivo fibroareolar, parametrial
@@ -244,6 +257,12 @@ A maioria não é grave e raramente é mortal. Essas infecções podem ser class
 * Se não for tratado em tempo, o processo evolve para supuração e flutuação
   * transformando-se em abscesso do paramétrio ou do ligamento largo
 * O prognóstico costuma ser favorável
+
+#### Tratamento
+* baseia-se no emprego de antibióticos e anti-inflamatórios
+* Quando há formação de abscessos, deve-se drenar pela via vaginal ou abdominal (flegmão do ligamento largo)
+  * com mobilização da mecha no 2º ou no 3º dia
+  * sendo retirada completamente apenas quando terminada a exsudação
 
 ### Anexite (salpingite e ovarite)
 * São representadas por infecção e inflamação das tubas uterinas e dos ovários
@@ -267,6 +286,10 @@ A maioria não é grave e raramente é mortal. Essas infecções podem ser class
 * A palpação de tumoração anexial é
 notada na evolução da doença
 
+#### Tratamento
+* O tratamento é feito por antibióticos
+* Em raros casos, por motivo da possibilidade de ruptura de piossalpinge, há necessidade de realizar a salpingectomia
+
 ### Peritonite
 * A pelviperitonite acompanha muitas formas de infecção puerperal localizada:
   * endomiometrite
@@ -283,15 +306,37 @@ notada na evolução da doença
 * A peritonite generalizada intercorre quando o microrganismo é muito virulento
   * como no caso do estreptococo beta-hemolítico
 
+#### Tratamento
+* Quando há abscesso no fundo de saco de Douglas, pratica-se a colpotomia e a drenagem
+* Outros só indicam essa operação se a paciente estiver em
+  * bom estado geral e com
+  * abdome flácido
+  * ruídos intestinais presentes
+  * optando por laparotomia nas demais oportunidades
+* No entanto, a mecha deve ser retirada somente quando, após 2 a 3 dias, não mais se notar a saída de material purulento ou seroso.
+* Se depois desse período de drenagem as melhoras não se acentuarem (queda da temperatura e do pulso, alívio do estado geral), vale suspeitar de
+  * generalização do processo,
+  * possível formação de lojas purulentas em outras regiões da cavidade abdominal
+  * tromboflebite pélvica séptica
+  * e septicemia
+* O tratamento da peritonite generalizada há muito baseia-se na **laparotomia**, que possibilita a aspiração do exsudato livre a fim de reduzir a absorção tóxica
+  * Os focos sépticos devem ser incisados por via abdominal
+* a colpotomia é insuficiente, porque lojas purulentas podem surgir até no espaço subdiafragmático
+  * Os drenos são deixados nas fossas ilíacas
+  * Antes de se fechar a cavidade abdominal, é conveniente proceder à lavagem peritoneal com solução fisiológica e aí colocar ampicilina
+* Dependendo do estado geral da paciente e da precocidade da laparotomia, pode-se considerar a retirada do útero quando nele está o foco septicêmico
+
+![img](/assets/obstetricia/infeccao-puerperal/colpo.jpeg)
+
 ### Tromboflebite pélvica séptica
-* Costuma ser o ponto de partida da pioemia (êmbolos sépticos),determinando abscessos renais, pulmonares e de outros órgãos
+* Costuma ser o ponto de partida da pioemia (êmbolos sépticos), determinando abscessos renais, pulmonares e de outros órgãos
 * Não provoca embolia pulmonar maciça mortal
 * Os agentes infecciosos geralmente são os anaeróbios:
   * peptococos
   * peptoestreptococos
   * Bacteroides
 * Cerca de dois terços das pacientes apresentam febre e calafrios, e muitas também apresentam taquicardia e taquipneia
-* Mais de um quinto refere
+* Mais de 20% refere
   * dor torácica
   * apresenta tosse e hemoptise
 * **Há dois quadros clínicos distintos:**
@@ -313,6 +358,15 @@ notada na evolução da doença
     * O método de eleição para o diagnóstico é a TC com ou sem contraste
     * A USG traz poucos subsídios
       * afasta apenas a possibilidade de abscessos pélvicos ou tubo-ovarianos decorrentes da infecção puerperal
+
+#### Tratamento
+* O melhor tratamento para a tromboflebite pélvica séptica, inclusive o da trombose da veia ovariana, é o **antibiótico em combinação com o anticoagulante**
+  * Deve-se iniciar com **heparina** de baixo peso molecular (HBPM), no caso, enoxaparina em dose terapêutica: 1 mg/kg, 12/12 h, 1 ou 1,5 mg/kg, 24/24h, por injeção SC
+    * Após o curso inicial com enoxaparina, associa-se o anticoagulante oral varfarina (10 mg/dia), e depois suspende-se a heparina
+    * Nesse período, o índice normalizado internacional (INR) deve ficar entre 2,0 e 3,0
+  * Muitos autores recomendam continuar os antibióticos por 48 a 72h e os anticoagulantes por, no mínimo, 7 a 10 dias após a resolução da febre
+  * Se o trombo estender-se à veia renal ou à veia cava inferior, como mostrado por TC, a varfarina deve ser mantida por 3 meses.
+  * A colocação de filtro na veia cava inferior pode estar indicada em situações de embolização pulmonar, apesar da anticoagulação adequada
 
 ### Choque septicêmico
 * O principal responsável é a E. coli, raramente os clostrídios e os bacteroides
@@ -341,6 +395,11 @@ notada na evolução da doença
   * coagulação intravascular disseminada
   * insuficiência renal aguda
 
+#### Tratamento
+* A cultura do sangue é exame obrigatório para identificar o germe
+* Nos casos de infecção por _Clostridium_, se estiverem presentes os sinais ominosos descritos no quadro clínico, está indicada a **histerectomia total com anexectomia bilateral**
+* As transfusões sanguíneas e o tratamento da insuficiência renal aguda são medidas adicionais
+
 ## Classificação em grupos de risco
 * **Muito alto** (risco de infecção de 40 a 85%): operação cesariana após parto e amniorrexe de 6 a 12h, com múltiplos exames vaginais em mulheres indigentes
 * **Alto** (risco de 10 a 40%):
@@ -361,81 +420,6 @@ O diagnóstico da **tromboflebite pélvica séptica** é feito atualmente com **
 Não se justifica mais o teste da heparina intravenosa para estabelecer o diagnóstico.
 
 A **USG** é valiosa para o diagnóstico do **abscesso pélvico e tubo-ovariano**, este último geralmente presente 1 a 2 semanas após o parto.
-
-## Tratamento
-### Perineovulvovaginite e cervicite
-* **Lacerações** perineais, vaginais e cervicais
-  * Devem ser suturadas
-  * A terapêutica das lacerações infectadas consiste na administração de antibióticos sistêmicos e antissépticos locais
-    * cefalosporinas
-    * oxacilina
-    * meticilina
-    * cloxacilina
-* **Episiotomias**
-  * Merecem cuidados constantes até sua completa cicatrização
-  * Quando infectada merece abertura cirúrgica e exploração instrumental sob anestesia geral, não se dispensando, concomitantemente, antibióticos sistêmicos.
-  * Pacientes com infecção de episiotomia e manifestações tóxicas que não respondam à terapia   antibiótica em 24 a 48h além de edema e eritema em áreas que ultrapassam a perineal (abdome,   coxas e região glútea) devem ser submetidas, obrigatoriamente, à exploração cirúrgica, pois é   quase certa a possibilidade de necrose da fáscia superficial.
-* **Abscessos**
-  * devem ser abertos e drenados
-
-### Endometrite e miometrite
-* Se a metrite é leve e se desenvolve depois de a mulher receber alta após o parto vaginal, o tratamento com antibiótico oral tende a ser suficiente
-* Infecções moderadas e graves
-  * especialmente após o parto cesáreo, o tratamento IV com antibióticos de largo espectro é mandatório
-  * A melhora após 48 a 72h ocorre em cerca de 90% das mulheres
-  * A persistência de febre após esse prazo faz pensar em complicações
-    * abscesso de paramétrio, de parede ou pélvico
-    * tromboflebite pélvica séptica
-  * O esquema antibiótico mais utilizado é
-    * clindamicina (900 mg IV cada 8 h) associada a gentamicina (1,5 mg/kg IV cada 8 h)
-    * Ampicilina (2 g IV cada 6 h) ou metronidazol (500 mg IV cada 8 h) pode ser adicionado para prover cobertura contra anaeróbios se tiver sido realizada cesárea
-* A intervenção na cavidade da matriz infectada só estará indicada na suspeita de retenção de restos ovulares com sangramento anormal e persistente, e deve ser feita pela curetagem com antibiótico e ocitócico
-
-### Parametrite
-* baseia-se no emprego de antibióticos e anti-inflamatórios
-* Quando há formação de abscessos, deve-se drenar pela via vaginal ou abdominal (flegmão do ligamento largo)
-  * com mobilização da mecha no 2º ou no 3º dia
-  * sendo retirada completamente apenas quando terminada a exsudação
-
-### Anexite
-* O tratamento é feito por antibióticos
-* Em raros casos, por motivo da possibilidade de ruptura de piossalpinge, há necessidade de realizar a salpingectomia
-
-### Tromboflebite pélvica séptica
-* O melhor tratamento para a tromboflebite pélvica séptica, inclusive o da trombose da veia ovariana, é o antibiótico em combinação com o anticoagulante
-  * Deve-se iniciar com heparina de baixo peso molecular (HBPM), no caso, enoxaparina em dose terapêutica: 1 mg/kg, 12/12 h, 1 ou 1,5 mg/kg, 24/24h, por injeção SC
-  * Após o curso inicial com enoxaparina, associa-se o anticoagulante oral varfarina (10 mg/dia), e depois suspende-se a heparina
-  * Nesse período, o índice normalizado internacional (INR) deve ficar entre 2,0 e 3,0
-  * Muitos autores recomendam continuar os antibióticos por 48 a 72h e os anticoagulantes por, no mínimo, 7 a 10 dias após a resolução da febre
-  * Se o trombo estender-se à veia renal ou à veia cava inferior, como mostrado por TC, a varfarina deve ser mantida por 3 meses.
-  * A colocação de filtro na veia cava inferior pode estar indicada em situações de embolização pulmonar, apesar da anticoagulação adequada
-
-### Peritonite
-* Quando há abscesso no fundo de saco de Douglas, pratica-se a colpotomia e a drenagem
-* Outros só indicam essa operação se a paciente estiver em
-  * bom estado geral e com
-  * abdome flácido
-  * ruídos intestinais presentes
-  * optando por laparotomia nas demais oportunidades
-* No entanto, a mecha deve ser retirada somente quando, após 2 a 3 dias, não mais se notar a saída de material purulento ou seroso.
-* Se depois desse período de drenagem as melhoras não se acentuarem (queda da temperatura e do pulso, alívio do estado geral), vale suspeitar de
-  * generalização do processo,
-  * possível formação de lojas purulentas em outras regiões da cavidade abdominal
-  * tromboflebite pélvica séptica
-  * e septicemia
-* O tratamento da peritonite generalizada há muito baseia-se na **laparotomia**, que possibilita a aspiração do exsudato livre a fim de reduzir a absorção tóxica
-  * Os focos sépticos devem ser incisados por via abdominal
-* a colpotomia é insuficiente, porque lojas purulentas podem surgir até no espaço subdiafragmático
-  * Os drenos são deixados nas fossas ilíacas
-  * Antes de se fechar a cavidade abdominal, é conveniente proceder à lavagem peritoneal com solução fisiológica e aí colocar ampicilina
-* Dependendo do estado geral da paciente e da precocidade da laparotomia, pode-se considerar a retirada do útero quando nele está o foco septicêmico
-
-![img](/assets/obstetricia/infeccao-puerperal/colpo.jpeg)
-
-### Choque septicêmico
-* A cultura do sangue é exame obrigatório para identificar o germe
-* Nos casos de infecção por _Clostridium_, se estiverem presentes os sinais ominosos descritos no quadro clínico, está indicada a **histerectomia total com anexectomia bilateral**
-* As transfusões sanguíneas e o tratamento da insuficiência renal aguda são medidas adicionais
 
 ## Referências
 [^rez]: Rezendinho
