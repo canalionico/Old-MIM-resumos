@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/climaterio',
+      
         '/infeccao-puerperal',
       
         '/tumores-de-ovario',
@@ -195,6 +197,8 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/ca-endometrio/figo1.png'
       
         '/assets/ginecologia/ca-endometrio/figo2.png'
+      
+        '/assets/ginecologia/climaterio/sm.jpeg'
       
         '/assets/ginecologia/leiomioma/mioma.png'
       
@@ -391,6 +395,10 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/infeccao-puerperal/colpo.jpeg'
       
         '/assets/obstetricia/infeccao-puerperal/img.jpeg'
+      
+        '/assets/obstetricia/infeccao-puerperal/sepse-tto.jpeg'
+      
+        '/assets/obstetricia/infeccao-puerperal/sepse.jpeg'
       
         '/assets/obstetricia/pp/dd.jpeg'
       
