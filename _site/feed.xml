@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-10T18:35:08-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Climatério</title><link href="http://localhost:4000/climaterio" rel="alternate" type="text/html" title="Climatério" /><published>2019-06-10T00:00:00-03:00</published><updated>2019-06-10T00:00:00-03:00</updated><id>http://localhost:4000/climaterio</id><content type="html" xml:base="http://localhost:4000/climaterio">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-10T23:20:01-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Climatério</title><link href="http://localhost:4000/climaterio" rel="alternate" type="text/html" title="Climatério" /><published>2019-06-10T00:00:00-03:00</published><updated>2019-06-10T00:00:00-03:00</updated><id>http://localhost:4000/climaterio</id><content type="html" xml:base="http://localhost:4000/climaterio">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#manifestações-clínicas&quot; id=&quot;markdown-toc-manifestações-clínicas&quot;&gt;Manifestações clínicas&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#sangramento-genital-irregular&quot; id=&quot;markdown-toc-sangramento-genital-irregular&quot;&gt;Sangramento genital irregular&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#fogachos&quot; id=&quot;markdown-toc-fogachos&quot;&gt;Fogachos&lt;/a&gt;&lt;/li&gt;
@@ -30,15 +30,37 @@
   &lt;li&gt;&lt;a href=&quot;#terapêutica&quot; id=&quot;markdown-toc-terapêutica&quot;&gt;Terapêutica&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#hábitos-nutricionais&quot; id=&quot;markdown-toc-hábitos-nutricionais&quot;&gt;Hábitos nutricionais&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#exercício-físico&quot; id=&quot;markdown-toc-exercício-físico&quot;&gt;Exercício Físico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#terapia-de-reposição-hormonal&quot; id=&quot;markdown-toc-terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#terapia-de-reposição-hormonal&quot; id=&quot;markdown-toc-terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#estrogênios-utilizados&quot; id=&quot;markdown-toc-estrogênios-utilizados&quot;&gt;Estrogênios utilizados&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#progestagênios-utilizados&quot; id=&quot;markdown-toc-progestagênios-utilizados&quot;&gt;Progestagênios utilizados&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#androgênios&quot; id=&quot;markdown-toc-androgênios&quot;&gt;Androgênios&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#regimes-terapêuticos&quot; id=&quot;markdown-toc-regimes-terapêuticos&quot;&gt;Regimes terapêuticos&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#terapia-de-baixa-dose&quot; id=&quot;markdown-toc-terapia-de-baixa-dose&quot;&gt;Terapia de baixa dose&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;O Climatério corresponde à fase da vida da mulher caracterizada pela transição do período de vida reprodutivo até a senilidade, extendendo-se, segundo a OMS, dos 40 aos 65 anos. A idade na qual se inicia o climatério é muito variável, porém na maioria das mulheres &lt;strong&gt;inicia entre 45 e 50 anos&lt;/strong&gt;, enquanto a &lt;strong&gt;menopausa ocorre por volta dos 50 anos&lt;/strong&gt; de idade.&lt;/p&gt;
+&lt;p&gt;O Climatério corresponde à fase da vida da mulher caracterizada pela transição do período de vida reprodutivo até a senilidade, extendendo-se, segundo a OMS, dos 40 aos 65 anos. A idade na qual se inicia o climatério é muito variável, porém na maioria das mulheres &lt;strong&gt;inicia entre 45 e 50 anos&lt;/strong&gt;, enquanto a &lt;strong&gt;menopausa ocorre por volta dos 50 anos&lt;/strong&gt; de idade.&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Marca o início do declínio da função ovariana.&lt;sup id=&quot;fnref:med&quot;&gt;&lt;a href=&quot;#fn:med&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;A mulher passa por diversas modificações físicas e psíquicas no período do climatério, decorrentes, em última análise, da diminuição dos níveis de estrógenos circulantes. Os mais freqüentemente citados são a instabilidade vasomotora, os distúrbios menstruais, sintomas neuro-psicológicos, a atrofia genito-urinária, e a longo prazo, a alterações cardiovasculares e no metabolismo ósseo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Perimenopausa: quando começam as irregularidades menstruais até 12 meses de amenorréia
+    &lt;ul&gt;
+      &lt;li&gt;Aqui ainda podem ser observados níveis normais ou aumentados de estrogênios, em resposta ao ↑FSH&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Menopausa: 12 meses consecutivos em amenorréia (é uma data)&lt;/li&gt;
+  &lt;li&gt;Pós-menopausa: da menopausa até os 65 anos
+    &lt;ul&gt;
+      &lt;li&gt;Os níveis de estrógenos já estão muito baixos, menos na ↑↑FSH devido à ausência de folículos ovarianos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Senilidade (ou senectitude): a partir dos 65 anos&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;manifestações-clínicas&quot;&gt;Manifestações clínicas&lt;/h2&gt;
 &lt;h3 id=&quot;sangramento-genital-irregular&quot;&gt;Sangramento genital irregular&lt;/h3&gt;
@@ -52,6 +74,16 @@
   &lt;li&gt;são os distúrbios mais freqüentes, estando presente em cerca de 75% das mulheres no climatério.&lt;/li&gt;
   &lt;li&gt;Parecem ser produzidas por alterações no sistema termoregulador hipotalâmico, que leva à vasodilatação e transpiração para dissipação do calor.&lt;/li&gt;
   &lt;li&gt;Vários neurotransmissores, como as catecolaminas e os opióides, envolvidos na termorregulação, parecem sofrer modificação pela deficiência estrogênica, contribuindo para o aparecimento das ondas de calor.&lt;/li&gt;
+  &lt;li&gt;Sensação de calor na parte superior do tronco, MMSS e face
+    &lt;ul&gt;
+      &lt;li&gt;Ruborização facial&lt;/li&gt;
+      &lt;li&gt;Posterior sudorese&lt;/li&gt;
+      &lt;li&gt;Palpitações&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dura de 15 a 60 segundos&lt;/li&gt;
+  &lt;li&gt;Mais intensa à noite (paciente pode despertar durante a noite - insonia)&lt;/li&gt;
+  &lt;li&gt;Repetições durante o dia&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;sintomas-neuro-psicológicos&quot;&gt;Sintomas neuro-psicológicos&lt;/h3&gt;
@@ -204,7 +236,33 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/ginecologia/climaterio/sm.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th&gt;Critérios&lt;/th&gt;
+    &lt;th&gt;Valores&lt;/th&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Circunferência abdominal&lt;/td&gt;
+    &lt;td&gt;M &amp;gt; 88 cm - H &amp;gt; 102 cm&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;PA&lt;/td&gt;
+    &lt;td&gt;PAS ≥ 130 ou PAD ≥ 85&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Triglicérides&lt;/td&gt;
+    &lt;td&gt;&amp;gt; 150 mg/d&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;HDL-Colesterol&lt;/td&gt;
+    &lt;td&gt;M &amp;lt; 50 mg/dL - H &amp;lt; 40 mg/dL&lt;/td&gt;
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td&gt;Glicemia de jejum&lt;/td&gt;
+    &lt;td&gt;&amp;lt; 100 mg/dL&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
 &lt;figcaption&gt;Diagnóstico com 3 dos 5 critérios acima&lt;/figcaption&gt;
 
 &lt;h4 id=&quot;exame-ginecológico&quot;&gt;Exame ginecológico&lt;/h4&gt;
@@ -221,11 +279,15 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
       &lt;li&gt;5 - achados altamente sugestivos de malignidade: investigação complementar é necessária&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG-TV&lt;/strong&gt;, sempre que possível. Sinais sugestivos de anormalidades endometriais são:
+  &lt;li&gt;&lt;strong&gt;USG-TV&lt;/strong&gt;, sempre que possível.
     &lt;ul&gt;
-      &lt;li&gt;Espessamento de eco&lt;/li&gt;
-      &lt;li&gt;Ecogenicidade heterogênea&lt;/li&gt;
-      &lt;li&gt;Erregularidade dos contornos endometriais&lt;/li&gt;
+      &lt;li&gt;Sinais sugestivos de anormalidades endometriais são:
+        &lt;ul&gt;
+          &lt;li&gt;Espessamento de eco&lt;/li&gt;
+          &lt;li&gt;Ecogenicidade heterogênea&lt;/li&gt;
+          &lt;li&gt;Erregularidade dos contornos endometriais&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
       &lt;li&gt;Atualmente, tem sido considerado como limite de normalidade, na mulher menopausada, uma espessura = ou &amp;lt; 5 mm. Acima desse limite, devese investigar o endométrio através da histeroscopia com biópsia ou AMIU.&lt;/li&gt;
       &lt;li&gt;Na mulher na pré-menopausa, investigar o endométrio quando o eco endometrial estiver &amp;lt; de 18 mm ou se os ciclos estiverem hipermenorrágicos, independente do eco endometrial.&lt;/li&gt;
       &lt;li&gt;A USG-TV também é um importante instrumento de detecção precoce do câncer de ovário&lt;/li&gt;
@@ -235,9 +297,9 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
     &lt;ul&gt;
       &lt;li&gt;Achados:
         &lt;ul&gt;
-          &lt;li&gt;DP &amp;gt; ou = -2,5: Osteoporose&lt;/li&gt;
-          &lt;li&gt;DP Entre -1 e -2,5: Osteopenia&lt;/li&gt;
-          &lt;li&gt;DP até -1: Densidade normal&lt;/li&gt;
+          &lt;li&gt;DP &amp;gt; ou = -2,5: &lt;strong&gt;Osteoporose&lt;/strong&gt;&lt;/li&gt;
+          &lt;li&gt;DP Entre -1 e -2,5: &lt;strong&gt;Osteopenia&lt;/strong&gt;&lt;/li&gt;
+          &lt;li&gt;DP até -1: &lt;strong&gt;Densidade normal&lt;/strong&gt;&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
       &lt;li&gt;Além disso, pode ser considerada uma ferramenta prognóstica, em relação ao risco de fraturas
@@ -284,8 +346,176 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/h3&gt;
+&lt;p&gt;Os ovários na pós menopausa apresentam produção mínima de estrogênios, sendo que a ooforectomia realizada neste período näo se acompanha de decréscimo adicional dos níveis circulantes ou excretados de estrogênios.&lt;/p&gt;
 
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Infecção puerperal</title><link href="http://localhost:4000/infeccao-puerperal" rel="alternate" type="text/html" title="Infecção puerperal" /><published>2019-06-09T00:00:00-03:00</published><updated>2019-06-09T00:00:00-03:00</updated><id>http://localhost:4000/infeccao-puerperal</id><content type="html" xml:base="http://localhost:4000/infeccao-puerperal">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;Os níveis circulantes de estrogênios observados nessa época säo, em geral, baixos, mantidos principalmente às custas de  estrona, derivada da aromatizaçäo periférica de precursores androgênicos adrenais, particularmente a androstenediona.&lt;/p&gt;
+
+&lt;p&gt;O objetivo é tratar os sintomas do hipoestrogenismo da menopausa, que acarreta em todas as alterações mencionadas no início do artigo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Contra-indicações:
+    &lt;ul&gt;
+      &lt;li&gt;Antecedentes pessoais de câncer de mama&lt;/li&gt;
+      &lt;li&gt;Insuficiência hepática ou renal graves&lt;/li&gt;
+      &lt;li&gt;Tromboembolismo relacionado ao tratamento hormonal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Empregam-se os estrogênios, progestagênios e, eventualmente, androgênios.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A TH deve sempre ser individualizada, não sendo possível a padronização do tipo de tratamento utilizado.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;As irregularidades menstruais na perimenopausa tem como substrato fisiopatológico o estado anovulatório;
+    &lt;ul&gt;
+      &lt;li&gt;Nesse sentido, para a correção dos ciclos menstruais e prevenção das &lt;strong&gt;hiperplasias endometriais&lt;/strong&gt; são utilizados progestagênios, em esquema cíclico, por 10 a 14 dias de cada mês.&lt;/li&gt;
+      &lt;li&gt;Citam-se entre estes o acetato de medroxiprogesterona, o acetato de noretindrone, o acetato de nomegestrol e a didrogesterona, igualmente efetivos.
+        &lt;blockquote&gt;
+          &lt;p&gt;Pacientes &lt;strong&gt;histerectomizadas&lt;/strong&gt; dispensam o emprego de progestagênios, cuja função primordial em TH recai sobre a prevenção dos estados hiperplásicos do endométrio. Nessa situação, o uso de estrogênios contínuos isoladamente contempla satisfatoriamente os objetivos da TH.&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Nas mulheres que apresentam &lt;strong&gt;útero intacto&lt;/strong&gt;, utilizam-se estrogênios em associação aos progestagênios.
+    &lt;ul&gt;
+      &lt;li&gt;Quando usados de maneira seqüencial, os progestagênios determinam fluxo menstrual regular, muitas vezes não aceito por algumas pacientes, mormente naquelas com maior tempo de pós-menopausa.&lt;/li&gt;
+      &lt;li&gt;Visando contornar o sangramento dos esquemas seqüenciais, pode-se utilizar estrogênios continuamente em associação a pequenas doses de progestagênios, no esquema denominado &lt;strong&gt;combinado contínuo&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quando presente a sintomatologia vasomotora no período perimenopáusico, a utilização de estrogênios em associação a progestagênios de forma cíclica parece ser o mais adequado, tendo esse esquema a denominação de “combinado seqüencial”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;estrogênios-utilizados&quot;&gt;Estrogênios utilizados&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Objetivo: atingit níveis estrogênicos plasmáticos semelhantes aos observados na fase folicular inicial de mulheres no menacme.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Podem ser administrados pelas vias oral (primera passagem hepática), nasal, vaginal, transdérmica – adesivos ou gel, e implantes subcutâneos.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;VO:
+    &lt;ul&gt;
+      &lt;li&gt;Estrogênios conjugados equinos (EEC): 0,3-0,45-0,625-1,25 mg/dia&lt;/li&gt;
+      &lt;li&gt;17-beta estradiol micronizado (E2): 1-2 mg/dia&lt;/li&gt;
+      &lt;li&gt;Valerato de estradiol (VE): 1-2 mg/dia&lt;/li&gt;
+      &lt;li&gt;Estriol (E3): 2-6 mg/dia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Via transdérmica
+    &lt;ul&gt;
+      &lt;li&gt;Estradiol transdérmico (E2): 25-37,5-50-75-100 g/dia a cada 3 dias e 1/2&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;….&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;progestagênios-utilizados&quot;&gt;Progestagênios utilizados&lt;/h4&gt;
+&lt;p&gt;A adiçäo destes hormonios, em terapêutica de reposiçäo estrogênica fundamenta-se na prevenção dos estados hiperplásicos endometriais. Dessa forma, são indicados em mulheres com útero intacto.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Prescritos em pacientes histerectomizadas apenas em situações especiais, como nos antecedentes de endometriose e de câncer do endométrio em estágio I após tratamento.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h4 id=&quot;androgênios&quot;&gt;Androgênios&lt;/h4&gt;
+&lt;p&gt;Incluem-se, nesse grupo, a tibolona, os androgênios por via oral e as associações estro-androgênicas de uso intramuscular.&lt;/p&gt;
+
+&lt;p&gt;Os androgênios são úteis em TH em situações onde se
+encontram indícios clínicos e/ou laboratoriais da insuficiência androgênica feminina,
+particularmente na ooforectomia.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Tibolona:&lt;/strong&gt; embora classifique-se quimicamente como um progestogênio, possui características teciduais específicas com atuação estrogênica, progestacional e androgênica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;intramuscular
+Sais de estrogênio e androgênio (conjugados) 1 ampola/ 3-4 semanas
+Sais de androgênios conjugados
+ 75 mg/mês
+Decanoato de nandrolona
+ 25-50 mg/15-20 dias&lt;/p&gt;
+
+&lt;table&gt;
+   &lt;tr&gt;
+     &lt;th&gt;Via&lt;/th&gt;
+     &lt;th&gt;Doses&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+     &lt;th&gt;Oral&lt;/th&gt;
+     &lt;th&gt;&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+     &lt;td&gt;Tibolona&lt;/td&gt;
+     &lt;td&gt; 1,5 – 2,5 mg/dia&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+     &lt;td&gt;Metiltestosterona&lt;/td&gt;
+     &lt;td&gt; 1,25 – 2,5 - 5 mg/dia&lt;/td&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+     &lt;th&gt;Intramuscular&lt;/th&gt;
+     &lt;th&gt;&lt;/th&gt;
+   &lt;/tr&gt;
+   &lt;tr&gt;
+     &lt;td&gt;Sais de estrogênio e androgênio (conjugados)&lt;/td&gt;
+     &lt;td&gt;1 ampola/ 3-4 semanas&lt;/td&gt;
+   &lt;/tr&gt;
+ &lt;/table&gt;
+
+&lt;h4 id=&quot;regimes-terapêuticos&quot;&gt;Regimes terapêuticos&lt;/h4&gt;
+&lt;p&gt;Estrogenios utilizados, independentemente da natureza e da via de administraçao, devem atingir concentrações plasmaticas de estradiol que possibilitem a melhora dos sintomas e a prevenção óssea.&lt;/p&gt;
+
+&lt;p&gt;Os progestagênios, por sua vez, devem ser utilizados nas doses mínimas necessarias a proteção endometrial.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Estrogênios isolados&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Estimulam a biossíntese na célula endometrial,levando potencionalmente à &lt;strong&gt;hiperplasia endometrial&lt;/strong&gt;, devido à incompleta descamaçäo do endométrio.&lt;/li&gt;
+      &lt;li&gt;Estrogênios sem oposiçäo devem ser administrados a pacientes com útero intacto,  apenas em casos especiais, particularmente, nas pacientes com intolerância a qualquer tipo e dose de progestagênios.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estrogênios e progestagênios em esquema combinado sequencial&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;O uso seqüencial de estrogênios e progestagênios freqüentemente leva a sangramento de supressäo, inaceitável para muitas mulheres, particularmente quando já se passaram alguns anos da menopausa.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estrogênios e progestagênios em esquema combinado contínuo&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;O endométrio se tornando atrófico, a paciente deverá manter em amenorréia, pois, em teoria, não há tecido para descamar.&lt;/li&gt;
+      &lt;li&gt;Pode ser conseguido com pequenas doses de progestagênios, tendo, reduzindo o impacto lipídico e efeitos colaterais indesejáveis, físicos e psicológicos.&lt;/li&gt;
+      &lt;li&gt;Fazem ainda parte desse regime terapêutico o emprego da tibolona de forma contínua, e o esquema denominado de progestogênio intermitente em “mini-pulsos”
+        &lt;ul&gt;
+          &lt;li&gt;onde se utilizam estrogênios continuamente em associação a progestagênios alternados a cada 3 dias, que se baseia na ocupação máxima de receptores de progestagênios nesse período.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estrogênio contínuo e progestogênio cíclico quadrimensal&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Utilização de estrogênios em associação a progestagênios em séries de 14 dias, em doses mais elevadas, a cada 4 meses, não sendo observado aumento do risco de hiperplasia nesse esquema.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Em quaisquer dos regimes empregados, a adição de androgênios pode ser efetuada, a depender da situação clínica observada. Cabe assinalar que o uso de androgênios não determina proteção endometrial, não dispensando a administração de progestagênios em pacientes com útero presente.&lt;/p&gt;
+
+&lt;h4 id=&quot;terapia-de-baixa-dose&quot;&gt;Terapia de baixa dose&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Em geral a dose é reduzida em 50%&lt;/li&gt;
+  &lt;li&gt;Os estudos com TH de baixa dose demonstram efetividade no controle sintomatológico, na atrofia urogenital, na preservação da massa óssea e sobre parâmetros do perfil lipídico.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;…….&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:cisam&quot;&gt;
+      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:med&quot;&gt;
+      &lt;p&gt;MED &lt;a href=&quot;#fnref:med&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Infecção puerperal</title><link href="http://localhost:4000/infeccao-puerperal" rel="alternate" type="text/html" title="Infecção puerperal" /><published>2019-06-09T00:00:00-03:00</published><updated>2019-06-09T00:00:00-03:00</updated><id>http://localhost:4000/infeccao-puerperal</id><content type="html" xml:base="http://localhost:4000/infeccao-puerperal">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#antibioticoprofilaxia-em-cesárea-e-partos-operatórios&quot; id=&quot;markdown-toc-antibioticoprofilaxia-em-cesárea-e-partos-operatórios&quot;&gt;Antibioticoprofilaxia em cesárea e partos operatórios&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;

@@ -243,6 +243,20 @@ p, a, li, figcaption {
 a {
   color: #2a7ae2; }
 
+table {
+  font: 100%/1.45 'Helvetica Neue','Segoe UI','Helvetica','Arial',sans-serif;
+  font-size: 1.3rem;
+  border-collapse: collapse;
+  width: 100%; }
+
+td, th {
+  border: 0px solid #dddddd;
+  text-align: left;
+  padding: 2px; }
+
+tr:nth-child(even) {
+  background-color: #dddddd; }
+
 .abertura {
   color: gray; }
   .abertura a {
@@ -318,6 +332,10 @@ kbd {
   line-height: 1;
   padding: 2px 4px;
   white-space: nowrap; }
+
+blockquote {
+  border-left: 6px solid #ebebeb;
+  padding-left: 15px; }
 
 img {
   max-width: 100%;

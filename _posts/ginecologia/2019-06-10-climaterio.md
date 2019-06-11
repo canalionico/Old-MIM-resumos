@@ -6,9 +6,16 @@ categories: ginecologia
 1. Sumário
 {:toc}
 
-O Climatério corresponde à fase da vida da mulher caracterizada pela transição do período de vida reprodutivo até a senilidade, extendendo-se, segundo a OMS, dos 40 aos 65 anos. A idade na qual se inicia o climatério é muito variável, porém na maioria das mulheres **inicia entre 45 e 50 anos**, enquanto a **menopausa ocorre por volta dos 50 anos** de idade.
+O Climatério corresponde à fase da vida da mulher caracterizada pela transição do período de vida reprodutivo até a senilidade, extendendo-se, segundo a OMS, dos 40 aos 65 anos. A idade na qual se inicia o climatério é muito variável, porém na maioria das mulheres **inicia entre 45 e 50 anos**, enquanto a **menopausa ocorre por volta dos 50 anos** de idade.[^cisam] Marca o início do declínio da função ovariana.[^med]
 
 A mulher passa por diversas modificações físicas e psíquicas no período do climatério, decorrentes, em última análise, da diminuição dos níveis de estrógenos circulantes. Os mais freqüentemente citados são a instabilidade vasomotora, os distúrbios menstruais, sintomas neuro-psicológicos, a atrofia genito-urinária, e a longo prazo, a alterações cardiovasculares e no metabolismo ósseo.
+
+* Perimenopausa: quando começam as irregularidades menstruais até 12 meses de amenorréia
+  * Aqui ainda podem ser observados níveis normais ou aumentados de estrogênios, em resposta ao ↑FSH
+* Menopausa: 12 meses consecutivos em amenorréia (é uma data)
+* Pós-menopausa: da menopausa até os 65 anos
+  * Os níveis de estrógenos já estão muito baixos, menos na ↑↑FSH devido à ausência de folículos ovarianos.
+* Senilidade (ou senectitude): a partir dos 65 anos
 
 ## Manifestações clínicas
 ### Sangramento genital irregular
@@ -19,6 +26,13 @@ A mulher passa por diversas modificações físicas e psíquicas no período do 
 * são os distúrbios mais freqüentes, estando presente em cerca de 75% das mulheres no climatério.
 * Parecem ser produzidas por alterações no sistema termoregulador hipotalâmico, que leva à vasodilatação e transpiração para dissipação do calor.
 * Vários neurotransmissores, como as catecolaminas e os opióides, envolvidos na termorregulação, parecem sofrer modificação pela deficiência estrogênica, contribuindo para o aparecimento das ondas de calor.
+* Sensação de calor na parte superior do tronco, MMSS e face
+  * Ruborização facial
+  * Posterior sudorese
+  * Palpitações
+* Dura de 15 a 60 segundos
+* Mais intensa à noite (paciente pode despertar durante a noite - insonia)
+* Repetições durante o dia
 
 ### Sintomas neuro-psicológicos
 * Os mais freqüentemente relatados durante a perimenopausa são os sintomas depressivos, irritabilidade, labilidade emocional, choro fácil, ansiedade, falta de energia ou ânimo, diminuição da atenção, insônia.
@@ -100,7 +114,6 @@ Também fazem parte do quadro clínico a noctúria e a enurese noturna. A síndr
 #### Efeitos sobre a produção de colágeno
 * O hipoestrogenismo pode comprometer a produção de colágeno e de glicoseoaminoglicano e, desta forma, atuar na elasticidade do vaso sanguíneo.
 
-
 ### Alterações no Metabolismo Ósseo
 * O esqueleto humano é composto por osso trabecular (25%) e osso cortical (75%), embora o osso trabecular seja metabolicamente mais ativo que o cortical.
 * O osso está em constante renovação, através da remodelação óssea, caracterizada pela formação e reabsorção óssea.
@@ -133,7 +146,33 @@ Uma anamnese criteriosa deve ser feita, dando atenção especial a fatores de **
   * Perfil lipídico (colesterol total, HDL-colesterol, triglicerídeos)
   * Glicemia de jejum ou pós-dextrosol
 
-![img](/assets/ginecologia/climaterio/sm.jpeg)
+<table>
+  <tr>
+    <th>Critérios</th>
+    <th>Valores</th>
+  </tr>
+  <tr>
+    <td>Circunferência abdominal</td>
+    <td>M > 88 cm - H > 102 cm</td>
+  </tr>
+  <tr>
+    <td>PA</td>
+    <td>PAS ≥ 130 ou PAD ≥ 85</td>
+  </tr>
+  <tr>
+    <td>Triglicérides</td>
+    <td>> 150 mg/d</td>
+  </tr>
+  <tr>
+    <td>HDL-Colesterol</td>
+    <td>M < 50 mg/dL - H < 40 mg/dL</td>
+  </tr>
+  <tr>
+    <td>Glicemia de jejum</td>
+    <td>< 100 mg/dL</td>
+  </tr>
+</table>
+
 <figcaption>Diagnóstico com 3 dos 5 critérios acima</figcaption>
 
 #### Exame ginecológico
@@ -146,18 +185,19 @@ Uma anamnese criteriosa deve ser feita, dando atenção especial a fatores de **
   * 3 - achados provavelmente benignos: intervalos de seguimento menores que 1 ano
   * 4 - achados provavelmente malignos: sugere investigação complementar
   * 5 - achados altamente sugestivos de malignidade: investigação complementar é necessária
-* **USG-TV**, sempre que possível. Sinais sugestivos de anormalidades endometriais são:
-  * Espessamento de eco
-  * Ecogenicidade heterogênea
-  * Erregularidade dos contornos endometriais
+* **USG-TV**, sempre que possível.
+  * Sinais sugestivos de anormalidades endometriais são:
+    * Espessamento de eco
+    * Ecogenicidade heterogênea
+    * Erregularidade dos contornos endometriais
   * Atualmente, tem sido considerado como limite de normalidade, na mulher menopausada, uma espessura = ou < 5 mm. Acima desse limite, devese investigar o endométrio através da histeroscopia com biópsia ou AMIU.
   * Na mulher na pré-menopausa, investigar o endométrio quando o eco endometrial estiver < de 18 mm ou se os ciclos estiverem hipermenorrágicos, independente do eco endometrial.
   * A USG-TV também é um importante instrumento de detecção precoce do câncer de ovário
 * **Densitometria óssea:** principalmente para as mulheres com fatores de risco evidentes para a osteoporose. Baseia-se na absorção da radiação ionizante pela massa óssea, que é proporcional à quantidade de osso mineral.
   * Achados:
-    * DP > ou = -2,5: Osteoporose
-    * DP Entre -1 e -2,5: Osteopenia
-    * DP até -1: Densidade normal
+    * DP > ou = -2,5: **Osteoporose**
+    * DP Entre -1 e -2,5: **Osteopenia**
+    * DP até -1: **Densidade normal**
   * Além disso, pode ser considerada uma ferramenta prognóstica, em relação ao risco de fraturas
     * Cada desvio padrão abaixo da média do adulto jovem, representa cerca de 2x mais risco de fraturas
 
@@ -186,6 +226,136 @@ Uma anamnese criteriosa deve ser feita, dando atenção especial a fatores de **
 * Finalmente, os exercícios atuam na melhora do estado psicológico, por aumentar nerotransmissores como os opiáceos endógenos, que levam a sensação de bem estar, melhora da auto-estima, diminuição da ansiedade, da tensão e depressão.
 
 ### Terapia de reposição hormonal
+Os ovários na pós menopausa apresentam produção mínima de estrogênios, sendo que a ooforectomia realizada neste período näo se acompanha de decréscimo adicional dos níveis circulantes ou excretados de estrogênios.
+
+Os níveis circulantes de estrogênios observados nessa época säo, em geral, baixos, mantidos principalmente às custas de  estrona, derivada da aromatizaçäo periférica de precursores androgênicos adrenais, particularmente a androstenediona.
+
+O objetivo é tratar os sintomas do hipoestrogenismo da menopausa, que acarreta em todas as alterações mencionadas no início do artigo.
+
+* Contra-indicações:
+  * Antecedentes pessoais de câncer de mama
+  * Insuficiência hepática ou renal graves
+  * Tromboembolismo relacionado ao tratamento hormonal
+* Empregam-se os estrogênios, progestagênios e, eventualmente, androgênios.
+* A TH deve sempre ser individualizada, não sendo possível a padronização do tipo de tratamento utilizado.
+
+
+
+* As irregularidades menstruais na perimenopausa tem como substrato fisiopatológico o estado anovulatório;
+  * Nesse sentido, para a correção dos ciclos menstruais e prevenção das **hiperplasias endometriais** são utilizados progestagênios, em esquema cíclico, por 10 a 14 dias de cada mês.
+  * Citam-se entre estes o acetato de medroxiprogesterona, o acetato de noretindrone, o acetato de nomegestrol e a didrogesterona, igualmente efetivos.
+  > Pacientes **histerectomizadas** dispensam o emprego de progestagênios, cuja função primordial em TH recai sobre a prevenção dos estados hiperplásicos do endométrio. Nessa situação, o uso de estrogênios contínuos isoladamente contempla satisfatoriamente os objetivos da TH.
+* Nas mulheres que apresentam **útero intacto**, utilizam-se estrogênios em associação aos progestagênios.
+  * Quando usados de maneira seqüencial, os progestagênios determinam fluxo menstrual regular, muitas vezes não aceito por algumas pacientes, mormente naquelas com maior tempo de pós-menopausa.
+  * Visando contornar o sangramento dos esquemas seqüenciais, pode-se utilizar estrogênios continuamente em associação a pequenas doses de progestagênios, no esquema denominado **combinado contínuo**.
+
+
+* Quando presente a sintomatologia vasomotora no período perimenopáusico, a utilização de estrogênios em associação a progestagênios de forma cíclica parece ser o mais adequado, tendo esse esquema a denominação de “combinado seqüencial”.
+
+#### Estrogênios utilizados
+* Objetivo: atingit níveis estrogênicos plasmáticos semelhantes aos observados na fase folicular inicial de mulheres no menacme.
+* Podem ser administrados pelas vias oral (primera passagem hepática), nasal, vaginal, transdérmica – adesivos ou gel, e implantes subcutâneos.
+
+
+* VO:
+  * Estrogênios conjugados equinos (EEC): 0,3-0,45-0,625-1,25 mg/dia
+  * 17-beta estradiol micronizado (E2): 1-2 mg/dia
+  * Valerato de estradiol (VE): 1-2 mg/dia
+  * Estriol (E3): 2-6 mg/dia
+* Via transdérmica
+  * Estradiol transdérmico (E2): 25-37,5-50-75-100 g/dia a cada 3 dias e 1/2
+
+  ....
+
+#### Progestagênios utilizados
+A adiçäo destes hormonios, em terapêutica de reposiçäo estrogênica fundamenta-se na prevenção dos estados hiperplásicos endometriais. Dessa forma, são indicados em mulheres com útero intacto.
+
+> Prescritos em pacientes histerectomizadas apenas em situações especiais, como nos antecedentes de endometriose e de câncer do endométrio em estágio I após tratamento.
+
+...
+
+#### Androgênios
+Incluem-se, nesse grupo, a tibolona, os androgênios por via oral e as associações estro-androgênicas de uso intramuscular.
+
+Os androgênios são úteis em TH em situações onde se
+encontram indícios clínicos e/ou laboratoriais da insuficiência androgênica feminina,
+particularmente na ooforectomia.
+
+* **Tibolona:** embora classifique-se quimicamente como um progestogênio, possui características teciduais específicas com atuação estrogênica, progestacional e androgênica.
+
+
+
+intramuscular
+Sais de estrogênio e androgênio (conjugados) 1 ampola/ 3-4 semanas
+Sais de androgênios conjugados
+ 75 mg/mês
+Decanoato de nandrolona
+ 25-50 mg/15-20 dias
+
+
+ <table>
+   <tr>
+     <th>Via</th>
+     <th>Doses</th>
+   </tr>
+   <tr>
+     <th>Oral</th>
+     <th></th>
+   </tr>
+   <tr>
+     <td>Tibolona</td>
+     <td> 1,5 – 2,5 mg/dia</td>
+   </tr>
+   <tr>
+     <td>Metiltestosterona</td>
+     <td> 1,25 – 2,5 - 5 mg/dia</td>
+   </tr>
+   <tr>
+     <th>Intramuscular</th>
+     <th></th>
+   </tr>
+   <tr>
+     <td>Sais de estrogênio e androgênio (conjugados)</td>
+     <td>1 ampola/ 3-4 semanas</td>
+   </tr>
+ </table>
+
+#### Regimes terapêuticos
+Estrogenios utilizados, independentemente da natureza e da via de administraçao, devem atingir concentrações plasmaticas de estradiol que possibilitem a melhora dos sintomas e a prevenção óssea.
+
+Os progestagênios, por sua vez, devem ser utilizados nas doses mínimas necessarias a proteção endometrial.
+
+* **Estrogênios isolados**
+  * Estimulam a biossíntese na célula endometrial,levando potencionalmente à **hiperplasia endometrial**, devido à incompleta descamaçäo do endométrio.
+  * Estrogênios sem oposiçäo devem ser administrados a pacientes com útero intacto,  apenas em casos especiais, particularmente, nas pacientes com intolerância a qualquer tipo e dose de progestagênios.
+* **Estrogênios e progestagênios em esquema combinado sequencial**
+  * O uso seqüencial de estrogênios e progestagênios freqüentemente leva a sangramento de supressäo, inaceitável para muitas mulheres, particularmente quando já se passaram alguns anos da menopausa.
+* **Estrogênios e progestagênios em esquema combinado contínuo**
+  * O endométrio se tornando atrófico, a paciente deverá manter em amenorréia, pois, em teoria, não há tecido para descamar.
+  * Pode ser conseguido com pequenas doses de progestagênios, tendo, reduzindo o impacto lipídico e efeitos colaterais indesejáveis, físicos e psicológicos.
+  * Fazem ainda parte desse regime terapêutico o emprego da tibolona de forma contínua, e o esquema denominado de progestogênio intermitente em “mini-pulsos”
+    * onde se utilizam estrogênios continuamente em associação a progestagênios alternados a cada 3 dias, que se baseia na ocupação máxima de receptores de progestagênios nesse período.
+* **Estrogênio contínuo e progestogênio cíclico quadrimensal**
+  * Utilização de estrogênios em associação a progestagênios em séries de 14 dias, em doses mais elevadas, a cada 4 meses, não sendo observado aumento do risco de hiperplasia nesse esquema.
+
+Em quaisquer dos regimes empregados, a adição de androgênios pode ser efetuada, a depender da situação clínica observada. Cabe assinalar que o uso de androgênios não determina proteção endometrial, não dispensando a administração de progestagênios em pacientes com útero presente.
+
+#### Terapia de baixa dose
+* Em geral a dose é reduzida em 50%
+* Os estudos com TH de baixa dose demonstram efetividade no controle sintomatológico, na atrofia urogenital, na preservação da massa óssea e sobre parâmetros do perfil lipídico.
+
+.......
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -196,3 +366,4 @@ Uma anamnese criteriosa deve ser feita, dando atenção especial a fatores de **
 
 ## Referências
 [^cisam]: Livro do CISAM
+[^med]: MED
