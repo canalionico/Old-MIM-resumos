@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/pediatriạ',
+      
         '/climaterio',
       
         '/infeccao-puerperal',
@@ -186,6 +188,18 @@ self.addEventListener('install', function (event) {
       
         '/assets/favicon.png'
       
+        '/assets/ginecologia/amenorreia/img1.jpeg'
+      
+        '/assets/ginecologia/amenorreia/img2.jpeg'
+      
+        '/assets/ginecologia/amenorreia/img3.jpeg'
+      
+        '/assets/ginecologia/amenorreia/img4.jpeg'
+      
+        '/assets/ginecologia/amenorreia/sexo.jpeg'
+      
+        '/assets/ginecologia/amenorreia/tab.jpeg'
+      
         '/assets/ginecologia/ca-colo/figo.png'
       
         '/assets/ginecologia/ca-colo/tto1.png'
@@ -197,6 +211,8 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/ca-endometrio/figo1.png'
       
         '/assets/ginecologia/ca-endometrio/figo2.png'
+      
+        '/assets/ginecologia/climaterio/ci.jpeg'
       
         '/assets/ginecologia/climaterio/sm.jpeg'
       

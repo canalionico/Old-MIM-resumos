@@ -1,11 +1,156 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-10T23:20:01-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Climatério</title><link href="http://localhost:4000/climaterio" rel="alternate" type="text/html" title="Climatério" /><published>2019-06-10T00:00:00-03:00</published><updated>2019-06-10T00:00:00-03:00</updated><id>http://localhost:4000/climaterio</id><content type="html" xml:base="http://localhost:4000/climaterio">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-06-12T23:39:37-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Hipertensão arterial na criança</title><link href="http://localhost:4000/pediatri%E1%BA%A1" rel="alternate" type="text/html" title="Hipertensão arterial na criança" /><published>2019-06-12T00:00:00-03:00</published><updated>2019-06-12T00:00:00-03:00</updated><id>http://localhost:4000/has-na-crianca</id><content type="html" xml:base="http://localhost:4000/pediatri%E1%BA%A1">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#aferição&quot; id=&quot;markdown-toc-aferição&quot;&gt;Aferição&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#como-aferir-pa-em-crianças&quot; id=&quot;markdown-toc-como-aferir-pa-em-crianças&quot;&gt;Como aferir PA em crianças&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quando-aferir-a-pa&quot; id=&quot;markdown-toc-quando-aferir-a-pa&quot;&gt;Quando aferir a PA?&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#definição&quot; id=&quot;markdown-toc-definição&quot;&gt;Definição&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#investigação-inicial&quot; id=&quot;markdown-toc-investigação-inicial&quot;&gt;Investigação inicial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#avaliação-de-órgão-alvo&quot; id=&quot;markdown-toc-avaliação-de-órgão-alvo&quot;&gt;Avaliação de órgão alvo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#não-farmacológico&quot; id=&quot;markdown-toc-não-farmacológico&quot;&gt;Não farmacológico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#farmacológico&quot; id=&quot;markdown-toc-farmacológico&quot;&gt;Farmacológico&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#emergência-hipertensiva&quot; id=&quot;markdown-toc-emergência-hipertensiva&quot;&gt;Emergência hipertensiva&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#urgência&quot; id=&quot;markdown-toc-urgência&quot;&gt;Urgência&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1-3% no mundo&lt;/li&gt;
+  &lt;li&gt;Brasil: 9,6% em escolares (73,3 mil)&lt;/li&gt;
+  &lt;li&gt;Em Recife: 2 a 2,8%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;aferição&quot;&gt;Aferição&lt;/h2&gt;
+&lt;h3 id=&quot;como-aferir-pa-em-crianças&quot;&gt;Como aferir PA em crianças&lt;/h3&gt;
+&lt;ol&gt;
+  &lt;li&gt;Repouso de 5min&lt;/li&gt;
+  &lt;li&gt;Selecionar um manguito de tamanho adequado&lt;/li&gt;
+  &lt;li&gt;Sentado ou com os pés apoiados (lactente deitado no colo da mãe)&lt;/li&gt;
+  &lt;li&gt;Braço direito ao nível do coração&lt;/li&gt;
+  &lt;li&gt;Aferir 2x com intervalo de 5min&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Em crianças é muito mais frequente a hipertensão do “jaléco branco”.&lt;/p&gt;
+
+&lt;p&gt;Manguitos maiores Superestimam a PA e os menores subestimam!&lt;/p&gt;
+
+&lt;p&gt;O manguito deve ter 40% da medida do acrômio até o olécrano. Deve envolver 80% da circunferência do braço.&lt;/p&gt;
+
+&lt;h3 id=&quot;quando-aferir-a-pa&quot;&gt;Quando aferir a PA?&lt;/h3&gt;
+&lt;p&gt;Em todas crinaças menores de 3 anos devem ter PA aferida pelo menos 1 vez ao ano.&lt;/p&gt;
+
+&lt;p&gt;Em menores de 3 anos deve-se aferir em algumas situações.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;foto.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;definição&quot;&gt;Definição&lt;/h2&gt;
+&lt;p&gt;O nível de PA está relacionado ao sexo, idade e altura.&lt;/p&gt;
+
+&lt;p&gt;Existem tabelas de PA para cada percentil de altura e idade.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Na criança &amp;lt; 13 anos
+    &lt;ul&gt;
+      &lt;li&gt;PA normal: &amp;lt; p90&lt;/li&gt;
+      &lt;li&gt;PA elevada: entre p90 e p95&lt;/li&gt;
+      &lt;li&gt;HAS: &amp;gt; p95&lt;/li&gt;
+      &lt;li&gt;Estágios:
+        &lt;ul&gt;
+          &lt;li&gt;I&lt;/li&gt;
+          &lt;li&gt;II&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Criança &amp;gt; 13 anos
+    &lt;ul&gt;
+      &lt;li&gt;PA normal:&lt;/li&gt;
+      &lt;li&gt;PA elevada:&lt;/li&gt;
+      &lt;li&gt;Estágios:
+        &lt;ul&gt;
+          &lt;li&gt;I&lt;/li&gt;
+          &lt;li&gt;II&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Primária ou essencial&lt;/li&gt;
+  &lt;li&gt;Secundária
+    &lt;ul&gt;
+      &lt;li&gt;Mais comum em crianças do que em adultos&lt;/li&gt;
+      &lt;li&gt;Investigação individualizada&lt;/li&gt;
+      &lt;li&gt;60-80% de etiologia renal&lt;/li&gt;
+      &lt;li&gt;Sinais:
+        &lt;ul&gt;
+          &lt;li&gt;Taquicardia mesmo em repouso&lt;/li&gt;
+          &lt;li&gt;Pulso fraco em MMII (coarctação da aorta)&lt;/li&gt;
+          &lt;li&gt;Face em lua cheia: Doença de Cushing&lt;/li&gt;
+          &lt;li&gt;Palidez e sudorese: feocromocitoma&lt;/li&gt;
+          &lt;li&gt;Manchas café com leite: Neurofibromatose&lt;/li&gt;
+          &lt;li&gt;Rache malar: LES&lt;/li&gt;
+          &lt;li&gt;Massa abdominal: tumor de Wilms, neuroblastoma, feocromocitoma&lt;/li&gt;
+          &lt;li&gt;Rins palpáveis: rim multicístico diplásico, doença renal policística&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;investigação-inicial&quot;&gt;Investigação inicial&lt;/h2&gt;
+
+&lt;h2 id=&quot;avaliação-de-órgão-alvo&quot;&gt;Avaliação de órgão alvo&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ecocardiograma: Hipertrofia VE&lt;/li&gt;
+  &lt;li&gt;Fundo de olho: alterações vasculares em retina&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+&lt;h3 id=&quot;não-farmacológico&quot;&gt;Não farmacológico&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mudanças no estilo de vida.&lt;/li&gt;
+  &lt;li&gt;Atividade física&lt;/li&gt;
+  &lt;li&gt;Dieta pobre em sódio e açucar e rica em vegetais, frutas e fibras, peixes, nozes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;farmacológico&quot;&gt;Farmacológico&lt;/h3&gt;
+&lt;p&gt;O objetivo é reduzir a PA para &amp;lt; p95. Já na hipertensão complicada (com lesão de órgãos alvo), o objetivo é PA &amp;lt; p90.&lt;/p&gt;
+
+&lt;p&gt;Obs: cuidado ao usar B-bloq em crianças pois elas podem entrar em quadro de sibilância e não responderem ao B-adrenérgico.&lt;/p&gt;
+
+&lt;p&gt;Não se usa muito os diuréticos nas crianças.&lt;/p&gt;
+
+&lt;h2 id=&quot;emergência-hipertensiva&quot;&gt;Emergência hipertensiva&lt;/h2&gt;
+&lt;p&gt;Elevação importante da PA associada a uma lesão evidente e recente de órgão alvo (SNC, coração, olhos e rins). A manifestação mais comum é a encefalopatia hipertensiva com convulsão&lt;/p&gt;
+
+&lt;h2 id=&quot;urgência&quot;&gt;Urgência&lt;/h2&gt;
+&lt;p&gt;Elevação importante da PA mas sem a lesão evidente de órgãos alvo. Os sintomas são mais leves que na emergência.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Climatério</title><link href="http://localhost:4000/climaterio" rel="alternate" type="text/html" title="Climatério" /><published>2019-06-10T00:00:00-03:00</published><updated>2019-06-10T00:00:00-03:00</updated><id>http://localhost:4000/climaterio</id><content type="html" xml:base="http://localhost:4000/climaterio">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#manifestações-clínicas&quot; id=&quot;markdown-toc-manifestações-clínicas&quot;&gt;Manifestações clínicas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#sangramento-genital-irregular&quot; id=&quot;markdown-toc-sangramento-genital-irregular&quot;&gt;Sangramento genital irregular&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fogachos&quot; id=&quot;markdown-toc-fogachos&quot;&gt;Fogachos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sangramento-genital-irregular&quot; id=&quot;markdown-toc-sangramento-genital-irregular&quot;&gt;Sangramento genital irregular&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fogachos&quot; id=&quot;markdown-toc-fogachos&quot;&gt;Fogachos&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#conduta-1&quot; id=&quot;markdown-toc-conduta-1&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#sintomas-neuro-psicológicos&quot; id=&quot;markdown-toc-sintomas-neuro-psicológicos&quot;&gt;Sintomas neuro-psicológicos&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#atrofia-genito-urinária&quot; id=&quot;markdown-toc-atrofia-genito-urinária&quot;&gt;Atrofia genito-urinária&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#alterações-involutivas-do-trato-genital&quot; id=&quot;markdown-toc-alterações-involutivas-do-trato-genital&quot;&gt;Alterações involutivas do trato genital&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#alterações-do-trato-urinário-inferior&quot; id=&quot;markdown-toc-alterações-do-trato-urinário-inferior&quot;&gt;Alterações do trato urinário inferior&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#conduta-2&quot; id=&quot;markdown-toc-conduta-2&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#alterações-do-sistema-cardiovascular&quot; id=&quot;markdown-toc-alterações-do-sistema-cardiovascular&quot;&gt;Alterações do sistema cardiovascular&lt;/a&gt;        &lt;ol&gt;
@@ -16,7 +161,10 @@
           &lt;li&gt;&lt;a href=&quot;#efeitos-sobre-a-produção-de-colágeno&quot; id=&quot;markdown-toc-efeitos-sobre-a-produção-de-colágeno&quot;&gt;Efeitos sobre a produção de colágeno&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#alterações-no-metabolismo-ósseo&quot; id=&quot;markdown-toc-alterações-no-metabolismo-ósseo&quot;&gt;Alterações no Metabolismo Ósseo&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#alterações-no-metabolismo-ósseo&quot; id=&quot;markdown-toc-alterações-no-metabolismo-ósseo&quot;&gt;Alterações no Metabolismo Ósseo&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco-para-osteoporose&quot; id=&quot;markdown-toc-fatores-de-risco-para-osteoporose&quot;&gt;Fatores de risco para osteoporose&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#avaliação&quot; id=&quot;markdown-toc-avaliação&quot;&gt;Avaliação&lt;/a&gt;    &lt;ol&gt;
@@ -30,14 +178,14 @@
   &lt;li&gt;&lt;a href=&quot;#terapêutica&quot; id=&quot;markdown-toc-terapêutica&quot;&gt;Terapêutica&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#hábitos-nutricionais&quot; id=&quot;markdown-toc-hábitos-nutricionais&quot;&gt;Hábitos nutricionais&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#exercício-físico&quot; id=&quot;markdown-toc-exercício-físico&quot;&gt;Exercício Físico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#terapia-de-reposição-hormonal&quot; id=&quot;markdown-toc-terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#estrogênios-utilizados&quot; id=&quot;markdown-toc-estrogênios-utilizados&quot;&gt;Estrogênios utilizados&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#progestagênios-utilizados&quot; id=&quot;markdown-toc-progestagênios-utilizados&quot;&gt;Progestagênios utilizados&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#androgênios&quot; id=&quot;markdown-toc-androgênios&quot;&gt;Androgênios&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#regimes-terapêuticos&quot; id=&quot;markdown-toc-regimes-terapêuticos&quot;&gt;Regimes terapêuticos&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#terapia-de-baixa-dose&quot; id=&quot;markdown-toc-terapia-de-baixa-dose&quot;&gt;Terapia de baixa dose&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#terapia-de-reposição-hormonal&quot; id=&quot;markdown-toc-terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#estrogênios-utilizados&quot; id=&quot;markdown-toc-estrogênios-utilizados&quot;&gt;Estrogênios utilizados&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#progestagênios-utilizados&quot; id=&quot;markdown-toc-progestagênios-utilizados&quot;&gt;Progestagênios utilizados&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#androgênios&quot; id=&quot;markdown-toc-androgênios&quot;&gt;Androgênios&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#regimes-terapêuticos&quot; id=&quot;markdown-toc-regimes-terapêuticos&quot;&gt;Regimes terapêuticos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#terapia-de-baixa-dose&quot; id=&quot;markdown-toc-terapia-de-baixa-dose&quot;&gt;Terapia de baixa dose&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
@@ -62,11 +210,111 @@
   &lt;li&gt;Senilidade (ou senectitude): a partir dos 65 anos&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Perimenopausa: elevação do FSH, queda da inibina, elevação do estradiol e LH relativamente inalterado.
+    &lt;ul&gt;
+      &lt;li&gt;Inicia em média aos 46 anos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Menopausa: 1 ano em amenorréia.
+    &lt;ul&gt;
+      &lt;li&gt;Em médio os 51 anos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pós-menopausa: queda do estradiol.
+    &lt;ul&gt;
+      &lt;li&gt;Produção de estrógenos basicamente à custa de aromatização periférica (estrona).&lt;/li&gt;
+      &lt;li&gt;Ausência de progesterona e queda dos androgênios.&lt;/li&gt;
+      &lt;li&gt;Queda gradual das gonadotrofinas após 3 anos da menopausa.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A mulher passa por um processo de perda folicular durante toda a vida. Das 6-7 milhões de oogônias produzidas durante a vida fetal, há apenas 300.000 à puberdade. Ao longo da vida reprodutiva, apenas 400-500 ovócitos serão ovulados e as outras unidades sofrerão atresia, de forma que sobrarão apenas umas poucas centenas à época da menopausa. Cerca de 10 a 15 anos antes da menopausa há uma aceleração da perda
+folicular, que se inicia quando o número de
+folículos chega a 25.000.&lt;/p&gt;
+
+&lt;p&gt;Este fenômeno ocorre devido a um pequeno
+aumento dos níveis de FSH (produzido pela
+hipófise) e uma queda dos níveis de inibina
+(produzida pelos ovários). A aceleração da
+perda folicular parece ser secundária ao aumento da estimulação do FSH.&lt;/p&gt;
+
+&lt;p&gt;Com um menor número de unidades e com
+as que sobraram não funcionando adequadamente, ocorre uma redução nos níveis de
+inibina, um produto das células da granulosa,
+que exerce um importante feedback negativo
+sobre a secreção de FSH (inicialmente da inibina B e posteriormente, da inibina A). Com a
+diminuição deste estímulo, os níveis de FSH
+se elevam. A ausência de menstruação ocorre
+quando o número de folículos atinge um ponto
+crítico de 1.000 folículos.&lt;/p&gt;
+
+&lt;p&gt;Apesar dos níveis elevados de FSH, o crescimento dos folículos envelhecidos torna-se
+cada vez mais resistente à estimulação deste
+hormônio, o que torna a fase folicular do ciclo
+cada vez mais longa e os ciclos menstruais
+irregulares, até que o crescimento folicular
+não mais acontece e as últimas unidades
+são depletadas.&lt;/p&gt;
+
+&lt;p&gt;Os níveis de estradiol, entretanto, só começam
+a cair cerca de seis meses a um ano antes da
+parada completa do desenvolvimento folicular.
+Antes disso, estes valores podem encontrar-se até elevados devido à superestimulação
+ovariana pelo FSH.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A mulher na perimenopausa, apesar dos ciclos irregulares e diminuição do número de folículos, ainda pode engravidar e métodos anticoncepcionais devem ser mantidos até a menopausa, se gravidez não for o desejo da paciente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O pico de gonadotrofinas ocorre cerca de um a três anos após o último período menstrual.&lt;/li&gt;
+  &lt;li&gt;Após este período, ocorre declínio gradual de suas concentrações.&lt;/li&gt;
+  &lt;li&gt;Níveis elevados de FSH e LH após o término das menstruações são diagnósticos de falência ovariana.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estrogênio&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Estrogênio circulante é todo proveniente da aromatização periférica que ocorre no tecido muscular, hepático, cerebral e, principalmente, no tecido adiposo.&lt;/li&gt;
+      &lt;li&gt;O principal estrógeno produzido na menopausa é a estrona a partir da testosterona e, principalmente, da androstenediona de origem ovariana e adrenal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Androgênios&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Durante a menacme, os ovários produzem cerca de um terço da androstenediona circulante e 25% da testosterona, sendo o restante secretado pelas suprarrenais ou oriundo da conversão periférica de androstenediona em testosterona.&lt;/li&gt;
+      &lt;li&gt;Após a menopausa, as gonadotrofinas continuam estimulando o estroma ovariano a produzir androgênios na menopausa (em menor quantidade).&lt;/li&gt;
+      &lt;li&gt;Nesta fase, os ovários são responsáveis por 20% da androstenediona circulante e por 40% da testosterona.&lt;/li&gt;
+      &lt;li&gt;Os androgênios são o substrato para aromatização em estrógenos na menopausa.&lt;/li&gt;
+      &lt;li&gt;O principal androgênio produzido pelo ovário é a androstenediona.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;manifestações-clínicas&quot;&gt;Manifestações clínicas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Precoce: fogachos, irregularidade menstrual (principal)&lt;/li&gt;
+  &lt;li&gt;Tardias: atrofia genital, distúrbios do humor e do sono, alteração da libido, osteoporose&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;sangramento-genital-irregular&quot;&gt;Sangramento genital irregular&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;sangramentos disfuncionais podem ocorrer após ciclos ovulatórios, em fases mais precoces ou, anovulatórios, no qual o estímulo endometrial estrogênico sem oposição da progesterona ou com níveis insuficientes, pode tornar o endométrio hiperplásico, com sangramentos menstruais abundantes.&lt;/li&gt;
   &lt;li&gt;Um avaliação endometrial se faz necessária em casos de sangramento menstrual excessivo no período da pré-menopausa.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;conduta&quot;&gt;Conduta&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Para regularizar os ciclos:&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Anticoncepcionais orais&lt;/strong&gt; combinados de baixas doses (desde que não haja contraindicações ao seu uso), substituídos posteriormente pela terapia hormonal;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Progestágenos cíclicos mensais&lt;/strong&gt;, como o acetato de medroxiprogesterona, utilizado na segunda fase do ciclo, suprindo a ausência de produção da progesterona
+    &lt;ul&gt;
+      &lt;li&gt;já que as mulheres nestes períodos normalmente estão anovulatórias;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Inserção de um &lt;strong&gt;DIU de progesterona&lt;/strong&gt;, que pode levar à amenorreia em 50% dos casos com um ano de uso;&lt;/li&gt;
+  &lt;li&gt;Curetagem;&lt;/li&gt;
+  &lt;li&gt;Ablação endometrial;&lt;/li&gt;
+  &lt;li&gt;Histerectomia (em casos refratários).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;fogachos&quot;&gt;Fogachos&lt;/h3&gt;
@@ -79,11 +327,47 @@
       &lt;li&gt;Ruborização facial&lt;/li&gt;
       &lt;li&gt;Posterior sudorese&lt;/li&gt;
       &lt;li&gt;Palpitações&lt;/li&gt;
+      &lt;li&gt;Sensação de ansiedade&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Dura de 15 a 60 segundos&lt;/li&gt;
+  &lt;li&gt;Dura de 15 a 60 segundos e podem se repetir cerca de 30 vezes por dia&lt;/li&gt;
   &lt;li&gt;Mais intensa à noite (paciente pode despertar durante a noite - insonia)&lt;/li&gt;
   &lt;li&gt;Repetições durante o dia&lt;/li&gt;
+  &lt;li&gt;Diversos fatores estão associados ao seu aparecimento, dentre eles
+    &lt;ul&gt;
+      &lt;li&gt;Exposição a temperaturas elevadas, que ao aumentarem a temperatura corporal, se aproximam mais rápido do gatilho hipotalâmico para o início dos fogachos&lt;/li&gt;
+      &lt;li&gt;Estresse&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;conduta-1&quot;&gt;Conduta&lt;/h4&gt;
+&lt;p&gt;O tratamento inicial do fogacho é a adoção de
+práticas que diminuam a temperatura corporal
+como exposição a ambientes arejados e uso
+de roupas leves. A prática de exercícios leves
+também é efetiva, assim como perda ponderal
+e a interrupção do fumo.&lt;/p&gt;
+
+&lt;p&gt;Os fogachos são a indicação mais comum de início e manutenção de uma terapia hormonal. Segundo a Sociedade Americana de Menopausa, os sintomas vasomotores moderados a intensos constituem-se em indicação primária de TH. Com a instituição da terapia estrogênica, a maioria das mulheres apresenta resolução dos sintomas em alguns dias.&lt;/p&gt;
+
+&lt;p&gt;No caso de contraindicação à terapia estrogênica, diversas terapias alternativas podem ser utilizadas, como o uso de progestágenos, como o acetato de medroxiprogesterona, o acetato
+de noretindrona ou o acetato de megestrol. A progesterona inibe a secreção hipotalâmica
+de gonadotrofinas e aumenta a atividade endógena dos peptídeos opioides hipotalâmicos.
+No entanto, as doses consideradas eficazes são mais elevadas do que aquelas usualmente
+utilizadas em TH.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Outras drogas (muitos efeitos colaterais):
+    &lt;ul&gt;
+      &lt;li&gt;gabapentina&lt;/li&gt;
+      &lt;li&gt;clonidina&lt;/li&gt;
+      &lt;li&gt;veraliprida&lt;/li&gt;
+      &lt;li&gt;tibolona&lt;/li&gt;
+      &lt;li&gt;metildopa&lt;/li&gt;
+      &lt;li&gt;etc&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;sintomas-neuro-psicológicos&quot;&gt;Sintomas neuro-psicológicos&lt;/h3&gt;
@@ -139,6 +423,14 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
 
 &lt;p&gt;Também fazem parte do quadro clínico a noctúria e a enurese noturna. A síndrome uretral caracteriza-se por um conjunto de sinais de irritação uretrovesical, como disúria, polaciúria, urgência miccional, noctúria, na ausência de infecção urinária. A etiologia, embora diversificada e indefinida, tem o hipoestrogenismo e os transtornos psicossomáticos como possíveis causas.&lt;/p&gt;
 
+&lt;h4 id=&quot;conduta-2&quot;&gt;Conduta&lt;/h4&gt;
+&lt;p&gt;O uso tópico genital em pequenas doses de estrogênio é suficiente para produzir bom
+efeito sobre os sintomas de atrofia urogenital.
+Os efeitos sistêmicos são bastante reduzidos
+ou ausentes com o uso de creme de estriol e
+promestriene, Outras opções incluem o uso
+de tibolona e cremes lubrificantes vaginais.&lt;/p&gt;
+
 &lt;h3 id=&quot;alterações-do-sistema-cardiovascular&quot;&gt;Alterações do sistema cardiovascular&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;O hipoestrogenismo pode levar à diminuição do fluxo sanguíneo tecidual, por reduzir a luz dos vasos, seja por processo orgânico (placas de ateroma), ou funcional (vasoespasmo).&lt;/li&gt;
@@ -172,7 +464,7 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
     &lt;ul&gt;
       &lt;li&gt;&lt;strong&gt;Aterogênese&lt;/strong&gt;: por promover a proliferação e migração das células musculares lisas da   camada média para a íntima dos vasos sanguíneos, além da vacuolização dos  macrófagos (transformação dos macrófagos em células ricas em colesterol – células espumosas)&lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;Hipertensão arterial sistêmica&lt;/strong&gt;: por um incremento da reabsorção renal de sódio e da atividade do sistema nervoso simpático&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Dislipidemia&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Dislipidemia&lt;/strong&gt;reabso&lt;/li&gt;
       &lt;li&gt;Angina microvascular&lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;Diminuição da fibrinólise&lt;/strong&gt;: por aumentar a síntese do Inibidor do Ativador do Plasminogênio (PAI-1), à nível hepático, o que eleva o risco de trombose.&lt;/li&gt;
     &lt;/ul&gt;
@@ -215,6 +507,24 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
   &lt;li&gt;Além disso, sabe-se que os estrogênios também atuam indiretamente na remodelação óssea, diminuindo a sensibilidade ao PTH e estimulando a síntese de calcitonina.&lt;/li&gt;
   &lt;li&gt;Estudos atuais sugerem que a principal influência do estrogênio sobre a remodelação óssea se dá no controle da síntese de citocinas pelos osteoblastos e osteoclastos.&lt;/li&gt;
   &lt;li&gt;A ligação das citocinas aos receptores osteoblásticos libera fatores que agem diretamente sobre a linhagem osteoclástica, regulando sua atividade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;fatores-de-risco-para-osteoporose&quot;&gt;Fatores de risco para osteoporose&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;Idade&lt;/li&gt;
+  &lt;li&gt;História familiar&lt;/li&gt;
+  &lt;li&gt;Raça branca&lt;/li&gt;
+  &lt;li&gt;Biotipo magro&lt;/li&gt;
+  &lt;li&gt;Sedentarismo&lt;/li&gt;
+  &lt;li&gt;Álcool&lt;/li&gt;
+  &lt;li&gt;Tabagismo&lt;/li&gt;
+  &lt;li&gt;Cafeína&lt;/li&gt;
+  &lt;li&gt;Baixa ingesta de cálcio e fósforo&lt;/li&gt;
+  &lt;li&gt;Ooforectomia bilateral&lt;/li&gt;
+  &lt;li&gt;Menopausa antes dos 45 anos&lt;/li&gt;
+  &lt;li&gt;Drogas: heparina, anticonvulsivantes, glicocorticoides, antiácidos com alumínio, hormônios da tireoide, metotrexato, lítio, acetato de medroxiprogesterona.&lt;/li&gt;
+  &lt;li&gt;Hiperparatireoidismo&lt;/li&gt;
+  &lt;li&gt;Insuficiência renal&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;avaliação&quot;&gt;Avaliação&lt;/h2&gt;
@@ -307,8 +617,22 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
           &lt;li&gt;Cada desvio padrão abaixo da média do adulto jovem, representa cerca de 2x mais risco de fraturas&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
+      &lt;li&gt;T score: compara com adultos jovens&lt;/li&gt;
+      &lt;li&gt;Z score: compara individuos de mesma idade&lt;/li&gt;
+      &lt;li&gt;Indicações para fazer a densitometria
+        &lt;ul&gt;
+          &lt;li&gt;Pacientes do sexo feminino com idade &amp;gt; 65 anos.&lt;/li&gt;
+          &lt;li&gt;Mulheres na transição menopausal com risco aumentado de fraturas, como baixo peso ou, fratura anterior com mínimo trauma.&lt;/li&gt;
+          &lt;li&gt;Adultos com história de fratura após os 50 anos de idade.&lt;/li&gt;
+          &lt;li&gt;Adultos com alguma condição clínica associada à osteoporose ou em uso de medicação associada a perda de massa óssea (glicocorticoide ≥ 5 mg/dia por ≥ 3 meses).&lt;/li&gt;
+          &lt;li&gt;Mulheres em terapia estrogênica que se deseje interromper o tratamento.&lt;/li&gt;
+          &lt;li&gt;Avaliação da resposta terapêutica.&lt;/li&gt;
+          &lt;li&gt;Mulheres na perimenopausa que estejam cogitando usar terapia hormonal, para auxiliar esta decisão.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;Pesquisa de &lt;strong&gt;sangue oculto nas fezes&lt;/strong&gt; (a partir dos 50 anos de idade)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;terapêutica&quot;&gt;Terapêutica&lt;/h2&gt;
@@ -345,7 +669,7 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
   &lt;li&gt;Finalmente, os exercícios atuam na melhora do estado psicológico, por aumentar nerotransmissores como os opiáceos endógenos, que levam a sensação de bem estar, melhora da auto-estima, diminuição da ansiedade, da tensão e depressão.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/h3&gt;
+&lt;h2 id=&quot;terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/h2&gt;
 &lt;p&gt;Os ovários na pós menopausa apresentam produção mínima de estrogênios, sendo que a ooforectomia realizada neste período näo se acompanha de decréscimo adicional dos níveis circulantes ou excretados de estrogênios.&lt;/p&gt;
 
 &lt;p&gt;Os níveis circulantes de estrogênios observados nessa época säo, em geral, baixos, mantidos principalmente às custas de  estrona, derivada da aromatizaçäo periférica de precursores androgênicos adrenais, particularmente a androstenediona.&lt;/p&gt;
@@ -353,17 +677,41 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
 &lt;p&gt;O objetivo é tratar os sintomas do hipoestrogenismo da menopausa, que acarreta em todas as alterações mencionadas no início do artigo.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Contra-indicações:
+  &lt;li&gt;&lt;strong&gt;Contra-indicações&lt;/strong&gt;
     &lt;ul&gt;
       &lt;li&gt;Antecedentes pessoais de câncer de mama&lt;/li&gt;
+      &lt;li&gt;Antecedentes de câncer de endométrio&lt;/li&gt;
       &lt;li&gt;Insuficiência hepática ou renal graves&lt;/li&gt;
       &lt;li&gt;Tromboembolismo relacionado ao tratamento hormonal&lt;/li&gt;
+      &lt;li&gt;Tumores hormônio-dependentes&lt;/li&gt;
+      &lt;li&gt;Trombofilias&lt;/li&gt;
+      &lt;li&gt;Sangramento vaginal de origem indeterminada&lt;/li&gt;
+      &lt;li&gt;Infarto agudo do miocárdio&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Empregam-se os estrogênios, progestagênios e, eventualmente, androgênios.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;A TH deve sempre ser individualizada, não sendo possível a padronização do tipo de tratamento utilizado.&lt;/p&gt;
+  &lt;li&gt;A TH deve sempre ser individualizada, não sendo possível a padronização do tipo de tratamento utilizado.&lt;/li&gt;
+  &lt;li&gt;Riscos
+    &lt;ul&gt;
+      &lt;li&gt;CA de mama (TRH &amp;gt; 5 anos)&lt;/li&gt;
+      &lt;li&gt;Aumento do risco de hiperplasia e câncer de endométrio (nas mulheres submetidas a TRE isoladamente)&lt;/li&gt;
+      &lt;li&gt;Doença tromboembólica&lt;/li&gt;
+      &lt;li&gt;Doença biliar&lt;/li&gt;
+      &lt;li&gt;Aumento do risco de AVE, DCV e tromboembolismo (tem certeza que aumenta?)&lt;/li&gt;
+      &lt;li&gt;Aumento do risco de hiperplasia e câncer de endométrio (nas mulheres submetidas
+a TR com estrógenos isoladamente).&lt;/li&gt;
+    &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;Benefícios
+    &lt;ul&gt;
+      &lt;li&gt;Diminuição do risco de câncer de cólon e reto.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/ginecologia/climaterio/ci.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
   &lt;li&gt;As irregularidades menstruais na perimenopausa tem como substrato fisiopatológico o estado anovulatório;
     &lt;ul&gt;
       &lt;li&gt;Nesse sentido, para a correção dos ciclos menstruais e prevenção das &lt;strong&gt;hiperplasias endometriais&lt;/strong&gt; são utilizados progestagênios, em esquema cíclico, por 10 a 14 dias de cada mês.&lt;/li&gt;
@@ -383,7 +731,7 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
   &lt;li&gt;Quando presente a sintomatologia vasomotora no período perimenopáusico, a utilização de estrogênios em associação a progestagênios de forma cíclica parece ser o mais adequado, tendo esse esquema a denominação de “combinado seqüencial”.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;estrogênios-utilizados&quot;&gt;Estrogênios utilizados&lt;/h4&gt;
+&lt;h3 id=&quot;estrogênios-utilizados&quot;&gt;Estrogênios utilizados&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Objetivo: atingit níveis estrogênicos plasmáticos semelhantes aos observados na fase folicular inicial de mulheres no menacme.&lt;/li&gt;
   &lt;li&gt;
@@ -406,7 +754,7 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h4 id=&quot;progestagênios-utilizados&quot;&gt;Progestagênios utilizados&lt;/h4&gt;
+&lt;h3 id=&quot;progestagênios-utilizados&quot;&gt;Progestagênios utilizados&lt;/h3&gt;
 &lt;p&gt;A adiçäo destes hormonios, em terapêutica de reposiçäo estrogênica fundamenta-se na prevenção dos estados hiperplásicos endometriais. Dessa forma, são indicados em mulheres com útero intacto.&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -415,7 +763,7 @@ grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos láb
 
 &lt;p&gt;…&lt;/p&gt;
 
-&lt;h4 id=&quot;androgênios&quot;&gt;Androgênios&lt;/h4&gt;
+&lt;h3 id=&quot;androgênios&quot;&gt;Androgênios&lt;/h3&gt;
 &lt;p&gt;Incluem-se, nesse grupo, a tibolona, os androgênios por via oral e as associações estro-androgênicas de uso intramuscular.&lt;/p&gt;
 
 &lt;p&gt;Os androgênios são úteis em TH em situações onde se
@@ -460,7 +808,7 @@ Decanoato de nandrolona
    &lt;/tr&gt;
  &lt;/table&gt;
 
-&lt;h4 id=&quot;regimes-terapêuticos&quot;&gt;Regimes terapêuticos&lt;/h4&gt;
+&lt;h3 id=&quot;regimes-terapêuticos&quot;&gt;Regimes terapêuticos&lt;/h3&gt;
 &lt;p&gt;Estrogenios utilizados, independentemente da natureza e da via de administraçao, devem atingir concentrações plasmaticas de estradiol que possibilitem a melhora dos sintomas e a prevenção óssea.&lt;/p&gt;
 
 &lt;p&gt;Os progestagênios, por sua vez, devem ser utilizados nas doses mínimas necessarias a proteção endometrial.&lt;/p&gt;
@@ -497,7 +845,7 @@ Decanoato de nandrolona
 
 &lt;p&gt;Em quaisquer dos regimes empregados, a adição de androgênios pode ser efetuada, a depender da situação clínica observada. Cabe assinalar que o uso de androgênios não determina proteção endometrial, não dispensando a administração de progestagênios em pacientes com útero presente.&lt;/p&gt;
 
-&lt;h4 id=&quot;terapia-de-baixa-dose&quot;&gt;Terapia de baixa dose&lt;/h4&gt;
+&lt;h3 id=&quot;terapia-de-baixa-dose&quot;&gt;Terapia de baixa dose&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Em geral a dose é reduzida em 50%&lt;/li&gt;
   &lt;li&gt;Os estudos com TH de baixa dose demonstram efetividade no controle sintomatológico, na atrofia urogenital, na preservação da massa óssea e sobre parâmetros do perfil lipídico.&lt;/li&gt;
@@ -3090,646 +3438,4 @@ orais, progestágenos, DIU medicado com progestágeno, agentes antifibrinolític
 tranexâmico e seus precursores), anti-inflamatórios não esteróides, ablação endometrial
 histeroscópica ou outros métodos de destruição endometrial e histerectomia.&lt;/p&gt;
 
-&lt;p&gt;Os DIUs medicados com progestagênio são alternativas mais recentes e talvez o tratamento clínico de maior eficácia no tratamento do SUA-endometrial.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry><entry><title type="html">Parto prematuro</title><link href="http://localhost:4000/parto-prematuro" rel="alternate" type="text/html" title="Parto prematuro" /><published>2019-06-02T00:00:00-03:00</published><updated>2019-06-02T00:00:00-03:00</updated><id>http://localhost:4000/parto-prematuro</id><content type="html" xml:base="http://localhost:4000/parto-prematuro">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#teste-de-clements&quot; id=&quot;markdown-toc-teste-de-clements&quot;&gt;Teste de Clements&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#predição&quot; id=&quot;markdown-toc-predição&quot;&gt;Predição&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ameaça-de-parto-pré-termo&quot; id=&quot;markdown-toc-ameaça-de-parto-pré-termo&quot;&gt;Ameaça de parto pré-termo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#prevenção-e-tratamento&quot; id=&quot;markdown-toc-prevenção-e-tratamento&quot;&gt;Prevenção e tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tocolíticos&quot; id=&quot;markdown-toc-tocolíticos&quot;&gt;Tocolíticos&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#nifedipina&quot; id=&quot;markdown-toc-nifedipina&quot;&gt;Nifedipina&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#corticoide-antenatal&quot; id=&quot;markdown-toc-corticoide-antenatal&quot;&gt;Corticoide antenatal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#circlagem&quot; id=&quot;markdown-toc-circlagem&quot;&gt;Circlagem&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#usg-universal-do-colo&quot; id=&quot;markdown-toc-usg-universal-do-colo&quot;&gt;USG universal do colo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gravidez-gemelar&quot; id=&quot;markdown-toc-gravidez-gemelar&quot;&gt;Gravidez gemelar&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#neuroproteção-fetal&quot; id=&quot;markdown-toc-neuroproteção-fetal&quot;&gt;Neuroproteção fetal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#assistência-ao-parto&quot; id=&quot;markdown-toc-assistência-ao-parto&quot;&gt;Assistência ao parto&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#clampeamento-do-cordão&quot; id=&quot;markdown-toc-clampeamento-do-cordão&quot;&gt;Clampeamento do cordão&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#apgar&quot; id=&quot;markdown-toc-apgar&quot;&gt;Apgar&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#aspiração&quot; id=&quot;markdown-toc-aspiração&quot;&gt;Aspiração&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#aquecimento&quot; id=&quot;markdown-toc-aquecimento&quot;&gt;Aquecimento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#síndrome-de-angustia-respiratória&quot; id=&quot;markdown-toc-síndrome-de-angustia-respiratória&quot;&gt;Síndrome de angustia respiratória&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#protocolo-do-cisam&quot; id=&quot;markdown-toc-protocolo-do-cisam&quot;&gt;Protocolo do CISAM&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames&quot; id=&quot;markdown-toc-exames&quot;&gt;Exames&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#corticoterapia&quot; id=&quot;markdown-toc-corticoterapia&quot;&gt;Corticoterapia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#antibioticoterapia&quot; id=&quot;markdown-toc-antibioticoterapia&quot;&gt;Antibioticoterapia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tocolítico&quot; id=&quot;markdown-toc-tocolítico&quot;&gt;Tocolítico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#orientação-para-alta&quot; id=&quot;markdown-toc-orientação-para-alta&quot;&gt;Orientação para alta&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#neuroproteção-fetal-com-mgso4&quot; id=&quot;markdown-toc-neuroproteção-fetal-com-mgso4&quot;&gt;Neuroproteção fetal com MgSO4&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É o parto que ocorre antes de 37 sem de gestação (259 dias).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pré termo: &amp;lt; 37 sem
-    &lt;ul&gt;
-      &lt;li&gt;extremo: &amp;lt; 28 semanas (5%)&lt;/li&gt;
-      &lt;li&gt;Muito pré-termo: 28 a 30+6 semanas (15%)&lt;/li&gt;
-      &lt;li&gt;precoce: 31 a 33+6 semanas (20%)&lt;/li&gt;
-      &lt;li&gt;tardio: 34 a 36+6 semanas (60%)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Termo precoce: entre 37 e 38sem e 6d&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O parto pré-termo é um problema de saúde pública e representa a causa principal de
-morbidade e de mortalidade neonatal precoce e tardia, em face do risco aumentado de
-complicações no neurodesenvolvimento, respiratórias e gastrintestinais, como síndrome de
-angústia respiratória (SAR), doença pulmonar crônica, enterocolite necrosante, hemorragia
-intraventricular e paralisia cerebral.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;8-12% dos partos&lt;/li&gt;
-  &lt;li&gt;Para a mãe, o parto pré-termo aumenta o risco de nova interrupção em gravidez subsequente&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
-  &lt;li&gt;Cerca de 2/3 dos RN de baixo peso são pré-termo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Parto pré-termo espontâneo
-    &lt;ul&gt;
-      &lt;li&gt;Associado ou não a RPMO&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Parto pré-termo indicado: decorrente da indução sob indicação por complicações como
-    &lt;ul&gt;
-      &lt;li&gt;Distúrbios hipertensivos&lt;/li&gt;
-      &lt;li&gt;Hemorragia&lt;/li&gt;
-      &lt;li&gt;CIUR&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img3.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Os processos patológicos implicados no parto pré-termo incluem infecção intrauterina,
-isquemia uterina, sobredistensão uterina, reação anormal ao aloenxerto, fenômeno alérgico,
-distúrbios do colo uterino e doenças endócrinas&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img4.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Vaginose bacteriana:&lt;/strong&gt; Condição clínica caraterizada por corrimento vaginal de odor fétido, pH vaginal &amp;gt; 4,5 e alteração na flora vaginal normal lactobacilo-dominante para outra com predomínio de &lt;em&gt;Gardnerella vaginalis, Prevotella sp.&lt;/em&gt; e &lt;em&gt;Atopobium sp&lt;/em&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;A vaginose bacteriana assintomática (rastreada no pré-natal com 16 semanas) é considerada causa de parto pré-termo, abortamento e infecção materna.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Infecções não genitais&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Pielonefrite&lt;/li&gt;
-      &lt;li&gt;Pneumonia&lt;/li&gt;
-      &lt;li&gt;Apendicite&lt;/li&gt;
-      &lt;li&gt;Doença periodontal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Infecção intrauterina:&lt;/strong&gt; A corioamnionite é responsável por &amp;gt; 30% de todos os partos pré-termo.
-    &lt;ul&gt;
-      &lt;li&gt;São encontrados microrganismos no líquido amniótico&lt;/li&gt;
-      &lt;li&gt;A via de infecção mais comum é a ascendente&lt;/li&gt;
-      &lt;li&gt;os microrganismos mais encontrados são &lt;em&gt;Mycoplasma spp.&lt;/em&gt; e &lt;em&gt;Ureaplasma urealyticum&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;Esses microrganismos são tipicamente de baixa virulência, o que explica provavelmente a cronicidade da infecção intrauterina e a ausência frequente de sinais clínicos de infecção no parto pré-termo tardio.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Citocinas pró-inflamatórias:&lt;/strong&gt; A inflamação e seus mediadores, quimiocinas tais como a IL-8, citocinas pró-inflamatórias (IL-1, IL-6 e TNF-α) e outros [fator ativador de plaquetas (PAF), prostaglandinas] estão implicados no parto pré-termo infeccioso.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sobredistensão uterina:&lt;/strong&gt;  Ocorre em casos de malformações uterinas, polidrâmnia e gravidez gemelar, sendo dependente da exacerbação da contratilidade uterina, do amadurecimento do colo do útero e da ruptura das membranas.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Gravidez gemelar:&lt;/strong&gt; sobredistensão uterina, muito embora o parto pré-termo indicado também seja um fator. Apesar de representar em apenas 23% das gestações, a gravidez gemelar é responsável por 13 a 20% de todos os partos pré-termo. Aproximadamente 60% dos gêmeos nascem pré-termo e nas gestações múltiplas (3 ou mais), quase todos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sangramento vaginal:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;DPP: descolamento prematuro de placenta&lt;/li&gt;
-      &lt;li&gt;PP: placenta prévia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Isquemia uteroplacentária:&lt;/strong&gt; As características mais comuns na placenta de pacientes com parto pré-termo (&amp;lt; 28 semanas), mas sem alterações inflamatórias, são as lesões vasculares que incluem remodelação defeituosa das arteríolas espiraladas, aterose aguda e trombose dessas artérias (vasculopatia decidual), diminuição da quantidade e trombose das arteríolas nas vilosidades coriônicas. Essas alterações vasculares também são típicas da pré-eclâmpsia e do CIUR e representam o substrato anatomopatológico das grandes síndromes obstétricas&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Doenças e cirurgias maternas&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Doença da tireoide&lt;/li&gt;
-      &lt;li&gt;asma&lt;/li&gt;
-      &lt;li&gt;diabetes melito&lt;/li&gt;
-      &lt;li&gt;hipertensão arterial crônica&lt;/li&gt;
-      &lt;li&gt;cirurgias maternas abdominais no 2º e no 3º trimestres podem estimular as contrações uterinas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Doenças cervicais&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Insuficiência cervical:&lt;/strong&gt; causada por cirurgia, trauma ou fraqueza congênita do colo do útero determinante de abortamento tardio&lt;/li&gt;
-      &lt;li&gt;A doença cervical pode resultar de alteração congênita (hipoplasia, exposição ao dietilestilbestrol in utero, útero septado), assim como de lesão traumática da estrutura cervical (conização, dilatações cervicais repetidas ou rudes para interrupção da gravidez).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Distúrbios hormonais:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;A progesterona é o hormônio central para a manutenção da gravidez.&lt;/li&gt;
-      &lt;li&gt;Acredita-se que a deficiência da fase lútea seja causa de infertilidade e de abortamento habitual.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Prematuridade anterior&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;O principal fator de risco&lt;/li&gt;
-      &lt;li&gt;20% de chance de novo parto prematuro&lt;/li&gt;
-      &lt;li&gt;Risco aumenta progressivamente a cada parto pré-termo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;RPMO&lt;/li&gt;
-  &lt;li&gt;Estresse&lt;/li&gt;
-  &lt;li&gt;Miomas e outras alterações uterinas&lt;/li&gt;
-  &lt;li&gt;Anemia&lt;/li&gt;
-  &lt;li&gt;Tabagismo&lt;/li&gt;
-  &lt;li&gt;Urina (Infecções urinárias e DST)&lt;/li&gt;
-  &lt;li&gt;Raça negra&lt;/li&gt;
-  &lt;li&gt;Idade materna (&amp;lt; 18 ou &amp;gt; 35 anos)&lt;/li&gt;
-  &lt;li&gt;Desnutrição (↓IMC e ↓nível socioeconômico)&lt;/li&gt;
-  &lt;li&gt;Alcoolismo&lt;/li&gt;
-  &lt;li&gt;Distensão uterina
-    &lt;ul&gt;
-      &lt;li&gt;Gemelaridade&lt;/li&gt;
-      &lt;li&gt;Polidramnia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Hemorragias
-    &lt;ul&gt;
-      &lt;li&gt;PP&lt;/li&gt;
-      &lt;li&gt;DPP&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;teste-de-clements&quot;&gt;Teste de Clements&lt;/h2&gt;
-&lt;p&gt;Para avaliar a maturidade pulmonar&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img5.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
-&lt;p&gt;A sobrevida dos RN pré-termo, que nascem após 32 semanas de gravidez, é similar à de RN a termo. Todavia, esses prematuros também não estejam isentos de complicações, como se verá adiante. A maioria dos problemas graves está associada àqueles que nascem antes de 32 semanas (1 a 2% do total de partos), principalmente àqueles nascidos antes de 28 semanas (0,4% do total de partos).&lt;/p&gt;
-
-&lt;p&gt;O atendimento moderno perinatal (corticoide, surfactante, centros terciários) foi importante para melhorar o prognóstico do prematuro. Todavia, o prognóstico permanece desalentador para
-aqueles pré-viáveis nascidos entre 22 e 25 semanas.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Pré-termo pré-viável:&lt;/strong&gt; entre 22 e 25 sem. A taxa de sobrevida é de 1, 11, 26 e 44%, respectivamente, para os RN de 22, 23, 24 e 25 semanas
-    &lt;ul&gt;
-      &lt;li&gt;No levantamento de 30 meses e de 6 anos foram expressivas as incapacidades mental, motora, sensorial (auditiva, visual) e cognitiva.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pré-termos tardio e termo precoce:&lt;/strong&gt; A despeito de documentada a maturidade pulmonar, quando comparados àqueles nascidos com 39 semanas ou mais, os pré-termo tardio e a termo precoce apresentam morbidade neonatal mais elevada. Por isso, o ACOG, 2011, recomenda: a gestação não deve ser eletivamente interrompida antes de 39 semanas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;34 semanas da gestação é a época ótima da maturidade fetal e a meta para o parto indicado, visando à segurança e à saúde da mãe e do feto, mesmo que ainda não haja urgência
-para a interrupção da gravidez (CIUR e oligoidrâmnia isolados, pré-eclâmpsia leve).&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;IG&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Sobrevida (%)&lt;/th&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt;Melhora na sobrevida/semana (%)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;21&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;0&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;–&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;22&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Raro&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;–&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;23&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;25&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;25&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;24&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;50&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;25&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;25&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;70&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;20&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;26&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;80&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;10&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;27&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;86&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;6&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;28&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;91&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;5&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;29&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;94&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;30&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;95&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;31&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;96&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;32&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;97&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;33&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;98&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;34&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;35&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&amp;gt; 99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&amp;lt; 1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;36&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;&amp;gt; 99&lt;/td&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;&amp;lt; 1&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;predição&quot;&gt;Predição&lt;/h2&gt;
-&lt;p&gt;O grande fator de risco para o parto pré-termo é a &lt;strong&gt;história pregressa de parto pré-termo&lt;/strong&gt;. Assim, após um parto pré-termo, o risco de repeti-lo chega a 20%; após dois partos pré-termos anteriores, o risco passa para 35 a 40%.&lt;/p&gt;
-
-&lt;p&gt;Existem três grandes marcadores de parto pré-termo: vaginose bacteriana, ultrassonografia do colo e fibronectina fetal. Esses marcadores estão
-indicados quando a grávida relata história pregressa de parto pré-termo ou quando manifesta sintomas.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Vaginose bacteriana:&lt;/strong&gt; é rastreada pelo método de Gram na gestação de 16 semanas; tem por objetivo diagnosticar a vaginose bacteriana assintomática.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG-TV do colo uterino:&lt;/strong&gt; é um marcador muito útil de parto pré-termo em duas circunstâncias: gestantes assintomáticas e sintomáticas com ameaça de parto pré-termo.
-    &lt;ul&gt;
-      &lt;li&gt;Em gestantes assintomáticas, o comprimento do &lt;strong&gt;colo &amp;lt; 20 mm entre a 20ª e a 24ª semana&lt;/strong&gt; define risco aumentado para parto pré-termo.&lt;/li&gt;
-      &lt;li&gt;A USG-abd não deve ser utilizada para medir o comprimento do colo, pois os resultados não são fidedignos.&lt;/li&gt;
-      &lt;li&gt;Obs: comprimenti cervical = distância entre OI e OE&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fibronectina fetal:&lt;/strong&gt; o mais importante marcador bioquímico de parto pré-termo.
-    &lt;ul&gt;
-      &lt;li&gt;Glicoproteína existente na secreção cervicovaginal, marcadora de disrupção coriodecidual.&lt;/li&gt;
-      &lt;li&gt;Tipicamente, a fibronectina fetal não existe na secreção vaginal da 24ª semana até o termo;&lt;/li&gt;
-      &lt;li&gt;Todavia, 3 a 4% das mulheres com fibronectina positiva (≥ 50 ng/ml) no rastreamento de 24 a 26 semanas apresentam risco elevado de parto pré-termo.&lt;/li&gt;
-      &lt;li&gt;Bom valor preditivo negativo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ameaça-de-parto-pré-termo&quot;&gt;Ameaça de parto pré-termo&lt;/h2&gt;
-&lt;p&gt;Esse quadro clínico engloba o que se rotulam casos sintomáticos e se caracteriza por
-contrações uterinas rítmicas e dolorosas com frequência de &lt;strong&gt;1 a 2/10 min&lt;/strong&gt;, persistindo no mínimo &lt;strong&gt;por 1 h&lt;/strong&gt;, estando a paciente em repouso.&lt;/p&gt;
-
-&lt;p&gt;Vale destacar que cerca de 60% dessas gestantes sintomáticas caracterizam apenas o quadro
-de ameaça de parto pré-termo, pois o parto ocorre no termo não havendo, por conseguinte,
-indicação de internação, uso de corticoide e tocolítico.&lt;/p&gt;
-
-&lt;p&gt;A US transvaginal é muito útil nesses casos:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Quando a paciente apresentava o colo &amp;lt; 15 mm, o parto ocorre em 1 semana&lt;/li&gt;
-  &lt;li&gt;O colo &amp;gt; 25 mm assegura parto a termo&lt;/li&gt;
-  &lt;li&gt;Aquelas com valores entre 15 e 25 mm merecem vigilância atenta pela ultrassonografia seriada.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img6.jpeg&quot; alt=&quot;img&quot; /&gt;
-&lt;img src=&quot;/assets/obstetricia/tpp/img7.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;prevenção-e-tratamento&quot;&gt;Prevenção e tratamento&lt;/h2&gt;
-&lt;h3 id=&quot;tocolíticos&quot;&gt;Tocolíticos&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Agonistas-β2&lt;/li&gt;
-  &lt;li&gt;Bloqueadores de canal de cálcio&lt;/li&gt;
-  &lt;li&gt;Sulfato de magnésio&lt;/li&gt;
-  &lt;li&gt;Inibidores da cicloxigenase&lt;/li&gt;
-  &lt;li&gt;Antagonistas do receptor de ocitocina&lt;/li&gt;
-  &lt;li&gt;Doadores de óxido nítrico.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O uso de tocolítico visa &lt;strong&gt;prolongar a gestação por 48 h enquanto se aguardam os efeitos benéficos do corticoide&lt;/strong&gt; e se espera a transferência da paciente para um centro de atendimento
-terciário.&lt;/p&gt;
-
-&lt;p&gt;Dos agonistas-β 2, o salbutamol é o mais empregado no Brasil. A indometacina também pode ser utilizada, mas antes de 32 semanas e, no máximo, por 48 h.&lt;/p&gt;
-
-&lt;h4 id=&quot;nifedipina&quot;&gt;Nifedipina&lt;/h4&gt;
-&lt;p&gt;É o fármaco de primeira escolha para inibir o parto pré-termo, um bloqueador dos canais de cálcio. Apresenta as seguintes vantagens: via oral de administração, poucos efeitos colaterais e eficácia em reduzir as complicações neonatais.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Deve-se iniciar com 10 mg VO, podendo repetir a dose a cada 15 min na 1a hora até o máximo de 40 mg. Deve-se administrar ao menos 20 mg de nifedipina de liberação lenta VO a cada 8 h após dose inicial, sendo a dose máxima 160 mg/dia&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A nifedipina e a atosibana têm efetividade comparável em prolongar a gravidez por 7 dias, mas a atosibana é quase 10 vezes mais cara que a nifedipina.&lt;/p&gt;
-
-&lt;h3 id=&quot;corticoide-antenatal&quot;&gt;Corticoide antenatal&lt;/h3&gt;
-&lt;p&gt;O corticoide estimula a síntese e a liberação de material surfactante no alvéolo pulmonar. A &lt;strong&gt;betametasona&lt;/strong&gt; e a &lt;strong&gt;dexametasona&lt;/strong&gt; atravessam a barreira placentária e, por via IM, são os
-corticoides preferidos para a corticoterapia antenatal. Usado para gestações com &lt;strong&gt;IG entre 24 e 34 semanas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O corticoide é capaz não só de reduzir a incidência de SAR como também de outras complicações no bebê, tais como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;hemorragia intraventricular&lt;/li&gt;
-  &lt;li&gt;leucomalacia periventricular&lt;/li&gt;
-  &lt;li&gt;retinopatia da prematuridade&lt;/li&gt;
-  &lt;li&gt;enterocolite necrosante&lt;/li&gt;
-  &lt;li&gt;persistência do canal arterial&lt;/li&gt;
-  &lt;li&gt;taxa de mortalidade neonatal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Ocorre redução de 50% na incidência de SAR, e sua eficácia fica mais evidente quando o parto ocorre após 24h e dentro de 7 dias de sua utilização.&lt;/p&gt;
-
-&lt;p&gt;A Revisão Cochrane (2007) recomenda um único curso de corticoide, que pode ser a
-betametasona, 12 mg via IM repetida 2 vezes com intervalo de 24h sempre que houver
-risco de parto pré-termo, incluindo:&lt;sup id=&quot;fnref:rez:1&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Grávidas com ruptura das membranas&lt;/li&gt;
-  &lt;li&gt;Grávidas com pré-eclâmpsia&lt;/li&gt;
-  &lt;li&gt;Pacientes com gestação múltipla&lt;/li&gt;
-  &lt;li&gt;Aquelas em que o parto pode ocorrer em menos de 24h&lt;/li&gt;
-  &lt;li&gt;Na prática neonatal moderna em que o surfactante é disponível.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;ACOG (2008):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Duas doses de 12 mg de &lt;strong&gt;betametasona&lt;/strong&gt; por via IM, espaçadas de 24h&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dexametasona&lt;/strong&gt; na dose de 6 mg por via IM a cada 12h (4 doses)&lt;/li&gt;
-  &lt;li&gt;Orientações
-    &lt;ul&gt;
-      &lt;li&gt;Apenas um curso de corticoide deve ser administrado em pacientes entre 24 e 34sem que correm risco iminente de parto pré-termo dentro de 7 dias&lt;/li&gt;
-      &lt;li&gt;Apenas um curso de corticoide deve ser utilizado em pacientes com RPMP entre 24 e 32sem&lt;/li&gt;
-      &lt;li&gt;A eficácia do corticoide na RPMP na gestação de 32 e de 33sem é incerta&lt;/li&gt;
-      &lt;li&gt;O corticoide não é recomendado antes da viabilidade fetal (24 sem)&lt;/li&gt;
-      &lt;li&gt;Não se aconselha a repetição dos cursos de corticoide.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Corticoide na ameaça de parto pré-termo:&lt;/strong&gt; Já se mencionou que em 60% dos casos de ameaça de parto pré-termo a interrupção se dá no termo da gravidez, tornando inoportuna a administração do corticoide. Nessas condições, pode-se utilizar a US transvaginal que, ao detectar colo &amp;lt; 15 mm, sinaliza parto dentro de 1 semana e, portanto, indicação do corticoide. O colo &amp;gt; 25 mm dispensaria o uso do corticoide. Valores entre 15 e 25 mm exigem acompanhamento sonográfico.&lt;/p&gt;
-
-&lt;h3 id=&quot;circlagem&quot;&gt;Circlagem&lt;/h3&gt;
-&lt;p&gt;Originalmente proposta para uso em pacientes com abortamento habitual de 2º trimestre, a circlagem tem sido recomendada também para aquelas com história pregressa de parto pré-termo.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A Revisão Cochrane (2013) afrma que o uso de pesário em colos ≤ 25 mm, entre 18 e 20 semanas da gravidez, conseguiu reduzir significativamente a ocorrência de parto pré-termo, quando comparado a grupo controle (20 vs. 60%; risco relativo = 0,36).&lt;sup id=&quot;fnref:rez:2&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;usg-universal-do-colo&quot;&gt;USG universal do colo&lt;/h3&gt;
-&lt;p&gt;A SMFM, o AIUM e o ACOG (2012) propõem a prevenção do parto pré-termo pela USG transvaginal universal do colo uterino, após a USG morfológica detrimestre, entre a 20ª e a 24ª semana. O colo ≤ 20 mm é indicação para progesterona vaginal, 200
-mg/dia, até 34 a 36 semanas&lt;/p&gt;
-
-&lt;p&gt;O ACOG (2012) também recomenda em pacientes com &lt;strong&gt;história pregressa de parto pré-termo&lt;/strong&gt; o uso de &lt;strong&gt;progesterona vaginal&lt;/strong&gt; (200 mg/dia) a partir da 16ª semana. Entre 16 e 24 semanas deve-se realizar a USG transvaginal e se o colo estiver ≤ 25 mm, estaria indicada a circlagem
-cervical.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img8.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img9.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;gravidez-gemelar&quot;&gt;Gravidez gemelar&lt;/h3&gt;
-&lt;p&gt;Na gravidez gemelar, o colo &amp;gt; 25 mm afasta a possibilidade de parto pré-termo, evitando
-intervenções desnecessárias.&lt;/p&gt;
-
-&lt;p&gt;Mas nem a progesterona vaginal (IM), nem a circlagem
-foram efetivas para evitar o parto pré-termo na gravidez gemelar. Pelo contrário, a circlagem trouxe até resultados negativos (ACOG, 2012). Logo, &lt;strong&gt;não fazer progesterona nem circlagem!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;neuroproteção-fetal&quot;&gt;Neuroproteção fetal&lt;/h3&gt;
-&lt;p&gt;Usa-se o MgSO4, indicado na gestação &lt;strong&gt;entre 23 e 31+6 sem&lt;/strong&gt; quando o parto é iminente ou a gravidez deve ser interrompida nas 24h seguintes.&lt;/p&gt;
-
-&lt;p&gt;No parto pré-termo com indicação clínica, o MgSO4 deve ser iniciado 4h antes da interrupção.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A Revisão Cochrane (2009), avaliando o uso do Mag para a neuroproteção fetal, encontrou risco relativo de 0,71, vale dizer, redução de 30% de paralisia cerebral.&lt;sup id=&quot;fnref:rez:3&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/img10.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;assistência-ao-parto&quot;&gt;Assistência ao parto&lt;/h3&gt;
-&lt;h4 id=&quot;clampeamento-do-cordão&quot;&gt;Clampeamento do cordão&lt;/h4&gt;
-&lt;p&gt;&lt;strong&gt;Para o RN pré-termo que não necessite de reanimação&lt;/strong&gt;, o
-clampeamento do cordão deve ser postergado por &lt;strong&gt;30 a 120s&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Para o pré-termo que precisa de reanimação&lt;/strong&gt;, não há consenso em relação ao benefício. A ordenha do cordão (4 vezes em 10 a 12s) parece oferecer a mesma vantagem do clampeamento postergado. Esse incremento da transfusão placentária que se consegue com o clampeamento tardio ou a ordenha melhora as funções circulatória e respiratória, reduz a necessidade de transfusão e o risco de hemorragia intracerebral
-no RN pré-termo.&lt;/p&gt;
-
-&lt;h4 id=&quot;apgar&quot;&gt;Apgar&lt;/h4&gt;
-&lt;p&gt;Na população de RN pré-termo, em face de sua imaturidade fisiológica, o índice de Apgar não tem importância clínica (ACOG, 2006).&lt;sup id=&quot;fnref:rez:4&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;aspiração&quot;&gt;Aspiração&lt;/h4&gt;
-&lt;p&gt;A limpeza da orofaringe será imediata por meio de pera de borracha quando do desprendimento do polo cefálico.&lt;/p&gt;
-
-&lt;p&gt;Após a secção do cordão, complementa-se o atendimento com
-aspiração gástrica.&lt;/p&gt;
-
-&lt;h4 id=&quot;aquecimento&quot;&gt;Aquecimento&lt;/h4&gt;
-&lt;p&gt;Não deve ser utilizado o ar-condicionado quando do nascimento do pré-termo, que será imediatamente aquecido e colocado em incubadora à temperatura de 30°C&lt;/p&gt;
-
-&lt;h3 id=&quot;síndrome-de-angustia-respiratória&quot;&gt;Síndrome de angustia respiratória&lt;/h3&gt;
-&lt;p&gt;A SAR é a principal causa de morte no RN prétermo, e deve-se à deficiência de surfactante
-(lecitina) nos alvéolos pulmonares.&lt;/p&gt;
-
-&lt;p&gt;Se não for tratada, cerca de 25 a 30% dos RN com SAR antes de 28 semanas morrem nos 28 dias seguintes ao parto e outros 25% desenvolvem doença crônica do pulmão, como displasia broncopulmonar.&lt;/p&gt;
-
-&lt;p&gt;Deficiência de surfactante pulmonar está envolvida na fisiopatogenia da SAR, mas outros
-fatores como a imaturidade do parênquima pulmonar também são importantes.&lt;/p&gt;
-
-&lt;h4 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h4&gt;
-&lt;p&gt;A SAR revela-se logo após o nascimento, nos primeiros 30min (cerca de 80% dos
-casos nas primeiras 6h), progride por 1 a 2 dias e termina no óbito (10 a 40%) ou na
-recuperação, embora nem sempre completa.&lt;/p&gt;
-
-&lt;p&gt;O RN não consegue manter adequadas a oxigenação e a eliminação de gás carbônico.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Respiração laboriosa&lt;/li&gt;
-  &lt;li&gt;Taquipnéia (&amp;gt; 60/min)&lt;/li&gt;
-  &lt;li&gt;Retração intercostal ou external&lt;/li&gt;
-  &lt;li&gt;Batimentos das asas do nariz&lt;/li&gt;
-  &lt;li&gt;Gemido expiratório&lt;/li&gt;
-  &lt;li&gt;seguida por acidoses metabólica e respiratória&lt;/li&gt;
-  &lt;li&gt;Cianose&lt;/li&gt;
-  &lt;li&gt;Estertores pulmonares pela má
-aeração&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O laboratório exibe &lt;strong&gt;PO2 &amp;lt; 65 mmHg (ar ambiente), PCO2 &amp;gt; 50 mmHg e pH &amp;lt; 7,30&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Radiografia é indispensável para o diagnóstico, revelando &lt;strong&gt;padrão difuso reticulogranular nos pulmões&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O óbito tende a ocorrer antes de 72h. A necropsia revela atelectasia, ingurgitamento capilarfrequentemente, depósito de fibrina nos alvéolos (membrana hialina). Se sobreviver,recuperação ocorre em 48h.&lt;/p&gt;
-
-&lt;h2 id=&quot;protocolo-do-cisam&quot;&gt;Protocolo do CISAM&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
-&lt;h3 id=&quot;exames&quot;&gt;Exames&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Hemograma e Sumário de urina&lt;/li&gt;
-  &lt;li&gt;Urocultura&lt;/li&gt;
-  &lt;li&gt;Exame especular e Exame a fresco da secreção vaginal&lt;/li&gt;
-  &lt;li&gt;USG obstétrica&lt;/li&gt;
-  &lt;li&gt;Cardiotocografia fetal anteparto, se IG &amp;gt; 32 semanas&lt;/li&gt;
-  &lt;li&gt;Coleta da CSV para estreptococos B&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;corticoterapia&quot;&gt;Corticoterapia&lt;/h3&gt;
-&lt;p&gt;Entre 24-34 semanas&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Droga de escolha: &lt;strong&gt;Betametasona&lt;/strong&gt; – 12mg IM, 1x/dia, e repete após 24h.&lt;/li&gt;
-  &lt;li&gt;Opção: &lt;strong&gt;Dexametasona&lt;/strong&gt; – 6mg IM, 12/12h, por 2 dias, sendo 4 doses.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Obs: no caso de recidiva do TPP dentro de 15 dias, e quando a administração foi IG &amp;lt; 28 semanas, repetir a corticoterpia (1 ciclo completo).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;antibioticoterapia&quot;&gt;Antibioticoterapia&lt;/h3&gt;
-&lt;p&gt;TPP com ou sem bolsa rota, de 24-36 sem. A droga de escolha é &lt;strong&gt;Ampicilina&lt;/strong&gt; Dose de ataque 2g EV // Manutenção 1g EV 4/4h, até o parto / inibição&lt;/p&gt;
-
-&lt;h3 id=&quot;tocolítico&quot;&gt;Tocolítico&lt;/h3&gt;
-&lt;p&gt;entre 24 a 34 semanas, mesmo com dilatação avançada. Na dúvida do diagnóstico, observar durante 1h para confirmação do diagnóstico do TPP, durante esse período pode ser usado Buscopam®.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Contra-indicações do tocolítico:
-    &lt;ol&gt;
-      &lt;li&gt;Feto morto&lt;/li&gt;
-      &lt;li&gt;Corioamnionite&lt;/li&gt;
-      &lt;li&gt;Sofrimento fetal agudo&lt;/li&gt;
-      &lt;li&gt;Sangramento genital intenso&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Drogas:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;NIFEDIPINA&lt;/strong&gt; (primeira droga de escolha)
-        &lt;ul&gt;
-          &lt;li&gt;Dose de ataque: 30mg VO // Dose de manutenção: 20mg 4/4h VO, iniciar 4h após o ataque.&lt;/li&gt;
-          &lt;li&gt;Duração do tratamento: 24h (mínimo) – 48h (máximo)&lt;/li&gt;
-          &lt;li&gt;Momento da suspensão da droga: se 6 – 12h sem dinâmica. Observar 24h após suspender a droga&lt;/li&gt;
-          &lt;li&gt;Contra-indicação à Nifedipina: HAS&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Outras drogas (Falha do tratamento ou contra-indicação à Nifedipina)
-        &lt;ul&gt;
-          &lt;li&gt;IG &amp;lt; 32 semanas - &lt;strong&gt;Indometacina&lt;/strong&gt; 100mg VR (ataque) + 25mg VO 6/6h por 48h (manutenção)&lt;/li&gt;
-          &lt;li&gt;IG &amp;gt; 32 semanas - &lt;strong&gt;Atosiban&lt;/strong&gt;* (resumo a seguir)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;orientação-para-alta&quot;&gt;Orientação para alta&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Repouso físico relativo e sexual&lt;/li&gt;
-  &lt;li&gt;Retorno ao pré-natal de alto risco com 7-15 dias.&lt;/li&gt;
-  &lt;li&gt;Progesterona natural micronizada 200mg/dia, VV, até 36 semanas, se:
-    &lt;ul&gt;
-      &lt;li&gt;antecedente de parto prematuro em gestação anterior&lt;/li&gt;
-      &lt;li&gt;colo uterino curto (&amp;lt; 2,5cm)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tpp/cisam.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;neuroproteção-fetal-com-mgso4&quot;&gt;Neuroproteção fetal com MgSO4&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Indicações:
-    &lt;ul&gt;
-      &lt;li&gt;IG &amp;gt; 23 e &amp;lt; 32 sem&lt;/li&gt;
-      &lt;li&gt;TPP com dilatação ≥ 4cm com ou sem bolsa rota&lt;/li&gt;
-      &lt;li&gt;Contra-indicações:&lt;/li&gt;
-      &lt;li&gt;Pré-eclâmpsia grave&lt;/li&gt;
-      &lt;li&gt;Óbito fetal&lt;/li&gt;
-      &lt;li&gt;Anomalia fetal incompatível com a vida&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Contraindicações maternas ao Sulfato de Magnésio:
-    &lt;ul&gt;
-      &lt;li&gt;Miastenia gravis&lt;/li&gt;
-      &lt;li&gt;falência renal&lt;/li&gt;
-      &lt;li&gt;etc&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Esquema:
-    &lt;ul&gt;
-      &lt;li&gt;Ataque: MgSO4 50% 12ml (6g) + SF 0,9% ou SRL 100ml EV em 20-30 minutos.&lt;/li&gt;
-      &lt;li&gt;Manutenção: MgSO4 50% 24ml (12g) + SF 0,9% ou SRL 500ml em BIC (81ml/h) 6/6h.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tempo de uso:
-    &lt;ul&gt;
-      &lt;li&gt;Até o parto (quando não se consegue inibir)&lt;/li&gt;
-      &lt;li&gt;Caso seja inibido, suspender imediatamente&lt;/li&gt;
-      &lt;li&gt;Iniciar, no mínimo, até 4h antes da interrupção eletiva&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Início do tratamento: A infusão deve ser iniciada na sala de parto junto com o tocolítico (Nifedipina) ou sem, quando o parto for irreversível.&lt;/li&gt;
-  &lt;li&gt;Repetição da dose:
-    &lt;ul&gt;
-      &lt;li&gt;Ataque + manutenção, se &amp;gt; 6h do esquema inicial e persistência do risco de PP iminente&lt;/li&gt;
-      &lt;li&gt;Manutenção, se &amp;lt; 6h do esquema inicial e persistência do risco de PP iminente&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Monitorização:
-    &lt;ul&gt;
-      &lt;li&gt;Ao término de cada fase avaliar parâmetros: FR, FC, PA, diurese, reflexos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Transferência para o alto risco:
-    &lt;ul&gt;
-      &lt;li&gt;Paciente sem contrações&lt;/li&gt;
-      &lt;li&gt;Ao término da infusão do Sulfato de Magnésio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:rez&quot;&gt;
-      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:rez:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:cisam&quot;&gt;
-      &lt;p&gt;Protocolo CISAM 2019 &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;Os DIUs medicados com progestagênio são alternativas mais recentes e talvez o tratamento clínico de maior eficácia no tratamento do SUA-endometrial.&lt;/p&gt;</content><author><name>Filipe Mosca</name></author><summary type="html"></summary></entry></feed>

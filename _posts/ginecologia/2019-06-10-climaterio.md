@@ -17,10 +17,83 @@ A mulher passa por diversas modificações físicas e psíquicas no período do 
   * Os níveis de estrógenos já estão muito baixos, menos na ↑↑FSH devido à ausência de folículos ovarianos.
 * Senilidade (ou senectitude): a partir dos 65 anos
 
+## Fisiopatologia
+* Perimenopausa: elevação do FSH, queda da inibina, elevação do estradiol e LH relativamente inalterado.
+  * Inicia em média aos 46 anos
+* Menopausa: 1 ano em amenorréia.
+  * Em médio os 51 anos
+* Pós-menopausa: queda do estradiol.
+  * Produção de estrógenos basicamente à custa de aromatização periférica (estrona).
+  * Ausência de progesterona e queda dos androgênios.
+  * Queda gradual das gonadotrofinas após 3 anos da menopausa.
+
+A mulher passa por um processo de perda folicular durante toda a vida. Das 6-7 milhões de oogônias produzidas durante a vida fetal, há apenas 300.000 à puberdade. Ao longo da vida reprodutiva, apenas 400-500 ovócitos serão ovulados e as outras unidades sofrerão atresia, de forma que sobrarão apenas umas poucas centenas à época da menopausa. Cerca de 10 a 15 anos antes da menopausa há uma aceleração da perda
+folicular, que se inicia quando o número de
+folículos chega a 25.000.
+
+Este fenômeno ocorre devido a um pequeno
+aumento dos níveis de FSH (produzido pela
+hipófise) e uma queda dos níveis de inibina
+(produzida pelos ovários). A aceleração da
+perda folicular parece ser secundária ao aumento da estimulação do FSH.
+
+Com um menor número de unidades e com
+as que sobraram não funcionando adequadamente, ocorre uma redução nos níveis de
+inibina, um produto das células da granulosa,
+que exerce um importante feedback negativo
+sobre a secreção de FSH (inicialmente da inibina B e posteriormente, da inibina A). Com a
+diminuição deste estímulo, os níveis de FSH
+se elevam. A ausência de menstruação ocorre
+quando o número de folículos atinge um ponto
+crítico de 1.000 folículos.
+
+Apesar dos níveis elevados de FSH, o crescimento dos folículos envelhecidos torna-se
+cada vez mais resistente à estimulação deste
+hormônio, o que torna a fase folicular do ciclo
+cada vez mais longa e os ciclos menstruais
+irregulares, até que o crescimento folicular
+não mais acontece e as últimas unidades
+são depletadas.
+
+Os níveis de estradiol, entretanto, só começam
+a cair cerca de seis meses a um ano antes da
+parada completa do desenvolvimento folicular.
+Antes disso, estes valores podem encontrar-se até elevados devido à superestimulação
+ovariana pelo FSH.
+
+> A mulher na perimenopausa, apesar dos ciclos irregulares e diminuição do número de folículos, ainda pode engravidar e métodos anticoncepcionais devem ser mantidos até a menopausa, se gravidez não for o desejo da paciente.
+
+* O pico de gonadotrofinas ocorre cerca de um a três anos após o último período menstrual.
+* Após este período, ocorre declínio gradual de suas concentrações.
+* Níveis elevados de FSH e LH após o término das menstruações são diagnósticos de falência ovariana.
+* **Estrogênio**
+  * Estrogênio circulante é todo proveniente da aromatização periférica que ocorre no tecido muscular, hepático, cerebral e, principalmente, no tecido adiposo.
+  * O principal estrógeno produzido na menopausa é a estrona a partir da testosterona e, principalmente, da androstenediona de origem ovariana e adrenal.
+* **Androgênios**
+  * Durante a menacme, os ovários produzem cerca de um terço da androstenediona circulante e 25% da testosterona, sendo o restante secretado pelas suprarrenais ou oriundo da conversão periférica de androstenediona em testosterona.
+  * Após a menopausa, as gonadotrofinas continuam estimulando o estroma ovariano a produzir androgênios na menopausa (em menor quantidade).
+  * Nesta fase, os ovários são responsáveis por 20% da androstenediona circulante e por 40% da testosterona.
+  * Os androgênios são o substrato para aromatização em estrógenos na menopausa.
+  * O principal androgênio produzido pelo ovário é a androstenediona.
+
+
 ## Manifestações clínicas
+* Precoce: fogachos, irregularidade menstrual (principal)
+* Tardias: atrofia genital, distúrbios do humor e do sono, alteração da libido, osteoporose
+
 ### Sangramento genital irregular
 * sangramentos disfuncionais podem ocorrer após ciclos ovulatórios, em fases mais precoces ou, anovulatórios, no qual o estímulo endometrial estrogênico sem oposição da progesterona ou com níveis insuficientes, pode tornar o endométrio hiperplásico, com sangramentos menstruais abundantes.
 * Um avaliação endometrial se faz necessária em casos de sangramento menstrual excessivo no período da pré-menopausa.
+
+#### Conduta
+* Para regularizar os ciclos:
+* **Anticoncepcionais orais** combinados de baixas doses (desde que não haja contraindicações ao seu uso), substituídos posteriormente pela terapia hormonal;
+* **Progestágenos cíclicos mensais**, como o acetato de medroxiprogesterona, utilizado na segunda fase do ciclo, suprindo a ausência de produção da progesterona
+  * já que as mulheres nestes períodos normalmente estão anovulatórias;
+* Inserção de um **DIU de progesterona**, que pode levar à amenorreia em 50% dos casos com um ano de uso;
+* Curetagem;
+* Ablação endometrial;
+* Histerectomia (em casos refratários).
 
 ### Fogachos
 * são os distúrbios mais freqüentes, estando presente em cerca de 75% das mulheres no climatério.
@@ -30,9 +103,37 @@ A mulher passa por diversas modificações físicas e psíquicas no período do 
   * Ruborização facial
   * Posterior sudorese
   * Palpitações
-* Dura de 15 a 60 segundos
+  * Sensação de ansiedade
+* Dura de 15 a 60 segundos e podem se repetir cerca de 30 vezes por dia
 * Mais intensa à noite (paciente pode despertar durante a noite - insonia)
 * Repetições durante o dia
+* Diversos fatores estão associados ao seu aparecimento, dentre eles
+  * Exposição a temperaturas elevadas, que ao aumentarem a temperatura corporal, se aproximam mais rápido do gatilho hipotalâmico para o início dos fogachos
+  * Estresse
+
+#### Conduta
+O tratamento inicial do fogacho é a adoção de
+práticas que diminuam a temperatura corporal
+como exposição a ambientes arejados e uso
+de roupas leves. A prática de exercícios leves
+também é efetiva, assim como perda ponderal
+e a interrupção do fumo.
+
+Os fogachos são a indicação mais comum de início e manutenção de uma terapia hormonal. Segundo a Sociedade Americana de Menopausa, os sintomas vasomotores moderados a intensos constituem-se em indicação primária de TH. Com a instituição da terapia estrogênica, a maioria das mulheres apresenta resolução dos sintomas em alguns dias.
+
+No caso de contraindicação à terapia estrogênica, diversas terapias alternativas podem ser utilizadas, como o uso de progestágenos, como o acetato de medroxiprogesterona, o acetato
+de noretindrona ou o acetato de megestrol. A progesterona inibe a secreção hipotalâmica
+de gonadotrofinas e aumenta a atividade endógena dos peptídeos opioides hipotalâmicos.
+No entanto, as doses consideradas eficazes são mais elevadas do que aquelas usualmente
+utilizadas em TH.
+
+* Outras drogas (muitos efeitos colaterais):
+  * gabapentina
+  * clonidina
+  * veraliprida
+  * tibolona
+  * metildopa
+  * etc
 
 ### Sintomas neuro-psicológicos
 * Os mais freqüentemente relatados durante a perimenopausa são os sintomas depressivos, irritabilidade, labilidade emocional, choro fácil, ansiedade, falta de energia ou ânimo, diminuição da atenção, insônia.
@@ -77,6 +178,15 @@ A bexiga hiperativa caracteriza-se pela presença de contrações não inibidas 
 
 Também fazem parte do quadro clínico a noctúria e a enurese noturna. A síndrome uretral caracteriza-se por um conjunto de sinais de irritação uretrovesical, como disúria, polaciúria, urgência miccional, noctúria, na ausência de infecção urinária. A etiologia, embora diversificada e indefinida, tem o hipoestrogenismo e os transtornos psicossomáticos como possíveis causas.
 
+#### Conduta
+O uso tópico genital em pequenas doses de estrogênio é suficiente para produzir bom
+efeito sobre os sintomas de atrofia urogenital.
+Os efeitos sistêmicos são bastante reduzidos
+ou ausentes com o uso de creme de estriol e
+promestriene, Outras opções incluem o uso
+de tibolona e cremes lubrificantes vaginais.
+
+
 ### Alterações do sistema cardiovascular
 * O hipoestrogenismo pode levar à diminuição do fluxo sanguíneo tecidual, por reduzir a luz dos vasos, seja por processo orgânico (placas de ateroma), ou funcional (vasoespasmo).
 * Essas alterações vasculares são decorrentes de efeitos diretos do hipoestrogenismo sobre o vaso, como as alterações na produção de peptídeos vasoativos, prostaglandinas e colágeno e efeitos mediados pelos receptores estrogênicos, assim como efeitos indiretos como as alterações no metabolismo das lipoproteínas, carbohidratos e insulina, alterações na pressão sanguínea e no sistema hemostático.
@@ -98,7 +208,7 @@ Também fazem parte do quadro clínico a noctúria e a enurese noturna. A síndr
 * A **hiperinsulinemia** compensatória pode provocar alterações vasculares que favorecem **fatores de risco cardiovasculares** como
   * **Aterogênese**: por promover a proliferação e migração das células musculares lisas da   camada média para a íntima dos vasos sanguíneos, além da vacuolização dos  macrófagos (transformação dos macrófagos em células ricas em colesterol – células espumosas)
   * **Hipertensão arterial sistêmica**: por um incremento da reabsorção renal de sódio e da atividade do sistema nervoso simpático
-  * **Dislipidemia**
+  * **Dislipidemia**reabso
   * Angina microvascular
   * **Diminuição da fibrinólise**: por aumentar a síntese do Inibidor do Ativador do Plasminogênio (PAI-1), à nível hepático, o que eleva o risco de trombose.
 
@@ -131,6 +241,24 @@ Também fazem parte do quadro clínico a noctúria e a enurese noturna. A síndr
 * Além disso, sabe-se que os estrogênios também atuam indiretamente na remodelação óssea, diminuindo a sensibilidade ao PTH e estimulando a síntese de calcitonina.
 * Estudos atuais sugerem que a principal influência do estrogênio sobre a remodelação óssea se dá no controle da síntese de citocinas pelos osteoblastos e osteoclastos.
 * A ligação das citocinas aos receptores osteoblásticos libera fatores que agem diretamente sobre a linhagem osteoclástica, regulando sua atividade.
+
+#### Fatores de risco para osteoporose
+* Idade
+* História familiar
+* Raça branca
+* Biotipo magro
+* Sedentarismo
+* Álcool
+* Tabagismo
+* Cafeína
+* Baixa ingesta de cálcio e fósforo
+* Ooforectomia bilateral
+* Menopausa antes dos 45 anos
+* Drogas: heparina, anticonvulsivantes, glicocorticoides, antiácidos com alumínio, hormônios da tireoide, metotrexato, lítio, acetato de medroxiprogesterona.
+* Hiperparatireoidismo
+* Insuficiência renal
+
+
 
 ## Avaliação
 A avaliação clínica e ginecológica da mulher climatérica compreende o diagnóstico das manifestações de hipoestrogenismo, esclarecimento sobre o significado da Síndrome Climatérica, o rastreamento de neoplasias, a identificação de doenças crônicas metabólicas e degenerativas.
@@ -200,6 +328,17 @@ Uma anamnese criteriosa deve ser feita, dando atenção especial a fatores de **
     * DP até -1: **Densidade normal**
   * Além disso, pode ser considerada uma ferramenta prognóstica, em relação ao risco de fraturas
     * Cada desvio padrão abaixo da média do adulto jovem, representa cerca de 2x mais risco de fraturas
+  * T score: compara com adultos jovens
+  * Z score: compara individuos de mesma idade
+  * Indicações para fazer a densitometria
+    * Pacientes do sexo feminino com idade > 65 anos.
+    * Mulheres na transição menopausal com risco aumentado de fraturas, como baixo peso ou, fratura anterior com mínimo trauma.
+    * Adultos com história de fratura após os 50 anos de idade.
+    * Adultos com alguma condição clínica associada à osteoporose ou em uso de medicação associada a perda de massa óssea (glicocorticoide ≥ 5 mg/dia por ≥ 3 meses).
+    * Mulheres em terapia estrogênica que se deseje interromper o tratamento.
+    * Avaliação da resposta terapêutica.
+    * Mulheres na perimenopausa que estejam cogitando usar terapia hormonal, para auxiliar esta decisão.
+* Pesquisa de **sangue oculto nas fezes** (a partir dos 50 anos de idade)
 
 ## Terapêutica
 ### Hábitos nutricionais
@@ -225,19 +364,36 @@ Uma anamnese criteriosa deve ser feita, dando atenção especial a fatores de **
 * Exercícios de alongamento são utilizados na preparação muscular prévia à atividade física e também para aumentar a mobilidade articular e as dores miofaciais.
 * Finalmente, os exercícios atuam na melhora do estado psicológico, por aumentar nerotransmissores como os opiáceos endógenos, que levam a sensação de bem estar, melhora da auto-estima, diminuição da ansiedade, da tensão e depressão.
 
-### Terapia de reposição hormonal
+## Terapia de reposição hormonal
 Os ovários na pós menopausa apresentam produção mínima de estrogênios, sendo que a ooforectomia realizada neste período näo se acompanha de decréscimo adicional dos níveis circulantes ou excretados de estrogênios.
 
 Os níveis circulantes de estrogênios observados nessa época säo, em geral, baixos, mantidos principalmente às custas de  estrona, derivada da aromatizaçäo periférica de precursores androgênicos adrenais, particularmente a androstenediona.
 
 O objetivo é tratar os sintomas do hipoestrogenismo da menopausa, que acarreta em todas as alterações mencionadas no início do artigo.
 
-* Contra-indicações:
+* **Contra-indicações**
   * Antecedentes pessoais de câncer de mama
+  * Antecedentes de câncer de endométrio
   * Insuficiência hepática ou renal graves
   * Tromboembolismo relacionado ao tratamento hormonal
+  * Tumores hormônio-dependentes
+  * Trombofilias
+  * Sangramento vaginal de origem indeterminada
+  * Infarto agudo do miocárdio
 * Empregam-se os estrogênios, progestagênios e, eventualmente, androgênios.
 * A TH deve sempre ser individualizada, não sendo possível a padronização do tipo de tratamento utilizado.
+* Riscos
+  * CA de mama (TRH > 5 anos)
+  * Aumento do risco de hiperplasia e câncer de endométrio (nas mulheres submetidas a TRE isoladamente)
+  * Doença tromboembólica
+  * Doença biliar
+  * Aumento do risco de AVE, DCV e tromboembolismo (tem certeza que aumenta?)
+  * Aumento do risco de hiperplasia e câncer de endométrio (nas mulheres submetidas
+a TR com estrógenos isoladamente).
+* Benefícios
+  * Diminuição do risco de câncer de cólon e reto.
+
+![img](/assets/ginecologia/climaterio/ci.jpeg)
 
 
 
@@ -252,7 +408,7 @@ O objetivo é tratar os sintomas do hipoestrogenismo da menopausa, que acarreta 
 
 * Quando presente a sintomatologia vasomotora no período perimenopáusico, a utilização de estrogênios em associação a progestagênios de forma cíclica parece ser o mais adequado, tendo esse esquema a denominação de “combinado seqüencial”.
 
-#### Estrogênios utilizados
+### Estrogênios utilizados
 * Objetivo: atingit níveis estrogênicos plasmáticos semelhantes aos observados na fase folicular inicial de mulheres no menacme.
 * Podem ser administrados pelas vias oral (primera passagem hepática), nasal, vaginal, transdérmica – adesivos ou gel, e implantes subcutâneos.
 
@@ -267,14 +423,14 @@ O objetivo é tratar os sintomas do hipoestrogenismo da menopausa, que acarreta 
 
   ....
 
-#### Progestagênios utilizados
+### Progestagênios utilizados
 A adiçäo destes hormonios, em terapêutica de reposiçäo estrogênica fundamenta-se na prevenção dos estados hiperplásicos endometriais. Dessa forma, são indicados em mulheres com útero intacto.
 
 > Prescritos em pacientes histerectomizadas apenas em situações especiais, como nos antecedentes de endometriose e de câncer do endométrio em estágio I após tratamento.
 
 ...
 
-#### Androgênios
+### Androgênios
 Incluem-se, nesse grupo, a tibolona, os androgênios por via oral e as associações estro-androgênicas de uso intramuscular.
 
 Os androgênios são úteis em TH em situações onde se
@@ -320,7 +476,7 @@ Decanoato de nandrolona
    </tr>
  </table>
 
-#### Regimes terapêuticos
+### Regimes terapêuticos
 Estrogenios utilizados, independentemente da natureza e da via de administraçao, devem atingir concentrações plasmaticas de estradiol que possibilitem a melhora dos sintomas e a prevenção óssea.
 
 Os progestagênios, por sua vez, devem ser utilizados nas doses mínimas necessarias a proteção endometrial.
@@ -340,7 +496,7 @@ Os progestagênios, por sua vez, devem ser utilizados nas doses mínimas necessa
 
 Em quaisquer dos regimes empregados, a adição de androgênios pode ser efetuada, a depender da situação clínica observada. Cabe assinalar que o uso de androgênios não determina proteção endometrial, não dispensando a administração de progestagênios em pacientes com útero presente.
 
-#### Terapia de baixa dose
+### Terapia de baixa dose
 * Em geral a dose é reduzida em 50%
 * Os estudos com TH de baixa dose demonstram efetividade no controle sintomatológico, na atrofia urogenital, na preservação da massa óssea e sobre parâmetros do perfil lipídico.
 
