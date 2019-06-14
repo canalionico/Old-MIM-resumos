@@ -66,19 +66,19 @@ Lesões mesenquimais benignas do rim, incluindo leiomiomas, fibromas, lipomas e 
   - Devem ser tratados como se fossem CCR
     - Nefrectomia parcial para lesões < 4cm
     - radical para > 4cm
-  - TC com necrose central que se estende para a periferia com roda de carroça é um achado característico
-  - Biópsia pode ser indicada
+  - **TC** com necrose central que se estende para a periferia com **roda de carroça** é um achado característico
+  - **Biópsia**: se a biópsia intracirúrgica confirmar o oncocitoma, pode ser feita a nefrectomia parcial mesmo em massa > 4 cm. 
 - __Angiolipoma__
   - 3% das lesões sólidas renais
   - Quantidade variada de tecido adiposo, músculo liso e vasos de parede espessada
-  -  presença de pequena quantidade
-de gordura dentro de uma lesão renal na TC (praticamente exclui CCR e confirma o
+  -  presença de **pequena quantidade de gordura dentro de uma lesão renal** na TC (praticamente exclui CCR e confirma o
 diagnóstico de angiomiolipoma)
   - ↑em mulheres (2:1)
   - Raramente ocorre antes da puberdade
   - 50% dos pacientes com esclerose tuberosa desenvolvem angiomiolipoma em geral bilateral e multicêntrico
   - TTO: acompanhamento clínico e radiológico.
-    - Se < 4cm, rápido crescimento ou tendencia ao sangramento, nefrectomia parcial ou enucleação (se possível)
+    - Se > 4cm, rápido crescimento ou tendencia ao sangramento, nefrectomia parcial ou enucleação (se possível)
+	- A enucleação deve ser considerada pricipalmente nos casos de lesões múltiplas, bilaterais geralmente associada a esclerose tuberosa.
 - __Nefroma cístico multilocular__
   - Ocorre mais nos 2-3 e 40-50 anos de vida (incidência bimodal)
   - na infância é ↑H e na vida adulta ↑M
@@ -89,7 +89,7 @@ diagnóstico de angiomiolipoma)
 ## Lesões malignas
 Os tumores renais correspondem a 2-3% de todas as neoplasias malignas do adulto. O adenocarcinoma renal incide em cerca de 80-90% das massas renais malignas.
 
-Na criança, o tumor de Wilms é a neoplasia abdominal mais frequente, 95%dos turmores renais.
+Na criança, o tumor de Wilms é a neoplasia abdominal mais frequente, 95% dos tumores renais.
 
 ### Carcinoma de células renais
 - Epidemiologia
@@ -106,23 +106,23 @@ Na criança, o tumor de Wilms é a neoplasia abdominal mais frequente, 95%dos tu
   - Doença cística
 - Prognóstico
   - Varia com o subtipo histológico
-  - De melhor para pior: Cromófobos, cromofílicos, células claras, ductos coletores e qualquer subtipo com diferenciação sarcomatóide
+  - De melhor para pior: cromófobos, cromofílicos, células claras, ductos coletores e qualquer subtipo com diferenciação sarcomatóide
 - Imagens
   - Na TC todos apresentam algum grau de realce pelo meio de contraste (diferenciando dos cistos simples)
     - Focos de necrose, calcificação e hemorragia podem ser vistos (principalmente nos maiores)
   - Cintilografia óssea para avaliar metástases
 
 #### Estadiamento
+
 - TX: Tumor primário não
 disponível ou classificado
 - T0: Sem evidencia de Tumor
 primário
 - T1a: Tumor limitado ao rim,
-<4cm de diâmetro
+<4 cm de diâmetro
 - T1b: Tumor limitado ao rim
-entre 4 e 7cm de diâmetro
-- T2: Tumor limitado ao rim,
-maior que 7cm
+entre 4 e 7 cm de diâmetro
+- T2: Tumor limitado ao rim, maior que 7 cm
 - T3a: Tumor invade a gordura
 perirrenal e/ou adrenal
 - T3b: Tumor invade a v.renal
@@ -144,6 +144,7 @@ pode ser classificado
 presente
 
 Agrupado em estágios:
+
 - Estágio I – T1 N0 M0
 - Estágio II – T2 N0 M0
 - Estágio III – T3 ou N1 M0
@@ -153,7 +154,7 @@ Agrupado em estágios:
 - Cirúrgico
   - Nefrectomia radical (via aberta ou laparoscópica): retirada do rim, fáscia de Gerota e linfonodos circundantes e da glândula suprarrenal (no tumor de polo superior)
   - Nefrectomia parcial quando há:
-    - Lesões polares < 4cm
+    - Lesões polares < 4 cm
     - Casos de rim único
     - Tumores bilaterais
     - Rim contralateral ameaçado por outras doenças
@@ -164,9 +165,9 @@ Não existe indicação de tratamento adjuvante ou neoadjuvante para pacientes c
 ### USG
 Muito utilizado e, por vezes, o primeiro a revelar a massa de forma incidental.
 
-- Diagnostica apenas 26% das massas < 1cm
-- 83% massas > 3cm
-- O principal papel da US consiste em detectar lesões parenquimatosas
+- Diagnostica apenas 26% das massas < 1 cm
+- 83% massas > 3 cm
+- O principal papel da USG consiste em detectar lesões parenquimatosas
 focais e classificá-las em 3 categorias:
   - definitivamente um cisto simples
   - definitivamente um nódulo sólido
@@ -185,13 +186,13 @@ focais e classificá-las em 3 categorias:
 espessamento ou realce de parede e com densidade semelhante a da água. Não há risco
 de malignidade.
   - Tipo II: Cisto benigno com septos finos. Calcificações ou não na parede ou nos septos. Alta atenuação. Inferiores a 3 cm com margens irregulares não captantes.
-  - Tipo IIF: Cisto com septos finos, captação mínima de contraste nos septos e/ou paredes que podem ter espessamento mínimo. Pode conter calcificações nodulares e espessas sem captação de contraste. Não possuem captação em tecidos moles. Lesões intra-renais >3cm são também incluídas nesta categoria desde que sejam não captantes e bem delimitadas. Pode haver até 15% de chance de malignidade.
+  - Tipo IIF: Cisto com septos finos, captação mínima de contraste nos septos e/ou paredes que podem ter espessamento mínimo. Pode conter calcificações nodulares e espessas sem captação de contraste. Não possuem captação em tecidos moles. Lesões intra-renais > 3 cm são também incluídas nesta categoria desde que sejam não captantes e bem delimitadas. Pode haver até 15% de chance de malignidade.
   - Tipo III: Lesões císticas indeterminadas pode demonstrar septos mais espessos, calcificações maiores e discreta impregnação periférica pelo contraste. O risco de malignidade é significativo, chegando a 25-50%.
   - Tipo IV: Lesões com espessamento de parede não uniforme ou hiperdenso, nódulos grandes ou densos na parede ou componentes claramente sólidos nas lesões císticas e apresentam captação de contraste. Há 95% de chance de malignidade.
 
-Pacientes com Bosniak I e II podem ser acompanhados clinicamente com USG, sem necessidade de cirugia. Já o IIF, deve ser acompanhado com TC com 6 meses, 1 e 2 anos.
+Pacientes com Bosniak I e II podem ser acompanhados clinicamente com USG, sem necessidade de cirurgia. Já o IIF, deve ser acompanhado com TC com 6 meses, 1 e 2 anos.
 
-Os tipos III ou IV devem ser abordados cirurgicamenrte. Devido ao alto risco.
+Os tipos III ou IV devem ser abordados cirurgicamente. Devido ao alto risco.
 
 ### RM
 - Indicada quando há perda de função renal ou quando o contraste não pode ser usado
