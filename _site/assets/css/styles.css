@@ -229,7 +229,7 @@ h2, h3, h4, h5, h6 {
 
 p, a, li, figcaption {
   font: 100%/1.45 'Helvetica Neue','Segoe UI','Helvetica','Arial',sans-serif;
-  font-size: 1.3rem;
+  font-size: 16px;
   text-align: left;
   hyphens: none;
   -webkit-font-smoothing: antialiased;
@@ -241,7 +241,8 @@ p, a, li, figcaption {
   text-align: left; }
 
 a {
-  color: #2a7ae2; }
+  color: #2a7ae2;
+  word-break: break-word; }
 
 table {
   font: 100%/1.45 'Helvetica Neue','Segoe UI','Helvetica','Arial',sans-serif;
@@ -438,4 +439,7 @@ figure {
     width: calc(25% - (30px / 2)); }
 
   .footer-col3 {
-    width: calc(35% - (30px / 2)); } }
+    width: calc(35% - (30px / 2)); }
+
+  p, a, li, figcaption {
+    font-size: 20px; } }

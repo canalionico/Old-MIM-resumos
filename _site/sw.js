@@ -29,71 +29,77 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/urologia/dinfuncao-sexual-masculina',
+      
         '/pediatriạ',
       
-        '/climaterio',
+        '/ginecologia/climaterio',
       
-        '/infeccao-puerperal',
+        '/obstetricia/infeccao-puerperal',
       
-        '/tumores-de-ovario',
+        '/ginecologia/tumores-de-ovario',
       
-        '/oncomastologia',
+        '/mastologia/oncomastologia',
       
-        '/doenca-renal-policistica',
+        '/nefrologia/doenca-renal-policistica',
       
-        '/obstrucao-intestinal',
+        '/neonatologia/obstrucao-intestinal',
       
         '/tocoliticos',
       
-        '/infeccoes-congenitas',
+        '/neonatologia/infeccoes-congenitas',
       
-        '/hemograma',
+        '/refs-rapidas/hemograma',
       
-        '/parto-prematuro',
+        '/obstetricia/parto-prematuro',
       
-        '/sangramento-uterino-disfuncional',
+        '/ginecologia/sangramento-uterino-disfuncional',
       
-        '/vitalidade-fetal',
+        '/neonatologia/vitalidade-fetal',
       
-        '/tumores-de-testiculo',
+        '/urologia/tumores-de-testiculo',
       
-        '/alteracoes-escrotais',
+        '/urologia/alteracoes-escrotais',
       
-        '/exame-lcr',
+        '/infectologia/exame-lcr',
       
-        '/neurotoxoplasmose',
+        '/infectologia/neurotoxoplasmose',
       
-        '/dengue',
+        '/infectologia/dengue',
       
-        '/vomitos-no-rn',
+        '/neonatologia/vomitos-no-rn',
       
-        '/anovulacao-cronica',
+        '/ginecologia/sindrome-dos-ovarios-policisticos',
       
-        '/rpmo',
+        '/obstetricia/rpmo',
       
-        '/guia-do-plantonista',
+        '/obstetricia/guia-do-plantonista',
       
-        '/vias-arereas-e-iot',
+        '/obstetricia/vias-arereas-e-iot',
       
         '/dispneia-de-causa-cirurgica',
       
-        '/nefropatia-diabetica',
+        '/nefrologia/nefropatia-diabetica',
       
-        '/pp',
+        '/obstetricia/pp',
       
-        '/dpp',
+        '/obstetricia/dpp',
       
-        '/sangramento-segundo-trimestre',
+        '/obstetricia/sangramento-segundo-trimestre',
       
         '/disturbios-repiratorios',
       
-        '/amenorreia',
+        '/ginecologia/amenorreia',
       
-        '/tumores-de-bexiga',
+        '/urologia/tumores-de-bexiga',
       
         '/obstetricia/hipertensao-na-gravidez.html',
       
-        '/planejamento-familiar',
+        '/ginecologia/planejamento-familiar',
+      
+        '/ginecologia/planejamento-familiar-2.md',
+      
+        '/ginecologia/planejamento-familiar-2',
       
         '/mastologia/tumores-malignos-da-mama',
       
@@ -221,6 +227,8 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/planejamento-familiar/pearl.jpeg'
       
         '/assets/ginecologia/planejamento-familiar/tab.jpeg'
+      
+        '/assets/ginecologia/sop/fisio.jpeg'
       
         '/assets/ginecologia/sua/img.jpeg'
       

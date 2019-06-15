@@ -49,7 +49,7 @@ defaults:
     values:
       layout: "post"
       author: "Filipe Mosca"
-      permalink: /:title
+      permalink: /:categories/:title
 #defaults para todo o resto
   - scope:
       path: ""
