@@ -74,50 +74,23 @@ superior a 40 anos.
 trachomatis: pelo mesmo motivo da citologia oncótica.
 
 ## Classificação
-### Fator ovulatório
-A presença de **ciclos menstruais regulares** de modo geral caracteriza a existência de ciclos **ovulatórios**, e a menos que todos os outros fatores investigados estejam normais **não há justificativa para realização de perfil hormonal** nestas situações.
-
-Mas se os ciclos não podem ser caracterizados como regulares ou se volume de sangramento está anormal, a investigação das diferentes causas de anovulação deverá ser realizada.
-
-Com base nas causas mais freqüentes de anovulação deverão ser solicitados:
-
-* **FSH e PRL:** principalmente para descartar hiperprolactinemia e redução da reserva ovariana.
-  * Em caso de suspeita de SOP a dosagem de LH pode auxiliar no diagnóstico, identificando uma relação LH/FSH > 2.
-* DHEA-S e 17-hidroxi-progesterona: nos casos de anovulação com sinais de hiperandrogenismo, ambas com finalidade de avaliação do padrão de secreção hormonal adrenal.
-* Insulina e glicemia de jejum: para as pacientes com diagnóstico de SOP, uma vez que uma das principais causas desta patologia é a resistência insulínica e que na maioria das vezes o simples controle deste distúrbio metabólico pode restabelecer ciclos ovulatórios.
-* TSH: principalmente nos casos de hiperprolactinemia é necessário descartar se a etiologia não é um hipotireoidismo, ou na presença de quadro clínico sugestivo de tireoidopatia.
-* Teste de avaliação de reserva ovariana ou teste do clomifeno: nos casos em que a paciente apresenta mais de 35 anos é válida a avaliação da reserva ovariana, tanto para auxiliar na indicação terapêutica mais adequada quanto para programar as doses de gonadotrofinas nos casos de se optar por reprodução assistida.
-  * O teste do citrato de Clomifeno (CC) é realizado através da administração de 3mg/Kg/dia (até 200mg/dia) de CC do 3º ao 7º dias do ciclo, com dosagem de FSH no 3º dia antes de iniciar a medicação e no 8º dia.
-  * A presença de um valor inicial maior que 10mIU/ml (RIE) ou ainda aumento de mais de 50% em relação ao valor pré-medicação, indicam uma má reserva ovariana.
-
-### Fator tubário
-A obstrução tubária pode ser suspeitada já na anamnese da paciente, principalmente se houver história de **DIPA** anterior. Entretanto, até 50% dos casos de obstrução não apresentam história sugestiva de alteração tubária, o que indica que essa avaliação deva ser feita sempre, antes de qualquer procedimento terapêutico.
-
-* **Histerossalpingografia** (HSG): avalia a cavidade uterina (identificação de pólipos, miomas, sinéquias e malformações uterinas) e a permeabilidade tubária.
-  * Deverá ser realizada logo após o período menstrual, pois nesta fase o endométrio ainda está fino o que diminui a chance de exames falso positivos.
-  * E, principalmente, pelo menor risco de realizá-lo na vigência de gestações iniciais ainda não diagnosticadas.
-  * Tem uma sensibilidade de 81,2% e especificidade de 80,4% em relação à histeroscopia, padrão ouro para avaliação da cavidade uterina.
-  * Caso a laparoscopia esteja indicada a avaliação da permeabilidade tubária poderá ser realizada no intra-operatório dispensando a HSG.
-* **Histerossonografia**: (USG associada à injeção de contraste hipoecóide na cavidade uterina, que inclusive pode ser solução fisiológica 0,9%), tem o mesmo objetivo que a HSG, e parece ser tão eficaz quanto na avaliação da cavidade uterina.
-* **Laparoscopia**: associada à injeção de contraste na cavidade uterina e observação da eliminação de contraste pelas trompas.
-  * Normalmente a laparoscopia é realizada em casos em que a investigação da cavidade abdominal se faz necessária, e uma vez indicada fornece dados importantes sobre a função tubária.
-
 ### Fator masculino
+* O primeiro a ser avaliado
 * Anamnese: assim como na avaliação da mulher um interrogatório cuidadoso a respeito dos hábitos de vida e dos antecedentes do parceiro deverá ser realizada na tentativa de identificar fatores desencadeantes ou precipitantes da infertilidade.
 * Exame físico: a avaliação do genital masculino deve fazer parte da propedêutica básica, por isso é aconselhável a existência de uma equipe multidisciplinar para uma melhor assistência.
 * **Espermograma simples**: colhido após 2 a 3 dias de abstinência e não mais que 5 dias; deverão ser colhidas duas amostras com intervalo mínimo de um mês devido à possibilidade de alterações fisiológicas.
-  * Valores normais:
-    * Volume: 2 a 5 mL
-    * pH: 7,2 a 8,3
-    * Vitalidade: maior que 70%
-    * Concentração de espermatozóides: > 20 x 106/mL
-    * Motilidade: mais que 25% de espermatozóides com motilidade tipo A ou mais que 50% de espermatozóides com motilidade tipo A + B
-    * Morfologia: acima de 14% (segundo os critérios estritos de Krüger)
+  * Valores normais (critérios estritos de **Krüger**, **OMS 2010**):
+    * Volume ≥ 2 mL
+    * Concentração ≥ 15 milhões/mL
+    * Nº total de SPTZ > 39 milhões
+    * Motilidade A + B ≥ 25%
+    * Motilidade total > ≥ 40%
+    * Morfologia ≥ 4%
   * Nomeclaturas:
-    * **Oligozoospermia**: concentração de espermatozóides < 20x10 /mL
-    * **Astenozoospermia**: motilidade A < 25% e/ou motilidade A + B <50% (sendo A = progressivos rápidos e  B = progressivos lentos).
-    * **Necrozoospermia**: vitalidade < 70%
-    * **Teratozoospermia**: morfologia < 30% (OMS) ou < 14% (Krüger)
+    * **Oligozoospermia**: concentração de espermatozóides < 20 milhões/mL
+    * **Astenozoospermia**: alterações na motilidade (sendo A = rápidos e direcionais; B = lentos e direcionais ou rápidos e não-direcionais; C = shaking; D = imóveis).
+    * **Necrozoospermia**: vitabilidade < 70%
+    * **Teratozoospermia**: alterações no morfologia
     * **Aspermia**: ausência de ejaculado
     * **Azoospermia**: ausência de espermatozóides no ejaculado
     * **Criptozoospermia**: presença de espermatozóides (alguns) após centrifugação
@@ -128,6 +101,59 @@ A obstrução tubária pode ser suspeitada já na anamnese da paciente, principa
 * Estradiol: nos casos de pacientes com ginecomastia
 * Cariótipo e pesquisa de deleção do AZF: em casos de azoospermia não-obstrutiva, oligozoospermia severa (< 5 milhões de espermatozóides/ml) e agenesia de deferentes a realização do estudo genético deverá ser indicada, uma vez que nestes casos a incidência de cromossopatia pode chegar a 66%.
   * Nos casos de agenesia de deferentes deve-se pesquisar a presença de mutações no gene para fibrose cística (gene CFTR).
+
+### Fator ovulatório
+A presença de **ciclos menstruais regulares** de modo geral caracteriza a existência de ciclos **ovulatórios**, e a menos que todos os outros fatores investigados estejam normais **não há justificativa para realização de perfil hormonal** nestas situações.
+
+Mas se os ciclos não podem ser caracterizados como regulares ou se volume de sangramento está anormal, a investigação das diferentes causas de anovulação deverá ser realizada.
+
+Como avaliar a ovulação?[^med]
+* **Curva térmica basal:** aferir a Tº na manhã, logo após acordar, todos os dias a partir do 1º dia do ciclo.
+  * Aumento na temperatura < 11 dias: insuficiência do corpo lúteo
+  * Aumento na temperatura > 16 dias: gravidez
+  * Não é muito confiável e não mais recomendado
+* **Dosagem da progesterona:** o período ideal para fazer a dosagem é a fase lútea média, entre 21º e 24º dia.
+  * P > 3 ng/mL = houve ovulação
+  * P > 10 ng/mL = função lútea normal
+* **USG-TV seriada:** capaz de documentar a ovulação
+  * Folículo dominante cresce 2 mm/dia
+  * Rompe com 20-25 mm
+  * Quando o folículo atingir 18 mm, programar o coito
+  * O método mais confiável?
+* **Avaliação da reserva ovariana:**
+  * Indicações:
+    * Idade > 35
+    * Infertilidade sem causa aparente
+    * História de menopausa precoce
+    * Cirurgia ovariana prévia
+    * Tabagismo
+  * Solicitar FSH e estradiol basais entre o 2º e 5º dia (pedir no 3º dia)
+    * FSH < 10 pg/mL = mau prognóstico
+    * Estradiol > 60-80 pg/mL = mau prognóstico
+    * FSH > 18 IU/L dá 100% de especificidade na falha da concepção
+
+Com base nas causas mais freqüentes de anovulação deverão ser solicitados:
+
+* **FSH e PRL:** principalmente para descartar hiperprolactinemia e redução da reserva ovariana.
+  * Em caso de suspeita de SOP a dosagem de LH pode auxiliar no diagnóstico, identificando uma relação LH/FSH > 2.
+* DHEA-S e 17-hidroxi-progesterona: nos casos de anovulação com sinais de hiperandrogenismo, ambas com finalidade de avaliação do padrão de secreção hormonal adrenal.
+* **Insulina e glicemia de jejum**: para as pacientes com diagnóstico de SOP, uma vez que uma das principais causas desta patologia é a resistência insulínica e que na maioria das vezes o simples controle deste distúrbio metabólico pode restabelecer ciclos ovulatórios.
+* **TSH**: principalmente nos casos de hiperprolactinemia é necessário descartar se a etiologia não é um hipotireoidismo, ou na presença de quadro clínico sugestivo de tireoidopatia.
+* Teste de avaliação de reserva ovariana ou teste do clomifeno: nos casos em que a paciente apresenta mais de 35 anos é válida a avaliação da reserva ovariana, tanto para auxiliar na indicação terapêutica mais adequada quanto para programar as doses de gonadotrofinas nos casos de se optar por reprodução assistida.
+  * O teste do citrato de Clomifeno (CC) é realizado através da administração de 3mg/Kg/dia (até 200mg/dia) de CC do 3º ao 7º dias do ciclo, com dosagem de FSH no 3º dia antes de iniciar a medicação e no 8º dia.
+  * A presença de um valor inicial maior que 10mIU/ml (RIE) ou ainda aumento de mais de 50% em relação ao valor pré-medicação, indicam uma má reserva ovariana.
+
+### Fator tubário
+A obstrução tubária pode ser suspeitada já na anamnese da paciente, principalmente se houver história de **DIPA** anterior. Entretanto, até 50% dos casos de obstrução não apresentam história sugestiva de alteração tubária, o que indica que essa avaliação deva ser feita sempre, antes de qualquer procedimento terapêutico.
+
+* **Histerossalpingografia** (HSG): avalia a cavidade uterina (identificação de pólipos, miomas, sinéquias e malformações uterinas) e a permeabilidade tubária. Injeta-se constraste no útero e faz-se radiografias.
+  * Deverá ser realizada logo após o período menstrual (2-5 dias após menstruação), pois nesta fase o endométrio ainda está fino o que diminui a chance de exames falso positivos.
+  * E, principalmente, pelo menor risco de realizá-lo na vigência de gestações iniciais ainda não diagnosticadas.
+  * Tem uma sensibilidade de 81,2% e especificidade de 80,4% em relação à histeroscopia, padrão ouro para avaliação da cavidade uterina.
+  * Caso a laparoscopia esteja indicada a avaliação da permeabilidade tubária poderá ser realizada no intra-operatório dispensando a HSG.
+* **Histerossonografia**: (USG associada à injeção de contraste hipoecóide na cavidade uterina, que inclusive pode ser solução fisiológica 0,9%), tem o mesmo objetivo que a HSG, e parece ser tão eficaz quanto na avaliação da cavidade uterina.
+* **Laparoscopia**: associada à injeção de contraste na cavidade uterina e observação da eliminação de contraste pelas trompas.
+  * Normalmente a laparoscopia é realizada em casos em que a investigação da cavidade abdominal se faz necessária, e uma vez indicada fornece dados importantes sobre a função tubária.
 
 ## Complementação diagnóstica
 ### Histeroscopia?
@@ -151,8 +177,7 @@ permeabilidade tubária.
 Pode estar indicado em casos de aborto de repetição ou se houver antecedentes de aberrações cromossômicas numéricas e/ou estruturais de concepções anteriores ou familiares.
 
 ## Conduta
-Alterações tubárias
-obviamente limitam técnicas mais naturais, e mulheres com idade mais avançada não podem ficar muito tempo tentando técnicas menos eficazes.
+Alterações tubárias obviamente limitam técnicas mais naturais, e mulheres com idade mais avançada não podem ficar muito tempo tentando técnicas menos eficazes.
 
 Também é importante realçar que nenhum método deve ser tentado por mais de 3-6 meses, pois a chance cumulativa de gravidez não justifica a repetição exagerada de um mesmo procedimento.
 
@@ -162,8 +187,31 @@ Havendo condições, os procedimentos incluem, em ordem de complexidade progress
 2. Indução de ovulação com coito programado
 3. Inseminação intra-uterina (para casos com permeabilidade tubária, concentração de espermatozóides progressivos > 10 milhões/mL e ausência de alterações significativas de morfologia espermática).
 
-Casos em que houver alterações tubárias, endometriose severa com tratamentos anteriores e/ou espermograma com baixa concentração de espermatozóides progressivos, devem ser submetidos a Fertilização in
-vitro e/ou Inseminação Intra Citoplasmática de Gametas (ICSI).
+Casos em que houver alterações tubárias, endometriose severa com tratamentos anteriores e/ou espermograma com baixa concentração de espermatozóides progressivos, devem ser submetidos a Fertilização in vitro e/ou Inseminação Intra Citoplasmática de Gametas (ICSI).
+
+### Induçãoda ovulação
+* **Citrato de clomifeno** (CC):
+  * Início no 3º, 4º ou 5º dia do ciclo mentrual por 5 dias (50 a 150 mg)
+  * Monitorar com USG?
+  * Se ocorrer a ovulação não precisa aumentar a dose
+  * A maioria das gestações ocorre em 6 ciclos
+  * Problemas:
+    * Efeitos antiestrogênicos
+    * Síndrome da hiperestimulação ovariana (SHO)
+    * Gestação múltipla
+  * Contra-indicações
+    * Cistos ovarianos
+    * Hepatopatias
+    * Tumor hipofisário
+    * Disfunção tireoidiana e adrenal
+* **Gonadotrofinas**: só devem ser usadas se não houve resposta à dose máxima de CC.
+  * 3º dia do ciclo: fazer FSH recombinante 75 UI/dia por 5-6 dias
+  * Obrigatoriamente acompanhar com USG, devido ao maior risco de SHO
+  * HCG recombinante para programar a ovulação? Coito programado
+* **Metformina**
+  * Em pacientes com resistência insulínica (em especial a SOP)
+  * Pode ser associada ao CC
+  * Efeitos gastrointestinais
 
 ## Referências
 [^cisam]: Livro do CISAM

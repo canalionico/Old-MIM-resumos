@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/nefrologia/nefrotoxicidade',
+      
         '/ginecologia/sangramento-uterino-anormal',
       
         '/ginecologia/infertilidade',
