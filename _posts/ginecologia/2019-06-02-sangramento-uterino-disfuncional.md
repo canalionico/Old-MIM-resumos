@@ -1,8 +1,6 @@
 ---
-title: Sangramento uterino disfuncional
-author: Filipe Mosca
+title: MANUTENÇÃO Sangramento uterino disfuncional
 categories: ginecologia
-layout: post
 ---
 
 1. Sumário
@@ -32,10 +30,7 @@ Em mulheres em uso de medicação hormonal, o padrão menstrual pode ser definid
 5. Sangramento prolongado: 1 ou mais episódios com duração ≥ 14 dias.
 6. Normal: Nenhum dos anteriores.
 
-Ou seja, em mulheres em uso de medicação hormonal, é considerado normal quando,
-no intervalo de 90 dias, se observa: 3 a 5 episódios menstruais, de duração inferior a 14 dias
-e intervalo de 14 dias ou mais. Em usuárias de ACO combinados com intervalo, é
-considerado sangramento programado aquele que se inicia no intervalo livre de hormônio e
+Ou seja, em mulheres em uso de medicação hormonal, é considerado normal quando, no intervalo de 90 dias, se observa: 3 a 5 episódios menstruais, de duração inferior a 14 dias e intervalo de 14 dias ou mais. Em usuárias de ACO combinados com intervalo, é considerado sangramento programado aquele que se inicia no intervalo livre de hormônio e
 se prolonga até 4 dias da próxima cartela.
 
 Os sangramentos uterinos
@@ -61,12 +56,9 @@ de imagem ou histopatológico e corresponderiam ao grupo sem anomalia estrutural
 * I-Iatrogenic
 * N-Not yet classified
 
-As doenças do trato genital inferior que
-podem cursar com sangramento devem ser descartadas pelo exame físico e não são
-incluídas na definição de SUA.
+As doenças do trato genital inferior que podem cursar com sangramento devem ser descartadas pelo exame físico e não são incluídas na definição de SUA.
 
-Em geral, o sangramento vermelho rutilante e a presença de coágulos indicam um volume menstrual aumentado. Os coágulos traduzem a superação da capacidade fibrinolítica endometrial e, portanto, fluxo excessivo. De maneira
-mais objetiva, a dosagem da hemoglobina, bem como os níveis séricos de ferro e da
+Em geral, o sangramento vermelho rutilante e a presença de coágulos indicam um volume menstrual aumentado. Os coágulos traduzem a superação da capacidade fibrinolítica endometrial e, portanto, fluxo excessivo. De maneira mais objetiva, a dosagem da hemoglobina, bem como os níveis séricos de ferro e da
 ferritina seriam marcadores confiáveis da perda hemática excessiva. A ferritina sérica
 apresenta boa correlação com a concentração de ferro medular e seria um dos parâmetros
 mais sensíveis a se alterar nas situações com discreto balanço negativo de ferro. Muitas

@@ -29,6 +29,10 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/ginecologia/sangramento-uterino-anormal',
+      
+        '/ginecologia/infertilidade',
+      
         '/urologia/dinfuncao-sexual-masculina',
       
         '/pediatriạ',
@@ -96,8 +100,6 @@ self.addEventListener('install', function (event) {
         '/obstetricia/hipertensao-na-gravidez.html',
       
         '/ginecologia/planejamento-familiar',
-      
-        '/ginecologia/planejamento-familiar-2.md',
       
         '/ginecologia/planejamento-familiar-2',
       
@@ -231,6 +233,8 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/sop/fisio.jpeg'
       
         '/assets/ginecologia/sua/img.jpeg'
+      
+        '/assets/ginecologia/sua/tab.jpeg'
       
         '/assets/imagens/ca-prostata/estadiamento.png'
       
