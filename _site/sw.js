@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/obstetricia/diabetes-na-gestacao',
+      
         '/nefrologia/nefrotoxicidade',
       
         '/ginecologia/sangramento-uterino-anormal',
@@ -434,7 +436,15 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/infeccoes-cong/tto.jpeg'
       
+        '/assets/neonatologia/obst-intest/img.jpeg'
+      
         '/assets/neonatologia/vitalidade-fetal/img.jpeg'
+      
+        '/assets/obstetricia/dm/img.jpeg'
+      
+        '/assets/obstetricia/dm/img2.jpeg'
+      
+        '/assets/obstetricia/dm/white.jpeg'
       
         '/assets/obstetricia/hasg/esquemas.jpeg'
       

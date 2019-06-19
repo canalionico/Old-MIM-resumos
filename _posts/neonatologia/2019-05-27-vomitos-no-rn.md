@@ -1,13 +1,15 @@
 ---
-title: Vômitos no recém nascido
-author: Filipe Mosca
+title: Vômitos de causa cirúrgica
 categories: neonatologia
-layout: post
 ---
 
 1. indice
 {:toc}
 
+
+
+
+<!---
 Até 12h os RNs costumam eliminar mecônio. Até 48h é considerado normal.
 
 ## Fatores desencadeantes
@@ -46,3 +48,4 @@ Por que ocorre?
 Como se classifica?
 * Intrinseca
 * Extrínseca
+-->
