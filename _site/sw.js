@@ -59,8 +59,6 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/parto-prematuro',
       
-        '/ginecologia/sangramento-uterino-disfuncional',
-      
         '/neonatologia/vitalidade-fetal',
       
         '/urologia/tumores-de-testiculo',
@@ -83,7 +81,7 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/vias-arereas-e-iot',
       
-        '/dispneia-de-causa-cirurgica',
+        '/neonatologia/dispneia-de-causa-cirurgica',
       
         '/nefrologia/nefropatia-diabetica',
       
@@ -93,7 +91,7 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/sangramento-segundo-trimestre',
       
-        '/disturbios-repiratorios',
+        '/neonatologia/disturbios-repiratorios',
       
         '/ginecologia/amenorreia',
       
@@ -402,9 +400,39 @@ self.addEventListener('install', function (event) {
       
         '/assets/nefrologia/nd/tto.jpeg'
       
+        '/assets/neonatologia/disp-cir/eso.jpeg'
+      
+        '/assets/neonatologia/disp-cir/img.jpg'
+      
+        '/assets/neonatologia/disp-cir/img2.jpg'
+      
+        '/assets/neonatologia/disp-cir/img3.jpg'
+      
+        '/assets/neonatologia/disp-cir/tipos.jpeg'
+      
         '/assets/neonatologia/disturbios-metabolicos/flux1.jpeg'
       
         '/assets/neonatologia/disturbios-metabolicos/tab.png'
+      
+        '/assets/neonatologia/dr/bol.jpeg'
+      
+        '/assets/neonatologia/dr/fat.jpeg'
+      
+        '/assets/neonatologia/dr/fisio.jpeg'
+      
+        '/assets/neonatologia/dr/sam.jpeg'
+      
+        '/assets/neonatologia/infeccoes-cong/img.jpeg'
+      
+        '/assets/neonatologia/infeccoes-cong/img2.jpeg'
+      
+        '/assets/neonatologia/infeccoes-cong/tab1.jpeg'
+      
+        '/assets/neonatologia/infeccoes-cong/tab2.jpeg'
+      
+        '/assets/neonatologia/infeccoes-cong/tab3.jpeg'
+      
+        '/assets/neonatologia/infeccoes-cong/tto.jpeg'
       
         '/assets/neonatologia/vitalidade-fetal/img.jpeg'
       
