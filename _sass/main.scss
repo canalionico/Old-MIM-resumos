@@ -205,6 +205,12 @@ p, a, li, figcaption {
   line-height: 1.6;
   color: #404040;
 }
+::selection {
+  background: yellow; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: yellow; /* Gecko Browsers */
+}
 .footnotes p {
   text-align: left;
 }
