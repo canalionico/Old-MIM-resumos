@@ -1,3 +1,4 @@
+/* Padding order: top right bottom left */
 .wrapper {
   max-width: 1000px;
   margin-right: auto;
@@ -12,7 +13,6 @@
   padding-right: 20px;
   padding-left: 20px;
 }
-
 body {
   margin: 0 0 0 0;
 }
@@ -31,7 +31,7 @@ header {
 }
 
 /* Barra de navegaçao */
-nav {
+.nav-site {
   line-height: 35px;
   padding-top: 20px;
   margin: 0 auto;
@@ -41,8 +41,27 @@ nav {
     text-decoration: none;
     font-size: 16px;
     background-color: #727272;
-    padding: 4px 6px 4px 6px;
+    padding: 4px 6px 2px 6px;
     border-radius: 0.5rem;
+    color: white;
+    display: inline-block;
+    margin-bottom: 0;
+  }
+  a:hover {
+    background-color: #008000;
+  }
+}
+.nav-posts {
+  padding-top: 0px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+  a {
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #727272;
+    padding: 4px 6px 2px 6px;
+    border-radius: 0 0 0.5rem 0.5rem;
     color: white;
     display: inline-block;
     margin-bottom: 0;
@@ -55,6 +74,9 @@ nav {
   background-color: #008000;
 }
 .fa {
+  padding-right: 5px;
+}
+.meu-svg {
   padding-right: 5px;
 }
 #face, #git {
@@ -103,7 +125,7 @@ nav {
 #markdown-toc::before {
     content: "Sumário";
     font-weight: bold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 // Using numbers instead of bullets for listing
 #markdown-toc {
@@ -128,34 +150,11 @@ nav {
     color: blue;
   }
 }
-
-// Nested list Markdown-TOC (teste)
-/*
-ol {
-    counter-reset: item;
-}
-
-ol > li {
-    counter-increment: item;
-}
-
-ol ol > li {
-    display: block;
-}
-
-ol ol > li:before {
-    content: counters(item, ".") ". ";
-    margin-left: -20px;
-}
-*/
-// Acaba aqui
-
 .main {
   display: block;
   width: 100%;
   margin-bottom: 30px;
 }
-
 .featured-image {
   object-fit: cover;
   max-width: 320px;
@@ -164,7 +163,6 @@ ol ol > li:before {
   margin: 5px auto 5px;
   border-radius: 1rem;
 }
-
 .post-info, .post-page-info {
   font-size: 16px;
   color: gray;
@@ -173,56 +171,10 @@ ol ol > li:before {
   max-width: 320px;
   text-align: center;
 }
-
-
-// CSS numberheadings inicio
-/*
-body {
-counter-reset: h2;
-}
-h2 {
-counter-reset: h3;
-}
-h3 {
-counter-reset: h4;
-}
-h4 {
-counter-reset: h5;
-}
-h5 {
-counter-reset: h6;
-}
-article h2:before {
-content: counter(h2,decimal) ". ";
-counter-increment: h2;
-}
-article h3:before {
-content: counter(h2,decimal) "." counter(h3,decimal) ". ";
-counter-increment: h3;
-}
-article h4:before {
-content: counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) ". ";
-counter-increment: h4;
-}
-article h5:before {
-content: counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) "." counter(h5,decimal) ". ";
-counter-increment: h5;
-}
-article h6:before {
-content: counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) "." counter(h5,decimal) "." counter(h6,decimal) ". ";
-counter-increment : h6;
-}
-h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.nocount:before {
-content: "";
-counter-increment : none;
-}
-*/
-//fim
-
 h1 {
   font-size: 40px;
   text-align: center;
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   letter-spacing: 0.025em;
   text-rendering: optimizeLegibility;
@@ -243,8 +195,7 @@ h5 {
 }
 
 h2, h3, h4, h5, h6 {
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
-  font-weight: 400;
+  font-family: 'Roboto', sans-serif;  font-weight: 400;
   text-align: left;
   font-weight: 500;
   letter-spacing: 0.025em;
@@ -252,7 +203,7 @@ h2, h3, h4, h5, h6 {
 }
 
 p, a, li, figcaption {
-  font: 100%/1.45 'Helvetica Neue','Segoe UI','Helvetica','Arial',sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   text-align: left;
   hyphens: none;

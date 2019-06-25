@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+{% include nav-posts.html %}
+
+<div class="wrapper">
+  <div class="main">
+
 <h1>{{ page.title }}</h1>
 <p class="post-page-info">{{ page.date | date_to_string }} - {{ page.author }}</p>
 
@@ -29,3 +34,6 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+</div>
+</div>

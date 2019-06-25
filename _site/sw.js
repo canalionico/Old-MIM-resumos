@@ -29,6 +29,8 @@ self.addEventListener('install', function (event) {
         '/feed.xml',
       
       
+        '/mastologia/tumores-especiais',
+      
         '/obstetricia/diabetes-na-gestacao',
       
         '/nefrologia/nefrotoxicidade',

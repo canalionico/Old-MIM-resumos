@@ -1,4 +1,5 @@
 @charset "UTF-8";
+/* Padding order: top right bottom left */
 .wrapper {
   max-width: 1000px;
   margin-right: auto;
@@ -28,28 +29,48 @@ header {
   border-top: 5px solid #008000; }
 
 /* Barra de navegaçao */
-nav {
+.nav-site {
   line-height: 35px;
   padding-top: 20px;
   margin: 0 auto;
   text-align: center;
   width: 100%; }
-  nav a {
+  .nav-site a {
     text-decoration: none;
     font-size: 16px;
     background-color: #727272;
-    padding: 4px 6px 4px 6px;
+    padding: 4px 6px 2px 6px;
     border-radius: 0.5rem;
     color: white;
     display: inline-block;
     margin-bottom: 0; }
-  nav a:hover {
+  .nav-site a:hover {
+    background-color: #008000; }
+
+.nav-posts {
+  padding-top: 0px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%; }
+  .nav-posts a {
+    text-decoration: none;
+    font-size: 16px;
+    background-color: #727272;
+    padding: 4px 6px 2px 6px;
+    border-radius: 0 0 0.5rem 0.5rem;
+    color: white;
+    display: inline-block;
+    margin-bottom: 0; }
+  .nav-posts a:hover {
     background-color: #008000; }
 
 .current {
   background-color: #008000; }
 
 .fa {
+  padding-right: 5px; }
+
+.meu-svg {
   padding-right: 5px; }
 
 #face, #git {
@@ -97,7 +118,7 @@ nav {
 #markdown-toc::before {
   content: "Sumário";
   font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif; }
+  font-family: 'Roboto', sans-serif; }
 
 #markdown-toc {
   padding: 1.5em;
@@ -117,24 +138,6 @@ nav {
   #markdown-toc a:hover {
     color: blue; }
 
-/*
-ol {
-    counter-reset: item;
-}
-
-ol > li {
-    counter-increment: item;
-}
-
-ol ol > li {
-    display: block;
-}
-
-ol ol > li:before {
-    content: counters(item, ".") ". ";
-    margin-left: -20px;
-}
-*/
 .main {
   display: block;
   width: 100%;
@@ -156,51 +159,10 @@ ol ol > li:before {
   max-width: 320px;
   text-align: center; }
 
-/*
-body {
-counter-reset: h2;
-}
-h2 {
-counter-reset: h3;
-}
-h3 {
-counter-reset: h4;
-}
-h4 {
-counter-reset: h5;
-}
-h5 {
-counter-reset: h6;
-}
-article h2:before {
-content: counter(h2,decimal) ". ";
-counter-increment: h2;
-}
-article h3:before {
-content: counter(h2,decimal) "." counter(h3,decimal) ". ";
-counter-increment: h3;
-}
-article h4:before {
-content: counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) ". ";
-counter-increment: h4;
-}
-article h5:before {
-content: counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) "." counter(h5,decimal) ". ";
-counter-increment: h5;
-}
-article h6:before {
-content: counter(h2,decimal) "." counter(h3,decimal) "." counter(h4,decimal) "." counter(h5,decimal) "." counter(h6,decimal) ". ";
-counter-increment : h6;
-}
-h2.nocount:before, h3.nocount:before, h4.nocount:before, h5.nocount:before, h6.nocount:before {
-content: "";
-counter-increment : none;
-}
-*/
 h1 {
   font-size: 40px;
   text-align: center;
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-family: 'Roboto', sans-serif;
   font-weight: 600;
   letter-spacing: 0.025em;
   text-rendering: optimizeLegibility;
@@ -220,7 +182,7 @@ h5 {
   font-size: 18px; }
 
 h2, h3, h4, h5, h6 {
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-family: 'Roboto', sans-serif;
   font-weight: 400;
   text-align: left;
   font-weight: 500;
@@ -228,7 +190,7 @@ h2, h3, h4, h5, h6 {
   text-rendering: optimizeLegibility; }
 
 p, a, li, figcaption {
-  font: 100%/1.45 'Helvetica Neue','Segoe UI','Helvetica','Arial',sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   text-align: left;
   hyphens: none;
