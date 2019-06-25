@@ -26,10 +26,6 @@ body {
   display: block;
 }
 
-header {
-  border-top: 5px solid #008000;
-}
-
 /* Barra de navegaçao */
 .nav-site {
   line-height: 35px;
@@ -103,7 +99,7 @@ header {
 }
 .botao:active {
 	position:relative;
-	top:1px;
+	top: 1px;
 }
 
 //botão ir ao topo teste
@@ -136,11 +132,8 @@ header {
   border-radius: 1rem;
   li a, li { font-size: 15px
   }
-  li:before {
-    content:"- ";
-  }
   li {
-    list-style-type: none;
+    list-style-type: decimal;
       a {
     text-decoration: none;
     color: #686868;
@@ -204,7 +197,7 @@ h2, h3, h4, h5, h6 {
 
 p, a, li, figcaption {
   font-family: 'Roboto', sans-serif;
-  font-size: 16px;
+  font-size: 20px;
   text-align: left;
   hyphens: none;
   -webkit-font-smoothing: antialiased;
@@ -216,7 +209,7 @@ p, a, li, figcaption {
   text-align: left;
 }
 a {
-  color: #2a7ae2;
+  color: blue;
   word-break: break-word;
 }
 table {
@@ -239,7 +232,7 @@ tr:nth-child(even) {
   color: gray;
   a {
     text-decoration: none;
-    color: #2a7ae2;
+    color: blue;
   }
   a:hover {
     color: black;
@@ -254,19 +247,18 @@ tr:nth-child(even) {
   }
   li h2 {
     font-size: 18px;
-    margin: 10px 0 0 0;
+    margin: 5px 0 0 0;
     display: inline-block;
   }
   li h2 a {
     text-decoration: none;
     font-size: 18px;
-    color: #2a7ae2;
+    color: blue;
   }
   li h2 a:hover {
     color: black;
   }
 }
-
 .post-list-li {
   margin: 0 0 0 0;
   padding: 0 0 0 0;
@@ -277,24 +269,38 @@ tr:nth-child(even) {
     line-height: 1.4;
   }
 }
-
-.arquivo-list {
-  ol {
-    padding-left: 10px;
+.disciplinas-list {
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+.disciplinas {
+  list-style: none;
+  margin: 0 auto;
+  padding-left: 0;
+  display: inline-block;
+  li {
+    display: inline-block;
+    margin: 5px 2px 0 0;
   }
-  li h2 {
-    font-size: 16px;
-    margin-top: 0;
-    margin-bottom: 4px;
-  }
-  li h2 a {
+  li a {
     text-decoration: none;
-    color: #2a7ae2;
+    background-color: #727272;
+    border-radius: 0.5rem;
+    padding: 4px 6px 4px 6px;
+    color: white;
   }
-  li h2 a:hover {
-    color: black;
+  li a:hover {
+    background-color: #727272 !important;
   }
 }
+#obstetricia {background-color:purple}
+#ginecologia {background-color:magenta}
+#mastologia {background-color:darkorchid}
+#neonatologia {background-color:blue}
+#urologia {background-color:orange}
+#nefrologia {background-color:goldenrod}
+#infectologia {background-color:mediumblue}
 pre {
   padding: 8px 12px;
   overflow-x: auto;

@@ -18,11 +18,25 @@ self.addEventListener('install', function (event) {
       
         '/404.html',
       
+        '/ginecologia.html',
+      
         '/',
+      
+        '/infectologia.html',
+      
+        '/mastologia.html',
+      
+        '/nefrologia.html',
+      
+        '/neonatologia.html',
+      
+        '/obstetricia.html',
       
         '/assets/css/styles.css',
       
         '/sw.js',
+      
+        '/urologia.html',
       
         '/assets/main.css',
       
