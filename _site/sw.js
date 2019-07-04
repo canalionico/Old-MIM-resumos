@@ -204,6 +204,8 @@ self.addEventListener('install', function (event) {
       
         '/CNAME'
       
+        '/LICENSE.md'
+      
         '/README.md'
       
         '/android-chrome-192x192.png'
@@ -557,6 +559,8 @@ self.addEventListener('install', function (event) {
         '/favicon.ico'
       
         '/favicon.png'
+      
+        '/gpl-3.0.md'
       
         '/manifest.json'
       

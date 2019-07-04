@@ -465,6 +465,19 @@ figure {
  .footer-col3 {
   width:  calc(100% - (30px / 2));
  }
+.license {
+  display: inline-block;
+  width: 100%;
+  p {
+    font-size: 14px;
+    text-align: center;
+    a {
+      text-decoration: none;
+      font-size: 14px;
+      color: #2a7ae2;
+    }
+  }
+}
  .featured-image {
    float: left;
    margin: 5px 15px 5px;
@@ -489,13 +502,13 @@ figure {
     padding-left: 0;
   }
   .footer-col1 {
-    width: calc(40% - (30px / 2));
+    width: calc(40%);
   }
   .footer-col2 {
-    width: calc(25% - (30px / 2));
+    width: calc(25%);
   }
   .footer-col3 {
-    width: calc(35% - (30px / 2));
+    width: calc(35%);
   }
   p, a, li, figcaption {
     font-size: 20px;
