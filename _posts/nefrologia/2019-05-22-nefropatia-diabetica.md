@@ -2,7 +2,6 @@
 title: Nefropatia diabética
 categories: nefrologia
 layout: post
-author: Filipe Mosca
 ---
 
 1. Sumário

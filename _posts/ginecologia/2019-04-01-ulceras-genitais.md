@@ -1,7 +1,5 @@
 ---
 title: Úlceras genitais
-author: Filipe Mosca
-permalink: /:categories/ulceras-genitais.html
 categories: ginecologia
 layout: post
 ---
@@ -26,19 +24,19 @@ A __sífilis primária__ (cancro duro) ocorre após o contato sexual com o indiv
 
 Já a __sífilis secundária__, surgem entre 6 semanas e 6 meses após a infecção. Nesta fase podem ocorrer:
 
-- Eruoções cutâneas em forma de máculas (roséola) e/ou pápulas, principalmente no tronco; 
-- Eritemas palmo-plantares; 
+- Eruoções cutâneas em forma de máculas (roséola) e/ou pápulas, principalmente no tronco;
+- Eritemas palmo-plantares;
 - Placas eritematosas branco-acinzentadas nas mucosas;
 - Lesões pápulo-hipertróficas nas mucosas ou pregas cutâneas (condiloma plano ou condiloma lata);
 - Alopécia em clareira
 - Madarose
 
-Esta sintomatologia também desaparece com poucas semanas. Raramente pode ocorrer comprometimendo do figado, meningite e até uveíte. 
+Esta sintomatologia também desaparece com poucas semanas. Raramente pode ocorrer comprometimendo do figado, meningite e até uveíte.
 
 Exame em campo escuro permite a pesquisa do T. pallidum e pode ser realizado tanto com amostras obtidas nas lesões primárias, como nas lesões secundárias da sífilis, em adultos ou em crianças. A amostra utilizada é o exsudato seroso das lesões ativas, livre de eritrócitos, outros organismos e restos de tecido.
 
 ## Herpes genital
-O HSV é um vírus de DNA que possuem dois tipos. O tipo 1 provoca lesões predominantemente orais e o tipo 2 lesões genitais. Nem todas pessoas infectadas pelo HSV vão apresentar sintomas da herpes (13-37%). 
+O HSV é um vírus de DNA que possuem dois tipos. O tipo 1 provoca lesões predominantemente orais e o tipo 2 lesões genitais. Nem todas pessoas infectadas pelo HSV vão apresentar sintomas da herpes (13-37%).
 
 ### Primoinfecção
 A __primoinfecção__ tem um período de incubação de seis dias. Nesta fase o quadro costuma ser mais severo, com o surgimento de:
@@ -49,22 +47,22 @@ O conteúdo das vesículas geralmente é citrino, raramente turvo. Assim, o quad
 
 - febre
 - mal-estar
-- mialgia 
-- disúria 
+- mialgia
+- disúria
 
 Linfadenomegalia inguinal dolorosa bilateral está presente em 50% dos casos.
 
-Quando há acometimento do colo do útero é comum o corrimento vaginal e, nos homens, pode haver corrimento uretral. 
+Quando há acometimento do colo do útero é comum o corrimento vaginal e, nos homens, pode haver corrimento uretral.
 
 Este quadro de primoinfecção pode durar de 2 a 3 semanas.  
 
 ### Latência
-Após a infecção, o HSV ascende pelos nervos periféricos sensoriais e penetra nos núcleos das células dos gânglios sensitivos, entrando no estado de latência. Esse processo não pode ser evitado por nenhum esquema terapêutico. 
+Após a infecção, o HSV ascende pelos nervos periféricos sensoriais e penetra nos núcleos das células dos gânglios sensitivos, entrando no estado de latência. Esse processo não pode ser evitado por nenhum esquema terapêutico.
 
 ### Reativação
 A reativação pode ser desencadeada por fatores como:
 
-- Quadros infecciosos 
+- Quadros infecciosos
 - Exposição utravioleta
 - Traumatismos locais
 - Menstruação
@@ -72,7 +70,7 @@ A reativação pode ser desencadeada por fatores como:
 - Antibióticoterapia prolongada
 - Imunodeficiência
 
-O quadro clínico das recorrências é menos intenso que o da primoinfecção. Pode ser precedido por sintomas prodrômicos como: queimação, mialgias e "fisgadas" na perna, quadris e região anogenital. 
+O quadro clínico das recorrências é menos intenso que o da primoinfecção. Pode ser precedido por sintomas prodrômicos como: queimação, mialgias e "fisgadas" na perna, quadris e região anogenital.
 
 As lesões podem ser cutâneas e/ou mucosas. Apresentam-se como __vesículas agrupadas sobre base eritematosa__, que evoluem para pequenas __úlceras arredondadas ou policíclicas__. Nas mucosas, não é comum a evidenciação das vesículas, uma vez que seus tetos rompem muito facilmente. Mais raramente, a ocorrência de lesões pode ser acompanhada de sintomas gerais. As lesões têm regressão espontânea em sete a dez dias, com ou sem cicatriz. A tendência natural dos surtos é a de se tornarem menos intensos e menos frequentes com o passar do tempo.
 
@@ -109,7 +107,7 @@ O diagnóstico de LGV deve ser considerado em todos os casos de adenite inguinal
 
 O quadro clínico inicia-se com __ulceração de borda plana ou hipertrófica__, __bem delimitada, com fundo granuloso__, de aspecto vermelho vivo e de __sangramento fácil__. A ulceração evolui lenta e progressivamente, podendo tornar-se vegetante ou úlcero-vegetante. As lesões costumam ser __múltiplas__, sendo frequente a configuração em “espelho”, em bordas cutâneas e/ou mucosas.
 
-Há predileção pelas regiões de dobras e região perianal. Não ocorre adenite, embora raramente possam se formar pseudobubões (granulações subcutâneas) na região inguinal, quase sempre unilaterais. Na mulher, a forma elefantiásica é uma sequela tardia, sendo observada quando há predomínio de fenômenos obstrutivos linfáticos. A localização extragenital é rara e, quase sempre, ocorre a partir de lesões genitais ou perigenitais primárias. 
+Há predileção pelas regiões de dobras e região perianal. Não ocorre adenite, embora raramente possam se formar pseudobubões (granulações subcutâneas) na região inguinal, quase sempre unilaterais. Na mulher, a forma elefantiásica é uma sequela tardia, sendo observada quando há predomínio de fenômenos obstrutivos linfáticos. A localização extragenital é rara e, quase sempre, ocorre a partir de lesões genitais ou perigenitais primárias.
 
 O diagnóstico diferencial de donovanose inclui sífilis, cancroide, tuberculose cutânea, amebíase cutânea, neoplasias ulceradas, leishmaniose tegumentar americana e outras doenças cutâneas ulcerativas e granulomatosas.
 
@@ -131,7 +129,7 @@ __No caso da sífilis:__ na __gestação__, tratamentos __não penicilínicos s�
 - __Nas gestantes:__ os testes treponêmicos devem ser realizados __mensalmente__
 - __Na população geral:__ teste __trimestral__ no primeiro ano e __semestral__ no segundo ano.
 
-A __redução de 2 ou mais títulos__ no teste não treponêmico (como de 1:32 para 1:8), ou a __negativação após 6-9 meses__ do tratamento demonstra a cura da infecção. 
+A __redução de 2 ou mais títulos__ no teste não treponêmico (como de 1:32 para 1:8), ou a __negativação após 6-9 meses__ do tratamento demonstra a cura da infecção.
 
 No caso de sífilis primária e secundária, os títulos devem declinar em torno de __2 diluições em 3 meses__ (1:32 para 1:8) e __3 diluições em 6 meses__ (1:32 para 1:4). Se os títulos se mantiverem baixos e estáveis em duas oportunidades, após 2 anos, pode-se dar alta.  
 

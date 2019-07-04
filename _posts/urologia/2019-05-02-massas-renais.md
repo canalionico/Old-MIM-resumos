@@ -1,9 +1,7 @@
 ---
 title: Massas renais
-author: Filipe Mosca
 layout: post
 categories: urologia
-permalink: /:categories/massas-renais.html
 filename: 2019-05-02-massas-renais.md
 ---
 
@@ -67,7 +65,7 @@ Lesões mesenquimais benignas do rim, incluindo leiomiomas, fibromas, lipomas e 
     - Nefrectomia parcial para lesões < 4cm
     - radical para > 4cm
   - **TC** com necrose central que se estende para a periferia com **roda de carroça** é um achado característico
-  - **Biópsia**: se a biópsia intracirúrgica confirmar o oncocitoma, pode ser feita a nefrectomia parcial mesmo em massa > 4 cm. 
+  - **Biópsia**: se a biópsia intracirúrgica confirmar o oncocitoma, pode ser feita a nefrectomia parcial mesmo em massa > 4 cm.
 - __Angiolipoma__
   - 3% das lesões sólidas renais
   - Quantidade variada de tecido adiposo, músculo liso e vasos de parede espessada

@@ -1,8 +1,6 @@
 ---
 title: Incontinência urinária
-author: Filipe Mosca
 layout: post
-permalink: /:categories/incontinencia-urinaria.html
 categories: ginecologia
 filename: 2019-04-16-incintinencia-urinaria.md
 ---

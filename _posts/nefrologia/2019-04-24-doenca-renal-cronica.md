@@ -1,9 +1,7 @@
 ---
 title: Doença renal crônica
-author: Filipe Mosca
 layout: post
 categories: nefrologia
-permalink: /:categories/doenca-renal-cronica.html
 ---
 
 1. sumário

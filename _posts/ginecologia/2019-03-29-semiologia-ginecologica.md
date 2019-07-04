@@ -1,22 +1,20 @@
 ---
 title: Semiologia ginecológica
-author: Filipe Mosca
 layout: post
-permalink: /ginecologia/semiologia-ginecologica.html
 categories: ginecologia
 ---
 ## Índice
 1. Do not remove this line (it will not be displayed)
 {:toc}
 
-Recomenda-se a primeira consulta com ginecologista entre os 13 e 15 anos. 
+Recomenda-se a primeira consulta com ginecologista entre os 13 e 15 anos.
 
 ## Anamnese
 ### Identificação
 Anotar:
 * nome
 * idade
-* etnia 
+* etnia
 * naturalidade
 * procedência
 * profissão
@@ -95,9 +93,9 @@ Questionar:
 o exame das mamas está descrito no resumos de semiologia mastológica e pode ser acessado [aqui](https://canalionico.com.br/resumos/mastologia/semiologia-mastologica.html).
 
 ### Exame genital
-Neste exame é muito importante avisar à paciente que pode interrompe-lo a qualquer momento. O médico/a deve adotar uma postura que constranja o mínimo a paciente. 
+Neste exame é muito importante avisar à paciente que pode interrompe-lo a qualquer momento. O médico/a deve adotar uma postura que constranja o mínimo a paciente.
 
-Todas as etapas e passos de avaliação devem ser informados antes de realizados. Sempre evitar fazer "toques surpresas" que provocam reações de desagrado na paciente. 
+Todas as etapas e passos de avaliação devem ser informados antes de realizados. Sempre evitar fazer "toques surpresas" que provocam reações de desagrado na paciente.
 
 O ideal é que a paciente esteja em posição de litotomia com os pés apoiados nos estribos e as nádegas sobre os bordos da maca.[^1]
 
@@ -127,7 +125,7 @@ Durante o exame, procurar por:
 - Fissuras
 - Presença de prolabamentos
 
-Pode-se solicitar que a paciente faça "força baixo" e verificar se massas se exteriorizam da vulva. A mesma manobra também pode avaliar a presença de incontinência urinária de esforço. 
+Pode-se solicitar que a paciente faça "força baixo" e verificar se massas se exteriorizam da vulva. A mesma manobra também pode avaliar a presença de incontinência urinária de esforço.
 
 ![posição de litotomia](/resumos/assets/imagens/semiologia-ginecologica/litotomia.jpg)
 
@@ -138,20 +136,20 @@ __Relembrando a anatomia e fisiologia:__ O monte de vênus e as formações labi
 
 
 #### Exame especular
-Para introduzir corretamente o espéculo, é necessário afastar os pequenos lábios, deprimir a fúrcula e inseri-lo lentamente, inclinado na direção do fórnix posterior, até alcançar a cérvice uterina. 
+Para introduzir corretamente o espéculo, é necessário afastar os pequenos lábios, deprimir a fúrcula e inseri-lo lentamente, inclinado na direção do fórnix posterior, até alcançar a cérvice uterina.
 
-Importante rotacionar o especulo para avaliar as paredes vaginais ocultadas pelas lâminas do instrumento. 
+Importante rotacionar o especulo para avaliar as paredes vaginais ocultadas pelas lâminas do instrumento.
 
 Avaliar o conteúdo vaginal:
-- Presença de tumorações, cistos, bridas, fístulas, cicatrizes e alterações anatômicas. 
+- Presença de tumorações, cistos, bridas, fístulas, cicatrizes e alterações anatômicas.
 - Coloração das paredes
 - Colo uterino
 - Qualidade e quantidade de muco
 
-O exame especular também possibilita a colposcopia, coleta de material citopatológico, teste de Schiller, além de procedimentos como a inserção do DIU e biópsias. 
+O exame especular também possibilita a colposcopia, coleta de material citopatológico, teste de Schiller, além de procedimentos como a inserção do DIU e biópsias.
 
 #### Toque vaginal combinado
-Neste método de exame, o dedo indicador e o médio de uma das mãos é introduzido na vagina enquanto a outra mão se posiciona sobre o abdômen inferior. 
+Neste método de exame, o dedo indicador e o médio de uma das mãos é introduzido na vagina enquanto a outra mão se posiciona sobre o abdômen inferior.
 
 Avaliar:
 - Profundidade da vagina
@@ -170,19 +168,19 @@ Avaliar:
 #### Toque retal
 Pode ser usado quando a vagina não está acessível, como em casos de agenesia de vagina e/ou hímen íntegro.
 
-Útil como complementação ao exame de toque vaginal, podendo avaliar infiltrações neoplásicas, por exemplo. 
+Útil como complementação ao exame de toque vaginal, podendo avaliar infiltrações neoplásicas, por exemplo.
 
 ## Exames complementares
 ### Teste de Schiller
-Consiste na aplicação de lugol sobre o colo uterino. Se o epitélio adquirir uma coloração marrom então o teste é negativo. Portanto, o colo normal é iodo-positivo. 
+Consiste na aplicação de lugol sobre o colo uterino. Se o epitélio adquirir uma coloração marrom então o teste é negativo. Portanto, o colo normal é iodo-positivo.
 
-Já quando alguma área não se pigmenta pelo iodo, é um indicativo de que a área está isenta de glicogênio. É se torna necessário prosseguir com mais investigações para atipias do tecido cervical. 
+Já quando alguma área não se pigmenta pelo iodo, é um indicativo de que a área está isenta de glicogênio. É se torna necessário prosseguir com mais investigações para atipias do tecido cervical.
 
 ### Teste de Collins
-Consiste na aplicação de solução de azul de toluidina a 1% sobre a vulva, após 3min descorar com ácido acético a 2%. Áreas que permanecerem coradas de azul são indicativas de infecção pelo vírus HPV e são as áreas indicadas para a coleta da biópsia. 
+Consiste na aplicação de solução de azul de toluidina a 1% sobre a vulva, após 3min descorar com ácido acético a 2%. Áreas que permanecerem coradas de azul são indicativas de infecção pelo vírus HPV e são as áreas indicadas para a coleta da biópsia.
 
 ### Teste de Whiff
-Consiste no gotejamento de hidróxido de potássio a 10% sobre uma lâmina com conteúdo vaginal. O teste é positivo quando há liberação de um odor fétido semelhante a "peixe podre". Este odor se deve à volatilização de aminas, indicado a presença de vaginose bacteriana. 
+Consiste no gotejamento de hidróxido de potássio a 10% sobre uma lâmina com conteúdo vaginal. O teste é positivo quando há liberação de um odor fétido semelhante a "peixe podre". Este odor se deve à volatilização de aminas, indicado a presença de vaginose bacteriana.
 
 ### Colposcopia
 Feita em associação ao especulo, usando o colposcópio. É possível visualizar lesões ou áreas que necessitem de biópsia para estudo histopatológico, como discromias, verrugas e ulcerações.
@@ -194,9 +192,9 @@ Feita em associação ao especulo, usando o colposcópio. É possível visualiza
 - Pacientes com lesões vulvares e/ou cervicais
 
 ### Ultrassonografia
-É um dos principais exames de imagem para avaliar os órgãos pélvicos. Pode ser feito pelas vias abdominal, vaginal e transretal. 
+É um dos principais exames de imagem para avaliar os órgãos pélvicos. Pode ser feito pelas vias abdominal, vaginal e transretal.
 
-É capaz de avaliar o útero, checando sua posição, orientação, textura, camadas e tamanho. 
+É capaz de avaliar o útero, checando sua posição, orientação, textura, camadas e tamanho.
 
 
 ## Referências

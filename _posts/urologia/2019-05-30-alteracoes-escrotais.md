@@ -1,6 +1,5 @@
 ---
 title: Alterações do conteúdo escrotal
-author: Filipe Mosca
 categories: urologia
 layout: post
 ---

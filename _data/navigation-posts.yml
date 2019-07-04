@@ -1,0 +1,6 @@
+- name: Voltar
+  link: /
+  icon: arrow-left
+- name: Canal Iônico
+  link: https://canalionico.com.br
+  icon: home

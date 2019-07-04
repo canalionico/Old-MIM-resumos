@@ -1,9 +1,7 @@
 ---
 title: Câncer de próstata
-author: Filipe Mosca
 layout: post
 categories: urologia
-permalink: /urologia/cancer-de-prostata.html
 ---
 O câncer de próstata (CAP) é a neoplasia mais frequente no homem, correspondendo por quase 1/3 destas. A incidência é maior em negros, seguida pelos brancos, hispânicos, índios e orientais.[^1]
 
@@ -125,5 +123,5 @@ Os efeitos adversos da hormonioterapia são:[^2]
 - náuseas, diarréia, dislipidemia, anemia e osteoporose.
 
 ## Referências
-[^1]: {{ site.data.refs.uro-upe }} 
+[^1]: {{ site.data.refs.uro-upe }}
 [^2]: {{ site.data.refs.uro-smith }}

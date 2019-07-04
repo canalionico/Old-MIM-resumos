@@ -1,8 +1,6 @@
 ---
 title: Hipertensão na gravidez
-author: Filipe Mosca
 layout: post
-permalink: /:categories/hipertensao-na-gravidez.html
 categories: obstetricia
 ---
 

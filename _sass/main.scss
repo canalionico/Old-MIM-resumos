@@ -26,6 +26,7 @@ body {
   display: block;
 }
 
+
 /* Barra de navegaçao */
 .nav-site {
   line-height: 35px;
@@ -102,6 +103,37 @@ body {
 	top: 1px;
 }
 
+// collapsible
+.collapsible {
+  background-color: #777;
+  color: white;
+  cursor: pointer;
+  padding: 4px;
+  width: 100%;
+  border: none;
+  border-radius: 0.5rem;
+  text-align: left;
+  outline: none;
+  font-size: 22px;
+}
+.active, .collapsible:hover {
+  background-color: #555;
+}
+.content {
+  padding: 0 18px;
+  display: none;
+  overflow: hidden;
+  background-color: #f1f1f1;
+}
+// End collapsible
+
+// Doação
+.pag-seguro {
+  margin: 0 auto;
+  max-width: 209px;
+}
+// Acaba doação
+
 //botão ir ao topo teste
 #myBtn {
   position: fixed; /* Fixed/sticky position */
@@ -125,7 +157,9 @@ body {
 }
 // Using numbers instead of bullets for listing
 #markdown-toc {
+  max-width: 300px;
   padding: 1.5em;
+  padding-left: 2rem;
   margin-left: 1.5rem;
   display: inline-block;
   background-color: #ebebeb;
@@ -136,11 +170,11 @@ body {
     list-style-type: decimal;
       a {
     text-decoration: none;
-    color: #686868;
+    color: blue;
     }
   }
   a:hover {
-    color: blue;
+    color: #686868;
   }
 }
 .main {
@@ -163,6 +197,9 @@ body {
   width: 100%;
   max-width: 320px;
   text-align: center;
+  a {
+    font-size: 16px;
+  }
 }
 h1 {
   font-size: 40px;
@@ -197,13 +234,18 @@ h2, h3, h4, h5, h6 {
 
 p, a, li, figcaption {
   font-family: 'Roboto', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   text-align: left;
   hyphens: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   line-height: 1.6;
   color: #404040;
+}
+a {
+  color: blue;
+  word-break: break-word;
+  text-decoration: none;
 }
 ::selection {
   background: yellow; /* WebKit/Blink Browsers */
@@ -214,23 +256,17 @@ p, a, li, figcaption {
 .footnotes p {
   text-align: left;
 }
-a {
-  color: blue;
-  word-break: break-word;
-}
 table {
   font: 100%/1.45 'Helvetica Neue','Segoe UI','Helvetica','Arial',sans-serif;
   font-size: 1.3rem;
   border-collapse: collapse;
   width: 100%;
 }
-
 td, th {
   border: 0px solid #dddddd;
   text-align: left;
   padding: 2px;
 }
-
 tr:nth-child(even) {
   background-color: #dddddd;
 }
@@ -244,7 +280,6 @@ tr:nth-child(even) {
     color: black;
   }
 }
-
 .post-list {
   ul {
     list-style-type: none;
@@ -300,10 +335,10 @@ tr:nth-child(even) {
     background-color: #727272 !important;
   }
 }
-#obstetricia {background-color:purple}
-#ginecologia {background-color:magenta}
-#mastologia {background-color:darkorchid}
-#neonatologia {background-color:blue}
+#obstetricia {background-image: linear-gradient(-90deg, purple, DarkMagenta);}
+#ginecologia {background-image: linear-gradient(-90deg, Magenta, MediumVioletRed);}
+#mastologia {background-image: linear-gradient(-90deg, Darkorchid, Darkviolet);}
+#neonatologia {background-color:green}
 #urologia {background-color:orange}
 #nefrologia {background-color:goldenrod}
 #infectologia {background-color:mediumblue}
@@ -350,13 +385,11 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
-
 figcaption {
   font-size: 15px;
   padding: 5px 5px 1px 5px;
   text-align: center;
 }
-
 figure {
   padding-top: 15px;
   padding-bottom: 30px;
@@ -367,14 +400,12 @@ figure {
   border-top: 1px solid #e8e8e8;
   padding: 30px;
 }
-
 .footer-col ul {
   padding-left: 0;
   li {
   list-style-type: none;
   }
 }
-
 .footer-col1 {
   width: 100%;
   .contato {
@@ -393,7 +424,6 @@ figure {
     }
   }
 }
-
 .footer-col3 {
   width: 60%;
 }
@@ -414,12 +444,10 @@ figure {
     color: black;
   }
 }
-
 #creditos {
   color: gray;
   font-size: 16px;
 }
-
 .svg-icon {
   height: 16px;
   padding-right: 5px;

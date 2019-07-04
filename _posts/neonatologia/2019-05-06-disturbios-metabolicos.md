@@ -1,7 +1,5 @@
 ---
 title: Distúrbios metabólicos
-author: Filipe Mosca
-permalink: /:categories/disturbios-metabolicos.html
 categories: neonatologia
 layout: post
 filename: 2019-05-06-disturbios-metabolicos.md

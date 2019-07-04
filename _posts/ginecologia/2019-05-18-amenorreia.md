@@ -1,6 +1,5 @@
 ---
 title: Amenorréia
-author: Filipe Mosca
 layout: post
 categories: ginecologia
 filename: 2019-05-18-amenorréia

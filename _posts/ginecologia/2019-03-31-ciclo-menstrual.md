@@ -1,7 +1,5 @@
---- 
+---
 title: Ciclo menstrual
-author: Filipe Mosca
-permalink: /:categories/ciclo-menstrual.html
 categories: ginecologia
 layout: post
 ---
@@ -16,15 +14,15 @@ Fase 2: o período de gravidez
 
 ## Anatomia do sistema reprodutor feminino
 
-A reprodução se inicia com o desenvolvimento dos óvulos nos ovários até que, no meio de ciclo, um único óvulo é expelido para o abdomen, indo em direção a uma das duas trompas de Falópio até chegar no útero. 
+A reprodução se inicia com o desenvolvimento dos óvulos nos ovários até que, no meio de ciclo, um único óvulo é expelido para o abdomen, indo em direção a uma das duas trompas de Falópio até chegar no útero.
 
-Na verdade, o óvulo só se forma se houver uma fecundação com um espermatozoide. 
+Na verdade, o óvulo só se forma se houver uma fecundação com um espermatozoide.
 
-O oócito sofre os processos da oogênese. 
+O oócito sofre os processos da oogênese.
 
 __Folículo primordial:__ como é chamado um óvulo, ainda imaturo, circundado por camadas de células da granulosa.
 
-O folículo primordial ainda precisa sofrer mais duas divisões para que atinja a sua maturidade e possa ser fertilizado. 
+O folículo primordial ainda precisa sofrer mais duas divisões para que atinja a sua maturidade e possa ser fertilizado.
 
 > As oogônias no ovário embrionário completam a replicação __mitótica__ e a __primeira fase da meiose__ no quinto mês de desenvolvimento fetal.
 
@@ -39,12 +37,12 @@ Na puberdade, ocorre a primeira divisão meiótica do oócito. Este se divide nu
 São três os hormônios principais:
 
 - __GnRH:__ hormônio liberador de gonadotropina, liberado pelo hipótalamo em padrão pulsatil a cada 1-4h;
-- __FSH__ (hormônio foliculoestimulante) e __LSH__ (hormônio luteinizante). Ambos são secretados com o estímulo do GnRH do hipotálamo. E ambos são da hipófise anterior. 
-- __Estrogênio__ e __Progesterona__, ambos hormônios ovarianos secretados em resposta ao FSH e LH. 
-	- A progesterona exerce um feed-back negativo na liberação de GnRH no hipotálamo e no LH e FSH na hipófise. 
-	- Já o estradiol, quando em altas concentrações (>200pg/mL), exerce u feed-back positivo no FSH e LH, fundamental para ocorrência do pico hormonal no meio do ciclo. 
+- __FSH__ (hormônio foliculoestimulante) e __LSH__ (hormônio luteinizante). Ambos são secretados com o estímulo do GnRH do hipotálamo. E ambos são da hipófise anterior.
+- __Estrogênio__ e __Progesterona__, ambos hormônios ovarianos secretados em resposta ao FSH e LH.
+	- A progesterona exerce um feed-back negativo na liberação de GnRH no hipotálamo e no LH e FSH na hipófise.
+	- Já o estradiol, quando em altas concentrações (>200pg/mL), exerce u feed-back positivo no FSH e LH, fundamental para ocorrência do pico hormonal no meio do ciclo.
 
-Na ausência do FSH e LH os ovários simplesmente ficam inativos. O que acontece na infância. Na puberdade (entre os 9 e 12 anos), a hipófise começa a secretar cada vez mais FSH e LH, dando inicial à vida menstrual nas meninas, com o marco inicial da menarca (entre os 11 e 15 anos). 
+Na ausência do FSH e LH os ovários simplesmente ficam inativos. O que acontece na infância. Na puberdade (entre os 9 e 12 anos), a hipófise começa a secretar cada vez mais FSH e LH, dando inicial à vida menstrual nas meninas, com o marco inicial da menarca (entre os 11 e 15 anos).
 
 ![Nível de hormônios ao longo do ciclo menstrual](/resumos/assets/imagens/ciclo-menstrual/horm.png)
 
@@ -59,25 +57,25 @@ Os ovários podem sintetizar as três categorias de esteróides sexuais:
 	- Esse é um dos passos limitantes da síntese
 2. A partir da pregnelonona surgem duas vias:
 	- Via delta 4: síntese de progesterona. Ocorre na fase periovulatória (por isso a progesterona é o hormônio predominante na fase lútea);
-	- Via delta 5: não envolve a progesterona. É a via preferencial durante a fase folicular; 
+	- Via delta 5: não envolve a progesterona. É a via preferencial durante a fase folicular;
 		- Formação de adrogênios que se difundem para dentro das células da granulosa onde ocorre ação da __enzima aromatase__ que converte-os em __estrogênios__.
 			- Testosterona convertida em estradiol (principal)
 			- Androstenediona convertida em estrona
 
 ## O ciclo
 
-O ciclo menstrual feminino dura em média 28 dias, mas pode ir de 20 a 45 dependendo da mulher. 
+O ciclo menstrual feminino dura em média 28 dias, mas pode ir de 20 a 45 dependendo da mulher.
 
 Com antecedência, o endométrio do útero começa a ser preparado para receber o óvulo fertilizado para a implantação (nidação).
 
 ### Fase folicular
 Corresponde à __fase proliferativa__ do endométrio.
 
-Tudo começa com um folículo primordial composto por um ovócito estacionado na prófase I da meiose, circundado por uma camada única de células da granulosa. 
+Tudo começa com um folículo primordial composto por um ovócito estacionado na prófase I da meiose, circundado por uma camada única de células da granulosa.
 
-Grupos de folículos (coortes) estão em constante desenvolvimento e atresia, até mesmo durante a gestação, num evento que só se encerra após a menopausa. No inicio do ciclo menstrual, o pico de FSH "salva" uma coorte da atresia  e permite que continuem o seu desenvolvimento. 
+Grupos de folículos (coortes) estão em constante desenvolvimento e atresia, até mesmo durante a gestação, num evento que só se encerra após a menopausa. No inicio do ciclo menstrual, o pico de FSH "salva" uma coorte da atresia  e permite que continuem o seu desenvolvimento.
 
-Com o desenvolvimento, o folículo já possui diversas camadas da granulosa, um ovócito aumentado e a teca diferenciada, passando a se chamar __folículo pré-antral__. 
+Com o desenvolvimento, o folículo já possui diversas camadas da granulosa, um ovócito aumentado e a teca diferenciada, passando a se chamar __folículo pré-antral__.
 
 Ações do FSH e estrogênio sobre o folículo "recrutado":
 
@@ -88,14 +86,14 @@ Ações do FSH e estrogênio sobre o folículo "recrutado":
 
 Por volta do 5-7 dia ocorre a seleção do folículo dominante. Os demais folículos sofrem em atresia. Essa etapa ocorre devido à redução dos níveis de FSH, apenas o folículo com o maior número de receptores para o hormônio consegue manter o seu desenvolvimento (acompanhar a explicação olhando o gráfico dos hormônios). (Algumas discussões sobre o papel da _inibina_ nesta etapa)[^2]
 
-E seguida, os níveis de estrogênio começam a aumentar e exercer o _feed-back_ positivo sobre o LH. 
+E seguida, os níveis de estrogênio começam a aumentar e exercer o _feed-back_ positivo sobre o LH.
 
 ![Fase folicular](/resumos/assets/imagens/ciclo-menstrual/fase-folicular.png)
 
 ![Microscopia óptica de um folículo ovariano](/resumos/assets/imagens/ciclo-menstrual/foliculo.png)
 
 ### Ovulação
-Costuma ocorrer em torno de 14 dias após o início menstruação. Nessa fase ocorre um pico de LH, necessário para a ovulação, aumentando de 6 a 10 vezes. 
+Costuma ocorrer em torno de 14 dias após o início menstruação. Nessa fase ocorre um pico de LH, necessário para a ovulação, aumentando de 6 a 10 vezes.
 
 Vários fenômenos concatenados, mediados pelo LH, FSH e progesterona são necessários para uma adequada ovulação:
 
@@ -110,11 +108,11 @@ fértil.
 ### Fase lútea
 Fase __secretora__ do endométrio.
 
-Após a ovulação, o envoltório do folículo (composto de granulosa e teca), passa a captar lipídios e um pigmento amarelado, a luteína, passando a ser chamado de __corpo lúteo__. 
+Após a ovulação, o envoltório do folículo (composto de granulosa e teca), passa a captar lipídios e um pigmento amarelado, a luteína, passando a ser chamado de __corpo lúteo__.
 
 Nessa fase ocorre a mudança da via _Delta 5_ para a via _Delta 4_ da esteroidogênese, permitindo a secreção de progesterona, o hormônio que vai dominar na fase lútea.   
 
-Além disso, o corpo lúteo é capaz de secretar estrogênio, androgênio e inibina que mantêm as gonadotrofinas hipofisárias em níveis baixos durante toda a fase lútea, impedindo o desenvolvimento de novos folículos. 
+Além disso, o corpo lúteo é capaz de secretar estrogênio, androgênio e inibina que mantêm as gonadotrofinas hipofisárias em níveis baixos durante toda a fase lútea, impedindo o desenvolvimento de novos folículos.
 
 Ocorrendo a fecundação, o trofoblasto do ovo em desenvolvimento secreta hormônio
 gonadotrófico coriônico humano (hCG) que mantém o corpo lúteo em funcionamento durante o primeiro trimestre da gravidez. Caso contrário, a luteólise ocorre invariavelmente por mecanismo ainda não esclarecido.
@@ -125,7 +123,7 @@ Ocorrendo a regressão do corpo lúteo, observa-se redução dos níveis circula
 O muco cervical modifica-se marcadamente durante o ciclo menstrual. Os níveis crescentes de estrogênio durante a fase folicular elevam progressivamente a quantidade de muco secretada, bem como aumentam a sua transparência e filância, de tal forma que na fase pré-ovulatória, é possível estirar o muco em fios que medem mais de 7 cm.
 
 No período do pico de secreção estrogênica observa-se ainda, ao exame especular, a abertura
-do orifício externo do colo uterino, indicando a fase mais fértil da mulher. 
+do orifício externo do colo uterino, indicando a fase mais fértil da mulher.
 
 Essas alterações se revertem abruptamente após a ovulação. O muco se torna mais escasso, viscoso, esbranquiçado, perde a sua filância e passa a funcionar como um tampão mucoso cervical.
 

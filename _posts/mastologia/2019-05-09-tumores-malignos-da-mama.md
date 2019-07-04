@@ -1,7 +1,5 @@
 ---
 title: Tumores malignos da mama
-author: Filipe Mosca
-permalink: /:categories/tumores-malignos-da-mama
 categories: mastologia
 layout: post
 filename: 2019-05-09-tumores-malignos-da-mama.md

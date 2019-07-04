@@ -1,7 +1,5 @@
 ---
 title: Câncer de colo uterino
-author: Filipe Mosca
-permalink: /:categories/cancer-de-colo-uterino.html
 categories: ginecologia
 layout: post
 ---

@@ -1,6 +1,5 @@
 ---
 title: Infecção puerperal
-author: Filipe Mosca
 layout: post
 categories: obstetricia
 ---

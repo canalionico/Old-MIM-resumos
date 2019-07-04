@@ -1,6 +1,5 @@
 ---
 title: Parto prematuro
-author: Filipe Mosca
 layout: post
 categories: obstetricia
 ---

@@ -1,6 +1,5 @@
 ---
 title: Descolamento prematuro de placenta
-author: Filipe Mosca
 layout: post
 categories: obstetricia
 filename: 2019-05-21-dpp.md

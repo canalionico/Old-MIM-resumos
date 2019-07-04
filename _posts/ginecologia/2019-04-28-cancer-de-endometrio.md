@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  Câncer de endométrio
-author: Filipe Mosca
-permalink: /:categories/cancer-de-endometrio.html
 categories: ginecologia
 filename: 2019-04-28-cancer-de-endometrio.md
 ---

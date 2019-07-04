@@ -1,6 +1,5 @@
 ---
 title: Tumores de bexiga
-author: Filipe Mosca
 categories: urologia
 layout: post
 ---

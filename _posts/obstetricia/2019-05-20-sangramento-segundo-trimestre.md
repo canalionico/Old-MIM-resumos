@@ -1,6 +1,5 @@
 ---
 title: Sangramentos do segundo trimestre
-author: Filipe Mosca
 layout: post
 categories: obstetricia
 ---

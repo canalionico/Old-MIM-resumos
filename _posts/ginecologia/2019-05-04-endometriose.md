@@ -1,9 +1,7 @@
 ---
 title: Endometriose
-author: Filipe Mosca
 layout: post
 categories: ginecologia
-permalink: /:categories/endometriose.html
 filename: 2019-05-04-endometriose.md
 ---
 

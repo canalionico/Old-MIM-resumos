@@ -1,7 +1,5 @@
 ---
 title: Tocotraumatismo
-author: Filipe Mosca
-permalink: /:categories/tocotraumatismo.html
 layout: post
 categories: neonatologia
 ---

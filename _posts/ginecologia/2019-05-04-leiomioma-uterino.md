@@ -1,9 +1,7 @@
 ---
 title: Leiomioma uterino
-author: Filipe Mosca
 layout: post
 categories: ginecologia
-permalink: /:categories/leiomioma-uterino.html
 filename: 2019-05-04-leiomioma-uterino.md
 ---
 

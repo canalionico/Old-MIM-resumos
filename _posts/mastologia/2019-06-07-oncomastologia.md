@@ -1,6 +1,5 @@
 ---
 title: Oncomastologia
-author: Filipe Mosca
 categories: mastologia
 ---
 
@@ -86,7 +85,7 @@ Receptores EGFR como alvo clínico
   * Anticorpo monoclonal
   * Terapia alvo
   * Age no HER2
-* Bevacizumab: inibe receptor endotelial, impede a neoangiogênese turmor e o tumor entra em hipóxia. 
+* Bevacizumab: inibe receptor endotelial, impede a neoangiogênese turmor e o tumor entra em hipóxia.
 * Lapatinibe
 
 ### Quimioterapia

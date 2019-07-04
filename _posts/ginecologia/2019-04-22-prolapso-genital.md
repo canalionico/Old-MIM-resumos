@@ -1,8 +1,6 @@
 ---
 title: Prolapso genital
-author: Filipe Mosca
 categories: ginecologia
-permalink: /:categories/prolapso-genital.html
 ---
 
 # distopias genitais
@@ -58,8 +56,8 @@ __ver as imagens do Netter__
 - Q
 
 ## Outra classificação
-O ponto de referência é o hímem. 
-A relação entre a vagina e o hímem é usada para classificar os graus. 
+O ponto de referência é o hímem.
+A relação entre a vagina e o hímem é usada para classificar os graus.
 
 - Grau 0: não há prolapso
 - Grau 1: > 1cm acima do hímem
@@ -73,5 +71,4 @@ A relação entre a vagina e o hímem é usada para classificar os graus.
 - Cirúrgico
     - Histerectomia vaginal (técnicade Mayo-Ward)
     - Operação de Le Fort e Colpocleise: apenas para pacientes sem perspectiva de atividade sexual
-    - 
-
+    -

@@ -1,7 +1,5 @@
 ---
 title: Hipertensão arterial na criança
-author: Filipe Mosca
-permalink: :categorieṣ
 categories: pediatria
 layout: post
 ---

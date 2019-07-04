@@ -1,7 +1,5 @@
 ---
 title: Litíase urinária
-author: Filipe Mosca
-permalink: /:categories/litiase-urinaria.html
 categories: urologia
 ---
 

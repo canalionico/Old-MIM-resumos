@@ -1,6 +1,5 @@
 ---
 title: Neurotoxoplasmose
-author: Filipe Mosca
 layout: post
 categories: infectologia
 ---

@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Hemorragia pós-parto
-author: Filipe Mosca
 categories: obstetricia
-permalink: /:categories/hemorragia-pos-parto.html
 filename: 2019-04-29-hemorragia-pos-parto.md
 ---
 

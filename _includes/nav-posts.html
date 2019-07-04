@@ -1,7 +1,7 @@
 <header class="header-posts">
   <div class="wrapper">
     <nav class="nav-posts">
-      {% for item in site.data.navigation %}
+      {% for item in site.data.navigation-posts %}
         <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}><i class="fa fa-{{ item.icon }}"></i>{{ item.name }}</a>
       {% endfor %}
       </nav>

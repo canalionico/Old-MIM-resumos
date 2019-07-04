@@ -1,7 +1,5 @@
 ---
 title: Infecções do trato urinário
-author: Filipe Mosca
-permalink: /:categories/infeccoes-do-trato-urinario.html
 categories: urologia
 layout: post
 ---

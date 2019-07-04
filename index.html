@@ -11,7 +11,99 @@ layout: default
     <p>Este site é destinado a abrigar resumos sobre disciplinas da área de saúde. O site está hospedado no <a class="botao" href="https://github.com/canalionico/resumos"><i class="fab fa-github"></i> GitHub</a> e qualquer um pode sugerir edições ou enviar novos resumos. Em breve farei um tutorial.</p>
     <p>Boa parte dos resumos ainda estão incompletos!</p>
 
-<h3>Categorias</h3>
+  <h3>Categorias</h3>
+  <button id="ginecologia" class="collapsible">Ginecologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ul>
+        {% for post in site.categories.ginecologia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <button id="obstetricia" class="collapsible">Obstetrícia</button>
+  <div class="content">
+    <div class="post-list">
+      <ul>
+        {% for post in site.categories.obstetricia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <button id="mastologia" class="collapsible">Mastologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ul>
+        {% for post in site.categories.mastologia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <button id="neonatologia" class="collapsible">Neonatologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ul>
+        {% for post in site.categories.neonatologia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <button id="urologia" class="collapsible">Urologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ul>
+        {% for post in site.categories.urologia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <button id="nefrologia" class="collapsible">Nefrologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ul>
+        {% for post in site.categories.nefrologia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+  <button id="infectologia" class="collapsible">Infectologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ul>
+        {% for post in site.categories.infectologia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+
+<!-- Deixar salvo aqui pra caso dê merda
     <div class="disciplinas-list">
       <ul class="disciplinas">
         <li><a id="obstetricia" href="/obstetricia">Obstetrícia</a></li>
@@ -24,4 +116,36 @@ layout: default
       </ul>
     </div>
   </div>
+
+-->
+  <h3>Deseja contribuir com o projeto?</h3>
+  <p>Considere fazer uma doação para que o projeto possa continuar! Qualquer valor simbólico já ajuda a manter o site e a determinação em continuar:</p>
+  <div class="pag-seguro">
+    <!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+    <form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+    <!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+    <input type="hidden" name="currency" value="BRL" />
+    <input type="hidden" name="receiverEmail" value="filipemosca@gmail.com" />
+    <input type="hidden" name="iot" value="button" />
+    <input type="image" src="https://stc.pagseguro.uol.com.br/public/img/botoes/doacoes/209x48-doar-assina.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+    </form>
+    <!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
+  </div>
 </div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>

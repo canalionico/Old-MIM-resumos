@@ -1,6 +1,5 @@
 ---
 title: Infecções cogênitas
-author: Filipe Mosca
 categories: neonatologia
 layout: post
 ---

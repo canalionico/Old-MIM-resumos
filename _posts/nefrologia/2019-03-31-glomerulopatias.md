@@ -1,7 +1,5 @@
 ---
 title: Glomerulopatias
-author: Filipe Mosca
-permalink: /:categories/glomerulopatias.html
 categories: nefrologia
 layout: post
 ---
@@ -9,7 +7,7 @@ layout: post
 1. indice
 {:toc}
 
-As glomerulonefrites são classificadas de acordo com a presença ou não de doença sistêmica. Quando aparecem isoladamente, são chamadas de __primárias__ e quando estão associadas a outras doenças sistêmicas são chamadas de __secundárias__. 
+As glomerulonefrites são classificadas de acordo com a presença ou não de doença sistêmica. Quando aparecem isoladamente, são chamadas de __primárias__ e quando estão associadas a outras doenças sistêmicas são chamadas de __secundárias__.
 
 Consequências básicas da agressão glomerular:
 
@@ -21,11 +19,11 @@ Consequências básicas da agressão glomerular:
 O modo em que se dão estas agressões pode originar as seguintes síndromes:
 
 - Síndrome nefrótica
-- Síndrme nefrítica 
+- Síndrme nefrítica
 - Síndrome não-nefrótica
 - Síndrome não-nefrítica
 
-## Síndrome nefrótica 
+## Síndrome nefrótica
 É caracterizada pela __proteinúria de 24h > 3,5g__. E esta proteinúria pode levar ao aparecimento de:
 
 - Hipoalbuminemia
@@ -33,19 +31,19 @@ O modo em que se dão estas agressões pode originar as seguintes síndromes:
 - Edema
 
 ## Síndrome nefrítica
-É o aparecimento súbito de 
+É o aparecimento súbito de
 
 - Edema
 - Hipertensão arterial
 - Hematúria (geralmente macroscópica)
 
 ## Fisiopatologia das glomerulonefrites
-### Proteinúria: 
+### Proteinúria:
 A membrana basal glomerular possui carga elétrica negativa, muitos poros pequenos (discriminantes) e o poucos poros grandes (não-discriminantes). Dessa forma, a membrana é altamente permeável à agua e pequenas moleculas (como uŕeia, creatina, glicose) e praticamente impermeável a moléculas grandes (como imunoglobulinas).
 
-Nas moléculas de tamanho intermediário, a carga elétrica vai ter papel importante na determinação da permeabilidade. A albumina por exemplo, passaria pela membrana pelo seu tamanho, mas isso não acontece devido à repulsão de sua carga negativa com a carga da membrana basal. 
+Nas moléculas de tamanho intermediário, a carga elétrica vai ter papel importante na determinação da permeabilidade. A albumina por exemplo, passaria pela membrana pelo seu tamanho, mas isso não acontece devido à repulsão de sua carga negativa com a carga da membrana basal.
 
-Nas glomerulopatias ocorre perda das cargas negativas e aumento da densidade de poros não discriminantes. Tudo isso acaba levando a maior proteinúria. 
+Nas glomerulopatias ocorre perda das cargas negativas e aumento da densidade de poros não discriminantes. Tudo isso acaba levando a maior proteinúria.
 
 Além disso, a maior parte das glomerulonefrites são mediadas pelo
 sistema imune, quer pela deposição de imunocomplexos circulantes, quer pela reação antígeno-anticorpo in situ. Essas reações ativam o sistema complemento, o que, direta ou indiretamente, leva ao aumento de permeabilidade da membrana basal glomerular, resultando em proteinúria.
@@ -62,7 +60,7 @@ Quando há aumento da pressão hidrostática e queda do coeficiente, ocorre a re
 No decorrer da agressão renal ocorre solução de continuidade na membrana basal através da qual hemácias conseguem passar para o espaço de Bowman por __diapedese__. Durante a diapedese as hemácias sofrem mudanças em sua morfologia, o que explica os achados miscroscópicos  de __hemácias dismórficas__.
 
 ### Retenção de sódio
-Se manifesta clinicamente por __edema__ e __hipertensão arterial__. 
+Se manifesta clinicamente por __edema__ e __hipertensão arterial__.
 
 - Formação do edema:
 	- __Nos pacientes portadores de nefropatia sem hipoalbuminemia:__ ele tem sido imputado à retenção primária de sódio pelo rim lesado, com aumento da volemia, aumento da pressão hidrostática intravascular e extravasamento de líquido para o interstício, com conseqüente aparecimento de edema.
@@ -71,7 +69,7 @@ Se manifesta clinicamente por __edema__ e __hipertensão arterial__.
 ![pressões do sangue](/resumos/assets/imagens/glomerulopatias/p.png)
 
 ### Alterações metabólicas
-O nível de albumina sérica do paciente com síndrome nefrótica é resultado de um balanço onde os fatores mais importantes são: __a intensidade e a duração da perda urinária e a síntese hepática aumentada__. Mas o catabolismo da albumina também contribui para a hipoalbuminemia. E quando a taxa de filtração da albumina cresce a sua reabsorção também aumenta, como a albumina reabsorvida é logo catabolizada, isso contribui para o efeito. 
+O nível de albumina sérica do paciente com síndrome nefrótica é resultado de um balanço onde os fatores mais importantes são: __a intensidade e a duração da perda urinária e a síntese hepática aumentada__. Mas o catabolismo da albumina também contribui para a hipoalbuminemia. E quando a taxa de filtração da albumina cresce a sua reabsorção também aumenta, como a albumina reabsorvida é logo catabolizada, isso contribui para o efeito.
 
 As alterações lipídicas encontradas na __síndrome nefrótica__ relacionam-se diretamente com os níveis de albumina plasmática. A hipoalbuminemia é um estímulo para o aumento da síntese proteica pelo fígado, o que leva à maior síntese de lipoproteínas de baixa densidade e de muito baixa densidade. Como as primeiras são carreadoras de colesterol e as segundas de triglicérides, ocorre hipercolesterolemia e hipertrigliceridemia. Acresce-se a isso o fato de que hipoalbuminemias muito intensas inibem a lipólise.
 
@@ -122,23 +120,23 @@ renal grave.
 - O __tratamento é sintomático__ (como dieta hipossódica e diuréticos de alça), não sendo
 indicada terapêutica profilática posteriormente
 
-A maior parte dos pacientes apresenta remissão dos sinais e sintomas duas a três semanas após o início do quadro. __Raramente deixa sequelas__. 
+A maior parte dos pacientes apresenta remissão dos sinais e sintomas duas a três semanas após o início do quadro. __Raramente deixa sequelas__.
 
 ### Glomerulonefrite crescêntica
 Também chamada de _rapidamente progressiva_. Dependendo da etiopatogenia é dividida em 3 tipos:
 
-- No tipo I a lesão glomerular é mediada por anticorpo antimembrana basal; 
+- No tipo I a lesão glomerular é mediada por anticorpo antimembrana basal;
 - no tipo II, por deposição de imunocomplexo circulante;
 - no tipo III (“pauciimune”) a agressão é conseqüente a uma reação de hipersensibilidade celular.
 
 - Instalação aguda
-- Idade: 
-	- Tipo I, jovens; 
+- Idade:
+	- Tipo I, jovens;
 	- II e III, meia idade
 - Sexo: Tipo III, predominância no sexo
 masculino
-- Clínica: 
-	- __Edema__, 
+- Clínica:
+	- __Edema__,
 	- __Hematúria__
 	- Oligúria acentuada ou anúria
 	- sinais gerais
@@ -148,9 +146,9 @@ proteinúria
 - __MO:__ Presença de crescentes (formas de meia lua) celulares no espaço de Bowman
 - MIF: Padrão linear (tipo I); padrão granular (tipo II) ou ausência de depósitos
 fluorescentes (tipo III)
-- __Tratamento:__ 
-	- Tipo I, plasmaférese, corticóide e drogas citotóxicas; 
-	- Tipo II, pulso de metilprednisolona seguido de prednisona oral; 
+- __Tratamento:__
+	- Tipo I, plasmaférese, corticóide e drogas citotóxicas;
+	- Tipo II, pulso de metilprednisolona seguido de prednisona oral;
 	- Tipo III, pulso de ciclofosfamida
 
 
@@ -170,10 +168,10 @@ Ocorre basicamente perda das cargas negativas da membrana basal, por isso a prot
 Ocorre pricipalmente aumento dos poros não-discriminantes. Na proteinúria, além de albumina e transferrina, estão presentes também proteínas de maior peso molecular (como imunoglobulinas).
 
 ### Glomerulosclerose focal e segmentar
-Ocorre pricipalmente aumento dos poros não-discriminantes. 
+Ocorre pricipalmente aumento dos poros não-discriminantes.
 
 ### Glomerulonefrite membranosa
-Ocorre pricipalmente aumento dos poros não-discriminantes. 
+Ocorre pricipalmente aumento dos poros não-discriminantes.
 
 
 
@@ -190,4 +188,3 @@ Ocorre pricipalmente aumento dos poros não-discriminantes.
 
 ## Referências
 [^1]: Riella
-

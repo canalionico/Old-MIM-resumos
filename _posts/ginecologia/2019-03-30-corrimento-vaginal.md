@@ -1,8 +1,6 @@
 ---
 title: Corrimento vaginal
-author: Filipe Mosca
 layout: post
-permalink: /ginecologia/corrimento-vaginal.html
 categories: ginecologia
 ---
 1. índice vem aqui
@@ -11,9 +9,9 @@ categories: ginecologia
 O corrimento vaginal é uma síndromepresente em muitas afecções do aparelho genital feminino. Na investigação clínica, a anamnese ginecológica deve ser detalhada, como explicado no resumo de [semiologia ginecologica](https://canalionico.com.br/resumos/ginecologia/semiologia-ginecologica.html).
 
 ## Etiologia
-Todos os casos de corrimento vaginal são consideradas _infecções do trato reprodutivo_ (ITR), que podem ser DSTs ou não. 
+Todos os casos de corrimento vaginal são consideradas _infecções do trato reprodutivo_ (ITR), que podem ser DSTs ou não.
 
-As infecções por _C. trachomatis_ e _N.gonorrhoeae_ não costumam causar corrimento.[^1] 
+As infecções por _C. trachomatis_ e _N.gonorrhoeae_ não costumam causar corrimento.[^1]
 
 Os principais agentes etiológicos do corrimento, são:
 
@@ -31,7 +29,7 @@ Acomete cerca de 10-30% das gestantes e 10% das mulheres, podendo ser sintomáti
 
 Muito importante ressaltar que a vaginose bacteriana não é uma DST (não se faz necessário tratar parceiros). Contudo, as relações sexuais desprotegidas facilitam que a mulher predisposta desenvolva esta afecção (pelo mesmo motivo já mencionado e o sêmen ser mais básico de desequilibrar a microbiota vaginal). Além disso, a presença de vaginose também é um fator que aumenta as chances de infecção pelo HIV e outras DSTs em relações desprotegidas.
 
-O acometimento pela vaginose durante o período gestacional pode estar relacionado a algumas complicações obstétricas, como: ruptura prematura de membrana, prematuridade, endometrite-pós-cesárea e corioamnionite.[^1] 
+O acometimento pela vaginose durante o período gestacional pode estar relacionado a algumas complicações obstétricas, como: ruptura prematura de membrana, prematuridade, endometrite-pós-cesárea e corioamnionite.[^1]
 
 A presença de vaginose também aumenta o risco de evolução para DIP após procedimentos invasivos como colocação de DIU, curetagem uterina, biópsias de endometrio, entre outros. A recomendação é tratar a vaginose antes de realizar estes procedimentos.
 
@@ -56,11 +54,11 @@ O diagnóstico é clínico-laboratorial, podendo ser feito segundo os _critério
 #### Tratamento[^1]
 
 - Primeira opção:
-    - Metronidazol 250mg, VO, 2 comprimidos 2xdia/7dias. 
+    - Metronidazol 250mg, VO, 2 comprimidos 2xdia/7dias.
     - OU
     - Metronizadol em gel vaginal 100mg/g aplicado à noite por 5 dias
 - Segunda opção:
-    - Clindamicina 300mg, VO, 2xdia/7dias. 
+    - Clindamicina 300mg, VO, 2xdia/7dias.
 - Em gestantes:
     - Primeiro trimestre: Clindamicina 300mg, VO, 2xdia/7dias
     - Demais trimestres: Metronidazol 250mg, VO, 1 comp 3xdia/7dias
@@ -70,11 +68,11 @@ O diagnóstico é clínico-laboratorial, podendo ser feito segundo os _critério
     - Metronidazol em gel vaginal 100mg/g por via intravaginal, 1xdia/10dias seguido de duas aplicações semanais por 4-6 meses.
 
 Na vaginose não se faz necessário tratar os parceiros sexuais, visto que não se trata de uma DST. Nas puérperas (pós-parto), recomenda-se o mesmo tratamento feito para as gestantes.
- 
-### Candidíase vulvovaginal
-É a infecção da vulva e vagina causada pelo fungo comensal _C. albicans_ (mas também pode ser _C.tropicalis_, _C.glabrata_, entre outros). 
 
-Não existe um consenso exato se a candidíase é uma DST. Uma vez que esse fungo pode habitar de forma comensal a vagina, a transmissão sexual pode não desenvolver a doença. Mesmo assim, a atividade sexual facilita sua ocorrência, o fungo pode penetrar os tecidos após microabrasões causadas durante o ato sexual. 
+### Candidíase vulvovaginal
+É a infecção da vulva e vagina causada pelo fungo comensal _C. albicans_ (mas também pode ser _C.tropicalis_, _C.glabrata_, entre outros).
+
+Não existe um consenso exato se a candidíase é uma DST. Uma vez que esse fungo pode habitar de forma comensal a vagina, a transmissão sexual pode não desenvolver a doença. Mesmo assim, a atividade sexual facilita sua ocorrência, o fungo pode penetrar os tecidos após microabrasões causadas durante o ato sexual.
 
 #### Quadro clínico
 
@@ -100,7 +98,7 @@ __Fatores predisponentes:__
 #### Diagnostico
 A candidíase possui um diagnóstico clínico. Mas também pode ser feito um teste de pH vaginal que, resultando em pH < 4,5, é sugestivo desta enfermidade.
 
-__Obs:__ O aparecimento na candidíase é comum na gestação devido à modificação do pH vaginal neste período. Inclusive com recidivas. 
+__Obs:__ O aparecimento na candidíase é comum na gestação devido à modificação do pH vaginal neste período. Inclusive com recidivas.
 
 #### Tratamento
 
@@ -118,10 +116,10 @@ __Obs:__ O aparecimento na candidíase é comum na gestação devido à modifica
     - OU
     - Fluconazol 150mg, VO 1xdia, dias 1, 4 e 7 seguido de terapia de manutenção com fluconazol 150mg VO 1xsemana/6meses
 
-Como discutido anteriormente, a candidiase não é necessariamente uma DST. Dessam forma, não se faz necessário o tratamento de parceiros sexuais. Estes só devem ser tratados se forem sintomáticos. 
+Como discutido anteriormente, a candidiase não é necessariamente uma DST. Dessam forma, não se faz necessário o tratamento de parceiros sexuais. Estes só devem ser tratados se forem sintomáticos.
 
 ### Tricomoníase
-É uma DST causada pelo _T. vaginalis_, um protozoário flagelado que tem o colo uterino, vagina e uretra como reservatório. Sua prevalência está entre 10-35%. 
+É uma DST causada pelo _T. vaginalis_, um protozoário flagelado que tem o colo uterino, vagina e uretra como reservatório. Sua prevalência está entre 10-35%.
 
 #### Quadro clínico
 
@@ -151,10 +149,10 @@ O teste de pH vaginal também pode ser feito. Assim como na vaginose, o pH costu
     - OU
     - Metronidazol 250mg VO 1cp 3xdia/7dias
 
-Como é uma DST, os __parceiros devem ser tratados__ com o mesmo esquema. Nas puérperas recomenda-se o mesmo tratamento feito nas gestantes. 
+Como é uma DST, os __parceiros devem ser tratados__ com o mesmo esquema. Nas puérperas recomenda-se o mesmo tratamento feito nas gestantes.
 
 ## Observações dos tratamentos
-Durante o uso de metronidazol deve-se evitar o consumo de álcool devido ao "efeito antabuse": mal-estar, náuseas, tonturas e gosto metálico na boca. E, também, durante o tratamento devem ser suspensas as práticas sexuais. 
+Durante o uso de metronidazol deve-se evitar o consumo de álcool devido ao "efeito antabuse": mal-estar, náuseas, tonturas e gosto metálico na boca. E, também, durante o tratamento devem ser suspensas as práticas sexuais.
 
 ![fluxuograma](/resumos/assets/imagens/corrimento-vaginal/flux.png)
 

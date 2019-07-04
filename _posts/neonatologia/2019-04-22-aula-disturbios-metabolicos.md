@@ -1,8 +1,7 @@
 ---
 title: Aula Distúrbios metabólicos
-author: Filipe Mosca
-permalink: /:categories/disturbios-metabolicos.html
 layout: post
+categories: neonatologia
 ---
 
 A correta classificação do bebê é muito importante.O feto não precisa produzir glicose, pois toda ela é produzida e fornecida pela mãe.

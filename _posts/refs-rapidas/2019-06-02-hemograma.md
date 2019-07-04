@@ -1,6 +1,5 @@
 ---
 title: Hemograma
-author: Filipe Mosca
 categories: refs-rapidas
 ---
 

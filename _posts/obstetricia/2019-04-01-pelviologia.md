@@ -1,7 +1,5 @@
 ---
 title: Pelviologia
-author: Filipe Mosca
-permalink: /:categories/pelviologia.html
 categories: obstetricia
 layout: post
 ---
@@ -34,5 +32,3 @@ o primeiro plano paralelo passa pela borda superior do púbis e pelo promontóri
 
 ## Referências
 [^1]: Rezendinho
-
-

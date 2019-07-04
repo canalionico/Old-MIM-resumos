@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  Semiologia obstétrica
-author: Filipe Mosca
-permalink: /obstetricia/semiologia-obstetrica.html
 categories: obstetricia
 ---
 mudei algo aqui

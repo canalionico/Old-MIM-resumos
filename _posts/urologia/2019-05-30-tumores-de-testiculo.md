@@ -1,6 +1,5 @@
 ---
 title: Tumores de testículo
-author: Filipe Mosca
 categories: urologia
 layout: post
 ---

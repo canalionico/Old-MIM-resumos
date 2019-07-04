@@ -1,6 +1,5 @@
 ---
 title: Vitalidade fetal
-author: Filipe Mosca
 categories: neonatologia
 layout: post
 ---

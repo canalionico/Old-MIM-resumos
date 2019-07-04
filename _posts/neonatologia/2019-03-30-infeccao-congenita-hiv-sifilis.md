@@ -1,7 +1,5 @@
 ---
 title: Infecção congênita por HIV e sífilis
-author: Filipe Mosca
-permalink: /:categories/infeccao-congenita-hiv-sifilis.html
 categories: neonatologia
 layout: post
 ---

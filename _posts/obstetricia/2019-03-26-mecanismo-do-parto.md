@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Mecanismo do parto
-author: Filipe Mosca
 categories: obstetricia
-permalink: /obstetricia/mecanismo-do-parto.html
 ---
 
 Podemos analisar o parto do ponto de vista físico. Considerando que o objeto (o feto) necessita percorrer um trajeto (a bacia feminina) sendo empurrado por uma força (as contrações uterinas).

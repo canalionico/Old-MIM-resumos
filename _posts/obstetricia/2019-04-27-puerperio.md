@@ -1,9 +1,7 @@
 ---
 layout: post
 title: Puerpério
-author: Filipe Mosca
 categories: obstetricia
-permalink: /:categories/puerperio.html
 filename: 2019-04-27-puerperio.md
 ---
 

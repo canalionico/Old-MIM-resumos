@@ -48,7 +48,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Filipe Mosca"
+      author: "@moscafilipe"
       permalink: /:categories/:title
 #defaults para todo o resto
   - scope:

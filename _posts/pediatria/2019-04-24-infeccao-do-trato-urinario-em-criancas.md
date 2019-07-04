@@ -1,6 +1,5 @@
 ---
 title: Infecções do trato urinário em crianças
-author: Filipe Mosca
 permalink: :categorieṣ
 categories: pediatria
 layout: post

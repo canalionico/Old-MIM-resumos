@@ -1,7 +1,5 @@
 ---
 title: Distúrbios hidroeletrolíticos
-author: Filipe Mosca
-permalink: /:categories/disturbios-hidroeletroliticos.html
 categories: neonatologia
 layout: post
 filename: 2019-05-06-disturbios-hidroeletroliticos.md

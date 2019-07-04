@@ -55,7 +55,7 @@ self.addEventListener('install', function (event) {
       
         '/urologia/dinfuncao-sexual-masculina',
       
-        '/pediatriạ',
+        '/pediatria/has-na-crianca',
       
         '/ginecologia/climaterio',
       
@@ -115,7 +115,7 @@ self.addEventListener('install', function (event) {
       
         '/urologia/tumores-de-bexiga',
       
-        '/obstetricia/hipertensao-na-gravidez.html',
+        '/obstetricia/hipertensao-na-gravidez',
       
         '/ginecologia/planejamento-familiar',
       
@@ -123,83 +123,83 @@ self.addEventListener('install', function (event) {
       
         '/mastologia/tumores-malignos-da-mama',
       
-        '/neonatologia/disturbios-hidroeletroliticos.html',
+        '/neonatologia/disturbios-hidroeletroliticos',
       
-        '/neonatologia/disturbios-metabolicos.html',
+        '/neonatologia/disturbios-metabolicos',
       
-        '/nefrologia/insuficiencia-renal-aguda.html',
+        '/nefrologia/ira',
       
-        '/ginecologia/leiomioma-uterino.html',
+        '/ginecologia/leiomioma-uterino',
       
-        '/ginecologia/endometriose.html',
+        '/ginecologia/endometriose',
       
-        '/urologia/massas-renais.html',
+        '/urologia/massas-renais',
       
-        '/obstetricia/hemorragia-pos-parto.html',
+        '/obstetricia/hemorragia-pos-parto',
       
-        '/ginecologia/cancer-de-endometrio.html',
+        '/ginecologia/cancer-de-endometrio',
       
-        '/obstetricia/puerperio.html',
+        '/obstetricia/puerperio',
       
         '/pediatriạ',
       
-        '/nefrologia/doenca-renal-cronica.html',
+        '/nefrologia/doenca-renal-cronica',
       
-        '/urologia/infeccoes-do-trato-urinario.html',
+        '/urologia/infeccoes-do-trato-urinario',
       
-        '/ginecologia/cancer-de-colo-uterino.html',
+        '/ginecologia/cancer-de-colo-uterino',
       
-        '/disturbios-metabolicos.html',
+        '/neonatologia/aula-disturbios-metabolicos',
       
-        '/ginecologia/prolapso-genital.html',
+        '/ginecologia/prolapso-genital',
       
-        '/obstetricia/cesariana.html',
+        '/obstetricia/cesariana',
       
-        '/obstetricia/gravidez-ectopica.html',
+        '/obstetricia/gravidez-ectopica',
       
-        '/ginecologia/incontinencia-urinaria.html',
+        '/ginecologia/incontinencia-urinaria',
       
         '/corrimento-vaginal',
       
-        '/urologia/litiase-urinaria.html',
+        '/urologia/litiase-urinaria',
       
-        '/obstetricia/abortamento.html',
+        '/obstetricia/abortamento',
       
         '/mastologia/derrame-papilar',
       
-        '/obstetricia/pelviologia.html',
+        '/obstetricia/pelviologia',
       
-        '/obstetricia/estatica-fetal.html',
+        '/obstetricia/estatica-fetal',
       
-        '/mastologia/semiologia-mastologica.html',
+        '/mastologia/semiologia-mastologica',
       
-        '/mastologia/exames-imagem-mastologia.html',
+        '/mastologia/exames-de-imagem-mastologia',
       
-        '/ginecologia/ulceras-genitais.html',
+        '/ginecologia/ulceras-genitais',
       
-        '/nefrologia/glomerulopatias.html',
+        '/nefrologia/glomerulopatias',
       
-        '/ginecologia/ciclo-menstrual.html',
+        '/ginecologia/ciclo-menstrual',
       
-        '/neonatologia/tocotraumatismo.html',
+        '/neonatologia/tocotraumatismo',
       
-        '/neonatologia/recem-nascido.html',
+        '/neonatologia/recem-nascido',
       
-        '/neonatologia/infeccao-congenita-hiv-sifilis.html',
+        '/neonatologia/infeccao-congenita-hiv-sifilis',
       
-        '/ginecologia/dip.html',
+        '/ginecologia/dipa',
       
-        '/ginecologia/corrimento-vaginal.html',
+        '/ginecologia/corrimento-vaginal',
       
-        '/ginecologia/semiologia-ginecologica.html',
+        '/ginecologia/semiologia-ginecologica',
       
-        '/urologia/hiperplasia-prostatica.html',
+        '/urologia/hiperplasia-prostatica',
       
-        '/urologia/cancer-de-prostata.html',
+        '/urologia/cancer-de-prostata',
       
-        '/obstetricia/mecanismo-do-parto.html',
+        '/obstetricia/mecanismo-do-parto',
       
-        '/obstetricia/semiologia-obstetrica.html',
+        '/obstetricia/semiologia-obstetrica',
       
       
         '/CNAME'
@@ -395,6 +395,8 @@ self.addEventListener('install', function (event) {
         '/assets/infectologia/ntx/tc.jpeg'
       
         '/assets/logo-canal-ionico.png'
+      
+        '/assets/logo-resumos.png'
       
         '/assets/mastologia/derrame-papilar/tab1.png'
       
