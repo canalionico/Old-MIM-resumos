@@ -42,6 +42,8 @@ self.addEventListener('install', function (event) {
       
         '/feed.xml',
       
+        '/sitemap.xml',
+      
       
         '/mastologia/tumores-especiais',
       
@@ -573,6 +575,10 @@ self.addEventListener('install', function (event) {
         '/mstile-310x310.png'
       
         '/mstile-70x70.png'
+      
+        '/nak-2.svg'
+      
+        '/robots.txt'
       
         '/safari-pinned-tab.svg'
       
