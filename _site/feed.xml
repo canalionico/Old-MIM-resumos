@@ -1,4 +1,240 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-07-04T14:51:10-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores especiais</title><link href="http://localhost:4000/mastologia/tumores-especiais" rel="alternate" type="text/html" title="Tumores especiais" /><published>2019-06-20T00:00:00-03:00</published><updated>2019-06-20T00:00:00-03:00</updated><id>http://localhost:4000/mastologia/tumores-especiais</id><content type="html" xml:base="http://localhost:4000/mastologia/tumores-especiais">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-07-12T15:23:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Atendimento inicial</title><link href="http://localhost:4000/trauma/atendimento-inicial" rel="alternate" type="text/html" title="Atendimento inicial" /><published>2019-07-08T00:00:00-03:00</published><updated>2019-07-08T00:00:00-03:00</updated><id>http://localhost:4000/trauma/atendimento-inicial</id><content type="html" xml:base="http://localhost:4000/trauma/atendimento-inicial">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#atendimento-pré-hospitalar&quot; id=&quot;markdown-toc-atendimento-pré-hospitalar&quot;&gt;Atendimento pré-hospitalar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#avaliação-primária&quot; id=&quot;markdown-toc-avaliação-primária&quot;&gt;Avaliação primária&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#vias-aéreas-e-cervical&quot; id=&quot;markdown-toc-vias-aéreas-e-cervical&quot;&gt;Vias aéreas e cervical&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#respiração-e-ventilação&quot; id=&quot;markdown-toc-respiração-e-ventilação&quot;&gt;Respiração e ventilação&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#circulação-e-hemorragia&quot; id=&quot;markdown-toc-circulação-e-hemorragia&quot;&gt;Circulação e hemorragia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#avaliação-neurológica&quot; id=&quot;markdown-toc-avaliação-neurológica&quot;&gt;Avaliação neurológica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exposição-e-controle-do-ambiente&quot; id=&quot;markdown-toc-exposição-e-controle-do-ambiente&quot;&gt;Exposição e controle do ambiente&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#populações-especiais&quot; id=&quot;markdown-toc-populações-especiais&quot;&gt;Populações especiais&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#complementos-à-avaliação-primária&quot; id=&quot;markdown-toc-complementos-à-avaliação-primária&quot;&gt;Complementos à avaliação primária&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#avaliação-secundária&quot; id=&quot;markdown-toc-avaliação-secundária&quot;&gt;Avaliação secundária&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#história&quot; id=&quot;markdown-toc-história&quot;&gt;História&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Como o tempo é precioso no manejo de lesões traumáticas, o atendimento deve ser sistematizado seguindo a ordem e os elementos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Preparação&lt;/li&gt;
+  &lt;li&gt;Triagem&lt;/li&gt;
+  &lt;li&gt;Avaliação primária - ABCDE
+    &lt;ul&gt;
+      &lt;li&gt;Com primária ressucitação de pacientes com injúrias ameaçadoras da vida&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Avaliação de necessidade de transferência do paciente&lt;/li&gt;
+  &lt;li&gt;Avaliação secundária (Anamnese e exame físco completo, construindo a história do paciente)
+    &lt;ul&gt;
+      &lt;li&gt;Mecanismo do trauma, tempo deccorido, eventos relacionados, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Assistência pós-ressucitação, monitorização e reavaliação&lt;/li&gt;
+  &lt;li&gt;Terapias definitivas&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;atendimento-pré-hospitalar&quot;&gt;Atendimento pré-hospitalar&lt;/h2&gt;
+&lt;p&gt;No APH busca-se enfatizar o cuidado com as vias aéreas, controle de hemorragias e choque, imobilização e o transporte imediato para um serviço de referência.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Incidente de multiplas vítimas:&lt;/strong&gt; o número de vítimas e de acometimentos não ultrapassa a capacidade profissional e os recursos para conduzir o evento.
+    &lt;ul&gt;
+      &lt;li&gt;Os pacientes mais graves são tratados primeiro&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Incidente em massa:&lt;/strong&gt; o número de pacientes e acometimentos ultrapassa a capacidade profissional e de recursos.
+    &lt;ul&gt;
+      &lt;li&gt;Pacientes com grandes chances de sobrevivência são tratados primeiro.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;No acidente em massa não dá para perder tempo e recursos com pacientes fatais, deixando os pacientes com maiores chances sem atendimento.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;avaliação-primária&quot;&gt;Avaliação primária&lt;/h2&gt;
+&lt;p&gt;A avaliação primária deve ser rápida e efetiva, focando nos sinais vitais seguindo a ordem ABCDE, de acordo com os sistemas que, quando afetados, levam a óbito de forma mais rápida se não tratados. O objetivo é &lt;strong&gt;buscar por condições ameaçadoras da vida&lt;/strong&gt; e utilizar as manobras apropriadas para retarda-las ou corrigi-las.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;Airways&lt;/em&gt; (vias aéreas) + controle cervical&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Breathing&lt;/em&gt; (respiração)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Circulation&lt;/em&gt; (circulação) + controle de heorragias&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Disability&lt;/em&gt; (status neurológico)&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Exposure&lt;/em&gt; (exposição) + controle do ambiente&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Importante notar que a simples prática de perguntar o &lt;strong&gt;nome do paciente e o que aconteceu&lt;/strong&gt; já pode avaliar o ABCD. Se o paciente nos dá uma resposta adequada, significa que ele está com as vias aéreas pérvias, respirando, o nível de consciência está preservado. A ausência de resposta indica falha em algum desses sistemas.&lt;/p&gt;
+
+&lt;h3 id=&quot;vias-aéreas-e-cervical&quot;&gt;Vias aéreas e cervical&lt;/h3&gt;
+&lt;p&gt;Manobras para facilitar a perviedade da via aérea:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Jaw-thrust&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Chin-lift&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pacientes com &lt;strong&gt;ECG ≤ 8&lt;/strong&gt; necessitam de uma &lt;strong&gt;via aérea definitiva&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se a intuação for contraindicada ou não pôde ser executada, deve-se optar por uma via aérea cirúrgica.&lt;/p&gt;
+
+&lt;p&gt;O controle cervical busca impedir avanço ou agravamento de lesões e fraturas e é feito restringindo sua movimentação. A utilização do colar cervical cumpre a função e libera as mãos de um socorrista.&lt;/p&gt;
+
+&lt;p&gt;Sempre assumir que há uma fratura cervical, até que se prove o contrário!&lt;/p&gt;
+
+&lt;h3 id=&quot;respiração-e-ventilação&quot;&gt;Respiração e ventilação&lt;/h3&gt;
+&lt;p&gt;Apenas uma via aérea pérvia não garante uma ventilação adequada. A ventilação depende de oxigenação e gás carbônico, adequada função dos pulmões, movimentos torácicos e diafragmáticos. Cada componente deve ser rapidamente avaliado.&lt;/p&gt;
+
+&lt;p&gt;Avaliar estase/turgência jugular, a posição da traquéia, incursões torácicas. Auscultar os pulmões. Percutir o tórax.&lt;/p&gt;
+
+&lt;p&gt;Pneumotórax hipertensivo ou aberto, hemotórax,  lesões bronqueais ou traqueais são acometimentos que rapidamente podem comprometer a respiração. É necessário fazer reavaliações constantes para perceber uma possível deterioração do quadro.&lt;/p&gt;
+
+&lt;p&gt;Todo paciente vítima de trauma deve receber oxigênio sumplementar, seja através da intubação ou de uma máscara facial ou cateter nasal. O oximetro de pulso é importante para avaliar a saturação.&lt;/p&gt;
+
+&lt;p&gt;Atenção! Um pneumotórax simples pode ser convertido em um pneumotórax hipertensivo quando o paciente é intubado e recebe ventilação com pressão positiva antes da descompressão do pneumotórax.&lt;/p&gt;
+
+&lt;h3 id=&quot;circulação-e-hemorragia&quot;&gt;Circulação e hemorragia&lt;/h3&gt;
+&lt;p&gt;Rapidamente identificar e controlar hemorragias, aplicando pressão na ferida e fazendo reposição volêmica.&lt;/p&gt;
+
+&lt;p&gt;Avaliar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nível de consciência: na hipovolemia a perfusão cerebral é comprometida.&lt;/li&gt;
+  &lt;li&gt;Perfusão da pele: palidez&lt;/li&gt;
+  &lt;li&gt;Pulso: pulso rápido é indicativo de hipovolemia. Sempre comparar ao contralateral e avaliar os &lt;strong&gt;pulsos centrais&lt;/strong&gt; (carótida e femoral).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fazer acessos calibrosos para infusão de líquidos e/ou sangue, quando necessário. Quando não for possível coneguir os acessos periféricos, pode-se fazer acesso venoso central, infusão intraóssea ou dissecção venosa.&lt;/p&gt;
+
+&lt;p&gt;A solução deve estar aquecida a 37-40°C. Iniciar reposição com cristalóides. Fazer inicialmente um bolus de 1L. Infundir até no máximo 1,5L. &lt;!-- Carece de fontes --&gt;&lt;/p&gt;
+
+&lt;p&gt;Importante coletar sangue para análise de hemograma, teste de gravidez em mulheres em idade reprodutiva, e tipagem sanguínea. Níveis de lactato?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Torniquetes&lt;/strong&gt; podem ser efetivos nos casos de exsanguinação massiva em extremidade. Contudo, possui risco de causar isquemia na região. Portanto, deve-se pesar o risco x benefício.&lt;/p&gt;
+
+&lt;p&gt;Uma vez exluido o pneumotórax hipertensivo, como a causa do choque, deve-se assumir que o choque é devido a uma hemorragia até que se prove o contrário.&lt;/p&gt;
+
+&lt;p&gt;As principais áreas de hemorragia interna são: tórax, abdomen, retroperiônio, pelve e ossos longos.&lt;/p&gt;
+
+&lt;p&gt;A hemorragia pélvica necessita de um cinto de estabiliação, para diminuir o compartimento e tamponar o sangramento.&lt;/p&gt;
+
+&lt;p&gt;A avaliação complementar da origem da hemorragia pode ser feita com radiografias de tórax e pelve, FAST e/ou LPD.&lt;/p&gt;
+
+&lt;p&gt;Ácido tranexâmico?&lt;/p&gt;
+
+&lt;h3 id=&quot;avaliação-neurológica&quot;&gt;Avaliação neurológica&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Avaliar a abertura pupilar e fotossensibilidade.&lt;/li&gt;
+  &lt;li&gt;Avaliar o nível de lesão medular, se houver.&lt;/li&gt;
+  &lt;li&gt;Fazer a ECG&lt;/li&gt;
+  &lt;li&gt;Manter oxigenação e perfusão adequada para não agravar possível lesão no SNC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sempre lembrar que álcool e outras drogas podem alterar o nível de consciência do paciente.&lt;/p&gt;
+
+&lt;h3 id=&quot;exposição-e-controle-do-ambiente&quot;&gt;Exposição e controle do ambiente&lt;/h3&gt;
+
+&lt;p&gt;Despir o paciente na busca por lesões e fraturas. Contu
+do, lembrar de sempre cobrir o paciente após a avaliação para prevenir hipotermia. O contato corpo a corpo com um familiar ou voluntário pode ser útil como fonte de calor na ausência de mantas térmicas. Sempre aquecer as soluções antes da infusão.&lt;/p&gt;
+
+&lt;p&gt;Garantir um ambiente aquecido.&lt;/p&gt;
+
+&lt;h3 id=&quot;populações-especiais&quot;&gt;Populações especiais&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Crianças
+    &lt;ul&gt;
+      &lt;li&gt;Tipicamente possuem maior reserva e mecanismos de compensação fisiológicos.&lt;/li&gt;
+      &lt;li&gt;Demonstram menos sinais de hipovolemia, mesmo após severa depleção de volume&lt;/li&gt;
+      &lt;li&gt;Quando ocorre uma deterioração do estado geral, a perda já é catastrófica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Grávidas
+    &lt;ul&gt;
+      &lt;li&gt;Sempre palpar o abdomen na tentativa de identificar o útero das mulheres&lt;/li&gt;
+      &lt;li&gt;Testar b-HCG para confirmar a gravidez&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Idosos&lt;/li&gt;
+  &lt;li&gt;Obesos
+    &lt;ul&gt;
+      &lt;li&gt;Intubação mais difícil&lt;/li&gt;
+      &lt;li&gt;FAST e LPD são mais difíceis&lt;/li&gt;
+      &lt;li&gt;Reposição rápida de líquidos pode agravar suas comorbidades&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Atletas
+    &lt;ul&gt;
+      &lt;li&gt;Podem não manifestar os sinais iniciais de choque, como taquicardia e taquipnéia&lt;/li&gt;
+      &lt;li&gt;Devido à boa compensação fisiológica&lt;/li&gt;
+      &lt;li&gt;Podem ter baixa PA sistólica e diastólica fisiológica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;complementos-à-avaliação-primária&quot;&gt;Complementos à avaliação primária&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Eletrocardiografia contínua&lt;/li&gt;
+  &lt;li&gt;Oximetria de pulso&lt;/li&gt;
+  &lt;li&gt;Capnografia&lt;/li&gt;
+  &lt;li&gt;Medição da frequência e ritmo respiratório&lt;/li&gt;
+  &lt;li&gt;Gasometria arterial
+    &lt;ul&gt;
+      &lt;li&gt;pH baixo e excesso de base são indicativos de choque&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sonda urinária
+    &lt;ul&gt;
+      &lt;li&gt;Diurese: um bom indicativo do status de volume do paciente e reflete a perfusão renal.&lt;/li&gt;
+      &lt;li&gt;Contraindicado em pacientes com injúria uretral&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sonda gástrica
+    &lt;ul&gt;
+      &lt;li&gt;Descomprimir e aliviar a distensão&lt;/li&gt;
+      &lt;li&gt;Diminuir o risco de aspiração&lt;/li&gt;
+      &lt;li&gt;Checar hemorragia gastrointestinal alta&lt;/li&gt;
+      &lt;li&gt;Se houver ou suspeitar de fratura da placa cribiforme, nunca inserir a sonda pelo nariz! Fazer inserção pela cavidade oral.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Medição do lactato sanguíeno&lt;/li&gt;
+  &lt;li&gt;Radiografias de tórax e pelve
+    &lt;ul&gt;
+      &lt;li&gt;Se a radiografia for essencial, pode ser feita mesmo em grávidas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;FAST&lt;/li&gt;
+  &lt;li&gt;LPD&lt;/li&gt;
+  &lt;li&gt;Pressão arterial&lt;/li&gt;
+  &lt;li&gt;Temperatura corporal&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;avaliação-secundária&quot;&gt;Avaliação secundária&lt;/h2&gt;
+&lt;p&gt;Só começa quando a avaliação primária (ABCDE) é concluída e o paciente responde às manobras de ressucitação. Há não ser que um membro da equipe possa ir adiantando essa fase ao mesmo tempo em que os demais fazer a avaliação primária.&lt;/p&gt;
+
+&lt;p&gt;Consiste numa avaliação “&lt;em&gt;da cabeça aos pés&lt;/em&gt;”. Fazer uma história completa do ocorrido e um exame físico detalhado, incluindo os sinais vitais.&lt;/p&gt;
+
+&lt;h3 id=&quot;história&quot;&gt;História&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Alergias&lt;/li&gt;
+  &lt;li&gt;Entendimento do mecanismo da lesão (algumas injúrias podem ser premeditadas conhecendo-se o mecanismo)
+    &lt;ul&gt;
+      &lt;li&gt;Trauma contuso: como aciedentes de automóveis e espancamentos&lt;/li&gt;
+      &lt;li&gt;Trauma penetrante: PAFs, PABs, etc.&lt;/li&gt;
+      &lt;li&gt;Trauma térmico: inalação térmica, perda de líquido pelas feridas, etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Medicações em uso&lt;/li&gt;
+  &lt;li&gt;Afecções prévias&lt;/li&gt;
+  &lt;li&gt;Gravidez&lt;/li&gt;
+  &lt;li&gt;Última refeição&lt;/li&gt;
+  &lt;li&gt;Outros eventos relacionados ao trauma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tumores especiais</title><link href="http://localhost:4000/mastologia/tumores-especiais" rel="alternate" type="text/html" title="Tumores especiais" /><published>2019-06-20T00:00:00-03:00</published><updated>2019-06-20T00:00:00-03:00</updated><id>http://localhost:4000/mastologia/tumores-especiais</id><content type="html" xml:base="http://localhost:4000/mastologia/tumores-especiais">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#carcinoma-ductal-in-situ-de-mama&quot; id=&quot;markdown-toc-carcinoma-ductal-in-situ-de-mama&quot;&gt;Carcinoma Ductal in Situ de Mama&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#carcinoma-de-paget&quot; id=&quot;markdown-toc-carcinoma-de-paget&quot;&gt;Carcinoma de Paget&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#carcinoma-inflamatório&quot; id=&quot;markdown-toc-carcinoma-inflamatório&quot;&gt;Carcinoma Inflamatório&lt;/a&gt;&lt;/li&gt;
@@ -3063,505 +3299,4 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
       &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tumores de ovário</title><link href="http://localhost:4000/ginecologia/tumores-de-ovario" rel="alternate" type="text/html" title="Tumores de ovário" /><published>2019-06-08T00:00:00-03:00</published><updated>2019-06-08T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/tumores-de-ovario</id><content type="html" xml:base="http://localhost:4000/ginecologia/tumores-de-ovario">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#tumorações-não-neoplásicas&quot; id=&quot;markdown-toc-tumorações-não-neoplásicas&quot;&gt;Tumorações não-neoplásicas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#cistos-funcionais&quot; id=&quot;markdown-toc-cistos-funcionais&quot;&gt;Cistos funcionais&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#cistos-foliculares&quot; id=&quot;markdown-toc-cistos-foliculares&quot;&gt;Cistos foliculares&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#cistos-do-corpo-lútero&quot; id=&quot;markdown-toc-cistos-do-corpo-lútero&quot;&gt;Cistos do corpo lútero&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#cistos-tecaluteínicos&quot; id=&quot;markdown-toc-cistos-tecaluteínicos&quot;&gt;Cistos tecaluteínicos&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#inflamatórias&quot; id=&quot;markdown-toc-inflamatórias&quot;&gt;Inflamatórias&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#endometriomas&quot; id=&quot;markdown-toc-endometriomas&quot;&gt;Endometriomas&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#abcessos-pélvicos&quot; id=&quot;markdown-toc-abcessos-pélvicos&quot;&gt;Abcessos pélvicos&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cistos-serosos-de-inclusão&quot; id=&quot;markdown-toc-cistos-serosos-de-inclusão&quot;&gt;Cistos serosos de inclusão&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tumorações-neoplásicas&quot; id=&quot;markdown-toc-tumorações-neoplásicas&quot;&gt;Tumorações neoplásicas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#classificação-histológica&quot; id=&quot;markdown-toc-classificação-histológica&quot;&gt;Classificação histológica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#fatores-protetores&quot; id=&quot;markdown-toc-fatores-protetores&quot;&gt;Fatores protetores&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As tumorações ovarianas podem ser de diversas naturezas. Podemos dividi-las em:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Funcionais
-    &lt;ul&gt;
-      &lt;li&gt;cistos foliculares,&lt;/li&gt;
-      &lt;li&gt;cistos de corpo lúteo (hemorrágicos ou não)&lt;/li&gt;
-      &lt;li&gt;cistos teca-luteínicos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Inflamatórias
-    &lt;ul&gt;
-      &lt;li&gt;endometriomas&lt;/li&gt;
-      &lt;li&gt;abscessos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;De inclusão&lt;/li&gt;
-  &lt;li&gt;Neoplásicas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tumorações-não-neoplásicas&quot;&gt;Tumorações não-neoplásicas&lt;/h2&gt;
-&lt;h3 id=&quot;cistos-funcionais&quot;&gt;Cistos funcionais&lt;/h3&gt;
-&lt;p&gt;Os cistos funcionais constituem a imensa maioria das massas ovarianas durante o menacme.&lt;/p&gt;
-
-&lt;p&gt;Os cistos funcionais, por definição, regridem espontaneamente. O uso de contraceptivos
-orais em esquemas contínuos por dois meses, conhecido teste de Spanius, visa manter o ovário
-em repouso e assim acelerar a regressão dos cistos funcionais.&lt;/p&gt;
-
-&lt;p&gt;A taxa de regressão é a mesma,
-independente de realizar ou não o tratamento, entretanto, o tratamento pode ser empregado, para
-evitar a formação de novos cistos que possam confundir o diagnóstico durante o período de
-observação.&lt;/p&gt;
-
-&lt;h4 id=&quot;cistos-foliculares&quot;&gt;Cistos foliculares&lt;/h4&gt;
-&lt;p&gt;A falha na ruptura do folículo com acúmulo de líquido em seu interior tornando-o
-hidrópico é responsável pelo aparecimento dos &lt;strong&gt;cistos foliculares&lt;/strong&gt;. São assim chamados quando &lt;strong&gt;ultrapassam 3 cm e excepcionalmente superam os 8 cm&lt;/strong&gt; de diâmetro.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Comuns durante o menacme&lt;/li&gt;
-  &lt;li&gt;podem ocorrer até 3 anos após a menopausa em resposta aos altos níveis de FSH&lt;/li&gt;
-  &lt;li&gt;De regra são assintomáticos&lt;/li&gt;
-  &lt;li&gt;Descobertos em ecografias de rotina
-    &lt;ul&gt;
-      &lt;li&gt;aparecem à ecografia como massas císticas unilaterais simples que em geral não ultrapassam os 8 cm de diâmetro&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;cistos-do-corpo-lútero&quot;&gt;Cistos do corpo lútero&lt;/h4&gt;
-&lt;p&gt;O &lt;strong&gt;corpo lúteo&lt;/strong&gt; pode igualmente originar cistos, os quais, por conta da neovascularização pós-ovulatória freqüentemente se tornam hemorrágicos.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Podem desencadear sintomatologia dolorosa
-    &lt;ul&gt;
-      &lt;li&gt;por conta de distensão capsular e discreto hemoperitônio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os cistos hemorrágicos de corpo lúteo apresentam ao ultra-som ecos de baixa amplitude
-com padrão reticular, correspondente à rede de fibrina, podendo apresentar ainda área sólida
-hipoecóica correspondente ao coágulo. Quando muito recente pode se apresentar como cisto de
-líquido espesso e homogêneo simulando um endometrioma. À dopplervelocimetria, apresenta
-fluxo de baixa ou média resistência na periferia. A ausência de fluxo no coágulo do cisto
-hemorrágico contribui para diferenciá-lo de componente sólido neoplásico.&lt;/p&gt;
-
-&lt;h4 id=&quot;cistos-tecaluteínicos&quot;&gt;Cistos tecaluteínicos&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Os cistos teca-luteínicos resultam da hiperestimulação ovariana que costuma ocorrer na doença trofoblástica gestacional, indução da ovulação para reprodução assistida, gestação gemelar e hidropisia fetal.
-    &lt;ul&gt;
-      &lt;li&gt;São áreas císticas múltiplas que podem redundar em diâmetros ovarianos acima de 10 cm.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;inflamatórias&quot;&gt;Inflamatórias&lt;/h3&gt;
-&lt;p&gt;As tumorações inflamatórias dos ovários ocorrem como complicações de doenças pélvicas como endometriose e infecção pélvica.&lt;/p&gt;
-
-&lt;h4 id=&quot;endometriomas&quot;&gt;Endometriomas&lt;/h4&gt;
-&lt;p&gt;Podem surgir como uma
-cistificação de foco superficial de endometriose ovariana ou como uma colonização de um cisto
-não neoplásico a partir de células endometrióticas.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;São repletos de sangue antigo associado a debris menstruais
-    &lt;ul&gt;
-      &lt;li&gt;conferindo ao seu conteúdo um &lt;strong&gt;aspecto achocolatado&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Comumente, estão aderidos a outras estruturas pélvicas, em particular ao peritônio da fosseta ovárica&lt;/li&gt;
-  &lt;li&gt;Cursam habitualmente com
-    &lt;ul&gt;
-      &lt;li&gt;dor pélvica crônica
-        &lt;ul&gt;
-          &lt;li&gt;podendo ocasional dor tipo abdome agudo nos casos de ruptura&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;dismenorréia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Seu tratamento é cirúrgico
-    &lt;ul&gt;
-      &lt;li&gt;quando ultrapassam os 2-3 cm de diâmetro,&lt;/li&gt;
-      &lt;li&gt;sendo de escolha, a via laparoscópica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Têm aspecto ecográfico bastante característico. Tipicamente são cistos
-únicos, embora possam ser múltiplos simulando septações. Em seu interior, visualizam-se ecos
-de baixa amplitude homogeneamente distribuídos. Pontos de calcificação isolados podem ser
-encontrados na cápsula, recebendo a denominação de corpúsculos de Rokitanski.&lt;/p&gt;
-
-&lt;h4 id=&quot;abcessos-pélvicos&quot;&gt;Abcessos pélvicos&lt;/h4&gt;
-&lt;p&gt;Em geral, envolvem as trompas e os ovários, quando não outros órgãos adjacentes. Ocorrem como uma evolução da doença inflamatória pélvica, com predominância de germes anaeróbios.&lt;/p&gt;
-
-&lt;p&gt;Precedendo o surgimento dos abscessos, podem ocorrer
-massas sólidas conhecidas como complexos inflamatórios tubo-ovarianos. Envolvem extensas
-aderências e destruição tissular, com perda de função e seqüelas como dor pélvica crônica. A
-clínica e o tratamento dos abscessos são revistos no artigo de DIP.&lt;/p&gt;
-
-&lt;p&gt;Os abscessos aparecem ao ultra-som como massas mistas complexas, de limites mal
-definidos, por vezes envolvendo os anexos uterinos e outras estruturas pélvicas. Com o evoluir do
-processo, o abscesso vai se liquefazendo e o componente cístico predominando na imagem
-ecográfica. A dopplervelocimetria costuma revelar fluxo de baixa resistência, dado o
-hipermetabolismo do processo inflamatório.&lt;/p&gt;
-
-&lt;p&gt;Experiências recentes
-indicam que a punção dos abscessos tubo-ovarianos guiada pela ultra-sonografia é segura e pode
-ser uma importante aliada da antibioticoterapia reduzindo o tempo de tratamento, melhorando os
-índices de cura e reduzindo a necessidade de cirurgia.&lt;/p&gt;
-
-&lt;h3 id=&quot;cistos-serosos-de-inclusão&quot;&gt;Cistos serosos de inclusão&lt;/h3&gt;
-&lt;p&gt;Os cistos serosos de inclusão podem ocorrer desde a infância até a pós-menopausa. São compostos de cápsula fina e conteúdo aquoso. Trazem dificuldades de interpretação diagnóstica porque apesar do aspecto funcional não regridem, nem tampouco evoluem como os neoplásicos.&lt;/p&gt;
-
-&lt;h2 id=&quot;tumorações-neoplásicas&quot;&gt;Tumorações neoplásicas&lt;/h2&gt;
-&lt;p&gt;Dada a ampla variedade de tecidos que compõem o ovário, podemos encontrar uma extensa gama de tipos histológicos entre as neoplasias ovarianas. Independente do tipo histológico, as neoplasias podem ser classificadas como benignas, malignas e tumores proliferativos atípicos do ovário (carcinoma de baixo potencial de malignidade). Esses últimos são os antigos tumores borderline, nomenclatura desaconselhada pela FIGO.&lt;/p&gt;
-
-&lt;h3 id=&quot;classificação-histológica&quot;&gt;Classificação histológica&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Tumores epitelial-estromal de superfície&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Tumores serosos&lt;/strong&gt;: mais comuns, normalmente bilaterais e possuem corpos psamomatosos (áreas de calcificação)
-        &lt;ul&gt;
-          &lt;li&gt;Maligno: Adenocarcinoma, Adenocarcinoma papilar de superfície, adenocarcinofibroma.&lt;/li&gt;
-          &lt;li&gt;Tumor borderline: Tumor cístico papilar, tumor papilar de superfície, adenofibroma e cistadenofibroma&lt;/li&gt;
-          &lt;li&gt;Benigno: Cistadenoma, cistadenoma papilar, papiloma de superfície, adenofibroma e cistadenofibroma&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Tumores mucinosos&lt;/strong&gt;: atingem grandes volumes
-        &lt;ul&gt;
-          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma Tumor&lt;/li&gt;
-          &lt;li&gt;borderline: Tipo intestinal e tipo endocervical&lt;/li&gt;
-          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Tumores endometrióides&lt;/strong&gt;: relação com endometriose
-        &lt;ul&gt;
-          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma, tumor mulleriano mixto&lt;/li&gt;
-          &lt;li&gt;Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma&lt;/li&gt;
-          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Tumores de células claras&lt;/strong&gt;: de pior prognóstico
-        &lt;ul&gt;
-          &lt;li&gt;Maligno: Adenocarcinoma, adenocarcinofibroma&lt;/li&gt;
-          &lt;li&gt;Tumor borderline: Tumor cístico, adenofibroma e cistadenofibroma&lt;/li&gt;
-          &lt;li&gt;Benigno: Cistadenoma, adenofibroma e cistadenofibroma&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tumores de células transicionais
-        &lt;ul&gt;
-          &lt;li&gt;Malignos: Carcinoma de células transicionais, tumor de Brenner maligno&lt;/li&gt;
-          &lt;li&gt;Borderline: &lt;strong&gt;Tumor de Brenner&lt;/strong&gt; variante proliferante&lt;/li&gt;
-          &lt;li&gt;Benigno: Tumor de Brenner&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Tumor de células escamosas
-        &lt;ul&gt;
-          &lt;li&gt;Carcinoma de células escamosas e cisto epidermóide&lt;/li&gt;
-          &lt;li&gt;Tumor epitelial misto (componente específico)&lt;/li&gt;
-          &lt;li&gt;Maligno, borderline e benigno&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tumores do cordão-estroma sexual&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Teca-granulosa:&lt;/strong&gt; puberdade precoce, CA de endométrio pois produzem estrogênio, corpúsculos de Carl-Exner&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Sertoli-Leydig&lt;/strong&gt; (Androblastoma): Bem, moderadamente e pouco diferenciado, virilização, androstenediona, testosterona&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Tecomas e fibromas:&lt;/strong&gt; mais comuns causa da síndrome de Meigs (ascite + derrame pleural)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tumor de células germinativas&lt;/strong&gt;: mais comuns em pacientes jovens
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Digerminoma&lt;/strong&gt;: mais comuns&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Teratoma&lt;/strong&gt;: pode ser maduro (cisto dermóide, maior tendencia a a torção) ou imaturo (áreas de atipia)&lt;/li&gt;
-      &lt;li&gt;Seio endodérmico&lt;/li&gt;
-      &lt;li&gt;Embrionários&lt;/li&gt;
-      &lt;li&gt;Coriocarcinoma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumores misto de células germinativas e do cordão sexual
-    &lt;ul&gt;
-      &lt;li&gt;Gonadoblastoma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumores da rete ovarii
-    &lt;ul&gt;
-      &lt;li&gt;Adenocarcinoma, adenoma, cistadenoma, cistadenofibroma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tumores diversos
-    &lt;ul&gt;
-      &lt;li&gt;Carcinoma de pequenas células, mesotelioma primitivo do ovário, carcinoma hepatóide, tumor de Wilms, coriocarcinoma gestacional, mola hidatiforme, outros&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Condições tumor-like
-    &lt;ul&gt;
-      &lt;li&gt;Luteoma da gravidez, hipertecose, fibromatose, edema ovariano maciço&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;A incidência do câncer de ovário é de 15/100.000 mulheres na Escandinávia, 10/100.000 na Europa ocidental e América do Norte e 5/100.000 no Japão e países subdesenvolvidos&lt;/li&gt;
-  &lt;li&gt;Apesar dos avanços no tratamento, particularmente envolvendo a combinação da cirurgia com a quimioterapia a base do paclitaxel, a sobrevida em 5 anos tem estado em torno dos 40%&lt;/li&gt;
-  &lt;li&gt;Os padrões hereditários ou familiares respondem por apenas
-5 a 10% de todas as malignidades.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tempo de menacme (menarca precoce e menopausa tardia) tem fraco efeito&lt;/li&gt;
-  &lt;li&gt;Infertilidade e indutores de ovulação&lt;/li&gt;
-  &lt;li&gt;Terapia de reposição hormonal não parece ter efeito&lt;/li&gt;
-  &lt;li&gt;Ingesta de gordura animal&lt;/li&gt;
-  &lt;li&gt;Obesidade&lt;/li&gt;
-  &lt;li&gt;Asbesto&lt;/li&gt;
-  &lt;li&gt;Síndrome de Lynch II (síndrome do câncer colo-retal não polipóide hereditário)
-    &lt;ul&gt;
-      &lt;li&gt;a forma mais comum do câncer colo-retal hereditário e envolve a ocorrência de malignidades extra-colônicas, a saber: endométrio, ovário, estômago, intestino delgado, pâncreas, trato hepato-biliar, cérebro e trato urinário superior.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;síndrome do câncer mama-ovário, ligada à mutação dos genes BRCA 1 e 2.
-    &lt;ul&gt;
-      &lt;li&gt;Ooforectomia profilática após a menopausa e uso de contraceptivos hormonais antes da menopausa?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;História familiar&lt;/li&gt;
-  &lt;li&gt;Idade &amp;gt; 60 anos&lt;/li&gt;
-  &lt;li&gt;Etnia branca&lt;/li&gt;
-  &lt;li&gt;Nuliparidade&lt;/li&gt;
-  &lt;li&gt;Tabagismo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;fatores-protetores&quot;&gt;Fatores protetores&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Gravidez (↓40% + 14% a cada nova gestação)
-    &lt;ul&gt;
-      &lt;li&gt;A anovulação, a redução dos níveis de gonadotrofinas, a interrupção do fluxo retrógrado de carcinógenos e de fluxo menstrual pelo trato reprodutivo, os atos níveis de progesterona e a apoptose associada à gravidez são mecanismos sugeridos.&lt;/li&gt;
-      &lt;li&gt;parece que as gestações que terminam em abortamento reduzem a incidência da neoplasia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Amamentação&lt;/li&gt;
-  &lt;li&gt;Contraceptivos orais&lt;/li&gt;
-  &lt;li&gt;Ligadura tubária&lt;/li&gt;
-  &lt;li&gt;Histerectomia&lt;/li&gt;
-  &lt;li&gt;Ooferectomia profilática&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Costumam se desenvolver silenciosamente
-    &lt;ul&gt;
-      &lt;li&gt;Nos estádios iniciais os sintomas são ausentes, ou leves, por vezes simulando quadros gastrintestinais inespecíficos&lt;/li&gt;
-      &lt;li&gt;Grande parte das pacientes se encontra em estádios avançados quando a doença é diagnosticada&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dor abdominal vaga&lt;/li&gt;
-  &lt;li&gt;Distensão abdominal
-    &lt;ul&gt;
-      &lt;li&gt;Pela massa tumoral ou ascite&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sintomas gastrointestinais
-    &lt;ul&gt;
-      &lt;li&gt;Empachamento&lt;/li&gt;
-      &lt;li&gt;Dispepsia&lt;/li&gt;
-      &lt;li&gt;Náuseas&lt;/li&gt;
-      &lt;li&gt;Diarréia ou constipação&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Perda de peso&lt;/li&gt;
-  &lt;li&gt;Sintomas compressivos de órgãos abdominais
-    &lt;ul&gt;
-      &lt;li&gt;Principalmente do trato urinário e gastrointestinal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sangramento genital&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Massa pélvica ou pélvico-abdominal uni ou bilateral
-    &lt;ul&gt;
-      &lt;li&gt;sendo a &lt;strong&gt;bilateralidade&lt;/strong&gt; fortemente indicativa de malignidade&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Abdome volumoso sobre membros inferiores emagrecidos (casos avançados)&lt;/li&gt;
-  &lt;li&gt;Toque vaginal: identifica tumores
-    &lt;ul&gt;
-      &lt;li&gt;sólidos ou mistos,&lt;/li&gt;
-      &lt;li&gt;de consistência firme, por vezes, pétrea,&lt;/li&gt;
-      &lt;li&gt;freqüentemente aderida a outros órgãos pélvicos&lt;/li&gt;
-      &lt;li&gt;superfície irregular&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ascite pode ser volumosa
-    &lt;ul&gt;
-      &lt;li&gt;podendo dificultar a percepção de pequenas massas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;USG&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;o primeiro e mais versátil método utilizado no diagnóstico diferencial, sendo particularmente útil na diferenciação entre cistos funcionais e neoplásicos&lt;/li&gt;
-      &lt;li&gt;a maioria dos tumores ovarianos são achados incidentais de ultra-sonografias de rotina.&lt;/li&gt;
-      &lt;li&gt;Os abscessos e os endometriomas, como complicações de doenças pélvicas específicas, muitas vezes apresentam um quadro clínico característico que orienta o diagnóstico diferencial&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;São sinais ecográficos sugestivos de natureza neoplásica&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;bilateralidade,&lt;/li&gt;
-          &lt;li&gt;tamanho &amp;gt; 8 cm&lt;/li&gt;
-          &lt;li&gt;a cápsula espessa,&lt;/li&gt;
-          &lt;li&gt;projeções papilíferas intra ou extra císticas,&lt;/li&gt;
-          &lt;li&gt;presença de septos, principalmente os septos com espessura igual ou superior a 4 mm e no qual se visualizam vasos à dopplervelocimetria&lt;/li&gt;
-          &lt;li&gt;massas sólidas, mistas ou císticas com componente sólido mural&lt;/li&gt;
-          &lt;li&gt;ultra/dopplerfluxometria com índice de resistência &amp;lt; 0,4 e índice de pulsatilidade &amp;lt; 1,0&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Embora a ecografia possa ser utilizada para orientar a punção de cistos ovarianos, raramente encontramos situações que a justifiquem.
-        &lt;ul&gt;
-          &lt;li&gt;nos neoplásicos é arriscada, havendo suspeita de que possa piorar o prognóstico por disseminar células tumorais para a cavidade peritoneal&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Rx simples do abdome&lt;/li&gt;
-  &lt;li&gt;Citologia do líquido ascítico&lt;/li&gt;
-  &lt;li&gt;Videolaparoscopia&lt;/li&gt;
-  &lt;li&gt;Tomografia computadorizada ou ressonância magnética do abdome que podem alertar para a existência de metástase em outros órgãos abdominais&lt;/li&gt;
-  &lt;li&gt;Leucograma com VSH&lt;/li&gt;
-  &lt;li&gt;CA-125
-    &lt;ul&gt;
-      &lt;li&gt;níveis de superiores a 35 UI/mL parecem ser marcadores independentes de risco de malignidade nos tumores ecograficamente suspeitos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;I: Tumor confinado aos ovários&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Ia: Tumor limitado a um ovário, com cápsula intacta, sem tumor na superfície ovariana e sem células malignas no líquido ascítico ou lavado peritoneal.&lt;/li&gt;
-      &lt;li&gt;Ib: Tumor limitado aos dois ovários, com cápsula intacta, sem tumor na superfície ovariana e sem células malignas no líquido ascítico ou lavado peritoneal.&lt;/li&gt;
-      &lt;li&gt;Ic: Tumor limitado a um ou aos dois ovários com um dos seguintes achados: cápsula rota, tumor na superfície ovariana, células malignas no líquido ascítico ou no lavado peritoneal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;II: Tumor envolvendo um ou dois ovários com extensão para a pelve&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;IIa: Extensão e/ou implantes no útero e/ou trompas&lt;/li&gt;
-      &lt;li&gt;IIb: Extensão para outros órgãos pélvicos&lt;/li&gt;
-      &lt;li&gt;IIc: Tumor no estádio IIa ou IIb com células malignas no líquido ascítico ou no lavado peritoneal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;III: Tumor envolvendo um ou dois ovários com metástases para a cavidade peritoneal (fora da pelve) e/ou metástase para linfonodos regionais.&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;IIIa: Metástase peritoneal microscópica além da pelve.&lt;/li&gt;
-      &lt;li&gt;IIIb: Metástase peritoneal macroscópica além da pelve, de 2 cm ou menos em sua maior dimensão.&lt;/li&gt;
-      &lt;li&gt;IIIc: Metástase peritoneal maior que 2 cm em sua maior dimensão ou metástase para linfonodos regionais&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IV: Metástase a distância (fora da cavidade peritoneal) incluindo parênquima hepático.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;p&gt;Embora os métodos diagnósticos já descritos possibilitem alguma aproximação da natureza benigna ou maligna dos tumores de ovário, o diagnóstico definitivo somente pode ser firmado pela &lt;strong&gt;histopatologia&lt;/strong&gt; da peça cirúrgica.&lt;/p&gt;
-
-&lt;p&gt;Considerando ainda que as neoplasias benignas podem sofrer complicações tais como torção, sangramento ou ruptura, &lt;strong&gt;a presença de tumoração ovariana suspeita de neoplasia é indicação de cirurgia.&lt;/strong&gt; Em se confirmando a natureza benigna da neoplasia, a ooforectomia ou mesmo a exérese da tumoração é curativa.&lt;/p&gt;
-
-&lt;p&gt;A cirurgia é o tratamento primário do câncer de ovário. Permite, além do diagnóstico definitivo, a exérese da lesão e o seu estadiamento. Vigente a possibilidade de tumor maligno, um cirurgião oncologista ginecológico deverá, necessariamente, integrar a equipe. Também indispensável é a participação de patologista na sala de cirurgia para realizar a histopatologia intra-operatória por congelação que orientará a extensão do procedimento.&lt;/p&gt;
-
-&lt;p&gt;A equipe deverá estar habilitada a realizar ressecções de órgãos de toda a cavidade abdominal, tendo em vista que 70% dos cânceres de ovário apresentam metástases no momento do diagnóstico, das quais:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;85% para o peritônio,&lt;/li&gt;
-  &lt;li&gt;70% para o omento,&lt;/li&gt;
-  &lt;li&gt;35% para o fígado.&lt;/li&gt;
-  &lt;li&gt;Metástases linfáticas também são comuns, sendo
-    &lt;ul&gt;
-      &lt;li&gt;80% delas para linfonodos pélvicos&lt;/li&gt;
-      &lt;li&gt;67% aos para-aórticos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lembrando que as visas de disseminação incluem:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Transcelômica: mais comum e precoce, células ovarianas se implantam na cavidade peritoneal&lt;/li&gt;
-  &lt;li&gt;Continuidade: disseminação direta para trompas, ovário contralateral e peritônio pélvico&lt;/li&gt;
-  &lt;li&gt;Linfática: comum porém tardia, linfonodos paraórticos, pélvicos e inguinais&lt;/li&gt;
-  &lt;li&gt;Hematogênica: a mais rara, ocorrendo em casos avançados&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A laparotomia continua sendo o método mais empregado para a abordagem das neoplasias ovarianas, A laparoscopia têm evidentes limitações quanto a radicalidade oncológica, além dos riscos de disseminação inerentes às limitações do acesso para retirada da peça operatória. A exequibilidade de um procedimento por via laparoscópica não significa ser esta a via de escolha.&lt;/p&gt;
-
-&lt;p&gt;Após abordagem da cavidade por incisão mediana, aspira-se o líquido ascítico e, na ausência deste, procede-se o lavado da cavidade peritoneal, incluindo o fundo de saco de Douglas, goteiras parieto-cólicas direita e esquerda e o espaço subdiafragmático direito. É
-obrigatório o inventário de toda a cavidade com biópsia de lesões suspeitas e biópsia de linfonodos pélvicos e para-aórticos. A simples palpação dos linfonodos, com biópsia apenas dos suspeitos incorre em elevada taxa de falsos-negativos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A cirurgia básica para o câncer do ovário é a histerectomia total abdominal com anexectomia bilateral e omentectomia, além do inventário e das biópsias descritas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Cirurgia fundamental&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Histerectomia total extrafascial&lt;/li&gt;
-      &lt;li&gt;Salpingooferectomia bilateral&lt;/li&gt;
-      &lt;li&gt;Omentectomia infracólica&lt;/li&gt;
-      &lt;li&gt;Incisão mediana longitudinal&lt;/li&gt;
-      &lt;li&gt;Coleta do líquidoperitoneal&lt;/li&gt;
-      &lt;li&gt;Biópsias peritoneais na pelve&lt;/li&gt;
-      &lt;li&gt;inventário abdominal&lt;/li&gt;
-      &lt;li&gt;Ressecção de implantes macroscópicos&lt;/li&gt;
-      &lt;li&gt;Avaliação de linfonodos pélvicos e paraórticos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fazem exceção as pacientes jovens, desejosas de procriar, portadoras de tumores no estadio Ia, nas quais pode-se realizar a ooforectomia unilateral com biópsia contralateral. Negativa a biópsia, está autorizada a permanência do útero e do ovário não acometido até a consumação da maternidade, quando então uma nova laparotomia se impõe para completar o procedimento.&lt;/p&gt;
-
-&lt;p&gt;Nos tumores ovarianos avançados (&amp;gt; estágio II) recomenda-se a remoção de todas as massas possíveis de serem ressecadas, com o objetivo de eliminar todas as lesões macroscópicas, ou, pelo menos, aquelas maiores de 2 cm. Este procedimento, denominado de &lt;strong&gt;cirurgia citorredutora (debulking surgery)&lt;/strong&gt; se justifica pelo alívio da sintomatologia, principalmente gastrointestinal, pela diminuição da produção de fatores imunossupressores pelas grandes massas neoplásicas e, principalmente, pela eliminação de grandes massas, cujas células são resistentes à quimio e à radioterapia por serem mal vascularizadas e estarem predominantemente na fase de repouso do ciclo celular.&lt;/p&gt;
-
-&lt;p&gt;Nos tumores Ia a &lt;strong&gt;quimioterapia&lt;/strong&gt; não aumenta a sobrevida e, portanto, não é recomendada. Nos demais casos está indicada (no MED fala que Ib também não faz quimioterapia).&lt;/p&gt;
-
-&lt;p&gt;O cisplatino, o carboplatino, a ciclofosfamida e o paclitaxel são os agentes mais ativos contra o câncer epitelial. Em geral, os esquemas combinados têm resultado superior à monoterapia. O esquema mais utilizado para os tumores epiteliais é a combinação do paclitaxel com o cisplatino ou carboplatino, sendo este último preferível pela menor incidência de efeitos colaterais e neurotoxicidade. Os efeitos colaterais mais frequentes da quimioterapia para os tumores de ovário são náuseas, vômitos e alopécia, enquanto que o mais temido é a
-mielodepressão.&lt;/p&gt;
-
-&lt;p&gt;Nos tumores estádio IV normalmente não se opera, fazendo apenas uma poliquimioterapia exclusiva. A cirurgia citorredutora é feita em casos individualizados.&lt;/p&gt;
-
-&lt;p&gt;Embora alguns tumores de ovário sejam radiosensíveis, como por exemplo os
-disgerminomas e os tumores endometrióides, a &lt;strong&gt;radioterapia tem caído em desuso&lt;/strong&gt; pela dificuldade em realizar uma irradiação eficaz em toda a cavidade peritoneal sem incorrer em riscos importantes de lesão de alças delgadas, fígado e rins.&lt;/p&gt;
-
-&lt;p&gt;Alguns meses após o final do tratamento, as pacientes devem se submeter a uma cirurgia de revisão (second-look), com inventário da cavidade e biópsia, afim de reavaliar o sucesso do tratamento e programar novas terapias. O seguimento posterior será realizado através de exames
-de imagem do abdome e outras regiões conforme a necessidade, além da dosagem seriada do CA 125 e outros marcadores que tenham se revelado positivos no período pré-operatório.&lt;/p&gt;
-
-&lt;h3 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h3&gt;
-&lt;p&gt;Diretamente relacionado ao
-estadio. Assim&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Estadio I, a sobrevidade de 5 anos é de 76 a 93%,&lt;/li&gt;
-  &lt;li&gt;Estadio II a sobrevida está entre 60 e 74%,&lt;/li&gt;
-  &lt;li&gt;Estadio III entre 23 e 41 %&lt;/li&gt;
-  &lt;li&gt;Estadio IV em torno de 11%&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

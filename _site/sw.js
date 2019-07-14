@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/trauma/atendimento-inicial',
+      
         '/mastologia/tumores-especiais',
       
         '/obstetricia/diabetes-na-gestacao',

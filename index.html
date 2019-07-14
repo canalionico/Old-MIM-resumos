@@ -103,6 +103,19 @@ layout: default
     </div>
   </div>
 
+  <button id="trauma" class="collapsible">Traumatologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ol>
+        {% for post in site.categories.trauma %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+
 <!-- Deixar salvo aqui pra caso dê merda
     <div class="disciplinas-list">
       <ol class="disciplinas">
