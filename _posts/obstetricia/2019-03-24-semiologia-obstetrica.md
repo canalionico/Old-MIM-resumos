@@ -3,7 +3,6 @@ layout: post
 title:  Semiologia obstétrica
 categories: obstetricia
 ---
-mudei algo aqui
 A anamnese segue os mesmos princípios gerais de qualquer consulta médica, porém, focando nos aspéctos obstétricos.
 
 ## Identificação

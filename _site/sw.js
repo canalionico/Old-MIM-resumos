@@ -205,6 +205,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/semiologia-obstetrica',
       
+        '/obstetricia/endocrinologia-obstetrica',
+      
       
         '/CNAME'
       
@@ -469,6 +471,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/dm/img2.jpeg'
       
         '/assets/obstetricia/dm/white.jpeg'
+      
+        '/assets/obstetricia/endocrino/1.jpg'
       
         '/assets/obstetricia/hasg/esquemas.jpeg'
       
