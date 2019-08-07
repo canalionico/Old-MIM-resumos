@@ -205,6 +205,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/semiologia-obstetrica',
       
+        '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno',
+      
         '/obstetricia/endocrinologia-obstetrica',
       
       
