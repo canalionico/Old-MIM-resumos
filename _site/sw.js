@@ -530,6 +530,14 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/rpmo/img9.jpeg'
       
+        '/assets/obstetricia/semio/cloasma.jpg'
+      
+        '/assets/obstetricia/semio/hunter.jpg'
+      
+        '/assets/obstetricia/semio/linea-nigra.jpg'
+      
+        '/assets/obstetricia/semio/tuberculos.jpg'
+      
         '/assets/obstetricia/tpp/cisam.jpeg'
       
         '/assets/obstetricia/tpp/img.jpeg'
