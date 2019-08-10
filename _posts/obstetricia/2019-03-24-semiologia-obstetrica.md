@@ -157,12 +157,25 @@ A concentração do hCG atinge seu máximo com 10 semanas de amenorreia, com mé
 
 <!-- Colocar o gráfico do hCG aqui-->
 
-### USG
+### Outros
 
-
-
-
-
+* USG
+* Doppler
+* Dopplerfluxometria
+* Doppler colorido
+* Cardiotocografia
+* Sonar Doppler pulsátil
+* Tocodinamometria
+* Eletrocardiografia interna (sem mais aplicações na prática clínica)
+* Cardiotocografia computadorizada
+* Biopsia de vilo corial (alternativa segura e aceitável à amniocentese)
+* Amniocentese (estudo de cariótipo após coleta do LA)
+* Cordocentese (punção umbilical para colher amostra de sangue fetal)
+* Fetoscopia
+* Embrioscopia
+* Amnioscopia
+* RM
+* TC
 
 ## Referências
 
