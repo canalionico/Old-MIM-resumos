@@ -203,6 +203,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/mecanismo-do-parto',
       
+        '/obstetricia/diagn%C3%B3stico-da-gravidez',
+      
         '/obstetricia/semiologia-obstetrica',
       
         '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno',
