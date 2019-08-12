@@ -203,6 +203,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/mecanismo-do-parto',
       
+        '/obstetricia/idade-da-gestacao-e-dpp',
+      
         '/obstetricia/diagn%C3%B3stico-da-gravidez',
       
         '/obstetricia/semiologia-obstetrica',
