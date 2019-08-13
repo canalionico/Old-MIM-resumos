@@ -203,6 +203,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/mecanismo-do-parto',
       
+        '/obstetricia/pre-natal-de-baixo-risco',
+      
         '/obstetricia/idade-da-gestacao-e-dpp',
       
         '/obstetricia/diagn%C3%B3stico-da-gravidez',
@@ -471,6 +473,8 @@ self.addEventListener('install', function (event) {
         '/assets/neonatologia/obst-intest/img.jpeg'
       
         '/assets/neonatologia/vitalidade-fetal/img.jpeg'
+      
+        '/assets/obstetricia/diag.png'
       
         '/assets/obstetricia/dm/img.jpeg'
       
