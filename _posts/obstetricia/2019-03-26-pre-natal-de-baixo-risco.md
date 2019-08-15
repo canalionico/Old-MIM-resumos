@@ -339,36 +339,324 @@ menos de 20 semanas;
 * Casos clínicos que necessitem de avaliação hospitalar: cefaleia intensa e súbita, sinais neurológicos, crise aguda de asma etc. Nos casos com menos de 20 semanas, as gestantes podem ser encaminhadas à emergência clínica.
 
 # Calendário de consultas
+Deve iniciar no primeiro trimestre e deve ser regular. São necessários no mínimo 6 consultas, com acompanhamento intercalado entre o médico e o enfermeiro.
 
+As consultas devem seguir o esquema:
 
+1. Até 28 semanas: mensalmente
+2. Das 28 até 36 semanas: quinzenalmente
+3. Das 36 até 41 semanas: semanalmente
+
+A maior frequência de visitas no final da gestação visa à avaliação do risco perinatal e
+das intercorrências clínico-obstétricas mais comuns nesse trimestre, como trabalho de parto
+prematuro, pré-eclâmpsia e eclâmpsia, amniorrexe prematura e óbito fetal. Não existe “alta” do
+pré-natal antes do parto.
+
+Quando o parto não ocorre até a 41a semana, é necessário encaminhar a gestante para
+avaliação do bem-estar fetal, incluindo avaliação do índice do líquido amniótico e monitoramento
+cardíaco fetal. Estudos clínicos randomizados demonstram que a conduta de induzir o trabalho
+de parto em todas as gestantes com 41 semanas de gravidez é preferível à avaliação seriada do
+bem-estar fetal, pois se observou menor risco de morte neonatal e perinatal e menor chance de
+cesariana no grupo submetido à indução do parto com 41 semanas.
+
+O acompanhamento da mulher no ciclo grávido-puerperal deve ser iniciado o mais
+precocemente possível e só **se encerra após o 42o dia de puerpério**, período em que a consulta de
+puerpério deverá ter sido realizada.
 
 # Roteiro da primeira consulta
 
-# Anamnese
+## Anamnese
 
-# Exame físico
+- Número de recém-nascidos: pré-termo (antes da 37a semana de gestação), pós-termo
+(igual ou mais de 42 semanas de gestação);
+- Número de recém-nascidos de baixo peso (menos de 2.500g) e com mais de 4.000g;
+- Número de recém-nascidos prematuros ou pequenos para a idade gestacional;
+- Mortes neonatais precoces: até sete dias de vida (número e motivo dos óbitos);
+- Mortes neonatais tardias: entre sete e 28 dias de vida (número e motivo dos óbitos);
+- Natimortos (morte fetal intraútero e idade gestacional em que ocorreu);
+- Recém-nascidos com icterícia, transfusão, hipoglicemia, ex-sanguíneo- transfusões;
+- Intercorrências ou complicações em gestações anteriores (deve-se especificá-las);
+- Complicações nos puerpérios (deve-se descrevê-las);
+- Histórias de aleitamentos anteriores (duração e motivo do desmame).
 
-# Exames complementares
 
-# Condutas gerais
+## Exame físico
 
-# Roteiro das consultas subsequentes
+Após a 12a semana, deve-se medir a altura do fundo
+uterino no abdome. A ausculta fetal será possível após a 10a-12a semana, com o sonar-doppler.
+
+
+## Exames complementares
+
+* Hemograma;
+* Tipagem sanguínea e fator Rh;
+* Coombs indireto (se for Rh negativo);
+* Glicemia de jejum;
+* Teste rápido de triagem para sífilis e/ou VDRL/RPR;
+* Teste rápido diagnóstico anti-HIV;
+* Anti-HIV;
+* Toxoplasmose IgM e IgG;
+* Sorologia para hepatite B (HbsAg);
+* Exame de urina e urocultura;
+* Ultrassonografia obstétrica (não é obrigatório), com a função de verificar a idade gestacional;
+* Citopatológico de colo de útero (se necessário);
+* Exame da secreção vaginal (se houver indicação clínica);
+* Parasitológico de fezes (se houver indicação clínica);
+* Eletroforese de hemoglobina (se a gestante for negra, tiver antecedentes familiares de
+anemia falciforme ou apresentar história de anemia crônica).
+
+## Condutas gerais
+
+* Deve-se incentivar o aleitamento materno exclusivo até os seis meses;
+* Deve-se prescrever suplementação de sulfato ferroso (40mg de ferro elementar/dia) e ácido
+fólico (5mg/dia) para profilaxia da anemia;
+* Deve-se encaminhar a gestante para imunização antitetânica (vacina dupla viral), quando a
+paciente não estiver imunizada;
 
 # Cálculo da idade gestacional
 
-# Cálculo da data provável do parto
+Os métodos para esta estimativa dependem da **data da última menstruação** (DUM), que
+corresponde ao **primeiro dia de sangramento do último ciclo menstrual referido pela mulher**.
+
+> É o método de escolha para se calcular a idade gestacional em mulheres com ciclos menstruais
+regulares e sem uso de métodos anticoncepcionais hormonais:
+
+Se o período foi no início, meio ou fim do mês, considere como data da última menstruação os dias 5, 15 e 25, respectivamente. Proceda, então, à utilização de um dos métodos descritos.
+
+Outras referências:
+
+* Data de início dos movimentos fetais, que habitualmente ocorrem entre 18 e 20 semanas.
+* Até a 6a semana, não ocorre alteração do tamanho uterino;
+* Na 8a semana, o útero corresponde ao dobro do tamanho normal;
+* Na 10a semana, o útero corresponde a três vezes o tamanho habitual;
+* Na 12a semana, o útero enche a pelve, de modo que é palpável na sínfise púbica;
+* Na 16a semana, o fundo uterino encontra-se entre a sínfise púbica e a cicatriz umbilical;
+* Na 20a semana, o fundo do útero encontra-se na altura da cicatriz umbilical;
+* A partir da 20a semana, existe relação direta entre as semanas da gestação e a medida da altura uterina. Porém, este parâmetro torna-se menos fiel a partir da 30a semana de idade gestacional.
+
+Quando não for possível determinar clinicamente a idade gestacional, solicite o mais
+precocemente possível a ultrassonografia obstétrica.
 
 # Avaliação do estado nutricional e do ganho de peso gestacional
 
+Sobrepeso e obesidade (S e O): investigue a obesidade pré-gestacional, casos de edema,
+polidrâmnio, macrossomia e gravidez múltipla. Dê orientação nutricional à gestante, visandopromoção do peso adequado e de hábitos alimentares saudáveis, ressaltando que, no período
+gestacional, não se deve perder peso, pois é desejável mantê-lo. Remarque a consulta em
+intervalo menor do que o fixado no calendário habitual. Caso necessário, é interessante discutir
+o caso com os profissionais do Nasf.
+
+Sabe-se que a obesidade está associada a uma frequência mais alta de distócias, diabeteshipertensão e a um risco maior de cesariana. Por outro lado, na gestante com baixo peso há um
+risco maior de parto prematuro.
+
+![Ganho de peso](/assets/obstetricia/ganho-peso.jpeg)
+
+Observe que as gestantes deverão ter ganhos de peso distintos, de acordo com seu IMC inicial.
+Para a previsão do ganho, faz-se necessário calcular quanto a gestante já ganhou de peso e
+quanto ainda deve ganhar até o fim da gestação em função da avaliação clínica.
+
+Gestantes de baixo peso deverão ganhar entre 12,5 e 18,0kg durante toda a gestação, sendo
+este ganho, em média, de 2,3kg no primeiro trimestre da gestação (até a 13a semana) e de 0,5kg
+por semana no segundo e terceiro trimestres de gestação.
+
+Essa variabilidade de ganho recomendado deve-se ao entendimento de que gestantes com BP
+acentuado (ou seja, aquelas muito distantes da faixa de normalidade) devem ganhar mais peso
+(até 18,0kg) do que aquelas situadas em área próxima à faixa de normalidade, cujo ganho deve
+situar-se em torno de 12,5kg.
+
+
+![Ganho de peso](/assets/obstetricia/imc-graf.jpeg)
+
 # Controle da PA
+
+Conceitua-se hipertensão arterial na gestação a partir dos seguintes parâmetros:
+
+* A observação de níveis tensionais absolutos iguais ou maiores do que 140mmHg de pressão sistólica e iguais ou maiores do que 90mmHg de pressão diastólica, mantidos em medidas repetidas, em condições ideais, em pelo menos três ocasiões. Este conceito é mais simples e
+preciso. A PA diastólica deve ser identificada pela fase V de Korotkoff.
+* O aumento de 30mmHg ou mais na pressão sistólica (máxima) e/ou de 15mmHg ou mais na pressão diastólica (mínima), em relação aos níveis tensionais pré-gestacionais e/ou conhecidos até a 16a semana de gestação, representa um conceito que foi muito utilizado no passado e ainda é utilizado por alguns. Entretanto, apresenta alto índice de falsos positivos, sendo utilizado de melhor forma como sinal de alerta e para agendamento de controles mais próximos.
+
+A hipertensão arterial sistêmica (HAS) na gestação é classificada nas seguintes categorias
+principais:
+
+* Pré-eclâmpsia: caracterizada pelo aparecimento de HAS e proteinúria (> 300 mg/24h) após a 20a semana de gestação em mulheres previamente normotensas;
+* Eclâmpsia: corresponde à pré-eclâmpsia complicada por convulsões que não podem ser atribuídas a outras causas;
+* Pré-eclâmpsia superposta à HAS crônica: definida pela elevação aguda da PA, à qual se agregam proteinúria, trombocitopenia ou anormalidades da função hepática, em gestantes portadoras de HAS crônica com idade gestacional superior a 20 semanas;
+* Hipertensão arterial sistêmica crônica: é definida por hipertensão registrada antes da gestação, no período que precede à 20a semana de gravidez ou além de doze semanas após o parto;
+* Hipertensão gestacional: caracterizada por HAS detectada após a 20a semana, sem proteinúria, podendo ser definida como “transitória” (quando ocorre normalização após o parto) ou “crônica” (quando persistir a hipertensão).
+
+Para a medida propriamente, após certificar-se de que o esfigmomanômetro esteja calibrado:
+
+1. Obtenha a circunferência aproximadamente no meio do braço. Após a medida, selecione o manguito de tamanho adequado ao braço.
+2. Coloque o manguito, sem deixar folgas, a 2 ou 3 cm acima da fossa cubital.
+3. Centralize o meio da parte compressiva do manguito sobre a artéria braquial.
+4. Estime o nível da pressão sistólica pela palpação do pulso radial. O seu reaparecimento
+corresponderá à PA sistólica.
+5. Palpe a artéria braquial na fossa cubital e coloque a campânula ou o diafragma do estetoscópio sem compressão excessiva.
+6. Infle rapidamente o equipamento até ultrapassar 20 a 30mmHg do nível estimado da pressão sistólica obtido pela palpação.
+7. Proceda à deflação lentamente (velocidade de 2mmHg por segundo).
+8. Determine a pressão sistólica pela ausculta do primeiro som (fase I de Korotkoff), que é em geral fraco, seguido de batidas regulares, e depois aumente ligeiramente a velocidade de deflação.
+9. Determine a pressão diastólica no desaparecimento dos sons (fase V de Korotkoff).
+10. Ausculte cerca de 20 a 30mmHg abaixo do último som, para confirmar seu desaparecimento, e depois proceda à deflação rápida e completa.
+11. Se os batimentos persistirem até o nível zero, determine a pressão diastólica no abafamento dos sons (fase IV de Korotkoff) e anote os valores da sistólica/diastólica/zero.
+12. Sugere-se esperar em torno de um minuto para nova medida, embora este aspecto seja controverso.
+13. Informe os valores de pressões arteriais obtidos para a paciente.
+14. Anote os valores exatos sem “arredondamentos” e o braço em que a pressão arterial foi medida.
+
+![Ganho de peso](/assets/obstetricia/PA.jpeg)
+
+> Obs.: O acompanhamento da PA deve ser avaliado em conjunto com o ganho de peso súbito e/ou a presença de edema, principalmente a partir da 24a semana. Mulheres com ganho de peso superior a 500g por semana, mesmo sem aumento da pressão arterial, devem ter seus retornos antecipados, considerando-se maior risco de pré-eclâmpsia.
 
 # Palpação obstétrica e medida da AFU
 
+## Palpação
 
-.....................
+A palpação obstétrica deve ser realizada antes da medida da altura uterina. Ela deve iniciar-
+se pela delimitação do fundo uterino, bem como de todo o contorno da superfície uterina (este
+procedimento reduz o risco de erro da medida da altura uterina). A identificação da situação e
+da apresentação fetal é feita por meio da palpação obstétrica, procurando-se identificar os polos
+cefálico e pélvico e o dorso fetal, facilmente identificados a partir do terceiro trimestre. Pode-se,
+ainda, estimar a quantidade de líquido amniótico.
+
+A percepção materna e a constatação objetiva de movimentos fetais, além do crescimento
+uterino, são sinais de boa vitalidade fetal.
+
+Técnica para palpação abdominal (Manobras de Leopold): Consiste em um método palpatório do abdome materno em 4 passos.
+
+1. Delimite o fundo do útero com a borda cubital de ambas as mãos e reconheça a parte fetal que o ocupa;
+2. Deslize as mãos do fundo uterino até o polo inferior do útero, procurando sentir o dorso e as pequenas partes do feto;
+3. Explore a mobilidade do polo, que se apresenta no estreito superior pélvico;
+4. Determine a situação fetal, colocando as mãos sobre as fossas ilíacas, deslizando-as em direção à escava pélvica e abarcando o polo fetal, que se apresenta. As situações que podem ser encontradas são: longitudinal (apresentação cefálica e pélvica), transversa (apresentação córmica) e oblíquas.
+  * O feto pode estar em situação longitudinal (mais comum) ou transversa. A situação transversa reduz a medida de altura uterina, podendo falsear sua relação com a idade gestacional.
+  * As apresentações mais frequentes são a cefálica e a pélvica.
 
 
+![Ganho de peso](/assets/obstetricia/leopold.jpeg)
 
+![Ganho de peso](/assets/obstetricia/leopold2.jpeg)
+
+![Ganho de peso](/assets/obstetricia/leopold3.jpeg)
+
+A situação transversa e a apresentação pélvica, ao final da gestação, podem significar risco no
+momento do parto. Nestas condições, a mulher deve ser referida para a unidade hospitalar de
+referência que tenha condições de atender caso de distócia.
+
+## Altura de fundo uterino
+
+Padrão de referência: curvas de altura uterina para idade gestacional desenhadas a partir
+dos dados do Centro Latino-Americano de Perinatologia (Clap). Existem, ainda, outras curvas
+nacionais e internacionais utilizadas por alguns serviços isoladamente (grau de recomendação B).
+
+I. Técnica para medida da altura uterina:
+
+- Posicione a gestante em decúbito dorsal, com o abdome descoberto;
+- Delimite a borda superior da sínfise púbica e o fundo uterino;
+- Por meio da palpação, procure corrigir a comum dextroversão uterina;
+- Fixe a extremidade inicial (0cm) da fita métrica, flexível e não extensível, na **borda superior da sínfise púbica com uma das mãos, passando-a entre os dedos indicador e médio**.
+- Deslize a fita métrica entre os dedos indicador e médio da outra mão até alcançar o fundo do útero com a margem cubital da mesma mão;
+- Proceda à leitura quando a borda cubital da mão atingir o fundo uterino;
+- Anote a medida (em centímetros) na ficha e no cartão e marque o ponto na curva da altura uterina.
+
+![Ganho de peso](/assets/obstetricia/afu.jpeg)
+
+![Ganho de peso](/assets/obstetricia/afu2.jpeg)
+
+Quando os dados da amenorreia são confiáveis e se descarta a possibilidade de feto morto
+e oligoâmnio, a medida da altura uterina permite diagnosticar o crescimento intrauterino
+retardado com uma sensibilidade de 56% e uma especificidade de 91%.
+
+A sensibilidade da altura uterina para o diagnóstico de macrossomia fetal é de 92% e sua
+especificidade 72%, uma vez que tenham sido excluídos a gravidez gemelar, os polidrâmnios e a
+miomatose uterina.
+
+![Ganho de peso](/assets/obstetricia/afu3.jpeg)
+
+![Ganho de peso](/assets/obstetricia/afu4.jpeg)
+
+# Ausculta dos BCFs
+
+Constatar a cada consulta a presença, o ritmo, a frequência e a normalidade dos batimentos
+cardíacos fetais (BCF). Deve ser realizada com sonar, após 12 semanas de gestação, ou com Pinard,
+após 20 semanas (grau de recomendação C).
+
+**É considerada normal a frequência cardíaca fetal entre 120 a 160 batimentos por minuto.**
+
+> Observação: após uma contração uterina, a movimentação fetal ou o estímulo mecânico sobre o
+útero, um aumento transitório na frequência cardíaca fetal é sinal de boa vitalidade. Por outro lado,
+uma desaceleração ou a não alteração da frequência cardíaca fetal, concomitante a estes eventos,
+é sinal de alerta, o que requer aplicação de metodologia para avaliação da vitalidade fetal. Nestes
+casos, recomenda-se referir a gestante para um nível de maior complexidade ou à maternidade.
+
+I. Técnica para ausculta dos batimentos cardiofetais:
+
+- Posicione a gestante em decúbito dorsal, com o abdômen descoberto;
+- Identifique o dorso fetal. Além de realizar a palpação, deve-se perguntar à gestante em qual lado ela sente mais os movimentos fetais; o dorso estará no lado oposto;
+- Segure o estetoscópio de Pinard pelo tubo, encostando a extremidade de abertura mais ampla no local previamente identificado como correspondente ao dorso fetal;
+- Encoste o pavilhão da orelha na outra extremidade do estetoscópio;
+- Faça, com a cabeça, leve pressão sobre o estetoscópio e, só então, retire a mão que segura o tubo;
+- Quando disponível, utilize o sonar doppler;
+- Procure o ponto de melhor ausculta dos BCF na região do dorso fetal;
+- **Controle o pulso da gestante para certificar-se de que os batimentos ouvidos são os do feto**, já que as frequências são diferentes;
+- **Conte os batimentos cardíacos fetais por um minuto, observando sua frequência e seu ritmo**;
+- Registre os BCF na ficha perinatal e no Cartão da Gestante;
+- Avalie resultados da ausculta dos BCF.
+
+![Ganho de peso](/assets/obstetricia/bcf.jpeg)
+
+![Ganho de peso](/assets/obstetricia/bcf2.jpeg)
+
+O kit da UBS, contemplado na Rede Cegonha, conta com sonar, fita métrica, gestograma, caderno de atenção básica (CAB) pré natal e balança de adulto.
+
+## Registro dos movimentos fetais
+
+## Teste do estímulo sonoro simplificado (Tess)
+
+Material necessário:
+• Sonar doppler;
+• Buzina de Kobo (buzina de bicicleta)
+
+Técnica:
+
+* Coloque a mulher em decúbito dorsal com a cabeceira elevada (posição de Fowler);
+* Palpe o polo cefálico;
+* Ausculte os BCF por quatro períodos de 15 segundos e calcule a média (obs.: a gestante não deve estar com contração uterina);
+* Realize o estímulo sonoro, colocando a buzina sobre o polo cefálico fetal com ligeira compressão sobre o abdome materno (aplique o estímulo entre três e cinco segundos ininterruptos). Durante a realização do estímulo, deve-se observar o abdome materno, procurando identificar movimentos fetais visíveis;
+* Imediatamente após o estímulo, repita a ausculta dos BCF por novos quatro períodos de 15 segundos e refaça a média dos batimentos.
+
+Interpretação do resultado:
+
+* Teste positivo: presença de aumento mínimo de 15 batimentos em relação à medida inicial ou presença de movimentos fetais fortes e bruscos na observação do abdome materno durante a realização do estímulo;
+* Teste negativo: ausência de resposta fetal identificada tanto pela falta de aumento dos BCF quanto pela falta de movimentos fetais ativos. O teste deverá ser realizado duas vezes, com intervalo de, pelo menos, dez minutos para se considerar negativo.
+
+Na presença de teste simplificado negativo e/ou desaceleração da frequência cardíaca fetal,
+está indicada a utilização de método mais apurado para avaliação da vitalidade fetal. Faça a
+referência da paciente para um serviço especializado no atendimento à gestante ou um pronto-
+atendimento obstétrico.
+
+# Verificação de Edema
+
+Nos membros inferiores:
+
+* Posicione a gestante em decúbito dorsal ou sentada, sem meias;
+* Pressione a pele na altura do tornozelo (região perimaleolar) e na perna, no nível do seu terço médio, face anterior (região pré-tibial). O edema fica evidenciado mediante presença de depressão duradoura no local pressionado.
+
+![Ganho de peso](/assets/obstetricia/edema.jpeg)
+
+Na região sacra:
+
+* Posicione a gestante em decúbito lateral ou sentada;
+* Pressione a pele, por alguns segundos, na região sacra, com o dedo polegar. O edema fica evidenciado mediante presença de depressão duradoura no local pressionado.
+
+Na face e nos membros superiores, identifique a presença de edema pela inspeção.
+
+> A presença de edema ocorre em 80% das gestantes e ele é pouco sensível e específico para o
+diagnóstico de pré-eclâmpsia!
+
+![Ganho de peso](/assets/obstetricia/edema2.jpeg)
+
+![Ganho de peso](/assets/obstetricia/edema3.jpeg)
+
+![Ganho de peso](/assets/obstetricia/edema4.jpeg)
+
+# Exame ginecológico
 
 
 
