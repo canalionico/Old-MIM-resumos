@@ -45,6 +45,10 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/obstetricia/assistencia-pre-natal',
+      
+        '/obstetricia/assistencia-ao-parto-e-partograma',
+      
         '/trauma/atendimento-inicial',
       
         '/mastologia/tumores-especiais',
@@ -474,6 +478,20 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/vitalidade-fetal/img.jpeg'
       
+        '/assets/obstetricia/PA.jpeg'
+      
+        '/assets/obstetricia/afu.jpeg'
+      
+        '/assets/obstetricia/afu2.jpeg'
+      
+        '/assets/obstetricia/afu3.jpeg'
+      
+        '/assets/obstetricia/afu4.jpeg'
+      
+        '/assets/obstetricia/bcf.jpeg'
+      
+        '/assets/obstetricia/bcf2.jpeg'
+      
         '/assets/obstetricia/diag.png'
       
         '/assets/obstetricia/dm/img.jpeg'
@@ -482,7 +500,31 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/dm/white.jpeg'
       
+        '/assets/obstetricia/edema.jpeg'
+      
+        '/assets/obstetricia/edema2.jpeg'
+      
+        '/assets/obstetricia/edema3.jpeg'
+      
+        '/assets/obstetricia/edema4.jpeg'
+      
         '/assets/obstetricia/endocrino/1.jpg'
+      
+        '/assets/obstetricia/exames.jpeg'
+      
+        '/assets/obstetricia/exames2.jpeg'
+      
+        '/assets/obstetricia/exames3.jpeg'
+      
+        '/assets/obstetricia/exames4.jpeg'
+      
+        '/assets/obstetricia/exames5.jpeg'
+      
+        '/assets/obstetricia/exames6.jpeg'
+      
+        '/assets/obstetricia/exames7.jpeg'
+      
+        '/assets/obstetricia/ganho-peso.jpeg'
       
         '/assets/obstetricia/hasg/esquemas.jpeg'
       
@@ -498,6 +540,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/hpp/tab.png'
       
+        '/assets/obstetricia/imc-graf.jpeg'
+      
         '/assets/obstetricia/infeccao-puerperal/colpo.jpeg'
       
         '/assets/obstetricia/infeccao-puerperal/img.jpeg'
@@ -505,6 +549,12 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/infeccao-puerperal/sepse-tto.jpeg'
       
         '/assets/obstetricia/infeccao-puerperal/sepse.jpeg'
+      
+        '/assets/obstetricia/leopold.jpeg'
+      
+        '/assets/obstetricia/leopold2.jpeg'
+      
+        '/assets/obstetricia/leopold3.jpeg'
       
         '/assets/obstetricia/pp/dd.jpeg'
       
@@ -546,6 +596,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/semio/tuberculos.jpg'
       
+        '/assets/obstetricia/tp/dilatacao.jpeg'
+      
         '/assets/obstetricia/tpp/cisam.jpeg'
       
         '/assets/obstetricia/tpp/img.jpeg'
@@ -567,6 +619,10 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/tpp/img8.jpeg'
       
         '/assets/obstetricia/tpp/img9.jpeg'
+      
+        '/assets/obstetricia/vacina.jpeg'
+      
+        '/assets/obstetricia/vacina2.jpeg'
       
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       

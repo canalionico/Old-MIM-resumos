@@ -1,4 +1,198 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-12T20:48:12-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Atendimento inicial</title><link href="http://localhost:4000/trauma/atendimento-inicial" rel="alternate" type="text/html" title="Atendimento inicial" /><published>2019-07-08T00:00:00-03:00</published><updated>2019-07-08T00:00:00-03:00</updated><id>http://localhost:4000/trauma/atendimento-inicial</id><content type="html" xml:base="http://localhost:4000/trauma/atendimento-inicial">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-15T22:25:06-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Assistência ao parto e partograma</title><link href="http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma" rel="alternate" type="text/html" title="Assistência ao parto e partograma" /><published>2019-08-15T00:00:00-03:00</published><updated>2019-08-15T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma</id><content type="html" xml:base="http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma">&lt;p&gt;O trabalho de parto contempla três fases: dilatação, expulsão e secundamento. Essas fases são precedidas por uma fase preliminar chamada de período premonitório. O quarto período sería a primeira hora após o secundamento que é considerado como o término do parto por alguns autores (por ser um período de ainda muitos riscos e que carece de atenção continuada pelos obstetras - como atonia e hemorragia).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fase de dilatação: ampliação do diafragma cervicossegmentário, primeiro período do parto.&lt;/li&gt;
+  &lt;li&gt;Fase de expulsão: passagem do feto pelo diafragma vulvoperineal, segundo período do parto.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;período-premonitório&quot;&gt;Período premonitório&lt;/h3&gt;
+
+&lt;p&gt;Corresponde ao pré-parto. Caracterizado pela descida do fundo uterino (popularmente conhecido como &lt;strong&gt;&lt;em&gt;queda do ventre&lt;/em&gt;&lt;/strong&gt;). No que se situava no próximo do apêndice xifoide, o FU baixa 2 a 4 cm. Nesse momento a gestante sente um alivio na respiração uma vez que a capacidade de expansão pulmonar aumenta.&lt;/p&gt;
+
+&lt;p&gt;A gestante começa a perceber as metróssistoles dolorosas que dão lugar às antigas contrações de Braxton-Hicks. Os intervalos entre as contrações se tornam cada vez mais curtos e as contrações vão se intensificando, prenunciando o
+parto (&lt;em&gt;dolores praeparantes&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;Ainda nessa fase se acentua o amolecimento do colo e o apagamento (nas primíparas?).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O amadurecimento da cérvice é um mecanismo complexo e ainda não totalmente esclarecido, podendo ser dividido em duas fases, uma que se inicia desde o 1ºT e se caracteriza pelo lento amolecimento do colo.
+Apesar do progressivo aumento na complacência do colo, a competência do tecido se mantém. A segunda fase é
+mais acelerada e se caracteriza pela máxima perda de complacência e integridade tecidual. Essa fase ocorre
+semanas ou dias antes do parto e torna possível que o colo esteja amadurecido para se dilatar e promover a
+passagem do concepto a termo após o início das contrações.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O colo começa também a se alinhar ao eixo do canal vaginal (abaixamento do colo).&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico-de-tp&quot;&gt;Diagnóstico de TP&lt;/h2&gt;
+
+&lt;p&gt;É difícil delimitar o momento exato em que começa o trabalho de parto. Deve-se considerar o TP como uma síndrome pois avaliar os sinais e sintomas isoladamente não têm valor absoluto. A imprecisão no
+diagnóstico e a confusão com o falso trabalho de parto podem acarretar internamento precoce e seus efeitos
+deletérios (muitas intervenções não necessárias).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Diretriz do Institute for Clinical Systems Improvement (ICSI) de 2013:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ocorrência de contrações uterinas espontâneas e rítmicas (&lt;strong&gt;pelo menos duas em 15 min&lt;/strong&gt;), associadas a, pelo menos, dois dos seguintes sinais:
+    &lt;ul&gt;
+      &lt;li&gt;Apagamento cervical&lt;/li&gt;
+      &lt;li&gt;Colo dilatado para &lt;strong&gt;3 cm ou mais&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;Ruptura espontânea da bolsa das águas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;aviso aviso-red&quot;&gt;Segundo o CAB32: Diagnóstico: contrações fortes e frequentes (2 ou mais em 10 minutos), com “puxos” (sensação de pressão no períneo) e/ou visualização de distensão perineal ou da apresentação de bebê na vulva&lt;/p&gt;
+
+&lt;h2 id=&quot;fase-de-dilatação&quot;&gt;Fase de dilatação&lt;/h2&gt;
+
+&lt;p&gt;É o primeiro período do parto. Começa com as contrações rítmicas que começam a modificar a cérvice de forma ativa e termina quando a dilatação se completa, &lt;em&gt;i.e.&lt;/em&gt;, chega nos 10 cm.&lt;/p&gt;
+
+&lt;p&gt;Este período ainda pode ser dividido em outros dois:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Fase latente&lt;/strong&gt;: dilatação cervical gradual&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fase ativa&lt;/strong&gt;: dilatação cervical rápida&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A curva de trabalho de parto em multíparas tende a mostrar
+um ponto de inflexão por volta dos 5 cm de dilatação, sendo esse ponto quase sempre não caracterizado ou
+ausente em primíparas. Quando presente, ocorre com dilatação cervical mais avançada e sempre é, em qualquer
+situação, diagnóstico retrospectivo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tp/dilatacao.jpeg&quot; alt=&quot;Dilatação&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Às dolores praeparantes do período premonitório sucedem-se as dolores pressagiantes da fase de dilatação,
+quando o trabalho de parto desencadeado é percebido até por leigos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ainda no 1º período é quando ocorre a ampliação do diafragma cervicossegmentário para a formação do canal de parto. Composto por dois eventos predominantes: o &lt;strong&gt;apagamento do colo&lt;/strong&gt;, ou desaparecimento do espaço cervical, com a incorporação
+dele à cavidade uterina; e a &lt;strong&gt;dilatação da cérvice&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ao fim desse processo, as suas bordas limitantes ficam
+reduzidas a simples relevos, aplicados às paredes vaginais.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;aviso aviso-red&quot;&gt;Nas primíparas ocorre primeiro o apagamento e depois a dilatação. Já nas multíparas, os dois eventos ocorrem simultâneamente (ver a imagem de cima).&lt;/p&gt;
+
+&lt;p&gt;O polo inferior do ovo constitui a &lt;strong&gt;bolsa das águas&lt;/strong&gt;, que
+se insinua, a princípio, pelo orifício interno do colo, a cujos lábios transmite a onda contratural, e mantém-se &lt;strong&gt;tensa&lt;/strong&gt; no momento da contração, relaxando-se nos intervalos. A cada nova contração a tensão aumenta até que finalmente ocorre a rotura espontânea (&lt;strong&gt;amniorrexe&lt;/strong&gt;). Em 80% dos casos a rotura ocorre no fim da dilatação ou no início da expulsão.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Revisando:&lt;/strong&gt; se ocorrer a rotura antes do TP, é um &lt;strong&gt;RPMO&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Rotura:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Prematura: antes do TP&lt;/li&gt;
+      &lt;li&gt;Precoce: início do TP&lt;/li&gt;
+      &lt;li&gt;Oportunas: fim da dilatação&lt;/li&gt;
+      &lt;li&gt;Tardias: junto à expulsão do feto&lt;/li&gt;
+      &lt;li&gt;Parto empelicado: nasce envolto nas membranas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fase-de-expulsão&quot;&gt;Fase de expulsão&lt;/h2&gt;
+
+&lt;p&gt;É o segundo período do parto.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Rezendinho 13ª edição&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="obstetricia" /><summary type="html">O trabalho de parto contempla três fases: dilatação, expulsão e secundamento. Essas fases são precedidas por uma fase preliminar chamada de período premonitório. O quarto período sería a primeira hora após o secundamento que é considerado como o término do parto por alguns autores (por ser um período de ainda muitos riscos e que carece de atenção continuada pelos obstetras - como atonia e hemorragia).</summary></entry><entry><title type="html">Assistência pré-natal</title><link href="http://localhost:4000/obstetricia/assistencia-pre-natal" rel="alternate" type="text/html" title="Assistência pré-natal" /><published>2019-08-15T00:00:00-03:00</published><updated>2019-08-15T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/assistencia-pre-natal</id><content type="html" xml:base="http://localhost:4000/obstetricia/assistencia-pre-natal">&lt;h2 id=&quot;primeira-consulta&quot;&gt;Primeira consulta&lt;/h2&gt;
+
+&lt;p&gt;A consulta inicial deve ser no primeiro trimestre e deve englobar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DUM&lt;/li&gt;
+  &lt;li&gt;USG 1ºT (11-13+6 semanas – época ideal: 12 semanas)
+    &lt;ul&gt;
+      &lt;li&gt;Pode ser transvaginal ou transabdominal.&lt;/li&gt;
+      &lt;li&gt;Atualmente, costuma ser oferecido o modelo piramidal de assistência pré-natal como o mais importante da gravidez, pois certifica ou corrige a idade menstrual (datação), diagnostica gravidez gemelar, identifica algumas malformações (anencefalia, onfalocele, megabexiga), rastreia aneuploidias (translucência nucal [TN]), e prediz toxemia e parto pré-termo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exame do útero e seus anexos&lt;/li&gt;
+  &lt;li&gt;Peso e PA&lt;/li&gt;
+  &lt;li&gt;Ausculta fetal com o sonar Doppler é positiva entre 10 e 12 semanas; com o estetoscópio de Pinard, somente com 20 semanas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Na USG do 1ºT, estima-se a idade da gravidez pela medida do comprimento cabeça-nádega (CCN) do embrião, com precisão de ± 5 a 7 dias. Após 14 semanas, a idade da gestação é calculada pela medida do diâmetro biparietal (DBP) ou do comprimento do fêmur (CF), com precisão de ± 10 a 14 dias (ACOG, 2014). Para a ISUOG (2013), a medida do CCN no 1ºT apresenta precisão de ± 5 dias em 95% dos casos&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;exames-complementares-essenciais&quot;&gt;Exames complementares essenciais&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Urina (exame simples de urina [EAS] e cultura para rastrear bacteriúria assintomática)&lt;/li&gt;
+  &lt;li&gt;Grupo sanguíneo e fator Rh (para identificar a mulher Rh negativa)&lt;/li&gt;
+  &lt;li&gt;Hemograma completo (para rastrear anemia). À conta da hemodiluição fisiológica da gravidez, os níveis de hemoglobina que configuram a anemia são bem mais baixos que os existentes fora da gestação. Assim, os níveis mínimos normais de hemoglobina na gestação definidos pelo Royal College of Obstetricians and Gynaecologists (RCOG, 2015) são 11 g/dl no 1º trimestre; 10,5 g/dl no 2º e no 3º trimestres; e 10 g/dl no pós-parto.&lt;/li&gt;
+  &lt;li&gt;Glicemia de jejum (Estudo Hyperglycemia Adverse Pregnancy Outcome, HAPO – 2008)&lt;/li&gt;
+  &lt;li&gt;Reações sorológicas: sífilis (VDRL), toxoplasmose, HIV, hepatite B (HBsAg); a sorologia para rubéola não é mais obrigatória no pré-natal (Ministério da Saúde, 2011)&lt;/li&gt;
+  &lt;li&gt;Rastreamento de clamídia e gonococo (Centers for Disease Control and Prevention [CDC], 2015)&lt;/li&gt;
+  &lt;li&gt;Citologia cervicovaginal&lt;/li&gt;
+  &lt;li&gt;Identificação da mulher que necessita de cuidados adicionais
+    &lt;ul&gt;
+      &lt;li&gt;Exame das mamas visando à promoção do aleitamento não está mais indicado na gravidez (National Institute for Health and Clinical Excellence [NICE, 2008]).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;consultas-seguintes&quot;&gt;Consultas seguintes&lt;/h2&gt;
+
+&lt;p&gt;As consultas subsequentes serão mensais até 32 semanas; quinzenais, de 32 a 36 semanas; e semanais, de 36 semanas até o parto. E a cada consulta, serão avaliados: peso, PA, batimentos cardiofetais (BCF) e fundo do útero.&lt;/p&gt;
+
+&lt;p&gt;Consultas especiais:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;20 a 24 semanas: USG abdominal morfológica, para avaliar as estruturas fetais, localizar a placenta e o cordão umbilical; avaliar o Doppler das artérias uterinas e medir a circunferência abdominal (CA) para rastrear o crescimento intrauterino restrito (CIR) placentário precoce. Aconselha-se, nessa oportunidade, medir o colo uterino por ultrassonografia transvaginal, visando à predição do parto pré-termo.&lt;/li&gt;
+  &lt;li&gt;24 a 28 semanas: teste oral de tolerância à glicose de 75 g (TOTG-75), para o diagnóstico de diabetes melito gestacional (DMG)&lt;/li&gt;
+  &lt;li&gt;26 a 32 semanas: a grávida deve ser conscientizada do significado do movimento fetal&lt;/li&gt;
+  &lt;li&gt;28 semanas: deve-se repetir a dosagem da hemoglobina e administrar a primeira dose da imunoglobulina anti-D para mulheres Rh-negativo não sensibilizadas com fetos Rh-positivo pelo NIPT; deve-se repetir o VDRL&lt;/li&gt;
+  &lt;li&gt;32 a 36 semanas: deve-se medir a CA (rastrear o CIR placentário tardio)&lt;/li&gt;
+  &lt;li&gt;35 a 37 semanas: cultura vaginorretal para estreptococo do grupo B (GBS)&lt;/li&gt;
+  &lt;li&gt;36 semanas: deve-se determinar a posição fetal; para fetos em apresentação pélvica (confirmada pela USG), é preciso oferecer a versão externa&lt;/li&gt;
+  &lt;li&gt;41 semanas: deve-se propor o descolamento das membranas e a indução do parto.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vacinação&quot;&gt;Vacinação&lt;/h2&gt;
+
+&lt;p&gt;Antes da vacinação, todas as mulheres em idade fértil devem ser avaliadas sobre a possibilidade de estarem grávidas. As vacinas com vírus vivos ou vivos atenuados (rubéola, sarampo, caxumba, pólio-oral [Sabin], varicela, febre amarela) estão contraindicadas na gravidez, em função do risco teórico ao feto.&lt;/p&gt;
+
+&lt;p&gt;Grávidas inadvertidamente vacinadas com vírus vivos ou vivos atenuados não devem ser aconselhadas a abortar e mulheres vacinadas com vírus vivos ou vivos atenuados devem ser aconselhadas a evitar a gravidez por pelo menos 1 mês.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vacinas com vírus inativos (hepatites A e B, gripe [inclusive a H1N1], pólio-Salk, raiva, vacinas bacterianas e toxoides [tétano, difteria]) podem ser aplicadas com segurança.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Lactantes podem ser vacinadas.&lt;/p&gt;
+
+&lt;p&gt;Na sequência, são apresentadas as vacinas obrigatórias na gravidez:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;TDAP&lt;/strong&gt; (tríplice bacteriana acelular – tétano, difteria, pertussis): deve ser administrada no 3ºT (27 a 36 semanas), não obstante a vacinação prévia, e repetida a cada gestação.
+    &lt;ul&gt;
+      &lt;li&gt;Uma recomendação recente aponta que a vacinação materna mais precoce para pertussis no início do 3ºt (28 a 32 semanas) é o método mais efetivo de atingir altos níveis de anticorpos antipertussis com melhor proteção ao neonato.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gripe trivalente&lt;/strong&gt;: para 2016 (MS), a vacina trivalente é composta pelo vírus da influenza A/Califórnia (H1N1) e os sazonais da influenza A/Hong Kong (H3N2) e B/Brisbane. Deve ser administrada no período sazonal, no Brasil, entre março e junho&lt;/li&gt;
+  &lt;li&gt;Mulheres de risco para hepatite B devem ser vacinadas na gravidez (três doses).
+    &lt;ul&gt;
+      &lt;li&gt;O Ministério da Saúde (2015) estende a vacinação universal para 2016, embora não aborde especificamente a gravidez.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;As vacinas de sarampo, caxumba, rubéola e varicela, contraindicadas na gravidez, podem ser administradas no pós-parto.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Rezendinho 13ª edição&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="obstetricia" /><summary type="html">Primeira consulta</summary></entry><entry><title type="html">Atendimento inicial</title><link href="http://localhost:4000/trauma/atendimento-inicial" rel="alternate" type="text/html" title="Atendimento inicial" /><published>2019-07-08T00:00:00-03:00</published><updated>2019-07-08T00:00:00-03:00</updated><id>http://localhost:4000/trauma/atendimento-inicial</id><content type="html" xml:base="http://localhost:4000/trauma/atendimento-inicial">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#atendimento-pré-hospitalar&quot; id=&quot;markdown-toc-atendimento-pré-hospitalar&quot;&gt;Atendimento pré-hospitalar&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#avaliação-primária&quot; id=&quot;markdown-toc-avaliação-primária&quot;&gt;Avaliação primária&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#vias-aéreas-e-cervical&quot; id=&quot;markdown-toc-vias-aéreas-e-cervical&quot;&gt;Vias aéreas e cervical&lt;/a&gt;&lt;/li&gt;
@@ -1569,1734 +1763,4 @@ albugínea, é o principal gerador da ereção.&lt;/p&gt;
 &lt;h2 id=&quot;urgência&quot;&gt;Urgência&lt;/h2&gt;
 &lt;p&gt;Elevação importante da PA mas sem a lesão evidente de órgãos alvo. Os sintomas são mais leves que na emergência.&lt;/p&gt;
 
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Climatério</title><link href="http://localhost:4000/ginecologia/climaterio" rel="alternate" type="text/html" title="Climatério" /><published>2019-06-10T00:00:00-03:00</published><updated>2019-06-10T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/climaterio</id><content type="html" xml:base="http://localhost:4000/ginecologia/climaterio">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#manifestações-clínicas&quot; id=&quot;markdown-toc-manifestações-clínicas&quot;&gt;Manifestações clínicas&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#sangramento-genital-irregular&quot; id=&quot;markdown-toc-sangramento-genital-irregular&quot;&gt;Sangramento genital irregular&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fogachos&quot; id=&quot;markdown-toc-fogachos&quot;&gt;Fogachos&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#conduta-1&quot; id=&quot;markdown-toc-conduta-1&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#sintomas-neuro-psicológicos&quot; id=&quot;markdown-toc-sintomas-neuro-psicológicos&quot;&gt;Sintomas neuro-psicológicos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#atrofia-genito-urinária&quot; id=&quot;markdown-toc-atrofia-genito-urinária&quot;&gt;Atrofia genito-urinária&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#alterações-involutivas-do-trato-genital&quot; id=&quot;markdown-toc-alterações-involutivas-do-trato-genital&quot;&gt;Alterações involutivas do trato genital&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#alterações-do-trato-urinário-inferior&quot; id=&quot;markdown-toc-alterações-do-trato-urinário-inferior&quot;&gt;Alterações do trato urinário inferior&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#conduta-2&quot; id=&quot;markdown-toc-conduta-2&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#alterações-do-sistema-cardiovascular&quot; id=&quot;markdown-toc-alterações-do-sistema-cardiovascular&quot;&gt;Alterações do sistema cardiovascular&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#alterações-no-metabolismo-das-lipoproteínas&quot; id=&quot;markdown-toc-alterações-no-metabolismo-das-lipoproteínas&quot;&gt;Alterações no metabolismo das lipoproteínas&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#alterações-no-metabolismo-dos-carboidratos-e-insulina&quot; id=&quot;markdown-toc-alterações-no-metabolismo-dos-carboidratos-e-insulina&quot;&gt;Alterações no metabolismo dos carboidratos e insulina&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#alterações-no-sistema-hemostático&quot; id=&quot;markdown-toc-alterações-no-sistema-hemostático&quot;&gt;Alterações no sistema hemostático&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#efeitos-diretos-do-hipoestrogenismo-sobre-o-endotélio&quot; id=&quot;markdown-toc-efeitos-diretos-do-hipoestrogenismo-sobre-o-endotélio&quot;&gt;Efeitos diretos do hipoestrogenismo sobre o endotélio&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#efeitos-sobre-a-produção-de-colágeno&quot; id=&quot;markdown-toc-efeitos-sobre-a-produção-de-colágeno&quot;&gt;Efeitos sobre a produção de colágeno&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#alterações-no-metabolismo-ósseo&quot; id=&quot;markdown-toc-alterações-no-metabolismo-ósseo&quot;&gt;Alterações no Metabolismo Ósseo&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco-para-osteoporose&quot; id=&quot;markdown-toc-fatores-de-risco-para-osteoporose&quot;&gt;Fatores de risco para osteoporose&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#avaliação&quot; id=&quot;markdown-toc-avaliação&quot;&gt;Avaliação&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#síndrome-metabólica&quot; id=&quot;markdown-toc-síndrome-metabólica&quot;&gt;Síndrome metabólica&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#exame-ginecológico&quot; id=&quot;markdown-toc-exame-ginecológico&quot;&gt;Exame ginecológico&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#terapêutica&quot; id=&quot;markdown-toc-terapêutica&quot;&gt;Terapêutica&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#hábitos-nutricionais&quot; id=&quot;markdown-toc-hábitos-nutricionais&quot;&gt;Hábitos nutricionais&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exercício-físico&quot; id=&quot;markdown-toc-exercício-físico&quot;&gt;Exercício Físico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#terapia-de-reposição-hormonal&quot; id=&quot;markdown-toc-terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#estrogênios-utilizados&quot; id=&quot;markdown-toc-estrogênios-utilizados&quot;&gt;Estrogênios utilizados&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#progestagênios-utilizados&quot; id=&quot;markdown-toc-progestagênios-utilizados&quot;&gt;Progestagênios utilizados&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#androgênios&quot; id=&quot;markdown-toc-androgênios&quot;&gt;Androgênios&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#regimes-terapêuticos&quot; id=&quot;markdown-toc-regimes-terapêuticos&quot;&gt;Regimes terapêuticos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#terapia-de-baixa-dose&quot; id=&quot;markdown-toc-terapia-de-baixa-dose&quot;&gt;Terapia de baixa dose&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O Climatério corresponde à fase da vida da mulher caracterizada pela transição do período de vida reprodutivo até a senilidade, extendendo-se, segundo a OMS, dos 40 aos 65 anos. A idade na qual se inicia o climatério é muito variável, porém na maioria das mulheres &lt;strong&gt;inicia entre 45 e 50 anos&lt;/strong&gt;, enquanto a &lt;strong&gt;menopausa ocorre por volta dos 50 anos&lt;/strong&gt; de idade.&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; Marca o início do declínio da função ovariana.&lt;sup id=&quot;fnref:med&quot;&gt;&lt;a href=&quot;#fn:med&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;A mulher passa por diversas modificações físicas e psíquicas no período do climatério, decorrentes, em última análise, da diminuição dos níveis de estrógenos circulantes. Os mais freqüentemente citados são a instabilidade vasomotora, os distúrbios menstruais, sintomas neuro-psicológicos, a atrofia genito-urinária, e a longo prazo, a alterações cardiovasculares e no metabolismo ósseo.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Perimenopausa: quando começam as irregularidades menstruais até 12 meses de amenorréia
-    &lt;ul&gt;
-      &lt;li&gt;Aqui ainda podem ser observados níveis normais ou aumentados de estrogênios, em resposta ao ↑FSH&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Menopausa: 12 meses consecutivos em amenorréia (é uma data)&lt;/li&gt;
-  &lt;li&gt;Pós-menopausa: da menopausa até os 65 anos
-    &lt;ul&gt;
-      &lt;li&gt;Os níveis de estrógenos já estão muito baixos, menos na ↑↑FSH devido à ausência de folículos ovarianos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Senilidade (ou senectitude): a partir dos 65 anos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Perimenopausa: elevação do FSH, queda da inibina, elevação do estradiol e LH relativamente inalterado.
-    &lt;ul&gt;
-      &lt;li&gt;Inicia em média aos 46 anos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Menopausa: 1 ano em amenorréia.
-    &lt;ul&gt;
-      &lt;li&gt;Em médio os 51 anos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Pós-menopausa: queda do estradiol.
-    &lt;ul&gt;
-      &lt;li&gt;Produção de estrógenos basicamente à custa de aromatização periférica (estrona).&lt;/li&gt;
-      &lt;li&gt;Ausência de progesterona e queda dos androgênios.&lt;/li&gt;
-      &lt;li&gt;Queda gradual das gonadotrofinas após 3 anos da menopausa.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A mulher passa por um processo de perda folicular durante toda a vida. Das 6-7 milhões de oogônias produzidas durante a vida fetal, há apenas 300.000 à puberdade. Ao longo da vida reprodutiva, apenas 400-500 ovócitos serão ovulados e as outras unidades sofrerão atresia, de forma que sobrarão apenas umas poucas centenas à época da menopausa. Cerca de 10 a 15 anos antes da menopausa há uma aceleração da perda
-folicular, que se inicia quando o número de
-folículos chega a 25.000.&lt;/p&gt;
-
-&lt;p&gt;Este fenômeno ocorre devido a um pequeno
-aumento dos níveis de FSH (produzido pela
-hipófise) e uma queda dos níveis de inibina
-(produzida pelos ovários). A aceleração da
-perda folicular parece ser secundária ao aumento da estimulação do FSH.&lt;/p&gt;
-
-&lt;p&gt;Com um menor número de unidades e com
-as que sobraram não funcionando adequadamente, ocorre uma redução nos níveis de
-inibina, um produto das células da granulosa,
-que exerce um importante feedback negativo
-sobre a secreção de FSH (inicialmente da inibina B e posteriormente, da inibina A). Com a
-diminuição deste estímulo, os níveis de FSH
-se elevam. A ausência de menstruação ocorre
-quando o número de folículos atinge um ponto
-crítico de 1.000 folículos.&lt;/p&gt;
-
-&lt;p&gt;Apesar dos níveis elevados de FSH, o crescimento dos folículos envelhecidos torna-se
-cada vez mais resistente à estimulação deste
-hormônio, o que torna a fase folicular do ciclo
-cada vez mais longa e os ciclos menstruais
-irregulares, até que o crescimento folicular
-não mais acontece e as últimas unidades
-são depletadas.&lt;/p&gt;
-
-&lt;p&gt;Os níveis de estradiol, entretanto, só começam
-a cair cerca de seis meses a um ano antes da
-parada completa do desenvolvimento folicular.
-Antes disso, estes valores podem encontrar-se até elevados devido à superestimulação
-ovariana pelo FSH.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A mulher na perimenopausa, apesar dos ciclos irregulares e diminuição do número de folículos, ainda pode engravidar e métodos anticoncepcionais devem ser mantidos até a menopausa, se gravidez não for o desejo da paciente.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;O pico de gonadotrofinas ocorre cerca de um a três anos após o último período menstrual.&lt;/li&gt;
-  &lt;li&gt;Após este período, ocorre declínio gradual de suas concentrações.&lt;/li&gt;
-  &lt;li&gt;Níveis elevados de FSH e LH após o término das menstruações são diagnósticos de falência ovariana.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estrogênio&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Estrogênio circulante é todo proveniente da aromatização periférica que ocorre no tecido muscular, hepático, cerebral e, principalmente, no tecido adiposo.&lt;/li&gt;
-      &lt;li&gt;O principal estrógeno produzido na menopausa é a estrona a partir da testosterona e, principalmente, da androstenediona de origem ovariana e adrenal.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Androgênios&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Durante a menacme, os ovários produzem cerca de um terço da androstenediona circulante e 25% da testosterona, sendo o restante secretado pelas suprarrenais ou oriundo da conversão periférica de androstenediona em testosterona.&lt;/li&gt;
-      &lt;li&gt;Após a menopausa, as gonadotrofinas continuam estimulando o estroma ovariano a produzir androgênios na menopausa (em menor quantidade).&lt;/li&gt;
-      &lt;li&gt;Nesta fase, os ovários são responsáveis por 20% da androstenediona circulante e por 40% da testosterona.&lt;/li&gt;
-      &lt;li&gt;Os androgênios são o substrato para aromatização em estrógenos na menopausa.&lt;/li&gt;
-      &lt;li&gt;O principal androgênio produzido pelo ovário é a androstenediona.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;manifestações-clínicas&quot;&gt;Manifestações clínicas&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Precoce: fogachos, irregularidade menstrual (principal)&lt;/li&gt;
-  &lt;li&gt;Tardias: atrofia genital, distúrbios do humor e do sono, alteração da libido, osteoporose&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sangramento-genital-irregular&quot;&gt;Sangramento genital irregular&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;sangramentos disfuncionais podem ocorrer após ciclos ovulatórios, em fases mais precoces ou, anovulatórios, no qual o estímulo endometrial estrogênico sem oposição da progesterona ou com níveis insuficientes, pode tornar o endométrio hiperplásico, com sangramentos menstruais abundantes.&lt;/li&gt;
-  &lt;li&gt;Um avaliação endometrial se faz necessária em casos de sangramento menstrual excessivo no período da pré-menopausa.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;conduta&quot;&gt;Conduta&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Para regularizar os ciclos:&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Anticoncepcionais orais&lt;/strong&gt; combinados de baixas doses (desde que não haja contraindicações ao seu uso), substituídos posteriormente pela terapia hormonal;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Progestágenos cíclicos mensais&lt;/strong&gt;, como o acetato de medroxiprogesterona, utilizado na segunda fase do ciclo, suprindo a ausência de produção da progesterona
-    &lt;ul&gt;
-      &lt;li&gt;já que as mulheres nestes períodos normalmente estão anovulatórias;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Inserção de um &lt;strong&gt;DIU de progesterona&lt;/strong&gt;, que pode levar à amenorreia em 50% dos casos com um ano de uso;&lt;/li&gt;
-  &lt;li&gt;Curetagem;&lt;/li&gt;
-  &lt;li&gt;Ablação endometrial;&lt;/li&gt;
-  &lt;li&gt;Histerectomia (em casos refratários).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fogachos&quot;&gt;Fogachos&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;são os distúrbios mais freqüentes, estando presente em cerca de 75% das mulheres no climatério.&lt;/li&gt;
-  &lt;li&gt;Parecem ser produzidas por alterações no sistema termoregulador hipotalâmico, que leva à vasodilatação e transpiração para dissipação do calor.&lt;/li&gt;
-  &lt;li&gt;Vários neurotransmissores, como as catecolaminas e os opióides, envolvidos na termorregulação, parecem sofrer modificação pela deficiência estrogênica, contribuindo para o aparecimento das ondas de calor.&lt;/li&gt;
-  &lt;li&gt;Sensação de calor na parte superior do tronco, MMSS e face
-    &lt;ul&gt;
-      &lt;li&gt;Ruborização facial&lt;/li&gt;
-      &lt;li&gt;Posterior sudorese&lt;/li&gt;
-      &lt;li&gt;Palpitações&lt;/li&gt;
-      &lt;li&gt;Sensação de ansiedade&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dura de 15 a 60 segundos e podem se repetir cerca de 30 vezes por dia&lt;/li&gt;
-  &lt;li&gt;Mais intensa à noite (paciente pode despertar durante a noite - insonia)&lt;/li&gt;
-  &lt;li&gt;Repetições durante o dia&lt;/li&gt;
-  &lt;li&gt;Diversos fatores estão associados ao seu aparecimento, dentre eles
-    &lt;ul&gt;
-      &lt;li&gt;Exposição a temperaturas elevadas, que ao aumentarem a temperatura corporal, se aproximam mais rápido do gatilho hipotalâmico para o início dos fogachos&lt;/li&gt;
-      &lt;li&gt;Estresse&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;conduta-1&quot;&gt;Conduta&lt;/h4&gt;
-&lt;p&gt;O tratamento inicial do fogacho é a adoção de
-práticas que diminuam a temperatura corporal
-como exposição a ambientes arejados e uso
-de roupas leves. A prática de exercícios leves
-também é efetiva, assim como perda ponderal
-e a interrupção do fumo.&lt;/p&gt;
-
-&lt;p&gt;Os fogachos são a indicação mais comum de início e manutenção de uma terapia hormonal. Segundo a Sociedade Americana de Menopausa, os sintomas vasomotores moderados a intensos constituem-se em indicação primária de TH. Com a instituição da terapia estrogênica, a maioria das mulheres apresenta resolução dos sintomas em alguns dias.&lt;/p&gt;
-
-&lt;p&gt;No caso de contraindicação à terapia estrogênica, diversas terapias alternativas podem ser utilizadas, como o uso de progestágenos, como o acetato de medroxiprogesterona, o acetato
-de noretindrona ou o acetato de megestrol. A progesterona inibe a secreção hipotalâmica
-de gonadotrofinas e aumenta a atividade endógena dos peptídeos opioides hipotalâmicos.
-No entanto, as doses consideradas eficazes são mais elevadas do que aquelas usualmente
-utilizadas em TH.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Outras drogas (muitos efeitos colaterais):
-    &lt;ul&gt;
-      &lt;li&gt;gabapentina&lt;/li&gt;
-      &lt;li&gt;clonidina&lt;/li&gt;
-      &lt;li&gt;veraliprida&lt;/li&gt;
-      &lt;li&gt;tibolona&lt;/li&gt;
-      &lt;li&gt;metildopa&lt;/li&gt;
-      &lt;li&gt;etc&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sintomas-neuro-psicológicos&quot;&gt;Sintomas neuro-psicológicos&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Os mais freqüentemente relatados durante a perimenopausa são os sintomas depressivos, irritabilidade, labilidade emocional, choro fácil, ansiedade, falta de energia ou ânimo, diminuição da atenção, insônia.&lt;/li&gt;
-  &lt;li&gt;A desordem disfórica pré-menstrual pode agravar-se, gradualmente, tanto na intensidade como na duração dos sintomas, à medida que os níveis de estrogênios declinam.&lt;/li&gt;
-  &lt;li&gt;A perimenopausa é um período de maior suscetibilidade por ser caracterizado por uma flutuação hormonal quando comparado à pós-menopausa.&lt;/li&gt;
-  &lt;li&gt;Entretanto, as manifestações neuro-psíquicas podem se manifestar em outros momentos da vida da mulher, sobretudo em situações de conflitos ou estresse.&lt;/li&gt;
-  &lt;li&gt;Portanto, estas manifestações parecem estar relacionadas não só ao hipoestrogenismo, como a fatores ambientais, sócio-culturais e individuais.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;atrofia-genito-urinária&quot;&gt;Atrofia genito-urinária&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;As alterações uro-genitais decorrentes da deficiência estrogênica que ocorrem após a menopausa surgem em geral, à médio prazo, depois de decorridos alguns anos da última menstruação, e tem grande importância devido a sua alta incidência e diminuição da qualidade de vida da mulher.&lt;/li&gt;
-  &lt;li&gt;O hipoestrogenismo relaciona-se com vários sintomas urogenitais, tais como
-    &lt;ul&gt;
-      &lt;li&gt;alterações involutivas do trato genital&lt;/li&gt;
-      &lt;li&gt;secura vaginal&lt;/li&gt;
-      &lt;li&gt;dispareunia&lt;/li&gt;
-      &lt;li&gt;prurido vulvar e corrimento&lt;/li&gt;
-      &lt;li&gt;conseqüências da colpite atrófica&lt;/li&gt;
-      &lt;li&gt;dificuldades de esvaziamento vesical&lt;/li&gt;
-      &lt;li&gt;urgência e aumento da freqüência miccional&lt;/li&gt;
-      &lt;li&gt;noctúria&lt;/li&gt;
-      &lt;li&gt;disúria&lt;/li&gt;
-      &lt;li&gt;incontinência urinária
-        &lt;ul&gt;
-          &lt;li&gt;a mais frequente dentre as alterações do trato urinário&lt;/li&gt;
-          &lt;li&gt;sobretudo a IUE,seguida pela ITU&lt;/li&gt;
-          &lt;li&gt;Muito comuns também são os quadros de instabilidade do detrusor e urge-incontinência por alterações sensoriais.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;alterações-involutivas-do-trato-genital&quot;&gt;Alterações involutivas do trato genital&lt;/h4&gt;
-&lt;p&gt;Na vulva, observa-se uma redução do colágeno, da espessura da pele e do tecido gorduroso subcutâneo dos
-grandes lábios, tornando-os menores e com enrugamento da pele, os pequenos lábios tornam-se proeminentes, as glândulas de Bartholin atrofiam, o que contribui para o ressecamento vaginal, e retração do intróito vaginal, mais acentuada nas mulheres sem vida sexual.&lt;/p&gt;
-
-&lt;p&gt;A mucosa vaginal se adelgaça, perde a rugosidade e sua elasticidade, o que leva ao progressivo encurtamento e estreitamento do canal vaginal. Além disso, a &lt;strong&gt;redução dos níveis de glicogênio e da produção de ácido lático&lt;/strong&gt;, e a conseqüente &lt;strong&gt;alcalinização do meio&lt;/strong&gt;, contribuem para a &lt;strong&gt;proliferação dos germes patógenos vaginais&lt;/strong&gt;, quadros de infecções vaginais, corrimento, prurido, dispareunia e sangramento pós-coito.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;atrofia endometrial&lt;/strong&gt; predispõe a sangramento uterino, geralmente em pequenas quantidades.&lt;/p&gt;
-
-&lt;h4 id=&quot;alterações-do-trato-urinário-inferior&quot;&gt;Alterações do trato urinário inferior&lt;/h4&gt;
-&lt;p&gt;Várias fatores contribuem para o aumento da infecção urinária, tais como a elevada freqüência de infecções vulvovaginais, o esvaziamento vesical incompleto, à deficiência imunológica local e, possivelmente, à maior aderência dos agentes patógenos à mucosa.&lt;/p&gt;
-
-&lt;p&gt;A incontinência urinária de esforço decorre da perda da elasticidade e atrofia da mucosa e da musculatura uretral e colo vesical, do comprometimento do aporte sanguíneo periuretral e do colágeno uretrais, que, juntos contribuem para a diminuição da pressão intra-uretral, elemento fundamental na determinação da continência urinária.&lt;/p&gt;
-
-&lt;p&gt;A involução das estruturas de sustentação do colo vesical determina seu deslocamento com rebaixamento da uretra proximal e redução da transmissão da pressão abdominal à este segmento uretral , o que também contribui para a ocorrência da incontinência urinária de esforço.&lt;/p&gt;
-
-&lt;p&gt;A bexiga hiperativa caracteriza-se pela presença de contrações não inibidas do detrusor durante a fase de enchimento vesical, na ausência de doença neurológica clinicamente perceptível. Essas contrações involuntárias causam aumento da freqüência miccional, forte e imperioso desejo de urinar que não tem controle voluntário, a urge-incontinência.&lt;/p&gt;
-
-&lt;p&gt;Também fazem parte do quadro clínico a noctúria e a enurese noturna. A síndrome uretral caracteriza-se por um conjunto de sinais de irritação uretrovesical, como disúria, polaciúria, urgência miccional, noctúria, na ausência de infecção urinária. A etiologia, embora diversificada e indefinida, tem o hipoestrogenismo e os transtornos psicossomáticos como possíveis causas.&lt;/p&gt;
-
-&lt;h4 id=&quot;conduta-2&quot;&gt;Conduta&lt;/h4&gt;
-&lt;p&gt;O uso tópico genital em pequenas doses de estrogênio é suficiente para produzir bom
-efeito sobre os sintomas de atrofia urogenital.
-Os efeitos sistêmicos são bastante reduzidos
-ou ausentes com o uso de creme de estriol e
-promestriene, Outras opções incluem o uso
-de tibolona e cremes lubrificantes vaginais.&lt;/p&gt;
-
-&lt;h3 id=&quot;alterações-do-sistema-cardiovascular&quot;&gt;Alterações do sistema cardiovascular&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;O hipoestrogenismo pode levar à diminuição do fluxo sanguíneo tecidual, por reduzir a luz dos vasos, seja por processo orgânico (placas de ateroma), ou funcional (vasoespasmo).&lt;/li&gt;
-  &lt;li&gt;Essas alterações vasculares são decorrentes de efeitos diretos do hipoestrogenismo sobre o vaso, como as alterações na produção de peptídeos vasoativos, prostaglandinas e colágeno e efeitos mediados pelos receptores estrogênicos, assim como efeitos indiretos como as alterações no metabolismo das lipoproteínas, carbohidratos e insulina, alterações na pressão sanguínea e no sistema hemostático.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;alterações-no-metabolismo-das-lipoproteínas&quot;&gt;Alterações no metabolismo das lipoproteínas&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Há uma tendência ao aumento do colesterol com o avançar da idade, bem mais evidente na mulher após a menopausa.&lt;/li&gt;
-  &lt;li&gt;os níveis de HDL colesterol na mulher modificam-se discretamente após a 5ª década de vida, enquanto os níveis de LDL aumentam abruptamente após os 50-55 anos.&lt;/li&gt;
-  &lt;li&gt;Os possíveis mecanismos que relacionam o hipoestrogenismo às modificações do perfil lipídico são:
-    &lt;ul&gt;
-      &lt;li&gt;a redução do catabolismo e clearance do LDL&lt;/li&gt;
-      &lt;li&gt;através da redução do número de receptores hepáticos ao LDL,&lt;/li&gt;
-      &lt;li&gt;e um aumento dos receptores ao HDL,&lt;/li&gt;
-      &lt;li&gt;incrementando o catabolismo do HDL.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Recentemente, a lipoproteina (a) tem sido reconhecida como um importante fator de risco para as coronariopatias, sendo muito semelhante, estruturalmente ao plasminogênio.
-    &lt;ul&gt;
-      &lt;li&gt;Sua relação com a pós-menopausa ainda não está totalmente definida.&lt;/li&gt;
-      &lt;li&gt;Alguns estudos tem demonstrado taxas significativamente maiores da lipoproteina (a) em mulheres na pós-menopausa.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;alterações-no-metabolismo-dos-carboidratos-e-insulina&quot;&gt;Alterações no metabolismo dos carboidratos e insulina&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;As mulheres na pós-menopausa tendem a apresentar uma resistência periférica à insulina, e intolerância à glicose em decorrência do hipoestrogenismo.&lt;/li&gt;
-  &lt;li&gt;A &lt;strong&gt;hiperinsulinemia&lt;/strong&gt; compensatória pode provocar alterações vasculares que favorecem &lt;strong&gt;fatores de risco cardiovasculares&lt;/strong&gt; como
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Aterogênese&lt;/strong&gt;: por promover a proliferação e migração das células musculares lisas da   camada média para a íntima dos vasos sanguíneos, além da vacuolização dos  macrófagos (transformação dos macrófagos em células ricas em colesterol – células espumosas)&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Hipertensão arterial sistêmica&lt;/strong&gt;: por um incremento da reabsorção renal de sódio e da atividade do sistema nervoso simpático&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Dislipidemia&lt;/strong&gt;reabso&lt;/li&gt;
-      &lt;li&gt;Angina microvascular&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Diminuição da fibrinólise&lt;/strong&gt;: por aumentar a síntese do Inibidor do Ativador do Plasminogênio (PAI-1), à nível hepático, o que eleva o risco de trombose.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;alterações-no-sistema-hemostático&quot;&gt;Alterações no sistema hemostático&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Tem sido observado um aumento nos níveis de fibrinogênio na mulher menopausada, que parece ser um efeito do hipoestrogenismo, independente da idade.&lt;/li&gt;
-  &lt;li&gt;Além disso, estudos prospectivos demonstraram aumento dos níveis de Fator VII e da atividade da antitrombina III nas mulheres na pós-menopausa.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;efeitos-diretos-do-hipoestrogenismo-sobre-o-endotélio&quot;&gt;Efeitos diretos do hipoestrogenismo sobre o endotélio&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;O estrogênio tem efeito direto sobre a parede dos vasos, modulando o tônus vasomotor e aumentando o fluxo sanguíneo arterial, pois existem receptores estrogênicos em todo o sistema cardiovascular.&lt;/li&gt;
-  &lt;li&gt;O hipoestrogenismo pode comprometer o fluxo de potássio para o interior das células, a produção de peptídeos vasodilatadores, como o NO, o CGRP (peptídeo relacionado ao gen da calcitonina), a síntese das prostaciclinas, assim como promover o aumento da endotelina 1, um potente vasoconstrictor.&lt;/li&gt;
-  &lt;li&gt;Todos esses efeitos induzem à vasoconstricção e comprometimento do fluxo sanguíneo tecidual.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;efeitos-sobre-a-produção-de-colágeno&quot;&gt;Efeitos sobre a produção de colágeno&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;O hipoestrogenismo pode comprometer a produção de colágeno e de glicoseoaminoglicano e, desta forma, atuar na elasticidade do vaso sanguíneo.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;alterações-no-metabolismo-ósseo&quot;&gt;Alterações no Metabolismo Ósseo&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;O esqueleto humano é composto por osso trabecular (25%) e osso cortical (75%), embora o osso trabecular seja metabolicamente mais ativo que o cortical.&lt;/li&gt;
-  &lt;li&gt;O osso está em constante renovação, através da remodelação óssea, caracterizada pela formação e reabsorção óssea.&lt;/li&gt;
-  &lt;li&gt;Durante a reabsorção os osteoclastos tornam-se ativos, criando pequenas cavidades sobre a superfície óssea, chamadas lacunas de Howship.&lt;/li&gt;
-  &lt;li&gt;Na fase posterior, de formação óssea, os osteoblastos preenchem as lacunas de Howship, com deposição de colágeno ou osso novo.&lt;/li&gt;
-  &lt;li&gt;Posteriomente, ocorre a mineralização e a superfície óssea se reconstitui integralmente.&lt;/li&gt;
-  &lt;li&gt;Inúmeros fatores afetam a remodelação óssea, como a idade, a dieta, a atividade física, doenças sistêmicas, uso de medicamentos e níveis hormonais.&lt;/li&gt;
-  &lt;li&gt;O pico de massa óssea é adquirido, aproximadamente, aos 30 anos em ambos os sexos.&lt;/li&gt;
-  &lt;li&gt;Nos anos subsequentes, a perda óssea se inicia num ritmo de 0,5% ao ano.&lt;/li&gt;
-  &lt;li&gt;Nos primeiros 5 a 8 anos após a menopausa, ocorre uma perda óssea maior e mais acelerada, de cerca de 2% de osso cortical e 5% de osso trabecular ao ano.&lt;/li&gt;
-  &lt;li&gt;Os estrogênios desempenham importante papel no metabolismo ósseo, atuando através de receptores estrogênios, recentemente identificados no tecido ósseo.&lt;/li&gt;
-  &lt;li&gt;Inúmeros estudos demonstraram a presença de receptor estrogênico em cultura de osteoblastos, esta célula tem sido considerada como célula alvo da resposta estrogênica.&lt;/li&gt;
-  &lt;li&gt;Embora os receptores de estrogênio estejam, predominantemente nos osteoblastos, a principal ação desse esteróide é a inibição da reabsorção óssea.&lt;/li&gt;
-  &lt;li&gt;Parece que os estrogênios, assim como, os androgênios estimulam a apoptose dos osteoclastos.&lt;/li&gt;
-  &lt;li&gt;Além disso, sabe-se que os estrogênios também atuam indiretamente na remodelação óssea, diminuindo a sensibilidade ao PTH e estimulando a síntese de calcitonina.&lt;/li&gt;
-  &lt;li&gt;Estudos atuais sugerem que a principal influência do estrogênio sobre a remodelação óssea se dá no controle da síntese de citocinas pelos osteoblastos e osteoclastos.&lt;/li&gt;
-  &lt;li&gt;A ligação das citocinas aos receptores osteoblásticos libera fatores que agem diretamente sobre a linhagem osteoclástica, regulando sua atividade.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;fatores-de-risco-para-osteoporose&quot;&gt;Fatores de risco para osteoporose&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Idade&lt;/li&gt;
-  &lt;li&gt;História familiar&lt;/li&gt;
-  &lt;li&gt;Raça branca&lt;/li&gt;
-  &lt;li&gt;Biotipo magro&lt;/li&gt;
-  &lt;li&gt;Sedentarismo&lt;/li&gt;
-  &lt;li&gt;Álcool&lt;/li&gt;
-  &lt;li&gt;Tabagismo&lt;/li&gt;
-  &lt;li&gt;Cafeína&lt;/li&gt;
-  &lt;li&gt;Baixa ingesta de cálcio e fósforo&lt;/li&gt;
-  &lt;li&gt;Ooforectomia bilateral&lt;/li&gt;
-  &lt;li&gt;Menopausa antes dos 45 anos&lt;/li&gt;
-  &lt;li&gt;Drogas: heparina, anticonvulsivantes, glicocorticoides, antiácidos com alumínio, hormônios da tireoide, metotrexato, lítio, acetato de medroxiprogesterona.&lt;/li&gt;
-  &lt;li&gt;Hiperparatireoidismo&lt;/li&gt;
-  &lt;li&gt;Insuficiência renal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;avaliação&quot;&gt;Avaliação&lt;/h2&gt;
-&lt;p&gt;A avaliação clínica e ginecológica da mulher climatérica compreende o diagnóstico das manifestações de hipoestrogenismo, esclarecimento sobre o significado da Síndrome Climatérica, o rastreamento de neoplasias, a identificação de doenças crônicas metabólicas e degenerativas.&lt;/p&gt;
-
-&lt;p&gt;Uma anamnese criteriosa deve ser feita, dando atenção especial a fatores de &lt;strong&gt;risco para doenças cardiovasculares&lt;/strong&gt;, &lt;strong&gt;neoplasias malignas&lt;/strong&gt; e &lt;strong&gt;osteoporose&lt;/strong&gt;, assim como medicações em uso.&lt;/p&gt;
-
-&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;
-&lt;h4 id=&quot;síndrome-metabólica&quot;&gt;Síndrome metabólica&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Está associada a maior risco de DM-2, doenças cardiovasculares, assim como à mortalidade cardiovascular
-    &lt;ul&gt;
-      &lt;li&gt;Pressão arterial&lt;/li&gt;
-      &lt;li&gt;IMC&lt;/li&gt;
-      &lt;li&gt;Circunferência abdominal&lt;/li&gt;
-      &lt;li&gt;Perfil lipídico (colesterol total, HDL-colesterol, triglicerídeos)&lt;/li&gt;
-      &lt;li&gt;Glicemia de jejum ou pós-dextrosol&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;table&gt;
-  &lt;tr&gt;
-    &lt;th&gt;Critérios&lt;/th&gt;
-    &lt;th&gt;Valores&lt;/th&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;Circunferência abdominal&lt;/td&gt;
-    &lt;td&gt;M &amp;gt; 88 cm - H &amp;gt; 102 cm&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;PA&lt;/td&gt;
-    &lt;td&gt;PAS ≥ 130 ou PAD ≥ 85&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;Triglicérides&lt;/td&gt;
-    &lt;td&gt;&amp;gt; 150 mg/d&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;HDL-Colesterol&lt;/td&gt;
-    &lt;td&gt;M &amp;lt; 50 mg/dL - H &amp;lt; 40 mg/dL&lt;/td&gt;
-  &lt;/tr&gt;
-  &lt;tr&gt;
-    &lt;td&gt;Glicemia de jejum&lt;/td&gt;
-    &lt;td&gt;&amp;lt; 100 mg/dL&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;figcaption&gt;Diagnóstico com 3 dos 5 critérios acima&lt;/figcaption&gt;
-
-&lt;h4 id=&quot;exame-ginecológico&quot;&gt;Exame ginecológico&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Observar especialmente os sinais de hipotrofia genital e as mamas&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Citologia oncótica&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mamografia bilateral&lt;/strong&gt;, BI-RADS:
-    &lt;ul&gt;
-      &lt;li&gt;0 - complementar com outro exame de imagem (US, habitualmente)&lt;/li&gt;
-      &lt;li&gt;1 - mamas normais: controle anual&lt;/li&gt;
-      &lt;li&gt;2 - achados benignos: controle anual&lt;/li&gt;
-      &lt;li&gt;3 - achados provavelmente benignos: intervalos de seguimento menores que 1 ano&lt;/li&gt;
-      &lt;li&gt;4 - achados provavelmente malignos: sugere investigação complementar&lt;/li&gt;
-      &lt;li&gt;5 - achados altamente sugestivos de malignidade: investigação complementar é necessária&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG-TV&lt;/strong&gt;, sempre que possível.
-    &lt;ul&gt;
-      &lt;li&gt;Sinais sugestivos de anormalidades endometriais são:
-        &lt;ul&gt;
-          &lt;li&gt;Espessamento de eco&lt;/li&gt;
-          &lt;li&gt;Ecogenicidade heterogênea&lt;/li&gt;
-          &lt;li&gt;Erregularidade dos contornos endometriais&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Atualmente, tem sido considerado como limite de normalidade, na mulher menopausada, uma espessura = ou &amp;lt; 5 mm. Acima desse limite, devese investigar o endométrio através da histeroscopia com biópsia ou AMIU.&lt;/li&gt;
-      &lt;li&gt;Na mulher na pré-menopausa, investigar o endométrio quando o eco endometrial estiver &amp;lt; de 18 mm ou se os ciclos estiverem hipermenorrágicos, independente do eco endometrial.&lt;/li&gt;
-      &lt;li&gt;A USG-TV também é um importante instrumento de detecção precoce do câncer de ovário&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Densitometria óssea:&lt;/strong&gt; principalmente para as mulheres com fatores de risco evidentes para a osteoporose. Baseia-se na absorção da radiação ionizante pela massa óssea, que é proporcional à quantidade de osso mineral.
-    &lt;ul&gt;
-      &lt;li&gt;Achados:
-        &lt;ul&gt;
-          &lt;li&gt;DP &amp;gt; ou = -2,5: &lt;strong&gt;Osteoporose&lt;/strong&gt;&lt;/li&gt;
-          &lt;li&gt;DP Entre -1 e -2,5: &lt;strong&gt;Osteopenia&lt;/strong&gt;&lt;/li&gt;
-          &lt;li&gt;DP até -1: &lt;strong&gt;Densidade normal&lt;/strong&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Além disso, pode ser considerada uma ferramenta prognóstica, em relação ao risco de fraturas
-        &lt;ul&gt;
-          &lt;li&gt;Cada desvio padrão abaixo da média do adulto jovem, representa cerca de 2x mais risco de fraturas&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;T score: compara com adultos jovens&lt;/li&gt;
-      &lt;li&gt;Z score: compara individuos de mesma idade&lt;/li&gt;
-      &lt;li&gt;Indicações para fazer a densitometria
-        &lt;ul&gt;
-          &lt;li&gt;Pacientes do sexo feminino com idade &amp;gt; 65 anos.&lt;/li&gt;
-          &lt;li&gt;Mulheres na transição menopausal com risco aumentado de fraturas, como baixo peso ou, fratura anterior com mínimo trauma.&lt;/li&gt;
-          &lt;li&gt;Adultos com história de fratura após os 50 anos de idade.&lt;/li&gt;
-          &lt;li&gt;Adultos com alguma condição clínica associada à osteoporose ou em uso de medicação associada a perda de massa óssea (glicocorticoide ≥ 5 mg/dia por ≥ 3 meses).&lt;/li&gt;
-          &lt;li&gt;Mulheres em terapia estrogênica que se deseje interromper o tratamento.&lt;/li&gt;
-          &lt;li&gt;Avaliação da resposta terapêutica.&lt;/li&gt;
-          &lt;li&gt;Mulheres na perimenopausa que estejam cogitando usar terapia hormonal, para auxiliar esta decisão.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Pesquisa de &lt;strong&gt;sangue oculto nas fezes&lt;/strong&gt; (a partir dos 50 anos de idade)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;terapêutica&quot;&gt;Terapêutica&lt;/h2&gt;
-&lt;h3 id=&quot;hábitos-nutricionais&quot;&gt;Hábitos nutricionais&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;A orientação dietética tem como fundamento básico
-    &lt;ul&gt;
-      &lt;li&gt;Dieta hipocalórica, com cerca de 1800 cal/dia&lt;/li&gt;
-      &lt;li&gt;Controle do colesterol, através da redução das gorduras saturadas&lt;/li&gt;
-      &lt;li&gt;Controle no consumo de sal e açúcar&lt;/li&gt;
-      &lt;li&gt;Ingestão adequada de cálcio e de fibras&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A introdução de terapia medicamentosa, com o intuito de baixar os níveis de colesterol, só deve ocorrer nos casos em que a dieta não dá resultados satisfatórios.&lt;/li&gt;
-  &lt;li&gt;O consumo de carboidratos deve corresponder à 50-60% do total de calorias.&lt;/li&gt;
-  &lt;li&gt;E a de gorduras 30%.&lt;/li&gt;
-  &lt;li&gt;Incrementar a ingestão de alimentos com vitamina C e E, por serem antioxidantes sobre o LDL-colesterol e portanto efeito protetor contra a formação das placas de ateroma.&lt;/li&gt;
-  &lt;li&gt;A ingestão média de cálcio, na mulher climatérica deve ser de 1500 mg/dia.
-    &lt;ul&gt;
-      &lt;li&gt;O leite e derivados constituem a melhor fonte de cálcio, que tem boa disponibilidade e é facilmente absorvido&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exercício-físico&quot;&gt;Exercício Físico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Os exercícios físicos estão associados proteção cardiovascular com efeito antiaterogênico, similar ao do aumento do HDL-colesterol.&lt;/li&gt;
-  &lt;li&gt;São necessários pelo menos quatro semanas de atividade física aeróbica para conseguir efeito satisfatório na melhora do colesterol.&lt;/li&gt;
-  &lt;li&gt;Recomenda-se exercícios três vezes por semana, em média por 30min/dia para atingir e manter a condição física adequada para prevenir as doenças cardiovasculares.&lt;/li&gt;
-  &lt;li&gt;Além disso, os benefícios do exercícios físico estão presentes na melhora da tolerância à glicose e diminuição dos níveis de insulina, na perda de peso, melhora dos níveis pressóricos.&lt;/li&gt;
-  &lt;li&gt;O programa de atividade física para a prevenção ou tratamento da osteoporose atua não somente na melhora da massa óssea, como também na maior flexibilidade muscular, treinamento proprioceptivo, com melhora da marcha, equilíbrio, reflexos e coordenação e analgesia.&lt;/li&gt;
-  &lt;li&gt;Atividades físicas que suportam peso, como a caminhada e a corrida, combinam a contração muscular e a gravidade, produzindo sobrecarga mecânica sobre os ossos das extremidades inferiores e da coluna.&lt;/li&gt;
-  &lt;li&gt;Exercícios de alongamento são utilizados na preparação muscular prévia à atividade física e também para aumentar a mobilidade articular e as dores miofaciais.&lt;/li&gt;
-  &lt;li&gt;Finalmente, os exercícios atuam na melhora do estado psicológico, por aumentar nerotransmissores como os opiáceos endógenos, que levam a sensação de bem estar, melhora da auto-estima, diminuição da ansiedade, da tensão e depressão.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;terapia-de-reposição-hormonal&quot;&gt;Terapia de reposição hormonal&lt;/h2&gt;
-&lt;p&gt;Os ovários na pós menopausa apresentam produção mínima de estrogênios, sendo que a ooforectomia realizada neste período näo se acompanha de decréscimo adicional dos níveis circulantes ou excretados de estrogênios.&lt;/p&gt;
-
-&lt;p&gt;Os níveis circulantes de estrogênios observados nessa época säo, em geral, baixos, mantidos principalmente às custas de  estrona, derivada da aromatizaçäo periférica de precursores androgênicos adrenais, particularmente a androstenediona.&lt;/p&gt;
-
-&lt;p&gt;O objetivo é tratar os sintomas do hipoestrogenismo da menopausa, que acarreta em todas as alterações mencionadas no início do artigo.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Contra-indicações&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Antecedentes pessoais de câncer de mama&lt;/li&gt;
-      &lt;li&gt;Antecedentes de câncer de endométrio&lt;/li&gt;
-      &lt;li&gt;Insuficiência hepática ou renal graves&lt;/li&gt;
-      &lt;li&gt;Tromboembolismo relacionado ao tratamento hormonal&lt;/li&gt;
-      &lt;li&gt;Tumores hormônio-dependentes&lt;/li&gt;
-      &lt;li&gt;Trombofilias&lt;/li&gt;
-      &lt;li&gt;Sangramento vaginal de origem indeterminada&lt;/li&gt;
-      &lt;li&gt;Infarto agudo do miocárdio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Empregam-se os estrogênios, progestagênios e, eventualmente, androgênios.&lt;/li&gt;
-  &lt;li&gt;A TH deve sempre ser individualizada, não sendo possível a padronização do tipo de tratamento utilizado.&lt;/li&gt;
-  &lt;li&gt;Riscos
-    &lt;ul&gt;
-      &lt;li&gt;CA de mama (TRH &amp;gt; 5 anos)&lt;/li&gt;
-      &lt;li&gt;Aumento do risco de hiperplasia e câncer de endométrio (nas mulheres submetidas a TRE isoladamente)&lt;/li&gt;
-      &lt;li&gt;Doença tromboembólica&lt;/li&gt;
-      &lt;li&gt;Doença biliar&lt;/li&gt;
-      &lt;li&gt;Aumento do risco de AVE, DCV e tromboembolismo (tem certeza que aumenta?)&lt;/li&gt;
-      &lt;li&gt;Aumento do risco de hiperplasia e câncer de endométrio (nas mulheres submetidas
-a TR com estrógenos isoladamente).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Benefícios
-    &lt;ul&gt;
-      &lt;li&gt;Diminuição do risco de câncer de cólon e reto.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ginecologia/climaterio/ci.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;As irregularidades menstruais na perimenopausa tem como substrato fisiopatológico o estado anovulatório;
-    &lt;ul&gt;
-      &lt;li&gt;Nesse sentido, para a correção dos ciclos menstruais e prevenção das &lt;strong&gt;hiperplasias endometriais&lt;/strong&gt; são utilizados progestagênios, em esquema cíclico, por 10 a 14 dias de cada mês.&lt;/li&gt;
-      &lt;li&gt;Citam-se entre estes o acetato de medroxiprogesterona, o acetato de noretindrone, o acetato de nomegestrol e a didrogesterona, igualmente efetivos.
-        &lt;blockquote&gt;
-          &lt;p&gt;Pacientes &lt;strong&gt;histerectomizadas&lt;/strong&gt; dispensam o emprego de progestagênios, cuja função primordial em TH recai sobre a prevenção dos estados hiperplásicos do endométrio. Nessa situação, o uso de estrogênios contínuos isoladamente contempla satisfatoriamente os objetivos da TH.&lt;/p&gt;
-        &lt;/blockquote&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Nas mulheres que apresentam &lt;strong&gt;útero intacto&lt;/strong&gt;, utilizam-se estrogênios em associação aos progestagênios.
-    &lt;ul&gt;
-      &lt;li&gt;Quando usados de maneira seqüencial, os progestagênios determinam fluxo menstrual regular, muitas vezes não aceito por algumas pacientes, mormente naquelas com maior tempo de pós-menopausa.&lt;/li&gt;
-      &lt;li&gt;Visando contornar o sangramento dos esquemas seqüenciais, pode-se utilizar estrogênios continuamente em associação a pequenas doses de progestagênios, no esquema denominado &lt;strong&gt;combinado contínuo&lt;/strong&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quando presente a sintomatologia vasomotora no período perimenopáusico, a utilização de estrogênios em associação a progestagênios de forma cíclica parece ser o mais adequado, tendo esse esquema a denominação de “combinado seqüencial”.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;estrogênios-utilizados&quot;&gt;Estrogênios utilizados&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Objetivo: atingit níveis estrogênicos plasmáticos semelhantes aos observados na fase folicular inicial de mulheres no menacme.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Podem ser administrados pelas vias oral (primera passagem hepática), nasal, vaginal, transdérmica – adesivos ou gel, e implantes subcutâneos.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;VO:
-    &lt;ul&gt;
-      &lt;li&gt;Estrogênios conjugados equinos (EEC): 0,3-0,45-0,625-1,25 mg/dia&lt;/li&gt;
-      &lt;li&gt;17-beta estradiol micronizado (E2): 1-2 mg/dia&lt;/li&gt;
-      &lt;li&gt;Valerato de estradiol (VE): 1-2 mg/dia&lt;/li&gt;
-      &lt;li&gt;Estriol (E3): 2-6 mg/dia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Via transdérmica
-    &lt;ul&gt;
-      &lt;li&gt;Estradiol transdérmico (E2): 25-37,5-50-75-100 g/dia a cada 3 dias e 1/2&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;….&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;progestagênios-utilizados&quot;&gt;Progestagênios utilizados&lt;/h3&gt;
-&lt;p&gt;A adiçäo destes hormonios, em terapêutica de reposiçäo estrogênica fundamenta-se na prevenção dos estados hiperplásicos endometriais. Dessa forma, são indicados em mulheres com útero intacto.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Prescritos em pacientes histerectomizadas apenas em situações especiais, como nos antecedentes de endometriose e de câncer do endométrio em estágio I após tratamento.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;…&lt;/p&gt;
-
-&lt;h3 id=&quot;androgênios&quot;&gt;Androgênios&lt;/h3&gt;
-&lt;p&gt;Incluem-se, nesse grupo, a tibolona, os androgênios por via oral e as associações estro-androgênicas de uso intramuscular.&lt;/p&gt;
-
-&lt;p&gt;Os androgênios são úteis em TH em situações onde se
-encontram indícios clínicos e/ou laboratoriais da insuficiência androgênica feminina,
-particularmente na ooforectomia.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Tibolona:&lt;/strong&gt; embora classifique-se quimicamente como um progestogênio, possui características teciduais específicas com atuação estrogênica, progestacional e androgênica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;intramuscular
-Sais de estrogênio e androgênio (conjugados) 1 ampola/ 3-4 semanas
-Sais de androgênios conjugados
- 75 mg/mês
-Decanoato de nandrolona
- 25-50 mg/15-20 dias&lt;/p&gt;
-
-&lt;table&gt;
-   &lt;tr&gt;
-     &lt;th&gt;Via&lt;/th&gt;
-     &lt;th&gt;Doses&lt;/th&gt;
-   &lt;/tr&gt;
-   &lt;tr&gt;
-     &lt;th&gt;Oral&lt;/th&gt;
-     &lt;th&gt;&lt;/th&gt;
-   &lt;/tr&gt;
-   &lt;tr&gt;
-     &lt;td&gt;Tibolona&lt;/td&gt;
-     &lt;td&gt; 1,5 – 2,5 mg/dia&lt;/td&gt;
-   &lt;/tr&gt;
-   &lt;tr&gt;
-     &lt;td&gt;Metiltestosterona&lt;/td&gt;
-     &lt;td&gt; 1,25 – 2,5 - 5 mg/dia&lt;/td&gt;
-   &lt;/tr&gt;
-   &lt;tr&gt;
-     &lt;th&gt;Intramuscular&lt;/th&gt;
-     &lt;th&gt;&lt;/th&gt;
-   &lt;/tr&gt;
-   &lt;tr&gt;
-     &lt;td&gt;Sais de estrogênio e androgênio (conjugados)&lt;/td&gt;
-     &lt;td&gt;1 ampola/ 3-4 semanas&lt;/td&gt;
-   &lt;/tr&gt;
- &lt;/table&gt;
-
-&lt;h3 id=&quot;regimes-terapêuticos&quot;&gt;Regimes terapêuticos&lt;/h3&gt;
-&lt;p&gt;Estrogenios utilizados, independentemente da natureza e da via de administraçao, devem atingir concentrações plasmaticas de estradiol que possibilitem a melhora dos sintomas e a prevenção óssea.&lt;/p&gt;
-
-&lt;p&gt;Os progestagênios, por sua vez, devem ser utilizados nas doses mínimas necessarias a proteção endometrial.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Estrogênios isolados&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Estimulam a biossíntese na célula endometrial,levando potencionalmente à &lt;strong&gt;hiperplasia endometrial&lt;/strong&gt;, devido à incompleta descamaçäo do endométrio.&lt;/li&gt;
-      &lt;li&gt;Estrogênios sem oposiçäo devem ser administrados a pacientes com útero intacto,  apenas em casos especiais, particularmente, nas pacientes com intolerância a qualquer tipo e dose de progestagênios.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estrogênios e progestagênios em esquema combinado sequencial&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;O uso seqüencial de estrogênios e progestagênios freqüentemente leva a sangramento de supressäo, inaceitável para muitas mulheres, particularmente quando já se passaram alguns anos da menopausa.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estrogênios e progestagênios em esquema combinado contínuo&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;O endométrio se tornando atrófico, a paciente deverá manter em amenorréia, pois, em teoria, não há tecido para descamar.&lt;/li&gt;
-      &lt;li&gt;Pode ser conseguido com pequenas doses de progestagênios, tendo, reduzindo o impacto lipídico e efeitos colaterais indesejáveis, físicos e psicológicos.&lt;/li&gt;
-      &lt;li&gt;Fazem ainda parte desse regime terapêutico o emprego da tibolona de forma contínua, e o esquema denominado de progestogênio intermitente em “mini-pulsos”
-        &lt;ul&gt;
-          &lt;li&gt;onde se utilizam estrogênios continuamente em associação a progestagênios alternados a cada 3 dias, que se baseia na ocupação máxima de receptores de progestagênios nesse período.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estrogênio contínuo e progestogênio cíclico quadrimensal&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Utilização de estrogênios em associação a progestagênios em séries de 14 dias, em doses mais elevadas, a cada 4 meses, não sendo observado aumento do risco de hiperplasia nesse esquema.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em quaisquer dos regimes empregados, a adição de androgênios pode ser efetuada, a depender da situação clínica observada. Cabe assinalar que o uso de androgênios não determina proteção endometrial, não dispensando a administração de progestagênios em pacientes com útero presente.&lt;/p&gt;
-
-&lt;h3 id=&quot;terapia-de-baixa-dose&quot;&gt;Terapia de baixa dose&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Em geral a dose é reduzida em 50%&lt;/li&gt;
-  &lt;li&gt;Os estudos com TH de baixa dose demonstram efetividade no controle sintomatológico, na atrofia urogenital, na preservação da massa óssea e sobre parâmetros do perfil lipídico.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;…….&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:cisam&quot;&gt;
-      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:med&quot;&gt;
-      &lt;p&gt;MED &lt;a href=&quot;#fnref:med&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Infecção puerperal</title><link href="http://localhost:4000/obstetricia/infeccao-puerperal" rel="alternate" type="text/html" title="Infecção puerperal" /><published>2019-06-09T00:00:00-03:00</published><updated>2019-06-09T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/infeccao-puerperal</id><content type="html" xml:base="http://localhost:4000/obstetricia/infeccao-puerperal">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#antibioticoprofilaxia-em-cesárea-e-partos-operatórios&quot; id=&quot;markdown-toc-antibioticoprofilaxia-em-cesárea-e-partos-operatórios&quot;&gt;Antibioticoprofilaxia em cesárea e partos operatórios&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#microbiologia&quot; id=&quot;markdown-toc-microbiologia&quot;&gt;Microbiologia&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#microbiota-cervicovaginal-normal-na-gravidez&quot; id=&quot;markdown-toc-microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#aeróbios&quot; id=&quot;markdown-toc-aeróbios&quot;&gt;Aeróbios&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#anaeróbios&quot; id=&quot;markdown-toc-anaeróbios&quot;&gt;Anaeróbios&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#micoplasma&quot; id=&quot;markdown-toc-micoplasma&quot;&gt;Micoplasma&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#clamídia&quot; id=&quot;markdown-toc-clamídia&quot;&gt;Clamídia&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#bactérias-mais-comuns-nas-infecções-genitais-femininas&quot; id=&quot;markdown-toc-bactérias-mais-comuns-nas-infecções-genitais-femininas&quot;&gt;Bactérias mais comuns nas infecções genitais femininas&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fatores-predisponentes&quot; id=&quot;markdown-toc-fatores-predisponentes&quot;&gt;Fatores predisponentes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#mastite&quot; id=&quot;markdown-toc-mastite&quot;&gt;Mastite&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#endometrite&quot; id=&quot;markdown-toc-endometrite&quot;&gt;Endometrite&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#abscessos&quot; id=&quot;markdown-toc-abscessos&quot;&gt;Abscessos&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#perineovulvovaginite-e-cervicite&quot; id=&quot;markdown-toc-perineovulvovaginite-e-cervicite&quot;&gt;Perineovulvovaginite e cervicite&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#infecção-da-episiotomia&quot; id=&quot;markdown-toc-infecção-da-episiotomia&quot;&gt;Infecção da episiotomia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-3&quot; id=&quot;markdown-toc-tratamento-3&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#parametrite&quot; id=&quot;markdown-toc-parametrite&quot;&gt;Parametrite&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-4&quot; id=&quot;markdown-toc-tratamento-4&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#anexite-salpingite-e-ovarite&quot; id=&quot;markdown-toc-anexite-salpingite-e-ovarite&quot;&gt;Anexite (salpingite e ovarite)&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-5&quot; id=&quot;markdown-toc-tratamento-5&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#peritonite&quot; id=&quot;markdown-toc-peritonite&quot;&gt;Peritonite&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-6&quot; id=&quot;markdown-toc-tratamento-6&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tromboflebite-pélvica-séptica&quot; id=&quot;markdown-toc-tromboflebite-pélvica-séptica&quot;&gt;Tromboflebite pélvica séptica&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-7&quot; id=&quot;markdown-toc-tratamento-7&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#choque-septicêmico&quot; id=&quot;markdown-toc-choque-septicêmico&quot;&gt;Choque septicêmico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-8&quot; id=&quot;markdown-toc-tratamento-8&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#itu&quot; id=&quot;markdown-toc-itu&quot;&gt;ITU&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-9&quot; id=&quot;markdown-toc-tratamento-9&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação-em-grupos-de-risco&quot; id=&quot;markdown-toc-classificação-em-grupos-de-risco&quot;&gt;Classificação em grupos de risco&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Denomina-se infecção puerperal (&lt;em&gt;febre puerperal&lt;/em&gt;) a que se origina no aparelho genital após parto recente. Por ser, às vezes, impossível caracterizar a infecção que ocorre após o parto, alguns preferem conceituar a morbidade febril puerperal da seguinte maneira: temperatura de, no mínimo, &lt;strong&gt;38°C, por mais de 48h, nos primeiros 10 dias do período pós-parto, excluídas as 24h iniciais&lt;/strong&gt;.&lt;sup id=&quot;fnref:rez&quot;&gt;&lt;a href=&quot;#fn:rez&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;A hipertermia nas primeiras 24 horas após o parto, desde que afastados quadros infecciosos prévios ou adquiridos intraparto, poderá ser fisiológica, decorrendo de absorção de sangue e líquido amniótico (após cesárea) ou da “descida” do leite (apojadura).&lt;/p&gt;
-
-&lt;p&gt;Nas infecções uterinas, as bactérias atingem a cavidade uterina durante o trabalho de parto
-e no pós-parto, invadindo tecidos desvitalizados (sítio de inserção placentária), áreas de decídua, cicatriz de histerotomia e miométrio. A partir daí o processo pode se limitar à decídua ou evoluir, atingindo miométrio (endomiometrite), paramétrio (parametrite), trompas (salpingite), ovário (ooforite), veias pélvicas (tromboflebite), cavidade pélvica (pelviperitonite), cavidade peritoneal (peritonite) e progredir para quadros sépticos, podendo levar ao óbito.&lt;/p&gt;
-
-&lt;h3 id=&quot;antibioticoprofilaxia-em-cesárea-e-partos-operatórios&quot;&gt;Antibioticoprofilaxia em cesárea e partos operatórios&lt;/h3&gt;
-&lt;p&gt;Pelo alto risco de infecção associado à realização de cesárea e partos operatórios, o uso de antibióticos profiláticos nestas situações tem sido bastante recomendado. Esta prática tem reduzido a incidência de infecções maternas pós-operatórias, tais como endometrites, infecções do trato urinário, infecção de parede abdominal e suas complicações. Este benefício ocorre tanto em cesáreas eletivas quanto em procedimentos de urgência.&lt;/p&gt;
-
-&lt;p&gt;Não está claro, ainda, se a administração pré-operatória ou após o clampeamento do cordão traz alguma diferença.&lt;/p&gt;
-
-&lt;p&gt;O esquema mais utilizado é com cefazolina, 1g IV, quando o cordão umbilical é clampeado. Pode ou não ser acompanhada de mais duas doses com intervalo de 6 a 8h. O esquema de dose única tem-se mostrado tão efetivo quanto o regime com três doses. Clindamicina é uma boa alternativa se existir hipersensibilidade à penicilina.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;No CISAM é feita antibioticoterapia profilática 1h antes da cesárea? Antibiótico profilático: &lt;strong&gt;Cefazolina ou Cefalotina&lt;/strong&gt; 1-2 g IV é recomendada antes da incisão na pele na intenção de reduzir infecção materna. A escolha destes antibióticos dá-se por serem efetivos para endometrite, infecção urinária e infecção de sítio cirúrgico.&lt;sup id=&quot;fnref:proto&quot;&gt;&lt;a href=&quot;#fn:proto&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Cerca de 15% de todas as mulheres com febre puerperal apresentam apenas ingurgitamento mamário.&lt;/li&gt;
-  &lt;li&gt;É a 3ª causa de mortalidade materna, sendo responsável por 6,3% dos óbitos (Ministério da Saúde, 2006).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;A cavidade uterina – depois do parto e, especificamente, a área remanescente do descolamento placentário – constitui zona com grande potencial para infecção.&lt;/p&gt;
-
-&lt;p&gt;A atividade contrátil normal do útero, depois da dequitação, e a involução puerperal, além da reação leucocitária e da hemóstase trombótica na zona de implantação da placenta, representam os mecanismos de defesa contra infecção.&lt;/p&gt;
-
-&lt;p&gt;A endometrite pós-parto tem fisiopatologia similar à da corioamnionite, envolve os mesmos
-microrganismos e é frequentemente precedida por infecção intra-amniótica clínica ou subclínica.&lt;/p&gt;
-
-&lt;p&gt;Os patógenos anaeróbios desempenham papel relevante na endometrite após operação cesariana e são isolados em 40 a 60% das culturas coletadas apropriadamente. Mulheres com endometrite após o parto vaginal são candidatas à infecção por patógeno único, com destaque para o Streptococcus.&lt;/p&gt;
-
-&lt;h3 id=&quot;microbiologia&quot;&gt;Microbiologia&lt;/h3&gt;
-&lt;h4 id=&quot;microbiota-cervicovaginal-normal-na-gravidez&quot;&gt;Microbiota cervicovaginal normal na gravidez&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;A gravidez pode suscitar mudanças na microbiota cervicovaginal&lt;/li&gt;
-  &lt;li&gt;A colonização por Lactobacillus aumenta na gravidez e existe a possibilidade de outros tipos de microrganismos serem diminuídos.&lt;/li&gt;
-  &lt;li&gt;Trata-se de alterações fisiológicas, destinadas a proteger o concepto, uma vez que Lactobacilli são avirulentos&lt;/li&gt;
-  &lt;li&gt;Depois do parto vaginal, espécies anaeróbias se proliferam dramaticamente no 3º dia do puerpério&lt;/li&gt;
-  &lt;li&gt;O mecanismo, embora ainda não elucidado, pode decorrer do
-    &lt;ul&gt;
-      &lt;li&gt;trauma relacionado com o processo do nascimento,&lt;/li&gt;
-      &lt;li&gt;os lóquios,&lt;/li&gt;
-      &lt;li&gt;a contaminação da vagina durante o parto&lt;/li&gt;
-      &lt;li&gt;e o término do estímulo hormonal ao epitélio vaginal.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;É uma situação transitória, 6 semanas depois, a microbiota vaginal está normalizada.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;aeróbios&quot;&gt;Aeróbios&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo B&lt;/strong&gt; (S. mastitidis, S. agalactiae)
-    &lt;ul&gt;
-      &lt;li&gt;importantes causadores de infecção puerperal precoce e neonatal&lt;/li&gt;
-      &lt;li&gt;Encontrados em cerca de 30% das culturas vaginais e cervicais de grávidas&lt;/li&gt;
-      &lt;li&gt;a infecção seria, portanto, endêmica, pois os estreptococos do grupo B colonizam o sistema genital materno, provenientes do reto ou do contato sexual.&lt;/li&gt;
-      &lt;li&gt;A infecção ocorre dentro de 24h do parto, com rápido agravamento do estado materno.&lt;/li&gt;
-      &lt;li&gt;Os sintomas são:
-        &lt;ul&gt;
-          &lt;li&gt;febre elevada (39°C),&lt;/li&gt;
-          &lt;li&gt;calafrios,&lt;/li&gt;
-          &lt;li&gt;taquicardia&lt;/li&gt;
-          &lt;li&gt;útero doloroso à palpação (endomiometrite)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Consideram-se de risco as pacientes que tiveram parto disfuncional com ruptura prolongada das membranas submetidas à operação cesariana.&lt;/li&gt;
-      &lt;li&gt;O tratamento antibiótico deve ser imediato para evitar abscessos e endocardite.
-        &lt;ul&gt;
-          &lt;li&gt;Esses estreptococos são sensíveis a penicilina, ampicilina, cefalosporinas e eritromicina.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo D&lt;/strong&gt; (inclui enterococos, especialmente S. faecalis)
-    &lt;ul&gt;
-      &lt;li&gt;Não são considerados patogênicos em infecções cirúrgicas, embora sejam observados em pequeno número de mulheres com endometrite pós-parto ou bacteriemia.&lt;/li&gt;
-      &lt;li&gt;são resistentes a penicilina, cefalosporinas, aminoglicosídios e clindamicina; a ampicilina ou o efeito sinérgico da penicilina e de um aminoglicosídio inibem os enterococos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estreptococos beta-hemolíticos do grupo A&lt;/strong&gt; (Streptococcus pyogenes)
-    &lt;ul&gt;
-      &lt;li&gt;Não fazem parte da microbiota normal da vagina e da cérvice
-        &lt;ul&gt;
-          &lt;li&gt;a origem é exógena, em geral da nasofaringe ou de lesões da pele da paciente, do bebê ou do corpo clínico do hospital.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;A principal característica dessa infecção é sua enorme capacidade de invasão
-        &lt;ul&gt;
-          &lt;li&gt;com sinais mínimos de localização nos pontos lesados do canal do parto.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Os microrganismos são sensíveis a penicilina, cefalosporinas e eritromicina
-        &lt;ul&gt;
-          &lt;li&gt;a resposta ao tratamento antibiótico adequado é muito rápida.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estafilococos aeróbios&lt;/strong&gt; (Staphylococcus epidermidis, Staphylococcus aureus)
-    &lt;ul&gt;
-      &lt;li&gt;S. aureus é encontrado em apenas 2% das culturas vaginais em grávidas.
-        &lt;ul&gt;
-          &lt;li&gt;Raramente determina endometrite, estando associado, mais frequentemente, a abscessos vulvovaginais e mastites.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;S. epidermidis é habitante normal da microbiota cervical
-        &lt;ul&gt;
-          &lt;li&gt;quando existente no útero, faz parte da infecção polimicrobiana.&lt;/li&gt;
-          &lt;li&gt;É resistente a penicilina e ampicilina, sensível a oxacilina, meticilina, cloxacilina e cefalosporinas.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gram-negativos aeróbios&lt;/strong&gt; (Escherichia coli, Klebsiella, Enterobacter, Proteus, Pseudomonas)
-    &lt;ul&gt;
-      &lt;li&gt;Grandes protagonistas das infecções urinárias costumam ser encontrados nos intestinos e em incidência variável no sistema genital:
-        &lt;ul&gt;
-          &lt;li&gt;E. coli em 2 a 10% das grávidas e em 33% das puérperas;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;outros membros da família Enterobacteriaceae raramente são encontrados.&lt;/li&gt;
-      &lt;li&gt;E. coli exerce papel importante na infecção puerperal.&lt;/li&gt;
-      &lt;li&gt;Principal responsável pelo choque septicêmico,&lt;/li&gt;
-      &lt;li&gt;sua sensibilidade aos antibióticos varia de hospital para hospital.&lt;/li&gt;
-      &lt;li&gt;Canamicina, gentamicina e cloranfenicol costumam ser efetivos contra 95% das espécies;&lt;/li&gt;
-      &lt;li&gt;as cefalosporinas atuam em 80 a 93%, e a ampicilina e a tetraciclina em, talvez, 80%.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Haemophilus influenzae&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;A literatura registra 20 casos de infecção puerperal por Haemophilus influenzae a partir de 1969.&lt;/li&gt;
-      &lt;li&gt;Dentre essas pacientes, nove evoluíram para estado de sepse,
-        &lt;ul&gt;
-          &lt;li&gt;a indicar a elevada virulência do microrganismo, que há de ser cogitada nos casos de refratariedade aos esquemas habituais de antibióticos utilizados na infecção puerperal.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Haemophilus influenzae é sensível a ampicilina, cloranfenicol e tetraciclinas.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gardnerella vaginalis&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Tem-se registrado um número crescente de casos relacionados com Gardnerella vaginalis em culturas sanguíneas no pós-parto,
-        &lt;ul&gt;
-          &lt;li&gt;especialmente em mulheres com febre.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Existe a possibilidade de que determine infecção puerperal, em associação a anaeróbios,&lt;/li&gt;
-      &lt;li&gt;mas é sensível à maioria dos antibióticos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;anaeróbios&quot;&gt;Anaeróbios&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Gram-positivos anaeróbios&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Cocos anaeróbios&lt;/strong&gt; (peptococos, peptoestreptococos): habitantes não patogênicos da vagina e do colo costumam se tornar virulentos na presença de tecido traumatizado e desvitalizado e de sangue coagulado.
-        &lt;ul&gt;
-          &lt;li&gt;Os lóquios têm cheiro pútrido.&lt;/li&gt;
-          &lt;li&gt;Tornaram-se comuns as infecções mistas por aeróbios (E. coli, enterococos) e outros anaeróbios (bacteroides).&lt;/li&gt;
-          &lt;li&gt;A penicilina é o antibiótico&lt;/li&gt;
-          &lt;li&gt;de escolha;&lt;/li&gt;
-          &lt;li&gt;secundariamente, opta-se por cefalosporinas, eritromicina e clindamicina&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Bastonetes anaeróbios&lt;/strong&gt; (clostrídios):
-        &lt;ul&gt;
-          &lt;li&gt;Clostridium perfringens (antes C. welchii) tem participação em 85% das infecções.&lt;/li&gt;
-          &lt;li&gt;Hóspede normal da vagina e do colo, tem virulência muito pequena e poucas vezes determina infecção puerperal.&lt;/li&gt;
-          &lt;li&gt;Por motivos desconhecidos, pode ocasionar quadro gravíssimo (gangrena gasosa, hemólise; hipotensão, insuficiência renal) quando patogênico, com mortalidade de 50 a 85% dos casos.&lt;/li&gt;
-          &lt;li&gt;Os lóquios têm odor fétido e a infecção é mais encontrada no abortamento infectado.&lt;/li&gt;
-          &lt;li&gt;O simples isolamento do clostrídio, no sistema genital, em casos de infecção, não indica ameaça à vida da paciente.&lt;/li&gt;
-          &lt;li&gt;Em geral, a endometrite é discreta e cede ao tratamento antibiótico (penicilina).&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gram-negativos anaeróbios&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Bacteroides&lt;/strong&gt; (Bacteroides fragilis):
-        &lt;ul&gt;
-          &lt;li&gt;agentes importantes na infecção puerperal,&lt;/li&gt;
-          &lt;li&gt;anaeróbios não patogênicos do canal do parto e dos intestinos, só se tornam virulentos quando há tecido necrosado, lóquios fétidos e quadro clínico prolongado,&lt;/li&gt;
-          &lt;li&gt;frequentemente complicado por tromboflebite pélvica séptica.&lt;/li&gt;
-          &lt;li&gt;Não é uma infecção trivial que ameace a vida da paciente;&lt;/li&gt;
-          &lt;li&gt;B. fragilis costuma ser sensível à clindamicina e ao cloranfenicol, antibióticos de escolha.&lt;/li&gt;
-          &lt;li&gt;Cefoxitina e metronidazol também são efetivos.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;micoplasma&quot;&gt;Micoplasma&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;São frequentemente encontrados na cérvice das gestantes.&lt;/li&gt;
-  &lt;li&gt;Mycoplasma hominis foi isolado em 20 a 50% das pacientes, e Ureaplasma urealyticum, em 60 a 80%.&lt;/li&gt;
-  &lt;li&gt;A associação entre micoplasmas genitais e febre puerperal não está ainda inteiramente esclarecida.&lt;/li&gt;
-  &lt;li&gt;O isolamento anteparto de micoplasma tem sido relacionado a febre puerperal em alguns estudos e contestado em outros.&lt;/li&gt;
-  &lt;li&gt;O micoplasma foi identificado no sangue em 3 a 8% das puérperas com febre inexplicada.&lt;/li&gt;
-  &lt;li&gt;Esses microrganismos determinam infecção de baixa morbidade que explica a evolução favorável mesmo sem terapia específica.&lt;/li&gt;
-  &lt;li&gt;Os micoplasmas genitais, encontrados no endométrio e/ou sangue em 15% das puérperas com endometrite, são sensíveis às tetraciclinas, à eritromicina e ao cloranfenicol.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;clamídia&quot;&gt;Clamídia&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;Chlamydia trachomatis está relacionada com a infecção puerperal, especialmente a partir do 3º  dia de puerpério.&lt;/li&gt;
-  &lt;li&gt;Verificou-se maior incidência de infecção puerperal nas gestantes portadoras de clamídia.&lt;/li&gt;
-  &lt;li&gt;Em estudo similar, não foi encontrado qualquer diferença quanto à intercorrência de infecção puerperal entre as gestantes com ou sem cultura positiva para clamídia.&lt;/li&gt;
-  &lt;li&gt;São agentes sensíveis à tetraciclina e à eritromicina.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;bactérias-mais-comuns-nas-infecções-genitais-femininas&quot;&gt;Bactérias mais comuns nas infecções genitais femininas&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Aeróbios
-    &lt;ul&gt;
-      &lt;li&gt;Estreptococos dos grupos A, B e D&lt;/li&gt;
-      &lt;li&gt;Enterococcus&lt;/li&gt;
-      &lt;li&gt;Bactérias gram-negativas: Escherichia coli, Klebsiella, Proteus sp.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Anaeróbios
-    &lt;ul&gt;
-      &lt;li&gt;Peptococcus sp.&lt;/li&gt;
-      &lt;li&gt;Peptostreptococcus sp.&lt;/li&gt;
-      &lt;li&gt;Bacteroides bivius, B. fragilis, B. disiens&lt;/li&gt;
-      &lt;li&gt;Clostridium sp.&lt;/li&gt;
-      &lt;li&gt;Fusobacterium sp.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Outros
-    &lt;ul&gt;
-      &lt;li&gt;Mycoplasma hominis&lt;/li&gt;
-      &lt;li&gt;Chlamydia trachomatis&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fatores-predisponentes&quot;&gt;Fatores predisponentes&lt;/h2&gt;
-&lt;p&gt;A operação cesariana é o fator predisponente mais importante, aumentando significativamente
-a morbiletalidade puerperal. Em relação aos partos vaginais, a cesárea eleva o risco de:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Endo(mio)metrite em 5 a 30 vezes,&lt;/li&gt;
-  &lt;li&gt;Bacteriemia em 2 a 10 vezes,&lt;/li&gt;
-  &lt;li&gt;Abscesso ou de tromboflebite pélvica em 2 vezes,&lt;/li&gt;
-  &lt;li&gt;Morte por infecção em 80 vezes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Outros fatores que elevam o risco de infecção após cesariana são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Parto e amniorrexe prolongados
-    &lt;ul&gt;
-      &lt;li&gt;com numerosos toques vaginais, e baixo nível socioeconômico&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Obesidade&lt;/li&gt;
-  &lt;li&gt;Anemia&lt;/li&gt;
-  &lt;li&gt;Anestesia geral&lt;/li&gt;
-  &lt;li&gt;Corticoterapia pré-parto&lt;/li&gt;
-  &lt;li&gt;Corioamnionite&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/infeccao-puerperal/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;mastite&quot;&gt;Mastite&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;A mastite é uma das infecções puerperais mais prevalentes&lt;/li&gt;
-  &lt;li&gt;Acomete mais primíparas
-    &lt;ul&gt;
-      &lt;li&gt;pois o ingurgitamento mamário é mais comum nestas puérperas que em multíparas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O trauma mecânico da sucção provoca o aparecimento de fissuras e rachaduras nos mamilos, com posterior introdução de microorganismos através boca da criança&lt;/li&gt;
-  &lt;li&gt;Mamilos umbilicados, planos ou pequenos, dificultam a sucção e favorecem o ingurgitamento e os traumas&lt;/li&gt;
-  &lt;li&gt;O &lt;em&gt;Staphylococcus aureus&lt;/em&gt; é o principal agente causador
-    &lt;ul&gt;
-      &lt;li&gt;Esporadicamente se encontram algumas espécies de estreptococos ou &lt;em&gt;Escherichia coli&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Quadro clínico&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;observa-se inicialmente algum grau de ingurgitamento mamário, que ocorre entre o segundo e terceiro dias pós-parto
-        &lt;ul&gt;
-          &lt;li&gt;embora as mastites possam ocorrer em qualquer período do ciclo grávido-puerperal&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;As mamas ficam túrgidas, sensíveis, tensas e quentes&lt;/li&gt;
-      &lt;li&gt;Nesta fase, a temperatura da paciente pode elevar-se levemente e uma adenopatia pode ser percebida&lt;/li&gt;
-      &lt;li&gt;A mastite ocorre posteriormente, em torno de uma semana ou mais após o parto&lt;/li&gt;
-      &lt;li&gt;Geralmente apenas uma das mamas é afetada e freqüentemente apenas um quadrante&lt;/li&gt;
-      &lt;li&gt;A mama se torna muito sensível, extremamente dolorosa, avermelhada e quente&lt;/li&gt;
-      &lt;li&gt;A paciente fica muito febril&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Leucocitose é evidente&lt;/li&gt;
-  &lt;li&gt;O quadro pode evoluir com formação de abscessos, que podem ou não drenar espontaneamente
-    &lt;ul&gt;
-      &lt;li&gt;O abscesso subareolar é mais comum, mas pode ocorrer, raramente, um abscesso retromamário ou submamário&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A USG pode ajudar no diagnóstico dos abscessos mais profundos&lt;/li&gt;
-  &lt;li&gt;Casos mais graves podem evoluir com necrose tecidual&lt;/li&gt;
-  &lt;li&gt;Em situações específicas haverá necessidade de fazer diagnóstico diferencial com o carcinoma inflamatório de mama&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Prevenção&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;esvaziamento e lavagem da área periareolar e mamilos antes e depois de cada mamada&lt;/li&gt;
-      &lt;li&gt;manter mamilo a aréolas bem secas&lt;/li&gt;
-      &lt;li&gt;utilizar sutiãs que elevem as mamas (retificação dos canais galactóforos)&lt;/li&gt;
-      &lt;li&gt;tratamento precoce de fissuras e rachaduras dos mamilos&lt;/li&gt;
-      &lt;li&gt;evitar o ingurgitamento mamário (esvaziamento manual ou com bombas)&lt;/li&gt;
-      &lt;li&gt;amamentar à demanda do lactente&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tratamento&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;A lactação pode ou não ser inibida, dependendo do quadro clínico e da intenção da paciente&lt;/li&gt;
-      &lt;li&gt;Se ela não pretende continuar amamentando
-        &lt;ul&gt;
-          &lt;li&gt;deve ser suprimida da lactação&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Quando pretende continuar o aleitamento
-        &lt;ul&gt;
-          &lt;li&gt;deve ser feito esvaziamento manual das mamas após a criança mamar, com acréscimo de outras medidas, como elevação das mamas e calor local&lt;/li&gt;
-          &lt;li&gt;É obrigatório o uso de antibióticos, sendo recomendados a oxacilina, cefalosporinas ou eritromicina&lt;/li&gt;
-          &lt;li&gt;Se existe um abscesso, sua drenagem é necessária, com incisão no mesmo sentido dos canais galactóforos, para evitar o surgimento de fístulas&lt;/li&gt;
-          &lt;li&gt;Se for de grandes dimensões, a cavidade formada deve ser tamponada com gaze e deixada aberta para curativo diário ou, então, deixada com dreno de Penrose&lt;/li&gt;
-          &lt;li&gt;Em casos mais graves, deve-se evitar amamentar pela mama acometida, devendo ser feito o esvaziamento manual ou mecânico.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Orientar a amamentação para evitar métodos errados e o aparecimento de fissura do mamilo&lt;/li&gt;
-  &lt;li&gt;Antibioticoterapia
-    &lt;ul&gt;
-      &lt;li&gt;Cefalexina 500mg VO 6/6h por 7-10 dias&lt;/li&gt;
-      &lt;li&gt;Alérgicas às cefalosporinas: Eritromicina seguindo o mesmo esquema&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;endometrite&quot;&gt;Endometrite&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;É a infecção puerperal da genitália mais frequente&lt;/li&gt;
-  &lt;li&gt;Na endometrite ocorre acometimento apenas da decídua, podendo progredir para endomiometrite (infecção atingindo o miométrio), ou estender-se além dos limites uterinos&lt;/li&gt;
-  &lt;li&gt;Surge na área de implantação da placenta (área muito nutritiva)&lt;/li&gt;
-  &lt;li&gt;Após partos vaginais, incide em 1 a 3% dos casos e tende a instalar-se no &lt;strong&gt;4º ou 5º dia&lt;/strong&gt; de pós-parto&lt;/li&gt;
-  &lt;li&gt;o aparecimento mais precoce sugere maior virulência.&lt;/li&gt;
-  &lt;li&gt;As condições gerais se mantêm boas, a não ser nas formas muito graves&lt;/li&gt;
-  &lt;li&gt;Clinicamente, a infecção inicia-se pela ascensão da temperatura, que atinge 38,5 a 39°C&lt;/li&gt;
-  &lt;li&gt;os lóquios tornam-se purulentos e com mau cheiro quando anaeróbios estão envolvidos&lt;/li&gt;
-  &lt;li&gt;No quadro clínico típico a puérpera refere
-    &lt;ul&gt;
-      &lt;li&gt;febre&lt;/li&gt;
-      &lt;li&gt;dor abdominal&lt;/li&gt;
-      &lt;li&gt;saída de secreção amarelada e com odor fétido pela vagina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;O exame pélvico demonstra&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Útero amolecido, sensível e doloroso&lt;/li&gt;
-      &lt;li&gt;Engrandecido no abdome&lt;/li&gt;
-      &lt;li&gt;Colo permeável à polpa digital
-        &lt;ul&gt;
-          &lt;li&gt;que, manipulado, deixa escoar secreção purulenta&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Involução aquém do esperado&lt;/li&gt;
-      &lt;li&gt;Loquiação em quantidade aumentada, com coloração purulenta e odor fétido&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A miometrite acompanha, em geral, a endometrite, com quadro clínico similar ou mais intenso que o anterior&lt;/li&gt;
-  &lt;li&gt;A endometrite após parto vaginal geralmente tem prognóstico benigno&lt;/li&gt;
-  &lt;li&gt;poucos casos complicam-se por abscesso pélvico, peritonite generalizada e tromboflebite pélvica&lt;/li&gt;
-  &lt;li&gt;Bacteremia está presente de 5% a 10% de mulheres com endometrite não complicada&lt;/li&gt;
-  &lt;li&gt;Critérios de gravidade materna:
-    &lt;ul&gt;
-      &lt;li&gt;PAS &amp;lt; 90 ou &amp;gt; 160&lt;/li&gt;
-      &lt;li&gt;PAD &amp;gt; 100&lt;/li&gt;
-      &lt;li&gt;FC &amp;lt; 50 ou &amp;gt; 120&lt;/li&gt;
-      &lt;li&gt;Sat O2 &amp;lt; 95&lt;/li&gt;
-      &lt;li&gt;Oligúria (mL/h por 2h) &amp;lt; 35&lt;/li&gt;
-      &lt;li&gt;Agitação, confusão, ausência de resposta verbal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A ocorrência de leucopenia pode ser indicativa do predomínio de Gram-negativos no processo infeccioso e é um marcador de gravidade&lt;/li&gt;
-  &lt;li&gt;USG: pode ajudar no diagnóstico, ao identificar
-    &lt;ul&gt;
-      &lt;li&gt;presença de conteúdo intrauterino (lóquios retidos, restos deciduais e placentários)&lt;/li&gt;
-      &lt;li&gt;alterações de textura miometrial&lt;/li&gt;
-      &lt;li&gt;nos casos, mais graves de endomiometrite, detectar bolhas de ar na parede miometrial&lt;/li&gt;
-      &lt;li&gt;Também auxilia para fazer outros tipos de diagnósticos importantes neste momento, tais como acometimento de estruturas contíguas à cavidade uterina (parametrite, abscesso tubovariano, abscesso pélvico), hematomas ou abscessos de parede abdominal pós-cesárea, alterações de textura renal, além de outros achados possíveis.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A loquiação é como se osse uma via de drenagem fisiológica da ferida. A ausência de loquiação é preocupante e pode sugerir um hematoma.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Se a metrite é leve e se desenvolve depois de a mulher receber alta após o parto vaginal, o tratamento com antibiótico oral tende a ser suficiente&lt;/li&gt;
-  &lt;li&gt;Infecções moderadas e graves
-    &lt;ul&gt;
-      &lt;li&gt;especialmente após o parto cesáreo, o tratamento IV com antibióticos de largo espectro é mandatório&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;A melhora após 48 a 72h ocorre em cerca de 90% das mulheres&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;A persistência de febre após esse prazo faz pensar em complicações
-        &lt;ul&gt;
-          &lt;li&gt;&lt;strong&gt;abscesso&lt;/strong&gt; de paramétrio, de parede ou pélvico&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;tromboflebite pélvica séptica&lt;/strong&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O esquema antibiótico mais utilizado é
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;clindamicina&lt;/strong&gt; 900 mg EV 8/8h + &lt;strong&gt;gentamicina&lt;/strong&gt; 1,5 mg/kg EV 8/8h&lt;/li&gt;
-      &lt;li&gt;Ampicilina (2 g IV cada 6 h) ou metronidazol (500 mg IV cada 8 h) pode ser adicionado para prover cobertura contra anaeróbios se tiver sido realizada cesárea&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A intervenção na cavidade da matriz infectada só estará indicada na suspeita de &lt;strong&gt;retenção de restos ovulares&lt;/strong&gt; com sangramento anormal e persistente
-    &lt;ul&gt;
-      &lt;li&gt;Curetagem uterina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Venóclise + hidratação&lt;/li&gt;
-  &lt;li&gt;Crepitação uterina à palpação abdominal é sinal de gravidade, podendo
-significar infecção por cepas de Clostridium (gangrena gasosa). Neste caso o tratamento cirúrgico irá se impor, com realização de histerectomia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;abscessos&quot;&gt;Abscessos&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Febre persistente apesar da antibioticoterapia&lt;/li&gt;
-  &lt;li&gt;Palpação de massa pélvica&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Devem ser abertos e drenados&lt;/li&gt;
-  &lt;li&gt;Antibioticoterapia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;perineovulvovaginite-e-cervicite&quot;&gt;Perineovulvovaginite e cervicite&lt;/h2&gt;
-&lt;p&gt;As infecções do períneo, as vulvovaginais e as do colo uterino decorrem das inevitáveis soluções de continuidade aí produzidas pela passagem do feto, além das episiotomias. Clinicamente, caracterizam-se pelo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aparecimento de dor&lt;/li&gt;
-  &lt;li&gt;Rubor&lt;/li&gt;
-  &lt;li&gt;Edema&lt;/li&gt;
-  &lt;li&gt;por vezes, secreção purulenta.&lt;/li&gt;
-  &lt;li&gt;Febre moderada (38,5°C)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;infecção-da-episiotomia&quot;&gt;Infecção da episiotomia&lt;/h3&gt;
-&lt;p&gt;A despeito de ser uma ferida em região contaminada, a infecção da episiotomia não é comum, vigente em menos de 0,5% dos casos.&lt;/p&gt;
-
-&lt;p&gt;A maioria não é grave e raramente é mortal. Essas infecções podem ser classificadas em 4 tipos, de acordo com a profundidade e a gravidade do processo inflamatório.&lt;/p&gt;
-
-&lt;p&gt;Episiotomias medianas agregam o risco de lesão ano-retal, o que pode não só contaminar mais
-ainda a ferida, como acarretar o surgimento de fístulas retovaginais ou retocutâneas, com
-infecção associada.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Infecção simples:&lt;/strong&gt; limitada à pele e à fáscia superficial adjacente.
-    &lt;ul&gt;
-      &lt;li&gt;Ao exame físico a cicatriz encontra-se dolorosa e com sinais inflamatórios, incluindo hiperemia, edema, aumento da temperatura e, por vezes, coloração mais escurecida (equimose) ou abaulamento local (presença de hematoma ou abscesso)&lt;/li&gt;
-      &lt;li&gt;A deiscência é comum quando se formam abscessos, podendo ser apenas superficial ou
-acometer todos os planos de sutura&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Infecção da fáscia superficial:&lt;/strong&gt; Como a fáscia superficial dessa área tem continuidade com as da parede abdominal, região glútea e pernas, o edema e o eritema costumam estender-se, atingindo total ou parcialmente os locais nomeados.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Necrose da fáscia superficial:&lt;/strong&gt; infecção muito grave, com manifestações cutâneas tardias:
-    &lt;ul&gt;
-      &lt;li&gt;Excepcionalmente, as infecções de episiotomia podem progredir para a musculatura e
-fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fasciíte necrosante, de alta gravidade&lt;/li&gt;
-      &lt;li&gt;inicialmente, há edema e eritema&lt;/li&gt;
-      &lt;li&gt;A pele toma, mais tarde
-        &lt;ul&gt;
-          &lt;li&gt;cor azulada ou castanha&lt;/li&gt;
-          &lt;li&gt;aspecto francamente gangrenoso&lt;/li&gt;
-          &lt;li&gt;com formação de vesículas e bolhas.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Sinais tóxicos de septicemia são evidentes em todas as pacientes&lt;/li&gt;
-      &lt;li&gt;choque pode ocorrer.&lt;/li&gt;
-      &lt;li&gt;Se não houver tratamento cirúrgico, a mortalidade atinge 100% dos casos;&lt;/li&gt;
-      &lt;li&gt;os antibióticos e a cirurgia oportuna reduzem os óbitos para 50%.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mionecrose:&lt;/strong&gt; afeta os músculos do períneo
-    &lt;ul&gt;
-      &lt;li&gt;na maior parte das vezes, é causada por infecção por &lt;em&gt;Clostridium perfringens&lt;/em&gt;&lt;/li&gt;
-      &lt;li&gt;A dor é desproporcionada aos sinais físicos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-3&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Lacerações&lt;/strong&gt; perineais, vaginais e cervicais
-    &lt;ul&gt;
-      &lt;li&gt;Devem ser suturadas&lt;/li&gt;
-      &lt;li&gt;A terapêutica das lacerações infectadas consiste na administração de antibióticos sistêmicos e antissépticos locais
-        &lt;ul&gt;
-          &lt;li&gt;cefalosporinas&lt;/li&gt;
-          &lt;li&gt;oxacilina&lt;/li&gt;
-          &lt;li&gt;meticilina&lt;/li&gt;
-          &lt;li&gt;cloxacilina&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Episiotomias&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Merecem cuidados constantes até sua completa cicatrização&lt;/li&gt;
-      &lt;li&gt;Quando infectada merece &lt;strong&gt;abertura cirúrgica e exploração instrumental&lt;/strong&gt; sob anestesia geral, não se dispensando, concomitantemente, antibióticos sistêmicos.&lt;/li&gt;
-      &lt;li&gt;Pacientes com infecção de episiotomia e manifestações tóxicas que não respondam à terapia   antibiótica em 24 a 48h além de edema e eritema em áreas que ultrapassam a perineal (abdome,   coxas e região glútea) devem ser submetidas, obrigatoriamente, à exploração cirúrgica, pois é   quase certa a possibilidade de necrose da fáscia superficial&lt;/li&gt;
-      &lt;li&gt;Antibioticoterapia
-        &lt;ul&gt;
-          &lt;li&gt;Cefalotina 1g EV 6/6h (casos mais graves)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Se houverem abscessos, devem ser drenados cirurgicamente&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;parametrite&quot;&gt;Parametrite&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;É a infecção do tecido conectivo fibroareolar, parametrial&lt;/li&gt;
-  &lt;li&gt;decorrente, na maioria das vezes, de lacerações do colo e da vagina, em que o germe se propaga pela via linfática&lt;/li&gt;
-  &lt;li&gt;O local de eleição é o tecido parametrial laterocervical (unilateral em 70% dos casos)&lt;/li&gt;
-  &lt;li&gt;podendo haver, todavia, invasão anterior (paracistite) ou posterior (pararretite), além da incursão ao ligamento largo.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Temperatura elevada que persiste por mais de 10 dias sugere parametrite&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Ela aumenta gradativamente e, em pouco tempo, &lt;strong&gt;chega a 39 a 39,5°C&lt;/strong&gt;, com remissões matutinas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O toque vaginal desperta dor intensa, o que revela endurecimento dos paramétrios&lt;/li&gt;
-  &lt;li&gt;Se não for tratado em tempo, o processo evolve para supuração e flutuação
-    &lt;ul&gt;
-      &lt;li&gt;transformando-se em abscesso do paramétrio ou do ligamento largo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O prognóstico costuma ser favorável&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-4&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;baseia-se no emprego de antibióticos e anti-inflamatórios&lt;/li&gt;
-  &lt;li&gt;Quando há formação de abscessos, deve-se drenar pela via vaginal ou abdominal (flegmão do ligamento largo)
-    &lt;ul&gt;
-      &lt;li&gt;com mobilização da mecha no 2º ou no 3º dia&lt;/li&gt;
-      &lt;li&gt;sendo retirada completamente apenas quando terminada a exsudação&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;anexite-salpingite-e-ovarite&quot;&gt;Anexite (salpingite e ovarite)&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;São representadas por infecção e inflamação das tubas uterinas e dos ovários&lt;/li&gt;
-  &lt;li&gt;São mais frequentes as salpingites do que as ovarites, e surgem após abortamentos infectados e partos vaginais prolongados&lt;/li&gt;
-  &lt;li&gt;Na fase aguda (&lt;strong&gt;endossalpingite&lt;/strong&gt;), as tubas uterinas inicialmente se apresentam
-    &lt;ul&gt;
-      &lt;li&gt;endurecidas&lt;/li&gt;
-      &lt;li&gt;tumefeitas&lt;/li&gt;
-      &lt;li&gt;com acolamento precoce das fímbrias e obliteração tubária&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;daí a retenção da exsudação purulenta que forma a piossalpinge&lt;/li&gt;
-  &lt;li&gt;A salpingite pode evoluir para absorção do material com recuperação parcial do órgão
-    &lt;ul&gt;
-      &lt;li&gt;comumente deixando a sequela de obstrução tubária,&lt;/li&gt;
-      &lt;li&gt;ou evoluir para a forma subaguda, em que o processo organiza-se, formando o tumor inflamatório anexial.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A seguir, ocorre progressão para cronicidade, podendo deixar como sequela a &lt;strong&gt;hidrossalpinge&lt;/strong&gt;,&lt;/li&gt;
-  &lt;li&gt;ou continua a prosperar, de maneira aguda, como nas formas sépticas, atingindo a serosa peritoneal (&lt;strong&gt;peritonite&lt;/strong&gt;)&lt;/li&gt;
-  &lt;li&gt;Além disso, a infecção pode alcançar os ovários, desencadeando a &lt;strong&gt;ovarite&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Clinicamente, inicia-se com
-    &lt;ul&gt;
-      &lt;li&gt;dor abdominal aguda, predominando nas fossas ilíacas&lt;/li&gt;
-      &lt;li&gt;febre alta (39 a 39,5°C)&lt;/li&gt;
-      &lt;li&gt;discreta defesa abdominal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O toque genital revela
-    &lt;ul&gt;
-      &lt;li&gt;grande sensibilidade dos anexos&lt;/li&gt;
-      &lt;li&gt;O toque de fundos de saco é doloroso&lt;/li&gt;
-      &lt;li&gt;bem como a mobilização uterina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A palpação de tumoração anexial é notada na evolução da doença&lt;/li&gt;
-  &lt;li&gt;Nos quadros mais graves, pode haver irritação peritoneal e descompressão positiva.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-5&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;O tratamento é feito por antibióticos&lt;/li&gt;
-  &lt;li&gt;Em raros casos, por motivo da possibilidade de ruptura de piossalpinge, há necessidade de realizar a salpingectomia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;peritonite&quot;&gt;Peritonite&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;A peritonite generalizada intercorre quando o microrganismo é muito virulento
-    &lt;ul&gt;
-      &lt;li&gt;como no caso do estreptococo beta-hemolítico&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A pelviperitonite acompanha muitas formas de infecção puerperal localizada:
-    &lt;ul&gt;
-      &lt;li&gt;endomiometrite&lt;/li&gt;
-      &lt;li&gt;salpingite&lt;/li&gt;
-      &lt;li&gt;parametrite&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Clinicamente&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;surge dor intensa e defesa muscular no baixo-ventre&lt;/li&gt;
-      &lt;li&gt;febre alta (40°C)&lt;/li&gt;
-      &lt;li&gt;perturbação funcional dos intestinos, com retenção de gases e fezes (íleo paralítico)&lt;/li&gt;
-      &lt;li&gt;pulso a 140&lt;/li&gt;
-      &lt;li&gt;A pelviperitonite pode ser acompanhada de sintomas como
-        &lt;ul&gt;
-          &lt;li&gt;diarréia&lt;/li&gt;
-          &lt;li&gt;tenesmo&lt;/li&gt;
-          &lt;li&gt;dor em baixo ventre&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Exame físico&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;O exame vaginal traz mais informações no caso de pelviperitonite
-        &lt;ul&gt;
-          &lt;li&gt;dor ao toque de fundos de saco – sinal de Proust&lt;/li&gt;
-          &lt;li&gt;dor à mobilização uterina&lt;/li&gt;
-          &lt;li&gt;abaulamentos de fundos de saco (quando há coleção purulenta)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;enquanto o exame abdominal mostra os achados de peritonite
-        &lt;ul&gt;
-          &lt;li&gt;distensão abdominal,&lt;/li&gt;
-          &lt;li&gt;dor à palpação superficial e/ou profunda&lt;/li&gt;
-          &lt;li&gt;descompressão brusca positiva&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-6&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Quando há abscesso no fundo de saco de Douglas, pratica-se a colpotomia e a drenagem&lt;/li&gt;
-  &lt;li&gt;Outros só indicam essa operação se a paciente estiver em
-    &lt;ul&gt;
-      &lt;li&gt;bom estado geral e com&lt;/li&gt;
-      &lt;li&gt;abdome flácido&lt;/li&gt;
-      &lt;li&gt;ruídos intestinais presentes&lt;/li&gt;
-      &lt;li&gt;optando por laparotomia nas demais oportunidades&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;No entanto, a mecha deve ser retirada somente quando, após 2 a 3 dias, não mais se notar a saída de material purulento ou seroso.&lt;/li&gt;
-  &lt;li&gt;Se depois desse período de drenagem as melhoras não se acentuarem (queda da temperatura e do pulso, alívio do estado geral), vale suspeitar de
-    &lt;ul&gt;
-      &lt;li&gt;generalização do processo,&lt;/li&gt;
-      &lt;li&gt;possível formação de lojas purulentas em outras regiões da cavidade abdominal&lt;/li&gt;
-      &lt;li&gt;tromboflebite pélvica séptica&lt;/li&gt;
-      &lt;li&gt;e septicemia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O tratamento da peritonite generalizada há muito baseia-se na &lt;strong&gt;laparotomia&lt;/strong&gt;, que possibilita a aspiração do exsudato livre a fim de reduzir a absorção tóxica
-    &lt;ul&gt;
-      &lt;li&gt;Os focos sépticos devem ser incisados por via abdominal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;a colpotomia é insuficiente, porque lojas purulentas podem surgir até no espaço subdiafragmático
-    &lt;ul&gt;
-      &lt;li&gt;Os drenos são deixados nas fossas ilíacas&lt;/li&gt;
-      &lt;li&gt;Antes de se fechar a cavidade abdominal, é conveniente proceder à lavagem peritoneal com solução fisiológica e aí colocar ampicilina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dependendo do estado geral da paciente e da precocidade da laparotomia, pode-se considerar a retirada do útero quando nele está o foco septicêmico&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/infeccao-puerperal/colpo.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tromboflebite-pélvica-séptica&quot;&gt;Tromboflebite pélvica séptica&lt;/h2&gt;
-&lt;p&gt;É diagnósicada por exclusão. Suspeita-se quando a febre persiste após a antibioticoterapia.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Costuma ser o ponto de partida da pioemia (êmbolos sépticos), determinando abscessos renais, pulmonares e de outros órgãos&lt;/li&gt;
-  &lt;li&gt;Não provoca embolia pulmonar maciça mortal&lt;/li&gt;
-  &lt;li&gt;É de ocorrência rara, mas extremamente preocupante pelo risco de embolização pulmonar.&lt;/li&gt;
-  &lt;li&gt;Os agentes infecciosos geralmente são os anaeróbios:
-    &lt;ul&gt;
-      &lt;li&gt;peptococos&lt;/li&gt;
-      &lt;li&gt;peptoestreptococos&lt;/li&gt;
-      &lt;li&gt;Bacteroides&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cerca de dois terços das pacientes apresentam febre e calafrios, e muitas também apresentam taquicardia e taquipneia&lt;/li&gt;
-  &lt;li&gt;Mais de 20% refere
-    &lt;ul&gt;
-      &lt;li&gt;dor torácica&lt;/li&gt;
-      &lt;li&gt;apresenta tosse e hemoptise&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Há dois quadros clínicos distintos:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Um menos ostensivo, com febre persistente apesar dos antibióticos, paciente ambulatorial, sem dor ou com dor mal localizada.
-        &lt;ul&gt;
-          &lt;li&gt;Achados mínimos e vagos aos exames pélvico e abdominal.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;O outro refere-se à &lt;strong&gt;trombose da veia ovariana&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;complica menos de 0,05% dos partos vaginais e até 1 a 2% dos partos cesáreos.&lt;/li&gt;
-          &lt;li&gt;afeta a veia direita em mais de 90% dos casos
-            &lt;ul&gt;
-              &lt;li&gt;em decorrência da dextrorrotação fisiológica do útero durante a gravidez, que leva à compressão do vaso desse lado&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Atualmente, discute-se a sua etiologia infecciosa&lt;/li&gt;
-          &lt;li&gt;Os sinais/sintomas mais comuns são
-            &lt;ul&gt;
-              &lt;li&gt;febre&lt;/li&gt;
-              &lt;li&gt;dor pélvica&lt;/li&gt;
-              &lt;li&gt;massa abdominal palpável&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Na maioria dos casos, a trombose da veia ovariana não é diagnosticada até que a febre não responsiva aos antibióticos após 48h faz suspeitar da afecção&lt;/li&gt;
-          &lt;li&gt;O trombo pode levar a outras complicações, das quais a mais comum é a embolia pulmonar
-            &lt;ul&gt;
-              &lt;li&gt;que pode ocorrer em mais de 10% dos casos&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Infarto ovariano, obstrução ureteral e até o óbito da paciente também podem ocorrer&lt;/li&gt;
-          &lt;li&gt;O método de eleição para o diagnóstico é a TC com ou sem contraste&lt;/li&gt;
-          &lt;li&gt;A USG traz poucos subsídios
-            &lt;ul&gt;
-              &lt;li&gt;afasta apenas a possibilidade de abscessos pélvicos ou tubo-ovarianos decorrentes da infecção puerperal&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-7&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;O melhor tratamento para a tromboflebite pélvica séptica, inclusive o da trombose da veia ovariana, é o &lt;strong&gt;antibiótico em combinação com o anticoagulante&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Deve-se iniciar com &lt;strong&gt;heparina&lt;/strong&gt; de baixo peso molecular (HBPM), no caso, enoxaparina em dose terapêutica: 1 mg/kg, 12/12h, 1 ou 1,5 mg/kg, 24/24h, por injeção SC
-        &lt;ul&gt;
-          &lt;li&gt;Após o curso inicial com enoxaparina, associa-se o anticoagulante oral varfarina (10 mg/dia), e depois suspende-se a heparina&lt;/li&gt;
-          &lt;li&gt;Nesse período, o índice normalizado internacional (INR) deve ficar entre 2,0 e 3,0&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Muitos autores recomendam continuar os antibióticos por 48 a 72h e os anticoagulantes por, no mínimo, 7 a 10 dias após a resolução da febre&lt;/li&gt;
-      &lt;li&gt;Se o trombo estender-se à veia renal ou à veia cava inferior, como mostrado por TC, a varfarina deve ser mantida por 3 meses&lt;/li&gt;
-      &lt;li&gt;A colocação de filtro na veia cava inferior pode estar indicada em situações de embolização pulmonar, apesar da anticoagulação adequada&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Admissão na UTI&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;choque-septicêmico&quot;&gt;Choque septicêmico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;O principal responsável é a E. coli, raramente os clostrídios e os bacteroides&lt;/li&gt;
-  &lt;li&gt;O prognóstico é grave, embora em pacientes obstétricas a mortalidade seja mais baixa, de 20 a 25%.&lt;/li&gt;
-  &lt;li&gt;Precede o choque a septicemia, cujos sintomas são:
-    &lt;ul&gt;
-      &lt;li&gt;calafrios&lt;/li&gt;
-      &lt;li&gt;elevação da temperatura a 40°C&lt;/li&gt;
-      &lt;li&gt;taquicardia (120 a 140 bpm)&lt;/li&gt;
-      &lt;li&gt;mau estado geral&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A hipertermia torna-se contínua, com poucas oscilações, o que a diferencia dos processos supurativos localizados&lt;/li&gt;
-  &lt;li&gt;Paradoxalmente
-    &lt;ul&gt;
-      &lt;li&gt;o útero pode não estar doloroso nem aumentado de volume&lt;/li&gt;
-      &lt;li&gt;e o corrimento loquial, ausente ou discreto&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Indicativos de choque séptico:
-    &lt;ul&gt;
-      &lt;li&gt;Calafrios&lt;/li&gt;
-      &lt;li&gt;Febre (pode estar ausente)&lt;/li&gt;
-      &lt;li&gt;Sudorese&lt;/li&gt;
-      &lt;li&gt;Sede&lt;/li&gt;
-      &lt;li&gt;Taquicardia&lt;/li&gt;
-      &lt;li&gt;Obnubilação mental&lt;/li&gt;
-      &lt;li&gt;Hipotensão&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Na infecção por Clostridium perfringens surgem
-    &lt;ul&gt;
-      &lt;li&gt;gangrena gasosa (evidenciada por crepitação e nas radiografias)&lt;/li&gt;
-      &lt;li&gt;hemólise intravascular com hemoglobinemia (soro e urina castanho-escuros)&lt;/li&gt;
-      &lt;li&gt;icterícia (hiperbilirrubinemia)&lt;/li&gt;
-      &lt;li&gt;coagulação intravascular disseminada&lt;/li&gt;
-      &lt;li&gt;insuficiência renal aguda&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/infeccao-puerperal/sepse.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Achados clínicos no caso grave (SIRS), são necessários 2 ou mais dos critérios abaixo:
-    &lt;ul&gt;
-      &lt;li&gt;Febre: Tº &amp;gt; 38º ou &amp;lt; 36º&lt;/li&gt;
-      &lt;li&gt;Taquicardia: FC &amp;gt; 90bpm&lt;/li&gt;
-      &lt;li&gt;Taquipnéia: FR &amp;gt; 20ipm ou PaCO2 &amp;lt; 32mmHg&lt;/li&gt;
-      &lt;li&gt;Leucocitose ou leucopenia: Leuc &amp;gt; 12.000cels/mm³ ou &amp;lt; 4.000cels;mm³
-        &lt;ul&gt;
-          &lt;li&gt;Ou presença de &amp;gt; 10% de formas jovens (bastões)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-8&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Admissão em UTI&lt;/li&gt;
-  &lt;li&gt;A cultura do sangue é exame obrigatório para identificar o germe&lt;/li&gt;
-  &lt;li&gt;Nos casos de infecção por &lt;em&gt;Clostridium&lt;/em&gt;, se estiverem presentes os sinais ominosos descritos no quadro clínico, está indicada a &lt;strong&gt;histerectomia total com anexectomia bilateral&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;As transfusões sanguíneas e o tratamento da insuficiência renal aguda são medidas adicionais&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/infeccao-puerperal/sepse-tto.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;itu&quot;&gt;ITU&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Em torno de 2% a 4% das puérperas desenvolve ITU&lt;/li&gt;
-  &lt;li&gt;Após o parto, bexiga e o trato urinário inferior permanecem com algum grau de hipotonia, resultando em urina residual e possibilidade de refluxo vésico-ureteral
-    &lt;ul&gt;
-      &lt;li&gt;Esta alteração fisiológica, agregada à cateterização vesical, traumatismos de parto, anestesia de condução, freqüentes exames pélvicos e proximidade com o períneo, são suficientes para explicar a alta incidência de ITU no puerpério&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Podem contribuir para sua ocorrência
-    &lt;ul&gt;
-      &lt;li&gt;bacteriúria preexistente&lt;/li&gt;
-      &lt;li&gt;infecção crônica do trato urinário&lt;/li&gt;
-      &lt;li&gt;distúrbios anatômicos de uretra, bexiga e rins&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Quadro clínico&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;disúria&lt;/li&gt;
-      &lt;li&gt;polaciúria&lt;/li&gt;
-      &lt;li&gt;urgência&lt;/li&gt;
-      &lt;li&gt;febre baixa&lt;/li&gt;
-      &lt;li&gt;hematúria (no caso de cistite hemorrágica)&lt;/li&gt;
-      &lt;li&gt;Pielonefrite cursa com febre e calafrios
-        &lt;ul&gt;
-          &lt;li&gt;Os sinais característicos de envolvimento renal são&lt;/li&gt;
-          &lt;li&gt;sensibilidade no ângulo costo-vertebral (sinal de Giordano)&lt;/li&gt;
-          &lt;li&gt;disúria e piúria&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Pacientes com infecções urinárias de repetição devem merecer um cuidado maior na avaliação puerperal&lt;/li&gt;
-  &lt;li&gt;A &lt;em&gt;Escherichia coli&lt;/em&gt; é o principal agente causador das infecções urinárias pós-parto (75% dos casos)&lt;/li&gt;
-  &lt;li&gt;Sempre que possível deve ser colhida cultura urinária antes de iniciar a antibioticoterapia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-9&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Antibióticos são o tratamento de escolha&lt;/li&gt;
-  &lt;li&gt;Em infecções baixas podem ser utilizadas, por via oral, a &lt;strong&gt;nitrofurantoína, cefalosporinas ou ampicilina&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;A pielonefrite requer o uso inicial de terapia com altas doses de antibiótico intravenoso&lt;/li&gt;
-  &lt;li&gt;A resposta à medicação costuma ser rápida, mas algumas mulheres não apresentam resposta satisfatória, permanecendo febris e toxemiadas
-    &lt;ul&gt;
-      &lt;li&gt;Nestes casos e na falta de resultado de cultura, deverão ser administrados aminoglicosídeos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Independente da resposta,mesmo não existindo febre, o uso de antibióticos deve continuar por 7 a 10 dias, podendo, nos casos de pielonefrite com boa resposta à antibioticoterapia intravenosa, substituir por antibiótico via oral, depois de 48h sem febre&lt;/li&gt;
-  &lt;li&gt;Após o término do tratamento, nova cultura urinária deve ser obtida&lt;/li&gt;
-  &lt;li&gt;Grande atenção deve ser dada às pacientes com ITU durante o puerpério, principalmente aquelas com pielonefrite, pois elas podem evoluir rapidamente para um quadro séptico, provocado pelas endotoxinas dos germes Gram-negativos, com risco de agravamento acentuado da condição clínica&lt;/li&gt;
-  &lt;li&gt;Um exame ultra-sonográfico, avaliando rins e vias urinárias, pode auxiliar no diagnóstico de abscesso renal e peri-renal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classificação-em-grupos-de-risco&quot;&gt;Classificação em grupos de risco&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Muito alto&lt;/strong&gt; (risco de infecção de 40 a 85%): operação cesariana após parto e amniorrexe de 6 a 12h, com múltiplos exames vaginais em mulheres indigentes&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Alto&lt;/strong&gt; (risco de 10 a 40%):
-    &lt;ul&gt;
-      &lt;li&gt;operação cesariana após parto e amniorrexe de &amp;gt; 6h ou cesárea eletiva em mulheres indigentes.&lt;/li&gt;
-      &lt;li&gt;operação cesariana após parto e amniorrexe de qualquer duração em mulheres não indigentes&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Moderado&lt;/strong&gt; (risco de 3 a 10%): operação cesariana eletiva em mulheres não indigentes Parto vaginal e amniorrexe prolongados ou com grande traumatismo&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Baixo&lt;/strong&gt; (risco de 1 a 3%): parto vaginal não complicado&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-&lt;p&gt;No quadro clínico, a &lt;strong&gt;febre&lt;/strong&gt; ainda é o melhor sinal para o diagnóstico da infecção puerperal.&lt;/p&gt;
-
-&lt;p&gt;O laboratório pouco oferece&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Leucocitose é comum após o parto&lt;/li&gt;
-  &lt;li&gt;Culturas têm pouca serventia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O diagnóstico da &lt;strong&gt;tromboflebite pélvica séptica&lt;/strong&gt; é feito atualmente com &lt;strong&gt;TC ou RM&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Não se justifica mais o teste da heparina intravenosa para estabelecer o diagnóstico.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;USG&lt;/strong&gt; é valiosa para o diagnóstico do &lt;strong&gt;abscesso pélvico e tubo-ovariano&lt;/strong&gt;, este último geralmente presente 1 a 2 semanas após o parto.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:rez&quot;&gt;
-      &lt;p&gt;Rezendinho &lt;a href=&quot;#fnref:rez&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:proto&quot;&gt;
-      &lt;p&gt;Protocolo CISAM 2019 &lt;a href=&quot;#fnref:proto&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:cisam&quot;&gt;
-      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

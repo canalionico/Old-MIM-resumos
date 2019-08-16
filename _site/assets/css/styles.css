@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Padding order: top right bottom left */
 .wrapper {
-  max-width: 1000px;
+  max-width: 1400px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 20px;
@@ -16,6 +16,20 @@
 
 body {
   margin: 0 0 0 0; }
+
+.aviso {
+  padding: 5px 5px 5px 10px;
+  border-left: 6px solid red;
+  background-color: lightgrey; }
+
+.aviso-red {
+  border-color: red; }
+
+.aviso-yellow {
+  border-color: yellow; }
+
+.aviso-green {
+  border-color: green; }
 
 /* Header */
 #logo {

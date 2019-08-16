@@ -658,7 +658,157 @@ diagnóstico de pré-eclâmpsia!
 
 # Exame ginecológico
 
+A coleta do material do colo do útero para exame colpocitopatológico deve ser realizada a
+partir de uma amostra da parte externa, a ectocérvice. A coleta da parte interna, a endocérvice,
+não deve ser realizada nas gestantes.
 
+# Exames complementares
+
+![Ganho de peso](/assets/obstetricia/exames.jpeg)
+
+![Ganho de peso](/assets/obstetricia/exames2.jpeg)
+
+## Segundo as evidências científicas disponíveis, o rastreamento de condições clínicas pode ser ou não recomendado rotineiramente durante o pré-natal:
+
+* Vaginose bacteriana assintomática: não deve ser oferecido, pois as evidências sugerem que a identificação e o tratamento dessa condição não diminuem o risco de parto prematuro e outros problemas reprodutivos (grau de recomendação A);
+* Chlamydia trachomatis assintomática: não deve ser realizado, porque não há evidência suficiente da sua efetividade e do custo/efetividade (grau de recomendação A);
+* Cytomegalovirus: a evidência disponível não embasa o rastreamento de rotina;
+* Estreptococcus do grupo B: não deve ser realizado, pois a evidência de sua efetividade clínica permanece incerta (grau de recomendação A);
+* Vírus da hepatite C: não há evidência suficiente da sua efetividade como rastreamento de rotina (grau de recomendação C). Deve ser solicitado em situações especiais de alto risco, como uso de drogas injetáveis e/ou parceiro usuário, transfusões de sangue ou múltiplos parceiros de um ou de ambos;
+* Vírus da hepatite B: o rastreamento sorológico deve ser oferecido para mulheres grávidas,
+porque a intervenção pós-natal pode diminuir o risco de transmissão mãe-filho (grau de recomendação A). Deve-se solicitar o rastreamento na primeira consulta (grau de recomendação A) – pois se o resultado for negativo e não houver história de vacinação prévia recomenda-se a vacinação – e no terceiro trimestre;
+* HIV (A): deve ser oferecido na primeira consulta e no terceiro trimestre do pré-natal, porque as intervenções podem reduzir a transmissão materno-fetal (grau de recomendação A);
+* Rubéola: deve ser oferecido para identificar mulheres em risco de contrair infecção e possibilitar vacinação no período pós-natal, protegendo gestações futuras (grau de recomendação B);
+* Sífilis: é recomendado na primeira consulta e no terceiro trimestre do pré-natal. Se o resultado for positivo, recomenda-se tratamento imediato, já que o tratamento durante a gestação é benéfico para a mãe e para o feto (grau de recomendação B);
+* Ecografia obstétrica: poderá ser solicitada para a gestante quando houver impossibilidade de determinação da idade gestacional correta e na presença de intercorrências clínicas ou obstétricas, assim como detecção precoce de gestações múltiplas e retardo de crescimento intrauterino. Existem evidências de que sua realização poderá detectar malformações fetais não suspeitas. Embora seja um exame muito útil em diversas situações, na ausência de uma indicação específica, é bastante discutida a sua solicitação. Além disso, não existem dados até o momento que suportem sua recomendação como rotina. De igual forma, não há evidência da sua efetividade na redução da morbimortalidade materna e perinatal (grau de recomendação A). Se for solicitada, na ausência de indicações específicas, a época ideal seria em torno de 16 a 20 semanas de gestação, quando podemos detectar malformações fetais e calcular a idade gestacional (grau de recomendação A).
+
+##  Condutas diante dos resultados dos exames complementares de rotina
+
+![Ganho de peso](/assets/obstetricia/exames3.jpeg)
+![Ganho de peso](/assets/obstetricia/exames4.jpeg)
+![Ganho de peso](/assets/obstetricia/exames5.jpeg)
+![Ganho de peso](/assets/obstetricia/exames6.jpeg)
+![Ganho de peso](/assets/obstetricia/exames7.jpeg)
+
+# Vacinação na gestação
+
+
+## Vacina dupla do tipo adulto – dT (difteria e tétano)
+
+A vacina dT é indicada para a proteção da gestante contra o tétano acidental e a prevenção do tétano neonatal.
+
+Gestante não vacinada e/ou com situação vacinal desconhecida: Deve-se iniciar o esquema o mais precocemente possível, independentemente da idade gestacional. No esquema recomendado constam três doses, podendo ser adotado um dos esquemas da tabela 7.
+
+Para os vacinados anteriormente com 3 (três) doses das vacinas DTP, DT ou dT, deve-se
+administrar reforço dez anos após a data da última dose. Em caso de gravidez e ferimentos
+graves, deve-se antecipar a dose de reforço, sendo a última dose administrada a mais de 5 (cinco)
+anos. A última dose deve ser administrada no mínimo 20 dias antes da data provável do parto. Diante de um acaso suspeito de difteria, deve-se avaliar a situação vacinal dos comunicantes.
+Para os não vacinados, deve-se iniciar esquema com três doses. Nos comunicantes com esquema
+incompleto de vacinação, este deve ser completado. Nos comunicantes vacinados que receberam
+a última dose há mais de 5 (cinco) anos, deve-se antecipar o reforço.
+
+![Ganho de peso](/assets/obstetricia/vacina.jpeg)
+
+* Gestante vacinada:
+  * Gestante sem nenhuma dose registrada: inicie o esquema vacinal o mais precocemente possível com 3 doses, com intervalo de 60 dias ou, no mínimo, 30 dias.
+  * Gestante com esquema vacinal incompleto (1 ou 2 doses): em qualquer período gestacional, deve-se completar o esquema de três doses o mais precocemente possível, com intervalo de 60 dias ou, no mínimo, 30 dias entre elas.
+  * Gestante com menos de 3 doses registradas: complete as 3 doses o mais precocemente possível, com intervalo de 60 dias ou, no mínimo, 30 dias.
+  * Gestante com esquema vacinal completo (3 doses ou mais) e última dose há menos de cinco anos: não é necessário vaciná-la.
+  *  Gestante com esquema completo (3 doses ou mais) e última dose administrada há mais de cinco anos e menos de 10 anos: deve-se administrar uma dose de reforço tão logo seja possível, independentemente do período gestacional.
+  * Gestante com esquema vacinal completo (3 doses ou mais), sendo a última dose há mais de 10 anos: aplique uma dose de reforço.
+
+Contraindicações: A vacina está contraindicada nas seguintes situações:
+
+* Ocorrência de hipersensibilidade após o recebimento de dose anterior;
+* História de hipersensibilidade aos componentes de qualquer um dos produtos;
+* História de choque anafilático após administração da vacina;
+* Síndrome de Guillain-Barré nas seis semanas após a vacinação anterior contra difteria e/ou tétano.
+
+## Vacina contra influenza (fragmentada)
+
+A vacina contra a influenza é recomendada a todas as gestantes em qualquer período
+gestacional. O PNI disponibiliza esta vacina na rede pública de saúde a todas as gestantes durante a campanha anual contra influenza sazonal. O esquema consta de uma dose no período da campanha.
+
+Esta recomendação se deve ao ocorrido anteriormente durante a epidemia de influenza
+sazonal, no decorrer de pandemias anteriores e quando houve pandemia de influenza A (H1N1),
+em 2009, ocasiões em que a gravidez representou um risco ampliado para as mulheres saudáveis, sendo as gestantes consideradas de alto risco para a morbidade e a mortalidade, o que reforçou a necessidade de vacinação.
+
+Contraindicações: A vacina contra influenza sazonal não deve ser administrada em:
+
+* Pessoas com história de alergia severa à proteína do ovo e aos seus derivados, assim como a qualquer componente da vacina;
+* Pessoas que apresentaram reações anafiláticas graves a doses anteriores da vacina.
+
+##  Vacinação contra hepatite B (recombinante)
+
+Por considerar os riscos da gestante não vacinada de contrair a doença e de haver transmissão vertical, o PNI reforça a importância de que a gestante receba a vacina contra a hepatite B após o primeiro trimestre de gestação, independentemente da faixa etária. O esquema desta vacina deve ser seguido conforme os calendários de vacinação do adolescente e do adulto.
+
+A seguir, destaca-se a recomendação de acordo com a situação apresentada:
+
+* Gestantes com esquema incompleto (1 ou 2 doses): deve-se completar o esquema.
+* Gestantes com esquema completo: não se deve vaciná-las.
+
+Para a prevenção da transmissão vertical, no caso de recém-nascido de mãe sabidamente
+positiva para a hepatite B, é fundamental a administração precoce da vacina contra hepatite
+B, preferencialmente nas primeiras 12 horas, bem como da imunoglobulina humana específica
+(IGHB - 0,5mL).
+
+A vacina deve ser utilizada mesmo que a imunoglobulina não esteja disponível. Além da vacina, é necessária a administração da imunoglobulina humana anti-hepatite B (IGHAHB) em recém-nascido de mãe sabidamente positiva para a hepatite B.
+
+## Vacina contra raiva humana
+
+Em situações de pós-exposição, a vacina contra raiva humana não é contraindicada durante a
+gestação. Na pré-exposição, a gestante também pode ser vacinada. Entretanto, devido ao risco da ocorrência de eventos adversos, é preferível que ela receba a vacina somente se não puder evitar as situações de possível exposição ao vírus rábico7.
+
+## Vacina contra febre amarela (atenuada)
+
+Na rotina do serviço de vacinação, a gestante não deve receber a vacina contra febre
+amarela. Entretanto, em situações de surto, se a gestante reside ou vai se deslocar para área com recomendação de vacinação para febre amarela, ela deve ser vacinada se o risco de adoecer for maior do que o risco de receber a vacina.
+
+É importante ressaltar que as lactantes que amamentam crianças menores de seis meses de
+idade também não devem ser vacinadas
+
+![Ganho de peso](/assets/obstetricia/vacina2.jpeg)
+
+## Observações gerais:
+
+As vacinas virais vivas que contêm os componentes do sarampo, da rubéola, da caxumba e da
+febre amarela não são recomendadas em situações normais. Contudo, quando for alto o risco de ocorrer a infecção natural pelos agentes dessas doenças (viagens a áreas endêmicas ou vigência de surtos ou epidemias), deve-se avaliar cada situação, sendo válido optar-se pela vacinação quando o benefício for considerado maior do que o possível risco.
+
+Após a vacinação com tríplice viral, recomenda-se evitar a gravidez durante um mês (30
+dias), apenas por precaução. Entretanto, se a mulher engravidar antes desse prazo ou se houver administração inadvertida durante a gestação, não se justifica o aborto em nenhum desses casos, por se tratar apenas de risco teórico. A gestante deverá ser acompanhada pelo serviço de saúde.
+
+Gestante suscetível que tenha contato com varicela deve receber a imunoglobulina humana
+antivaricela-zoster (IGHVAZ).
+
+# Queixas mais comuns na gestação
+
+As orientações a seguir são válidas para os casos em que os sintomas são manifestações
+ocasionais e transitórias, não refletindo, geralmente, patologias clínicas mais complexas. A maioria das queixas diminui ou desaparece sem o uso de medicamentos, que devem ser evitados ao máximo.
+
+* Náuseas e vômitos
+* Pirose
+* Sialorreia
+* Fraquezas e desmaios
+* Dor abdominal, cólicas, flatulência e obstipação intestinal
+  * Certifique-se de que não sejam contrações uterinas;
+* Hemorroidas
+* Corrimento vaginal
+* Queixas urinárias: polaciúria, incontinência
+* Falta de ar e dificuldades para respirar
+  * Recomendar repouso em DLE
+* Mastalgia
+  * Recomende à gestante o uso constante de sutiã, com boa sustentação, após descartar qualquer intercorrência mamária;
+* Lombalgia
+* Cefaléia
+* Sangramento gengival
+* Varizes
+* Câimbras
+* Cloasma gravídico
+  * Explique que é uma ocorrência comum na gravidez e que costuma diminuir ou desaparecer, em tempo variável, após o parto;
+  * Recomende que a gestante não exponha o próprio rosto diretamente ao sol e que use protetor solar.
+* Estrias
+
+# Gestação múltipla
 
 ## Referências
 
