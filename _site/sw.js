@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/obstetricia/forceps',
+      
         '/obstetricia/assistencia-pre-natal',
       
         '/obstetricia/assistencia-ao-parto-e-partograma',
@@ -532,6 +534,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/exames7.jpeg'
       
+        '/assets/obstetricia/forceps2.jpeg'
+      
         '/assets/obstetricia/ganho-peso.jpeg'
       
         '/assets/obstetricia/hasg/esquemas.jpeg'
@@ -560,6 +564,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/jacob-dubin.jpeg'
       
+        '/assets/obstetricia/kielland.jpeg'
+      
         '/assets/obstetricia/leopold.jpeg'
       
         '/assets/obstetricia/leopold2.jpeg'
@@ -567,6 +573,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/leopold3.jpeg'
       
         '/assets/obstetricia/ombro.jpeg'
+      
+        '/assets/obstetricia/pajot.jpeg'
       
         '/assets/obstetricia/partograma.jpeg'
       
@@ -609,6 +617,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/semio/linea-nigra.jpg'
       
         '/assets/obstetricia/semio/tuberculos.jpg'
+      
+        '/assets/obstetricia/simpson.jpeg'
       
         '/assets/obstetricia/tp/dilatacao.jpeg'
       

@@ -3,6 +3,9 @@ title: Assistência ao parto e partograma
 category: obstetricia
 ---
 
+* toc
+{:toc}
+
 O trabalho de parto contempla três fases: dilatação, expulsão e secundamento. Essas fases são precedidas por uma fase preliminar chamada de período premonitório. O quarto período sería a primeira hora após o secundamento que é considerado como o término do parto por alguns autores (por ser um período de ainda muitos riscos e que carece de atenção continuada pelos obstetras - como atonia e hemorragia).
 
 * Fase de dilatação: ampliação do diafragma cervicossegmentário, primeiro período do parto.
