@@ -232,7 +232,6 @@ h2, h3, h4, h5, h6 {
 
 p, a, li, figcaption {
   font-family: 'Roboto', sans-serif;
-  font-size: 18px;
   text-align: left;
   hyphens: none;
   -webkit-font-smoothing: antialiased;
@@ -492,7 +491,4 @@ figure {
     width: calc(25%); }
 
   .footer-col3 {
-    width: calc(35%); }
-
-  p, a, li, figcaption {
-    font-size: 20px; } }
+    width: calc(35%); } }

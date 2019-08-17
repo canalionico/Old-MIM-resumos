@@ -179,11 +179,126 @@ recomenda o NICE. **Desacelerações precoces (tipo I) são comuns no período e
     * Evitar parto em posição de litotomia, evitar puxos dirigidos, evitar manobra de Valsalva e manobra de Kristeller, evitar episiotomia e restringir o uso de parto instrumental;
 * **Parto vaginal instrumental**
   * Ver o capítulo específico
-* Assistência ao desprendimento dos ombros
-* Circular de cordão
+* **Assistência ao desprendimento dos ombros**
+  * Após o nascimento do polo cefálico, aguarda-se o movimento de **rotação externa da cabeça** e avalia-se o progresso no **desprendimento espontâneo do ombro**, primeiro o anterior e depois o posterior;
+  * Na maioria dos casos não é necessária nenhuma intervenção
+  * Caso não ocorra espontaneamente, e inexistindo os sinais de distocia de ombro, apreende-se a apresentação com ambas as mãos, traciona-se para baixo com o objetivo de desprender o ombro anterior e depois para cima, para a saída do ombro posterior;
+  * Não tentar essa manobra na distocia de ombro, pois ela não resolve;
+    * Um dos sinais de distocia de ombro é o **sinal da tartaruga**
+* **Circular de cordão**
+  * Presente em 20-40% dos nascimentos;
+  * Raramente se associa a aumento da morbimortalidade;
+  * Não é necessária USG para sua predição (além de baixa acurácia)
+  * Indicação equivocada de cesárea;
+  * Não é necessário percorrer o pescoço do bebê pesquisando circular de cordão tão logo se desprenda a cabeça fetal;
+  >  Infelizmente, alguns obstetras têm o hábito de ligar precocemente o cordão e proceder ao desprendimento imediato quando se deparam com uma circular de cervical apertada. No entanto, além de desnecessária, a ligadura precoce do cordão pode trazer efeitos adversos, privando o feto do suprimento sanguíneo e das trocas gasosas que se processam pelo cordão.
+  * Uma circular frouxa nem precisa ser desfeita;
+  * **Manobra de _somersault_**: para circulares apertadas que dificultam o desprendimento;
+* Contato pele a pele
+  * Fundamental;
+  * Incentivar o aleitamento ainda na 1ª hora de vida;
+  * Aguardar ao menos 3 min para o clampeamento em RNs saudáveis (ou até cessarem as pulsações);
+* Revisão de vulva, vagina e colo uterino
+  * A revisão da região vulvoperineal é recomendada;
+  * A revisão da vagina e do colo uterino deve ser sistemática apenas quando o parto for cirúrgico ou houver sangramento anormal;
+  * Em geral, a revisão é realizada ao fim do secundamento.
+  * Se não houver hemorragia ou ruptura de extensão considerável, rasgaduras pequenas não requerem maiores cuidados porque, em geral, superados o edema e a congestão das primeiras 24 h, ficam muito reduzidas.
+  * Há de se recordar que o fio de sutura é um corpo estranho e que a sutura pode acarretar isquemia e dano tecidual, sendo princípios básicos: menos suturas, menos fios de sutura, menos tensão.
+  * Julgar com bom senso sea sutura é necessária;
+    * Geralmente se há grande desvio de anatomia ou sangramento.
+* Correção de lacerações espontênas ou epsiorrafia
+  * Prefere-se a sutura contínua em todos os planos;
+  * Fio de ácido poliglicou (melhor que o _catgut_)
 
 
 ![Episiotomia](/assets/obstetricia/episio.jpeg)
+
+![Assistência ao ombro](/assets/obstetricia/ombro.jpeg)
+
+<p class="aviso aviso-red">O momento adequado para a injeção intramuscular de 10 UI de ocitocina, capaz de reduzir as perdas
+sanguíneas pós-parto e apressar a dequitação, é durante a expulsão do ombro posterior, ou logo que for
+possível.</p>
+
+## Secundamento
+
+É o terceiro período do parto. Processa-se em tempos que são descritos a seguir:
+
+* Descolamento:
+  * A retração dos músculos uterinos e as contínuas contrações reduzem a superfície interna do útero;
+  * A zona de inserção da placeta sofre pregueamento, resultando no seu descolamento;
+  * A decídua não fica passiva a esses fenômenos contráteis; cede e se descola no nível da zona não resistente (camada esponjosa);
+  * A separação da placenta nos limites da esponjosa é explicada por esse mecanismo, e também pela existência de processos degenerativos e necróticos que se iniciaram nas últimas semanas da gravidez;
+  * A clivagem continua em plena espessura da decídua parietal, que se destaca e sai com as membranas ovulares;
+  * Forma-se o hematoma retroplacentário onde houve o descolamento;
+  * O descolamento da placenta ocorre de acordo com dois tipos de mecanismos:
+    1. **Mecanismo de Baudelocque-Schultze** (75%): quando a placenta se insere na parte superior, inverte-se e deprende-se pela face fetal, em forma de guarda chuva. O sangue se exterioriza após a placenta pois esta está bloquendo a passagem;
+    2. **Mecanismo de Baudelocque-Duncan** (25%): a placenta está na parede lateral do útero, o descolamento começa na borda inferior e o sangue já se exterioriza antes da saída da placenta. E esta se apresenta pela borda ou pela face materna;
+* Descida:
+  * A placenta começa a descer e do corpo do útero passa para o segmento inferior. Ela percorre a cérvice e cai na vagina;
+* Desprendimento:
+  * No canal vaginal, a placenta provoca nova sensação de puxo, podendo determinar esforços abdominais semelhantes ao segundo período do parto;
+  * Na posição de decúbito dorsal a ausência de gravidade não ajuda nessa fase;
+
+No antigo local de inserção da placenta, forma-se ferida viva, com os seus vasos abertos, dando saída a certa
+quantidade de sangue, até que se obliterem, pelo mecanismo descrito por **Pinard (ligaduras vivas)**, após a
+retração uterina.
+
+Em geral o terceiro período dura de 5 a 6 min. Terceiro período prolongado é aquele que não se completa em até 30 min com manejo ativo ou 60 min em manejo expectante. Na maioria dos casos a placenta nasce espontaneamente, sem requerer manobras adicionais.
+
+### Conduta ativa no secundamento
+
+Consiste em intervenções destinadas a aumentar a contratilidade uterina e, assim, evitar a hemorragia pós-parto por atonia. Seus fundamentos são elencados a seguir:
+
+* **Administração de agentes uterotônicos**: o ponto chave, 10 UI ocitocina;
+* Ligadura precoce do cordão
+* Tração controlada do cordão: sem evidências de redução das HPP?
+* Massagem uterina após o secundamento.
+
+É importante palpar-se o útero para averiguar a formação do globo de segurança de Pinard, mas massagem uterina de rotina não parece ser necessária.
+
+![Jacob-Dubin](/assets/obstetricia/jacob-dubin.jpeg)
+
+#### Exame da placenta e dos anexos ovulares
+
+Revisar manualmente a cavidade uterina depois do secundamento ainda é prática frequente em alguns
+serviços, procedimento que acarreta dor, desconforto e não é apoiado por evidências. Para se avaliar a
+existência de suspeita de retenção de cotilédones ou de membranas, deve-se realizar o exame da placenta e dos
+anexos ovulares.
+
+* Face materna da placenta: apresenta-se com aspecto brilhante, corresponde à decídua compacta que saiu aderida aos cotilédones;
+  * As áreas sem brilho decorrem da ausência de decídua que ficou no útero.
+  * A retenção de um ou mais cotilédones traduz-se por falha na massa placentária, com nítida depressão;
+* Face fetal da placenta: há de verificar-se o ponto de inserção do cordão e a integridade do âmnio, que, quando desprendido, deve ser reconstituído até cobrir totalmente a massa placentária. Os vasos umbilicais desaparecem gradualmente perto da borda da placenta;
+  * A interrupção de vaso de grosso calibre, nessa região, sugere a falta de fragmento da placenta (sucenturiada);
+* Membranas: quando as membranas têm, em qualquer parte do seu contorno, extensão menor de 10 cm, suspeita-se de inserção no segmento inferior do útero (placenta baixa).
+
+![Apgar](/assets/obstetricia/apgar.jpeg)
+
+## Quarto período
+
+Também chamado de período de Greenberg. É aprimeira hora após a saída da placenta. Ainda permanece o risco de hemorragia. Se divide nas seguintes fases:
+
+* **Miotamponagem:** após a dequitação o útero se contrai é pode ser palpado logo abaixo do umbigo.
+  * Forma-se as ligaduras vivas dos vasos uterinos;
+  * Primeira linha de defesa contra a hemorragia;
+* **Trombotamponagem:** formação de trombos nos grandes vasos uteroplacentários, constituindo hematoma intrauterino que recobre, de modo contínuo, a ferida aberta no local placentário;
+  * Os coágulos enchem a cavidade uterina, à medida que a matriz gradualmente se relaxa e atinge, ao fim de uma hora, o nível do umbigo;
+  * Segunda linha de defesa contra a hemorragia;
+* **Indiferença miouterina:** o útero torna-se apático e apresenta fases de contração e relaxamentoo, com o perigo de encher-se progressivamente de sangue.
+  * Quanto **maior a paridade ou mais prolongados os três primeiros estágios da parturição**, **maior tende a ser o tempo de indiferença miouterina**.
+  * O mesmo ocorreria após partos excessivamente rápidos, polidrâmnio, gravidez múltipla e nascimento de conceptos macrossômicos, à conta da excessiva distensão da matriz;
+* **Contração uterina fixa:** após 1h o útero mantêm seu tônus estático na maior intensidade.
+
+A altura do útero deve ser anotada no decorrer do secundamento e posteriormente, porque representa dado
+de grande importância clínica, que pode exprimir fenômenos normais ou patológicos. Sua consistência também representa elemento digno de atenção, principalmente até sentir-se o que **Pinard chamou globo de segurança**,
+útero de **consistência lenhosa permanente**.
+
+* **Sinal de Ahfeld:** Pinçamento ou ligadura do funículo, próximo à vulva, que dela se distancia com o progresso de migração placentária
+* **Sindal do pescador de Fabre:** O descolamento completo da placenta, que pode ser apreciado pela transmissão (presente ou ausente) de ligeiros movimentos de percussão do fundo do útero, ao cordão umbilical
+* Sinal de Kustner
+
+Sinais de descolamento placentário:  alongamento do cordão protruso através da vulva, elevação do fundo do útero acima do umbigo, que se torna duro e globular, hemorragia de pequena monta (300 a 500 ml) devido à separação da placenta que normalmente cessa rapidamente na dependência da retração das fibras miometriais.
+
 
 
 # Partograma

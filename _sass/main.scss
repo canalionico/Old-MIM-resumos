@@ -27,7 +27,6 @@ body {
 .aviso-yellow {border-color: yellow}
 .aviso-green {border-color: green}
 
-
 /* Header */
 #logo {
   width: 100%;
@@ -246,7 +245,6 @@ h2, h3, h4, h5, h6 {
 }
 p, a, li, figcaption {
   font-family: 'Roboto', sans-serif;
-  font-size: 18px;
   text-align: left;
   hyphens: none;
   -webkit-font-smoothing: antialiased;
@@ -519,8 +517,5 @@ figure {
   }
   .footer-col3 {
     width: calc(35%);
-  }
-  p, a, li, figcaption {
-    font-size: 20px;
   }
 }

@@ -492,6 +492,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/anestesia.jpeg'
       
+        '/assets/obstetricia/apgar.jpeg'
+      
         '/assets/obstetricia/bcf.jpeg'
       
         '/assets/obstetricia/bcf2.jpeg'
@@ -556,11 +558,15 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/infeccao-puerperal/sepse.jpeg'
       
+        '/assets/obstetricia/jacob-dubin.jpeg'
+      
         '/assets/obstetricia/leopold.jpeg'
       
         '/assets/obstetricia/leopold2.jpeg'
       
         '/assets/obstetricia/leopold3.jpeg'
+      
+        '/assets/obstetricia/ombro.jpeg'
       
         '/assets/obstetricia/partograma.jpeg'
       
