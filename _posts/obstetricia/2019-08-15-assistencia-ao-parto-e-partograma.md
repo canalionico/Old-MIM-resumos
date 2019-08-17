@@ -31,6 +31,8 @@ O colo começa também a se alinhar ao eixo do canal vaginal (abaixamento do col
 diagnóstico e a confusão com o falso trabalho de parto podem acarretar internamento precoce e seus efeitos
 deletérios (muitas intervenções não necessárias).
 
+> Deve-se ter todo o cuidado para se diagnosticar corretamente a fase ativa do trabalho de parto e internar somente as parturientes nessa fase, para evitar internações precoces, que costumam acarretar intervenções desnecessárias em série, como excesso de exames de toque, uso de ocitocina, maior necessidade de analgesia e cesariana (cascata de intervenções).
+
 **Diretriz do Institute for Clinical Systems Improvement (ICSI) de 2013:**
 
 * Ocorrência de contrações uterinas espontâneas e rítmicas (**pelo menos duas em 15 min**), associadas a, pelo menos, dois dos seguintes sinais:
@@ -81,10 +83,132 @@ se insinua, a princípio, pelo orifício interno do colo, a cujos lábios transm
 
 ## Fase de expulsão
 
-É o segundo período do parto.
+É o segundo período do parto. Começa quando se completa a dilatação e terminando quando ocorre a saída do concepto. Se caracteriza pelo rítmo sincrônico das metrossístoles que comprime o útero
+
+> Estudos mais recentes demonstram a importância das metrossístoles que representam o componente fundamental no processo expulsivo, com menor relevo para a prensa abdominal, que não deve ser forçada caso a parturiente não demonstre desejo de fazê-lo.
+
+As metrossístoles se tornam mais recorrentes e intensas, até diminuirem seus intervalos para 5 a cada 10 min.
+
+> Ao comprimir as paredes vaginais, o reto e a bexiga, o polo inferior do feto provoca, por via reflexa, o aparecimento das contrações voluntárias da prensaabdominal. Origina-se, então, a vontade de espremer, os puxos, movimentos enérgicos da parede do ventre, **semelhantes aos suscitados pela evacuação ou micção**. **São esses os puxos involuntários, tardios, que não demandam encorajamento dos presentes à cena do parto**.
+
+Logo após o parto (a saída do concepto), o útero se mantêm contraído e já se reduz ao nível da cicatriz umbilical. A mãe sente um momento de euforia e alívio provocados pela liberação de ocitocina e endorfina.
+
+## Duração do TP
+
+* Fase latente (média)
+  * 20h nas prímiparas
+  * 14h nas multíparas
+* Fase ativa: é bastante variável. O tempo para evoluir de 4 cm a 10 cm entre os percentis P95 e P5 são:
+  * 5,3 a 16,4 horas em primíparas
+  * 3,8 a 15,7 horas em multíparas
+
+> O trabalho de parto pode demorar mais de 6h para progredir de 4 cm para 5 cm, sendo, portanto, 6 cm o melhor ponto de corte para definir-se o início da fase ativa do trabalho de parto.
+
+## Assistência propriamente dita
+
+* Admissão da gestante
+  * Deve-se tentar admitir somente as gestantes em TP
+    * De modo a evitar intervenções desnecessárias
+  * Não há evidência de benefício em  realizar cardiotocografia como exame de admissão
+* Cuidados inciais
+  * Parturientes de baixo risco não são doentes e não devem ser impostas a jejum, tricotomia, tricoxisma, enema (enteróclise), ou mudança de vestimentas.
+  * Nas pacientes de alto risco para broncoaspiração (PE, obesidade), pode-se pensar no jejum.
+  * Proporcionar livre deambulação, banho morno, massagem, mudança de posição, execícios e outras medidas de conforto.
+  *  Parturientes de baixo risco devem ser encorajadas a beber livremente líquidos.
+* Toque vaginal
+  * Afastam-se as ninfas e introduzem-se na vagina os dedos indicador e médio, ou apenas o primeiro, untados em vaselina esterilizada ou clorexedina aquosa.
+  * O exame procura explorar sucessivamente:
+    * O colo (apagamento, dilatação, orientação e consistência),
+    * A bolsa das águas
+    * A apresentação (posição, variedade, altura e proporcionalidade à bacia, além de outros detalhes, como a flexão e o assinclitismo).
+    * OMS recomenda um intervalo de 4h entre os toques na fase ativa de TP
+    * Altura da apresentação: nas primíparas a apresentação costuma estar encaixada já quando começa o TP. Nas multíparas isso só ocorre no fim da dilatação ou no começo da expulsão.
+      * Ver partograma e planos de DeLee e Hodge
+    * Verificar secreções nas luvas após o toque (mecônio, sangue) e avaliar o odor.
+* Amniotomia
+  * Não deve ser feita de rotina
+  * Quando indicada deve ser feita durante a contração uterina, com a bolsa das águas tensa.
+  * Examinar a cor e aspécto do líquido que escoa
+* Ausculta BCF
+  * ACOG: a cada 30 min na fase de dilatação e a cada 15 min na de expulsão
+  * NICE: a cada 15 min e 5 min, respectivamente
+  * Na pausa intercontrátil, o número de ruídos costuma manter-se **entre 110 e 160 bpm**, em **média 140 bpm**.
+
+  > Não deve ser realizada com a parturiente deitada em decúbito dorsal, porque a compressão dos grandes vasos pelo útero gravídico pode levar a redução do retorno venoso, redução do débito cardíaco, redução do fluxo sanguíneo para útero e placenta e, portanto, a padrões anômalos de frequência cardíaca fetal por má oxigenação.
+
+* Ocitocina
+  * Embora acelere o trabalho de parto, aumentando a intensidade e a frequência das contrações uterinas, seu uso deve ser limitado aos casos de parada de progressão associada com hipoatividade da matriz uterina.
+  * Não é recomendado o uso de rotina
+  * A perfusão venosa é a única a ser usada, jamais em bólus, e preferencialmente em bomba infusora. Ao se diluírem 5 UI de ocitocina (1 ampola) em 500 ml de soro, obtém-se solução de 10 mU/ml. A recomendação é que a dose inicial de ocitocina seja de 2 mU/min (4 gotas/min ou 12 mμ/h em bomba infusora), aumentando-se a infusão em 1 a 2 mU/min a cada 15 a 40 min, quando necessário.
+  * A resposta do útero à ocitocina, no período de dilatação, é quase imediata.
+  * Na impossibilidade de se registrar a pressão amniótica, pode-se inferir da contratilidade, anotando o número e a duração das contrações. A frequência delas torna possível avaliar a perfusão venosa de ocitocina; impedindo-se elevação superior a 4/10 min faz-se a profilaxia do sofrimento do concepto.
+  * Pela duração da metrossístole avalia-se, indiretamente, a intensidade contratural (normal: 50 a 60 s).
+* Analgesia
+  * Peridural
+  * Bloqueio combinado raquidiano peridural (BCRP)
+    * Injeção de opióide subaracnóideo e passagem de cateter peridural.
+    * Pode associar bupivacaína
+    * Apenas bloqueio sensitivo
+    * Paciente deve deambular normalmente
+  * Analgesia inalatória
+  * Deve-se evitar meperidina injetável (causa sonolência, náuseas e vômitos na gestante e depressão respiratória no bebê)
+  * Todas as mulheres em trabalho de parto devem ter a oportunidade de escolher algum método não invasivo de analgesia quando assim desejarem.
+
+![Altura da insinuação](/assets/obstetricia/altura.jpeg)
+
+![Anestesia](/assets/obstetricia/anestesia.jpeg)
+
+### Assistência à expulsão
+
+O monitoramento fetal deve ser feito com maior frequência, a cada 15 min, quando não a cada 5 min, como
+recomenda o NICE. **Desacelerações precoces (tipo I) são comuns no período expulsivo, decorrentes da compressão do polo cefálico.**
+
+> No entanto, há muitas vantagens a favor das posições verticalizadas (sentada, semissentada, ajoelhada, de cócoras e outras): efeito da gravidade, menor compressão da aorta e da cava, maior eficiência da contratilidade uterina, alinhamento do feto com a pelve, além das demais posições não supinas (lateral, quatro apoios)
+
+* **Puxos e respiração:** comandados os puxos pode estimular puxos precoces, quando a mulher ainda não tem vontade de fazer força. Orientações frequentes incluem os comandos “força comprida” ou “força de cocô”, concomitantes com sugestões sobre técnicas respiratórias, em geral a manobra de Valsalva, “trinque os dentes e faça força”;
+  * Todos esses comandos parecem desnecessários, pois podem atrapalhar a mulher e ser prejudiciais.
+  * A recomendação clássica de “força comprida” ou “força de cocô” pode não ser a mais adequada no momento em que se pretende o relaxamento perineal, podendo resultar em **lacerações**.
+  * Estudos controlados têm demonstrado que puxos precoces e comandados podem ter repercussões adversas sobre o assoalho pélvico e que a manobra de Valsalva pode impactar negativamente os fatores urodinâmicos.
+* Episiotomia: consiste na incisão cirúrgica do períneo, feita com tesoura ou bisturi, com o objetivo teórico de ampliar o canal de parto e facilitar o desprendimento fetal, podendo ser mediana (perineotomia) e mediolateral;
+  * A finalidade da episiotomia, de acordo com os postulados de DeLee, seria reduzir a probabilidade de lacerações perineais graves, enquanto a associação com o fórceps minimizaria o risco de trauma fetal, prevenindo hipoxia.
+  * Não há diferença nos resultados perinatais nem redução da incidência de asfixia nos partos com episiotomia seletiva versus episiotomia de rotina
+  * Não há proteção do assoalho pélvico materno, pois a episiotomia de rotina não protege contra incontinência urinária ou fecal, e tampouco contra o prolapso genital, associando-se a redução da força muscular do assoalho pélvico em relação aos casos de lacerações perineais espontâneas;
+  * A episiotomia é per se uma laceração perineal de 2o grau, e quando ela não é realizada pode não ocorrer nenhuma laceração ou surgirem lacerações anteriores, de 1o ou 2 o graus, mas de melhor prognóstico;
+* Proteção do períneo
+  * Há quem proponha estratégia totalmente hands off (sem colocar as mãos), enquanto outros praticam manobras, incluindo o **procedimento de Ritgen**, técnica de flexão, uso de compressas mornas, massagem perineal, gel obstétrico, dentre outras;
+    * Evitar parto em posição de litotomia, evitar puxos dirigidos, evitar manobra de Valsalva e manobra de Kristeller, evitar episiotomia e restringir o uso de parto instrumental;
+* **Parto vaginal instrumental**
+  * Ver o capítulo específico
+* Assistência ao desprendimento dos ombros
+* Circular de cordão
 
 
+![Episiotomia](/assets/obstetricia/episio.jpeg)
 
+
+# Partograma
+
+ACOG: o partograma só deve ser aberto após 6 cm de dilatação e padrão contrátil efetivo. Na fase latente do trabalho de parto, a conduta é expectante.
+
+Alguns partogramas incluem duas linhas paralelas denominadas linhas de alerta e de ação. Quando a
+dilatação atinge ou cruza a **linha de alerta**, há necessidade de melhor observação clínica; somente quando a curva de dilatação cervical atinge a **linha de ação** a intervenção se torna necessária, o que não significa adotar uma conduta cirúrgica. Caso se opte por usar essas linhas, **o intervalo entre elas deve ser de 4 h**.
+
+* O registro gráfico deve ser iniciado quando a parturiente estiver na fase ativa do trabalho de parto (duas a três contrações generalizadas em 10 min, dilatação cervical mínima de 6 cm);
+* A dilatação cervical inicial é marcada no ponto correspondente do gráfico, traçando-se na hora imediatamente seguinte a linha de alerta e, em paralelo, 4 h após, registra-se a linha de ação, desde que a parturiente esteja na fase ativa de parto (**no mínimo 1 cm/h de dilatação**);
+  * Do contrário é possível corrigir as linhas e reposicioná-las;
+* Os toques vaginais são realizados **a cada 4 h**. A cada toque deve-se anotar a **dilatação cervical**, a **altura da apresentação**, a **variedade de posição** e as **condições da bolsa das águas e do líquido amniótico**;
+* Quando a bolsa estiver rompida, por convenção, registra-se a dilatação cervical com um triângulo;
+* A apresentação e a respectiva variedade de posição são representadas por uma circunferência;
+* O padrão das contrações uterinas e dos BCF, a infusão de líquidos, medicamen* A dilatação cervical inicial é marcada no ponto correspondente do gráfico, traçando-se na hora imediatamente seguinte a linha de alerta e, em paralelo, 4 h após, registra-se a linha de ação, desde que a parturiente esteja na fase ativa de parto (no mínimo 1 cm/h de dilatação)* A dilatação cervical inicial é marcada no ponto correspondente do gráfico, traçando-se na hora imediatamente seguinte a linha de alerta e, em paralelo, 4 h após, registra-se a linha de ação, desde que a parturiente esteja na fase ativa de parto (no mínimo 1 cm/h de dilatação)tos e o uso de analgesia devem ser devidamente registrados;
+
+![Partograma](/assets/obstetricia/partograma.jpeg)
+
+## Parto normal
+
+* Início espontâneo
+* Apresentação cefálica de vértice, única
+* Gravidez a termo (37 a 42 semanas)
+* Nenhuma intervenção artificial.
 
 
 ## Referências

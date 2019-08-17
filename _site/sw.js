@@ -488,6 +488,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/afu4.jpeg'
       
+        '/assets/obstetricia/altura.jpeg'
+      
+        '/assets/obstetricia/anestesia.jpeg'
+      
         '/assets/obstetricia/bcf.jpeg'
       
         '/assets/obstetricia/bcf2.jpeg'
@@ -509,6 +513,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/edema4.jpeg'
       
         '/assets/obstetricia/endocrino/1.jpg'
+      
+        '/assets/obstetricia/episio.jpeg'
       
         '/assets/obstetricia/exames.jpeg'
       
@@ -555,6 +561,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/leopold2.jpeg'
       
         '/assets/obstetricia/leopold3.jpeg'
+      
+        '/assets/obstetricia/partograma.jpeg'
       
         '/assets/obstetricia/pp/dd.jpeg'
       
