@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/obstetricia/vacuo-extrator',
+      
         '/obstetricia/forceps',
       
         '/obstetricia/assistencia-pre-natal',
@@ -500,6 +502,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/bcf2.jpeg'
       
+        '/assets/obstetricia/biparietomalomentoniana.png'
+      
+        '/assets/obstetricia/derradeira.jpeg'
+      
         '/assets/obstetricia/diag.png'
       
         '/assets/obstetricia/dm/img.jpeg'
@@ -517,6 +523,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/edema4.jpeg'
       
         '/assets/obstetricia/endocrino/1.jpg'
+      
+        '/assets/obstetricia/endometrite.jpeg'
       
         '/assets/obstetricia/episio.jpeg'
       
@@ -536,6 +544,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/forceps2.jpeg'
       
+        '/assets/obstetricia/forceps3.jpeg'
+      
         '/assets/obstetricia/ganho-peso.jpeg'
       
         '/assets/obstetricia/hasg/esquemas.jpeg'
@@ -549,6 +559,10 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/hasg/quadro3.jpeg'
       
         '/assets/obstetricia/hasg/tabela.jpeg'
+      
+        '/assets/obstetricia/histerotomia.jpeg'
+      
+        '/assets/obstetricia/histerotomias.jpeg'
       
         '/assets/obstetricia/hpp/tab.png'
       
@@ -572,11 +586,15 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/leopold3.jpeg'
       
+        '/assets/obstetricia/ligadura.jpeg'
+      
         '/assets/obstetricia/ombro.jpeg'
       
         '/assets/obstetricia/pajot.jpeg'
       
         '/assets/obstetricia/partograma.jpeg'
+      
+        '/assets/obstetricia/pfannenstiel.jpeg'
       
         '/assets/obstetricia/pp/dd.jpeg'
       

@@ -20,7 +20,7 @@ body {
 .aviso {
   padding: 5px 5px 5px 10px;
   border-left: 6px solid red;
-  background-color: lightgrey; }
+  background-color: #eee; }
 
 .aviso-red {
   border-color: red; }

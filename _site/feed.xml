@@ -1,11 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-17T20:09:08-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Fórceps</title><link href="http://localhost:4000/obstetricia/forceps" rel="alternate" type="text/html" title="Fórceps" /><published>2019-08-17T00:00:00-03:00</published><updated>2019-08-17T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/forceps</id><content type="html" xml:base="http://localhost:4000/obstetricia/forceps">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-18T04:40:41-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry><entry><title type="html">Fórceps</title><link href="http://localhost:4000/obstetricia/forceps" rel="alternate" type="text/html" title="Fórceps" /><published>2019-08-17T00:00:00-03:00</published><updated>2019-08-17T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/forceps</id><content type="html" xml:base="http://localhost:4000/obstetricia/forceps">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fórceps-de-simpson&quot; id=&quot;markdown-toc-fórceps-de-simpson&quot;&gt;Fórceps de Simpson&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fórceps-de-kielland&quot; id=&quot;markdown-toc-fórceps-de-kielland&quot;&gt;Fórceps de Kielland&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#indicações&quot; id=&quot;markdown-toc-indicações&quot;&gt;Indicações&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#ações-do-fórceps&quot; id=&quot;markdown-toc-ações-do-fórceps&quot;&gt;Ações do fórceps&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#condições-de-praticabilidade&quot; id=&quot;markdown-toc-condições-de-praticabilidade&quot;&gt;Condições de praticabilidade&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#aplicação&quot; id=&quot;markdown-toc-aplicação&quot;&gt;Aplicação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#variedades-de-posição&quot; id=&quot;markdown-toc-variedades-de-posição&quot;&gt;Variedades de posição&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#variedades-de-posição&quot; id=&quot;markdown-toc-variedades-de-posição&quot;&gt;Variedades de posição&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#op&quot; id=&quot;markdown-toc-op&quot;&gt;OP&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#oea&quot; id=&quot;markdown-toc-oea&quot;&gt;OEA&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#oda&quot; id=&quot;markdown-toc-oda&quot;&gt;ODA&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#variedades-transversas&quot; id=&quot;markdown-toc-variedades-transversas&quot;&gt;Variedades transversas&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#oet&quot; id=&quot;markdown-toc-oet&quot;&gt;OET&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cabeça-derradeira&quot; id=&quot;markdown-toc-cabeça-derradeira&quot;&gt;Cabeça derradeira&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -119,6 +129,8 @@ vasos, com extrema dificuldade de solução.&lt;/p&gt;
 
 &lt;h2 id=&quot;aplicação&quot;&gt;Aplicação&lt;/h2&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/biparietomalomentoniana.png&quot; alt=&quot;Biparietomalomentoniana&quot; /&gt;&lt;/p&gt;
+
 &lt;ol&gt;
   &lt;li&gt;Em primeiro lugar, apresentação do fórceps à vulva, isto é, acertar a posição que ficará depois da preensão e articulação dos ramos&lt;/li&gt;
   &lt;li&gt;Escolha do primeiro ramo a ser introduzido e reserva do segundo ramo ao alcance da mão correspondente&lt;/li&gt;
@@ -160,14 +172,71 @@ ventre materno.
   &lt;li&gt;A revisão de partes moles, incluindo colo, deve ser rotineira.&lt;/li&gt;
 &lt;/ol&gt;
 
+&lt;p class=&quot;aviso aviso-red&quot;&gt;Quando o suboccipital alcança o subpúbis – hipomóclio –, interrompe-se
+a tração.&lt;/p&gt;
+
 &lt;h2 id=&quot;variedades-de-posição&quot;&gt;Variedades de posição&lt;/h2&gt;
 
-&lt;p&gt;OP: É a aplicação mais simples porque serão empregadas apenas duas ações do fórceps: preensão e tração. É
+&lt;h3 id=&quot;op&quot;&gt;OP&lt;/h3&gt;
+
+&lt;p&gt;É a aplicação mais simples porque serão empregadas apenas duas ações do fórceps: preensão e tração. É
 considerada aplicação direta. A rotação, ação mais sujeita a provocar traumatismos, aqui não é necessária. O
 fórceps indicado é o de Simpson.&lt;/p&gt;
 
-&lt;p&gt;Aplicação do primeiro ramo: nas variedades diretas, o primeiro ramo é sempre o esquerdo,
-porque assim se evita o movimento de descruzamento.&lt;/p&gt;
+&lt;p&gt;Aplicação do primeiro ramo: nas variedades diretas, &lt;strong&gt;o primeiro ramo é sempre o esquerdo&lt;/strong&gt;, porque assim &lt;strong&gt;se evita o movimento de descruzamento&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;oea&quot;&gt;OEA&lt;/h3&gt;
+
+&lt;p&gt;Indicado o fórceps de Simpson. Nesse caso é necessária a rotação para a posição OP. Primeiro se aplica o ramo esquerdo e depois o direito.&lt;/p&gt;
+
+&lt;h3 id=&quot;oda&quot;&gt;ODA&lt;/h3&gt;
+
+&lt;p&gt;Indicado o fórceps de Simpson. A aplicação e a progressão dos ramos na variedade direita anterior são iguais às da variedade esquerda
+anterior, porém em posição inversa, isto é, o primeiro ramo a ser introduzido é o direito. Como os pedículos ficam
+superpostos de maneira inversa, &lt;strong&gt;é necessário o descruzamento dos ramos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;variedades-transversas&quot;&gt;Variedades transversas&lt;/h3&gt;
+
+&lt;p&gt;Indicação para o fórceps de Kielland. Como não tem curvatura pélvica, permite rotação em “chave de fechadura”, além de corrigir o assinclitismo com a sua articulação por deslizamento.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;pois geralmente nas transversas encontramos a cabeça na área de fórceps médio, flexão incompleta (cabeça indiferente) e tendência a desviar a sutura sagital para cima ou para baixo, mais frequentemente para baixo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O fórceps de Simpson pode ser aplicado em uma transversa desde que a cabeça esteja baixa e sinclítica. Se
+a cabeça estiver na altura de fórceps médio e assinclítica, consegue-se aplicar o primeiro ramo, entretanto, a
+curvatura do canal do parto impedirá a articulação do segundo ramo.&lt;/p&gt;
+
+&lt;h4 id=&quot;oet&quot;&gt;OET&lt;/h4&gt;
+
+&lt;p&gt;Na esquerda transversa, técnica migratória, o primeiro ramo a ser
+aplicado é o direito. A mão guia, a esquerda. O pedículo do fórceps é encostado na vulva, do lado esquerdo da
+parturiente. O cabo desce rente à coxa esquerda enquanto a mão guia conduz a colher ao diâmetro biparietomalomentoniano passando pela fronte fetal. O pedículo ficará junto à pequena fontanela.&lt;/p&gt;
+
+&lt;p&gt;O segundo ramo, o esquerdo, é aplicado com o pedículo encostado no lado direito do púbis e a mão guia, a direita, colocada do lado esquerdo da parturiente. Esse ramo
+descreve um movimento retilíneo rente ao outro ramo até articular.&lt;/p&gt;
+
+&lt;p&gt;Tracionando-se um dos ramos pelo ponto de apoio, corrige-se o
+assinclitismo. No assinclitismo anterior, traciona-se a colher posterior, ramo esquerdo, e, no assinclitismo
+posterior, traciona-se a colher anterior, ramo direito, até se igualarem.&lt;/p&gt;
+
+&lt;p&gt;Os cabos são levados à posição mediana, completando a flexão da cabeça fetal e corrigindo a deflexão.&lt;/p&gt;
+
+&lt;p&gt;Os cabos giram a 90° no sentido anti-horário até a pequena fontanela ficar em posição anterior. Esse movimento de correção da rotação é como uma “chave na fechadura”.&lt;/p&gt;
+
+&lt;p&gt;Quando o suboccipital, apoiar no subpúbis – &lt;strong&gt;hipomóclio&lt;/strong&gt; – é o momento de cessar a tração.&lt;/p&gt;
+
+&lt;h2 id=&quot;cabeça-derradeira&quot;&gt;Cabeça derradeira&lt;/h2&gt;
+
+&lt;p&gt;Usa-se o fórceps de Piper especificamente para esta ocasião. Este apresenta, além das conhecidas curvaturas pélvica e cefálica, &lt;strong&gt;mais uma curvatura, a perineal&lt;/strong&gt;. Sua presença permite que os ramos fiquem bem baixos, garantindo a preensão do biparietal.
+Mas ainda é possível usar o fórceps de Simpson.&lt;/p&gt;
+
+&lt;p&gt;Normalmente nas cabeças derradeiras a cabeça já está em OP. É necesário erguer o corpo do concepto, segurando pelos pés.&lt;/p&gt;
+
+&lt;p&gt;O fórceps é apresentado com os cabos para cima e as colheres na orientação do diâmetro
+biparietomalomentoniano, entretanto, aqui existe uma diferença de todas as demais aplicações de fórceps. &lt;strong&gt;A posição do diâmetro biparietomalomentoniano é invertida&lt;/strong&gt;, o que faz com que a ponta das colheres localize-se nos parietais e a cauda das colheres, no mento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/derradeira.jpeg&quot; alt=&quot;Cabeça derradeira&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 
@@ -2120,88 +2189,4 @@ de imagem ou histopatológico e corresponderiam ao grupo sem anomalia estrutural
       &lt;p&gt;Capítulo atualizado Prof. Dr. Hélio &lt;a href=&quot;#fnref:helio&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Disfunção sexual masculina</title><link href="http://localhost:4000/urologia/dinfuncao-sexual-masculina" rel="alternate" type="text/html" title="Disfunção sexual masculina" /><published>2019-06-13T00:00:00-03:00</published><updated>2019-06-13T00:00:00-03:00</updated><id>http://localhost:4000/urologia/dinfuncao-sexual-masculina</id><content type="html" xml:base="http://localhost:4000/urologia/dinfuncao-sexual-masculina">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#disfunção-erétil&quot; id=&quot;markdown-toc-disfunção-erétil&quot;&gt;Disfunção erétil&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#fisiologia&quot; id=&quot;markdown-toc-fisiologia&quot;&gt;Fisiologia&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#mecanismo-da-ereção&quot; id=&quot;markdown-toc-mecanismo-da-ereção&quot;&gt;Mecanismo da ereção&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As disfunções sexuais masculinas podem acometer a libido (desejo), a ereção, a
-ejaculação e o orgasmo, podendo estar relacionadas com o aumento ou com a diminuição das funções citadas acima. Dentre elas, iremos destacar a disfunção erétil e a
-ejaculação precoce, por serem as mais freqüentes na população.&lt;/p&gt;
-
-&lt;h2 id=&quot;disfunção-erétil&quot;&gt;Disfunção erétil&lt;/h2&gt;
-&lt;p&gt;É a incapacidade de obter ou manter uma ereção suficiente para a penetração na maioria das relações sexuais.&lt;/p&gt;
-
-&lt;h3 id=&quot;fisiologia&quot;&gt;Fisiologia&lt;/h3&gt;
-&lt;p&gt;O pênis é formado por um par de corpos cavernosos (CC) e o corpo esponjoso, que
-circunda a uretra e forma a glande. Os CC são cilindros que se comunicam entre si,
-formados por um material esponjoso composto por trabéculas de tecido conectivo que
-circundam os espaços sinusoidais. Esses espaços sinusoidais são preenchidos por
-sangue durante a ereção.&lt;/p&gt;
-
-&lt;p&gt;A irrigação arterial do pênis se dá através de ramos da artéria pudenda interna, dos quais, para fins de ereção, os mais importantes são as artérias cavernosas que passam através dos CC. A drenagem venosa é feita pelas veias
-profundas: peniana e dorsal.&lt;/p&gt;
-
-&lt;h4 id=&quot;mecanismo-da-ereção&quot;&gt;Mecanismo da ereção&lt;/h4&gt;
-&lt;p&gt;Impulsos nervosos parassimpáticos originados no sistema límbico e hipotálamo passam nos centros reflexogênicos sacrais (S2-S4), e
-chegam ao pênis pelo nervos cavernosos sob a forma bioquímica de óxido nítrico.&lt;/p&gt;
-
-&lt;p&gt;O NO desencadeia uma reação nas células musculares lisas que preenchem os espaços
-sinusoidais formando GMPc. Esse composto químico reduz a concentração intracelular
-de cálcio (Ca++), gerando relaxamento desta musculatura lisa. Este relaxamento,
-somado ao maior aporte sanguíneo genital e a compressão do retorno venoso na
-albugínea, é o principal gerador da ereção.&lt;/p&gt;
-
-&lt;p&gt;Para ocorrer a detumescência, há a quebra do GMPc pela enzima fosfodiesterase-5
-(PDE5), fazendo com que a musculatura lisa dos CC se contraia finalizando a ereção.&lt;/p&gt;
-
-&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;A DE se dá quando não há harmonia em algum destes pontos: pênis – mente – relacionamento.
-    &lt;ul&gt;
-      &lt;li&gt;Esta desarmonia pode ter etiologia orgânica, psicogênica ou mista.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A DE também é considerada fator sinalizador de evento coronariano futuro.&lt;/li&gt;
-  &lt;li&gt;Acomete menos de 3% dos homens com idade inferior a 40 anos
-    &lt;ul&gt;
-      &lt;li&gt;Mas esta prevalência aumenta exponencialmente, chegando até cerca de metade dos homens acima dos 40 anos de idade.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fatores de risco&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Sedentarismo&lt;/li&gt;
-      &lt;li&gt;Idade&lt;/li&gt;
-      &lt;li&gt;Tabagismo&lt;/li&gt;
-      &lt;li&gt;Hipertensão tanto causa DE por lesão endotelial
-        &lt;ul&gt;
-          &lt;li&gt;como seu tratamento com drogas anti-hipertensivas pode piorar a ereção (beta-bloqueadores).&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Diabetes mellitus: talvez seja o fator de risco isolado mais importante, chegando a triplicar a possibilidade de DE.&lt;/li&gt;
-      &lt;li&gt;Cirurgias pélvicas prévias: dentre elas a prostatectomia radical para o tratamento do CA de próstata.
-        &lt;ul&gt;
-          &lt;li&gt;DE de difícil resolução.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Exame físico&lt;/strong&gt;
-*&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Avaliação laboratorial mínima:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Glicemia em jejum&lt;/li&gt;
-      &lt;li&gt;Colesterol total&lt;/li&gt;
-      &lt;li&gt;Triglicerídeos&lt;/li&gt;
-      &lt;li&gt;Testosterona total: no caso de haver queixas relacionadas à diminuição do desejo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;IMNCOMPLETOOOOOOOOOOOOO&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
