@@ -1,4 +1,273 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-16T23:21:36-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Assistência ao parto e partograma</title><link href="http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma" rel="alternate" type="text/html" title="Assistência ao parto e partograma" /><published>2019-08-15T00:00:00-03:00</published><updated>2019-08-15T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma</id><content type="html" xml:base="http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma">&lt;p&gt;O trabalho de parto contempla três fases: dilatação, expulsão e secundamento. Essas fases são precedidas por uma fase preliminar chamada de período premonitório. O quarto período sería a primeira hora após o secundamento que é considerado como o término do parto por alguns autores (por ser um período de ainda muitos riscos e que carece de atenção continuada pelos obstetras - como atonia e hemorragia).&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-18T04:40:41-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry><entry><title type="html">Fórceps</title><link href="http://localhost:4000/obstetricia/forceps" rel="alternate" type="text/html" title="Fórceps" /><published>2019-08-17T00:00:00-03:00</published><updated>2019-08-17T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/forceps</id><content type="html" xml:base="http://localhost:4000/obstetricia/forceps">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fórceps-de-simpson&quot; id=&quot;markdown-toc-fórceps-de-simpson&quot;&gt;Fórceps de Simpson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fórceps-de-kielland&quot; id=&quot;markdown-toc-fórceps-de-kielland&quot;&gt;Fórceps de Kielland&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#indicações&quot; id=&quot;markdown-toc-indicações&quot;&gt;Indicações&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ações-do-fórceps&quot; id=&quot;markdown-toc-ações-do-fórceps&quot;&gt;Ações do fórceps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#condições-de-praticabilidade&quot; id=&quot;markdown-toc-condições-de-praticabilidade&quot;&gt;Condições de praticabilidade&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#aplicação&quot; id=&quot;markdown-toc-aplicação&quot;&gt;Aplicação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#variedades-de-posição&quot; id=&quot;markdown-toc-variedades-de-posição&quot;&gt;Variedades de posição&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#op&quot; id=&quot;markdown-toc-op&quot;&gt;OP&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#oea&quot; id=&quot;markdown-toc-oea&quot;&gt;OEA&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#oda&quot; id=&quot;markdown-toc-oda&quot;&gt;ODA&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#variedades-transversas&quot; id=&quot;markdown-toc-variedades-transversas&quot;&gt;Variedades transversas&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#oet&quot; id=&quot;markdown-toc-oet&quot;&gt;OET&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cabeça-derradeira&quot; id=&quot;markdown-toc-cabeça-derradeira&quot;&gt;Cabeça derradeira&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fórceps-de-simpson&quot;&gt;Fórceps de Simpson&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/simpson.jpeg&quot; alt=&quot;Simpson&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ramo esquero ou ramo fêmea: entra em contato com o lado esquerdo da pelve e possui reentrância para encaixe do ramo direito (ou macho)&lt;/li&gt;
+  &lt;li&gt;Ramo direito ou ramo macho&lt;/li&gt;
+  &lt;li&gt;Cabo&lt;/li&gt;
+  &lt;li&gt;Colher: com duas curvaturas
+    &lt;ul&gt;
+      &lt;li&gt;Curvatura pélvica: convexa, se adapta à curvatura da bacia&lt;/li&gt;
+      &lt;li&gt;Curvatura cefálica: côncava, se adapta à cabeça fetal&lt;/li&gt;
+      &lt;li&gt;Jumélios: fenestra formada pelos segmentos anterior e posterior&lt;/li&gt;
+      &lt;li&gt;Espaço coclear: espaço entre as duas colheres que será ocupado pela cabeça fetal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pedículo ou haste: une o cabo à colher&lt;/li&gt;
+  &lt;li&gt;Articulação: é composto de uma articulação fixa do tipo inglesa.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fórceps-de-kielland&quot;&gt;Fórceps de Kielland&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/kielland.jpeg&quot; alt=&quot;Kielland&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ramo esquerdo ou fêmea: apresenta uma chanfradura no pedículo que permite a articulação por deslizamento do ramo direito, macho, cujo pedículo é liso;
+    &lt;ul&gt;
+      &lt;li&gt;A finalidade da articulação por deslizamento é a pega assimétrica nos casos de &lt;strong&gt;assinclitismo&lt;/strong&gt;, que permite a sua correção.&lt;/li&gt;
+      &lt;li&gt;A face anterior do cabo apresenta um botão que a identifica;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Colher: praticamente não tem curvatura pélvica (mais retificado);
+    &lt;ul&gt;
+      &lt;li&gt;Jumélio anterior e posterior&lt;/li&gt;
+      &lt;li&gt;Entre os jumélios, a fenestra, que tem por finalidade possibilitar a adaptação da cabeça, evitando o deslize.&lt;/li&gt;
+      &lt;li&gt;Uma curvatura cefálica pequena, côncava, que diante do outro ramo forma o espaço coclear.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;indicações&quot;&gt;Indicações&lt;/h2&gt;
+
+&lt;p&gt;Podem ser de intuito materno, fetal ou profiático. A indicação mais comum da aplicação de fórceps é a parada de progressão durante o &lt;strong&gt;segundo estágio do parto&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A parada de progressão pode ocorrer por inércia uterina, malposição do feto ou configuração anormal do
+canal do parto. Frequentemente estão associados vários fatores: inércia uterina, falta de prensa abdominal, que
+pode ocorrer por excessiva anestesia de condução, e resistência de partes moles.&lt;/p&gt;
+
+&lt;p&gt;Deve-se evitar o esforço secundário em portadoras de certas &lt;strong&gt;doenças cardíacas; enfermidades pulmonares ou neuromusculares&lt;/strong&gt; são consideradas indicações profiláticas.&lt;/p&gt;
+
+&lt;p&gt;Também é considerada fórceps profilático a aplicação em cabeça derradeira, considerada menos traumático
+que as manobras convencionais para o parto pélvico.  Preconizamos sua aplicação desde que tenha falhado a
+manobra de Bracht, pois abrevia o período expulsivo, evitando sofrimento fetal. Quando já presente o sofrimento
+fetal, desde que haja condições de praticabilidade, a indicação é soberana.&lt;/p&gt;
+
+&lt;p&gt;Indicações raras, mas possíveis, são o prolapso de cordão com dilatação total e a morte súbita da paciente,
+fato que pode ocorrer por embolia amniótica.&lt;/p&gt;
+
+&lt;p&gt;Devemos atentar para o fato de que, quando o fórceps está indicado, são desfavoráveis as condições para
+cesariana. Na operação cesariana com a cabeça no estreito médio ou inferior, estando o colo completamente
+dilatado, a extração da cabeça é difícil e o útero está sujeito a rupturas que podem ir até a lesão de grandes
+vasos, com extrema dificuldade de solução.&lt;/p&gt;
+
+&lt;h2 id=&quot;ações-do-fórceps&quot;&gt;Ações do fórceps&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Preensão
+    &lt;ul&gt;
+      &lt;li&gt;Os c abos são o braço da potência, a articulação é o fulcro e as colheres são a resistência. A força aplicada nos cabos se reflete na compressão das colheres.&lt;/li&gt;
+      &lt;li&gt;A preensão correta distribui a compressão sobre a cabeça fetal uniformemente por toda a superfície das colheres.&lt;/li&gt;
+      &lt;li&gt;A importância da pega ideal descrita por Laufe, a saber: (1) a sutura sagital deve estar perpendicular e equidistante em relação aos pedículos; (2) a pequena fontanela deve ficar a um dedo de largura do plano dos pedículos; (3) nas colheres fenestradas deve caber apenas a polpa digital entre a cabeça fetal e a cauda das colheres.&lt;/li&gt;
+      &lt;li&gt;A preensão correta ou ideal se dá no &lt;strong&gt;diâmetro occipitomentoniano&lt;/strong&gt; da cabeça fetal. Os ramos do fórceps ficam na posição &lt;strong&gt;biparietomalomentoniana&lt;/strong&gt;, isto é, apoiados nos parietais e malares, terminando na arcada zigomática do mento;&lt;/li&gt;
+      &lt;li&gt;A pega fontomastóidea não é mais ideal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rotação
+    &lt;ul&gt;
+      &lt;li&gt;Com o fórceps de Kielland, praticamente destituído de curvatura pélvica, a rotação dispensa o movimento de circundução. O giro dos cabos é feito como uma “chave na fechadura”, razão pela qual ele é chamado fórceps rotatório.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Tração
+    &lt;ul&gt;
+      &lt;li&gt;Principal ação do fórceps&lt;/li&gt;
+      &lt;li&gt;Deve ser feita obedecendo a curvatura pélvica&lt;/li&gt;
+      &lt;li&gt;Manobra de Saxtorph-Pajot&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pajot.jpeg&quot; alt=&quot;Kielland&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O fórceps de Kielland tem função única, brindada pela sua articulação por deslizamento, a correção do assinclitismo. Ao insinuar-se no estreito superior em transversa, a cabeça fetal inclina-se lateralmente sobre o ombro, caracterizando o assinclitismo. Enquanto um fórceps de grande curvatura pélvica, com articulação fixa, só permite pega simétrica, o fórceps de Kielland permite pega assimétrica, e, com o deslizamento da articulação, avalia o grau de assinclitismo e corrige-o, pela tração de um dos ramos, transformando-o em pega satisfatória.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;condições-de-praticabilidade&quot;&gt;Condições de praticabilidade&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cérvice completamente dilatada&lt;/li&gt;
+  &lt;li&gt;Deve-se observar a ausência de obstrução óssea ou de partes moles, desproporção cefalopélvica ou existência de tumor pélvico.&lt;/li&gt;
+  &lt;li&gt;Hoje, se não proibida, a aplicação de fórceps alto é apanágio de especialistas de grande experiência e em situações extremas.&lt;/li&gt;
+  &lt;li&gt;Quanto mais alta a apresentação, maior o risco de complicações.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/forceps2.jpeg&quot; alt=&quot;Forceps2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Deve-se identificar a variedade de posiçao para a correta aplicação e posicionamento do fórceps. Identificar suturas e fontanelas.&lt;/p&gt;
+
+&lt;h2 id=&quot;aplicação&quot;&gt;Aplicação&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/biparietomalomentoniana.png&quot; alt=&quot;Biparietomalomentoniana&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Em primeiro lugar, apresentação do fórceps à vulva, isto é, acertar a posição que ficará depois da preensão e articulação dos ramos&lt;/li&gt;
+  &lt;li&gt;Escolha do primeiro ramo a ser introduzido e reserva do segundo ramo ao alcance da mão correspondente&lt;/li&gt;
+  &lt;li&gt;Aplicação do primeiro ramo de maneira que a colher sempre fique localizada no &lt;strong&gt;diâmetro biparietomalomentoniano&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Aplicação do segundo ramo de maneira que a colher se situe no diâmetro biparietomalomentoniano oposto.
+    &lt;ul&gt;
+      &lt;li&gt;A introdução da segunda colher, com exceção das variedades diretas, requer a &lt;strong&gt;manobra de Lachapelle&lt;/strong&gt;, tríplice movimento espiroidal: abaixamento, translação e torção.&lt;/li&gt;
+      &lt;li&gt;Deve-se mentalizar a posição das colheres de acordo com a variedade de posição&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Se a pega estiver correta, isto é, no diâmetro biparietomalomentoniano, a articulação dos ramos ocorrerá sem forçar.
+    &lt;ul&gt;
+      &lt;li&gt;A necessidade de forçar a articulação indica erro de posicionamento das colheres.&lt;/li&gt;
+      &lt;li&gt;É preciso verificar e corrigir a pega o quanto necessário antes da tração.&lt;/li&gt;
+      &lt;li&gt;Deve-se observar o paralelismo dos cabos e a igual profundidade das colheres.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;De acordo com a variedade de posição, a rotação é a ação mais difícil de ser praticada e a que está mais sujeita a provocar traumatismos.
+    &lt;ul&gt;
+      &lt;li&gt;Para sua execução, regras importantes devem ser obedecidas.&lt;/li&gt;
+      &lt;li&gt;Com o fórceps de Simpson realiza-se movimento amplo dos cabos e pequeno das colheres, enquanto com o fórceps de Kielland é feito giro como “chave na fechadura”.&lt;/li&gt;
+      &lt;li&gt;Outro recurso importante é a escolha da melhor altura da bacia para a rotação. Pode ser necessário elevar a apresentação, liberando-a da área mais estreita&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A tração somente pode ser executada durante as contrações&lt;/strong&gt;.
+    &lt;ul&gt;
+      &lt;li&gt;Deve-se segurar os cabos dispondo os quatro dedos longos de ambas as mãos na face anterior do fórceps e o polegar na face posterior, pressionando para baixo com a mão inferior e para cima com a mão superior – &lt;strong&gt;manobra de Saxtorph-Pajot&lt;/strong&gt;, para que a descida da cabeça se faça percorrendo-se a curvatura do canal do parto.&lt;/li&gt;
+      &lt;li&gt;Quando o &lt;strong&gt;suboccipital apoia no subpúbis&lt;/strong&gt; – &lt;strong&gt;hipomóclio&lt;/strong&gt; –, é o momento de cessar a tração e deixar o desprendimento ocorrer espontaneamente ou com leve pressão no fundo uterino.&lt;/li&gt;
+      &lt;li&gt;Essa é a forma de segurar os ramos durante a tração.&lt;/li&gt;
+      &lt;li&gt;Há quem prefira segurar nas hastes de apoio&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quanto à desarticulação e à retirada do primeiro ramo, é fundamental considerar que sempre é o ramo que se apresenta mais livre e deve obedecer ao movimento inverso da aplicação, isto é, conduzindo o cabo para o
+ventre materno.
+    &lt;ul&gt;
+      &lt;li&gt;O segundo ramo é retirado da mesma forma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A revisão de partes moles, incluindo colo, deve ser rotineira.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p class=&quot;aviso aviso-red&quot;&gt;Quando o suboccipital alcança o subpúbis – hipomóclio –, interrompe-se
+a tração.&lt;/p&gt;
+
+&lt;h2 id=&quot;variedades-de-posição&quot;&gt;Variedades de posição&lt;/h2&gt;
+
+&lt;h3 id=&quot;op&quot;&gt;OP&lt;/h3&gt;
+
+&lt;p&gt;É a aplicação mais simples porque serão empregadas apenas duas ações do fórceps: preensão e tração. É
+considerada aplicação direta. A rotação, ação mais sujeita a provocar traumatismos, aqui não é necessária. O
+fórceps indicado é o de Simpson.&lt;/p&gt;
+
+&lt;p&gt;Aplicação do primeiro ramo: nas variedades diretas, &lt;strong&gt;o primeiro ramo é sempre o esquerdo&lt;/strong&gt;, porque assim &lt;strong&gt;se evita o movimento de descruzamento&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;oea&quot;&gt;OEA&lt;/h3&gt;
+
+&lt;p&gt;Indicado o fórceps de Simpson. Nesse caso é necessária a rotação para a posição OP. Primeiro se aplica o ramo esquerdo e depois o direito.&lt;/p&gt;
+
+&lt;h3 id=&quot;oda&quot;&gt;ODA&lt;/h3&gt;
+
+&lt;p&gt;Indicado o fórceps de Simpson. A aplicação e a progressão dos ramos na variedade direita anterior são iguais às da variedade esquerda
+anterior, porém em posição inversa, isto é, o primeiro ramo a ser introduzido é o direito. Como os pedículos ficam
+superpostos de maneira inversa, &lt;strong&gt;é necessário o descruzamento dos ramos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;variedades-transversas&quot;&gt;Variedades transversas&lt;/h3&gt;
+
+&lt;p&gt;Indicação para o fórceps de Kielland. Como não tem curvatura pélvica, permite rotação em “chave de fechadura”, além de corrigir o assinclitismo com a sua articulação por deslizamento.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;pois geralmente nas transversas encontramos a cabeça na área de fórceps médio, flexão incompleta (cabeça indiferente) e tendência a desviar a sutura sagital para cima ou para baixo, mais frequentemente para baixo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O fórceps de Simpson pode ser aplicado em uma transversa desde que a cabeça esteja baixa e sinclítica. Se
+a cabeça estiver na altura de fórceps médio e assinclítica, consegue-se aplicar o primeiro ramo, entretanto, a
+curvatura do canal do parto impedirá a articulação do segundo ramo.&lt;/p&gt;
+
+&lt;h4 id=&quot;oet&quot;&gt;OET&lt;/h4&gt;
+
+&lt;p&gt;Na esquerda transversa, técnica migratória, o primeiro ramo a ser
+aplicado é o direito. A mão guia, a esquerda. O pedículo do fórceps é encostado na vulva, do lado esquerdo da
+parturiente. O cabo desce rente à coxa esquerda enquanto a mão guia conduz a colher ao diâmetro biparietomalomentoniano passando pela fronte fetal. O pedículo ficará junto à pequena fontanela.&lt;/p&gt;
+
+&lt;p&gt;O segundo ramo, o esquerdo, é aplicado com o pedículo encostado no lado direito do púbis e a mão guia, a direita, colocada do lado esquerdo da parturiente. Esse ramo
+descreve um movimento retilíneo rente ao outro ramo até articular.&lt;/p&gt;
+
+&lt;p&gt;Tracionando-se um dos ramos pelo ponto de apoio, corrige-se o
+assinclitismo. No assinclitismo anterior, traciona-se a colher posterior, ramo esquerdo, e, no assinclitismo
+posterior, traciona-se a colher anterior, ramo direito, até se igualarem.&lt;/p&gt;
+
+&lt;p&gt;Os cabos são levados à posição mediana, completando a flexão da cabeça fetal e corrigindo a deflexão.&lt;/p&gt;
+
+&lt;p&gt;Os cabos giram a 90° no sentido anti-horário até a pequena fontanela ficar em posição anterior. Esse movimento de correção da rotação é como uma “chave na fechadura”.&lt;/p&gt;
+
+&lt;p&gt;Quando o suboccipital, apoiar no subpúbis – &lt;strong&gt;hipomóclio&lt;/strong&gt; – é o momento de cessar a tração.&lt;/p&gt;
+
+&lt;h2 id=&quot;cabeça-derradeira&quot;&gt;Cabeça derradeira&lt;/h2&gt;
+
+&lt;p&gt;Usa-se o fórceps de Piper especificamente para esta ocasião. Este apresenta, além das conhecidas curvaturas pélvica e cefálica, &lt;strong&gt;mais uma curvatura, a perineal&lt;/strong&gt;. Sua presença permite que os ramos fiquem bem baixos, garantindo a preensão do biparietal.
+Mas ainda é possível usar o fórceps de Simpson.&lt;/p&gt;
+
+&lt;p&gt;Normalmente nas cabeças derradeiras a cabeça já está em OP. É necesário erguer o corpo do concepto, segurando pelos pés.&lt;/p&gt;
+
+&lt;p&gt;O fórceps é apresentado com os cabos para cima e as colheres na orientação do diâmetro
+biparietomalomentoniano, entretanto, aqui existe uma diferença de todas as demais aplicações de fórceps. &lt;strong&gt;A posição do diâmetro biparietomalomentoniano é invertida&lt;/strong&gt;, o que faz com que a ponta das colheres localize-se nos parietais e a cauda das colheres, no mento.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/derradeira.jpeg&quot; alt=&quot;Cabeça derradeira&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Rezendinho 13ª edição&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="obstetricia" /><summary type="html"></summary></entry><entry><title type="html">Assistência ao parto e partograma</title><link href="http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma" rel="alternate" type="text/html" title="Assistência ao parto e partograma" /><published>2019-08-15T00:00:00-03:00</published><updated>2019-08-15T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma</id><content type="html" xml:base="http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#período-premonitório&quot; id=&quot;markdown-toc-período-premonitório&quot;&gt;Período premonitório&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico-de-tp&quot; id=&quot;markdown-toc-diagnóstico-de-tp&quot;&gt;Diagnóstico de TP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fase-de-dilatação&quot; id=&quot;markdown-toc-fase-de-dilatação&quot;&gt;Fase de dilatação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fase-de-expulsão&quot; id=&quot;markdown-toc-fase-de-expulsão&quot;&gt;Fase de expulsão&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#duração-do-tp&quot; id=&quot;markdown-toc-duração-do-tp&quot;&gt;Duração do TP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#assistência-propriamente-dita&quot; id=&quot;markdown-toc-assistência-propriamente-dita&quot;&gt;Assistência propriamente dita&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#assistência-à-expulsão&quot; id=&quot;markdown-toc-assistência-à-expulsão&quot;&gt;Assistência à expulsão&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#secundamento&quot; id=&quot;markdown-toc-secundamento&quot;&gt;Secundamento&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#conduta-ativa-no-secundamento&quot; id=&quot;markdown-toc-conduta-ativa-no-secundamento&quot;&gt;Conduta ativa no secundamento&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#exame-da-placenta-e-dos-anexos-ovulares&quot; id=&quot;markdown-toc-exame-da-placenta-e-dos-anexos-ovulares&quot;&gt;Exame da placenta e dos anexos ovulares&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quarto-período&quot; id=&quot;markdown-toc-quarto-período&quot;&gt;Quarto período&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#partograma&quot; id=&quot;markdown-toc-partograma&quot;&gt;Partograma&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#parto-normal&quot; id=&quot;markdown-toc-parto-normal&quot;&gt;Parto normal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O trabalho de parto contempla três fases: dilatação, expulsão e secundamento. Essas fases são precedidas por uma fase preliminar chamada de período premonitório. O quarto período sería a primeira hora após o secundamento que é considerado como o término do parto por alguns autores (por ser um período de ainda muitos riscos e que carece de atenção continuada pelos obstetras - como atonia e hemorragia).&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Fase de dilatação: ampliação do diafragma cervicossegmentário, primeiro período do parto.&lt;/li&gt;
@@ -268,11 +537,186 @@ recomenda o NICE. &lt;strong&gt;Desacelerações precoces (tipo I) são comuns n
       &lt;li&gt;Ver o capítulo específico&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Assistência ao desprendimento dos ombros&lt;/li&gt;
-  &lt;li&gt;Circular de cordão&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Assistência ao desprendimento dos ombros&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Após o nascimento do polo cefálico, aguarda-se o movimento de &lt;strong&gt;rotação externa da cabeça&lt;/strong&gt; e avalia-se o progresso no &lt;strong&gt;desprendimento espontâneo do ombro&lt;/strong&gt;, primeiro o anterior e depois o posterior;&lt;/li&gt;
+      &lt;li&gt;Na maioria dos casos não é necessária nenhuma intervenção&lt;/li&gt;
+      &lt;li&gt;Caso não ocorra espontaneamente, e inexistindo os sinais de distocia de ombro, apreende-se a apresentação com ambas as mãos, traciona-se para baixo com o objetivo de desprender o ombro anterior e depois para cima, para a saída do ombro posterior;&lt;/li&gt;
+      &lt;li&gt;Não tentar essa manobra na distocia de ombro, pois ela não resolve;
+        &lt;ul&gt;
+          &lt;li&gt;Um dos sinais de distocia de ombro é o &lt;strong&gt;sinal da tartaruga&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Circular de cordão&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Presente em 20-40% dos nascimentos;&lt;/li&gt;
+      &lt;li&gt;Raramente se associa a aumento da morbimortalidade;&lt;/li&gt;
+      &lt;li&gt;Não é necessária USG para sua predição (além de baixa acurácia)&lt;/li&gt;
+      &lt;li&gt;Indicação equivocada de cesárea;&lt;/li&gt;
+      &lt;li&gt;Não é necessário percorrer o pescoço do bebê pesquisando circular de cordão tão logo se desprenda a cabeça fetal;
+        &lt;blockquote&gt;
+          &lt;p&gt;Infelizmente, alguns obstetras têm o hábito de ligar precocemente o cordão e proceder ao desprendimento imediato quando se deparam com uma circular de cervical apertada. No entanto, além de desnecessária, a ligadura precoce do cordão pode trazer efeitos adversos, privando o feto do suprimento sanguíneo e das trocas gasosas que se processam pelo cordão.&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Uma circular frouxa nem precisa ser desfeita;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Manobra de &lt;em&gt;somersault&lt;/em&gt;&lt;/strong&gt;: para circulares apertadas que dificultam o desprendimento;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Contato pele a pele
+    &lt;ul&gt;
+      &lt;li&gt;Fundamental;&lt;/li&gt;
+      &lt;li&gt;Incentivar o aleitamento ainda na 1ª hora de vida;&lt;/li&gt;
+      &lt;li&gt;Aguardar ao menos 3 min para o clampeamento em RNs saudáveis (ou até cessarem as pulsações);&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Revisão de vulva, vagina e colo uterino
+    &lt;ul&gt;
+      &lt;li&gt;A revisão da região vulvoperineal é recomendada;&lt;/li&gt;
+      &lt;li&gt;A revisão da vagina e do colo uterino deve ser sistemática apenas quando o parto for cirúrgico ou houver sangramento anormal;&lt;/li&gt;
+      &lt;li&gt;Em geral, a revisão é realizada ao fim do secundamento.&lt;/li&gt;
+      &lt;li&gt;Se não houver hemorragia ou ruptura de extensão considerável, rasgaduras pequenas não requerem maiores cuidados porque, em geral, superados o edema e a congestão das primeiras 24 h, ficam muito reduzidas.&lt;/li&gt;
+      &lt;li&gt;Há de se recordar que o fio de sutura é um corpo estranho e que a sutura pode acarretar isquemia e dano tecidual, sendo princípios básicos: menos suturas, menos fios de sutura, menos tensão.&lt;/li&gt;
+      &lt;li&gt;Julgar com bom senso sea sutura é necessária;
+        &lt;ul&gt;
+          &lt;li&gt;Geralmente se há grande desvio de anatomia ou sangramento.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Correção de lacerações espontênas ou epsiorrafia
+    &lt;ul&gt;
+      &lt;li&gt;Prefere-se a sutura contínua em todos os planos;&lt;/li&gt;
+      &lt;li&gt;Fio de ácido poliglicou (melhor que o &lt;em&gt;catgut&lt;/em&gt;)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/obstetricia/episio.jpeg&quot; alt=&quot;Episiotomia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/ombro.jpeg&quot; alt=&quot;Assistência ao ombro&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;aviso aviso-red&quot;&gt;O momento adequado para a injeção intramuscular de 10 UI de ocitocina, capaz de reduzir as perdas
+sanguíneas pós-parto e apressar a dequitação, é durante a expulsão do ombro posterior, ou logo que for
+possível.&lt;/p&gt;
+
+&lt;h2 id=&quot;secundamento&quot;&gt;Secundamento&lt;/h2&gt;
+
+&lt;p&gt;É o terceiro período do parto. Processa-se em tempos que são descritos a seguir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Descolamento:
+    &lt;ul&gt;
+      &lt;li&gt;A retração dos músculos uterinos e as contínuas contrações reduzem a superfície interna do útero;&lt;/li&gt;
+      &lt;li&gt;A zona de inserção da placeta sofre pregueamento, resultando no seu descolamento;&lt;/li&gt;
+      &lt;li&gt;A decídua não fica passiva a esses fenômenos contráteis; cede e se descola no nível da zona não resistente (camada esponjosa);&lt;/li&gt;
+      &lt;li&gt;A separação da placenta nos limites da esponjosa é explicada por esse mecanismo, e também pela existência de processos degenerativos e necróticos que se iniciaram nas últimas semanas da gravidez;&lt;/li&gt;
+      &lt;li&gt;A clivagem continua em plena espessura da decídua parietal, que se destaca e sai com as membranas ovulares;&lt;/li&gt;
+      &lt;li&gt;Forma-se o hematoma retroplacentário onde houve o descolamento;&lt;/li&gt;
+      &lt;li&gt;O descolamento da placenta ocorre de acordo com dois tipos de mecanismos:
+        &lt;ol&gt;
+          &lt;li&gt;&lt;strong&gt;Mecanismo de Baudelocque-Schultze&lt;/strong&gt; (75%): quando a placenta se insere na parte superior, inverte-se e deprende-se pela face fetal, em forma de guarda chuva. O sangue se exterioriza após a placenta pois esta está bloquendo a passagem;&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Mecanismo de Baudelocque-Duncan&lt;/strong&gt; (25%): a placenta está na parede lateral do útero, o descolamento começa na borda inferior e o sangue já se exterioriza antes da saída da placenta. E esta se apresenta pela borda ou pela face materna;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Descida:
+    &lt;ul&gt;
+      &lt;li&gt;A placenta começa a descer e do corpo do útero passa para o segmento inferior. Ela percorre a cérvice e cai na vagina;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Desprendimento:
+    &lt;ul&gt;
+      &lt;li&gt;No canal vaginal, a placenta provoca nova sensação de puxo, podendo determinar esforços abdominais semelhantes ao segundo período do parto;&lt;/li&gt;
+      &lt;li&gt;Na posição de decúbito dorsal a ausência de gravidade não ajuda nessa fase;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No antigo local de inserção da placenta, forma-se ferida viva, com os seus vasos abertos, dando saída a certa
+quantidade de sangue, até que se obliterem, pelo mecanismo descrito por &lt;strong&gt;Pinard (ligaduras vivas)&lt;/strong&gt;, após a
+retração uterina.&lt;/p&gt;
+
+&lt;p&gt;Em geral o terceiro período dura de 5 a 6 min. Terceiro período prolongado é aquele que não se completa em até 30 min com manejo ativo ou 60 min em manejo expectante. Na maioria dos casos a placenta nasce espontaneamente, sem requerer manobras adicionais.&lt;/p&gt;
+
+&lt;h3 id=&quot;conduta-ativa-no-secundamento&quot;&gt;Conduta ativa no secundamento&lt;/h3&gt;
+
+&lt;p&gt;Consiste em intervenções destinadas a aumentar a contratilidade uterina e, assim, evitar a hemorragia pós-parto por atonia. Seus fundamentos são elencados a seguir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Administração de agentes uterotônicos&lt;/strong&gt;: o ponto chave, 10 UI ocitocina;&lt;/li&gt;
+  &lt;li&gt;Ligadura precoce do cordão&lt;/li&gt;
+  &lt;li&gt;Tração controlada do cordão: sem evidências de redução das HPP?&lt;/li&gt;
+  &lt;li&gt;Massagem uterina após o secundamento.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;É importante palpar-se o útero para averiguar a formação do globo de segurança de Pinard, mas massagem uterina de rotina não parece ser necessária.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/jacob-dubin.jpeg&quot; alt=&quot;Jacob-Dubin&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;exame-da-placenta-e-dos-anexos-ovulares&quot;&gt;Exame da placenta e dos anexos ovulares&lt;/h4&gt;
+
+&lt;p&gt;Revisar manualmente a cavidade uterina depois do secundamento ainda é prática frequente em alguns
+serviços, procedimento que acarreta dor, desconforto e não é apoiado por evidências. Para se avaliar a
+existência de suspeita de retenção de cotilédones ou de membranas, deve-se realizar o exame da placenta e dos
+anexos ovulares.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Face materna da placenta: apresenta-se com aspecto brilhante, corresponde à decídua compacta que saiu aderida aos cotilédones;
+    &lt;ul&gt;
+      &lt;li&gt;As áreas sem brilho decorrem da ausência de decídua que ficou no útero.&lt;/li&gt;
+      &lt;li&gt;A retenção de um ou mais cotilédones traduz-se por falha na massa placentária, com nítida depressão;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Face fetal da placenta: há de verificar-se o ponto de inserção do cordão e a integridade do âmnio, que, quando desprendido, deve ser reconstituído até cobrir totalmente a massa placentária. Os vasos umbilicais desaparecem gradualmente perto da borda da placenta;
+    &lt;ul&gt;
+      &lt;li&gt;A interrupção de vaso de grosso calibre, nessa região, sugere a falta de fragmento da placenta (sucenturiada);&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Membranas: quando as membranas têm, em qualquer parte do seu contorno, extensão menor de 10 cm, suspeita-se de inserção no segmento inferior do útero (placenta baixa).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/apgar.jpeg&quot; alt=&quot;Apgar&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quarto-período&quot;&gt;Quarto período&lt;/h2&gt;
+
+&lt;p&gt;Também chamado de período de Greenberg. É aprimeira hora após a saída da placenta. Ainda permanece o risco de hemorragia. Se divide nas seguintes fases:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Miotamponagem:&lt;/strong&gt; após a dequitação o útero se contrai é pode ser palpado logo abaixo do umbigo.
+    &lt;ul&gt;
+      &lt;li&gt;Forma-se as ligaduras vivas dos vasos uterinos;&lt;/li&gt;
+      &lt;li&gt;Primeira linha de defesa contra a hemorragia;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Trombotamponagem:&lt;/strong&gt; formação de trombos nos grandes vasos uteroplacentários, constituindo hematoma intrauterino que recobre, de modo contínuo, a ferida aberta no local placentário;
+    &lt;ul&gt;
+      &lt;li&gt;Os coágulos enchem a cavidade uterina, à medida que a matriz gradualmente se relaxa e atinge, ao fim de uma hora, o nível do umbigo;&lt;/li&gt;
+      &lt;li&gt;Segunda linha de defesa contra a hemorragia;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Indiferença miouterina:&lt;/strong&gt; o útero torna-se apático e apresenta fases de contração e relaxamentoo, com o perigo de encher-se progressivamente de sangue.
+    &lt;ul&gt;
+      &lt;li&gt;Quanto &lt;strong&gt;maior a paridade ou mais prolongados os três primeiros estágios da parturição&lt;/strong&gt;, &lt;strong&gt;maior tende a ser o tempo de indiferença miouterina&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;O mesmo ocorreria após partos excessivamente rápidos, polidrâmnio, gravidez múltipla e nascimento de conceptos macrossômicos, à conta da excessiva distensão da matriz;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Contração uterina fixa:&lt;/strong&gt; após 1h o útero mantêm seu tônus estático na maior intensidade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A altura do útero deve ser anotada no decorrer do secundamento e posteriormente, porque representa dado
+de grande importância clínica, que pode exprimir fenômenos normais ou patológicos. Sua consistência também representa elemento digno de atenção, principalmente até sentir-se o que &lt;strong&gt;Pinard chamou globo de segurança&lt;/strong&gt;,
+útero de &lt;strong&gt;consistência lenhosa permanente&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sinal de Ahfeld:&lt;/strong&gt; Pinçamento ou ligadura do funículo, próximo à vulva, que dela se distancia com o progresso de migração placentária&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sindal do pescador de Fabre:&lt;/strong&gt; O descolamento completo da placenta, que pode ser apreciado pela transmissão (presente ou ausente) de ligeiros movimentos de percussão do fundo do útero, ao cordão umbilical&lt;/li&gt;
+  &lt;li&gt;Sinal de Kustner&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sinais de descolamento placentário:  alongamento do cordão protruso através da vulva, elevação do fundo do útero acima do umbigo, que se torna duro e globular, hemorragia de pequena monta (300 a 500 ml) devido à separação da placenta que normalmente cessa rapidamente na dependência da retração das fibras miometriais.&lt;/p&gt;
 
 &lt;h1 id=&quot;partograma&quot;&gt;Partograma&lt;/h1&gt;
 
@@ -309,7 +753,7 @@ dilatação atinge ou cruza a &lt;strong&gt;linha de alerta&lt;/strong&gt;, há 
 
 &lt;ol&gt;
   &lt;li&gt;Rezendinho 13ª edição&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="obstetricia" /><summary type="html">O trabalho de parto contempla três fases: dilatação, expulsão e secundamento. Essas fases são precedidas por uma fase preliminar chamada de período premonitório. O quarto período sería a primeira hora após o secundamento que é considerado como o término do parto por alguns autores (por ser um período de ainda muitos riscos e que carece de atenção continuada pelos obstetras - como atonia e hemorragia).</summary></entry><entry><title type="html">Assistência pré-natal</title><link href="http://localhost:4000/obstetricia/assistencia-pre-natal" rel="alternate" type="text/html" title="Assistência pré-natal" /><published>2019-08-15T00:00:00-03:00</published><updated>2019-08-15T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/assistencia-pre-natal</id><content type="html" xml:base="http://localhost:4000/obstetricia/assistencia-pre-natal">&lt;h2 id=&quot;primeira-consulta&quot;&gt;Primeira consulta&lt;/h2&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="obstetricia" /><summary type="html"></summary></entry><entry><title type="html">Assistência pré-natal</title><link href="http://localhost:4000/obstetricia/assistencia-pre-natal" rel="alternate" type="text/html" title="Assistência pré-natal" /><published>2019-08-15T00:00:00-03:00</published><updated>2019-08-15T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/assistencia-pre-natal</id><content type="html" xml:base="http://localhost:4000/obstetricia/assistencia-pre-natal">&lt;h2 id=&quot;primeira-consulta&quot;&gt;Primeira consulta&lt;/h2&gt;
 
 &lt;p&gt;A consulta inicial deve ser no primeiro trimestre e deve englobar:&lt;/p&gt;
 
@@ -1745,225 +2189,4 @@ de imagem ou histopatológico e corresponderiam ao grupo sem anomalia estrutural
       &lt;p&gt;Capítulo atualizado Prof. Dr. Hélio &lt;a href=&quot;#fnref:helio&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Disfunção sexual masculina</title><link href="http://localhost:4000/urologia/dinfuncao-sexual-masculina" rel="alternate" type="text/html" title="Disfunção sexual masculina" /><published>2019-06-13T00:00:00-03:00</published><updated>2019-06-13T00:00:00-03:00</updated><id>http://localhost:4000/urologia/dinfuncao-sexual-masculina</id><content type="html" xml:base="http://localhost:4000/urologia/dinfuncao-sexual-masculina">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#disfunção-erétil&quot; id=&quot;markdown-toc-disfunção-erétil&quot;&gt;Disfunção erétil&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#fisiologia&quot; id=&quot;markdown-toc-fisiologia&quot;&gt;Fisiologia&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#mecanismo-da-ereção&quot; id=&quot;markdown-toc-mecanismo-da-ereção&quot;&gt;Mecanismo da ereção&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As disfunções sexuais masculinas podem acometer a libido (desejo), a ereção, a
-ejaculação e o orgasmo, podendo estar relacionadas com o aumento ou com a diminuição das funções citadas acima. Dentre elas, iremos destacar a disfunção erétil e a
-ejaculação precoce, por serem as mais freqüentes na população.&lt;/p&gt;
-
-&lt;h2 id=&quot;disfunção-erétil&quot;&gt;Disfunção erétil&lt;/h2&gt;
-&lt;p&gt;É a incapacidade de obter ou manter uma ereção suficiente para a penetração na maioria das relações sexuais.&lt;/p&gt;
-
-&lt;h3 id=&quot;fisiologia&quot;&gt;Fisiologia&lt;/h3&gt;
-&lt;p&gt;O pênis é formado por um par de corpos cavernosos (CC) e o corpo esponjoso, que
-circunda a uretra e forma a glande. Os CC são cilindros que se comunicam entre si,
-formados por um material esponjoso composto por trabéculas de tecido conectivo que
-circundam os espaços sinusoidais. Esses espaços sinusoidais são preenchidos por
-sangue durante a ereção.&lt;/p&gt;
-
-&lt;p&gt;A irrigação arterial do pênis se dá através de ramos da artéria pudenda interna, dos quais, para fins de ereção, os mais importantes são as artérias cavernosas que passam através dos CC. A drenagem venosa é feita pelas veias
-profundas: peniana e dorsal.&lt;/p&gt;
-
-&lt;h4 id=&quot;mecanismo-da-ereção&quot;&gt;Mecanismo da ereção&lt;/h4&gt;
-&lt;p&gt;Impulsos nervosos parassimpáticos originados no sistema límbico e hipotálamo passam nos centros reflexogênicos sacrais (S2-S4), e
-chegam ao pênis pelo nervos cavernosos sob a forma bioquímica de óxido nítrico.&lt;/p&gt;
-
-&lt;p&gt;O NO desencadeia uma reação nas células musculares lisas que preenchem os espaços
-sinusoidais formando GMPc. Esse composto químico reduz a concentração intracelular
-de cálcio (Ca++), gerando relaxamento desta musculatura lisa. Este relaxamento,
-somado ao maior aporte sanguíneo genital e a compressão do retorno venoso na
-albugínea, é o principal gerador da ereção.&lt;/p&gt;
-
-&lt;p&gt;Para ocorrer a detumescência, há a quebra do GMPc pela enzima fosfodiesterase-5
-(PDE5), fazendo com que a musculatura lisa dos CC se contraia finalizando a ereção.&lt;/p&gt;
-
-&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;A DE se dá quando não há harmonia em algum destes pontos: pênis – mente – relacionamento.
-    &lt;ul&gt;
-      &lt;li&gt;Esta desarmonia pode ter etiologia orgânica, psicogênica ou mista.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A DE também é considerada fator sinalizador de evento coronariano futuro.&lt;/li&gt;
-  &lt;li&gt;Acomete menos de 3% dos homens com idade inferior a 40 anos
-    &lt;ul&gt;
-      &lt;li&gt;Mas esta prevalência aumenta exponencialmente, chegando até cerca de metade dos homens acima dos 40 anos de idade.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fatores de risco&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Sedentarismo&lt;/li&gt;
-      &lt;li&gt;Idade&lt;/li&gt;
-      &lt;li&gt;Tabagismo&lt;/li&gt;
-      &lt;li&gt;Hipertensão tanto causa DE por lesão endotelial
-        &lt;ul&gt;
-          &lt;li&gt;como seu tratamento com drogas anti-hipertensivas pode piorar a ereção (beta-bloqueadores).&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Diabetes mellitus: talvez seja o fator de risco isolado mais importante, chegando a triplicar a possibilidade de DE.&lt;/li&gt;
-      &lt;li&gt;Cirurgias pélvicas prévias: dentre elas a prostatectomia radical para o tratamento do CA de próstata.
-        &lt;ul&gt;
-          &lt;li&gt;DE de difícil resolução.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Exame físico&lt;/strong&gt;
-*&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Avaliação laboratorial mínima:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Glicemia em jejum&lt;/li&gt;
-      &lt;li&gt;Colesterol total&lt;/li&gt;
-      &lt;li&gt;Triglicerídeos&lt;/li&gt;
-      &lt;li&gt;Testosterona total: no caso de haver queixas relacionadas à diminuição do desejo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;IMNCOMPLETOOOOOOOOOOOOO&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hipertensão arterial na criança</title><link href="http://localhost:4000/pediatria/has-na-crianca" rel="alternate" type="text/html" title="Hipertensão arterial na criança" /><published>2019-06-12T00:00:00-03:00</published><updated>2019-06-12T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/has-na-crianca</id><content type="html" xml:base="http://localhost:4000/pediatria/has-na-crianca">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#aferição&quot; id=&quot;markdown-toc-aferição&quot;&gt;Aferição&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#como-aferir-pa-em-crianças&quot; id=&quot;markdown-toc-como-aferir-pa-em-crianças&quot;&gt;Como aferir PA em crianças&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quando-aferir-a-pa&quot; id=&quot;markdown-toc-quando-aferir-a-pa&quot;&gt;Quando aferir a PA?&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#definição&quot; id=&quot;markdown-toc-definição&quot;&gt;Definição&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#investigação-inicial&quot; id=&quot;markdown-toc-investigação-inicial&quot;&gt;Investigação inicial&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#avaliação-de-órgão-alvo&quot; id=&quot;markdown-toc-avaliação-de-órgão-alvo&quot;&gt;Avaliação de órgão alvo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#não-farmacológico&quot; id=&quot;markdown-toc-não-farmacológico&quot;&gt;Não farmacológico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#farmacológico&quot; id=&quot;markdown-toc-farmacológico&quot;&gt;Farmacológico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#emergência-hipertensiva&quot; id=&quot;markdown-toc-emergência-hipertensiva&quot;&gt;Emergência hipertensiva&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#urgência&quot; id=&quot;markdown-toc-urgência&quot;&gt;Urgência&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;1-3% no mundo&lt;/li&gt;
-  &lt;li&gt;Brasil: 9,6% em escolares (73,3 mil)&lt;/li&gt;
-  &lt;li&gt;Em Recife: 2 a 2,8%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;aferição&quot;&gt;Aferição&lt;/h2&gt;
-&lt;h3 id=&quot;como-aferir-pa-em-crianças&quot;&gt;Como aferir PA em crianças&lt;/h3&gt;
-&lt;ol&gt;
-  &lt;li&gt;Repouso de 5min&lt;/li&gt;
-  &lt;li&gt;Selecionar um manguito de tamanho adequado&lt;/li&gt;
-  &lt;li&gt;Sentado ou com os pés apoiados (lactente deitado no colo da mãe)&lt;/li&gt;
-  &lt;li&gt;Braço direito ao nível do coração&lt;/li&gt;
-  &lt;li&gt;Aferir 2x com intervalo de 5min&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Em crianças é muito mais frequente a hipertensão do “jaléco branco”.&lt;/p&gt;
-
-&lt;p&gt;Manguitos maiores Superestimam a PA e os menores subestimam!&lt;/p&gt;
-
-&lt;p&gt;O manguito deve ter 40% da medida do acrômio até o olécrano. Deve envolver 80% da circunferência do braço.&lt;/p&gt;
-
-&lt;h3 id=&quot;quando-aferir-a-pa&quot;&gt;Quando aferir a PA?&lt;/h3&gt;
-&lt;p&gt;Em todas crinaças menores de 3 anos devem ter PA aferida pelo menos 1 vez ao ano.&lt;/p&gt;
-
-&lt;p&gt;Em menores de 3 anos deve-se aferir em algumas situações.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;foto.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;definição&quot;&gt;Definição&lt;/h2&gt;
-&lt;p&gt;O nível de PA está relacionado ao sexo, idade e altura.&lt;/p&gt;
-
-&lt;p&gt;Existem tabelas de PA para cada percentil de altura e idade.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Na criança &amp;lt; 13 anos
-    &lt;ul&gt;
-      &lt;li&gt;PA normal: &amp;lt; p90&lt;/li&gt;
-      &lt;li&gt;PA elevada: entre p90 e p95&lt;/li&gt;
-      &lt;li&gt;HAS: &amp;gt; p95&lt;/li&gt;
-      &lt;li&gt;Estágios:
-        &lt;ul&gt;
-          &lt;li&gt;I&lt;/li&gt;
-          &lt;li&gt;II&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Criança &amp;gt; 13 anos
-    &lt;ul&gt;
-      &lt;li&gt;PA normal:&lt;/li&gt;
-      &lt;li&gt;PA elevada:&lt;/li&gt;
-      &lt;li&gt;Estágios:
-        &lt;ul&gt;
-          &lt;li&gt;I&lt;/li&gt;
-          &lt;li&gt;II&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Primária ou essencial&lt;/li&gt;
-  &lt;li&gt;Secundária
-    &lt;ul&gt;
-      &lt;li&gt;Mais comum em crianças do que em adultos&lt;/li&gt;
-      &lt;li&gt;Investigação individualizada&lt;/li&gt;
-      &lt;li&gt;60-80% de etiologia renal&lt;/li&gt;
-      &lt;li&gt;Sinais:
-        &lt;ul&gt;
-          &lt;li&gt;Taquicardia mesmo em repouso&lt;/li&gt;
-          &lt;li&gt;Pulso fraco em MMII (coarctação da aorta)&lt;/li&gt;
-          &lt;li&gt;Face em lua cheia: Doença de Cushing&lt;/li&gt;
-          &lt;li&gt;Palidez e sudorese: feocromocitoma&lt;/li&gt;
-          &lt;li&gt;Manchas café com leite: Neurofibromatose&lt;/li&gt;
-          &lt;li&gt;Rache malar: LES&lt;/li&gt;
-          &lt;li&gt;Massa abdominal: tumor de Wilms, neuroblastoma, feocromocitoma&lt;/li&gt;
-          &lt;li&gt;Rins palpáveis: rim multicístico diplásico, doença renal policística&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;investigação-inicial&quot;&gt;Investigação inicial&lt;/h2&gt;
-
-&lt;h2 id=&quot;avaliação-de-órgão-alvo&quot;&gt;Avaliação de órgão alvo&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Ecocardiograma: Hipertrofia VE&lt;/li&gt;
-  &lt;li&gt;Fundo de olho: alterações vasculares em retina&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-&lt;h3 id=&quot;não-farmacológico&quot;&gt;Não farmacológico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Mudanças no estilo de vida.&lt;/li&gt;
-  &lt;li&gt;Atividade física&lt;/li&gt;
-  &lt;li&gt;Dieta pobre em sódio e açucar e rica em vegetais, frutas e fibras, peixes, nozes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;farmacológico&quot;&gt;Farmacológico&lt;/h3&gt;
-&lt;p&gt;O objetivo é reduzir a PA para &amp;lt; p95. Já na hipertensão complicada (com lesão de órgãos alvo), o objetivo é PA &amp;lt; p90.&lt;/p&gt;
-
-&lt;p&gt;Obs: cuidado ao usar B-bloq em crianças pois elas podem entrar em quadro de sibilância e não responderem ao B-adrenérgico.&lt;/p&gt;
-
-&lt;p&gt;Não se usa muito os diuréticos nas crianças.&lt;/p&gt;
-
-&lt;h2 id=&quot;emergência-hipertensiva&quot;&gt;Emergência hipertensiva&lt;/h2&gt;
-&lt;p&gt;Elevação importante da PA associada a uma lesão evidente e recente de órgão alvo (SNC, coração, olhos e rins). A manifestação mais comum é a encefalopatia hipertensiva com convulsão&lt;/p&gt;
-
-&lt;h2 id=&quot;urgência&quot;&gt;Urgência&lt;/h2&gt;
-&lt;p&gt;Elevação importante da PA mas sem a lesão evidente de órgãos alvo. Os sintomas são mais leves que na emergência.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

@@ -45,6 +45,10 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/obstetricia/vacuo-extrator',
+      
+        '/obstetricia/forceps',
+      
         '/obstetricia/assistencia-pre-natal',
       
         '/obstetricia/assistencia-ao-parto-e-partograma',
@@ -492,9 +496,15 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/anestesia.jpeg'
       
+        '/assets/obstetricia/apgar.jpeg'
+      
         '/assets/obstetricia/bcf.jpeg'
       
         '/assets/obstetricia/bcf2.jpeg'
+      
+        '/assets/obstetricia/biparietomalomentoniana.png'
+      
+        '/assets/obstetricia/derradeira.jpeg'
       
         '/assets/obstetricia/diag.png'
       
@@ -514,6 +524,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/endocrino/1.jpg'
       
+        '/assets/obstetricia/endometrite.jpeg'
+      
         '/assets/obstetricia/episio.jpeg'
       
         '/assets/obstetricia/exames.jpeg'
@@ -530,6 +542,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/exames7.jpeg'
       
+        '/assets/obstetricia/forceps2.jpeg'
+      
+        '/assets/obstetricia/forceps3.jpeg'
+      
         '/assets/obstetricia/ganho-peso.jpeg'
       
         '/assets/obstetricia/hasg/esquemas.jpeg'
@@ -544,6 +560,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/hasg/tabela.jpeg'
       
+        '/assets/obstetricia/histerotomia.jpeg'
+      
+        '/assets/obstetricia/histerotomias.jpeg'
+      
         '/assets/obstetricia/hpp/tab.png'
       
         '/assets/obstetricia/imc-graf.jpeg'
@@ -556,13 +576,25 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/infeccao-puerperal/sepse.jpeg'
       
+        '/assets/obstetricia/jacob-dubin.jpeg'
+      
+        '/assets/obstetricia/kielland.jpeg'
+      
         '/assets/obstetricia/leopold.jpeg'
       
         '/assets/obstetricia/leopold2.jpeg'
       
         '/assets/obstetricia/leopold3.jpeg'
       
+        '/assets/obstetricia/ligadura.jpeg'
+      
+        '/assets/obstetricia/ombro.jpeg'
+      
+        '/assets/obstetricia/pajot.jpeg'
+      
         '/assets/obstetricia/partograma.jpeg'
+      
+        '/assets/obstetricia/pfannenstiel.jpeg'
       
         '/assets/obstetricia/pp/dd.jpeg'
       
@@ -603,6 +635,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/semio/linea-nigra.jpg'
       
         '/assets/obstetricia/semio/tuberculos.jpg'
+      
+        '/assets/obstetricia/simpson.jpeg'
       
         '/assets/obstetricia/tp/dilatacao.jpeg'
       
