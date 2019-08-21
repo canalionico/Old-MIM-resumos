@@ -1,4 +1,172 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-18T04:40:41-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry><entry><title type="html">Fórceps</title><link href="http://localhost:4000/obstetricia/forceps" rel="alternate" type="text/html" title="Fórceps" /><published>2019-08-17T00:00:00-03:00</published><updated>2019-08-17T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/forceps</id><content type="html" xml:base="http://localhost:4000/obstetricia/forceps">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-21T19:49:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença trofoblástica gestacional</title><link href="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional" rel="alternate" type="text/html" title="Doença trofoblástica gestacional" /><published>2019-08-21T00:00:00-03:00</published><updated>2019-08-21T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional</id><content type="html" xml:base="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#mola-hidatiforme&quot; id=&quot;markdown-toc-mola-hidatiforme&quot;&gt;Mola hidatiforme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#usg&quot; id=&quot;markdown-toc-usg&quot;&gt;USG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;DTG é o termo usado para nomear os tumores do trofoblasto viloso placentário, englobando as várias formas da MH, mola invasora, coriocarcinoma, PSTT e ETT&lt;/p&gt;
+
+&lt;p&gt;A DTG consiste em blastomas originários do tecido de revestimento das vilosidades coriais (cito e
+sinciciotrofoblasto) caracterizados por aspectos degenerativos (hidropisia do estroma) e proliferativos
+(hiperplasia/anaplasia).&lt;/p&gt;
+
+&lt;p&gt;DTG caracteriza-se por produzir hCG, possibilitando não apenas o diagnóstico precoce, como também o
+monitoramento da evolução da forma benigna para a NTG, a resposta da quimioterapia e o controle de cura.&lt;/p&gt;
+
+&lt;p&gt;Quando a dosagem de hCG estabiliza-se por 4 semanas
+consecutivas ou sobe por 3 semanas seguidas, afastada a gravidez ou restos molares intrauterinos pela
+ultrassonografia transvaginal, estava diagnosticada a transformação maligna da MH.&lt;/p&gt;
+
+&lt;p&gt;A ultrassonografia revolucionou o diagnóstico da gravidez molar, tornando possível que essa
+entidade da gravidez fosse precocemente reconhecida e rapidamente tratada. A ultrassonografia não só
+promoveu o diagnóstico da MH, como também facilitou a avaliação dos ovários das pacientes com essa doença,
+muitas vezes acometidos por cistos tecaluteínicos.&lt;/p&gt;
+
+&lt;p&gt;Pode-se dizer que a NTG é o câncer humano com maior chance
+de cura.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A incidência é maior nas idades extremas: jovens e gestantes-idosas (&amp;gt;  40 anos).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nos EUA, a MH é observada em 1:1.500 gestações. Aproximadamente 20% das pacientes com MH após o
+esvaziamento desenvolvem NTG, que requer a administração de quimioterapia (Lurain et al., 1983). A maioria das
+pacientes com NTG pós-molar apresenta a forma não metastática ou mola invasora, mas o coriocarcinoma pode
+ocorrer nesse cenário.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O coriocarcinoma pode ser precedido por:
+    &lt;ul&gt;
+      &lt;li&gt;Gravidez normal&lt;/li&gt;
+      &lt;li&gt;Gravidez ectópica&lt;/li&gt;
+      &lt;li&gt;Abortamento&lt;/li&gt;
+      &lt;li&gt;Mola hidatiforme&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Os únicos fatores de risco para DTG seguramente estabelecidos são a idade materna avançada e o antecedente de gravidez molar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;mola-hidatiforme&quot;&gt;Mola hidatiforme&lt;/h2&gt;
+
+&lt;p&gt;As MH completa e parcial constituem duas doenças distintas, com características citogenéticas, histológicas e
+clínicas próprias (Tabela 29.1), embora o tratamento seja similar.&lt;/p&gt;
+
+&lt;p&gt;O volume e a proliferação trofoblástica da MHC excedem, no geral, os da MHP, o que se reflete nas
+características clínicas. Os títulos iniciais do hCG costumam ser mais elevados em pacientes com mola completa.
+O aumento uterino além do esperado para a idade gestacional ocorre em até 50% dos casos de MHC.
+Complicações médicas da gravidez molar, incluindo pré-eclâmpsia, hipertireoidismo, anemia e hiperêmese
+gravídica, são mais frequentes nos casos de MHC. Aproximadamente 15 a 25% das pacientes com MHC
+apresentam cistos tecaluteínicos, com aumento ovariano &amp;gt; 6 cm. Sequelas malignas ocorrem em menos de 5%
+das pacientes com MHP, mas em cerca de 20% daquelas com MHC.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MHP: pode ter feto com BCF&lt;/li&gt;
+  &lt;li&gt;MHC: não tem feto nem BCF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;O diagnóstico de MH pode ser feito no &lt;strong&gt;1º trimestre da gravidez&lt;/strong&gt;. O sinal mais comum é o &lt;strong&gt;sangramento&lt;/strong&gt;, muitas
+vezes acompanhado da &lt;strong&gt;expulsão das vesículas molares&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aumento do útero maior que o esperado para a IG&lt;/li&gt;
+  &lt;li&gt;Ausência de BCF&lt;/li&gt;
+  &lt;li&gt;Tumoração cística ovariana&lt;/li&gt;
+  &lt;li&gt;Hiperêmese gravídica&lt;/li&gt;
+  &lt;li&gt;Nível anormalmente elevado de hCG&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A &lt;strong&gt;pré-eclâmpsia na 1ª metade da gestação&lt;/strong&gt;, embora incomum, é &lt;strong&gt;sugestiva de MH&lt;/strong&gt;. O diagnóstico clínico da gravidez molar pode ser suspeitado diante das alterações descritas a seguir.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sangramento vaginal:&lt;/strong&gt; É quase constante, podendo acompanhar-se ou não de dor tipo &lt;strong&gt;cólica&lt;/strong&gt;, sendo, entretanto, &lt;strong&gt;indolor&lt;/strong&gt; na maioria
+das vezes. A hemorragia genital indolor é o sintoma mais prevalente por ocasião do diagnóstico, ocorrendo em
+aproximadamente 80 a 90% dos casos. Esse sinal apresenta-se entre 4 e 16 semanas de amenorreia. Por vezes, ainda que raramente, ocorrem situações graves e emergenciais, que resultam em choque
+hipovolêmico decorrente de gravidez molar, determinando risco à vida materna e culminando em um near-miss
+obstétrico.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aumento do volume uterino:&lt;/strong&gt;
+Quando o volume uterino atinge &lt;strong&gt;4 cm além do tamanho esperado&lt;/strong&gt; para a idade gestacional, considera-se que
+o útero está aumentado. Isso se configura como fator de risco no acompanhamento pós-molar (ocorre em 50% dos casos). Além de maior chance de evolução maligna, sabe-se que essas pacientes cursam com maior ocorrência de perfuração durante o esvaziamento uterino e de possível embolização pulmonar.  Tal circunstância deveria inibir o não especialista de realizar o esvaziamento uterino e motivá-lo a enviar a paciente para centro especializado, com equipe treinada e equipamento para
+reanimação cardiopulmonar.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cistos tecaluteínicos dos ovários:&lt;/strong&gt; A hiper-reação luteínica entre as pacientes com gravidez molar &lt;strong&gt;deve-se a estímulo exagerado de hCG&lt;/strong&gt;, além
+de maior sensibilidade ovariana a esse hormônio. Nesses casos, os ovários apresentam-se com grandes e
+múltiplos cistos, bilaterais e multiloculados com líquido claro no seu interior. A incidência é baixa nos casos de MHP. Em geral, a conduta clínica a ser adotada é de vigilância estrita, pois a regressão
+dos cistos ocorre espontaneamente em torno de 6 a 8 semanas, após o esvaziamento uterino, com a
+normalização da hCG. Sendo o tamanho dos cistos proporcional à atividade gonadotrófica da massa trofoblástica, sua avaliação
+volumétrica (&amp;gt; 6 cm) constitui um dado relevante no estabelecimento do fator prognóstico (e maior risco de progressão para NTG). A ruptura destes cistos pode provocar um quadro de abdome agudo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hiperêmese&lt;/strong&gt;: Costuma ser descrita como um dos sintomas mais frequentes da mola.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pré-eclâmpsia precoce:&lt;/strong&gt; Também é descrita como sinal clássico de gravidez molar.  É
+frequente a tríade sintomática &lt;strong&gt;hipertensão, edema e proteinúria&lt;/strong&gt;. Quando presente no início da gravidez, antes de 20 semanas, principalmente se acompanhada de perda sanguínea, deve suscitar, de imediato, o diagnóstico de mola. A sintomatologia é exuberante e não difere daquela descrita em gestações
+não molares, a saber: hipertensão, proteinúria, anasarca e edema pulmonar.&lt;/p&gt;
+
+&lt;p&gt;O tratamento clínico é o mesmo de uma paciente com pré-eclâmpsia grave, com uso de &lt;strong&gt;sulfato de magnésio&lt;/strong&gt;
+a 50% para prevenir o quadro convulsivo e melhorar o prognóstico materno, além de anti-hipertensivos para
+controle da pressão arterial. O sulfato de magnésio deve ser iniciado antes do procedimento cirúrgico, conforme
+recomenda o esquema de Zuspan na &lt;strong&gt;dose de 4 g (dose de ataque) IV, seguido de 1 a 2 g/h&lt;/strong&gt;. A conduta obstétrica
+deve ser proceder imediatamente ao esvaziamento uterino, valendo-se da vácuo-aspiração, com menor tempo
+cirúrgico e menor risco de perfuração uterina.&lt;/p&gt;
+
+&lt;p&gt;Na sequência, o controle pressórico deve ser alcançado por meio
+do uso de anti-hipertensivos habituais, como a hidralazina e o nifedipino. Nos casos renitentes, podem ser usados
+anti-hipertensivos potentes, como o diazóxido e o nitroprussiato de sódio, quando necessário, sob monitoramento
+intensivo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hipertireoidismo&lt;/strong&gt;: A ocorrência do hipertireoidismo
+associado à doença molar deve-se à semelhança estrutural entre a subunidade alfa da hCG e o hormônio estimulante da tireoide (TSH), fazendo com que os receptores deste sejam estimulados pela hCG. O hipertireoidismo clínico está presente em 5% dos casos de MH e, ocasionalmente, a
+crise tireotóxica desenvolve-se com quadro clínico exuberante. A expressão clínica da crise tireotóxica consiste em taquicardia, hipertensão arterial, tremores finos,
+intolerância ao calor, fraqueza muscular, sudorese, miopatia tireotóxica, reflexos hiperativos, perda de peso e
+irritabilidade, podendo ocorrer também o aumento difuso da glândula tireoide, que se
+torna firme e lobulada.&lt;/p&gt;
+
+&lt;p&gt;Os testes hormonais mostram níveis baixos de TSH (ou mesmo ausentes) e aumentados
+de T3 e T4 livres associados a valores muito elevados de hCG, chegando a mais de 1 milhão de mU/ml.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Complicações pulmonares&lt;/strong&gt;:
+Cerca de 1% das mulheres morrem por complicações pulmonares durante ou logo após o esvaziamento uterino molar, por embolização trofoblástica (Delmis et al., 2000). No intercurso da vácuo-aspiração é preciso ter
+atenção e cuidado na administração de líquidos, pois a sobrecarga congestiva do coração esquerdo pode
+ocasionar graves complicações pulmonares.&lt;/p&gt;
+
+&lt;p&gt;O tratamento ideal inclui suporte ventilatório, monitoramento central e esvaziamento uterino imediato. A
+literatura nacional e internacional demonstra claramente que os casos com desfecho fatal tiveram origem quando
+o esvaziamento molar foi postergado.&lt;/p&gt;
+
+&lt;p&gt;A embolia trofoblástica ocorre porque a vilosidade corial penetra nos canais venosos do miométrio, deixa os
+lindes da pelve, e é levada pelas veias uterinas a veia cava inferior, coração e pulmões. O quadro
+cardiorrespiratório é grave e pode confundir com insuficiência cardíaca ou tromboembolia pulmonar.&lt;/p&gt;
+
+&lt;h2 id=&quot;usg&quot;&gt;USG&lt;/h2&gt;
+
+&lt;p&gt;Superou todos os métodos não invasivos para diagnóstico da gravidez molar. Não obstante, muitos casos de
+mola são diagnosticados como aborto retido a partir de um exame de ultrassonografia rotineiro no 1o trimestre.
+Muitas pacientes com mola completa exibem imagens típicas (Figura 29.9): útero cheio de material ecogênico,
+contendo múltiplas vesículas anecoicas de diferentes tamanhos, sem fluxo ao Doppler; não há feto nem batimento
+cardíaco fetal. Na MHP, observa-se placenta grande de aspecto normal com lesões intraplacentárias anecoicas
+difusas (Figura 29.10).&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Para pacientes nas quais há suspeita de gestação molar, antes do esvaziamento, são recomendados os exames a seguir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hemograma completo&lt;/li&gt;
+  &lt;li&gt;Grupo sanguíneo e fator Rh&lt;/li&gt;
+  &lt;li&gt;Determinação do nível de hCG&lt;/li&gt;
+  &lt;li&gt;Coagulograma completo&lt;/li&gt;
+  &lt;li&gt;Hepatograma completo&lt;/li&gt;
+  &lt;li&gt;Ureia, creatinina, ácido úrico&lt;/li&gt;
+  &lt;li&gt;Radiografia de tórax.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Em pacientes com fundo uterino maior que 16 cm, dosagens de TSH, T4 livre e eletrocardiograma também
+devem ser solicitados.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry><entry><title type="html">Fórceps</title><link href="http://localhost:4000/obstetricia/forceps" rel="alternate" type="text/html" title="Fórceps" /><published>2019-08-17T00:00:00-03:00</published><updated>2019-08-17T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/forceps</id><content type="html" xml:base="http://localhost:4000/obstetricia/forceps">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fórceps-de-simpson&quot; id=&quot;markdown-toc-fórceps-de-simpson&quot;&gt;Fórceps de Simpson&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fórceps-de-kielland&quot; id=&quot;markdown-toc-fórceps-de-kielland&quot;&gt;Fórceps de Kielland&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#indicações&quot; id=&quot;markdown-toc-indicações&quot;&gt;Indicações&lt;/a&gt;&lt;/li&gt;
@@ -2079,114 +2247,6 @@ permeabilidade tubária.&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:med&quot;&gt;
       &lt;p&gt;MED &lt;a href=&quot;#fnref:med&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:med:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Sangramento uterino anormal</title><link href="http://localhost:4000/ginecologia/sangramento-uterino-anormal" rel="alternate" type="text/html" title="Sangramento uterino anormal" /><published>2019-06-15T00:00:00-03:00</published><updated>2019-06-15T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/sangramento-uterino-anormal</id><content type="html" xml:base="http://localhost:4000/ginecologia/sangramento-uterino-anormal">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#manejo&quot; id=&quot;markdown-toc-manejo&quot;&gt;Manejo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Uma vez que as causas orgânicas já descritas de sangramento uterino anormal tenham sido excluídas, o termo sangramento uterino disfuncional (SUD) passa a ser usado.&lt;sup id=&quot;fnref:williams&quot;&gt;&lt;a href=&quot;#fn:williams&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;O sangramento que ocorre sem correspondência com os períodos menstruais esperados, devem ser chamados de &lt;strong&gt;sangramento intermenstrual&lt;/strong&gt;, classificados em:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Sangramento intermenstrual do meio do ciclo&lt;/li&gt;
-  &lt;li&gt;Sangramento intermenstrual pré-menstrual ou pós-menstrual&lt;/li&gt;
-  &lt;li&gt;Sangramento intermenstrual acíclico&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Em mulheres em uso de &lt;strong&gt;medicação hormonal, o padrão menstrual&lt;/strong&gt; pode ser definido a partir da observação de um período de 90 dias de uso. Assim teremos os seguintes padrões:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Amenorréia&lt;/li&gt;
-  &lt;li&gt;Sangramento infreqüente: Menos de 3 episódios no período de 90 dias&lt;/li&gt;
-  &lt;li&gt;Sangramento freqüente: Mais de 5 episódios&lt;/li&gt;
-  &lt;li&gt;Sangramento irregular: Entre 3 e 5 episódios, com menos de 3 intervalos livres de sangramento ≥ 14 dias.&lt;/li&gt;
-  &lt;li&gt;Sangramento prolongado: 1 ou mais episódios com duração ≥ 14 dias.&lt;/li&gt;
-  &lt;li&gt;Normal: Nenhum dos anteriores.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Ou seja, em mulheres em uso de medicação hormonal, é considerado normal quando, no intervalo de 90 dias, se observa: 3 a 5 episódios menstruais, de duração inferior a 14 dias e intervalo de 14 dias ou mais.&lt;/p&gt;
-
-&lt;p&gt;Em usuárias de ACO combinados com intervalo, é considerado &lt;strong&gt;sangramento programado&lt;/strong&gt; aquele que se inicia no intervalo livre de hormônio e se prolonga até 4 dias da próxima cartela.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ginecologia/sua/tab.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;p&gt;Desaconselha-se o uso das expressões “&lt;strong&gt;sangramento uterino disfuncional&lt;/strong&gt;” e “sangramento de causa orgânica”, pela imprecisão do termo. Os sangramentos uterinos anormais devem ser subdivididos em duas grandes categorias:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Com anomalia estrutural do útero.&lt;/li&gt;
-  &lt;li&gt;Sem anomalia estrutural do útero.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A FIGO elaborou um sistema de classificação de causas de sangramento uterino em mulheres não grávidas em idade reprodutiva conhecido como “PALM-COEIN”. As anomalias estruturais do útero, (diagnosticadas por método de imagem ou histopatológico) são reunidas no acrônimo &lt;strong&gt;PALM&lt;/strong&gt; (Polyp; Adenomyosis; Leiomyoma; Malignancy &amp;amp; hyperplasia) e as entidades clinicas que não têm representação por método
-de imagem ou histopatológico e corresponderiam ao grupo sem anomalia estrutural são reunidas no acrônimo &lt;strong&gt;COEIN&lt;/strong&gt; (Coagulopathies; Ovulatory dysfunction; Endometrial; Iatrogenic; Not yet classified).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;As doenças do trato genital inferior que podem cursar com sangramento devem ser descartadas pelo exame físico e não são incluídas na definição de SUA.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;manejo&quot;&gt;Manejo&lt;sup id=&quot;fnref:helio&quot;&gt;&lt;a href=&quot;#fn:helio&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Anamnese minuciosa
-    &lt;ul&gt;
-      &lt;li&gt;padrão menstrual&lt;/li&gt;
-      &lt;li&gt;sintomas associados&lt;/li&gt;
-      &lt;li&gt;tempo de evolução&lt;/li&gt;
-      &lt;li&gt;mudanças ocorridas no período&lt;/li&gt;
-      &lt;li&gt;uso de medicações hormonais quepossam alterar o curso do sangramento&lt;/li&gt;
-      &lt;li&gt;antecedentes sexuais e uso de métodos anticoncepcionais
-        &lt;ul&gt;
-          &lt;li&gt;devem ser pesquisados para estimar a possibilidade de gravidez e para identificar se o sangramento é decorrente do correto ou incorreto desses métodos.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;A pesquisa de outros episódios de sangramento não genital alerta para a possibilidade de disfunção da coagulação&lt;/li&gt;
-      &lt;li&gt;Pesquisa de antecedentes patológicos pode revelar diagnósticos sistêmicos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sangramento &lt;strong&gt;vermelho rutilante&lt;/strong&gt; e a presença de &lt;strong&gt;coágulos&lt;/strong&gt; indicam um volume menstrual aumentado.
-    &lt;ul&gt;
-      &lt;li&gt;coágulos traduzem a superação da capacidade fibrinolítica endometrial e, portanto, fluxo excessivo.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dosagem da Hb, Fe e ferritina seriam marcadores confiáveis da perda hemática excessiva.&lt;/li&gt;
-  &lt;li&gt;Os &lt;strong&gt;sangramentos intermenstruais&lt;/strong&gt; chamam a atenção para a possibilidade de doença que acometa a cavidade endometrial (mioma submucoso, pólipo, neoplasia e hiperplasia), tendo em vista que as doenças exclusivamente miometriais (miomas intramurais e adenomiose) costumam aumentar apenas o volume e talvez a duração do fluxo menstrual tempestivo.&lt;/li&gt;
-  &lt;li&gt;A relação sexual pode precipitar o sangramento de qualquer natureza, porém chama a atenção para a possibilidade de lesão cervical.&lt;/li&gt;
-  &lt;li&gt;Diagnóstico diferencial com sangramento retal e uretral é importante.&lt;/li&gt;
-  &lt;li&gt;A exacerbação da &lt;strong&gt;dismenorreia&lt;/strong&gt; associada ao sangramento, chama a atenção para a possibilidade de adenomiose ou mioma submucoso em parturição.
-    &lt;ul&gt;
-      &lt;li&gt;Sua ausência favorece o diagnóstico de anovulação ou outras anomalias estruturais.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Exame físico:
-    &lt;ul&gt;
-      &lt;li&gt;Manejo adequado de emergência hemorrágica&lt;/li&gt;
-      &lt;li&gt;Exame especular&lt;/li&gt;
-      &lt;li&gt;Toque genital
-        &lt;ul&gt;
-          &lt;li&gt;estima o volume, a consistência e a regularidade do contorno uterino, alterados nas anomalias estruturais e na gravidez, bem como estima a sensibilidade anexial, para diagnóstico diferencial com a DIPA.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Afastar gravidez&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/ginecologia/sua/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;IMCOMPLETOOOOOOOOOOOO&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:williams&quot;&gt;
-      &lt;p&gt;Ginecologia de Williams, 2014. &lt;a href=&quot;#fnref:williams&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:helio&quot;&gt;
-      &lt;p&gt;Capítulo atualizado Prof. Dr. Hélio &lt;a href=&quot;#fnref:helio&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

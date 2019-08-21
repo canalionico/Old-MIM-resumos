@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/obstetricia/doen%C3%A7a-trofoblastica-gestacional',
+      
         '/obstetricia/vacuo-extrator',
       
         '/obstetricia/forceps',
@@ -504,6 +506,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/biparietomalomentoniana.png'
       
+        '/assets/obstetricia/colo.jpeg'
+      
+        '/assets/obstetricia/colpotomia.jpeg'
+      
         '/assets/obstetricia/derradeira.jpeg'
       
         '/assets/obstetricia/diag.png'
@@ -547,6 +553,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/forceps3.jpeg'
       
         '/assets/obstetricia/ganho-peso.jpeg'
+      
+        '/assets/obstetricia/hamilton.jpeg'
       
         '/assets/obstetricia/hasg/esquemas.jpeg'
       
