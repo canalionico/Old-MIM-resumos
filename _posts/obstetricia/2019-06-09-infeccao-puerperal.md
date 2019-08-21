@@ -1,6 +1,5 @@
 ---
 title: Infecção puerperal
-layout: post
 categories: obstetricia
 ---
 
@@ -24,10 +23,12 @@ O esquema mais utilizado é com cefazolina, 1g IV, quando o cordão umbilical é
 > No CISAM é feita antibioticoterapia profilática 1h antes da cesárea? Antibiótico profilático: **Cefazolina ou Cefalotina** 1-2 g IV é recomendada antes da incisão na pele na intenção de reduzir infecção materna. A escolha destes antibióticos dá-se por serem efetivos para endometrite, infecção urinária e infecção de sítio cirúrgico.[^proto]
 
 ## Epidemiologia
+
 * Cerca de 15% de todas as mulheres com febre puerperal apresentam apenas ingurgitamento mamário.
-* É a 3ª causa de mortalidade materna, sendo responsável por 6,3% dos óbitos (Ministério da Saúde, 2006).
+* É a **3ª causa de mortalidade materna**, sendo responsável por 6,3% dos óbitos (MS, 2006).
 
 ## Etiologia
+
 A cavidade uterina – depois do parto e, especificamente, a área remanescente do descolamento placentário – constitui zona com grande potencial para infecção.
 
 A atividade contrátil normal do útero, depois da dequitação, e a involução puerperal, além da reação leucocitária e da hemóstase trombótica na zona de implantação da placenta, representam os mecanismos de defesa contra infecção.
@@ -35,13 +36,15 @@ A atividade contrátil normal do útero, depois da dequitação, e a involução
 A endometrite pós-parto tem fisiopatologia similar à da corioamnionite, envolve os mesmos
 microrganismos e é frequentemente precedida por infecção intra-amniótica clínica ou subclínica.
 
-Os patógenos anaeróbios desempenham papel relevante na endometrite após operação cesariana e são isolados em 40 a 60% das culturas coletadas apropriadamente. Mulheres com endometrite após o parto vaginal são candidatas à infecção por patógeno único, com destaque para o Streptococcus.
+Os patógenos **anaeróbios** desempenham papel relevante na **endometrite após operação cesariana** e são isolados em 40 a 60% das culturas coletadas apropriadamente. Mulheres com **endometrite após o parto vaginal** são candidatas à infecção por patógeno único, com destaque para o **_Streptococcus_**.
 
 ### Microbiologia
+
 #### Microbiota cervicovaginal normal na gravidez
+
 * A gravidez pode suscitar mudanças na microbiota cervicovaginal
-* A colonização por Lactobacillus aumenta na gravidez e existe a possibilidade de outros tipos de microrganismos serem diminuídos.
-* Trata-se de alterações fisiológicas, destinadas a proteger o concepto, uma vez que Lactobacilli são avirulentos
+* A colonização por **_Lactobacillus_ aumenta na gravidez** e existe a possibilidade de outros tipos de microrganismos serem diminuídos.
+* Trata-se de alterações fisiológicas, destinadas a proteger o concepto, uma vez que _Lactobacilli_ são avirulentos
 * Depois do parto vaginal, espécies anaeróbias se proliferam dramaticamente no 3º dia do puerpério
 * O mecanismo, embora ainda não elucidado, pode decorrer do
   * trauma relacionado com o processo do nascimento,
@@ -51,7 +54,8 @@ Os patógenos anaeróbios desempenham papel relevante na endometrite após opera
 * É uma situação transitória, 6 semanas depois, a microbiota vaginal está normalizada.
 
 #### Aeróbios
-* **Estreptococos beta-hemolíticos do grupo B** (S. mastitidis, S. agalactiae)
+
+* **Estreptococos beta-hemolíticos do grupo B** - GBS (S. mastitidis, S. agalactiae)
   * importantes causadores de infecção puerperal precoce e neonatal
   * Encontrados em cerca de 30% das culturas vaginais e cervicais de grávidas
   * a infecção seria, portanto, endêmica, pois os estreptococos do grupo B colonizam o sistema genital materno, provenientes do reto ou do contato sexual.
@@ -68,8 +72,8 @@ Os patógenos anaeróbios desempenham papel relevante na endometrite após opera
   * Não são considerados patogênicos em infecções cirúrgicas, embora sejam observados em pequeno número de mulheres com endometrite pós-parto ou bacteriemia.
   * são resistentes a penicilina, cefalosporinas, aminoglicosídios e clindamicina; a ampicilina ou o efeito sinérgico da penicilina e de um aminoglicosídio inibem os enterococos
 * **Estreptococos beta-hemolíticos do grupo A** (Streptococcus pyogenes)
-  * Não fazem parte da microbiota normal da vagina e da cérvice
-    * a origem é exógena, em geral da nasofaringe ou de lesões da pele da paciente, do bebê ou do corpo clínico do hospital.
+  * **Não fazem parte da microbiota** normal da vagina e da cérvice
+    * a **origem é exógena**, em geral da nasofaringe ou de lesões da pele da paciente, do bebê ou do corpo clínico do hospital.
   * A principal característica dessa infecção é sua enorme capacidade de invasão
     * com sinais mínimos de localização nos pontos lesados do canal do parto.
   * Os microrganismos são sensíveis a penicilina, cefalosporinas e eritromicina
@@ -101,6 +105,7 @@ Os patógenos anaeróbios desempenham papel relevante na endometrite após opera
   * mas é sensível à maioria dos antibióticos.
 
 #### Anaeróbios
+
 * **Gram-positivos anaeróbios**
   * **Cocos anaeróbios** (peptococos, peptoestreptococos): habitantes não patogênicos da vagina e do colo costumam se tornar virulentos na presença de tecido traumatizado e desvitalizado e de sangue coagulado.
     * Os lóquios têm cheiro pútrido.
@@ -125,6 +130,7 @@ Os patógenos anaeróbios desempenham papel relevante na endometrite após opera
     * Cefoxitina e metronidazol também são efetivos.
 
 #### Micoplasma
+
 * São frequentemente encontrados na cérvice das gestantes.
 * Mycoplasma hominis foi isolado em 20 a 50% das pacientes, e Ureaplasma urealyticum, em 60 a 80%.
 * A associação entre micoplasmas genitais e febre puerperal não está ainda inteiramente esclarecida.
@@ -134,12 +140,14 @@ Os patógenos anaeróbios desempenham papel relevante na endometrite após opera
 * Os micoplasmas genitais, encontrados no endométrio e/ou sangue em 15% das puérperas com endometrite, são sensíveis às tetraciclinas, à eritromicina e ao cloranfenicol.
 
 #### Clamídia
-* Chlamydia trachomatis está relacionada com a infecção puerperal, especialmente a partir do 3º  dia de puerpério.
+
+* Chlamydia trachomatis está relacionada com a infecção puerperal, **especialmente a partir do 3º dia de puerpério**.
 * Verificou-se maior incidência de infecção puerperal nas gestantes portadoras de clamídia.
 * Em estudo similar, não foi encontrado qualquer diferença quanto à intercorrência de infecção puerperal entre as gestantes com ou sem cultura positiva para clamídia.
 * São agentes sensíveis à tetraciclina e à eritromicina.
 
 ### Bactérias mais comuns nas infecções genitais femininas
+
 * Aeróbios
   * Estreptococos dos grupos A, B e D
   * Enterococcus
@@ -155,18 +163,20 @@ Os patógenos anaeróbios desempenham papel relevante na endometrite após opera
   * Chlamydia trachomatis
 
 ## Fatores predisponentes
-A operação cesariana é o fator predisponente mais importante, aumentando significativamente
-a morbiletalidade puerperal. Em relação aos partos vaginais, a cesárea eleva o risco de:
 
-* Endo(mio)metrite em 5 a 30 vezes,
+A operação cesariana é o fator predisponente mais importante, aumentando significativamente
+a morbiletalidade puerperal. Em relação aos partos vaginais, a **cesárea eleva o risco de**:
+
+* **Endo(mio)metrite em 5 a 30 vezes**;
 * Bacteriemia em 2 a 10 vezes,
 * Abscesso ou de tromboflebite pélvica em 2 vezes,
-* Morte por infecção em 80 vezes
+* **Morte por infecção em 80 vezes**.
 
 Outros fatores que elevam o risco de infecção após cesariana são:
 
 * Parto e amniorrexe prolongados
-  * com numerosos toques vaginais, e baixo nível socioeconômico
+  * com numerosos toques vaginais
+* Baixo nível socioeconômico
 * Obesidade
 * Anemia
 * Anestesia geral
@@ -176,6 +186,7 @@ Outros fatores que elevam o risco de infecção após cesariana são:
 ![img](/assets/obstetricia/infeccao-puerperal/img.jpeg)
 
 ## Mastite
+
 * A mastite é uma das infecções puerperais mais prevalentes
 * Acomete mais primíparas
   * pois o ingurgitamento mamário é mais comum nestas puérperas que em multíparas
@@ -217,26 +228,28 @@ Outros fatores que elevam o risco de infecção após cesariana são:
     * Em casos mais graves, deve-se evitar amamentar pela mama acometida, devendo ser feito o esvaziamento manual ou mecânico.
 
 ### Tratamento
+
 * Orientar a amamentação para evitar métodos errados e o aparecimento de fissura do mamilo
 * Antibioticoterapia
   * Cefalexina 500mg VO 6/6h por 7-10 dias
   * Alérgicas às cefalosporinas: Eritromicina seguindo o mesmo esquema
 
 ## Endometrite
-* É a infecção puerperal da genitália mais frequente
+
+* É a **infecção puerperal da genitália mais frequente**
 * Na endometrite ocorre acometimento apenas da decídua, podendo progredir para endomiometrite (infecção atingindo o miométrio), ou estender-se além dos limites uterinos
-* Surge na área de implantação da placenta (área muito nutritiva)
+* **Surge na área de implantação da placenta** (área muito nutritiva)
 * Após partos vaginais, incide em 1 a 3% dos casos e tende a instalar-se no **4º ou 5º dia** de pós-parto
 * o aparecimento mais precoce sugere maior virulência.
 * As condições gerais se mantêm boas, a não ser nas formas muito graves
 * Clinicamente, a infecção inicia-se pela ascensão da temperatura, que atinge 38,5 a 39°C
-* os lóquios tornam-se purulentos e com mau cheiro quando anaeróbios estão envolvidos
+* os **lóquios tornam-se purulentos e com mau cheiro** quando anaeróbios estão envolvidos
 * No quadro clínico típico a puérpera refere
   * febre
   * dor abdominal
   * saída de secreção amarelada e com odor fétido pela vagina
 * **O exame pélvico demonstra**
-  * Útero amolecido, sensível e doloroso
+  * **Útero amolecido, sensível e doloroso**
   * Engrandecido no abdome
   * Colo permeável à polpa digital
     * que, manipulado, deixa escoar secreção purulenta
@@ -263,6 +276,7 @@ Outros fatores que elevam o risco de infecção após cesariana são:
 > A loquiação é como se osse uma via de drenagem fisiológica da ferida. A ausência de loquiação é preocupante e pode sugerir um hematoma.
 
 ### Tratamento
+
 * Se a metrite é leve e se desenvolve depois de a mulher receber alta após o parto vaginal, o tratamento com antibiótico oral tende a ser suficiente
 * Infecções moderadas e graves
   * especialmente após o parto cesáreo, o tratamento IV com antibióticos de largo espectro é mandatório
@@ -280,14 +294,17 @@ Outros fatores que elevam o risco de infecção após cesariana são:
 significar infecção por cepas de Clostridium (gangrena gasosa). Neste caso o tratamento cirúrgico irá se impor, com realização de histerectomia
 
 ## Abscessos
+
 * Febre persistente apesar da antibioticoterapia
 * Palpação de massa pélvica
 
 ### Tratamento
+
 * Devem ser abertos e drenados
 * Antibioticoterapia
 
 ## Perineovulvovaginite e cervicite
+
 As infecções do períneo, as vulvovaginais e as do colo uterino decorrem das inevitáveis soluções de continuidade aí produzidas pela passagem do feto, além das episiotomias. Clinicamente, caracterizam-se pelo:
 
 * Aparecimento de dor
@@ -297,9 +314,10 @@ As infecções do períneo, as vulvovaginais e as do colo uterino decorrem das i
 * Febre moderada (38,5°C)
 
 ### Infecção da episiotomia
-A despeito de ser uma ferida em região contaminada, a infecção da episiotomia não é comum, vigente em menos de 0,5% dos casos.
 
-A maioria não é grave e raramente é mortal. Essas infecções podem ser classificadas em 4 tipos, de acordo com a profundidade e a gravidade do processo inflamatório.
+A despeito de ser uma ferida em região contaminada, a infecção da episiotomia **não é comum**, vigente em menos de 0,5% dos casos.
+
+A **maioria não é grave e raramente é mortal**. Essas infecções podem ser classificadas em 4 tipos, de acordo com a profundidade e a gravidade do processo inflamatório.
 
 Episiotomias medianas agregam o risco de lesão ano-retal, o que pode não só contaminar mais
 ainda a ferida, como acarretar o surgimento de fístulas retovaginais ou retocutâneas, com
@@ -327,6 +345,7 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
   * A dor é desproporcionada aos sinais físicos
 
 ### Tratamento
+
 * **Lacerações** perineais, vaginais e cervicais
   * Devem ser suturadas
   * A terapêutica das lacerações infectadas consiste na administração de antibióticos sistêmicos e antissépticos locais
@@ -343,41 +362,44 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
 * Se houverem abscessos, devem ser drenados cirurgicamente
 
 ## Parametrite
+
 * É a infecção do tecido conectivo fibroareolar, parametrial
 * decorrente, na maioria das vezes, de lacerações do colo e da vagina, em que o germe se propaga pela via linfática
 * O local de eleição é o tecido parametrial laterocervical (unilateral em 70% dos casos)
 * podendo haver, todavia, invasão anterior (paracistite) ou posterior (pararretite), além da incursão ao ligamento largo.
 * **Temperatura elevada que persiste por mais de 10 dias sugere parametrite**
   * Ela aumenta gradativamente e, em pouco tempo, **chega a 39 a 39,5°C**, com remissões matutinas
-* O toque vaginal desperta dor intensa, o que revela endurecimento dos paramétrios
+* O toque vaginal desperta dor intensa, o que revela **endurecimento dos paramétrios**
 * Se não for tratado em tempo, o processo evolve para supuração e flutuação
   * transformando-se em abscesso do paramétrio ou do ligamento largo
 * O prognóstico costuma ser favorável
 
 ### Tratamento
+
 * baseia-se no emprego de antibióticos e anti-inflamatórios
-* Quando há formação de abscessos, deve-se drenar pela via vaginal ou abdominal (flegmão do ligamento largo)
+* Quando há formação de abscessos, **deve-se drenar pela via vaginal ou abdominal** (flegmão do ligamento largo)
   * com mobilização da mecha no 2º ou no 3º dia
   * sendo retirada completamente apenas quando terminada a exsudação
 
 ## Anexite (salpingite e ovarite)
+
 * São representadas por infecção e inflamação das tubas uterinas e dos ovários
-* São mais frequentes as salpingites do que as ovarites, e surgem após abortamentos infectados e partos vaginais prolongados
+* São mais frequentes as **salpingites** do que as ovarites, e surgem após **abortamentos infectados** e partos vaginais prolongados
 * Na fase aguda (**endossalpingite**), as tubas uterinas inicialmente se apresentam
   * endurecidas
   * tumefeitas
   * com acolamento precoce das fímbrias e obliteração tubária
-* daí a retenção da exsudação purulenta que forma a piossalpinge
+* daí a retenção da exsudação purulenta que forma a **piossalpinge**
 * A salpingite pode evoluir para absorção do material com recuperação parcial do órgão
-  * comumente deixando a sequela de obstrução tubária,
+  * comumente deixando a sequela de **obstrução tubária**,
   * ou evoluir para a forma subaguda, em que o processo organiza-se, formando o tumor inflamatório anexial.
 * A seguir, ocorre progressão para cronicidade, podendo deixar como sequela a **hidrossalpinge**,
 * ou continua a prosperar, de maneira aguda, como nas formas sépticas, atingindo a serosa peritoneal (**peritonite**)
 * Além disso, a infecção pode alcançar os ovários, desencadeando a **ovarite**
 * Clinicamente, inicia-se com
-  * dor abdominal aguda, predominando nas fossas ilíacas
-  * febre alta (39 a 39,5°C)
-  * discreta defesa abdominal
+  * **dor abdominal aguda, predominando nas fossas ilíacas**
+  * **febre alta** (39 a 39,5°C)
+  * **discreta defesa abdominal**
 * O toque genital revela
   * grande sensibilidade dos anexos
   * O toque de fundos de saco é doloroso
@@ -386,10 +408,12 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
 * Nos quadros mais graves, pode haver irritação peritoneal e descompressão positiva.
 
 ### Tratamento
+
 * O tratamento é feito por antibióticos
-* Em raros casos, por motivo da possibilidade de ruptura de piossalpinge, há necessidade de realizar a salpingectomia
+* Em raros casos, por motivo da possibilidade de **ruptura de piossalpinge**, há necessidade de realizar a **salpingectomia**
 
 ## Peritonite
+
 * A peritonite generalizada intercorre quando o microrganismo é muito virulento
   * como no caso do estreptococo beta-hemolítico
 * A pelviperitonite acompanha muitas formas de infecção puerperal localizada:
@@ -399,7 +423,7 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
 * **Clinicamente**
   * surge dor intensa e defesa muscular no baixo-ventre
   * febre alta (40°C)
-  * perturbação funcional dos intestinos, com retenção de gases e fezes (íleo paralítico)
+  * perturbação funcional dos intestinos, com retenção de gases e fezes (**íleo paralítico**)
   * pulso a 140
   * A pelviperitonite pode ser acompanhada de sintomas como
     * diarréia
@@ -407,17 +431,18 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
     * dor em baixo ventre
 * **Exame físico**
   * O exame vaginal traz mais informações no caso de pelviperitonite
-    * dor ao toque de fundos de saco – sinal de Proust
+    * dor ao toque de fundos de saco – **sinal de Proust**
     * dor à mobilização uterina
     * abaulamentos de fundos de saco (quando há coleção purulenta)
   * enquanto o exame abdominal mostra os achados de peritonite
     * distensão abdominal,
     * dor à palpação superficial e/ou profunda
-    * descompressão brusca positiva
+    * descompressão brusca positiva - **sinal de Blumberg**
 
 
 ### Tratamento
-* Quando há abscesso no fundo de saco de Douglas, pratica-se a colpotomia e a drenagem
+
+* Quando há **abscesso** no fundo de saco de Douglas, pratica-se a **colpotomia** e a **drenagem**
 * Outros só indicam essa operação se a paciente estiver em
   * bom estado geral e com
   * abdome flácido
@@ -429,53 +454,55 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
   * possível formação de lojas purulentas em outras regiões da cavidade abdominal
   * tromboflebite pélvica séptica
   * e septicemia
-* O tratamento da peritonite generalizada há muito baseia-se na **laparotomia**, que possibilita a aspiração do exsudato livre a fim de reduzir a absorção tóxica
+* O tratamento da peritonite generalizada há muito baseia-se na **laparotomia**, que possibilita a **aspiração do exsudato livre a fim de reduzir a absorção tóxica**
   * Os focos sépticos devem ser incisados por via abdominal
-* a colpotomia é insuficiente, porque lojas purulentas podem surgir até no espaço subdiafragmático
+  * a colpotomia é insuficiente, porque lojas purulentas podem surgir até no espaço subdiafragmático
   * Os drenos são deixados nas fossas ilíacas
-  * Antes de se fechar a cavidade abdominal, é conveniente proceder à lavagem peritoneal com solução fisiológica e aí colocar ampicilina
-* Dependendo do estado geral da paciente e da precocidade da laparotomia, pode-se considerar a retirada do útero quando nele está o foco septicêmico
+  * Antes de se fechar a cavidade abdominal, é conveniente proceder à **lavagem peritoneal com solução fisiológica** e aí colocar ampicilina
+  * Dependendo do estado geral da paciente e da precocidade da laparotomia, pode-se considerar a retirada do útero quando nele está o foco septicêmico
 
 ![img](/assets/obstetricia/infeccao-puerperal/colpo.jpeg)
 
 ## Tromboflebite pélvica séptica
-É diagnósicada por exclusão. Suspeita-se quando a febre persiste após a antibioticoterapia.
 
-* Costuma ser o ponto de partida da pioemia (êmbolos sépticos), determinando abscessos renais, pulmonares e de outros órgãos
+É diagnósicada por exclusão. Suspeita-se quando a **febre persiste após a antibioticoterapia**.
+
+* Costuma ser o ponto de partida da pioemia (êmbolos sépticos), determinando **abscessos renais, pulmonares e de outros órgãos**
 * Não provoca embolia pulmonar maciça mortal
 * É de ocorrência rara, mas extremamente preocupante pelo risco de embolização pulmonar.
-* Os agentes infecciosos geralmente são os anaeróbios:
+* Os agentes infecciosos **geralmente são os anaeróbios**:
   * peptococos
   * peptoestreptococos
   * Bacteroides
 * Cerca de dois terços das pacientes apresentam febre e calafrios, e muitas também apresentam taquicardia e taquipneia
 * Mais de 20% refere
-  * dor torácica
-  * apresenta tosse e hemoptise
+  * **dor torácica**
+  * **apresenta tosse e hemoptise**
 * **Há dois quadros clínicos distintos:**
   * Um menos ostensivo, com febre persistente apesar dos antibióticos, paciente ambulatorial, sem dor ou com dor mal localizada.
     * Achados mínimos e vagos aos exames pélvico e abdominal.
   * O outro refere-se à **trombose da veia ovariana**
     * complica menos de 0,05% dos partos vaginais e até 1 a 2% dos partos cesáreos.
-    * afeta a veia direita em mais de 90% dos casos
+    * afeta a **veia direita** em mais de 90% dos casos
       * em decorrência da dextrorrotação fisiológica do útero durante a gravidez, que leva à compressão do vaso desse lado
     * Atualmente, discute-se a sua etiologia infecciosa
     * Os sinais/sintomas mais comuns são
-      * febre
-      * dor pélvica
-      * massa abdominal palpável
+      * **febre**
+      * **dor pélvica**
+      * **massa abdominal palpável**
     * Na maioria dos casos, a trombose da veia ovariana não é diagnosticada até que a febre não responsiva aos antibióticos após 48h faz suspeitar da afecção
-    * O trombo pode levar a outras complicações, das quais a mais comum é a embolia pulmonar
+    * O trombo pode levar a outras complicações, das quais a mais comum é a **embolia pulmonar**
       * que pode ocorrer em mais de 10% dos casos
-    * Infarto ovariano, obstrução ureteral e até o óbito da paciente também podem ocorrer
-    * O método de eleição para o diagnóstico é a TC com ou sem contraste
+    * **Infarto ovariano, obstrução ureteral e até o óbito** da paciente também podem ocorrer
+    * O método de eleição para o diagnóstico é a **TC com ou sem contraste**
     * A USG traz poucos subsídios
       * afasta apenas a possibilidade de abscessos pélvicos ou tubo-ovarianos decorrentes da infecção puerperal
 
 ### Tratamento
+
 * O melhor tratamento para a tromboflebite pélvica séptica, inclusive o da trombose da veia ovariana, é o **antibiótico em combinação com o anticoagulante**
-  * Deve-se iniciar com **heparina** de baixo peso molecular (HBPM), no caso, enoxaparina em dose terapêutica: 1 mg/kg, 12/12h, 1 ou 1,5 mg/kg, 24/24h, por injeção SC
-    * Após o curso inicial com enoxaparina, associa-se o anticoagulante oral varfarina (10 mg/dia), e depois suspende-se a heparina
+  * Deve-se iniciar com **heparina** de baixo peso molecular (**HBPM**), no caso, **enoxaparina** em dose terapêutica: 1 mg/kg, 12/12h, 1 ou 1,5 mg/kg, 24/24h, por injeção SC
+    * Após o curso inicial com enoxaparina, associa-se o anticoagulante oral **varfarina** (10 mg/dia), e depois suspende-se a heparina
     * Nesse período, o índice normalizado internacional (INR) deve ficar entre 2,0 e 3,0
   * Muitos autores recomendam continuar os antibióticos por 48 a 72h e os anticoagulantes por, no mínimo, 7 a 10 dias após a resolução da febre
   * Se o trombo estender-se à veia renal ou à veia cava inferior, como mostrado por TC, a varfarina deve ser mantida por 3 meses
@@ -483,7 +510,8 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
 * Admissão na UTI
 
 ## Choque septicêmico
-* O principal responsável é a E. coli, raramente os clostrídios e os bacteroides
+
+* O principal responsável é a _E. coli_, raramente os clostrídios e os bacteroides
 * O prognóstico é grave, embora em pacientes obstétricas a mortalidade seja mais baixa, de 20 a 25%.
 * Precede o choque a septicemia, cujos sintomas são:
   * calafrios
@@ -491,9 +519,9 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
   * taquicardia (120 a 140 bpm)
   * mau estado geral
 * A hipertermia torna-se contínua, com poucas oscilações, o que a diferencia dos processos supurativos localizados
-* Paradoxalmente
-  * o útero pode não estar doloroso nem aumentado de volume
-  * e o corrimento loquial, ausente ou discreto
+* **Paradoxalmente**
+  * **o útero pode não estar doloroso nem aumentado de volume**;
+  * **e o corrimento loquial, ausente ou discreto**;
 * Indicativos de choque séptico:
   * Calafrios
   * Febre (pode estar ausente)
@@ -519,6 +547,7 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
     * Ou presença de > 10% de formas jovens (bastões)
 
 ### Tratamento
+
 * Admissão em UTI
 * A cultura do sangue é exame obrigatório para identificar o germe
 * Nos casos de infecção por _Clostridium_, se estiverem presentes os sinais ominosos descritos no quadro clínico, está indicada a **histerectomia total com anexectomia bilateral**
@@ -527,6 +556,7 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
 ![img](/assets/obstetricia/infeccao-puerperal/sepse-tto.jpeg)
 
 ## ITU[^cisam]
+
 * Em torno de 2% a 4% das puérperas desenvolve ITU
 * Após o parto, bexiga e o trato urinário inferior permanecem com algum grau de hipotonia, resultando em urina residual e possibilidade de refluxo vésico-ureteral
   * Esta alteração fisiológica, agregada à cateterização vesical, traumatismos de parto, anestesia de condução, freqüentes exames pélvicos e proximidade com o períneo, são suficientes para explicar a alta incidência de ITU no puerpério
@@ -549,6 +579,7 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
 * Sempre que possível deve ser colhida cultura urinária antes de iniciar a antibioticoterapia
 
 ### Tratamento
+
 * Antibióticos são o tratamento de escolha
 * Em infecções baixas podem ser utilizadas, por via oral, a **nitrofurantoína, cefalosporinas ou ampicilina**
 * A pielonefrite requer o uso inicial de terapia com altas doses de antibiótico intravenoso
@@ -562,6 +593,7 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
 
 
 ## Classificação em grupos de risco
+
 * **Muito alto** (risco de infecção de 40 a 85%): operação cesariana após parto e amniorrexe de 6 a 12h, com múltiplos exames vaginais em mulheres indigentes
 * **Alto** (risco de 10 a 40%):
   * operação cesariana após parto e amniorrexe de > 6h ou cesárea eletiva em mulheres indigentes.
@@ -570,10 +602,11 @@ fáscia profunda, estendendo-se até nádegas e coxas – é o quadro de fascií
 * **Baixo** (risco de 1 a 3%): parto vaginal não complicado
 
 ## Diagnóstico
+
 No quadro clínico, a **febre** ainda é o melhor sinal para o diagnóstico da infecção puerperal.
 
 O laboratório pouco oferece
-* Leucocitose é comum após o parto
+* **Leucocitose é comum após o parto**
 * Culturas têm pouca serventia
 
 O diagnóstico da **tromboflebite pélvica séptica** é feito atualmente com **TC ou RM**.
