@@ -1,9 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-21T19:49:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença trofoblástica gestacional</title><link href="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional" rel="alternate" type="text/html" title="Doença trofoblástica gestacional" /><published>2019-08-21T00:00:00-03:00</published><updated>2019-08-21T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional</id><content type="html" xml:base="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-21T22:55:31-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença trofoblástica gestacional</title><link href="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional" rel="alternate" type="text/html" title="Doença trofoblástica gestacional" /><published>2019-08-21T00:00:00-03:00</published><updated>2019-08-21T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional</id><content type="html" xml:base="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#mola-hidatiforme&quot; id=&quot;markdown-toc-mola-hidatiforme&quot;&gt;Mola hidatiforme&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#usg&quot; id=&quot;markdown-toc-usg&quot;&gt;USG&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#aspiração-a-vácuo&quot; id=&quot;markdown-toc-aspiração-a-vácuo&quot;&gt;Aspiração a vácuo&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;DTG é o termo usado para nomear os tumores do trofoblasto viloso placentário, englobando as várias formas da MH, mola invasora, coriocarcinoma, PSTT e ETT&lt;/p&gt;
@@ -166,7 +169,17 @@ difusas (Figura 29.10).&lt;/p&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Em pacientes com fundo uterino maior que 16 cm, dosagens de TSH, T4 livre e eletrocardiograma também
-devem ser solicitados.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry><entry><title type="html">Fórceps</title><link href="http://localhost:4000/obstetricia/forceps" rel="alternate" type="text/html" title="Fórceps" /><published>2019-08-17T00:00:00-03:00</published><updated>2019-08-17T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/forceps</id><content type="html" xml:base="http://localhost:4000/obstetricia/forceps">&lt;ul id=&quot;markdown-toc&quot;&gt;
+devem ser solicitados.&lt;/p&gt;
+
+&lt;h3 id=&quot;aspiração-a-vácuo&quot;&gt;Aspiração a vácuo&lt;/h3&gt;
+
+&lt;p&gt;É o método de eleição para o esvaziamento molar. &lt;strong&gt;Cuidados devem ser redobrados em úteros grandes&lt;/strong&gt; (14 a 16 semanas ou mais). O procedimento inclui a dilatação cervical e costuma ser realizado
+sob anestesia geral. Nos casos em que se precisa dilatar o colo uterino, não se devem usar as velas de Hegar,
+de metal, pelo maior risco de perfuração uterina, optando-se pelas próprias cânulas de aspiração manual,
+progressivamente introduzidas no canal cervical, até o número 8.&lt;/p&gt;
+
+&lt;p&gt;Ocitocina intravenosa deve ser infundida após a
+dilatação do colo antes do esvaziamento e mantida por muitas horas no pós-operatório.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry><entry><title type="html">Fórceps</title><link href="http://localhost:4000/obstetricia/forceps" rel="alternate" type="text/html" title="Fórceps" /><published>2019-08-17T00:00:00-03:00</published><updated>2019-08-17T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/forceps</id><content type="html" xml:base="http://localhost:4000/obstetricia/forceps">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fórceps-de-simpson&quot; id=&quot;markdown-toc-fórceps-de-simpson&quot;&gt;Fórceps de Simpson&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fórceps-de-kielland&quot; id=&quot;markdown-toc-fórceps-de-kielland&quot;&gt;Fórceps de Kielland&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#indicações&quot; id=&quot;markdown-toc-indicações&quot;&gt;Indicações&lt;/a&gt;&lt;/li&gt;

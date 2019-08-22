@@ -157,3 +157,13 @@ Para pacientes nas quais há suspeita de gestação molar, antes do esvaziamento
 
 Em pacientes com fundo uterino maior que 16 cm, dosagens de TSH, T4 livre e eletrocardiograma também
 devem ser solicitados.
+
+### Aspiração a vácuo
+
+É o método de eleição para o esvaziamento molar. **Cuidados devem ser redobrados em úteros grandes** (14 a 16 semanas ou mais). O procedimento inclui a dilatação cervical e costuma ser realizado
+sob anestesia geral. Nos casos em que se precisa dilatar o colo uterino, não se devem usar as velas de Hegar,
+de metal, pelo maior risco de perfuração uterina, optando-se pelas próprias cânulas de aspiração manual,
+progressivamente introduzidas no canal cervical, até o número 8.
+
+Ocitocina intravenosa deve ser infundida após a
+dilatação do colo antes do esvaziamento e mantida por muitas horas no pós-operatório.
