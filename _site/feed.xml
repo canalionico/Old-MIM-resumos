@@ -1,4 +1,401 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-21T22:55:31-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Doença trofoblástica gestacional</title><link href="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional" rel="alternate" type="text/html" title="Doença trofoblástica gestacional" /><published>2019-08-21T00:00:00-03:00</published><updated>2019-08-21T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional</id><content type="html" xml:base="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-31T13:51:52-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Pancreatite crônica</title><link href="http://localhost:4000/cirurgia/pancreatite-cronica" rel="alternate" type="text/html" title="Pancreatite crônica" /><published>2019-08-28T00:00:00-03:00</published><updated>2019-08-28T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/pancreatite-cronica</id><content type="html" xml:base="http://localhost:4000/cirurgia/pancreatite-cronica">&lt;p&gt;Se tirar a cabeça do pâncreas então é necessário tirar o duodeno. Isso pois, do contrário o duodeno necrosaria, uma vez que a irrigação deste vem das artérias que se originam da cabeça do pâncreas e são ressecadas junto com o pâncreas.&lt;/p&gt;
+
+&lt;p&gt;Para chegar ao pâncreas, um órgão retrocavitário, é necessário abrir o grande ou o pequeno epíplon. E, assim, ter acesso à cavidade retro peritoneal.&lt;/p&gt;
+
+&lt;p&gt;O pâncreas tem dois parênquimas (um endócrino e um exócrino) e um mesenquima.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enócrino (ilhotas)
+    &lt;ul&gt;
+      &lt;li&gt;10 a 25% da volemia&lt;/li&gt;
+      &lt;li&gt;2% da massa pancreática&lt;/li&gt;
+      &lt;li&gt;Hormônios: insulina, glucagon, somatostatina, peptideo alguma coisa&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exócrino
+    &lt;ul&gt;
+      &lt;li&gt;Células acinares: intensa síntese proteica (cloro) e estimulada pela CCK (pancreozimina)&lt;/li&gt;
+      &lt;li&gt;Células ductais: síntese hidroeletrolítica (HCO3) e estimulado pela secretina&lt;/li&gt;
+      &lt;li&gt;Fluxo pancreático: 2 L (pH 8 a 8,5), sódio e cloro iguais aos séricos, bicarbonato e cloro constante.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tumor de cabeça do pâncreas clássico:
+&lt;strong&gt;Adenocarcinoma ductal&lt;/strong&gt;, que nasce geralmente nos ductos principais da cabeça do pâncreas.&lt;/p&gt;
+
+&lt;p&gt;Pancreatite: três grandes tipos, calcificante (relação com o consumo de álcool), obstutiva e inflamatória.&lt;/p&gt;
+
+&lt;p&gt;Lesões de cístos de retenção e ductos dilatados, um sinal comum na pancreatite crônica.&lt;/p&gt;
+
+&lt;p&gt;Pseudocisto de pâncreas: não maligniza. O tratamento é a drenagem. Diferentemente do agudo, o crônico tem paredes bem definidas.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dor&lt;/li&gt;
+  &lt;li&gt;Emagrecimento&lt;/li&gt;
+  &lt;li&gt;Anorexia&lt;/li&gt;
+  &lt;li&gt;Icterícia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Muitas patologias do pâncreas podem cursar com icterícia pois o colédoco adentra a massa pâncreatica no caminho até o duodeno.&lt;/p&gt;
+
+&lt;p&gt;Hipertensão porta segmentar por trombose ou compressão da veia esplênica que passa por trás do pâncreas.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;É possível ver calcificações dos ductos por cálculos. Podem ser vistas nas radiografias de abdome.&lt;/p&gt;
+
+&lt;p&gt;Pode existir derrame pleural pâncreativo. Identificado com alta concentração de amilase (algo como 10 mil) na secreção do derrame.&lt;/p&gt;
+
+&lt;p&gt;Pancreatite autoimune: é uma doença sistemica ligada a imunoglobulina IgG4, FAN positivo, aumento difuso do pâncreas, estreitamento difuso irregular do DPP, estenose extrínseca do colédoco terminal, boa resposta a corticóides. Não é uma doença cirúrgica.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fase aguda
+    &lt;ul&gt;
+      &lt;li&gt;Observação&lt;/li&gt;
+      &lt;li&gt;Punção esvaziadora&lt;/li&gt;
+      &lt;li&gt;Drenagem percutânea&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fase crônica
+    &lt;ul&gt;
+      &lt;li&gt;Pseudocisto - gatrotomia&lt;/li&gt;
+      &lt;li&gt;Pseudocisto - duodenostomia&lt;/li&gt;
+      &lt;li&gt;Pseudocisto - jejunostomia (alça ou Y de Roux)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A principal cirurgia de pancreatite crônica é a &lt;strong&gt;cirurgia de Puestow&lt;/strong&gt;: pancreatojejunostomia latero lateral. É baseada em descompressão, nada é ressecado.&lt;/p&gt;
+
+&lt;p&gt;Operação de Beger: nesse caso não se tira o duodeno pois parte da cabeça pancreática é preservada, junto com a cadeia vascular que irriga o duodeno.&lt;/p&gt;
+
+&lt;p&gt;Operação de Frey: uma alteração na cirurgia de Beger em que se resseca um pouco menos da cabeça pancreática, preservando o colédoco.&lt;/p&gt;
+
+&lt;p&gt;Coledocojejuno anastomose.&lt;/p&gt;
+
+&lt;p&gt;Gastrojejunostomia.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Se tirar a cabeça do pâncreas então é necessário tirar o duodeno. Isso pois, do contrário o duodeno necrosaria, uma vez que a irrigação deste vem das artérias que se originam da cabeça do pâncreas e são ressecadas junto com o pâncreas.</summary></entry><entry><title type="html">Pancreatite</title><link href="http://localhost:4000/gastroenterologia/pancreatite" rel="alternate" type="text/html" title="Pancreatite" /><published>2019-08-28T00:00:00-03:00</published><updated>2019-08-28T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/pancreatite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/pancreatite">&lt;p&gt;O pâncreas é um órgão retroperitoneal e díficil de acessar ao exame físico. Em patologias do pâncreas  o paciente pode assumir uma postura antiálgica, como a genopeitoral.&lt;/p&gt;
+
+&lt;p&gt;É a inflamação do pâncreas e pode ser dividida em aguda e crônica. Na crônica ocorrem deformações importantes da glândula, como necrose, fibrose, calcificações. O pâncreas possui dois parênquimas, um endócrino e outro exócrino.&lt;/p&gt;
+
+&lt;p&gt;No pâncreas endócrino, as células alfa produzem glucaon, as beta, insulina, e as gama, somatostatina.&lt;/p&gt;
+
+&lt;p&gt;O pâncreas exócrino produz o suco pacreático, composto de enzimas e bicarbonato. Dentre as enzimas, estão as lipases, tripsina, elastase, etc.&lt;/p&gt;
+
+&lt;p&gt;O tripsinogênio necessita de cálcio para sua ativação em tripsina. Essa tripsina ativa as procarboxipeptidades (a e b), a proelastase, entre outras.
+A lipase não necessita dessa ativação pois já é secretada na sua forma ativa.&lt;/p&gt;
+
+&lt;p&gt;Alguns fatores podem fazer com que as enzimas sejam ativadas antes do tempo ideal e comecem a danificar o tecido pancreático. Uma delas é a obstrução do ducto pancreático. A causa número um de pancreatite é a litíase biliar. Numa obstrução, por exemplo, da papila, irá ocorrer uma estase. A bile com a passagem interrompida sofre refluxo, inclusive para o próprio pâncreas. Essa bile contêm componentes tóxicos que agridem o pâncreas. Essas enzimas podem tornar-se ativas e degradarem os tecidos pancreáticos e peri pancreáticos.&lt;/p&gt;
+
+&lt;p&gt;A segunda  maior causa de pancreatite aguda é o álcool. Ele na verdade é muito mais importante na pancreatite crônica. Ocorre formação de rolhas ou tampões proteícos precipitados pelo álcool que obstrui os ductos pancreáticos e causam deformações.&lt;/p&gt;
+
+&lt;p&gt;Drogas também podem provocar pancreatite, como azatioprina. Até componentes tóxicos como veneno de abelha ou de cobra podem causa pancreatite.&lt;/p&gt;
+
+&lt;p&gt;Também existem raros relatos de áscaris provocando obstrução e pancreatite.&lt;/p&gt;
+
+&lt;p&gt;Já em crianças, a principal causa de pancreatite aguda é a traumática. Principalmente o trauma fechado.&lt;/p&gt;
+
+&lt;p&gt;Anatomia: o ducto pancreático principal (de Wirson) e o ducto secundário (de Santorini). O pâncreas está estreitamente relacionado ao duodeno.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Quando se fala em pancreatite aguda já se deve pensar logo em dor abdominal e elevação de enzimas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sintomas mais frequentes
+    &lt;ol&gt;
+      &lt;li&gt;Dor abdominal: a decrição clássica é uma dor em barra ou “em cinta” que melhora com a posição genupeitoral.&lt;/li&gt;
+      &lt;li&gt;Nâuseas e vômitos&lt;/li&gt;
+      &lt;li&gt;Taquicardia&lt;/li&gt;
+      &lt;li&gt;Febre baixa&lt;/li&gt;
+      &lt;li&gt;Defesa abdominal: às custas de irritação peritoneal&lt;/li&gt;
+      &lt;li&gt;Diminuição do ruído intestinal: pode haver até o íleo paralítico&lt;/li&gt;
+      &lt;li&gt;Icterícia (&amp;lt; 20%)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pancreatite
+    &lt;ul&gt;
+      &lt;li&gt;Forma: edematosas ou intersticiais: forma mais leve&lt;/li&gt;
+      &lt;li&gt;Forma necrosante: evoluem com complicação grave e possue alto índice de mortalidade.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A falha no diagnóstico pode acontecer pois nem sempre o quadro é típico. A dor, por exemplo, pode nem sempre estar presente.E, além disso, pode ocorrer falso negativo nos exames complementares. Um paciente que já der entrada na emergência com falência de múltiplos órgãos, coma ou insuficiência respiratória, dificultará muito a identificação da etiologia.&lt;/p&gt;
+
+&lt;p&gt;A história natural da pancreatite litíasica costuma ser mais grave do que a alcóolica. Pois, nesta, a interrupção do alcolismo já traz melhoras no paciente.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complicações da pancreatite aguda:
+    &lt;ul&gt;
+      &lt;li&gt;Precoce (&amp;lt; 1 semana)
+        &lt;ul&gt;
+          &lt;li&gt;Síndrome da resposta inflamatória sistêmica&lt;/li&gt;
+          &lt;li&gt;Falência de múltiplos órgãos&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Tardia (&amp;gt; 1 semana)
+        &lt;ul&gt;
+          &lt;li&gt;Falência de múltiplos órgãos&lt;/li&gt;
+          &lt;li&gt;Infecções pancreáticas ou sepse&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Quando ocorre derrame pleural costuma ser mais a esquerda, devido à própria topografia do pâncreas que se localiza mais a esquerda.&lt;/p&gt;
+
+&lt;p&gt;Pode ocorrer a síndrome de desconforto respiratório do adulto.&lt;/p&gt;
+
+&lt;h3 id=&quot;respostas-sistêmicas&quot;&gt;Respostas sistêmicas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SIRS: dois ou mais dos critério clínicos abaixo
+    &lt;ul&gt;
+      &lt;li&gt;Temp &amp;gt; 38 ou &amp;lt; 36&lt;/li&gt;
+      &lt;li&gt;FR &amp;lt; 24&lt;/li&gt;
+      &lt;li&gt;FC &amp;gt; 90&lt;/li&gt;
+      &lt;li&gt;Leucócitos &amp;gt; 12.000 ou &amp;lt; 4.000&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Síndrome da dispunsão de múltiplos órgãos:disfunção de mais de um órgão que requer intervenção para manter a homeostase&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O rim costuma ser o primeiro órgão afetado devido à hipovolemia (mecanismo pré-renal) que pode ser revertido apenas com a reposição de volume. Pode até ser necessário iniciar uma hemodiálise.&lt;/p&gt;
+
+&lt;h3 id=&quot;indicadores-precoces-de-severidade&quot;&gt;Indicadores precoces de severidade&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Taquicardia e hipotensão&lt;/li&gt;
+  &lt;li&gt;Taquipnéia e hipoxemia&lt;/li&gt;
+  &lt;li&gt;Hemoconcentração&lt;/li&gt;
+  &lt;li&gt;Oligúria&lt;/li&gt;
+  &lt;li&gt;Encefalopatia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os sinais clássicos de pancreatite na verdade são sinais de gravidade e indicadores de patologia avançada com quadro grave:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sinal de Gray-Tuner: equimose em flancos&lt;/li&gt;
+  &lt;li&gt;Sinal de Cullen: equimose periumbilical&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-laboratoriais&quot;&gt;Exames laboratoriais&lt;/h2&gt;
+
+&lt;p&gt;As enzimas séricas lipase e amilase. Elas são sensíveis mas não são muito específicas. Contudo, um aumento 3 x além dos valores normais já aumenta a taxa de especificidade.&lt;/p&gt;
+
+&lt;p&gt;No início a lipase e a amilase aumentam quase que na mesma velocidade, mas a lipase costuma subir mais rapido.&lt;/p&gt;
+
+&lt;p&gt;Contudo, existem várias outras situações em que a amilase sérica pode estar elevada, como: parotidite, colecistite, úlcera péptica, gravidez ectópica, colangite, cálculo renal, obstrução intestinal, isquemia ou perfuração. Mas dificilmente a elevação será tão alta quanto na pancreatite aguda. De forma geral, a lipase costuma ser mais específica que a amilase. A amilase pancreática e a salivar ainda podem ser difereniadas pelo laboratório, nos casos de dúvida com parotidite.&lt;/p&gt;
+
+&lt;p&gt;A dosagem da PCR (proteína C reativa) é importante como marcador de infecção e de progressão desse estado infeccioso. Ela demora umas 24 horas a se elevar mas cai mais lentamente. Já o PAT, se eleva rapidamente mas cai em até 72 horas.&lt;/p&gt;
+
+&lt;p&gt;A dosagem de cálcio também é importante. Ocorre hipocalcemia (valores &amp;lt; 7). A perda de cálcio não ionizado se dá por mecanismo dilucional enquanto que a perda do ionizado não tem mecanismo ainda conhecido, e sua precicipatação de cálcio pode levar a quadros de necrose gordurosa. O ácido graxo liberado pela reação da lipase se liga ao cálcio, produzindo necrose gordurosa. Quantos mais baixos os níveis de cálcio, mais grave é o quadro de pancreatite.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-de-imagem&quot;&gt;Exames de imagem&lt;/h2&gt;
+
+&lt;p&gt;USG, TC com e sem contraste endovenoso. Não são muito sensíveis mas são mais específicos que a dosagem de enzimas. A USG ainda pode evidenciar cálculos na vesícula. O TC pode mostrar regiões de calcificação, edemas e coleções pancreáticas. Já a TC com contraste pode detectar áreas de necrose.&lt;/p&gt;
+
+&lt;p&gt;O USG não é muito feliz para avaliar o pâncreas. A presença de muito ar nas vísceras ócas dificulta a difereniação das estruturas pela sonografia, uma vez que esse método necessita de tecidos com diferenças de densidade para formar a imagem. Como é um exame pouco invasivo, pe interessante pois já consegue excluir uma grande gama de causas de abdome agudo.&lt;/p&gt;
+
+&lt;p&gt;A radiografia de tórax pode mostrar um derrame pleural ou atelectasias. No abdome pode mostrar distensão de alças, ascite, calcificações pancreáticas (indicador de cronicidade).&lt;/p&gt;
+
+&lt;p&gt;Outros: CPRM, CPRE, PET. Inclusive, a realização da &lt;strong&gt;CPRE pode provocar uma pancreatite iatrogênica&lt;/strong&gt;, devido à injeção de contraste sob pressão.&lt;/p&gt;
+
+&lt;p&gt;Sinal de &lt;em&gt;cut-off&lt;/em&gt; no colon: impede que o ar continue distendendo a alça como normalmente ocorre.&lt;/p&gt;
+
+&lt;p&gt;A coleção líquida na pancreatite aguda pode ser uma necrose, um abcesso ou um pseudocisto.
+O pseudocisto não é um cisto pois não possui as camas que caracterizam um cisto. É necessário quase um mês para que ele se forme.&lt;/p&gt;
+
+&lt;h2 id=&quot;critérios-prognósticos&quot;&gt;Critérios prognósticos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sistemas de escore: Ransom, Glasgow, Apache, Rabenek&lt;/li&gt;
+  &lt;li&gt;Marcadores sorológicos
+    &lt;ul&gt;
+      &lt;li&gt;Peptídio de ativação do tripsinogênio (PAT)&lt;/li&gt;
+      &lt;li&gt;Proteína C reativa&lt;/li&gt;
+      &lt;li&gt;Citocinas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Critérios de TC
+    &lt;ul&gt;
+      &lt;li&gt;Coleções&lt;/li&gt;
+      &lt;li&gt;Necrose&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O pâncreas é um órgão retroperitoneal e díficil de acessar ao exame físico. Em patologias do pâncreas o paciente pode assumir uma postura antiálgica, como a genopeitoral.</summary></entry><entry><title type="html">Icterícia obstrutiva</title><link href="http://localhost:4000/cirurgia/ictericia-obstrutiva" rel="alternate" type="text/html" title="Icterícia obstrutiva" /><published>2019-08-27T00:00:00-03:00</published><updated>2019-08-27T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/ictericia-obstrutiva</id><content type="html" xml:base="http://localhost:4000/cirurgia/ictericia-obstrutiva">&lt;p&gt;As hemácias após 120 dias são quebradas no baço em heme, ferro e globina. A biliverdina é metabolizada em BI (não conjugada) que não é solúvel e necessita ser carreada pela albumina. Quando chega no sinusóide hepático, a BI entra nos hepatócitos e sofre a conjugação com UDPGA e ácido glicurônico. A BD (conjugada) caminha pelo restículo endoplasmático liso e é jogada dentro do canal biliar que fica entre as células hepáticas. Esses canais se juntam no ducto hepático e seguem até a vesícula biliar.&lt;/p&gt;
+
+&lt;p&gt;Durante o caminho a bile vai sendo alterada.Trocando água a sais biliares. Até mesmo na vesícula a bile continua sendo alterada e se concentrando cada vez mais.&lt;/p&gt;
+
+&lt;p&gt;Com o estímulo hormonal da CCK, a papila se abre (o colédoco não tem músculo!), e ocorre o esvaziamento por diferença pressórica.&lt;/p&gt;
+
+&lt;p&gt;A hiperbilirrubinemia pode ser indireta (pré-hepática) ou direta (pós-hepática).&lt;/p&gt;
+
+&lt;p&gt;Todo o processo de internalização e conjugação é muito fácil. O mais difícil no processo é a excreção para os canais biliares intra-hepáticos. Uma vez que deve ser transportada contra um gradiente de concentração. É por isso que em patologias do fígado a excreção de bilirrubina direta fica prejudicada e acaba sendo carreada retrogradamente até o próprio sangue.&lt;/p&gt;
+
+&lt;p&gt;Espaço de disse&lt;/p&gt;
+
+&lt;h3 id=&quot;doenças-que-aumentam-a-indireta&quot;&gt;Doenças que aumentam a indireta&lt;/h3&gt;
+&lt;p&gt;Doença de Gilbert: incapacidade de captar a bilirrubina indireta. Um defeito de captação pouco sintomático.
+Deficiencia na conjugação: Cligler najar&lt;/p&gt;
+
+&lt;h3 id=&quot;doenças-que-aumentam-a-direta&quot;&gt;Doenças que aumentam a direta&lt;/h3&gt;
+
+&lt;p&gt;Metabolismo no intestino&lt;/p&gt;
+
+&lt;p&gt;Icterícia prolongada pode ocasionar lesão renal por toxemia. Também pode aumentar o risco de infecção.&lt;/p&gt;
+
+&lt;h2 id=&quot;história-clínica&quot;&gt;História clínica&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Icterícia
+    &lt;ul&gt;
+      &lt;li&gt;BT acima de 2 a 2,5 mg%&lt;/li&gt;
+      &lt;li&gt;Não confundir com ingesta exagerada de beta-carotenos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Colúria: todo paciente com hiperbilirrubinemia direta vai apresentar a colúria, mas nem sempre a acolia fecal.&lt;/li&gt;
+  &lt;li&gt;Hipocolia ou acolia fecal: só ocorre quando há uma obstrução ou ausência TOTAL de fluxo.&lt;/li&gt;
+  &lt;li&gt;Prurido&lt;/li&gt;
+  &lt;li&gt;Dor&lt;/li&gt;
+  &lt;li&gt;Náuseas e vômitos&lt;/li&gt;
+  &lt;li&gt;Astenia, anorexia e perda de peso&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Bisu: icterpicia importante em paciente idoso sem dor - pode ser um tumor de vias biliares.&lt;/p&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Icterícia&lt;/li&gt;
+  &lt;li&gt;Hepatomegalia&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sinal de Courvoisier-Terrier&lt;/strong&gt;: vesícula palpável em paciente com icterícia obstrutiva. É um sinal clínico de dilatação de vias biliares que depois pode ser visto no USG.
+    &lt;ul&gt;
+      &lt;li&gt;Ex: tumores periampulares (ao redor da ampola de Vatter)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Massa palpável&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No tumor de Klatskin, a vesícula fica esvaziada pois a obstrução é acima da vesícula.&lt;/p&gt;
+
+&lt;p&gt;Hidropsia vesicular: a bile não passa mas também não entra e nem há colecistite aguda. Com o tempo a secreção biliar vai sendo reabsorvida e a vesícula fica grande e hidrópica. Na cirúrgia ela fica “água mineral, branquinha”. Sua dilatação não caracteriza um sinal de Courvaisier-Terrier.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;BIlirrubinas&lt;/li&gt;
+  &lt;li&gt;Transaminases&lt;/li&gt;
+  &lt;li&gt;FA&lt;/li&gt;
+  &lt;li&gt;GGT&lt;/li&gt;
+  &lt;li&gt;Nucleotidade&lt;/li&gt;
+  &lt;li&gt;Leucinoaminopeptidase&lt;/li&gt;
+  &lt;li&gt;USG - dilatação de vias biliares: pode ser feita convencionalmente, contrastada ou por via endoscópica&lt;/li&gt;
+  &lt;li&gt;TC&lt;/li&gt;
+  &lt;li&gt;RM&lt;/li&gt;
+  &lt;li&gt;Colangiorressonância&lt;/li&gt;
+  &lt;li&gt;Colangiografia transparietohepática&lt;/li&gt;
+  &lt;li&gt;CPRE - colangiopancreatografia retrógrada endoscópica (obsoleto para fins diagnósticos, mas muito utilizada para usos terapêuticos)&lt;/li&gt;
+  &lt;li&gt;Colangioscopia direta transpapilar&lt;/li&gt;
+  &lt;li&gt;Colangioscopia transparietohepática (CTPH)&lt;/li&gt;
+  &lt;li&gt;Arteriografia&lt;/li&gt;
+  &lt;li&gt;PET-Scan&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Normalmente a bile é esteril e possui alguns mecânismos de defesa: o próprio fluxol, barreiras anatômicas, produção de muco, barreiras químicas como os sais biliares, barreiras imunológicas como as células de Kupffer e imunoglobinas (IgA, IgM e IgG). Ocasionalmente microorganismos pode atingir a bile.&lt;/p&gt;
+
+&lt;h2 id=&quot;colangite&quot;&gt;Colangite&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Só existe colangite se houver obstrução biliar!!!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A flora bacteriana pode ser (entérica) de gram negativos, anaeróbios e gram positivos.&lt;/p&gt;
+
+&lt;p&gt;Em pacientes vindos de casa para cirurgia a colonização mais provável é de gram negativos. Pode ser que uma antibioticoterapia focando nesse espectro seja suficiente.&lt;/p&gt;
+
+&lt;p&gt;Se houver contato com o intestino (ex: quando se faz uma biliodigestiva), a chance de colonização com anaeróbios aumenta e deve-se cobrir esse espectro.&lt;/p&gt;
+
+&lt;p&gt;Em infecção hospitalar as maiores chances são de gram positivos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tríade de Charcot: febre (com ou sem calafrios), icterícia e dor
+    &lt;ul&gt;
+      &lt;li&gt;Possui alta especificidade para colangite&lt;/li&gt;
+      &lt;li&gt;Contudo, uma baixa sensibilidade&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pêntade de Raynoud&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O &lt;strong&gt;tratamento&lt;/strong&gt; é baseado em dois pilares: antibióticos e desobstrução das vias biliares. A dreagem pode ser endoscópica, cirúrgica ou percutânea. A drenagem pode ser: interna, externa, externa-interna.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">As hemácias após 120 dias são quebradas no baço em heme, ferro e globina. A biliverdina é metabolizada em BI (não conjugada) que não é solúvel e necessita ser carreada pela albumina. Quando chega no sinusóide hepático, a BI entra nos hepatócitos e sofre a conjugação com UDPGA e ácido glicurônico. A BD (conjugada) caminha pelo restículo endoplasmático liso e é jogada dentro do canal biliar que fica entre as células hepáticas. Esses canais se juntam no ducto hepático e seguem até a vesícula biliar.</summary></entry><entry><title type="html">Doença do refluxo gastroesofágico em crianças</title><link href="http://localhost:4000/gastroenterologia/drge-na-crianca" rel="alternate" type="text/html" title="Doença do refluxo gastroesofágico em crianças" /><published>2019-08-27T00:00:00-03:00</published><updated>2019-08-27T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/drge-na-crianca</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/drge-na-crianca">&lt;p&gt;As gofadas dos bebês são uma forma de refluxo mas não necessariamente uma doença. Os refluxos fisiológicos são normais até uns 5  a 6 meses. Quando a dieta sólida começa a ser introduzida. A partir do 1º ano de vida a gofada já deve ser investigada.&lt;/p&gt;
+
+&lt;p&gt;Na DRGE, o esfincter esofágico inferior (EEI) não funciona corretamente. Será que o refluxo é fisiológico ou patológico? Para isso é necessário fazer a phmetria. Na criança a pH-metria é feita antes da endoscopia, pois nesta é necessária sedação.&lt;/p&gt;
+
+&lt;p&gt;Se a criança tiver refluxo comprovado pela phmetria: a mãe deve ser orientada a espeçar a dieta (por exemplo, adicionando massas). O bebê deve dormir deitado.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Síndrome de Sandifer&lt;/strong&gt;: a criança assume uma posição antiálgica de lateralização da cabeça após se alimentar, para evitar ou minimizar o refluxo.&lt;/p&gt;
+
+&lt;p&gt;O tempo de esvaziamento gástrico de um lactente é de 4 horas e vai aumentando ao longo do crescimento e desenvolvimento.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Esofagite:
+    &lt;ul&gt;
+      &lt;li&gt;Dor retro-esternal (difícil de diagnosticar no lactente)&lt;/li&gt;
+      &lt;li&gt;Cólica&lt;/li&gt;
+      &lt;li&gt;Pode levar à estenose de esôfago&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Retardo do crescimento e desenvolvimento&lt;/strong&gt; (o mais importante)&lt;/li&gt;
+  &lt;li&gt;Síndrome de Sandifer&lt;/li&gt;
+  &lt;li&gt;Complicações respiratórias:
+    &lt;ul&gt;
+      &lt;li&gt;Apnéia&lt;/li&gt;
+      &lt;li&gt;Pneumonia aspirativa&lt;/li&gt;
+      &lt;li&gt;Tosse&lt;/li&gt;
+      &lt;li&gt;Aspiração com doença respiratória reativa&lt;/li&gt;
+      &lt;li&gt;Displasia broncopulmonar&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Uma das causas de bronquiolite é justamente as microaspirações por refluxo. Inclusive uma das causas de morte súbita em lactentes é a broncoaspiração de material gástrico.&lt;/p&gt;
+
+&lt;h3 id=&quot;método-de-estudo&quot;&gt;Método de estudo&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rotina geral: hemograma, parcial de urina, parasitológico e pesquisa de sangue oculto nas fezes.&lt;/li&gt;
+  &lt;li&gt;Serigrafia esôfag-gastroduodenal (SEGD)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phmetria&lt;/strong&gt; esofágica de 24 horas
+    &lt;ul&gt;
+      &lt;li&gt;Principal exame na criança!&lt;/li&gt;
+      &lt;li&gt;A relação entre doenças respiratórias e RGE tem sido associado a queda do pH &amp;lt; 5,8 na nasofaringe verificadopela phmetria com sonda de sensor alto&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Endoscopia e anatomopatológico&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Conservador: elevação do decúbito (posição semi-sentada), fragmentação da dieta e aumento da viscodidade dos alimentos.&lt;/p&gt;
+
+&lt;p&gt;Medicamentoso: Bromoprida, Domperidona, Antiácidos (IBP e antagonistas dos receptores H2 da histamina).&lt;/p&gt;
+
+&lt;p&gt;Cirúrgico: a indicação absoluta se faz quando não há resposta ao tratamento clínico, apńeia, pneumonite recorrente, esofagite.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Válvulas artificiais: Nissen e Lide&lt;/li&gt;
+  &lt;li&gt;Gastropexia (Boerema ou Hil)&lt;/li&gt;
+  &lt;li&gt;Fundoplicatura (Nissen modificado por Bois-Uchoa)&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">As gofadas dos bebês são uma forma de refluxo mas não necessariamente uma doença. Os refluxos fisiológicos são normais até uns 5 a 6 meses. Quando a dieta sólida começa a ser introduzida. A partir do 1º ano de vida a gofada já deve ser investigada.</summary></entry><entry><title type="html">Doença trofoblástica gestacional</title><link href="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional" rel="alternate" type="text/html" title="Doença trofoblástica gestacional" /><published>2019-08-21T00:00:00-03:00</published><updated>2019-08-21T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional</id><content type="html" xml:base="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#mola-hidatiforme&quot; id=&quot;markdown-toc-mola-hidatiforme&quot;&gt;Mola hidatiforme&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
@@ -1256,1010 +1653,4 @@ do, lembrar de sempre cobrir o paciente após a avaliação para prevenir hipote
   &lt;li&gt;Outros eventos relacionados ao trauma&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tumores especiais</title><link href="http://localhost:4000/mastologia/tumores-especiais" rel="alternate" type="text/html" title="Tumores especiais" /><published>2019-06-20T00:00:00-03:00</published><updated>2019-06-20T00:00:00-03:00</updated><id>http://localhost:4000/mastologia/tumores-especiais</id><content type="html" xml:base="http://localhost:4000/mastologia/tumores-especiais">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#carcinoma-ductal-in-situ-de-mama&quot; id=&quot;markdown-toc-carcinoma-ductal-in-situ-de-mama&quot;&gt;Carcinoma Ductal in Situ de Mama&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#carcinoma-de-paget&quot; id=&quot;markdown-toc-carcinoma-de-paget&quot;&gt;Carcinoma de Paget&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#carcinoma-inflamatório&quot; id=&quot;markdown-toc-carcinoma-inflamatório&quot;&gt;Carcinoma Inflamatório&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#carcinoma-de-mama-em-homem&quot; id=&quot;markdown-toc-carcinoma-de-mama-em-homem&quot;&gt;Carcinoma de mama em homem&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tumor-filóide&quot; id=&quot;markdown-toc-tumor-filóide&quot;&gt;Tumor Filóide&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#sarcomas&quot; id=&quot;markdown-toc-sarcomas&quot;&gt;Sarcomas&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;carcinoma-ductal-in-situ-de-mama&quot;&gt;Carcinoma Ductal in Situ de Mama&lt;/h2&gt;
-
-&lt;p&gt;O CDIS, é uma forma inicial de neoplasia em que as células com características malignas
-não invadem a membrana basal subepitelial.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Corresponde a &lt;strong&gt;10 a 30%&lt;/strong&gt; dos casos de CA de mama.&lt;/li&gt;
-  &lt;li&gt;É difícil se prever a evolução natural desse tipo de lesão.&lt;/li&gt;
-  &lt;li&gt;Conforme classificação histológica pode ser subdividido em:
-    &lt;ul&gt;
-      &lt;li&gt;Cribiforme&lt;/li&gt;
-      &lt;li&gt;Micropapilar&lt;/li&gt;
-      &lt;li&gt;Sólido&lt;/li&gt;
-      &lt;li&gt;Papilífero&lt;/li&gt;
-      &lt;li&gt;Comedo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A forma mais agressiva é o &lt;strong&gt;comedocarcinoma&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;O menos agressivo é o &lt;strong&gt;cribiforme&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mastectomia total, mastectomia preservadora de pele, adenectomia, ressecção segmentar, radioterapia complementar&lt;/strong&gt;, são as formas de tratamento que podem ser empregadas.&lt;/li&gt;
-  &lt;li&gt;Possui &lt;strong&gt;excelente prognóstico&lt;/strong&gt; e uma taxa de 98% de cura quando submetido a tratamento loco-regional.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;carcinoma-de-paget&quot;&gt;Carcinoma de Paget&lt;/h2&gt;
-&lt;p&gt;Manifesta-se pelo aparecimento de lesão eczematosa, erosiva ou ulcerativa em um dos mamilos.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Representa &lt;strong&gt;0,5 a 4,3%&lt;/strong&gt; de todos os casos de carcinoma mamário.&lt;/li&gt;
-  &lt;li&gt;A média de idade das pacientes acometidas varia entre 26 e 88 anos
-    &lt;ul&gt;
-      &lt;li&gt;Mas o pico de incidência ocorre entre 60 e 70 anos de idade.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Aproximadamente 85 a 90% dos casos apresentam associação com carcinoma in situ ou carcinoma infiltrativo.&lt;/li&gt;
-  &lt;li&gt;Existem duas teorias para explicar a sua origem.
-    &lt;ul&gt;
-      &lt;li&gt;A teoria mais aceita sugere que as células tumorais crescem nos ductos mamários e progridem em direção à epiderme do mamilo.&lt;/li&gt;
-      &lt;li&gt;A outra teoria propõe que as células tumorais se desenvolvem já na porção terminal dos ductos lactíferos, na junção com a epiderme.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O tratamento deve seguir a mesma linha das outras formas de carcinoma de mama.&lt;/li&gt;
-  &lt;li&gt;O tratamento mais prático é a &lt;strong&gt;mastectomia preservadora de pele, biópsia de linfonodo sentinela e reconstrução mamária imediata&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;carcinoma-inflamatório&quot;&gt;Carcinoma Inflamatório&lt;/h2&gt;
-&lt;p&gt;O carcinoma inflamatório é uma doença rara,&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cerca de &lt;strong&gt;2%&lt;/strong&gt; de todos os tipos de câncer de mama.&lt;/li&gt;
-  &lt;li&gt;Apresenta sinais clínicos típicos, de instalação brusca e com rápida e progressiva evolução:
-    &lt;ul&gt;
-      &lt;li&gt;Edema difuso de pele, lembrando casca de laranja à inspeção&lt;/li&gt;
-      &lt;li&gt;Eritema cutâneo&lt;/li&gt;
-      &lt;li&gt;Hipertemia local.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Geralmente não se identifica nódulo palpável.&lt;/li&gt;
-  &lt;li&gt;Linfonodos axilares são palpáveis na maioria das vezes.&lt;/li&gt;
-  &lt;li&gt;O &lt;strong&gt;prognóstico permanece grave&lt;/strong&gt;, sendo &lt;strong&gt;o tumor de mama de pior prognóstico&lt;/strong&gt;, a despeito dos avanços terapêuticos.&lt;/li&gt;
-  &lt;li&gt;O advento de esquemas quimioterápicos alterou a estória natural da doença, contribuindo para o aumento da sobrevida.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Há um consenso de que essas pacientes devem &lt;strong&gt;iniciar seu tratamento pela quimioterapia&lt;/strong&gt;. Após cerca de quatro ciclos, estabelecer terapêutica locorregional. A cirurgia deve &lt;strong&gt;remover toda a pele inicialmente eritematosa&lt;/strong&gt;, a despeito de seu
-desaparecimento pós-quimioterapia, com enxerto ou rotação de retalho e dissecção axilar.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;cirurgia&lt;/strong&gt; permite que se estabeleça o estadiamento patológico. É um procedimento &lt;strong&gt;citorredutor&lt;/strong&gt; que diminui o volume de doença residual, o que possibilita a administração de menor dose de irradiação.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;radioterapia&lt;/strong&gt; é empregada de forma pré ou pós-operatória ou exclusiva nos casos não-operáveis. Aliada à cirurgia, permite maior controle local e melhor
-qualidade de vida. Após a terapia locorregional normalmente realizam-se novos ciclos de quimioterapia.&lt;/p&gt;
-
-&lt;h2 id=&quot;carcinoma-de-mama-em-homem&quot;&gt;Carcinoma de mama em homem&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ocorre em cerca de um para cada 150 casos na mulher.&lt;/li&gt;
-  &lt;li&gt;O tipo histológico predominante é o carcinoma ductal infiltrativo
-    &lt;ul&gt;
-      &lt;li&gt;Pela quase inexistência da diferenciação de lóbulos na mama masculina.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O tratamento tradicional é a &lt;strong&gt;mastectomia radical&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;São fatores predisponentes:
-    &lt;ul&gt;
-      &lt;li&gt;Ginecomastia&lt;/li&gt;
-      &lt;li&gt;Ingestão de hormônios femininos&lt;/li&gt;
-      &lt;li&gt;Síndrome de Klinefelter.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Em média a faixa etária de aparecimento do câncer de mama no homem é 10 anos mais elevada que nas mulheres, situando-se entre 60 e 65 anos.&lt;/li&gt;
-  &lt;li&gt;Famílias que carreiam mutação de gene &lt;strong&gt;BRCA-2&lt;/strong&gt; têm também maior frequência de câncer de mama masculina.&lt;/li&gt;
-  &lt;li&gt;O papel do tratamento adjuvante é indefinido, mas em geral seguem-se as mesmas orientações do câncer da mama na mulher.&lt;/li&gt;
-  &lt;li&gt;O prognóstico no homem é equivalente ao da mulher.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tumor-filóide&quot;&gt;Tumor Filóide&lt;/h2&gt;
-&lt;p&gt;É um raro tipo de lesão fibroepitelial&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Responsável por menos de 1% de todas as neoplasias da mama.&lt;/li&gt;
-  &lt;li&gt;Tumores malignos filóides, se inadequadamente tratados, têm uma propensão para o crescimento rápido e desenvolvimento de metástases.&lt;/li&gt;
-  &lt;li&gt;Em contraste, tumores filóides benignos geralmente são difíceis de distinguir dos fibroadenomas
-    &lt;ul&gt;
-      &lt;li&gt;Tanto nos fatores clínico, radiológico e no exame citológico, devendo-se optar pela conduta cirúrgica.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Logo, a grande importância dos tumores filóides está no diagnóstico diferencial com os fibroadenomas
-    &lt;ul&gt;
-      &lt;li&gt;Já que a conduta para essas lesões é a não cirúrgica.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A idade média de apresentação é de 45 anos, 20 anos mais tarde do que para fibroadenomas.&lt;/li&gt;
-  &lt;li&gt;Eles são encontrados mais comumente no &lt;strong&gt;quadrante superior externo&lt;/strong&gt;, com uma propensão a ocorrer nas &lt;strong&gt;duas mamas&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Muitos tumores filóides malignos não sofrem recidivas e não metastatisam&lt;/li&gt;
-  &lt;li&gt;Enquanto alguns que se demonstram benignos histologicamente pode desenvolver um curso clinico agressivo.&lt;/li&gt;
-  &lt;li&gt;Consequentemente &lt;strong&gt;todo tumor filóide deve ser considerado como potencialmente maligno&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;sarcomas&quot;&gt;Sarcomas&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;São tumores de origem mesenquimal&lt;/li&gt;
-  &lt;li&gt;Correspondem a menos de 1% das neoplasias malignas de mama.&lt;/li&gt;
-  &lt;li&gt;São tumores de crescimento rápido e geralmente se disseminam por via hematogênica.&lt;/li&gt;
-  &lt;li&gt;O tratamento padrão é a &lt;strong&gt;mastectomia&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Pois os sarcomas são geralmente descobertos já muito volumosos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Não se disseca axila nos sarcomas, porque a &lt;strong&gt;disseminação não é linfática&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Diabetes na gestação</title><link href="http://localhost:4000/obstetricia/diabetes-na-gestacao" rel="alternate" type="text/html" title="Diabetes na gestação" /><published>2019-06-18T00:00:00-03:00</published><updated>2019-06-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/diabetes-na-gestacao</id><content type="html" xml:base="http://localhost:4000/obstetricia/diabetes-na-gestacao">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#pré-diabetes&quot; id=&quot;markdown-toc-pré-diabetes&quot;&gt;Pré-diabetes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#alterações-metabólicas-na-gravidez-normal&quot; id=&quot;markdown-toc-alterações-metabólicas-na-gravidez-normal&quot;&gt;Alterações metabólicas na gravidez normal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificção-de-white&quot; id=&quot;markdown-toc-classificção-de-white&quot;&gt;Classificção de &lt;em&gt;White&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diabetes-gestacional&quot; id=&quot;markdown-toc-diabetes-gestacional&quot;&gt;Diabetes gestacional&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#repercussões-da-dm-na-gestação&quot; id=&quot;markdown-toc-repercussões-da-dm-na-gestação&quot;&gt;Repercussões da DM na gestação&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#malformação-fetal&quot; id=&quot;markdown-toc-malformação-fetal&quot;&gt;Malformação fetal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#macrossomia-fetal&quot; id=&quot;markdown-toc-macrossomia-fetal&quot;&gt;Macrossomia fetal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#maturidade-fetal&quot; id=&quot;markdown-toc-maturidade-fetal&quot;&gt;Maturidade fetal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#abortamento-e-parto-prematuro&quot; id=&quot;markdown-toc-abortamento-e-parto-prematuro&quot;&gt;Abortamento e parto prematuro&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#pré-eclâmpsia&quot; id=&quot;markdown-toc-pré-eclâmpsia&quot;&gt;Pré-eclâmpsia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#morte-fetal&quot; id=&quot;markdown-toc-morte-fetal&quot;&gt;Morte fetal&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#parto&quot; id=&quot;markdown-toc-parto&quot;&gt;Parto&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Na gravidez, é importante distinguir o diabetes melito pré-gestacional (tipo 1 ou tipo 2) do
-diabetes melito gestacional (DMG).&lt;/p&gt;
-
-&lt;p&gt;O principal problema do diabetes na gravidez ainda é o número elevado de &lt;strong&gt;malformações congênitas&lt;/strong&gt; – 10% no diabetes vs. 3% na população geral.&lt;/p&gt;
-
-&lt;p&gt;O diabetes melito gestacional (DMG) é aquele que tem início na gravidez e, nesse sentido, deve ser diferenciado do diabetes pré-gestacional, que antecede a gestação e persiste quando ela termina.&lt;/p&gt;
-
-&lt;p&gt;O DMG complica 7% de todas as gestações (1 a 14%, dependendo da população estudada) e representa aproximadamente 90% dos casos de diabetes na gravidez.&lt;/p&gt;
-
-&lt;h2 id=&quot;pré-diabetes&quot;&gt;Pré-diabetes&lt;/h2&gt;
-&lt;p&gt;Durante esse período assintomático, é
-possível demonstrar anormalidade do metabolismo dos carboidratos pela medida da glicemia de
-jejum ou após teste oral de tolerância à glicose (TOTG), caracterizando, respectivamente, a
-glicemia de jejum alterada e a tolerância à glicose alterada, ambos estados de pré-diabetes,
-indicando alto risco para o desenvolvimento da doença.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Glicose de jejum alterada: 100 a 125 mg/dl Ou&lt;/li&gt;
-  &lt;li&gt;Intolerância à glicose de 2 h (TOTG-75 g): 140-199 mg/dl Ou&lt;/li&gt;
-  &lt;li&gt;HbG: 5,7 a 6,4%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;alterações-metabólicas-na-gravidez-normal&quot;&gt;Alterações metabólicas na gravidez normal&lt;/h2&gt;
-&lt;p&gt;Durante a gravidez normal ocorrem grandes modificações na produção de energia e no
-acúmulo de gordura. &lt;strong&gt;O depósito de gordura se faz especialmente nos dois terços iniciais da gestação&lt;/strong&gt;, enquanto no seu um terço final há aumento do gasto metabólico.&lt;/p&gt;
-
-&lt;p&gt;As modificações no metabolismo materno são necessárias para &lt;strong&gt;alcançar as demandas determinadas pelo rápido crescimento e desenvolvimento do feto&lt;/strong&gt;. Essas alterações incluem hipoglicemia de jejum, catabolismo exagerado dos lipídios com formação de corpos cetônicos e
-progressiva &lt;strong&gt;resistência à insulina&lt;/strong&gt;, tudo comandado pelos &lt;strong&gt;hormônios placentários&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O desenvolvimento da resistência à insulina &lt;strong&gt;a partir do 2ºT&lt;/strong&gt; é uma &lt;strong&gt;adaptação fisiológica que visa transferir o metabolismo de energia materna da oxidação dos carboidratos para o de lipídios, preservando a glicose a ser fornecida ao feto&lt;/strong&gt; em acelerado
-crescimento. Cerca de 80% do gasto energético fetal é feito pelo metabolismo da glicose.&lt;/p&gt;
-
-&lt;p&gt;A gravidez é uma condição caracterizada por resistência à insulina, com aumento
-compensatório na resposta das células β e hiperinsulinismo. A resistência à insulina costuma começar no 2ºT e progride durante toda a gestação, com a sensibilidade à insulina
-chegando à redução de aproximadamente 80% no termo.&lt;/p&gt;
-
-&lt;p&gt;Os hormônios placentários
-contrainsulínicos – &lt;strong&gt;lactogênio placentário humano&lt;/strong&gt; (hPL) e &lt;strong&gt;hormônio do crescimento placentário humano&lt;/strong&gt; (hPGH) – são os fatores que contribuem para a resistência à insulina vista na gravidez.
-Fala-se, também, no aumento de adipocinas na gravidez – leptina, adiponectina, fator de necrose
-tumoral alfa (TNF-α) e interleucina 6 (IL-6). &lt;strong&gt;Na mulher com DMG, não é a resistência à insulina que está elevada, quando comparada à da gravidez normal, e sim o mau funcionamento das células β pancreáticas que secretam insulina insuficiente para vencer esse aumento da resistência&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/dm/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;classificção-de-white&quot;&gt;Classificção de &lt;em&gt;White&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;É clássica a separação do diabetes na gravidez em classes (A-H) (Classificação de Priscilla
-White), tornando possível estabelecer o prognóstico materno e o fetal, e instituir as medidas terapêuticas pertinentes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/dm/white.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Na gravidez, cerca de 90% das diabéticas são classe A, e as 10% restantes, classes B-H.&lt;/p&gt;
-
-&lt;h2 id=&quot;diabetes-gestacional&quot;&gt;Diabetes gestacional&lt;/h2&gt;
-&lt;p&gt;A resistência à insulina na gravidez normal está presente já a partir do 2ºT e aumenta
-progressivamente até o fim da gestação. Essa resistência à insulina atende às necessidade
-metabólicas do feto (maior disponibilidade de glicose) e é consequência da ação dos hormônios
-placentários contrainsulínicos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;O defeito metabólico nas mulheres com o DMG é sua incapacidade de secretar insulina em níveis necessários para atender à demanda&lt;/strong&gt; que é máxima no 3ºT. Isso leva
-ao aumento da concentração da glicose pós-prandial, capaz de determinar efeitos adversos no feto
-(&lt;strong&gt;macrossomia&lt;/strong&gt; e &lt;strong&gt;hipoglicemia neonatal&lt;/strong&gt;), pelo &lt;strong&gt;excessivo transporte transplacentário de glicose&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Glicemia de jejum&lt;/strong&gt; seja realizada na 1ª consulta pré-natal.
-    &lt;ul&gt;
-      &lt;li&gt;Esse exame serviria para identificar os casos normais (&amp;lt; 92 mg/dl)&lt;/li&gt;
-      &lt;li&gt;os de &lt;strong&gt;DMG (92 a 125 mg/dl)&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;e os de diabetes &lt;strong&gt;pré-gestacional (≥ 126 mg/dl)&lt;/strong&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O diabetes &lt;strong&gt;pré-gestacional&lt;/strong&gt; pode, ainda, ser diagnosticado pela &lt;strong&gt;HbA1c ≥ 6,5%&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;ou pela &lt;strong&gt;glicemia ao acaso ≥ 200 mg/dl&lt;/strong&gt; (esta última confirmada pela glicemia de jejum ou pela HbA 1c).&lt;/li&gt;
-      &lt;li&gt;Investigação posterior mostrou que a HbA 1c não deve ser utilizada na gravidez.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os casos normais na glicemia de jejum (&amp;lt; 92 mg/dl) devem ser submetidos ao &lt;strong&gt;TOTG de 75 g de 2 h (TOTG-75) entre 24 e 28 semanas de gravidez&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/dm/img2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;complicações&quot;&gt;Complicações&lt;/h3&gt;
-&lt;p&gt;Pacientes com DMG têm risco elevado de &lt;strong&gt;hipertensão&lt;/strong&gt;, &lt;strong&gt;pré-eclâmpsia&lt;/strong&gt; e &lt;strong&gt;parto cesáreo&lt;/strong&gt; e suas consequentes morbidades.&lt;/p&gt;
-
-&lt;p&gt;O feto da mãe com DMG apresenta risco elevado de &lt;strong&gt;macrossomia&lt;/strong&gt;, &lt;strong&gt;distocia de ombros&lt;/strong&gt;, &lt;strong&gt;tocotraumatismo&lt;/strong&gt;, &lt;strong&gt;hipoglicemia&lt;/strong&gt; e &lt;strong&gt;hiperbilirrubinemia&lt;/strong&gt; neonatais.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Cerca de 80 a 90% das mulheres são tratadas apenas com a mudança de estilo de vida: dieta e exercícios.&lt;/li&gt;
-  &lt;li&gt;Todavia, 10 a 20% das diabéticas necessitam de insulina, indicada quando o nível glicêmico préprandial for &amp;gt; 95 mg/dl, ou o pós-prandial de 1 h &amp;gt; 140 mg/dl ou o de 2 h &amp;gt; 120 mg/dl&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A ADA (2014) não recomenda o uso de hipoglicemiantes orais, como metformina e gliburida,
-na gravidez, mas o ACOG (2013) afirma que o tratamento oral e insulínico são equivalentes. The
-Endocrine Society (2013) também aceita a gliburida e a metformina, mas adverte que se o nível
-da glicemia de jejum for &amp;gt; 110 mg/dl, é preferível o tratamento com insulina.&lt;/p&gt;
-
-&lt;h2 id=&quot;repercussões-da-dm-na-gestação&quot;&gt;Repercussões da DM na gestação&lt;/h2&gt;
-&lt;h3 id=&quot;malformação-fetal&quot;&gt;Malformação fetal&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;As malformações fetais constituem as causas mais importantes de mortalidade perinatal em gestações complicadas por DM.&lt;/li&gt;
-  &lt;li&gt;As anomalias congênitas têm incidência de 10%, cerca de 3x maior do que na população geral.&lt;/li&gt;
-  &lt;li&gt;A incidência de malformações está fortemente associada aos níveis de A 1c no 1ºT da gestação&lt;/li&gt;
-  &lt;li&gt;As anomalias mais comuns incluem
-    &lt;ul&gt;
-      &lt;li&gt;defeitos cardíacos complexos,&lt;/li&gt;
-      &lt;li&gt;anomalias do SNC, tais como anencefalia e espinha bífida,&lt;/li&gt;
-      &lt;li&gt;anomalias craniofaciais e esqueléticas, incluindo regressão
-caudal/agenesia do sacro.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;macrossomia-fetal&quot;&gt;Macrossomia fetal&lt;/h3&gt;
-&lt;p&gt;A difusão facilitada de glicose através da placenta determina hiperglicemia/hiperinsulinemia
-fetal com consequências importantes para o feto e o recém-nascido.&lt;/p&gt;
-
-&lt;p&gt;A insulina determina excessivo crescimento fetal, especialmente do tecido adiposo. O feto da mulher
-diabética mal controlada tem risco elevado de &lt;strong&gt;macrossomia (&amp;gt; 4.000 g)&lt;/strong&gt;, com concentração
-desproporcional de tecido adiposo nos ombros e no tórax, dobrando o risco de &lt;strong&gt;distocia no parto&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Também é frequente a ocorrência de &lt;strong&gt;polidrâmnio&lt;/strong&gt;, pois o feto macrossômico é &lt;strong&gt;poliúrico&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;maturidade-fetal&quot;&gt;Maturidade fetal&lt;/h3&gt;
-&lt;p&gt;O feto de mãe diabética mal controlada tem maior chance de apresentar &lt;strong&gt;síndrome de angústia respiratória&lt;/strong&gt; (SAR) do que o da não diabética.&lt;/p&gt;
-
-&lt;p&gt;O retardo no amadurecimento pulmonar fetal no
-diabetes se deve à &lt;strong&gt;demora na produção do fosfatidilglicerol&lt;/strong&gt;, que só atinge níveis &amp;gt; 3% 1,5
-semana mais tarde do que ocorre na gestação normal, em que são vistos com 37 semanas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;No diabetes, a maturidade pulmonar do feto só está garantida com 38,5 semanas&lt;/strong&gt;, por isso qualquer
-interrupção eletiva da gravidez só deve ser realizada com 39 semanas.&lt;/p&gt;
-
-&lt;h3 id=&quot;abortamento-e-parto-prematuro&quot;&gt;Abortamento e parto prematuro&lt;/h3&gt;
-&lt;p&gt;O &lt;strong&gt;abortamento&lt;/strong&gt; tem &lt;strong&gt;taxas 2x maiores&lt;/strong&gt; com o mau controle glicêmico.&lt;/p&gt;
-
-&lt;p&gt;A incidência de &lt;strong&gt;parto pré-termo&lt;/strong&gt; (espontâneo e indicado) está &lt;strong&gt;aumentada em até 5x&lt;/strong&gt; no
-diabetes, especialmente nos casos que cursam com &lt;strong&gt;polidrâmnio&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Não há contraindicação para o
-uso de corticoides, mas os betamiméticos devem ser evitados. &lt;strong&gt;Durante o uso de corticoide, a dose de insulina deve ser aumentada&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;pré-eclâmpsia&quot;&gt;Pré-eclâmpsia&lt;/h3&gt;
-&lt;p&gt;A pré-eclâmpsia é observada em 15 a 20% das mulheres com diabetes tipo 1 e em 50%
-daquelas com nefropatia/hipertensão/proteinúria associadas.&lt;/p&gt;
-
-&lt;h3 id=&quot;morte-fetal&quot;&gt;Morte fetal&lt;/h3&gt;
-&lt;p&gt;A taxa de mortalidade perinatal no diabetes é aproximadamente 2x da vigente na população não diabétic.&lt;/p&gt;
-
-&lt;p&gt;Os extremos de crescimento fetal podem ocorrer nos dois cenários oferecidos pelo diabetes
-materno: &lt;strong&gt;macrossomia&lt;/strong&gt; e &lt;strong&gt;crescimento intrauterino restrito&lt;/strong&gt; (CIR).&lt;/p&gt;
-
-&lt;p&gt;A morte fetal é observada mais
-frequentemente nas últimas semanas da gravidez em pacientes com &lt;strong&gt;controle glicêmico deficiente, polidrâmnio e macrossomia fetal&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O mecanismo do óbito fetal na gravidez complicada por macrossomia pode ser &lt;strong&gt;consequência do aumento do consumo de oxigênio fetal de cerca de 30%&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Já em diabéticas com &lt;strong&gt;doença vascular&lt;/strong&gt;, a morte fetal por &lt;strong&gt;insuficiência placentária&lt;/strong&gt; pode ocorrer tão cedo quanto ao fim do 2ºT.&lt;/p&gt;
-
-&lt;h2 id=&quot;parto&quot;&gt;Parto&lt;/h2&gt;
-&lt;p&gt;A prevenção da morte fetal e da macrossomia é uma razão para induzir o parto a termo na
-diabética. Porém, a indução jamais será feita antes de 39 semanas, evitando problemas respiratórios no recém-nascido.&lt;/p&gt;
-
-&lt;p&gt;A cesárea deve ser considerada se o peso fetal estimado pela ultrassonografia for &amp;gt; 4.500 g.
-Durante o parto, a glicemia deve ser controlada por infusão intravenosa de insulina regular ajustada para manter a glicemia &amp;lt; 110 mg/dl, evitando-se a hipoglicemia neonatal. Nas pacientes
-submetidas à cesariana, a insulina de ação rápida deve ser utilizada para tratar valores de glicose &amp;gt; 140 a 150 mg/dl, até que seja estabelecido o padrão alimentar regular.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Nefrotoxicidade</title><link href="http://localhost:4000/nefrologia/nefrotoxicidade" rel="alternate" type="text/html" title="Nefrotoxicidade" /><published>2019-06-16T00:00:00-03:00</published><updated>2019-06-16T00:00:00-03:00</updated><id>http://localhost:4000/nefrologia/nefrotoxicidade</id><content type="html" xml:base="http://localhost:4000/nefrologia/nefrotoxicidade">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico-de-lesão-renal&quot; id=&quot;markdown-toc-diagnóstico-de-lesão-renal&quot;&gt;Diagnóstico de lesão renal&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#antibióticos&quot; id=&quot;markdown-toc-antibióticos&quot;&gt;Antibióticos&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#aminoglicosídios&quot; id=&quot;markdown-toc-aminoglicosídios&quot;&gt;Aminoglicosídios&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cefalosporinas&quot; id=&quot;markdown-toc-cefalosporinas&quot;&gt;Cefalosporinas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#glicopeptídios&quot; id=&quot;markdown-toc-glicopeptídios&quot;&gt;Glicopeptídios&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#vancomicina&quot; id=&quot;markdown-toc-vancomicina&quot;&gt;Vancomicina&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#teicoplanina&quot; id=&quot;markdown-toc-teicoplanina&quot;&gt;Teicoplanina&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#anfotericina-b&quot; id=&quot;markdown-toc-anfotericina-b&quot;&gt;Anfotericina B&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#contraste-radiológico&quot; id=&quot;markdown-toc-contraste-radiológico&quot;&gt;Contraste radiológico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#aines&quot; id=&quot;markdown-toc-aines&quot;&gt;AINEs&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As substâncias nefrotóxicas podem causar lesão por meio de diferentes mecanismos, que podem ser simultâneos, como diminuição do fluxo sanguíneo renal, ação direta na membrana celular e geração
-intracelular de metabólitos tóxicos ou de radicais livres de oxigênio, causando danos às estruturas celulares e interferindo nos mecanismos enzimáticos vitais
-para a viabilidade celular.&lt;sup id=&quot;fnref:riella&quot;&gt;&lt;a href=&quot;#fn:riella&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Nefrotoxicidade pode se
-manifestar como queda da filtração glomerular (FG), proteinúria ou perda da
-homeostase de água, eletrólitos e do equilíbrio acidobásico. O mesmo agente
-pode causar, simultaneamente, mais de um tipo de lesão, dependendo da dose, da duração de exposição e das características individuais da resposta do indivíduo
-afetado. Os mecanismos mais frequentes pelos quais as nefrotoxinas agridem os
-rins são as alterações da hemodinâmica renal e o desenvolvimento de lesões
-estruturais nas células tubulares. A manifestação clínica mais frequente da nefrotoxicidade é o desenvolvimento da síndrome de lesão renal aguda (LRA).&lt;/p&gt;
-
-&lt;p&gt;Atualmente, antibióticos, contraste iodado, anti-inflamatórios não
-hormonais (AINH), fármacos que bloqueiam a ação do sistema renina-
-angiotensina-aldosterona (SRAA), agentes bloqueadores da calcineurina, agentes
-antivirais e quimioterápicos usados no tratamento de câncer representam os principais agentes de nefrotoxicidade.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico-de-lesão-renal&quot;&gt;Diagnóstico de lesão renal&lt;/h2&gt;
-&lt;p&gt;Em geral, o diagnóstico de nefrotoxicidade é aventado somente quando o dano renal atinge proporções suficientes para causar diminuição da diurese e/ou da
-FG, dando origem a oligúria e aumento da creatinina sérica (CrS).&lt;/p&gt;
-
-&lt;p&gt;Classicamente, define-se &lt;strong&gt;oligúria como diurese &amp;lt; que 400 mL em 24 h&lt;/strong&gt;. Esse limite arbitrário se baseia no conceito de que 400 mL correspondem ao volume mínimo necessário para a eliminação dos solutos produzidos por um indivíduo saudável em condições de homeostase normal em 24 h.&lt;/p&gt;
-
-&lt;p&gt;Várias substâncias nefrotóxicas, como &lt;strong&gt;aminoglicosídios, anfotericina e cisplatina&lt;/strong&gt;, podem desencadear &lt;strong&gt;LRA não oligúrica&lt;/strong&gt;, portanto um volume urinário acima dos
-limites estabelecidos para oligúria não exclui o diagnóstico de nefrotoxicidade ou a ocorrência de lesão renal.&lt;/p&gt;
-
-&lt;p&gt;O KDIGO postula aumento da CrS (creatinina sérica) de 0,3 mg/dl em 48 h ou de 50% em relação à CrS basal ocorrendo sabida ou presumidamente em 7 dias
-para o diagnóstico de LRA.&lt;/p&gt;
-
-&lt;p&gt;A biopsia renal deve ser considerada em casos complexos, com
-etiopatogêneses múltiplas ou indefinidas para o quadro de LRA.&lt;/p&gt;
-
-&lt;p&gt;Deve-se manter em mente que os testes disponíveis para a detecção de
-nefrotoxicidade são pouco precisos e que a inexistência de um método
-diagnóstico absoluto resulta na necessidade do emprego simultâneo, precoce e dinâmico de testes diferentes. É altamente recomendável que se obtenha o valor
-de CrS previamente ao uso de um agente ou medicamento nefrotóxico,
-principalmente em indivíduos com maior risco de desenvolver LRA [idosos, indivíduos com doença renal crônica (DRC), choque ou hipotensão, infecção
-etc.].&lt;/p&gt;
-
-&lt;p&gt;Medidas seriadas da CrS e do volume urinário devem ser realizadas
-durante e após o uso do agente nefrotóxico. Alterações dos níveis de eletrólitos
-séricos e do sedimento urinário precisam ser pesquisadas como possíveis indicações de nefrotoxicidade.&lt;/p&gt;
-
-&lt;h2 id=&quot;antibióticos&quot;&gt;Antibióticos&lt;/h2&gt;
-&lt;h3 id=&quot;aminoglicosídios&quot;&gt;Aminoglicosídios&lt;/h3&gt;
-&lt;p&gt;Os aminoglicosídios (gentamicina, tobramicina, amicacina e netilmicina) são
-antibióticos bactericidas de uso parenteral, extremamente eficazes na terapia de
-infecções graves causadas por bactérias Gram-negativas.&lt;/p&gt;
-
-&lt;p&gt;Compostos
-policatiônicos, de pequeno peso molecular (aproximadamente 500 D), ligam-se
-muito pouco às proteínas plasmáticas e são excretados livremente por FG.&lt;/p&gt;
-
-&lt;p&gt;Na luz do túbulo proximal, uma pequena parte da carga
-filtrada se liga a receptores fosfolipídicos aniônicos da membrana celular da
-região apical das células tubulares proximais e é transportada por pinocitose para
-o seu interior. No citoplasma, formam-se vesículas que se fundem com os
-lisossomos. A acidez do interior lisossomal faz com que os aminoglicosídios
-assumam sua forma catiônica, aumentando sua ligação com as camadas de
-fosfolipídios e, presumivelmente, inibindo a função das fosfolipases A1 e A2. A
-interferência no funcionamento das fosfolipases altera o ciclo normal de
-renovação das membranas fosfolipídicas e forma lisossomos secundários
-contendo os corpos mieloides – estruturas lamelares eletrodensas formadas por
-membranas densamente compactadas e dispostas concentricamente. Esses mecanismos de transporte e acumulação intracelular fazem com que a
-concentração desses medicamentos no córtex renal supere de 10 até 100 vezes a
-plasmática. Após a concentração do aminoglicosídio no tecido renal, sua
-excreção é extremamente lenta, podendo durar meses.&lt;/p&gt;
-
-&lt;p&gt;Interferência no
-funcionamento dos lisossomos, lesões mitocondriais, produção excessiva de
-radicais livres de oxigênio, inibição competitiva das reações citosólicas
-mediadas por cálcio, ativação do processo de apoptose celular e diminuição do
-coeficiente de ultrafiltração glomerular vêm sendo apontadas como fatores
-etiopatogênicos da nefrotoxicidade desses medicamentos.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A lesão estrutural mais frequentemente encontrada na nefrotoxicidade causada pelos aminoglicosídios é a NTA (necrose tubular aguda)
-    &lt;ul&gt;
-      &lt;li&gt;NTA do tipo isquêmico em focos, com perda da borda em escova e vacuolização de túbulos proximais.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Os corpos mieloides surgem no tecido renal mesmo após tratamentos pouco prolongados e não indicam obrigatoriamente nefrotoxicidade.&lt;/li&gt;
-  &lt;li&gt;A gentamicina provoca necrose tubular de intensidade proporcional à dosagem empregada.
-    &lt;ul&gt;
-      &lt;li&gt;O pico da lesão ocorre aproximadamente no 7º dia de administração;&lt;/li&gt;
-      &lt;li&gt;se interrompido o medicamento, há regeneração tubular.&lt;/li&gt;
-      &lt;li&gt;Com a administração de doses reduzidas do antibiótico, observa-se recuperação tubular, mesmo se o tratamento for mantido.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;podem provocar DRC grave em pacientes com doença renal prévia submetidos a tratamentos prolongados ou doses muito elevadas do medicamento.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os aminoglicosídios representam causa frequente de nefrotoxicidade em
-pacientes hospitalizados. Provavelmente por sua estreita margem terapêutica,
-causam alterações renais clinicamente significativas em aproximadamente 10 a
-20% dos pacientes. Em tratamentos prolongados, acima de 2 semanas, essa porcentagem é ainda maior, chegando a 50%.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A forma clínica mais comum de apresentação de sua nefrotoxicidade é a LRA não oligúrica ao final da 1ª semana de tratamento.&lt;sup id=&quot;fnref:riella:1&quot;&gt;&lt;a href=&quot;#fn:riella&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Além da queda de FG, os aminoglicosídios causam disfunção
-tubular, que se manifesta como poliúria e perda da capacidade de concentração urinária, enzimúria, glicosúria, aminoacidúria e perdas urinárias inadequadas de
-eletrólitos, causando hipomagnesemia, hipopotassemia e hipocalcemia.&lt;/p&gt;
-
-&lt;p&gt;O exame de urina é incaracterístico, podendo ocorrer leucocitúria, proteinúria e
-cilindrúria.&lt;/p&gt;
-
-&lt;h4 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h4&gt;
-&lt;p&gt;fatores de risco têm sido associados ao desenvolvimento de
-nefrotoxicidade por aminoglicosídios, incluindo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tratamento prolongado&lt;/li&gt;
-  &lt;li&gt;administrações repetidas da medicação&lt;/li&gt;
-  &lt;li&gt;depleção de volume extracelular&lt;/li&gt;
-  &lt;li&gt;sexo masculino&lt;/li&gt;
-  &lt;li&gt;obesidade&lt;/li&gt;
-  &lt;li&gt;gravidez&lt;/li&gt;
-  &lt;li&gt;redução de massa renal&lt;/li&gt;
-  &lt;li&gt;doença renal prévia&lt;/li&gt;
-  &lt;li&gt;uso simultâneo de outros agentes nefrotóxicos&lt;/li&gt;
-  &lt;li&gt;uso de furosemida&lt;/li&gt;
-  &lt;li&gt;hipopotassemia&lt;/li&gt;
-  &lt;li&gt;hipomagnesemia&lt;/li&gt;
-  &lt;li&gt;acidose&lt;/li&gt;
-  &lt;li&gt;icterícia&lt;/li&gt;
-  &lt;li&gt;idade avançada&lt;/li&gt;
-  &lt;li&gt;choque&lt;/li&gt;
-  &lt;li&gt;administração do medicamento durante o período de repouso noturno&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;conduta&quot;&gt;Conduta&lt;/h4&gt;
-&lt;p&gt;Estudos experimentais demonstraram proteção renal com a administração
-do fármaco em dose única, expansão de volume intravascular com cloreto de
-sódio, uso simultâneo de ticarcilina, suplementação oral de cálcio,
-suplementação de cloreto de potássio, indução de diabetes, administração de
-ácido poliaspártico, alcalinização urinária, uso de bloqueadores de canal de
-cálcio, administração de hormônio tireoidiano e depleção de fosfato.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Menor dose e tratamento mais curto compatíveis com o sucesso terapêutico representam o melhor modo de prevenir a nefrotoxicidade causada por esses antibióticos.&lt;sup id=&quot;fnref:riella:2&quot;&gt;&lt;a href=&quot;#fn:riella&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Estudos isolados e metanálises têm demonstrado que o uso
-de uma dose única diária de gentamicina, em vez de doses fracionadas, previne a
-nefrotoxicidade sem inibir o efeito bactericida do antibiótico.&lt;/p&gt;
-
-&lt;p&gt;Se ocorrer LRA, a medida mais segura a se tomar é a
-substituição do aminoglicosídio por outro antibiótico. Se houver necessidade imperativa de manter o aminoglicosídio, deve-se aumentar o intervalo entre as
-administrações do medicamento, o que também é válido para pacientes com
-doença renal prévia.&lt;/p&gt;
-
-&lt;h3 id=&quot;cefalosporinas&quot;&gt;Cefalosporinas&lt;/h3&gt;
-&lt;p&gt;Muito da fama de nefrotoxicidade das cefalosporinas decorre da
-cefaloridina, atualmente em desuso, que causa LRA e lesão tubular proximal dose-dependente mesmo quando empregada em doses terapêuticas.&lt;/p&gt;
-
-&lt;p&gt;Apesar de
-todas as cefalosporinas serem consideradas potencialmente nefrotóxicas, a
-frequência de LRA causada pelos membros mais recentes dessa classe de
-antibióticos é muito pequena, indicando que eles apresentam grande margem
-terapêutica.&lt;/p&gt;
-
-&lt;p&gt;A lesão renal pode se manifestar por quadros clínicos de LRA
-sugestivos de NTA ou por NIA. Nos casos descritos de NTA, o medicamento foi
-usado na maior parte das vezes em pacientes com infecções graves, em que
-coexistiam vários outros fatores potencialmente lesivos ao rim, tornando
-questionável o papel das cefalosporinas como agente isolado da lesão renal.&lt;/p&gt;
-
-&lt;p&gt;As cefalosporinas das gerações mais recentes têm potencial nefrotóxico muito
-reduzido, causando ocasionalmente pequenas elevações da CrS em
-aproximadamente 2% dos pacientes.&lt;/p&gt;
-
-&lt;p&gt;As cefalosporinas podem provocar elevações da CrS sem alteração da FG
-por interferirem na reação de Jaffé, utilizada em vários laboratórios para
-determinar os níveis desse marcador de função renal.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Evitar o uso de cefalexina ou cefalotina em associação a aminoglicosídios&lt;/li&gt;
-  &lt;li&gt;Cefalosporinas podem interferir na dosagem de creatinina&lt;/li&gt;
-  &lt;li&gt;Cefalosporinas de terceira e quarta gerações são muito pouco nefrotóxicas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;glicopeptídios&quot;&gt;Glicopeptídios&lt;/h3&gt;
-&lt;h4 id=&quot;vancomicina&quot;&gt;Vancomicina&lt;/h4&gt;
-&lt;p&gt;Antibiótico extremamente efetivo contra bactérias Gram-positivas, representa o
-medicamento de escolha para o tratamento de infecções por estafilococos
-resistentes à meticilina e diarreias causadas por &lt;em&gt;Clostridium difficile&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;De excreção predominantemente renal, é pouco eliminada pelos métodos de diálise convencionais.&lt;/p&gt;
-
-&lt;p&gt;Apesar de os relatos de lesão renal e NTA associados à
-vancomicina terem diminuído, esse medicamento é nefrotóxico. Estudos
-recentes ainda detectam elevações significativas de creatinina em até 10% dos pacientes recebendo o antibiótico.&lt;/p&gt;
-
-&lt;p&gt;A combinação de vancomicina com
-aminoglicosídios tem nítido sinergismo em termos de nefrotoxicidade em
-modelos animais. Clinicamente, a combinação desses antibióticos está associada
-ao desenvolvimento de LRA em até 35% dos casos, prevalência que é até sete
-vezes superior à encontrada para o uso de vancomicina isolada.&lt;/p&gt;
-
-&lt;p&gt;Outros fatores de risco que têm sido associados a maior incidência
-de nefrotoxicidade pela vancomicina são: nível sérico de pico maior que 40
-μg/ml; nível sérico de vale maior que 10 μg/ml; idade (nefrotoxicidade por
-vancomicina é rara em crianças); duração do tratamento maior que 3 semanas; creatinina basal elevada;
- desidratação; e
- uso
- simultâneo
- de
-piperacilina/tazobactam. O monitoramento dos níveis séricos de vancomicina
-tem sido associado à diminuição de sua nefrotoxicidade.&lt;/p&gt;
-
-&lt;h4 id=&quot;teicoplanina&quot;&gt;Teicoplanina&lt;/h4&gt;
-&lt;p&gt;Esse antibiótico apresenta indicações terapêuticas semelhantes às da
-vancomicina, também sendo eliminado pelos rins, principalmente pela FG.
-Quando utilizada isoladamente, apresentou nefrotoxicidade em torno de 0,4% e,
-quando administrada simultaneamente com aminoglicosídios, foi associada a
-menor nefrotoxicidade do que a associação vancomicina-aminoglicosídios.&lt;/p&gt;
-
-&lt;p&gt;Dois novos antibióticos desenvolvidos para o tratamento de cocos Gram-
-positivos resistentes, a linezolida e a quinupristinadalfopristina, não se
-mostraram nefrotóxicos em estudos controlados. Ao contrário, a introdução do
-uso da linezolida em uma UTI foi associada à diminuição da frequência de LRA
-grave.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A vancomicina é nefrotóxica&lt;/li&gt;
-  &lt;li&gt;Vancomicina apresenta sinergismo positivo de nefrotoxicidade com aminoglicosídios&lt;/li&gt;
-  &lt;li&gt;Corrigir dosagem do medicamento pela estimativa de filtração glomerular&lt;/li&gt;
-  &lt;li&gt;Monitorar creatinina durante tratamento&lt;/li&gt;
-  &lt;li&gt;Considerar monitorar os níveis séricos de vancomicina em pacientes de alto risco para LRA&lt;/li&gt;
-  &lt;li&gt;Dar preferência a teicoplanina, linezolida ou quinupristina-dalfopristina em pacientes com lesão renal.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;anfotericina-b&quot;&gt;Anfotericina B&lt;/h3&gt;
-&lt;p&gt;Antibiótico produzido a partir do Streptomyces nodosus, age pela formação de
-complexos com as moléculas de esterol na membrana celular dos fungos,
-aumentando a sua permeabilidade e causando seu rompimento.&lt;/p&gt;
-
-&lt;p&gt;As mesmas propriedades que tornam a anfotericina tão efetiva contra os
-fungos tornam-na tóxica para diversos tecidos, incluindo o rim. Os mecanismos
-fisiopatogênicos da nefrotoxicidade da anfotericina são múltiplos. O
-medicamento se liga às moléculas de esterol das células epiteliais, aumentando
-sua permeabilidade a água e solutos e provocando alterações estruturais e
-funcionais.&lt;/p&gt;
-
-&lt;p&gt;Nefrotoxicidade ocorre em até 80% dos pacientes tratados com anfotericina.&lt;/p&gt;
-
-&lt;p&gt;A ocorrência da lesão depende tanto da dose diária quanto da dose acumulada do
-medicamento. Doses cumulativas maiores que 2 a 3 g provocam invariavelmente
-disfunção renal.&lt;/p&gt;
-
-&lt;p&gt;Outros fatores de risco associados à
-nefrotoxicidade são idade avançada, sexo masculino, obesidade, DRC, uso
-simultâneo de outras medicações nefrotóxicas (especialmente ciclosporina e
-amicacina), uso simultâneo de diuréticos, depleção salina, hipopotassemia e
-hipomagnesemia.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Sua nefrotoxicidade se manifesta clinicamente por poliúria, hipopotassemia, hipomagnesemia, acidose tubular distal e LRA não oligúrica.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Em geral, o quadro se manifesta após alguns dias do início do uso do medicamento, porém pode ocorrer após semanas de tratamento.&lt;/p&gt;
-
-&lt;p&gt;O exame de urina é pouco característico, podendo apresentar hematúria,
-leucocitúria, células tubulares, proteinúria e cilindros.&lt;/p&gt;
-
-&lt;p&gt;O quadro histológico é de
-NTA tóxica, com dilatação tubular, necrose e calcificação dos túbulos proximais
-e distais e vacuolização inespecífica de pequenas e médias artérias e arteríolas.&lt;/p&gt;
-
-&lt;p&gt;Geralmente, as alterações de função renal são reversíveis com a suspensão do
-medicamento. Essa melhora pode demorar meses, especialmente se doses
-cumulativas maiores que 4 g forem empregadas.&lt;/p&gt;
-
-&lt;p&gt;Descreveu-se DRC em
-pacientes submetidos a repetidas exposições à anfotericina.&lt;/p&gt;
-
-&lt;p&gt;A manobra de proteção comprovadamente mais eficaz para pacientes em
-uso de anfotericina é a expansão de volume extracelular. Estudos clínicos
-mostraram prevenção e recuperação da queda da FG induzida por anfotericina
-com o uso de suplementação de cloreto de sódio IV ou com hidratação generosa
-VO. No entanto, essa manobra não previne as alterações tubulares, e pacientes
-em uso de solução salina apresentaram hipopotassemia mais pronunciada do que
-aqueles que não a utilizaram.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A nefrotoxicidade da anfotericina depende da dose diária e da dose total administrada&lt;/li&gt;
-  &lt;li&gt;Causa hipopotassemia, hipomagnesemia, acidose e poliúria&lt;/li&gt;
-  &lt;li&gt;Expansão salina previne queda da filtração glomerular, mas não a hipopotassemia&lt;/li&gt;
-  &lt;li&gt;Existem fatores de risco modificáveis&lt;/li&gt;
-  &lt;li&gt;Dissolução em lipídios pode atenuar a nefrotoxicidade&lt;/li&gt;
-  &lt;li&gt;Preparação lisossomal é menos nefrotóxica, porém tem custo elevado.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;contraste-radiológico&quot;&gt;Contraste radiológico&lt;/h2&gt;
-&lt;p&gt;A incidência da nefrotoxicidade atribuída ao seu uso varia de
-0 a 90%; distinção está ligada a particularidades inerentes à população estudada,
-a diferenças na definição de nefrotoxicidade, ao intervalo de tempo transcorrido
-entre o uso do contraste e o estudo da função renal e à sensibilidade dos métodos
-usados para avaliar as alterações renais.&lt;/p&gt;
-
-&lt;p&gt;A lesão parece
-ser multifatorial, e os principais mecanismos aventados para a sua patogênese
-são alterações hemodinâmicas, lesão das células tubulares e obstrução
-intraluminal.&lt;/p&gt;
-
-&lt;p&gt;A administração de contraste induz resposta bifásica na vasculatura
-renal. Há vasodilatação precoce e fugaz, seguida por vasoconstrição prolongada,
-queda do fluxo plasmático renal e da FG.&lt;/p&gt;
-
-&lt;p&gt;Esse fenômeno parece depender do íon
-cálcio, pois pode ser bloqueado por bloqueadores de canal de cálcio, mas não
-por alfabloqueadores. O sistema das prostaglandinas também pode estar
-envolvido: estudos experimentais identificaram diminuição no nível de
-prostaglandinas vasodilatadoras, e a vasoconstrição é agravada pela
-indometacina.&lt;/p&gt;
-
-&lt;p&gt;………………..&lt;/p&gt;
-&lt;h2 id=&quot;aines&quot;&gt;AINEs&lt;/h2&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:riella&quot;&gt;
-      &lt;p&gt;Riella 6ª ed. &lt;a href=&quot;#fnref:riella&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:riella:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:riella:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Infertilidade</title><link href="http://localhost:4000/ginecologia/infertilidade" rel="alternate" type="text/html" title="Infertilidade" /><published>2019-06-15T00:00:00-03:00</published><updated>2019-06-15T00:00:00-03:00</updated><id>http://localhost:4000/ginecologia/infertilidade</id><content type="html" xml:base="http://localhost:4000/ginecologia/infertilidade">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#idade&quot; id=&quot;markdown-toc-idade&quot;&gt;Idade&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#anamnese&quot; id=&quot;markdown-toc-anamnese&quot;&gt;Anamnese&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fator-masculino&quot; id=&quot;markdown-toc-fator-masculino&quot;&gt;Fator masculino&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fator-ovulatório&quot; id=&quot;markdown-toc-fator-ovulatório&quot;&gt;Fator ovulatório&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fator-tubário&quot; id=&quot;markdown-toc-fator-tubário&quot;&gt;Fator tubário&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#complementação-diagnóstica&quot; id=&quot;markdown-toc-complementação-diagnóstica&quot;&gt;Complementação diagnóstica&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#histeroscopia&quot; id=&quot;markdown-toc-histeroscopia&quot;&gt;Histeroscopia?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#laparoscopia&quot; id=&quot;markdown-toc-laparoscopia&quot;&gt;Laparoscopia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cariótipo-do-casal&quot; id=&quot;markdown-toc-cariótipo-do-casal&quot;&gt;Cariótipo do casal&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#induçãoda-ovulação&quot; id=&quot;markdown-toc-induçãoda-ovulação&quot;&gt;Induçãoda ovulação&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Para considerarmos um casal infértil é necessário caracterizar a presença de
-atividade sexual regular sem o uso de nenhum método contraceptivo por pelo menos 2 anos.&lt;sup id=&quot;fnref:cisam&quot;&gt;&lt;a href=&quot;#fn:cisam&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Mas na presença de fatores de risco para infertilidade, como DIPA anterior ou cirurgias uterinas prévias, presença de varicocele ou história de vasectomia, anovulações crônicas ou laqueadura, o
-tempo de espera para iniciar a propedêutica poderá ser encurtado.&lt;/p&gt;
-
-&lt;p&gt;Afeta cerca de 10 a 15% dos casais em idade reprodutiva.&lt;/p&gt;
-
-&lt;p&gt;Pode ser classificada em:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Primária&lt;/strong&gt;: ausência de gestação prévia&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Secundária&lt;/strong&gt;: já houve uma gestação (independentemente se nascido vivo ou abortamento)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Um casal, mantendo 2-3 relações sexuais por semana, tem uma taxa de gestação de 20-25% a cada ciclo.&lt;sup id=&quot;fnref:med&quot;&gt;&lt;a href=&quot;#fn:med&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;idade&quot;&gt;Idade&lt;/h2&gt;
-&lt;p&gt;Cada vez valoriza-se a idade da mulher como fator limitante, e por isso a presença de idade materna avançada
-pode acelerar esse processo e não deve retardar uma abordagem mais agressiva em relação ao casal.&lt;/p&gt;
-
-&lt;p&gt;Ocorre redução da fertilidade feminina a partir dos 30 anos da ordem de 3,5% ao ano, sendo que a probabilidade de uma mulher de 35 anos ter um filho sadio por gestação espontânea é 50% menor que a de uma mulher de 25 anos.&lt;/p&gt;
-
-&lt;p&gt;Além da menor fecundidade também existe uma &lt;strong&gt;maior taxa de abortamento&lt;/strong&gt; nestas pacientes. O risco de abortos clinicamente reconhecidos, que é da ordem de 10% antes dos 30 anos, aumenta para 18% em pacientes entre 30 e 39 anos e para 34% em pacientes entre 40 e 45 anos. Esta incidência salta para 75% em pacientes com mais de 45 anos.&lt;/p&gt;
-
-&lt;p&gt;A fertilidade masculina também parece sofrer algumas modificações com a idade. Apesar de menos significativas, existe redução na produção de testosterona e aumento das gonadotrofinas, com diminuição da produção de espermatozóides normais. Embora a capacidade de fecundação esteja mantida parece haver um aumento de 20% no risco de malformações na prole de um homem com idade
-superior a 40 anos.&lt;/p&gt;
-
-&lt;h2 id=&quot;anamnese&quot;&gt;Anamnese&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Duração da infertilidade e freqüência dos coitos&lt;/li&gt;
-  &lt;li&gt;Tratamentos prévios para infertilidade&lt;/li&gt;
-  &lt;li&gt;Antecedentes pessoais: patologias crônicas que podem cursar com
-    &lt;ul&gt;
-      &lt;li&gt;anovulação crônica insuficiência renal ou hepática e endocrinopatias)&lt;/li&gt;
-      &lt;li&gt;tratamentos gonadotóxicos anteriores (quimioterapia e radioterapia)&lt;/li&gt;
-      &lt;li&gt;adições (tabagismo, drogas ilícitas ou etilismo)&lt;/li&gt;
-      &lt;li&gt;impotência&lt;/li&gt;
-      &lt;li&gt;cirurgias prévias (laqueadura, curetagens sucessivas, miomectomias)&lt;/li&gt;
-      &lt;li&gt;DIPA&lt;/li&gt;
-      &lt;li&gt;Uso de medicamentos de forma crônica, principalmente hormonais.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Antecedentes ginecológicos:
-    &lt;ul&gt;
-      &lt;li&gt;idade da menarca e desenvolvimento puberal&lt;/li&gt;
-      &lt;li&gt;caracterização dos ciclos menstruais&lt;/li&gt;
-      &lt;li&gt;história prévia de gestações anteriores, bem sucedidas ou não.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Heredograma do casal pode identificar casos de consangüinidade ou doenças genéticas, principalmente nos casos de aborto habitual.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;Geral: realizar exame físico minucioso, com atenção especial para
-    &lt;ul&gt;
-      &lt;li&gt;peso&lt;/li&gt;
-      &lt;li&gt;IMC&lt;/li&gt;
-      &lt;li&gt;distribuição de pêlos (hiperandrogenismo)&lt;/li&gt;
-      &lt;li&gt;galactorréia (hiperprolactinemia)&lt;/li&gt;
-      &lt;li&gt;outros sinais que sugiram possíveis disfunções orgânicas.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ginecológico: para avaliar a integridade morfo-funcional da genitália externa, bem como o trofismo genital.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;USG-TV: pode fazer parte da propedêutica básica, como complemento do exame físico pélvico, uma vez que se trata de um exame barato, não invasivo e que pode avaliar de maneira eficaz a presença de malformações uterinas e massas anexiais.&lt;/li&gt;
-  &lt;li&gt;Sorologias: como exame de rotina já que a paciente pretende uma gestação.
-    &lt;ul&gt;
-      &lt;li&gt;No caso de procedimentos de reprodução assistida sugere-se realizar sorologias do parceiro também.&lt;/li&gt;
-      &lt;li&gt;Sífilis: o VDRL ou RPR deve sempre ser confirmado com provas específicas, seja o FTA-Abs ou microhemaglutinação.&lt;/li&gt;
-      &lt;li&gt;Toxoplasmose (IgM e IgG)&lt;/li&gt;
-      &lt;li&gt;Rubéola (IgG), caso a paciente não seja imunizada para rubéola (pacientes IgG negativo), deverá ser vacinada pelo menos 1 mês antes de iniciar o tratamento da infertilidade.&lt;/li&gt;
-      &lt;li&gt;Hepatite B: HBsAg (screening), se positivo buscar outros marcadores que indiquem atividade da doença (HBeAg, anti-HBcAg, anti-HBeAg, anti-HBsAg)&lt;/li&gt;
-      &lt;li&gt;Hepatite C: se positivo pesquisar carga viral (PCR) ou RNAm do vírus para avaliar risco de transmissão, principalmente devido ao risco de transmissão vertical.&lt;/li&gt;
-      &lt;li&gt;anti-HIV (ELISA), se positivo a confirmação deverá ser feita através de um novo ELISA em outra amostra, e posteriormente (caso continue positivo) um exame confirmatório em Western blot.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tipagem sanguínea&lt;/li&gt;
-  &lt;li&gt;Citologia oncótica: para descartar patologias cervicais que eventualmente mereçam tratamento antes que a paciente engravide e que também possa identificar agentes infecciosos que deverão receber tratamento específico antes da manipulação cervical e injeção de contraste na cavidade uterina, diminuindo a possibilidade de ascensão de germes vaginais.&lt;/li&gt;
-  &lt;li&gt;Swab endocervical para pesquisa de Micoplasma hominins e Clamydia
-trachomatis: pelo mesmo motivo da citologia oncótica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-&lt;h3 id=&quot;fator-masculino&quot;&gt;Fator masculino&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;O primeiro a ser avaliado&lt;/li&gt;
-  &lt;li&gt;Anamnese: assim como na avaliação da mulher um interrogatório cuidadoso a respeito dos hábitos de vida e dos antecedentes do parceiro deverá ser realizada na tentativa de identificar fatores desencadeantes ou precipitantes da infertilidade.&lt;/li&gt;
-  &lt;li&gt;Exame físico: a avaliação do genital masculino deve fazer parte da propedêutica básica, por isso é aconselhável a existência de uma equipe multidisciplinar para uma melhor assistência.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Espermograma simples&lt;/strong&gt;: colhido após 2 a 3 dias de abstinência e não mais que 5 dias; deverão ser colhidas duas amostras com intervalo mínimo de um mês devido à possibilidade de alterações fisiológicas.
-    &lt;ul&gt;
-      &lt;li&gt;Valores normais (critérios estritos de &lt;strong&gt;Krüger&lt;/strong&gt;, &lt;strong&gt;OMS 2010&lt;/strong&gt;):
-        &lt;ul&gt;
-          &lt;li&gt;Volume ≥ 2 mL&lt;/li&gt;
-          &lt;li&gt;Concentração ≥ 15 milhões/mL&lt;/li&gt;
-          &lt;li&gt;Nº total de SPTZ &amp;gt; 39 milhões&lt;/li&gt;
-          &lt;li&gt;Motilidade A + B ≥ 25%&lt;/li&gt;
-          &lt;li&gt;Motilidade total &amp;gt; ≥ 40%&lt;/li&gt;
-          &lt;li&gt;Morfologia ≥ 4%&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Nomeclaturas:
-        &lt;ul&gt;
-          &lt;li&gt;&lt;strong&gt;Oligozoospermia&lt;/strong&gt;: concentração de espermatozóides &amp;lt; 20 milhões/mL&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Astenozoospermia&lt;/strong&gt;: alterações na motilidade (sendo A = rápidos e direcionais; B = lentos e direcionais ou rápidos e não-direcionais; C = shaking; D = imóveis).&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Necrozoospermia&lt;/strong&gt;: vitabilidade &amp;lt; 70%&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Teratozoospermia&lt;/strong&gt;: alterações no morfologia&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Aspermia&lt;/strong&gt;: ausência de ejaculado&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Azoospermia&lt;/strong&gt;: ausência de espermatozóides no ejaculado&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Criptozoospermia&lt;/strong&gt;: presença de espermatozóides (alguns) após centrifugação&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Capacitação espermática: deverá ser realizada nos casos em que houver alteração no espermograma simples e que houver a possibilidade de tratamento por reprodução assistida.
-    &lt;ul&gt;
-      &lt;li&gt;A capacitação consiste na preparação do sêmen com seleção dos espermatozóides de melhor qualidade e concentração do sêmen para melhorar resultados de fertilização nos procedimentos de RA, através do uso de solução de Percol e centrifugação.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Espermocultura: deve ser realizada para todos os pacientes juntamente com o espermograma já que a presença de infecções no trato genital masculino, principalmente próstata e vesícula seminal, podem prejudicar a qualidade do sêmen e justificar a presença de alterações no espermograma.&lt;/li&gt;
-  &lt;li&gt;FSH, Testosterona e PRL: a depender dos resultados dos exames anteriores realizados, ou em casos onde houver queixas de diminuição ou perda da libido, ou disfunção erétil.&lt;/li&gt;
-  &lt;li&gt;Estradiol: nos casos de pacientes com ginecomastia&lt;/li&gt;
-  &lt;li&gt;Cariótipo e pesquisa de deleção do AZF: em casos de azoospermia não-obstrutiva, oligozoospermia severa (&amp;lt; 5 milhões de espermatozóides/ml) e agenesia de deferentes a realização do estudo genético deverá ser indicada, uma vez que nestes casos a incidência de cromossopatia pode chegar a 66%.
-    &lt;ul&gt;
-      &lt;li&gt;Nos casos de agenesia de deferentes deve-se pesquisar a presença de mutações no gene para fibrose cística (gene CFTR).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fator-ovulatório&quot;&gt;Fator ovulatório&lt;/h3&gt;
-&lt;p&gt;A presença de &lt;strong&gt;ciclos menstruais regulares&lt;/strong&gt; de modo geral caracteriza a existência de ciclos &lt;strong&gt;ovulatórios&lt;/strong&gt;, e a menos que todos os outros fatores investigados estejam normais &lt;strong&gt;não há justificativa para realização de perfil hormonal&lt;/strong&gt; nestas situações.&lt;/p&gt;
-
-&lt;p&gt;Mas se os ciclos não podem ser caracterizados como regulares ou se volume de sangramento está anormal, a investigação das diferentes causas de anovulação deverá ser realizada.&lt;/p&gt;
-
-&lt;p&gt;Como avaliar a ovulação?&lt;sup id=&quot;fnref:med:1&quot;&gt;&lt;a href=&quot;#fn:med&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Curva térmica basal:&lt;/strong&gt; aferir a Tº na manhã, logo após acordar, todos os dias a partir do 1º dia do ciclo.
-    &lt;ul&gt;
-      &lt;li&gt;Aumento na temperatura &amp;lt; 11 dias: insuficiência do corpo lúteo&lt;/li&gt;
-      &lt;li&gt;Aumento na temperatura &amp;gt; 16 dias: gravidez&lt;/li&gt;
-      &lt;li&gt;Não é muito confiável e não mais recomendado&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dosagem da progesterona:&lt;/strong&gt; o período ideal para fazer a dosagem é a fase lútea média, entre 21º e 24º dia.
-    &lt;ul&gt;
-      &lt;li&gt;P &amp;gt; 3 ng/mL = houve ovulação&lt;/li&gt;
-      &lt;li&gt;P &amp;gt; 10 ng/mL = função lútea normal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;USG-TV seriada:&lt;/strong&gt; capaz de documentar a ovulação
-    &lt;ul&gt;
-      &lt;li&gt;Folículo dominante cresce 2 mm/dia&lt;/li&gt;
-      &lt;li&gt;Rompe com 20-25 mm&lt;/li&gt;
-      &lt;li&gt;Quando o folículo atingir 18 mm, programar o coito&lt;/li&gt;
-      &lt;li&gt;O método mais confiável?&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Avaliação da reserva ovariana:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Indicações:
-        &lt;ul&gt;
-          &lt;li&gt;Idade &amp;gt; 35&lt;/li&gt;
-          &lt;li&gt;Infertilidade sem causa aparente&lt;/li&gt;
-          &lt;li&gt;História de menopausa precoce&lt;/li&gt;
-          &lt;li&gt;Cirurgia ovariana prévia&lt;/li&gt;
-          &lt;li&gt;Tabagismo&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Solicitar FSH e estradiol basais entre o 2º e 5º dia (pedir no 3º dia)
-        &lt;ul&gt;
-          &lt;li&gt;FSH &amp;lt; 10 pg/mL = mau prognóstico&lt;/li&gt;
-          &lt;li&gt;Estradiol &amp;gt; 60-80 pg/mL = mau prognóstico&lt;/li&gt;
-          &lt;li&gt;FSH &amp;gt; 18 IU/L dá 100% de especificidade na falha da concepção&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Com base nas causas mais freqüentes de anovulação deverão ser solicitados:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;FSH e PRL:&lt;/strong&gt; principalmente para descartar hiperprolactinemia e redução da reserva ovariana.
-    &lt;ul&gt;
-      &lt;li&gt;Em caso de suspeita de SOP a dosagem de LH pode auxiliar no diagnóstico, identificando uma relação LH/FSH &amp;gt; 2.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;DHEA-S e 17-hidroxi-progesterona: nos casos de anovulação com sinais de hiperandrogenismo, ambas com finalidade de avaliação do padrão de secreção hormonal adrenal.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Insulina e glicemia de jejum&lt;/strong&gt;: para as pacientes com diagnóstico de SOP, uma vez que uma das principais causas desta patologia é a resistência insulínica e que na maioria das vezes o simples controle deste distúrbio metabólico pode restabelecer ciclos ovulatórios.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;TSH&lt;/strong&gt;: principalmente nos casos de hiperprolactinemia é necessário descartar se a etiologia não é um hipotireoidismo, ou na presença de quadro clínico sugestivo de tireoidopatia.&lt;/li&gt;
-  &lt;li&gt;Teste de avaliação de reserva ovariana ou teste do clomifeno: nos casos em que a paciente apresenta mais de 35 anos é válida a avaliação da reserva ovariana, tanto para auxiliar na indicação terapêutica mais adequada quanto para programar as doses de gonadotrofinas nos casos de se optar por reprodução assistida.
-    &lt;ul&gt;
-      &lt;li&gt;O teste do citrato de Clomifeno (CC) é realizado através da administração de 3mg/Kg/dia (até 200mg/dia) de CC do 3º ao 7º dias do ciclo, com dosagem de FSH no 3º dia antes de iniciar a medicação e no 8º dia.&lt;/li&gt;
-      &lt;li&gt;A presença de um valor inicial maior que 10mIU/ml (RIE) ou ainda aumento de mais de 50% em relação ao valor pré-medicação, indicam uma má reserva ovariana.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fator-tubário&quot;&gt;Fator tubário&lt;/h3&gt;
-&lt;p&gt;A obstrução tubária pode ser suspeitada já na anamnese da paciente, principalmente se houver história de &lt;strong&gt;DIPA&lt;/strong&gt; anterior. Entretanto, até 50% dos casos de obstrução não apresentam história sugestiva de alteração tubária, o que indica que essa avaliação deva ser feita sempre, antes de qualquer procedimento terapêutico.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Histerossalpingografia&lt;/strong&gt; (HSG): avalia a cavidade uterina (identificação de pólipos, miomas, sinéquias e malformações uterinas) e a permeabilidade tubária. Injeta-se constraste no útero e faz-se radiografias.
-    &lt;ul&gt;
-      &lt;li&gt;Deverá ser realizada logo após o período menstrual (2-5 dias após menstruação), pois nesta fase o endométrio ainda está fino o que diminui a chance de exames falso positivos.&lt;/li&gt;
-      &lt;li&gt;E, principalmente, pelo menor risco de realizá-lo na vigência de gestações iniciais ainda não diagnosticadas.&lt;/li&gt;
-      &lt;li&gt;Tem uma sensibilidade de 81,2% e especificidade de 80,4% em relação à histeroscopia, padrão ouro para avaliação da cavidade uterina.&lt;/li&gt;
-      &lt;li&gt;Caso a laparoscopia esteja indicada a avaliação da permeabilidade tubária poderá ser realizada no intra-operatório dispensando a HSG.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Histerossonografia&lt;/strong&gt;: (USG associada à injeção de contraste hipoecóide na cavidade uterina, que inclusive pode ser solução fisiológica 0,9%), tem o mesmo objetivo que a HSG, e parece ser tão eficaz quanto na avaliação da cavidade uterina.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Laparoscopia&lt;/strong&gt;: associada à injeção de contraste na cavidade uterina e observação da eliminação de contraste pelas trompas.
-    &lt;ul&gt;
-      &lt;li&gt;Normalmente a laparoscopia é realizada em casos em que a investigação da cavidade abdominal se faz necessária, e uma vez indicada fornece dados importantes sobre a função tubária.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;complementação-diagnóstica&quot;&gt;Complementação diagnóstica&lt;/h2&gt;
-&lt;h3 id=&quot;histeroscopia&quot;&gt;Histeroscopia?&lt;/h3&gt;
-&lt;p&gt;Apesar de alguns autores sugerirem realização de histeroscopia diagnóstica como parte da
-rotina da propedêutica infértil, a ausência de alterações ao SUG em pacientes assintomáticas praticamente exclui a necessidade de realizar a HSC rotineiramente, uma vez que a chance de encontrar alguma alteração à HSC nestes casos é de 1,4%, geralmente se trata de casos de endometrites e sinéquias uterinas que não são identificadas por USG.&lt;/p&gt;
-
-&lt;h3 id=&quot;laparoscopia&quot;&gt;Laparoscopia&lt;/h3&gt;
-&lt;p&gt;Está indicada principalmente nos casos em que houver suspeita de endometriose (principalmente algia pélvica, seja ela cíclica ou acíclica), uma
-vez que esta é uma causa freqüente de infertilidade.&lt;/p&gt;
-
-&lt;p&gt;A LPSC ainda é o padrão ouro para
-diagnóstico desta doença, além disso, também tem finalidade terapêutica nestes casos.&lt;/p&gt;
-
-&lt;p&gt;Outra indicação de LPSC em pacientes inférteis é a presença de massas anexiais, simples ou complexas, como por exemplo, nos casos de hidrossalpinge. As hidrossalpinges comprovadamente pioram as taxas de implantação nos procedimentos de RA, por isso a identificação desta alteração a ultra-sonografia indica a exérese cirúrgica da mesma.&lt;/p&gt;
-
-&lt;p&gt;Durante a realização da LPSC, a prova de avaliação da permeabilidade tubária
-deverá ser realizada. Esta prova consiste na injeção de contraste na cavidade uterina e visualização da eliminação do mesmo pelas trompas e tem finalidade de avaliar a
-permeabilidade tubária.&lt;/p&gt;
-
-&lt;h3 id=&quot;cariótipo-do-casal&quot;&gt;Cariótipo do casal&lt;/h3&gt;
-&lt;p&gt;Pode estar indicado em casos de aborto de repetição ou se houver antecedentes de aberrações cromossômicas numéricas e/ou estruturais de concepções anteriores ou familiares.&lt;/p&gt;
-
-&lt;h2 id=&quot;conduta&quot;&gt;Conduta&lt;/h2&gt;
-&lt;p&gt;Alterações tubárias obviamente limitam técnicas mais naturais, e mulheres com idade mais avançada não podem ficar muito tempo tentando técnicas menos eficazes.&lt;/p&gt;
-
-&lt;p&gt;Também é importante realçar que nenhum método deve ser tentado por mais de 3-6 meses, pois a chance cumulativa de gravidez não justifica a repetição exagerada de um mesmo procedimento.&lt;/p&gt;
-
-&lt;p&gt;Havendo condições, os procedimentos incluem, em ordem de complexidade progressiva:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Indução de ovulação sem monitorização&lt;/li&gt;
-  &lt;li&gt;Indução de ovulação com coito programado&lt;/li&gt;
-  &lt;li&gt;Inseminação intra-uterina (para casos com permeabilidade tubária, concentração de espermatozóides progressivos &amp;gt; 10 milhões/mL e ausência de alterações significativas de morfologia espermática).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Casos em que houver alterações tubárias, endometriose severa com tratamentos anteriores e/ou espermograma com baixa concentração de espermatozóides progressivos, devem ser submetidos a Fertilização in vitro e/ou Inseminação Intra Citoplasmática de Gametas (ICSI).&lt;/p&gt;
-
-&lt;h3 id=&quot;induçãoda-ovulação&quot;&gt;Induçãoda ovulação&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Citrato de clomifeno&lt;/strong&gt; (CC):
-    &lt;ul&gt;
-      &lt;li&gt;Início no 3º, 4º ou 5º dia do ciclo mentrual por 5 dias (50 a 150 mg)&lt;/li&gt;
-      &lt;li&gt;Monitorar com USG?&lt;/li&gt;
-      &lt;li&gt;Se ocorrer a ovulação não precisa aumentar a dose&lt;/li&gt;
-      &lt;li&gt;A maioria das gestações ocorre em 6 ciclos&lt;/li&gt;
-      &lt;li&gt;Problemas:
-        &lt;ul&gt;
-          &lt;li&gt;Efeitos antiestrogênicos&lt;/li&gt;
-          &lt;li&gt;Síndrome da hiperestimulação ovariana (SHO)&lt;/li&gt;
-          &lt;li&gt;Gestação múltipla&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Contra-indicações
-        &lt;ul&gt;
-          &lt;li&gt;Cistos ovarianos&lt;/li&gt;
-          &lt;li&gt;Hepatopatias&lt;/li&gt;
-          &lt;li&gt;Tumor hipofisário&lt;/li&gt;
-          &lt;li&gt;Disfunção tireoidiana e adrenal&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gonadotrofinas&lt;/strong&gt;: só devem ser usadas se não houve resposta à dose máxima de CC.
-    &lt;ul&gt;
-      &lt;li&gt;3º dia do ciclo: fazer FSH recombinante 75 UI/dia por 5-6 dias&lt;/li&gt;
-      &lt;li&gt;Obrigatoriamente acompanhar com USG, devido ao maior risco de SHO&lt;/li&gt;
-      &lt;li&gt;HCG recombinante para programar a ovulação? Coito programado&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Metformina&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Em pacientes com resistência insulínica (em especial a SOP)&lt;/li&gt;
-      &lt;li&gt;Pode ser associada ao CC&lt;/li&gt;
-      &lt;li&gt;Efeitos gastrointestinais&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:cisam&quot;&gt;
-      &lt;p&gt;Livro do CISAM &lt;a href=&quot;#fnref:cisam&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:med&quot;&gt;
-      &lt;p&gt;MED &lt;a href=&quot;#fnref:med&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:med:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

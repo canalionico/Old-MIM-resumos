@@ -1,7 +1,11 @@
 @charset "UTF-8";
+* {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-align: left; }
+
 /* Padding order: top right bottom left */
 .wrapper {
-  max-width: 1400px;
+  max-width: 800px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 20px;
@@ -80,6 +84,9 @@ body {
 
 .fa {
   padding-right: 5px; }
+
+.github {
+  text-indent: 0; }
 
 .meu-svg {
   padding-right: 5px; }
@@ -201,46 +208,13 @@ body {
     font-size: 16px; }
 
 h1 {
-  font-size: 40px;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-  font-weight: 600;
-  letter-spacing: 0.025em;
-  text-rendering: optimizeLegibility;
-  margin-bottom: 5px; }
+  text-align: center; }
 
-h2 {
-  font-size: 32px;
-  border-bottom: 2px solid #ebebeb; }
-
-h3 {
-  font-size: 28px; }
-
-h4 {
-  font-size: 22px; }
-
-h5 {
-  font-size: 18px; }
-
-h2, h3, h4, h5, h6 {
-  font-family: 'Roboto', sans-serif;
-  font-weight: 400;
-  text-align: left;
-  font-weight: 500;
-  letter-spacing: 0.025em;
-  text-rendering: optimizeLegibility; }
-
-p, a, li, figcaption {
-  font-family: 'Roboto', sans-serif;
-  text-align: left;
-  hyphens: none;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  line-height: 1.6;
-  color: #404040; }
+p {
+  text-indent: 1em;
+  line-height: 1.2em; }
 
 a {
-  color: blue;
   word-break: break-word;
   text-decoration: none; }
 
@@ -256,8 +230,6 @@ a {
   text-align: left; }
 
 table {
-  font: 100%/1.45 'Helvetica Neue','Segoe UI','Helvetica','Arial',sans-serif;
-  font-size: 1.3rem;
   border-collapse: collapse;
   width: 100%; }
 

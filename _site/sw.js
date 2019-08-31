@@ -45,6 +45,14 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/gastroenterologia/pancreatite',
+      
+        '/cirurgia/pancreatite-cronica',
+      
+        '/gastroenterologia/drge-na-crianca',
+      
+        '/cirurgia/ictericia-obstrutiva',
+      
         '/obstetricia/doen%C3%A7a-trofoblastica-gestacional',
       
         '/obstetricia/vacuo-extrator',
