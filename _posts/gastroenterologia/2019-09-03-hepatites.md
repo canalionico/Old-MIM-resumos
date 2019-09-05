@@ -138,17 +138,39 @@ A vacinação foi introduzida no SUS em 2014.
 
 # Hepatite B
 
-É o único vírus de <span style="color:green">DNA</span>, com uma partícula de DANE de 42nm (maior comparada aos demais). Possui vários genótipos distribuídos em todo o mundo. A infecção **pode cronificar** e existe relação com o desenvolvimento de **carcinoma hepatocelular** (o tumor primário do fígado).
+É o único vírus de <span style="color:green">DNA</span>, com uma partícula de DANE de 42nm (maior comparada aos demais). Mesmo assim, ainda realiza transcrição reversa de partículas de RNA produzidos na célula invadida.  Possui vários genótipos distribuídos em todo o mundo. A infecção **pode cronificar** e existe relação com o desenvolvimento de **carcinoma hepatocelular** (o tumor primário do fígado).
 
 Não é possível confirmar que houve a cura da hepatite B, pois o CC-DNA não é passível de eliminação com as medicações atuais. É por isso que um paciente com qualquer marcador de hepatite deixa de ser doador de sangue.
 
 ## Transmissão
 
-* Sexual
-* Perinatal (vertical)
-* Percutânea
+O HBV está presente em grandes concentra-
+ções nos fluidos corpóreos e sangue (principalmente nos indivíduos HBeAg positivos) e sua
+transmissão ocorre por via parenteral, através do contato com estes materiais. A principal via
+de contaminação é a sexual. A maior fonte vem de carreadores assintomáticos do vírus B.
 
-Transplante de órgãos, parenteral, vertical, fluidos corporais (sangue, sêmen, secreções).
+**Principais vias de transmissão:**
+
+* Sexual: o mais comum nos dias de hoje;
+* Perinatal (vertical): exposição ao sangue materno ou líquido amniótico;
+  * A operação cesariana não se mostrou eficaz em eliminar o risco de transmissão perinatal da hepatite B.
+  * Embora o HBsAg possa ser identificado no leite materno, **não há evidências conclusivas que permitam afirmar que a hepatite B possa ser transmitida pela amamentação**;
+* Percutânea: compartilhar agulhas (usuários de droga IV), lâminas de barbear, acidentes com material contaminado, hemodiálise.
+* Transplante de órgãos
+
+O HBeAg é um bom marcador do risco de transmissão vertical do HBV. Em mães com ele positivo a chance é de 90% e quando for negativo cai para 10 a 15%.
+
+Como o HBV permanece viável
+por um longo período fora do corpo humano
+(ao contrário do HIV), a transmissão através
+do contato com superfícies contaminadas,
+como escova de dente e lâminas de barbear,
+seria possível.
+
+Sêmen e saliva são secreções
+orgânicas em que se pode identificar também
+o HBsAG, mas em concentrações bem menores que as do sangue, tornando menos
+provável a contaminação.
 
 ## Diagnóstico
 
@@ -230,6 +252,29 @@ pode estar em níveis indetectáveis pelos testes sorológicos.
 
 > quando se encontra HBsAg e anti-HBs concomitantemente positivos, devemos pensar, além de erro laboratorial, em anticorpo contra antígeno não significante do vírus. Na verdade, já são conhecidos alguns mutantes por escape, que são vírus que sofreram alteração no HBsAg, impedindo a atividade neutralizante do anti-HBs (resistentes a ele). Estes pacientes podem ter altos títulos de anti-HBs na presença do HBsAg, sem que haja qualquer significado clínico de proteção.
 
+Em indivíduos menores de 18 meses, as crianças podem apresentar anticorpos contra o vírus, de origem materna. Por isso, após a identificação do HBsAg por imunoensaio, não se orienta a pesquisa do anti-HBc, mas a detecção direta do DNA do vírus através do diagnóstico mo-
+lecular.
+
+<div class="alert aviso-green">Na suspeita de infecção oculta deve-se dosar a carga viral (HBV-DNA). Baseia-se na suspeita clínica e epidemiológica.</div>
+
+
+### Mutações na região pré-core
+
+Pelo fato de o HBV utilizar o mecanismo de
+transcrição reversa para replicação, esta pode, frequentemente, induzir mutações. A mais importante destas mutações é a que ocorre na região pré-core do DNA-HBV, que leva a uma falha na expressão do antígeno “e” (HBeAg).
+
+Esta mutação se associa ao surgimento de quadros de **hepatites fulminantes** e a **exacerbações de quadros de hepatites crônicas** pelo HBV, produzindo maiores graus de morbidade e mortalidade que
+os observados nas infecções pelos HBV selvagens.
+
+A replicação dos vírus com esta mutação
+do pré-core não deflagra a elevação no soro do HBeAg e pode ocorrer na presença do anti-HBe. Assim, a presença de HBV mutante pré-core deve ser **suspeitada na vigência de HBsAg positivo, HBeAg negativo, anti-HBe positivo e transaminases elevadas**. Nesta situação, a pesquisa quantitativa do **DNA-HBV** poderá detectar altos níveis de carga viral, a despeito da ausência de HBeAg detectável no soro.
+
+### Biópsia
+
+Regra geral, a biópsia não deve ser realizada. Está indicada nos casos de diagnóstico duvidoso ou quando se pretende avaliar concomitantemente outras patologias hepáticas.
+
+O achado histológico mais específico para a hepatite B são as _Ground-Glass Inclusions_ ou **inclusões em “vidro fosco”**, contudo, só são encontrados em infecções crônicas!
+
 
 
 Fase aguda: HBsAg, HBeAg e Anti-HBcIgM (a fundamental para diferenciar a infecção aguda da crônica).
@@ -253,7 +298,8 @@ A vacina é feita em 3 doses com 0, 30 e 180 dias de intervalo. Nas pessoas vaci
 
 ## Padrão clínico
 
-Os quadros de hepatites costumam ser muito específicos.
+Os quadros de hepatites costumam ser muito inespecíficos. Em geral, na hepatite B aguda, os sintomas
+costumam ser mais intensos quando comparados com os da Hepatite A ou C.
 
 * Icterícia
   * Idade < 5 anos: < 10%
@@ -265,19 +311,41 @@ Os quadros de hepatites costumam ser muito específicos.
   * Idade > 5 anos: 2 a 10%
 * Mortalidade por DHC: 15 a 25%
 
+Em crinças há menos sintomas e mais chance de cronificação. Em adultos ocorre o inverso. A maioria dos pacientes não desenvolve a fase ictérica e as formas anictéricas têm maior chance de se
+tornarem crônicas do que as ictéricas.
+
+
 ### Complicações
 
 * Cronificação (principalmente em RNs);
-* Hepatite fulminante.
+* Hepatite fulminante: em menos de 1% dos casos. Uma hepatite pode ser considerada fulminante quando evolui para **encefalopatia** num período de 8 semanas a partir do início do quadro clínico.
+  * A partir de então surgem gradualmente os sintomas de insuficiência hepática, como flapping, distúrbios eletrolíticos, distúrbios da consciência, e outros.
+
+No Brasil, a hepatite fulminante é quase
+sempre fatal, num índice de mortalidade que ultrapassa os 80%.
+
+<div class="alert aviso-green">O vírus pode infectar outros órgãos além do fígado, como pâncreas, baço e medula óssea, que funcionam como reservatório. Isso explica as recidivas de hepatite B após transplante hepático.</div>
 
 ### Profilaxia
 
 * Pré-Exposição = Vacina (HB).
 * Pós-Exposição = Imunoglobulina Hiperimune (IGHAHB) + Vacina (HB).
 
+### Tratamento
 
+O tratamento da hepatite B aguda é apenas sintomático. A única restrição
+está relacionada à ingestão de álcool, que
+deve ser suspensa por no mínimo seis meses.
 
-## Hepatite C
+Não existem evidências de que o uso de interferon
+no episódio agudo possa reduzir as chances
+de cronificação, ou mesmo acelerar a melhora clínica.
+
+Para os casos graves (hepatite fulminante), fica indicado o suporte
+intensivo, associado a uma das drogas orais disponíveis para o tratamento da hepatite B (tenofovir, entecavir, etc.). Não há benefício de
+iniciar corticoterapia. Na verdade, a grande terapia para os casos de hepatite fulminante é o transplante hepático.
+
+# Hepatite C
 
 Feinstone 75
 Houghton 89

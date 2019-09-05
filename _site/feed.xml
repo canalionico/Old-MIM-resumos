@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-05T15:35:06-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-05T16:25:28-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#cistos-hepáticos&quot; id=&quot;markdown-toc-cistos-hepáticos&quot;&gt;Cistos hepáticos&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#hemangioma&quot; id=&quot;markdown-toc-hemangioma&quot;&gt;Hemangioma&lt;/a&gt;&lt;/li&gt;
@@ -199,16 +199,19 @@ NASH: &lt;em&gt;non alcoolic steatosis hepatitis&lt;/em&gt;.&lt;/p&gt;
       &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#evolução-sorológica&quot; id=&quot;markdown-toc-evolução-sorológica&quot;&gt;Evolução sorológica&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#guia-de-dianóstico&quot; id=&quot;markdown-toc-guia-de-dianóstico&quot;&gt;Guia de dianóstico&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#mutações-na-região-pré-core&quot; id=&quot;markdown-toc-mutações-na-região-pré-core&quot;&gt;Mutações na região pré-core&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#biópsia&quot; id=&quot;markdown-toc-biópsia&quot;&gt;Biópsia&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#padrão-clínico&quot; id=&quot;markdown-toc-padrão-clínico&quot;&gt;Padrão clínico&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#complicações-1&quot; id=&quot;markdown-toc-complicações-1&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hepatite-c&quot; id=&quot;markdown-toc-hepatite-c&quot;&gt;Hepatite C&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hepatite-c&quot; id=&quot;markdown-toc-hepatite-c&quot;&gt;Hepatite C&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;É a inflamação do fígado que possui várias etiologias, como virais, bacterianas, alcóolica, etc. &lt;em&gt;A&lt;/em&gt; e &lt;em&gt;E&lt;/em&gt; são transmitidas principalmente por água e alimentos. A &lt;em&gt;B&lt;/em&gt; por transmissão vertical, principalmente. Existem as hepatites &lt;em&gt;A, B, C, D, e E&lt;/em&gt;, que são as mais importantes.&lt;/p&gt;
@@ -367,19 +370,44 @@ exige a &lt;strong&gt;sorologia viral&lt;/strong&gt; para os principais vírus h
 
 &lt;h1 id=&quot;hepatite-b&quot;&gt;Hepatite B&lt;/h1&gt;
 
-&lt;p&gt;É o único vírus de &lt;span style=&quot;color:green&quot;&gt;DNA&lt;/span&gt;, com uma partícula de DANE de 42nm (maior comparada aos demais). Possui vários genótipos distribuídos em todo o mundo. A infecção &lt;strong&gt;pode cronificar&lt;/strong&gt; e existe relação com o desenvolvimento de &lt;strong&gt;carcinoma hepatocelular&lt;/strong&gt; (o tumor primário do fígado).&lt;/p&gt;
+&lt;p&gt;É o único vírus de &lt;span style=&quot;color:green&quot;&gt;DNA&lt;/span&gt;, com uma partícula de DANE de 42nm (maior comparada aos demais). Mesmo assim, ainda realiza transcrição reversa de partículas de RNA produzidos na célula invadida.  Possui vários genótipos distribuídos em todo o mundo. A infecção &lt;strong&gt;pode cronificar&lt;/strong&gt; e existe relação com o desenvolvimento de &lt;strong&gt;carcinoma hepatocelular&lt;/strong&gt; (o tumor primário do fígado).&lt;/p&gt;
 
 &lt;p&gt;Não é possível confirmar que houve a cura da hepatite B, pois o CC-DNA não é passível de eliminação com as medicações atuais. É por isso que um paciente com qualquer marcador de hepatite deixa de ser doador de sangue.&lt;/p&gt;
 
 &lt;h2 id=&quot;transmissão&quot;&gt;Transmissão&lt;/h2&gt;
 
+&lt;p&gt;O HBV está presente em grandes concentra-
+ções nos fluidos corpóreos e sangue (principalmente nos indivíduos HBeAg positivos) e sua
+transmissão ocorre por via parenteral, através do contato com estes materiais. A principal via
+de contaminação é a sexual. A maior fonte vem de carreadores assintomáticos do vírus B.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Principais vias de transmissão:&lt;/strong&gt;&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Sexual&lt;/li&gt;
-  &lt;li&gt;Perinatal (vertical)&lt;/li&gt;
-  &lt;li&gt;Percutânea&lt;/li&gt;
+  &lt;li&gt;Sexual: o mais comum nos dias de hoje;&lt;/li&gt;
+  &lt;li&gt;Perinatal (vertical): exposição ao sangue materno ou líquido amniótico;
+    &lt;ul&gt;
+      &lt;li&gt;A operação cesariana não se mostrou eficaz em eliminar o risco de transmissão perinatal da hepatite B.&lt;/li&gt;
+      &lt;li&gt;Embora o HBsAg possa ser identificado no leite materno, &lt;strong&gt;não há evidências conclusivas que permitam afirmar que a hepatite B possa ser transmitida pela amamentação&lt;/strong&gt;;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Percutânea: compartilhar agulhas (usuários de droga IV), lâminas de barbear, acidentes com material contaminado, hemodiálise.&lt;/li&gt;
+  &lt;li&gt;Transplante de órgãos&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Transplante de órgãos, parenteral, vertical, fluidos corporais (sangue, sêmen, secreções).&lt;/p&gt;
+&lt;p&gt;O HBeAg é um bom marcador do risco de transmissão vertical do HBV. Em mães com ele positivo a chance é de 90% e quando for negativo cai para 10 a 15%.&lt;/p&gt;
+
+&lt;p&gt;Como o HBV permanece viável
+por um longo período fora do corpo humano
+(ao contrário do HIV), a transmissão através
+do contato com superfícies contaminadas,
+como escova de dente e lâminas de barbear,
+seria possível.&lt;/p&gt;
+
+&lt;p&gt;Sêmen e saliva são secreções
+orgânicas em que se pode identificar também
+o HBsAG, mas em concentrações bem menores que as do sangue, tornando menos
+provável a contaminação.&lt;/p&gt;
 
 &lt;h2 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h2&gt;
 
@@ -500,6 +528,28 @@ pode estar em níveis indetectáveis pelos testes sorológicos.&lt;/p&gt;
   &lt;p&gt;quando se encontra HBsAg e anti-HBs concomitantemente positivos, devemos pensar, além de erro laboratorial, em anticorpo contra antígeno não significante do vírus. Na verdade, já são conhecidos alguns mutantes por escape, que são vírus que sofreram alteração no HBsAg, impedindo a atividade neutralizante do anti-HBs (resistentes a ele). Estes pacientes podem ter altos títulos de anti-HBs na presença do HBsAg, sem que haja qualquer significado clínico de proteção.&lt;/p&gt;
 &lt;/blockquote&gt;
 
+&lt;p&gt;Em indivíduos menores de 18 meses, as crianças podem apresentar anticorpos contra o vírus, de origem materna. Por isso, após a identificação do HBsAg por imunoensaio, não se orienta a pesquisa do anti-HBc, mas a detecção direta do DNA do vírus através do diagnóstico mo-
+lecular.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;Na suspeita de infecção oculta deve-se dosar a carga viral (HBV-DNA). Baseia-se na suspeita clínica e epidemiológica.&lt;/div&gt;
+
+&lt;h3 id=&quot;mutações-na-região-pré-core&quot;&gt;Mutações na região pré-core&lt;/h3&gt;
+
+&lt;p&gt;Pelo fato de o HBV utilizar o mecanismo de
+transcrição reversa para replicação, esta pode, frequentemente, induzir mutações. A mais importante destas mutações é a que ocorre na região pré-core do DNA-HBV, que leva a uma falha na expressão do antígeno “e” (HBeAg).&lt;/p&gt;
+
+&lt;p&gt;Esta mutação se associa ao surgimento de quadros de &lt;strong&gt;hepatites fulminantes&lt;/strong&gt; e a &lt;strong&gt;exacerbações de quadros de hepatites crônicas&lt;/strong&gt; pelo HBV, produzindo maiores graus de morbidade e mortalidade que
+os observados nas infecções pelos HBV selvagens.&lt;/p&gt;
+
+&lt;p&gt;A replicação dos vírus com esta mutação
+do pré-core não deflagra a elevação no soro do HBeAg e pode ocorrer na presença do anti-HBe. Assim, a presença de HBV mutante pré-core deve ser &lt;strong&gt;suspeitada na vigência de HBsAg positivo, HBeAg negativo, anti-HBe positivo e transaminases elevadas&lt;/strong&gt;. Nesta situação, a pesquisa quantitativa do &lt;strong&gt;DNA-HBV&lt;/strong&gt; poderá detectar altos níveis de carga viral, a despeito da ausência de HBeAg detectável no soro.&lt;/p&gt;
+
+&lt;h3 id=&quot;biópsia&quot;&gt;Biópsia&lt;/h3&gt;
+
+&lt;p&gt;Regra geral, a biópsia não deve ser realizada. Está indicada nos casos de diagnóstico duvidoso ou quando se pretende avaliar concomitantemente outras patologias hepáticas.&lt;/p&gt;
+
+&lt;p&gt;O achado histológico mais específico para a hepatite B são as &lt;em&gt;Ground-Glass Inclusions&lt;/em&gt; ou &lt;strong&gt;inclusões em “vidro fosco”&lt;/strong&gt;, contudo, só são encontrados em infecções crônicas!&lt;/p&gt;
+
 &lt;p&gt;Fase aguda: HBsAg, HBeAg e Anti-HBcIgM (a fundamental para diferenciar a infecção aguda da crônica).
 Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
 
@@ -525,7 +575,8 @@ Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
 
 &lt;h2 id=&quot;padrão-clínico&quot;&gt;Padrão clínico&lt;/h2&gt;
 
-&lt;p&gt;Os quadros de hepatites costumam ser muito específicos.&lt;/p&gt;
+&lt;p&gt;Os quadros de hepatites costumam ser muito inespecíficos. Em geral, na hepatite B aguda, os sintomas
+costumam ser mais intensos quando comparados com os da Hepatite A ou C.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Icterícia
@@ -545,12 +596,24 @@ Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
   &lt;li&gt;Mortalidade por DHC: 15 a 25%&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;Em crinças há menos sintomas e mais chance de cronificação. Em adultos ocorre o inverso. A maioria dos pacientes não desenvolve a fase ictérica e as formas anictéricas têm maior chance de se
+tornarem crônicas do que as ictéricas.&lt;/p&gt;
+
 &lt;h3 id=&quot;complicações-1&quot;&gt;Complicações&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Cronificação (principalmente em RNs);&lt;/li&gt;
-  &lt;li&gt;Hepatite fulminante.&lt;/li&gt;
+  &lt;li&gt;Hepatite fulminante: em menos de 1% dos casos. Uma hepatite pode ser considerada fulminante quando evolui para &lt;strong&gt;encefalopatia&lt;/strong&gt; num período de 8 semanas a partir do início do quadro clínico.
+    &lt;ul&gt;
+      &lt;li&gt;A partir de então surgem gradualmente os sintomas de insuficiência hepática, como flapping, distúrbios eletrolíticos, distúrbios da consciência, e outros.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;No Brasil, a hepatite fulminante é quase
+sempre fatal, num índice de mortalidade que ultrapassa os 80%.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;O vírus pode infectar outros órgãos além do fígado, como pâncreas, baço e medula óssea, que funcionam como reservatório. Isso explica as recidivas de hepatite B após transplante hepático.&lt;/div&gt;
 
 &lt;h3 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h3&gt;
 
@@ -559,7 +622,21 @@ Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
   &lt;li&gt;Pós-Exposição = Imunoglobulina Hiperimune (IGHAHB) + Vacina (HB).&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;hepatite-c&quot;&gt;Hepatite C&lt;/h2&gt;
+&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;p&gt;O tratamento da hepatite B aguda é apenas sintomático. A única restrição
+está relacionada à ingestão de álcool, que
+deve ser suspensa por no mínimo seis meses.&lt;/p&gt;
+
+&lt;p&gt;Não existem evidências de que o uso de interferon
+no episódio agudo possa reduzir as chances
+de cronificação, ou mesmo acelerar a melhora clínica.&lt;/p&gt;
+
+&lt;p&gt;Para os casos graves (hepatite fulminante), fica indicado o suporte
+intensivo, associado a uma das drogas orais disponíveis para o tratamento da hepatite B (tenofovir, entecavir, etc.). Não há benefício de
+iniciar corticoterapia. Na verdade, a grande terapia para os casos de hepatite fulminante é o transplante hepático.&lt;/p&gt;
+
+&lt;h1 id=&quot;hepatite-c&quot;&gt;Hepatite C&lt;/h1&gt;
 
 &lt;p&gt;Feinstone 75
 Houghton 89&lt;/p&gt;
