@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-04T21:14:55-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-05T15:35:06-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#cistos-hepáticos&quot; id=&quot;markdown-toc-cistos-hepáticos&quot;&gt;Cistos hepáticos&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#hemangioma&quot; id=&quot;markdown-toc-hemangioma&quot;&gt;Hemangioma&lt;/a&gt;&lt;/li&gt;
@@ -178,11 +178,166 @@ NASH: &lt;em&gt;non alcoolic steatosis hepatitis&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;quantificação-do-grau-de-fibrose&quot;&gt;Quantificação do grau de fibrose&lt;/h3&gt;
 
-&lt;p&gt;APRI, FIB-4, Elastografia, MELD, Child-Turcotte-Pugh&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hepatites</title><link href="http://localhost:4000/gastroenterologia/hepatites" rel="alternate" type="text/html" title="Hepatites" /><published>2019-09-03T00:00:00-03:00</published><updated>2019-09-03T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/hepatites</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/hepatites">&lt;p&gt;É a inflamação do fígado que possui várias etiologias, como virais, bacterianas, alcóolica, etc. A e E são transmitidas principalmente por água e alimentos. A B por transmissão vertical, principalmente. Existem as hepatites A, B, C, D, e E, que são as mais importantes.&lt;/p&gt;
+&lt;p&gt;APRI, FIB-4, Elastografia, MELD, Child-Turcotte-Pugh&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hepatites virais</title><link href="http://localhost:4000/gastroenterologia/hepatites" rel="alternate" type="text/html" title="Hepatites virais" /><published>2019-09-03T00:00:00-03:00</published><updated>2019-09-03T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/hepatites</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/hepatites">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-prodrômica-dias&quot; id=&quot;markdown-toc-fase-prodrômica-dias&quot;&gt;Fase prodrômica (dias)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-ictérica-semanas&quot; id=&quot;markdown-toc-fase-ictérica-semanas&quot;&gt;Fase Ictérica (semanas)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-de-convalescência-semanas&quot; id=&quot;markdown-toc-fase-de-convalescência-semanas&quot;&gt;Fase de Convalescência (semanas)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#laboratório&quot; id=&quot;markdown-toc-laboratório&quot;&gt;Laboratório&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hepatite-a&quot; id=&quot;markdown-toc-hepatite-a&quot;&gt;Hepatite A&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#vacina&quot; id=&quot;markdown-toc-vacina&quot;&gt;Vacina&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hepatite-b&quot; id=&quot;markdown-toc-hepatite-b&quot;&gt;Hepatite B&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#transmissão&quot; id=&quot;markdown-toc-transmissão&quot;&gt;Transmissão&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#evolução-sorológica&quot; id=&quot;markdown-toc-evolução-sorológica&quot;&gt;Evolução sorológica&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#guia-de-dianóstico&quot; id=&quot;markdown-toc-guia-de-dianóstico&quot;&gt;Guia de dianóstico&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#padrão-clínico&quot; id=&quot;markdown-toc-padrão-clínico&quot;&gt;Padrão clínico&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#complicações-1&quot; id=&quot;markdown-toc-complicações-1&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hepatite-c&quot; id=&quot;markdown-toc-hepatite-c&quot;&gt;Hepatite C&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a inflamação do fígado que possui várias etiologias, como virais, bacterianas, alcóolica, etc. &lt;em&gt;A&lt;/em&gt; e &lt;em&gt;E&lt;/em&gt; são transmitidas principalmente por água e alimentos. A &lt;em&gt;B&lt;/em&gt; por transmissão vertical, principalmente. Existem as hepatites &lt;em&gt;A, B, C, D, e E&lt;/em&gt;, que são as mais importantes.&lt;/p&gt;
 
 &lt;p&gt;Para todas as hepatites virais a notificação é obrigatória!&lt;/p&gt;
 
-&lt;h2 id=&quot;hepatite-a&quot;&gt;Hepatite A&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Hepatite crônica é aquela que supera 6 meses (180 dias)!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;Hostologicamente, a inflamação do fígado é caracterizada pela infiltração de leucócitos (principalmente o padrão &lt;em&gt;linfo-mono&lt;/em&gt;). O padrão que
+se estabelece é Panlobular, ou seja, todas
+as partes de cada um dos lóbulos hepáticos
+estão envolvidas. Em geral, esta destruição tem início nos hepatócitos próximos aos espaços-porta: é o
+&lt;span class=&quot;red&quot;&gt;padrão Periportal&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em quadros graves, a destruição dos hepatócitos pode seguir um padrão que chamamos &lt;strong&gt;“em ponte”&lt;/strong&gt; ou &lt;strong&gt;“necrose subaguda”&lt;/strong&gt;, estendendo-se do
+espaço-porta para a veia central, ou mesmo de uma veia central para outra.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;Diferentemente, a hepatite alcoólica apresenta um padrão de inflamação&lt;span class=&quot;red&quot;&gt;centrolobular&lt;/span&gt; e preferencialmente por leucócitos &lt;span class=&quot;orange&quot;&gt;polimorfonucleares&lt;/span&gt; (infiltração neutrofílica) e não por mononucleares (linfócitos/monócitos) como na viral.&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Tempo de incubação:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hepatite A: 4 semanas (5-45 dias)&lt;/li&gt;
+  &lt;li&gt;Hepatite E: 5-6 semanas (14-60 dias)&lt;/li&gt;
+  &lt;li&gt;Hepatite C: 7 semanas (15-160 dias)&lt;/li&gt;
+  &lt;li&gt;Hepatite B e D: 8-12 semanas (30 dias a 6 meses)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;O quadro clínico é muito semelhante entre
+os diversos tipos de vírus, o que muda é o
+período de incubação de cada um deles. A
+apresentação clássica é Trifásica:&lt;/p&gt;
+
+&lt;h3 id=&quot;fase-prodrômica-dias&quot;&gt;Fase prodrômica (dias)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Síndrome gripal leve:
+    &lt;ul&gt;
+      &lt;li&gt;febre em 75% dos casos (principalmente na &lt;em&gt;A&lt;/em&gt; e &lt;em&gt;E&lt;/em&gt; que raramente pode chegar a 39,5 graus C)&lt;/li&gt;
+      &lt;li&gt;Sintomas gastrointestinais inespecíficos (fadiga, anorexia, náuseas, vômitos, perversão do paladar)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Desconforto no QSD&lt;/li&gt;
+  &lt;li&gt;Manifestações imunomediadas (mais comuns na hepatite B: glomerulonefrite, rash, esplenomegalia).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Em geral dois a sete dias&lt;/p&gt;
+
+&lt;h3 id=&quot;fase-ictérica-semanas&quot;&gt;Fase Ictérica (semanas)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Icterícia (o mais comum é não haver)&lt;/li&gt;
+  &lt;li&gt;Colúria (precede a icterícia, geralmente  por 1 a 5 dias)&lt;/li&gt;
+  &lt;li&gt;Acolia fecal&lt;/li&gt;
+  &lt;li&gt;Prurido&lt;/li&gt;
+  &lt;li&gt;Melhora dos sintomas prodrômicos (à exceção dos gastrointestinais que podem até se agravar).&lt;/li&gt;
+  &lt;li&gt;Dor em HD e hepatomegalia dolorosa&lt;/li&gt;
+  &lt;li&gt;Achados incomuns ao exame: aranhas vasculares (telangiectasias), adenopatia cervical, esplenomegalia (10-20% dos casos).&lt;/li&gt;
+  &lt;li&gt;Obs.: existe &lt;strong&gt;hepatite viral aguda sem icterícia&lt;/strong&gt;? Sim! Aliás, &lt;strong&gt;é o mais comum&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fase-de-convalescência-semanas&quot;&gt;Fase de Convalescência (semanas)&lt;/h3&gt;
+
+&lt;p&gt;Melhora clínica lenta e progressiva de todos os sinais e sintomas. Varia de 2 a 12 semanas de duração. A regressão clinico-laboratorial completa é esperada após um
+a dois meses nos casos de hepatite A e E e
+três a quatro meses após o aparecimento da
+ictérica nos casos autolimitados de hepatite
+B e C.&lt;/p&gt;
+
+&lt;h2 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;span class=&quot;red&quot;&gt;Elevação acentuada das transaminases&lt;/span&gt; – em geral mais de dez vezes o valor de referência (&lt;strong&gt;frequentemente &amp;gt; 1.000 U/L&lt;/strong&gt;), predominando a &lt;strong&gt;ALT (TGP)&lt;/strong&gt;;
+    &lt;ul&gt;
+      &lt;li&gt;Começa antes mesmo da fase ictérica;&lt;/li&gt;
+      &lt;li&gt;Não há uma correlação adequada entre transaminases e grau de lesão hepática&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Icterícia à custa de &lt;strong&gt;BD&lt;/strong&gt; e &lt;strong&gt;bilirrubinúria&lt;/strong&gt;;
+    &lt;ul&gt;
+      &lt;li&gt;A persistência de níveis elevados de bilirrubina ao longo da doença é um sinal de mau prognóstico.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hemograma: normal ou com &lt;span class=&quot;green&quot;&gt;leucopenia&lt;/span&gt; discreta e &lt;span class=&quot;red&quot;&gt;linfocitose&lt;/span&gt; (compatível com infecção viral).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A &lt;strong&gt;biópsia&lt;/strong&gt; hepática não está indicada. Caso fosse realizada, mostraria: &lt;strong&gt;infiltração mononuclear&lt;/strong&gt; (lin-
+fócitos) &lt;span class=&quot;red&quot;&gt;panlobular&lt;/span&gt; e dos espaços-porta, degeneração eosinofílica apoptótica de hepatócitos
+(&amp;lt;span class=”blue”corpúsculos de Councilman&amp;lt;/span&amp;gt;). Na dependência
+da gravidade, podem ocorrer diversos graus de necrose: em “saca-bocado” (piecemeal/hepatite de interface), “em ponte” ou maciça.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;O diagnóstico de uma hepatite viral aguda
+exige a &lt;strong&gt;sorologia viral&lt;/strong&gt; para os principais vírus hepatotrópicos. A biópsia só é realizada se o diagnóstico permanecer incerto ou for necessário alguma decisão terapêutica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hepatite Aguda:&lt;/strong&gt; 4 marcadores = HBsAg, IgM anti-HBc, IgM anti-HAV e anti-HCV;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hepatite Crônica:&lt;/strong&gt; 2 marcadores = HBsAg e anti-HCV.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Suporte&lt;/strong&gt; – repouso relativo e dieta hipercalórica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Terapia específica indicada sempre nas:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Hepatite C aguda&lt;/strong&gt; (interferon ± ribavirina)&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Casos graves de hepatite B&lt;/strong&gt; (drogas orais como a lamivudina ou tenofovir).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Hepatite fulminante&lt;/li&gt;
+  &lt;li&gt;Cronificação&lt;/li&gt;
+  &lt;li&gt;Manifestações extra-hepáticas autoimunes&lt;/li&gt;
+  &lt;li&gt;Hepatite recorrente&lt;/li&gt;
+  &lt;li&gt;Síndrome colestática&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;hepatite-a&quot;&gt;Hepatite A&lt;/h1&gt;
 
 &lt;p&gt;É um vírus de RNA com &lt;span style=&quot;color:orange&quot;&gt;transmissão oral-fecal&lt;/span&gt;, excretado nas fezes. Ele não evolui para cronicidade, sendo uma doença autoresolutiva e com cura em 99% dos casos, e a sua incidência é maior em crianças.&lt;/p&gt;
 
@@ -210,19 +365,140 @@ NASH: &lt;em&gt;non alcoolic steatosis hepatitis&lt;/em&gt;.&lt;/p&gt;
   &lt;li&gt;TWINRIX&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;hepatite-b&quot;&gt;Hepatite B&lt;/h2&gt;
+&lt;h1 id=&quot;hepatite-b&quot;&gt;Hepatite B&lt;/h1&gt;
 
-&lt;p&gt;É um vírus de &lt;span style=&quot;color:green&quot;&gt;DNA&lt;/span&gt;, com uma partícula de DANE de 42nm (maior comparada aos demais). Possui vários genótipos distribuídos em todo o mundo. A infecção pode cronificar e existe relação com o desenvolvimento de carcinoma hepatocelular (o tumor primário do fígado).&lt;/p&gt;
+&lt;p&gt;É o único vírus de &lt;span style=&quot;color:green&quot;&gt;DNA&lt;/span&gt;, com uma partícula de DANE de 42nm (maior comparada aos demais). Possui vários genótipos distribuídos em todo o mundo. A infecção &lt;strong&gt;pode cronificar&lt;/strong&gt; e existe relação com o desenvolvimento de &lt;strong&gt;carcinoma hepatocelular&lt;/strong&gt; (o tumor primário do fígado).&lt;/p&gt;
 
-&lt;p&gt;Não é possível confirmar que houve a cura da hepatite B, pois o CC-DNA não é passível de eliminação com as medicações atuais. É por isso que um paciente com qualquer marcador de hepatite é eliminado como doador de sangue.&lt;/p&gt;
+&lt;p&gt;Não é possível confirmar que houve a cura da hepatite B, pois o CC-DNA não é passível de eliminação com as medicações atuais. É por isso que um paciente com qualquer marcador de hepatite deixa de ser doador de sangue.&lt;/p&gt;
 
-&lt;p&gt;Transmissão: transplante de órgãos, parenteral, vertical, fluidos corporais (sangue, sêmen, secreções).&lt;/p&gt;
+&lt;h2 id=&quot;transmissão&quot;&gt;Transmissão&lt;/h2&gt;
 
-&lt;p&gt;HBsAg: o s é de superfícice, A de antígeno. Imaginando o vírus como um pnéu. Encontrado na forma tubular e esférica. São esses marcadores que são colocados na vacina. É o primeiro a dar positivo e, portanto, o &lt;strong&gt;primeiro a ser solicitado&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Sexual&lt;/li&gt;
+  &lt;li&gt;Perinatal (vertical)&lt;/li&gt;
+  &lt;li&gt;Percutânea&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;HBcAg: c de &lt;em&gt;core&lt;/em&gt;. Assim como na hepatite A, a viremia é muito curta, dosamos o anticorpo (Anti-HBc)&lt;/p&gt;
+&lt;p&gt;Transplante de órgãos, parenteral, vertical, fluidos corporais (sangue, sêmen, secreções).&lt;/p&gt;
 
-&lt;p&gt;HBeAg: e de excelente pois é o melhor marcador. e de replicação viral. Dá positivo na fase de replicação, ou seja, na fase aguda.&lt;/p&gt;
+&lt;h2 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;h3 id=&quot;evolução-sorológica&quot;&gt;Evolução sorológica&lt;/h3&gt;
+
+&lt;p&gt;O período de incubação da hepatite B costuma ser de 30 dias-6 meses (média de 8-12 semanas), podendo variar em função da carga viral recebida durante o contágio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HBsAg:&lt;/strong&gt; (antígeno Austrália) o &lt;em&gt;S&lt;/em&gt; é de superfícice e o &lt;em&gt;A&lt;/em&gt; de antígeno. Imaginando o vírus como um pnéu, é a superfície do pnéu. Pode ser interpretado como a presença do próprio vírus. Encontrado na forma tubular e esférica. São esses marcadores que são colocados na vacina. &lt;span class=&quot;red&quot;&gt;É o primeiro a dar positivo&lt;/span&gt; e, portanto, o &lt;strong&gt;primeiro a ser solicitado&lt;/strong&gt;. Após o contágio,
+este antígeno pode ser detectado no soro dentro de poucas semanas, antes da existência de qualquer sintomatologia.&lt;/p&gt;
+
+&lt;p&gt;Quando se iniciam os primeiros sinais e sintomas da hepatite B, dois importantes eventos sorológicos costumam se tornar evidentes: o aumentodas transaminases e o aparecimento do anticorpo contra o Core: anti-HBc (lembrar que o antígeno “c” não é detectado no soro pelos métodos usuais).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HBcAg:&lt;/strong&gt; &lt;em&gt;C&lt;/em&gt; de &lt;em&gt;core&lt;/em&gt;. Assim como na hepatite A, a viremia é muito curta, dosamos o anticorpo &lt;strong&gt;Anti-HBc&lt;/strong&gt; que está presente nas infecções agudas quando IgM (no soro até 32 semanas após a infecção) e crônicas quando IgG. O &lt;strong&gt;anti-HBc IgM&lt;/strong&gt; aparece no soro logo após o HBsAg (1 a 2 semanas), juntamente com os sintomas da hepatite. Esse anticorpo
+permanece positivo por quatro a cinco meses. O &lt;strong&gt;anti-HBc IgG&lt;/strong&gt; aparece
+pouco tempo depois do IgM, permanecendo positivo indefinidamente, mesmo após a cura da hepatite B (&lt;strong&gt;cicatriz sorológica&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-red&quot;&gt;O HBsAg e o Anti-HBc IgM são os marcadores sorológicos mais importantes da fase aguda!&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;HBeAg:&lt;/strong&gt; &lt;em&gt;E&lt;/em&gt; de &lt;em&gt;excelent&lt;/em&gt; pois é o melhor marcador. É um marcador de &lt;strong&gt;replicação viral&lt;/strong&gt;. Dá positivo na fase de replicação, ou seja, na fase aguda. Quando maior o HBe mais infectividade o soro que o contêm possui.O &lt;strong&gt;Anti-HBe&lt;/strong&gt; surge após o desaparecimento do HBeAg e indica o fim da fase replicativa.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Se houver cura do quadro de hepatite B, o anti-HBe permanece no soro, evidenciando um passado de replicação viral.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Se o paciente desenvolver hepatite B crônica, sempre que houver piora do quadro (agudização) por retomada da replicação viral, aparecerá novamente no sangue o HBeAg.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;Para manejo diagnóstico de um paciente ictérico, quando o objetivo é a interpretação de um quadro provável de hepatite B, o HBeAg e o anti-HBe não tem tanta importância quanto os marcadores HBsAg, anti-HBc e anti-HBs.&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Anti-HBs:&lt;/strong&gt; único anticorpo que confere imunidade ao HBV. Está presente no soro após o desaparecimento do HBsAg, sendo &lt;strong&gt;indicador de cura e imunidade&lt;/strong&gt; e, isoladamente, &lt;strong&gt;em pessoas vacinadas&lt;/strong&gt;. Com o surgimento do anticorpo contra o antígeno de superfície – anti-HBs, inicia-se a fase de convalescência, marcada pela queda progressiva das transaminases hepáticas, e redução progressiva da icterícia e dos sintomas sistêmicos.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Este anticorpo surge em média um a dois meses após o início dos sintomas, logo depois ou algumas semanas depois da negativação do HBsAg. Este período é chamado de “janela imunológica”, justificando um pequenino grupo de pacientes com hepatite B aguda HBsAg negativo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A melhora do quadro agudo da hepatite B e a evolução para a cura dependem fundamentalmente da &lt;strong&gt;capacidade do indivíduo em produzir de forma satisfatória o anti-HBs.&lt;/strong&gt; Se não houver a produção deste anticorpo pelo menos após
+seis meses de evolução, o paciente não se livrará do HBV, tornando-se portador crônico assintomático ou desenvolvendo hepatite B crônica.&lt;/p&gt;
+
+&lt;p&gt;COLOCAR AQUI A IMAGEM DA EVOLUÇÃO SOROLÓGICA&lt;/p&gt;
+
+&lt;h3 id=&quot;guia-de-dianóstico&quot;&gt;Guia de dianóstico&lt;/h3&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;MARCADORES SOROLÓGICOS DA HEPATITE B&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;ANTÍGENO&lt;/td&gt;
+      &lt;td&gt;ANTICORPO&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;HBsAg&lt;/td&gt;
+      &lt;td&gt;Anti-HBs&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;HBcAg (indetectável)&lt;/td&gt;
+      &lt;td&gt;Anti-HBc&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;HBeAg&lt;/td&gt;
+      &lt;td&gt;Anti-HBe&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Olhar o HBsAg&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Negativo:&lt;/strong&gt; HBV não presente ou falso negativo (viremia muito baixa, &lt;strong&gt;infecção oculta&lt;/strong&gt; e/ou &lt;strong&gt;“janela imunológica”&lt;/strong&gt; logo após a fase ictérica);&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Em caso de suspeita de infecção pelo HBV, uma nova amostra deverá ser coletada após 30 dias;
+      * &lt;strong&gt;Positivo:&lt;/strong&gt; HBV está presente e ativo, pode ser hepatite B aguda ou crônica. Ir para estapa 2;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Olhar o anti-HBc&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;total (IgM + IgG) negativo:&lt;/li&gt;
+      &lt;li&gt;total (IgM + IgG) positivo:&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Só IgM positivo:&lt;/strong&gt; infecção aguda!&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Só IgG positivo:&lt;/strong&gt; hepatite B crônica ou curada, ir para a etapa 3;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Olhar o anti-HBs&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Anti-HBc (IgG) positivo e anti-HBs positivo:&lt;/strong&gt; infecção passada curada;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Anti-HBc (IgG) positivo e anti-HBs negativo:&lt;/strong&gt; infecção curada há muito tempo (com queda do Anti-HBs) ou infecção crônica. A dúvida pode ser sanada com a pesquisa do &lt;strong&gt;DNA viral&lt;/strong&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Os marcadores HBeAg e anti-HBe são importantes não para o diagnóstico da Hepatite B em si, mas para verificar se o vírus está em fase de replicação ou não. Marcadores da atividade da doença e grau de infectividade. Isto acontece
+porque o antígeno “e” se localiza na estrutura
+interna do vírus e normalmente não é reconhecido pelo sistema imune. Quando o vírus
+se replica, acaba expulsando de sua estrutura
+este antígeno, que passa a circular livremente.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;&lt;b&gt;HBsAg negativo, Anti-HBc (IgM) Negativo e (IgG) negativo e Anti-HBs positivo: &lt;/b&gt; A negatividade para todos os antígenos e
+anticorpos para hepatite B, exceto para o
+anti-HBs, só pode ser conseguida por imunização prévia vacinal. Ou seja, o paciente nunca teve a infecção ou mesmo contato com o vírus ativo, apenas foi vacinado (sendo colocado em contato com o antígeno de superfície), e produziu anticorpos anti-HBs que conferem imunidade contra esta condição.
+&lt;/div&gt;
+
+&lt;p&gt;Obs.: Com o passar do tempo, o anti-HBs
+pode estar em níveis indetectáveis pelos testes sorológicos.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Sabemos que, em cerca de 1-5% de pacientes com infecção ativa pelo vírus B, o HBsAg é negativo. Ou seja, podemos dizer que a sua sensibilidade é de 95-98% para o diagnóstico da hepatite B, mas não é de 100%!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;O anti-HBc IgG permanece positivo como uma cicatriz imunológica!&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;quando se encontra HBsAg e anti-HBs concomitantemente positivos, devemos pensar, além de erro laboratorial, em anticorpo contra antígeno não significante do vírus. Na verdade, já são conhecidos alguns mutantes por escape, que são vírus que sofreram alteração no HBsAg, impedindo a atividade neutralizante do anti-HBs (resistentes a ele). Estes pacientes podem ter altos títulos de anti-HBs na presença do HBsAg, sem que haja qualquer significado clínico de proteção.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Fase aguda: HBsAg, HBeAg e Anti-HBcIgM (a fundamental para diferenciar a infecção aguda da crônica).
 Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
@@ -247,7 +523,7 @@ Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
 
 &lt;p&gt;A vacina é feita em 3 doses com 0, 30 e 180 dias de intervalo. Nas pessoas vacinadas apenas o Anti-HBs é evidenciado.&lt;/p&gt;
 
-&lt;h3 id=&quot;padrão-clínico&quot;&gt;Padrão clínico&lt;/h3&gt;
+&lt;h2 id=&quot;padrão-clínico&quot;&gt;Padrão clínico&lt;/h2&gt;
 
 &lt;p&gt;Os quadros de hepatites costumam ser muito específicos.&lt;/p&gt;
 
@@ -267,6 +543,20 @@ Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Mortalidade por DHC: 15 a 25%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;complicações-1&quot;&gt;Complicações&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cronificação (principalmente em RNs);&lt;/li&gt;
+  &lt;li&gt;Hepatite fulminante.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pré-Exposição = Vacina (HB).&lt;/li&gt;
+  &lt;li&gt;Pós-Exposição = Imunoglobulina Hiperimune (IGHAHB) + Vacina (HB).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;hepatite-c&quot;&gt;Hepatite C&lt;/h2&gt;
@@ -296,7 +586,7 @@ Houghton 89&lt;/p&gt;
 
 &lt;p&gt;No Brasil ainda é a indicação mais frequente de transplante de fígado. Mas vem mudando no mundo.&lt;/p&gt;
 
-&lt;p&gt;Possui também relação com o carcinoma hepatocelular.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É a inflamação do fígado que possui várias etiologias, como virais, bacterianas, alcóolica, etc. A e E são transmitidas principalmente por água e alimentos. A B por transmissão vertical, principalmente. Existem as hepatites A, B, C, D, e E, que são as mais importantes.</summary></entry><entry><title type="html">Doença do refluxo gastroesofágico</title><link href="http://localhost:4000/gastroenterologia/drge" rel="alternate" type="text/html" title="Doença do refluxo gastroesofágico" /><published>2019-09-02T00:00:00-03:00</published><updated>2019-09-02T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/drge</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/drge">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;Possui também relação com o carcinoma hepatocelular.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Doença do refluxo gastroesofágico</title><link href="http://localhost:4000/gastroenterologia/drge" rel="alternate" type="text/html" title="Doença do refluxo gastroesofágico" /><published>2019-09-02T00:00:00-03:00</published><updated>2019-09-02T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/drge</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/drge">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#relaxamento-do-eei-sem-relação-com-a-deglutição&quot; id=&quot;markdown-toc-relaxamento-do-eei-sem-relação-com-a-deglutição&quot;&gt;Relaxamento do EEI sem relação com a deglutição&lt;/a&gt;&lt;/li&gt;
