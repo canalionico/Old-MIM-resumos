@@ -45,6 +45,14 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/gastroenterologia/nodulos-hepaticos',
+      
+        '/gastroenterologia/hepatites',
+      
+        '/gastroenterologia/cirrose-hepatica',
+      
+        '/gastroenterologia/drge',
+      
         '/gastroenterologia/pancreatite',
       
         '/cirurgia/pancreatite-cronica',

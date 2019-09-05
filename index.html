@@ -103,6 +103,20 @@ layout: default
     </div>
   </div>
 
+
+  <button id="gastroenterologia" class="collapsible">Gastroenterologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ol>
+        {% for post in site.categories.gastroenterologia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+
   <button id="trauma" class="collapsible">Traumatologia</button>
   <div class="content">
     <div class="post-list">

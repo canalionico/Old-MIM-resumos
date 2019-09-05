@@ -1,4 +1,805 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-08-31T13:51:52-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Pancreatite crônica</title><link href="http://localhost:4000/cirurgia/pancreatite-cronica" rel="alternate" type="text/html" title="Pancreatite crônica" /><published>2019-08-28T00:00:00-03:00</published><updated>2019-08-28T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/pancreatite-cronica</id><content type="html" xml:base="http://localhost:4000/cirurgia/pancreatite-cronica">&lt;p&gt;Se tirar a cabeça do pâncreas então é necessário tirar o duodeno. Isso pois, do contrário o duodeno necrosaria, uma vez que a irrigação deste vem das artérias que se originam da cabeça do pâncreas e são ressecadas junto com o pâncreas.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-04T21:14:55-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#cistos-hepáticos&quot; id=&quot;markdown-toc-cistos-hepáticos&quot;&gt;Cistos hepáticos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hemangioma&quot; id=&quot;markdown-toc-hemangioma&quot;&gt;Hemangioma&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Lesões hepáticas focais são massas ou áreas de tecidos sólidos ou císticos que são identificados como parte anormal do fígado.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;Dentre as lesões hepáticas focais existem as císticas e as hipervasculares.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Císticas&lt;/li&gt;
+  &lt;li&gt;Hipervasculares
+    &lt;ul&gt;
+      &lt;li&gt;Hemangioma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Fatores de risco
+    &lt;ul&gt;
+      &lt;li&gt;História de hepatite viral/cirrose&lt;/li&gt;
+      &lt;li&gt;História de hemotransfusão, UDI&lt;/li&gt;
+      &lt;li&gt;História familiar de hepatopatia ou tumor hepático&lt;/li&gt;
+      &lt;li&gt;Alcolismo ou tabagismo&lt;/li&gt;
+      &lt;li&gt;Síndrome metabólica&lt;/li&gt;
+      &lt;li&gt;Uso de drogas e medicamentos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sintomas assiciados
+    &lt;ul&gt;
+      &lt;li&gt;Dor abdominal&lt;/li&gt;
+      &lt;li&gt;Perda de peso&lt;/li&gt;
+      &lt;li&gt;Hepatomegalia&lt;/li&gt;
+      &lt;li&gt;Testes de função hepática anormal&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sempre excluir um câncer primário distante do fígado.&lt;/p&gt;
+
+&lt;h3 id=&quot;cistos-hepáticos&quot;&gt;Cistos hepáticos&lt;/h3&gt;
+
+&lt;div class=&quot;alert aviso-red&quot;&gt;Não são realçados após o contraste&lt;/div&gt;
+
+&lt;p&gt;Simples: são lesões biliares congênitas que resultam de dilatação progressiva de microhamartomas biliares, sem comunicação com a árvore biliar e não contém bile. São revestidos por epitéli biliar e são avascularizados. Ou seja, não captam constraste!&lt;/p&gt;
+
+&lt;p&gt;Policísticos: presença de cistos extensos, numerosos, co contínuo aumento de volume. Existem uma associação genética com a doença renal policística. Envolvimento dos genes PKD1 e PKD2.&lt;/p&gt;
+
+&lt;p&gt;Hamartomas hepáticos: precedem os cistos? São microcistos?&lt;/p&gt;
+
+&lt;h3 id=&quot;hemangioma&quot;&gt;Hemangioma&lt;/h3&gt;
+
+&lt;p&gt;É o principal tumor primário benigno do fígado.&lt;/p&gt;
+
+&lt;p&gt;Síndrome de Kasabach-Merritt&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mais comum em mulheres
+*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;Fazer imagem com contraste! O costraste é necessário para caracterizar o tipo de nódulo. Em caso de dúvidas uma biópsia pode ser feita.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;PFH normais ou com alterações discretas de FA, GGT e transaminases;&lt;/li&gt;
+  &lt;li&gt;CA 19.9 Aumentado&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Cirrose hepática</title><link href="http://localhost:4000/gastroenterologia/cirrose-hepatica" rel="alternate" type="text/html" title="Cirrose hepática" /><published>2019-09-03T00:00:00-03:00</published><updated>2019-09-03T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/cirrose-hepatica</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/cirrose-hepatica">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#colangiopatia-biliar-primária&quot; id=&quot;markdown-toc-colangiopatia-biliar-primária&quot;&gt;Colangiopatia biliar primária&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#colangiopatia-esclerosante-primária&quot; id=&quot;markdown-toc-colangiopatia-esclerosante-primária&quot;&gt;Colangiopatia esclerosante primária&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hepatite-medicamentosa&quot; id=&quot;markdown-toc-hepatite-medicamentosa&quot;&gt;Hepatite medicamentosa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#quantificação-do-grau-de-fibrose&quot; id=&quot;markdown-toc-quantificação-do-grau-de-fibrose&quot;&gt;Quantificação do grau de fibrose&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É uma doença crônica caracterizada pela formação de nódilos com consequente desorganização da arquitetura lobular e vascular. O fígado é um órgão com uma boa capacidade de se regenerar. Porém, com sucessivas agressões, começa a se instalar um processo cicatricial com substituição por colágeno (tecido conjuntivo). A cirrose leva em torno de 20 anos para se estabelecer. O hepatocarcinoma seria o último estágio do dano hepático crônico.&lt;/p&gt;
+
+&lt;p&gt;As etiologias podem ser: metabólica, viral, alcóolica, biliar, criptogênica (idiopática), medicamentosa e auto-imune.&lt;/p&gt;
+
+&lt;p&gt;A síndrome metabólica envolve dislipidemia, obesidade, resistência insulínica, doença hepática gordurosa.&lt;/p&gt;
+
+&lt;p&gt;Doença hepática gordurosa não alcóolica&lt;/p&gt;
+
+&lt;p&gt;DHGNA. 20% da população possio esteatose hA síndrome metabólica envolve dislipidemia, obesidade, resistência insulínica, doença hepática gordurosa.
+epática (uma doença inicialmente benigna).
+NASH: &lt;em&gt;non alcoolic steatosis hepatitis&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Não tem um exame, que não a biópsia, que consiga diferenciar a esteatose da esteato-hepatite. As duas condições possuem prognóstico diferente.&lt;/p&gt;
+
+&lt;p&gt;Hoje, pacientes com doença hepática alcóolica só fazem transplante de fígado se passarem os 6 meses anteriores à cirúrgia em abstinência.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;O infiltrado inflamatório crônico proporciona a  liberação de interleucinas, que estimula a proliferação de fibroblastos….&lt;/p&gt;
+
+&lt;p&gt;A irrigação dos hepatócitos é feita por dois sistemas: 70% do sangue que irriga o fígado é portal, 30% é arterial. Na cirrose ocorre uma inversão dessa razão, a maior parte da perfusão começa a ser arterial, pois a veia hepática consegue ser impulsionada pela contração do ventrículo esquerdo. Contudo, o fígado necessita nos nutrientes trazidos do intestino pela veia porta. Essa inversão do fluxo começa a originar uma capilarização sinusoidal e uma arterialização hepática. Começam a se formas &lt;em&gt;shunts&lt;/em&gt; instra-hepáticos.&lt;/p&gt;
+
+&lt;p&gt;O sangue começa a desviar.&lt;/p&gt;
+
+&lt;p&gt;Com a fibrose, formam-se nódulos e septos nos lóbulos hepáticos. As áreas de fibrose dificultam a passagem e drenagem do sangue, o que vai aumentandoa pressão na veia porta e causando a &lt;span style=&quot;color:red&quot;&gt;hipertensão portal&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;A tendência do doente é ir desenvolvendo hipotensão, para compensar a hipertensão porta.&lt;/p&gt;
+
+&lt;p&gt;O metabolismo hormonal é alterado e o metabolismo de estrogênios fica comprometido. Por isso homens podem desenvolver ginecomastia.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;Na esquistossomose a hipertensão portal é pré-sinusoidal, pois interrompe o fluxo antes de chegar nos sinudoides. A HP da esquistossomose é semelhante à da cirrose é semelhante mas a fisiopatologia é diferente.&lt;/div&gt;
+
+&lt;h3 id=&quot;colangiopatia-biliar-primária&quot;&gt;Colangiopatia biliar primária&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prurido&lt;/li&gt;
+  &lt;li&gt;Em 90% dos casos no sexo feminino&lt;/li&gt;
+  &lt;li&gt;BT, FA e GGT elevadas&lt;/li&gt;
+  &lt;li&gt;AMA (anticorpo anti mitocôndria) positivo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;colangiopatia-esclerosante-primária&quot;&gt;Colangiopatia esclerosante primária&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maior no sexo masculino&lt;/li&gt;
+  &lt;li&gt;25 a 45 anos&lt;/li&gt;
+  &lt;li&gt;BT, FA e GGT elevadas&lt;/li&gt;
+  &lt;li&gt;Colite ulcerativa (50 a 75%) dos casose ANCA positivo (80%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;hepatite-medicamentosa&quot;&gt;Hepatite medicamentosa&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Antinflamatórios;&lt;/li&gt;
+  &lt;li&gt;Antifúngicos;&lt;/li&gt;
+  &lt;li&gt;Metrotexate;&lt;/li&gt;
+  &lt;li&gt;Alfa-metildopa: hoje em dia só se usa na obstetrícia;&lt;/li&gt;
+  &lt;li&gt;Tuberculostáticos: como a isoniazida.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ginecomastia&lt;/li&gt;
+  &lt;li&gt;Atrofia testicular&lt;/li&gt;
+  &lt;li&gt;Aranhas vasculares&lt;/li&gt;
+  &lt;li&gt;Etitema palmar&lt;/li&gt;
+  &lt;li&gt;Circulação colateral&lt;/li&gt;
+  &lt;li&gt;Esplenomegalia&lt;/li&gt;
+  &lt;li&gt;Ascite&lt;/li&gt;
+  &lt;li&gt;Flapping&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;complicações&quot;&gt;Complicações&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hemorragia digestiva&lt;/li&gt;
+  &lt;li&gt;Ascite e edema&lt;/li&gt;
+  &lt;li&gt;Peritonite bacteriana espontânea (PBE)&lt;/li&gt;
+  &lt;li&gt;Síndrome hepato-renal&lt;/li&gt;
+  &lt;li&gt;Síndrome hepato-pulmonar&lt;/li&gt;
+  &lt;li&gt;Encefalopatia&lt;/li&gt;
+  &lt;li&gt;Hepatocarcinoma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;O &lt;span style=&quot;color:orange&quot;&gt;padrão ouro para o diagnóstico histológico é a biópsia&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;quantificação-do-grau-de-fibrose&quot;&gt;Quantificação do grau de fibrose&lt;/h3&gt;
+
+&lt;p&gt;APRI, FIB-4, Elastografia, MELD, Child-Turcotte-Pugh&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hepatites</title><link href="http://localhost:4000/gastroenterologia/hepatites" rel="alternate" type="text/html" title="Hepatites" /><published>2019-09-03T00:00:00-03:00</published><updated>2019-09-03T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/hepatites</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/hepatites">&lt;p&gt;É a inflamação do fígado que possui várias etiologias, como virais, bacterianas, alcóolica, etc. A e E são transmitidas principalmente por água e alimentos. A B por transmissão vertical, principalmente. Existem as hepatites A, B, C, D, e E, que são as mais importantes.&lt;/p&gt;
+
+&lt;p&gt;Para todas as hepatites virais a notificação é obrigatória!&lt;/p&gt;
+
+&lt;h2 id=&quot;hepatite-a&quot;&gt;Hepatite A&lt;/h2&gt;
+
+&lt;p&gt;É um vírus de RNA com &lt;span style=&quot;color:orange&quot;&gt;transmissão oral-fecal&lt;/span&gt;, excretado nas fezes. Ele não evolui para cronicidade, sendo uma doença autoresolutiva e com cura em 99% dos casos, e a sua incidência é maior em crianças.&lt;/p&gt;
+
+&lt;p&gt;Pode se apresentar nas formas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Colestática&lt;/li&gt;
+  &lt;li&gt;Recidivante&lt;/li&gt;
+  &lt;li&gt;Prolongada&lt;/li&gt;
+  &lt;li&gt;Fulminante&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A grande maioria das formas evoluem para cura, a exceção da fulminante que é extremamente grave.&lt;/p&gt;
+
+&lt;p&gt;Esta é a única das hepatites que a prevenção exige não troca de toalhas, talheres, etc. Os meios de transmissão incluem fômites, interpessoal, alimentos mal preparados, água, hortaliças, sexo oral, etc. Raramente ocorre transmissão parenteral.&lt;/p&gt;
+
+&lt;p&gt;A viremia do HAV é muito rápida, não há tempo suficiente para detectar esse antígeno no sangue e fazer a sorologia. A forma de avaliar a infecção envolve a detecção dos anticorpos. A detecção do anticorpo IgM anti-HAV indica uma infecção aguda. Já a fração IgG anti-HAV indica uma infecção passada já curada. Na verdade nós não avaliamos a infecção, nós avaliamos o estado da memória imunológica. O RNA viral também pode ser detectado nas fezes por PCR, mas isso é mais para pesquisas.&lt;/p&gt;
+
+&lt;h3 id=&quot;vacina&quot;&gt;Vacina&lt;/h3&gt;
+
+&lt;p&gt;A vacinação foi introduzida no SUS em 2014.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HAVRIX e VAQTA&lt;/li&gt;
+  &lt;li&gt;TWINRIX&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hepatite-b&quot;&gt;Hepatite B&lt;/h2&gt;
+
+&lt;p&gt;É um vírus de &lt;span style=&quot;color:green&quot;&gt;DNA&lt;/span&gt;, com uma partícula de DANE de 42nm (maior comparada aos demais). Possui vários genótipos distribuídos em todo o mundo. A infecção pode cronificar e existe relação com o desenvolvimento de carcinoma hepatocelular (o tumor primário do fígado).&lt;/p&gt;
+
+&lt;p&gt;Não é possível confirmar que houve a cura da hepatite B, pois o CC-DNA não é passível de eliminação com as medicações atuais. É por isso que um paciente com qualquer marcador de hepatite é eliminado como doador de sangue.&lt;/p&gt;
+
+&lt;p&gt;Transmissão: transplante de órgãos, parenteral, vertical, fluidos corporais (sangue, sêmen, secreções).&lt;/p&gt;
+
+&lt;p&gt;HBsAg: o s é de superfícice, A de antígeno. Imaginando o vírus como um pnéu. Encontrado na forma tubular e esférica. São esses marcadores que são colocados na vacina. É o primeiro a dar positivo e, portanto, o &lt;strong&gt;primeiro a ser solicitado&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;HBcAg: c de &lt;em&gt;core&lt;/em&gt;. Assim como na hepatite A, a viremia é muito curta, dosamos o anticorpo (Anti-HBc)&lt;/p&gt;
+
+&lt;p&gt;HBeAg: e de excelente pois é o melhor marcador. e de replicação viral. Dá positivo na fase de replicação, ou seja, na fase aguda.&lt;/p&gt;
+
+&lt;p&gt;Fase aguda: HBsAg, HBeAg e Anti-HBcIgM (a fundamental para diferenciar a infecção aguda da crônica).
+Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
+
+&lt;p&gt;Quando surge o Anti-HBs, o “pnéu foi destruído”.&lt;/p&gt;
+
+&lt;p&gt;Ocorre um gap imunológico entre o Anti-HBcIgM e o Anti-HBs. E nem todos os pacientes apresentam a fração Anti-HBs.&lt;/p&gt;
+
+&lt;p&gt;Fase crônica: o Anti-HBc IgG está presente em todos na fase crônica, é o indicativo da cicatriz imunológica (ao longo dos anos o anti-HBe pode desaparecer). Nessa fase podem ocorrer duas opções:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HBeAg +, Anti-HBe -, HBV-DNA +: está ocorrendo a replicação, é como se a infecção crônica foi completa. CARRO COM OS 4 PNEUS&lt;/li&gt;
+  &lt;li&gt;HBeAg -, Anti-HBe +, HBV-DNA -: CARRO COM OS PENEUS MUCHOS
+    &lt;ul&gt;
+      &lt;li&gt;Existe uma mutação &lt;em&gt;pre-core&lt;/em&gt; que muda a gravidade e a evolução deste tipo de evoluçãocrônica. O polimorfismo inibe a expressão do HBeAg, se apresentam com Anti-HBe + e carga viral +. PNEUS MUCHOS MAS MOTOR POTENTE&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;HBeAg -, Anti-HBe -, HBV-DNA -: é o chamado portador “&lt;em&gt;são&lt;/em&gt;” da hepatite B. É como se só tivesse a carcaça do vírus. CARRO SEM OS 4 PŃÉUS, SÓ COM A CARCAÇA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Não há necessidade de de proibir o aleitamento materno em mães HBsAg positivas.&lt;/p&gt;
+
+&lt;p&gt;A vacina é feita em 3 doses com 0, 30 e 180 dias de intervalo. Nas pessoas vacinadas apenas o Anti-HBs é evidenciado.&lt;/p&gt;
+
+&lt;h3 id=&quot;padrão-clínico&quot;&gt;Padrão clínico&lt;/h3&gt;
+
+&lt;p&gt;Os quadros de hepatites costumam ser muito específicos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Icterícia
+    &lt;ul&gt;
+      &lt;li&gt;Idade &amp;lt; 5 anos: &amp;lt; 10%&lt;/li&gt;
+      &lt;li&gt;Idade &amp;gt; 5 anos: 30 a 50%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hepatite fulminante em 0,5 a 1% dos casos&lt;/li&gt;
+  &lt;li&gt;Período de incubação de 45 a 180 dias&lt;/li&gt;
+  &lt;li&gt;Infecção crônica
+    &lt;ul&gt;
+      &lt;li&gt;Idade &amp;lt; 5 anos: 30 a 90%&lt;/li&gt;
+      &lt;li&gt;Idade &amp;gt; 5 anos: 2 a 10%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Mortalidade por DHC: 15 a 25%&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hepatite-c&quot;&gt;Hepatite C&lt;/h2&gt;
+
+&lt;p&gt;Feinstone 75
+Houghton 89&lt;/p&gt;
+
+&lt;p&gt;É um RNA vírus com dois envelopes, E1 e E2, que facilitam a sua penetração na célula. Não existe ainda uma vacina.&lt;/p&gt;
+
+&lt;p&gt;Testes sorológicos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Anti-HCV: sempre positivo após um contato com o vírus
+    &lt;ul&gt;
+      &lt;li&gt;Elisa&lt;/li&gt;
+      &lt;li&gt;Riba&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;HCV-RNA: como não existe um marcador de infecção crônica, apenas a carga viral pode avaliar atividade viral. Ainda não se consegue dosar frações de IgG e IgM.
+    &lt;ul&gt;
+      &lt;li&gt;RT-PCR&lt;/li&gt;
+      &lt;li&gt;NASBA&lt;/li&gt;
+      &lt;li&gt;B-DNA&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No Brasil ainda é a indicação mais frequente de transplante de fígado. Mas vem mudando no mundo.&lt;/p&gt;
+
+&lt;p&gt;Possui também relação com o carcinoma hepatocelular.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É a inflamação do fígado que possui várias etiologias, como virais, bacterianas, alcóolica, etc. A e E são transmitidas principalmente por água e alimentos. A B por transmissão vertical, principalmente. Existem as hepatites A, B, C, D, e E, que são as mais importantes.</summary></entry><entry><title type="html">Doença do refluxo gastroesofágico</title><link href="http://localhost:4000/gastroenterologia/drge" rel="alternate" type="text/html" title="Doença do refluxo gastroesofágico" /><published>2019-09-02T00:00:00-03:00</published><updated>2019-09-02T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/drge</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/drge">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#relaxamento-do-eei-sem-relação-com-a-deglutição&quot; id=&quot;markdown-toc-relaxamento-do-eei-sem-relação-com-a-deglutição&quot;&gt;Relaxamento do EEI sem relação com a deglutição&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hipotonia-verdadeira-do-eei&quot; id=&quot;markdown-toc-hipotonia-verdadeira-do-eei&quot;&gt;Hipotonia verdadeira do EEI&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#desestruturação-anatômica-da-junção-esofagogástrica&quot; id=&quot;markdown-toc-desestruturação-anatômica-da-junção-esofagogástrica&quot;&gt;Desestruturação anatômica da junção esofagogástrica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#mecanismos-de-defesa&quot; id=&quot;markdown-toc-mecanismos-de-defesa&quot;&gt;Mecanismos de defesa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnósticos-diferenciais&quot; id=&quot;markdown-toc-diagnósticos-diferenciais&quot;&gt;Diagnósticos diferenciais&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#endoscopia-digestiva-alta&quot; id=&quot;markdown-toc-endoscopia-digestiva-alta&quot;&gt;Endoscopia digestiva alta&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#phmetria-de-24h&quot; id=&quot;markdown-toc-phmetria-de-24h&quot;&gt;pHmetria de 24h&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#esofagomanometria&quot; id=&quot;markdown-toc-esofagomanometria&quot;&gt;Esofagomanometria&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#estenose-péptica-do-esôfago&quot; id=&quot;markdown-toc-estenose-péptica-do-esôfago&quot;&gt;Estenose péptica do esôfago&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#úlcera-esofágica&quot; id=&quot;markdown-toc-úlcera-esofágica&quot;&gt;Úlcera esofágica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#asma-relacionada-à-drge&quot; id=&quot;markdown-toc-asma-relacionada-à-drge&quot;&gt;Asma Relacionada à DRGE&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#esôfago-de-barret&quot; id=&quot;markdown-toc-esôfago-de-barret&quot;&gt;Esôfago de Barret&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#espofagografia-baritada&quot; id=&quot;markdown-toc-espofagografia-baritada&quot;&gt;Espofagografia baritada&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#medidas-antirrefluxo&quot; id=&quot;markdown-toc-medidas-antirrefluxo&quot;&gt;Medidas antirrefluxo&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#medicamentoso&quot; id=&quot;markdown-toc-medicamentoso&quot;&gt;Medicamentoso&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#bloqueadores-do-receptor-h2-de-histamina&quot; id=&quot;markdown-toc-bloqueadores-do-receptor-h2-de-histamina&quot;&gt;Bloqueadores do receptor H2 de histamina&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#inibidoes-da-bomba-de-prótons&quot; id=&quot;markdown-toc-inibidoes-da-bomba-de-prótons&quot;&gt;Inibidoes da Bomba de Prótons&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#antiácidos&quot; id=&quot;markdown-toc-antiácidos&quot;&gt;Antiácidos&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#alginato&quot; id=&quot;markdown-toc-alginato&quot;&gt;Alginato&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cirurgia-antirrefluxo&quot; id=&quot;markdown-toc-cirurgia-antirrefluxo&quot;&gt;Cirurgia antirrefluxo&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#técnicas-cirúrgicas&quot; id=&quot;markdown-toc-técnicas-cirúrgicas&quot;&gt;Técnicas cirúrgicas&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#esquemas-terapêuticos&quot; id=&quot;markdown-toc-esquemas-terapêuticos&quot;&gt;Esquemas terapêuticos&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#sintomas-leves-e-intermitentes&quot; id=&quot;markdown-toc-sintomas-leves-e-intermitentes&quot;&gt;Sintomas leves e intermitentes&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#sintomas-graves-e-frequentes&quot; id=&quot;markdown-toc-sintomas-graves-e-frequentes&quot;&gt;Sintomas graves e frequentes&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-do-esôfago-de-barrett&quot; id=&quot;markdown-toc-tratamento-do-esôfago-de-barrett&quot;&gt;Tratamento do Esôfago de Barrett&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É o retorno do conteúdo gástrico através do esfincter esofagiano inferior (EEI). É importante diferenciar a doença de refluxo de episódios de refluxo, que podem ser fisiológicos ocorrendo logo após as refeições. A DRGE é uma patologia crônica.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;É o distúrbio mais comum do TGI alto, correspondendo a 75% de todas as esofagopatias. Pode aparecer em qualquer faixa etária mas a prevalência aumenta com a idade.&lt;/p&gt;
+
+&lt;p&gt;Alguns fatores de risco são: &lt;strong&gt;obesidade&lt;/strong&gt;, &lt;strong&gt;gestação&lt;/strong&gt; (progesterona relaxa o EEI e mais o aumento da pressão abdominal pela distensão uterina), condições que aumentam a pressão intra-abdominal.&lt;/p&gt;
+
+&lt;p&gt;Em crianças a DRGE predomina em lactentes, as famosas “gofadas”, mas costuma desaparecer em 60% dos casos até os 2 anos. A grande maioria vai desaparecer até os 4 anos. Está relacionada à imaturidade do EEI.&lt;/p&gt;
+
+&lt;p&gt;A esofagite provocada pela DRGE está relacionada a maior incidência de &lt;strong&gt;adenocarcinoma de esôfago&lt;/strong&gt;. Ela pode evoluir para uma metaplasia (onde &lt;strong&gt;epitélio intestinal colunar&lt;/strong&gt; começa a substituir o epitélio estratificado esofágico, pois suporta melhor o pH ácido) e depois para uma displasia seguida de neoplasia maligna. Essa metaplasia no terço inferior do esôfago caracteriza o chamado &lt;strong&gt;êsofago de Barret&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;A infecção por _H. pylori_ confere um fator de proteção contra o adenocarcinoma de êsofago, pois essa bactéria atua reduzindo o pH gástrico, o que diminui e lesão ácida do tecido esofágico.&lt;/div&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;Três fatores podem se somar e contribuir para a DRGE:&lt;/p&gt;
+
+&lt;h4 id=&quot;relaxamento-do-eei-sem-relação-com-a-deglutição&quot;&gt;Relaxamento do EEI sem relação com a deglutição&lt;/h4&gt;
+
+&lt;p&gt;O mais comum, presente em 60% dos pacientes): talvez tenha relação com um reflexo vagovagal anômalo. Neste a pressão do EEI costuma estar normal.&lt;/p&gt;
+
+&lt;h4 id=&quot;hipotonia-verdadeira-do-eei&quot;&gt;Hipotonia verdadeira do EEI&lt;/h4&gt;
+
+&lt;p&gt;A pressão costuma estar &amp;lt; 10 mmHg. Algumas causas são: esclerose sistêmica, lesão cirúrgica, tabagismo, uso de drogas enticolinérgicas ou miorrelaxantes, gestação. A própria esofagite é capaz de reduzir o tônus do EEI (fibrose por repetida agressão). É o principal mecanismo em pacientes com esofagite erosiva grave (o refluxo tende a ser mais intenso e prolongado).&lt;/p&gt;
+
+&lt;h4 id=&quot;desestruturação-anatômica-da-junção-esofagogástrica&quot;&gt;Desestruturação anatômica da junção esofagogástrica&lt;/h4&gt;
+
+&lt;p&gt;A famosa &lt;strong&gt;hérnia de hiato&lt;/strong&gt;. O EEI passa a ficar dentro da cavidade torácica e perde o suporte da musculatura diafragmática que lhe conferia maior pressão. Contudo, lembrar sempre que hérnia de hiato não é sinônimo de DRGE!&lt;/p&gt;
+
+&lt;h3 id=&quot;mecanismos-de-defesa&quot;&gt;Mecanismos de defesa&lt;/h3&gt;
+
+&lt;p&gt;O bicarbonato salivar (síndrome de Sjogren aumenta a gravidade do refluxo), a peristalse esofagiana (distúrbios motores também aumentam a gravidade).&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Pirose&lt;/strong&gt;, sensação de queimação restroesternal ascendente: é o principal sintoma, comum nas primeiras 3h após as refeições e após deitar;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Regurgitação&lt;/strong&gt;, a perceção de líquido na boca;&lt;/li&gt;
+  &lt;li&gt;Disfagia, presente em 1/3 dos casos: associada a outras patologias como estenoses de esôfago.&lt;/li&gt;
+  &lt;li&gt;Sintomas atípicos:
+    &lt;ul&gt;
+      &lt;li&gt;Erosão do esmalte dentário&lt;/li&gt;
+      &lt;li&gt;Irritação da garganta&lt;/li&gt;
+      &lt;li&gt;Rouquidão&lt;/li&gt;
+      &lt;li&gt;Sinusite crônica&lt;/li&gt;
+      &lt;li&gt;Otite média&lt;/li&gt;
+      &lt;li&gt;Tosse crônica&lt;/li&gt;
+      &lt;li&gt;Pneumonite aspirativa (quando também há incompetência do esfincter esofágico superior)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pirose e regurgitação são os sintomas típicos!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cuidado para não confundir pirose com azia (queimação epigástrica)!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Interessante fazer uma boa anamnese pois a pirose pode se confundir com uma dor precordial da dor coronariana. Um diagnóstico diferencial é a &lt;em&gt;angina pectoris&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Anemia ferropriva pode ocorrer nos pacientes com lesão esofágica grave, com úlceras profundas. A perfuração de esôfago é rara.&lt;/p&gt;
+
+&lt;h4 id=&quot;diagnósticos-diferenciais&quot;&gt;Diagnósticos diferenciais&lt;/h4&gt;
+
+&lt;p&gt;Esofagite infecciosa (CMV, HSV, Candida); Esofagite eosinofílica;
+Dispepsia não ulcerosa;
+Úlcera péptica gastroduodenal;
+Doença do trato biliar;
+Distúrbios motores do esôfago;
+Doença coronariana.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;É possível diagnosticar a DRGE sem exames complementares, utilizando da &lt;strong&gt;prova terapêutica&lt;/strong&gt;. Esse método consiste em receitar as medicações e se os sintomas melhorarem então o paciente tem a DRGE. Contudo, alguns médicos preconizam sempre fazer uma endoscopia antes de inicar o tratamento, para poder excluir outras doenças. Sem a endoscopia, o tratamento pode mascarar e retardar o diagnóstico de doenças graves, como carcinomas.&lt;/p&gt;
+
+&lt;h4 id=&quot;endoscopia-digestiva-alta&quot;&gt;Endoscopia digestiva alta&lt;/h4&gt;
+
+&lt;p&gt;Utilizada para excluir outras patologias e identificar complicações da DRGE, como a esofagite (presente em 30-40% dos casos), estenose péptica, esôfago de Barret e o adenocarcinoma.&lt;/p&gt;
+
+&lt;p&gt;A esofagite é diagnosticada na presença de inflamação da mucosa esofágica. Curioso que a intensidade da esofagite pode não ser proporcional ao quadro clínico apresentado.&lt;/p&gt;
+
+&lt;p&gt;Algumas indicações de EDA em diagnóstico ou suspeita de DRGE são as referentes aos critérios de Los Angeles:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Criterios de Los Angeles&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Sinais de alarme:&lt;/strong&gt; Disfagia, Emagrecimento, Odinofagia, Sangramento do TGI e anemia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Sintomas refratários ao tratamento&lt;/strong&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;História prolongada de pirose&lt;/strong&gt; (&amp;gt; 5-10 anos): maior risco de esôfago de Barrett&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Idade&lt;/strong&gt; &amp;gt; 45-55 anos&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Presença de&lt;/strong&gt; náuseas e vômitos, história familiar de câncer e sintomas intensos ou noturnos devem levar o médico a “considerar” a realização de EDA.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Biópsia:&lt;/strong&gt; Se houver a presença de esofagite uma biópsia deve ser feita. Esta costuma revelar hiperplasia da camada basal do epitélio associada à papilomatose. A alteração histopatológica mais precoce é o aumento do espaço intercelular no
+epitélio estratificado, mostrando que o ácido
+refluído “penetra” por entre as camadas de células escamosas. A biópsia é imprescindível
+para confirmar o diagnóstico de esôfago de Barrett (metaplasia intestinal bem como para a
+pesquisa de displasia/neoplasia nesse tecido.&lt;/p&gt;
+
+&lt;h4 id=&quot;phmetria-de-24h&quot;&gt;pHmetria de 24h&lt;/h4&gt;
+
+&lt;p&gt;Pode ser realizada com ou sem impedanciometria. E o método padrão-ouro para o diagnóstico da DRGE, com uma especificidade e sensibilidade acima de 90%. Pode ser realizada com ou sem impedanciometria. As indicações para sua realização são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sintomas refratários ao tratamento clínico;&lt;/li&gt;
+  &lt;li&gt;Avaliação de sintomas atípicos, como tosse, rouquidão e dor torácica;&lt;/li&gt;
+  &lt;li&gt;Documentação da real existência de DRGE antes de uma cirurgia antirrefluxo;&lt;/li&gt;
+  &lt;li&gt;Reavaliação de pacientes ainda sintomáticos após a cirurgia antirrefluxo.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O exame é feito passando um fino cateter com dois sensores de pH pelo esôfago. O primeiro sensor fica a 5 cm do EEI e o segundo a 20 cm. No exame são avaliados: percentual do tempo total de refluxo, percentual do tempo de refluxo em ortostase, percentual do tempo de refluxo em posição supina, número de episódios de refluxo, número de episódios de refluxo com &amp;gt; 5 min de duração, duração do maior episódio. Com base nesses parâmetros é calculado o índice de refluxo (&lt;strong&gt;índice de Meester&lt;/strong&gt;). O &lt;span style=&quot;color:green&quot;&gt;diagnóstico é definido quando o índice é &amp;gt; 14,7&lt;/span&gt;. Ou, quando p pH esofagiano fica &amp;lt; 4,0 por mais de 7% do tempo aferido.&lt;/p&gt;
+
+&lt;p&gt;Pacientes em uso de BRH2 e IBPs devem interromper a medicação 3 e 14 dias antes, respectivamente. O exame também pode ser feito na vigência das medicações, para avaliar a efetividade terapêutica. Antes do exame o médico não deve fazer aconselhamentos para mudar os hábitos do paciente, de modo a reproduzir o ambiente usual do paciente.&lt;/p&gt;
+
+&lt;p&gt;A impedanciometria pode ser associada para aumentar a sensibilidade do exame. Pode ser muito útil para detectar refluxos alcalinos que, obviamente, não vão responder aos IBPs.&lt;/p&gt;
+
+&lt;h4 id=&quot;esofagomanometria&quot;&gt;Esofagomanometria&lt;/h4&gt;
+
+&lt;p&gt;A pressão média normal do EEI está entre &lt;strong&gt;10 e 30 mmHg&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Não é um exame para diagnóstico de DRGE! Auxilia no planejamento cirúrgico (na seleção do tipo de fundoplicatura). Um cateter é usado para medir a pressão em diversos pontos do esôfago, medindo o número e intensidade das ondas peristálticas, medindo também o tônus do EEI. Suas indicações são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Localizar o EEI de modo a permitir o correto posicionamento do cateter de pHmetria;&lt;/li&gt;
+  &lt;li&gt;Antes da cirurgia antirrefluxo, com o objetivo de avaliar a competência motora do esôfago e determinar o tipo de fundoplicatura a ser realizada;&lt;/li&gt;
+  &lt;li&gt;Suspeita de algum distúrbio motor associado.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A esofagomanometria define se a fundoplicatura deverá ser parcial ou completa. Indicam-se fundoplicaturas parciais na vigência de fatores de risco para acalásia pós-operatória, como: (1) menos de 60% das ondas peristálticas atinge a porção final do esôfago; (2) a pressão das ondas peristálticas é inferior a 30 mmHg.&lt;/p&gt;
+
+&lt;p&gt;A pressão média normal do EEI está entre \textbf{10 e 30 mmHg}.&lt;/p&gt;
+
+&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
+
+&lt;h3 id=&quot;estenose-péptica-do-esôfago&quot;&gt;Estenose péptica do esôfago&lt;/h3&gt;
+
+&lt;p&gt;Ocorre em  5% dos portadores de esofagite erosiva. Começa no terço inferior do esôfago e cresce em caráter ascendente. Se manifesta clinicamente com disfagia por obstrução mecânica, geralmente de forma insidiosa.
+Podendo ser precedida por anos de pirose. Esta costuma desaparecer após a instalação da estenose, que atua como uma “barreira”. Diferentemente das estenoses de origem neoplásica, os pacientes não perdem peso pois preservam o apetite e conseguem mudar para uma dieta mais pastosa.&lt;/p&gt;
+
+&lt;p&gt;Abaixo da estenose é comum encontrar o esôfago de Barret. Devido a isso a biópsia está sempre indicada para diferenciar a estenose benigna da maligna.&lt;/p&gt;
+
+&lt;p&gt;O tratamento envolve a dilatação endoscópica por balão (buscando obter um diâmetro de 13-17 mm). Pode ser realizada em mais de uma sessão. Estenoses que se refazem rapidamente após a dilatação podem receber injeção endoscópica de glicocorticoide (triancinolona), o que aumenta a durabilidade do procedimento.&lt;/p&gt;
+
+&lt;p&gt;É obrigatório manter esses pacientes com IBP em longo prazo. Muitos autores, inclusive, recomendam prescrever IBP em “dose dobrada” (2x ao dia), de rotina, para todos esses pacientes.&lt;/p&gt;
+
+&lt;p&gt;A correção cirúrgica da estenose (ex.: esofagectomia) constitui medida de
+exceção, mas a cirurgia antirrefluxo pode ser considerada desde que a obstrução tenha	sido satisfatoriamente aliviada com a dilatação endoscópica, e a presença de câncer tenha
+sido descartada. Uma vez que, quando a dilatação é bem sucedida, o paciente passa a se comportar como se
+tivesse um EEI hipotônico, ficando paradoxalmente predisposto à ocorrência de refluxo ainda mais grave!&lt;/p&gt;
+
+&lt;h3 id=&quot;úlcera-esofágica&quot;&gt;Úlcera esofágica&lt;/h3&gt;
+
+&lt;p&gt;A esofagite de refluxo pode complicar com a
+formação de úlceras (lesões mais profundas que alcançam a submucosa e a muscular). Esses pacientes se queixam de dor ao deglutir (odinofagia) e têm hemorragia digestiva oculta (anemia ferropriva).&lt;/p&gt;
+
+&lt;p&gt;Raramente eles perfuram o esôfago. Com frequência, as úlceras relacionadas à DRGE se localizam em áreas de
+epitélio metaplásico (“úlcera de Barrett”),
+quer dizer, tais lesões estão sempre presentes
+no 1/3 distal do órgão!&lt;/p&gt;
+
+&lt;p&gt;Os principais diagnósticos diferenciais são a	síndrome de Zollinger-Ellison (gastrinoma) e
+as úlceras induzidas por comprimidos.&lt;/p&gt;
+
+&lt;h3 id=&quot;asma-relacionada-à-drge&quot;&gt;Asma Relacionada à DRGE&lt;/h3&gt;
+
+&lt;p&gt;O refluxo pode ser a única causa para o broncoespasmo ou, mais comumente, a DRGE apenas exacerba uma asma previamente existente. Deve ser suspeitada quando houver asma de difícil controle, crises asmáticas que predominam no período pós-prandial e coexistência de sintomas típicos da DRGE.&lt;/p&gt;
+
+&lt;p&gt;O próprio tratamento da asma (pelo uso de
+agonistas beta-adrenérgicos, que relaxam o
+EEI) também pode induzir refluxo.&lt;/p&gt;
+
+&lt;p&gt;A pHmetria de 24 pode ser útil para ver se há relação entre a ocorrência dos refluxos e de sintomas respiratórios.&lt;/p&gt;
+
+&lt;p&gt;O tratamento pode ser tanto o uso de IBPs por toda a vida, como uma cirurgia antirrefluxo. Alguns defendem a cirúrgia, pois: (1) mesmo que o IBP suprima a acidez gástrica,
+a microaspiração do material refluído continua
+ocorrendo, e a cirurgia – ao restaurar a barreira
+antirrefluxo – evita esse fenômeno;  (2) para serem eficazes no controle dos sintomas respiratórios, os IBP precisam ser empregados em doses
+elevadas, demorando de 2-3 meses para começar a surtir efeito.&lt;/p&gt;
+
+&lt;h3 id=&quot;esôfago-de-barret&quot;&gt;Esôfago de Barret&lt;/h3&gt;
+
+&lt;p&gt;É a substituição do epitélio escamoso normal por um epitélio colunar de padrão intestinal, altamente resistente ao pH ácido (metaplasia intestinal).&lt;/p&gt;
+
+&lt;p&gt;É encontrado em 10-15% dos pacientes submetidos à EDA devido a sintomas de refluxo. É uma doença principalmente de homens brancos, e sua prevalência aumenta com a idade até um pico entre 45-60 anos, podendo estar presente cerca de 20 anos antes de ser reconhecida. Sabemos atualmente que a obesidade também é fator de risco independente para EB.&lt;/p&gt;
+
+&lt;p&gt;Não manifesta sintomas específicos, demonstrada uma clínica mais por causa da DRGE associada. Muitos pacientes são oligo ou assintomáticos.&lt;/p&gt;
+
+&lt;p&gt;O consumo de vinho tinto, a infecção crônica por H. pylori e a raça negra são fatores de proteção contra o esôfago de Barrett!&lt;/p&gt;
+
+&lt;p&gt;Na EDA são vistas típicas “línguas” de coloração vermelho-salmão. A confirmação é	feita pela biópsia, sendo sua principal característica histopatológica (que define a presença de metaplasia do tipo “intestinal”) o encontro
+de células caliciformes (repletas de mucina),	melhor identificadas pelo corante alcian-blue, que as torna azuis claras.&lt;/p&gt;
+
+&lt;p&gt;Representa uma lesão precursora do adenocarcinoma (AC) de esôfago. Porta	dores de EB têm risco de AC 40x maior do que a população geral, o que equivale a 0,5% ao ano ou 10% no total.&lt;/p&gt;
+
+&lt;p&gt;A terapia intervencionista só será indicada se houver displasia na biópsia.
+Indicando-­se ou não a terapia intervencionista, é consenso que todo} os portadores EB devem receber inibidores de bomba de prótons!.&lt;/p&gt;
+
+&lt;h4 id=&quot;espofagografia-baritada&quot;&gt;Espofagografia baritada&lt;/h4&gt;
+
+&lt;p&gt;O paciente deglute contraste baritado e são obtidas imagens radiológicas que revelam a anatomia do esôfago. O principal papel da esofagografia é na caracterização das hérnias de hiato.&lt;/p&gt;
+
+&lt;p&gt;Também podemos solicitar este método em pacientes com disfagia (caso uma EDA não possa ser imediatamente realizada). A estenose péptica (benigna) aparece como um afunilamento progressivo (que pode se estender até as porções mais proximais do esôfago), enquanto o adenocarcinoma (maligno) demonstra uma súbita redução do lúmen (&lt;strong&gt;sinal do “degrau de escada&lt;/strong&gt;), tipicamente no terço distal.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;80% dos pacientes têm recidiva dos sintomas após suspensão das medicações.&lt;/p&gt;
+
+&lt;h3 id=&quot;medidas-antirrefluxo&quot;&gt;Medidas antirrefluxo&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Elevação da cabeceira do leito (15 a 20 cm).
+2, Reduzir a ingestão de alimentos que relaxam o EEI ou que têm efeito diretamente “irritante” para o esôfago: gorduras, cítricos, café, bebidas alcoólicas e gasosas, menta, hortelã,
+molho de tomate, chocolate, condimentos em excesso (alho, cebola, pimenta etc.).&lt;/li&gt;
+  &lt;li&gt;Evitar deitar após as refeições, devendo-se esperar de 2-3h; quanto mais comer e mais gordura ingerir, mais esperar.&lt;/li&gt;
+  &lt;li&gt;Evitar refeições copiosas; fracionar a dieta.&lt;/li&gt;
+  &lt;li&gt;Suspensão do fumo.&lt;/li&gt;
+  &lt;li&gt;Evitar líquidos às refeições.&lt;/li&gt;
+  &lt;li&gt;Evitar atitudes que aumentem a pressão intra-abdominal (agachar, fazer abdominais, usar roupas e cintos apertados etc.).&lt;/li&gt;
+  &lt;li&gt;Redução de peso em obesos.&lt;/li&gt;
+  &lt;li&gt;Evitar, se possível, as drogas que relaxam o EEI (antagonistas do cálcio, nitratos, derivados da &lt;strong&gt;morfina&lt;/strong&gt;, &lt;strong&gt;anticolinérgicos&lt;/strong&gt;, &lt;strong&gt;progesterona&lt;/strong&gt;, &lt;strong&gt;diazepam&lt;/strong&gt;, &lt;strong&gt;barbitúricos&lt;/strong&gt;, &lt;strong&gt;teofilina&lt;/strong&gt;).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;medicamentoso&quot;&gt;Medicamentoso&lt;/h3&gt;
+
+&lt;p&gt;Os procinéticos (ex.: bromoprida, domperidona, metoclopramida) não são mais indicados de rotina. Antigamente os procinéticos eram sempre prescritos como adjuvantes ao tratamento antis-secretor, com o intuito de melhorar o tônus e a motilidade da região esofagogástrica, mas nunca foi demonstrado um benefício consistente
+para a maioria dos pacientes.&lt;/p&gt;
+
+&lt;p&gt;Todavia, os procinéticos podem ser prescritos para pacientes
+que, além dos sintomas típicos de refluxo, apresentam outras queixas dispépticas sugestivas de
+gastroparesia associada (ex.: náuseas, saciedade precoce, plenitude pós-prandial).&lt;/p&gt;
+
+&lt;h4 id=&quot;bloqueadores-do-receptor-h2-de-histamina&quot;&gt;Bloqueadores do receptor H2 de histamina&lt;/h4&gt;
+
+&lt;p&gt;Bloqueiam os receptores H2 de histamina nas células parietais gástricas, &lt;strong&gt;inibindo, desse modo, uma das três vias de estímulo neuroendócrino à secreção ácida&lt;/strong&gt; (as outras duas são mediadas por acetilcolina e gastrina).&lt;/p&gt;
+
+&lt;p&gt;São comprovadamente &lt;span style=&quot;color:orange&quot;&gt;menos eficazes do
+que os IBP&lt;/span&gt;, não devendo, por conseguinte, ser
+prescritos na vigência de esofagite grave ou outras complicações (ex.: esôfago de Barrett). Os
+principais fármacos e suas respectivas posologias são citados na Tabela 6. Perceba que &lt;span style=&quot;color:green&quot;&gt;os BH2 devem sempre ser tomados 2x ao dia&lt;/span&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Bloqueadores H2&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Ranitidina (Antak®)&lt;/td&gt;
+      &lt;td&gt;75-150 mg 2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Nizatidina (Axid®)&lt;/td&gt;
+      &lt;td&gt;75-150 mg 2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Famotidina (Famotid®, Famox®)&lt;/td&gt;
+      &lt;td&gt;10-20 mg 2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Cimetidina (Tagamet®)&lt;/td&gt;
+      &lt;td&gt;200-400 mg 2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;inibidoes-da-bomba-de-prótons&quot;&gt;Inibidoes da Bomba de Prótons&lt;/h4&gt;
+
+&lt;p&gt;Inibem
+a H+/K +ATPase (“bomba de prótons”) bloqueando a via final para a secreção de ácido pelas células parietais do estômago. Constituem as &lt;span style=&quot;color:blue&quot;&gt;drogas de escolha quando o paciente é muito sintomático, e também quando apresenta esofagite ou outras complicações da DRGE&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;A melhora da pirose é observada em
+80-90% dos pacientes, desaparecendo por completo em cerca de 50%. A resolução da esofagite é esperada em &amp;gt; 80% quando a dose padrão
+é utilizada (1x ao dia, 30min antes do café da
+manhã), e quase todo o restante melhora quando a dose é “dobrada” (2x ao dia, 30min antes do café da manhã e 30min antes do jantar).&lt;/p&gt;
+
+&lt;p&gt;O omeprazol é o que
+tem maior número de interações, mas é também
+o mais barato.&lt;/p&gt;
+
+&lt;p&gt;Raramente os IBP produzem efeitos adversos. Cefaleia, Diarreia e Dor Abdominal são os
+paraefeitos AGUDOS mais comuns, e podem
+ser resolvidos com uma simples troca da medicação (ex.: trocar omeprazol por pantoprazol).&lt;/p&gt;
+
+&lt;p&gt;Em relação aos paraefeitos CRÔNICOS,
+os mais importantes são:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Maior risco de enterocolite infecciosa, incluindo infecção por Clostridium difficile;&lt;/li&gt;
+  &lt;li&gt;Maior risco de pneumonia (por enteropatógenos Gram-­negativos que passam a colonizar a mucosa gástrica e podem ser aspirados para a via aérea);&lt;/li&gt;
+  &lt;li&gt;Má absorção intestinal de ferro, cálcio, magnésio e vitamina B12, provocando anemia (ferropriva e/ou megaloblástica), hipomagnesemia e fraturas osteoporóticas, especialmente fraturas de quadril.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Usuários crônicos de IBP também estão mais propensos a desenvolver pólipos gástricos fúndicos, porém, o significado
+clínico deste achado ainda é incerto. A causa da maior
+ocorrência desses pólipos é a hipergastrinemia
+(que exerce estímulo trófico sobre as glândulas
+fúndicas), decorrente da hipo/acloridria gerada
+pelos IBP.&lt;/p&gt;
+
+&lt;p&gt;Não há evidências definitivas de que o risco de tumores de estômago como adenocarcinoma ou carcinoide esteja aumentado pelo uso de IBPs.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: left&quot;&gt;Inibidores da bomba de prótons&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Omeprazol (Losec ®)&lt;/td&gt;
+      &lt;td&gt;20-40 mg 1-2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Pantoprazol (Pantozol ®)&lt;/td&gt;
+      &lt;td&gt;20-40 mg 1-2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Esomeprasol (Nexium ®)&lt;/td&gt;
+      &lt;td&gt;20-40 mg 1-2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Lansoprazol (Prazol ®)&lt;/td&gt;
+      &lt;td&gt;15-30 mg 1-2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: left&quot;&gt;Rabeprazol (Pariet ®)&lt;/td&gt;
+      &lt;td&gt;10-20 mg 1-2x ao dia&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;antiácidos&quot;&gt;Antiácidos&lt;/h4&gt;
+
+&lt;p&gt;Os antiácidos (ex.: hidróxido de
+alumínio e/ou magnésio, como o Mylanta Plus® 10-20 ml VO) &lt;strong&gt;neutralizam diretamente a acidez do suco gástrico&lt;/strong&gt;, &lt;span style=&quot;color:green&quot;&gt;sem interferir na secreção cloridropéptica das células parietais&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Logo, não são úteis no tratamento prolongado da DRGE, pois seu efeito é de curta duração (cerca de 2h). Seriam necessárias muitas tomadas diárias a fim de manter o pH gástrico controlado e durante a noite, o paciente ficaria desprotegido. Mas podem ser utilizados como uma “emergência” para alívio imediato!&lt;/p&gt;
+
+&lt;p&gt;Seja como for, antiácidos isolados não têm eficácia na cicatrização da esofagite erosiva, tampouco na presença de outras complicações.&lt;/p&gt;
+
+&lt;p&gt;É importante lembrar que formulações contendo magnésio devem ser evitadas em portadores de doença renal crônica, pelo risco de causar hipermagnesemia.&lt;/p&gt;
+
+&lt;h4 id=&quot;alginato&quot;&gt;Alginato&lt;/h4&gt;
+
+&lt;p&gt;Alginato é um polímero de ocorrência natural que, quando tomado por via oral após uma refeição, possui a propriedade de formar uma película isolante sobre o &lt;em&gt;acid pocket&lt;/em&gt; (bolsão
+ácido que se acumula no fundo gástrico, por cima do bolo alimentar), impedindo seu contato com o esôfago! Quando combinado ao bicarbonato (Gaviscon®), torna-se particularmente útil no &lt;span style=&quot;color:blue&quot;&gt;&lt;span style=&quot;color:blue&quot;&gt;controle da pirose pós-prandial&lt;/span&gt;&lt;/span&gt; de portadores de DRGE que também pos-
+suem grandes hérnias de hiato.&lt;/p&gt;
+
+&lt;h3 id=&quot;cirurgia-antirrefluxo&quot;&gt;Cirurgia antirrefluxo&lt;/h3&gt;
+
+&lt;p&gt;Visa restabelecer a competência
+do EEI, circundando a extremidade inferior do esôfago com um manguito (ou válvula) formado pelo fundo gástrico – a chamada &lt;span style=&quot;color:red&quot;&gt;fundoplicatura&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Existem várias modalidades que diferem
+em função da via de acesso (torácica ou abdominal) e do tamanho da válvula gástrica confeccionada (fundoplicaturas parciais ou totais).&lt;/p&gt;
+
+&lt;p&gt;Reservada para os casos refratários ou com complicações  (que são aqueles onde a probabilidade de alterações anatômicas na barreira antirrefluxo – que podem ser corrigidas com uma fundoplicatura – é maior).&lt;/p&gt;
+
+&lt;p&gt;Atualmente, é preferencialmente realizada por meio da cirurgia videolaparoscópica. A taxa
+de sucesso (alívio dos sintomas e resolução da esofagite) beira os 85%.&lt;/p&gt;
+
+&lt;p&gt;Algumas indicações para o tratamento cirúrgico são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Refratariedade ao tratamento clínico (principalmente quando existe persistência da regurgitação e/ou hérnia de hiato associada).&lt;/li&gt;
+  &lt;li&gt;Pacientes impossibilitados de utilizar IBP em longo prazo (por problemas financeiros, alergia medicamentosa ou opção pessoal).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Antes da cirurgia é mandatório documentar o refluxo por
+uma pHmetria de 24h (a fim de evitar operar portadores de distúrbios puramente “funcionais”)! A EDA também costuma ser feita para descartar complicações (ex.: esôfago de
+Barrett, adenocarcinoma) e a esofagomanometria é indicada para selecionar o tipo de fundoplicatura (total ou parcial).&lt;/p&gt;
+
+&lt;p&gt;Portadores de
+obesidade mórbida devem ser prioritariamente
+submetidos à cirurgia bariátrica, e não a um procedimento antirrefluxo.&lt;/p&gt;
+
+&lt;h5 id=&quot;técnicas-cirúrgicas&quot;&gt;Técnicas cirúrgicas&lt;/h5&gt;
+
+&lt;p&gt;&lt;strong&gt;Fundoplicatura de Nisse: (360)&lt;/strong&gt; realizada através de acesso abdominal, com
+preferência pela videolaparoscopia. Se houver hérnia de hiato, deve-se dissecar o pilar esquerdo do diafragma a fim de realizar sua redução. Confecciona-se uma válvula com o
+fundo gástrico “abraçando” toda a circunferência do esôfago (360 graus). Consiste no procedimento
+de escolha, sendo o de maior eficácia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fundoplicaturas Parciais: (180-270)&lt;/strong&gt;
+indicadas na vigência de dismotilidade esofagiana (menos de 60% das ondas peristálticas são completas e/ou a pressão das ondas peristálticas é inferior a 30 mmHg), pelo maior risco de acalásia iatrogênica com a fundoplicatura de Nissen. As válvulas são parciais, variando entre 180 e 270 graus, podendo ser anteriores
+(como nas técnicas de &lt;strong&gt;Dor&lt;/strong&gt;) ou posteriores
+(como na cirurgia de &lt;strong&gt;Toupet&lt;/strong&gt;). Em todas, o acesso é abdominal. O acesso transtorácico esquerdo era utilizado na técnica de &lt;strong&gt;Belsey-Mark IV&lt;/strong&gt; (abandonada nos dias de hoje), onde
+era confeccionada uma válvula gástrica posterior parcial de 240 graus.&lt;/p&gt;
+
+&lt;h3 id=&quot;esquemas-terapêuticos&quot;&gt;Esquemas terapêuticos&lt;/h3&gt;
+
+&lt;h4 id=&quot;sintomas-leves-e-intermitentes&quot;&gt;Sintomas leves e intermitentes&lt;/h4&gt;
+
+&lt;p&gt;Com frequência &amp;lt; 1x/semana, pode-se usar BH2 (agem em cerca de 30 min, duram 8 h) ou antiácidos (agem imediatamente, duram 2 h) quando na vigência de sintomas.&lt;/p&gt;
+
+&lt;h4 id=&quot;sintomas-graves-e-frequentes&quot;&gt;Sintomas graves e frequentes&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Tratamento inicial:&lt;/strong&gt; IBP em dose padrão (1x ao dia), mantidos por 4 a 8 semanas;
+    &lt;ul&gt;
+      &lt;li&gt;Cerca de 10-20% dos pacientes não melhoram com a dose padrão após as primeiras 2-4 semanas, situação que autoriza o médico a &lt;strong&gt;“dobrar a dose”&lt;/strong&gt; empiricamente (2x ao dia);
+        &lt;ul&gt;
+          &lt;li&gt;Pacientes que nunca fizeram medicação mas já receberam o diagnóstico de DRGE associado a complicações (ex.: esofagite erosiva grave, esôfago de Barrett, estenose péptica) já podem iniciar na dose dobrada;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Na ausência de resposta à dose dobrada (5% dos casos), o paciente deve ser submetido a exames complementares;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tratamento de manutenção:&lt;/strong&gt; pacientes que respondem de forma satisfatória ao IBP na dose padrão &lt;strong&gt;devem tentar suspender a medicação&lt;/strong&gt; após o tratamento inicial.
+    &lt;ul&gt;
+      &lt;li&gt;Cerca de 80% evoluem com recidiva dos sintomas, geralmente dentro dos primeiros 3 meses, e para estes indivíduos as seguintes opções são válidas:
+        &lt;ol&gt;
+          &lt;li&gt;Reintroduzir o IBP na dose padrão e mantê-lo indefinidamente;&lt;/li&gt;
+          &lt;li&gt;Utilizar o IBP na dose padrão, mas de forma intermitente (cursos alternantes de 2-4 semanas);&lt;/li&gt;
+          &lt;li&gt;Utilizar o IBP “sob demanda” (isto é, somente para resolver sintomas eventuais).&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Para pacientes que necessitaram de IBP em dose dobrada durante o tratamento inicial, bem como para aqueles diagnosticados com complicações da DRGE, recomenda-se não tentar seuspender a medicação. Devendo o tratamento ser mantido indefinidamente com a menor dose efetiva possível.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;tratamento-do-esôfago-de-barrett&quot;&gt;Tratamento do Esôfago de Barrett&lt;/h4&gt;
+
+&lt;p&gt;Todo portador de esôfago de Barrett deve realizar múltiplas biópsias endoscópicas à procura de displasia ou neoplasia. Na ausência de displasia, a EDA com biópsias pode ser &lt;span class=&quot;red&quot;&gt;repetida a cada 3-5 anos&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Na presença de displasia de baixo grau, duas opções são aceitáveis: (1)
+EDA anual; (2) terapia endoscópica. A maioria dos autores modernos têm preferido a última opção.&lt;/p&gt;
+
+&lt;p&gt;O encontro de displasia de alto
+grau (carcinoma in situ) indica terapia endoscópica ou esofagectomia. Prefere-se a endoscopia devido à alta mortalidade da cirúrgia.&lt;/p&gt;
+
+&lt;p&gt;A terapia endoscópia pode ser feita por ressecção da mucosa ou ablação com ondas de radiofrequência. A ressecção é indicada na presença de nódulos ou irregularidades superficiais, já que permite um estudo histopatológico ainda mais focado. A ablação por radiofrequência pode ser empregada para eliminar o restante do epitélio metaplásico.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Pancreatite crônica</title><link href="http://localhost:4000/cirurgia/pancreatite-cronica" rel="alternate" type="text/html" title="Pancreatite crônica" /><published>2019-08-28T00:00:00-03:00</published><updated>2019-08-28T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/pancreatite-cronica</id><content type="html" xml:base="http://localhost:4000/cirurgia/pancreatite-cronica">&lt;p&gt;Se tirar a cabeça do pâncreas então é necessário tirar o duodeno. Isso pois, do contrário o duodeno necrosaria, uma vez que a irrigação deste vem das artérias que se originam da cabeça do pâncreas e são ressecadas junto com o pâncreas.&lt;/p&gt;
 
 &lt;p&gt;Para chegar ao pâncreas, um órgão retrocavitário, é necessário abrir o grande ou o pequeno epíplon. E, assim, ter acesso à cavidade retro peritoneal.&lt;/p&gt;
 
@@ -576,1081 +1377,4 @@ de metal, pelo maior risco de perfuração uterina, optando-se pelas próprias c
 progressivamente introduzidas no canal cervical, até o número 8.&lt;/p&gt;
 
 &lt;p&gt;Ocitocina intravenosa deve ser infundida após a
-dilatação do colo antes do esvaziamento e mantida por muitas horas no pós-operatório.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry><entry><title type="html">Fórceps</title><link href="http://localhost:4000/obstetricia/forceps" rel="alternate" type="text/html" title="Fórceps" /><published>2019-08-17T00:00:00-03:00</published><updated>2019-08-17T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/forceps</id><content type="html" xml:base="http://localhost:4000/obstetricia/forceps">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fórceps-de-simpson&quot; id=&quot;markdown-toc-fórceps-de-simpson&quot;&gt;Fórceps de Simpson&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fórceps-de-kielland&quot; id=&quot;markdown-toc-fórceps-de-kielland&quot;&gt;Fórceps de Kielland&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#indicações&quot; id=&quot;markdown-toc-indicações&quot;&gt;Indicações&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ações-do-fórceps&quot; id=&quot;markdown-toc-ações-do-fórceps&quot;&gt;Ações do fórceps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#condições-de-praticabilidade&quot; id=&quot;markdown-toc-condições-de-praticabilidade&quot;&gt;Condições de praticabilidade&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#aplicação&quot; id=&quot;markdown-toc-aplicação&quot;&gt;Aplicação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#variedades-de-posição&quot; id=&quot;markdown-toc-variedades-de-posição&quot;&gt;Variedades de posição&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#op&quot; id=&quot;markdown-toc-op&quot;&gt;OP&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#oea&quot; id=&quot;markdown-toc-oea&quot;&gt;OEA&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#oda&quot; id=&quot;markdown-toc-oda&quot;&gt;ODA&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#variedades-transversas&quot; id=&quot;markdown-toc-variedades-transversas&quot;&gt;Variedades transversas&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#oet&quot; id=&quot;markdown-toc-oet&quot;&gt;OET&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#cabeça-derradeira&quot; id=&quot;markdown-toc-cabeça-derradeira&quot;&gt;Cabeça derradeira&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fórceps-de-simpson&quot;&gt;Fórceps de Simpson&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/simpson.jpeg&quot; alt=&quot;Simpson&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ramo esquero ou ramo fêmea: entra em contato com o lado esquerdo da pelve e possui reentrância para encaixe do ramo direito (ou macho)&lt;/li&gt;
-  &lt;li&gt;Ramo direito ou ramo macho&lt;/li&gt;
-  &lt;li&gt;Cabo&lt;/li&gt;
-  &lt;li&gt;Colher: com duas curvaturas
-    &lt;ul&gt;
-      &lt;li&gt;Curvatura pélvica: convexa, se adapta à curvatura da bacia&lt;/li&gt;
-      &lt;li&gt;Curvatura cefálica: côncava, se adapta à cabeça fetal&lt;/li&gt;
-      &lt;li&gt;Jumélios: fenestra formada pelos segmentos anterior e posterior&lt;/li&gt;
-      &lt;li&gt;Espaço coclear: espaço entre as duas colheres que será ocupado pela cabeça fetal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Pedículo ou haste: une o cabo à colher&lt;/li&gt;
-  &lt;li&gt;Articulação: é composto de uma articulação fixa do tipo inglesa.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fórceps-de-kielland&quot;&gt;Fórceps de Kielland&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/kielland.jpeg&quot; alt=&quot;Kielland&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ramo esquerdo ou fêmea: apresenta uma chanfradura no pedículo que permite a articulação por deslizamento do ramo direito, macho, cujo pedículo é liso;
-    &lt;ul&gt;
-      &lt;li&gt;A finalidade da articulação por deslizamento é a pega assimétrica nos casos de &lt;strong&gt;assinclitismo&lt;/strong&gt;, que permite a sua correção.&lt;/li&gt;
-      &lt;li&gt;A face anterior do cabo apresenta um botão que a identifica;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Colher: praticamente não tem curvatura pélvica (mais retificado);
-    &lt;ul&gt;
-      &lt;li&gt;Jumélio anterior e posterior&lt;/li&gt;
-      &lt;li&gt;Entre os jumélios, a fenestra, que tem por finalidade possibilitar a adaptação da cabeça, evitando o deslize.&lt;/li&gt;
-      &lt;li&gt;Uma curvatura cefálica pequena, côncava, que diante do outro ramo forma o espaço coclear.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;indicações&quot;&gt;Indicações&lt;/h2&gt;
-
-&lt;p&gt;Podem ser de intuito materno, fetal ou profiático. A indicação mais comum da aplicação de fórceps é a parada de progressão durante o &lt;strong&gt;segundo estágio do parto&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A parada de progressão pode ocorrer por inércia uterina, malposição do feto ou configuração anormal do
-canal do parto. Frequentemente estão associados vários fatores: inércia uterina, falta de prensa abdominal, que
-pode ocorrer por excessiva anestesia de condução, e resistência de partes moles.&lt;/p&gt;
-
-&lt;p&gt;Deve-se evitar o esforço secundário em portadoras de certas &lt;strong&gt;doenças cardíacas; enfermidades pulmonares ou neuromusculares&lt;/strong&gt; são consideradas indicações profiláticas.&lt;/p&gt;
-
-&lt;p&gt;Também é considerada fórceps profilático a aplicação em cabeça derradeira, considerada menos traumático
-que as manobras convencionais para o parto pélvico.  Preconizamos sua aplicação desde que tenha falhado a
-manobra de Bracht, pois abrevia o período expulsivo, evitando sofrimento fetal. Quando já presente o sofrimento
-fetal, desde que haja condições de praticabilidade, a indicação é soberana.&lt;/p&gt;
-
-&lt;p&gt;Indicações raras, mas possíveis, são o prolapso de cordão com dilatação total e a morte súbita da paciente,
-fato que pode ocorrer por embolia amniótica.&lt;/p&gt;
-
-&lt;p&gt;Devemos atentar para o fato de que, quando o fórceps está indicado, são desfavoráveis as condições para
-cesariana. Na operação cesariana com a cabeça no estreito médio ou inferior, estando o colo completamente
-dilatado, a extração da cabeça é difícil e o útero está sujeito a rupturas que podem ir até a lesão de grandes
-vasos, com extrema dificuldade de solução.&lt;/p&gt;
-
-&lt;h2 id=&quot;ações-do-fórceps&quot;&gt;Ações do fórceps&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Preensão
-    &lt;ul&gt;
-      &lt;li&gt;Os c abos são o braço da potência, a articulação é o fulcro e as colheres são a resistência. A força aplicada nos cabos se reflete na compressão das colheres.&lt;/li&gt;
-      &lt;li&gt;A preensão correta distribui a compressão sobre a cabeça fetal uniformemente por toda a superfície das colheres.&lt;/li&gt;
-      &lt;li&gt;A importância da pega ideal descrita por Laufe, a saber: (1) a sutura sagital deve estar perpendicular e equidistante em relação aos pedículos; (2) a pequena fontanela deve ficar a um dedo de largura do plano dos pedículos; (3) nas colheres fenestradas deve caber apenas a polpa digital entre a cabeça fetal e a cauda das colheres.&lt;/li&gt;
-      &lt;li&gt;A preensão correta ou ideal se dá no &lt;strong&gt;diâmetro occipitomentoniano&lt;/strong&gt; da cabeça fetal. Os ramos do fórceps ficam na posição &lt;strong&gt;biparietomalomentoniana&lt;/strong&gt;, isto é, apoiados nos parietais e malares, terminando na arcada zigomática do mento;&lt;/li&gt;
-      &lt;li&gt;A pega fontomastóidea não é mais ideal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Rotação
-    &lt;ul&gt;
-      &lt;li&gt;Com o fórceps de Kielland, praticamente destituído de curvatura pélvica, a rotação dispensa o movimento de circundução. O giro dos cabos é feito como uma “chave na fechadura”, razão pela qual ele é chamado fórceps rotatório.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Tração
-    &lt;ul&gt;
-      &lt;li&gt;Principal ação do fórceps&lt;/li&gt;
-      &lt;li&gt;Deve ser feita obedecendo a curvatura pélvica&lt;/li&gt;
-      &lt;li&gt;Manobra de Saxtorph-Pajot&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/pajot.jpeg&quot; alt=&quot;Kielland&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O fórceps de Kielland tem função única, brindada pela sua articulação por deslizamento, a correção do assinclitismo. Ao insinuar-se no estreito superior em transversa, a cabeça fetal inclina-se lateralmente sobre o ombro, caracterizando o assinclitismo. Enquanto um fórceps de grande curvatura pélvica, com articulação fixa, só permite pega simétrica, o fórceps de Kielland permite pega assimétrica, e, com o deslizamento da articulação, avalia o grau de assinclitismo e corrige-o, pela tração de um dos ramos, transformando-o em pega satisfatória.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;condições-de-praticabilidade&quot;&gt;Condições de praticabilidade&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cérvice completamente dilatada&lt;/li&gt;
-  &lt;li&gt;Deve-se observar a ausência de obstrução óssea ou de partes moles, desproporção cefalopélvica ou existência de tumor pélvico.&lt;/li&gt;
-  &lt;li&gt;Hoje, se não proibida, a aplicação de fórceps alto é apanágio de especialistas de grande experiência e em situações extremas.&lt;/li&gt;
-  &lt;li&gt;Quanto mais alta a apresentação, maior o risco de complicações.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/forceps2.jpeg&quot; alt=&quot;Forceps2&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Deve-se identificar a variedade de posiçao para a correta aplicação e posicionamento do fórceps. Identificar suturas e fontanelas.&lt;/p&gt;
-
-&lt;h2 id=&quot;aplicação&quot;&gt;Aplicação&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/biparietomalomentoniana.png&quot; alt=&quot;Biparietomalomentoniana&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Em primeiro lugar, apresentação do fórceps à vulva, isto é, acertar a posição que ficará depois da preensão e articulação dos ramos&lt;/li&gt;
-  &lt;li&gt;Escolha do primeiro ramo a ser introduzido e reserva do segundo ramo ao alcance da mão correspondente&lt;/li&gt;
-  &lt;li&gt;Aplicação do primeiro ramo de maneira que a colher sempre fique localizada no &lt;strong&gt;diâmetro biparietomalomentoniano&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Aplicação do segundo ramo de maneira que a colher se situe no diâmetro biparietomalomentoniano oposto.
-    &lt;ul&gt;
-      &lt;li&gt;A introdução da segunda colher, com exceção das variedades diretas, requer a &lt;strong&gt;manobra de Lachapelle&lt;/strong&gt;, tríplice movimento espiroidal: abaixamento, translação e torção.&lt;/li&gt;
-      &lt;li&gt;Deve-se mentalizar a posição das colheres de acordo com a variedade de posição&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Se a pega estiver correta, isto é, no diâmetro biparietomalomentoniano, a articulação dos ramos ocorrerá sem forçar.
-    &lt;ul&gt;
-      &lt;li&gt;A necessidade de forçar a articulação indica erro de posicionamento das colheres.&lt;/li&gt;
-      &lt;li&gt;É preciso verificar e corrigir a pega o quanto necessário antes da tração.&lt;/li&gt;
-      &lt;li&gt;Deve-se observar o paralelismo dos cabos e a igual profundidade das colheres.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;De acordo com a variedade de posição, a rotação é a ação mais difícil de ser praticada e a que está mais sujeita a provocar traumatismos.
-    &lt;ul&gt;
-      &lt;li&gt;Para sua execução, regras importantes devem ser obedecidas.&lt;/li&gt;
-      &lt;li&gt;Com o fórceps de Simpson realiza-se movimento amplo dos cabos e pequeno das colheres, enquanto com o fórceps de Kielland é feito giro como “chave na fechadura”.&lt;/li&gt;
-      &lt;li&gt;Outro recurso importante é a escolha da melhor altura da bacia para a rotação. Pode ser necessário elevar a apresentação, liberando-a da área mais estreita&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;A tração somente pode ser executada durante as contrações&lt;/strong&gt;.
-    &lt;ul&gt;
-      &lt;li&gt;Deve-se segurar os cabos dispondo os quatro dedos longos de ambas as mãos na face anterior do fórceps e o polegar na face posterior, pressionando para baixo com a mão inferior e para cima com a mão superior – &lt;strong&gt;manobra de Saxtorph-Pajot&lt;/strong&gt;, para que a descida da cabeça se faça percorrendo-se a curvatura do canal do parto.&lt;/li&gt;
-      &lt;li&gt;Quando o &lt;strong&gt;suboccipital apoia no subpúbis&lt;/strong&gt; – &lt;strong&gt;hipomóclio&lt;/strong&gt; –, é o momento de cessar a tração e deixar o desprendimento ocorrer espontaneamente ou com leve pressão no fundo uterino.&lt;/li&gt;
-      &lt;li&gt;Essa é a forma de segurar os ramos durante a tração.&lt;/li&gt;
-      &lt;li&gt;Há quem prefira segurar nas hastes de apoio&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quanto à desarticulação e à retirada do primeiro ramo, é fundamental considerar que sempre é o ramo que se apresenta mais livre e deve obedecer ao movimento inverso da aplicação, isto é, conduzindo o cabo para o
-ventre materno.
-    &lt;ul&gt;
-      &lt;li&gt;O segundo ramo é retirado da mesma forma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A revisão de partes moles, incluindo colo, deve ser rotineira.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p class=&quot;aviso aviso-red&quot;&gt;Quando o suboccipital alcança o subpúbis – hipomóclio –, interrompe-se
-a tração.&lt;/p&gt;
-
-&lt;h2 id=&quot;variedades-de-posição&quot;&gt;Variedades de posição&lt;/h2&gt;
-
-&lt;h3 id=&quot;op&quot;&gt;OP&lt;/h3&gt;
-
-&lt;p&gt;É a aplicação mais simples porque serão empregadas apenas duas ações do fórceps: preensão e tração. É
-considerada aplicação direta. A rotação, ação mais sujeita a provocar traumatismos, aqui não é necessária. O
-fórceps indicado é o de Simpson.&lt;/p&gt;
-
-&lt;p&gt;Aplicação do primeiro ramo: nas variedades diretas, &lt;strong&gt;o primeiro ramo é sempre o esquerdo&lt;/strong&gt;, porque assim &lt;strong&gt;se evita o movimento de descruzamento&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;oea&quot;&gt;OEA&lt;/h3&gt;
-
-&lt;p&gt;Indicado o fórceps de Simpson. Nesse caso é necessária a rotação para a posição OP. Primeiro se aplica o ramo esquerdo e depois o direito.&lt;/p&gt;
-
-&lt;h3 id=&quot;oda&quot;&gt;ODA&lt;/h3&gt;
-
-&lt;p&gt;Indicado o fórceps de Simpson. A aplicação e a progressão dos ramos na variedade direita anterior são iguais às da variedade esquerda
-anterior, porém em posição inversa, isto é, o primeiro ramo a ser introduzido é o direito. Como os pedículos ficam
-superpostos de maneira inversa, &lt;strong&gt;é necessário o descruzamento dos ramos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;variedades-transversas&quot;&gt;Variedades transversas&lt;/h3&gt;
-
-&lt;p&gt;Indicação para o fórceps de Kielland. Como não tem curvatura pélvica, permite rotação em “chave de fechadura”, além de corrigir o assinclitismo com a sua articulação por deslizamento.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;pois geralmente nas transversas encontramos a cabeça na área de fórceps médio, flexão incompleta (cabeça indiferente) e tendência a desviar a sutura sagital para cima ou para baixo, mais frequentemente para baixo.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;O fórceps de Simpson pode ser aplicado em uma transversa desde que a cabeça esteja baixa e sinclítica. Se
-a cabeça estiver na altura de fórceps médio e assinclítica, consegue-se aplicar o primeiro ramo, entretanto, a
-curvatura do canal do parto impedirá a articulação do segundo ramo.&lt;/p&gt;
-
-&lt;h4 id=&quot;oet&quot;&gt;OET&lt;/h4&gt;
-
-&lt;p&gt;Na esquerda transversa, técnica migratória, o primeiro ramo a ser
-aplicado é o direito. A mão guia, a esquerda. O pedículo do fórceps é encostado na vulva, do lado esquerdo da
-parturiente. O cabo desce rente à coxa esquerda enquanto a mão guia conduz a colher ao diâmetro biparietomalomentoniano passando pela fronte fetal. O pedículo ficará junto à pequena fontanela.&lt;/p&gt;
-
-&lt;p&gt;O segundo ramo, o esquerdo, é aplicado com o pedículo encostado no lado direito do púbis e a mão guia, a direita, colocada do lado esquerdo da parturiente. Esse ramo
-descreve um movimento retilíneo rente ao outro ramo até articular.&lt;/p&gt;
-
-&lt;p&gt;Tracionando-se um dos ramos pelo ponto de apoio, corrige-se o
-assinclitismo. No assinclitismo anterior, traciona-se a colher posterior, ramo esquerdo, e, no assinclitismo
-posterior, traciona-se a colher anterior, ramo direito, até se igualarem.&lt;/p&gt;
-
-&lt;p&gt;Os cabos são levados à posição mediana, completando a flexão da cabeça fetal e corrigindo a deflexão.&lt;/p&gt;
-
-&lt;p&gt;Os cabos giram a 90° no sentido anti-horário até a pequena fontanela ficar em posição anterior. Esse movimento de correção da rotação é como uma “chave na fechadura”.&lt;/p&gt;
-
-&lt;p&gt;Quando o suboccipital, apoiar no subpúbis – &lt;strong&gt;hipomóclio&lt;/strong&gt; – é o momento de cessar a tração.&lt;/p&gt;
-
-&lt;h2 id=&quot;cabeça-derradeira&quot;&gt;Cabeça derradeira&lt;/h2&gt;
-
-&lt;p&gt;Usa-se o fórceps de Piper especificamente para esta ocasião. Este apresenta, além das conhecidas curvaturas pélvica e cefálica, &lt;strong&gt;mais uma curvatura, a perineal&lt;/strong&gt;. Sua presença permite que os ramos fiquem bem baixos, garantindo a preensão do biparietal.
-Mas ainda é possível usar o fórceps de Simpson.&lt;/p&gt;
-
-&lt;p&gt;Normalmente nas cabeças derradeiras a cabeça já está em OP. É necesário erguer o corpo do concepto, segurando pelos pés.&lt;/p&gt;
-
-&lt;p&gt;O fórceps é apresentado com os cabos para cima e as colheres na orientação do diâmetro
-biparietomalomentoniano, entretanto, aqui existe uma diferença de todas as demais aplicações de fórceps. &lt;strong&gt;A posição do diâmetro biparietomalomentoniano é invertida&lt;/strong&gt;, o que faz com que a ponta das colheres localize-se nos parietais e a cauda das colheres, no mento.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/derradeira.jpeg&quot; alt=&quot;Cabeça derradeira&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Rezendinho 13ª edição&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="obstetricia" /><summary type="html"></summary></entry><entry><title type="html">Assistência ao parto e partograma</title><link href="http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma" rel="alternate" type="text/html" title="Assistência ao parto e partograma" /><published>2019-08-15T00:00:00-03:00</published><updated>2019-08-15T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma</id><content type="html" xml:base="http://localhost:4000/obstetricia/assistencia-ao-parto-e-partograma">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#período-premonitório&quot; id=&quot;markdown-toc-período-premonitório&quot;&gt;Período premonitório&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico-de-tp&quot; id=&quot;markdown-toc-diagnóstico-de-tp&quot;&gt;Diagnóstico de TP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fase-de-dilatação&quot; id=&quot;markdown-toc-fase-de-dilatação&quot;&gt;Fase de dilatação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fase-de-expulsão&quot; id=&quot;markdown-toc-fase-de-expulsão&quot;&gt;Fase de expulsão&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#duração-do-tp&quot; id=&quot;markdown-toc-duração-do-tp&quot;&gt;Duração do TP&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#assistência-propriamente-dita&quot; id=&quot;markdown-toc-assistência-propriamente-dita&quot;&gt;Assistência propriamente dita&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#assistência-à-expulsão&quot; id=&quot;markdown-toc-assistência-à-expulsão&quot;&gt;Assistência à expulsão&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#secundamento&quot; id=&quot;markdown-toc-secundamento&quot;&gt;Secundamento&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#conduta-ativa-no-secundamento&quot; id=&quot;markdown-toc-conduta-ativa-no-secundamento&quot;&gt;Conduta ativa no secundamento&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#exame-da-placenta-e-dos-anexos-ovulares&quot; id=&quot;markdown-toc-exame-da-placenta-e-dos-anexos-ovulares&quot;&gt;Exame da placenta e dos anexos ovulares&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quarto-período&quot; id=&quot;markdown-toc-quarto-período&quot;&gt;Quarto período&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#partograma&quot; id=&quot;markdown-toc-partograma&quot;&gt;Partograma&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#parto-normal&quot; id=&quot;markdown-toc-parto-normal&quot;&gt;Parto normal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O trabalho de parto contempla três fases: dilatação, expulsão e secundamento. Essas fases são precedidas por uma fase preliminar chamada de período premonitório. O quarto período sería a primeira hora após o secundamento que é considerado como o término do parto por alguns autores (por ser um período de ainda muitos riscos e que carece de atenção continuada pelos obstetras - como atonia e hemorragia).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fase de dilatação: ampliação do diafragma cervicossegmentário, primeiro período do parto.&lt;/li&gt;
-  &lt;li&gt;Fase de expulsão: passagem do feto pelo diafragma vulvoperineal, segundo período do parto.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;período-premonitório&quot;&gt;Período premonitório&lt;/h3&gt;
-
-&lt;p&gt;Corresponde ao pré-parto. Caracterizado pela descida do fundo uterino (popularmente conhecido como &lt;strong&gt;&lt;em&gt;queda do ventre&lt;/em&gt;&lt;/strong&gt;). No que se situava no próximo do apêndice xifoide, o FU baixa 2 a 4 cm. Nesse momento a gestante sente um alivio na respiração uma vez que a capacidade de expansão pulmonar aumenta.&lt;/p&gt;
-
-&lt;p&gt;A gestante começa a perceber as metróssistoles dolorosas que dão lugar às antigas contrações de Braxton-Hicks. Os intervalos entre as contrações se tornam cada vez mais curtos e as contrações vão se intensificando, prenunciando o
-parto (&lt;em&gt;dolores praeparantes&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Ainda nessa fase se acentua o amolecimento do colo e o apagamento (nas primíparas?).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O amadurecimento da cérvice é um mecanismo complexo e ainda não totalmente esclarecido, podendo ser dividido em duas fases, uma que se inicia desde o 1ºT e se caracteriza pelo lento amolecimento do colo.
-Apesar do progressivo aumento na complacência do colo, a competência do tecido se mantém. A segunda fase é
-mais acelerada e se caracteriza pela máxima perda de complacência e integridade tecidual. Essa fase ocorre
-semanas ou dias antes do parto e torna possível que o colo esteja amadurecido para se dilatar e promover a
-passagem do concepto a termo após o início das contrações.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;O colo começa também a se alinhar ao eixo do canal vaginal (abaixamento do colo).&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico-de-tp&quot;&gt;Diagnóstico de TP&lt;/h2&gt;
-
-&lt;p&gt;É difícil delimitar o momento exato em que começa o trabalho de parto. Deve-se considerar o TP como uma síndrome pois avaliar os sinais e sintomas isoladamente não têm valor absoluto. A imprecisão no
-diagnóstico e a confusão com o falso trabalho de parto podem acarretar internamento precoce e seus efeitos
-deletérios (muitas intervenções não necessárias).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Deve-se ter todo o cuidado para se diagnosticar corretamente a fase ativa do trabalho de parto e internar somente as parturientes nessa fase, para evitar internações precoces, que costumam acarretar intervenções desnecessárias em série, como excesso de exames de toque, uso de ocitocina, maior necessidade de analgesia e cesariana (cascata de intervenções).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Diretriz do Institute for Clinical Systems Improvement (ICSI) de 2013:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ocorrência de contrações uterinas espontâneas e rítmicas (&lt;strong&gt;pelo menos duas em 15 min&lt;/strong&gt;), associadas a, pelo menos, dois dos seguintes sinais:
-    &lt;ul&gt;
-      &lt;li&gt;Apagamento cervical&lt;/li&gt;
-      &lt;li&gt;Colo dilatado para &lt;strong&gt;3 cm ou mais&lt;/strong&gt;&lt;/li&gt;
-      &lt;li&gt;Ruptura espontânea da bolsa das águas.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;aviso aviso-red&quot;&gt;Segundo o CAB32: Diagnóstico: contrações fortes e frequentes (2 ou mais em 10 minutos), com “puxos” (sensação de pressão no períneo) e/ou visualização de distensão perineal ou da apresentação de bebê na vulva&lt;/p&gt;
-
-&lt;h2 id=&quot;fase-de-dilatação&quot;&gt;Fase de dilatação&lt;/h2&gt;
-
-&lt;p&gt;É o primeiro período do parto. Começa com as contrações rítmicas que começam a modificar a cérvice de forma ativa e termina quando a dilatação se completa, &lt;em&gt;i.e.&lt;/em&gt;, chega nos 10 cm.&lt;/p&gt;
-
-&lt;p&gt;Este período ainda pode ser dividido em outros dois:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Fase latente&lt;/strong&gt;: dilatação cervical gradual&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fase ativa&lt;/strong&gt;: dilatação cervical rápida&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A curva de trabalho de parto em multíparas tende a mostrar
-um ponto de inflexão por volta dos 5 cm de dilatação, sendo esse ponto quase sempre não caracterizado ou
-ausente em primíparas. Quando presente, ocorre com dilatação cervical mais avançada e sempre é, em qualquer
-situação, diagnóstico retrospectivo.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/tp/dilatacao.jpeg&quot; alt=&quot;Dilatação&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Às dolores praeparantes do período premonitório sucedem-se as dolores pressagiantes da fase de dilatação,
-quando o trabalho de parto desencadeado é percebido até por leigos.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Ainda no 1º período é quando ocorre a ampliação do diafragma cervicossegmentário para a formação do canal de parto. Composto por dois eventos predominantes: o &lt;strong&gt;apagamento do colo&lt;/strong&gt;, ou desaparecimento do espaço cervical, com a incorporação
-dele à cavidade uterina; e a &lt;strong&gt;dilatação da cérvice&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ao fim desse processo, as suas bordas limitantes ficam
-reduzidas a simples relevos, aplicados às paredes vaginais.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class=&quot;aviso aviso-red&quot;&gt;Nas primíparas ocorre primeiro o apagamento e depois a dilatação. Já nas multíparas, os dois eventos ocorrem simultâneamente (ver a imagem de cima).&lt;/p&gt;
-
-&lt;p&gt;O polo inferior do ovo constitui a &lt;strong&gt;bolsa das águas&lt;/strong&gt;, que
-se insinua, a princípio, pelo orifício interno do colo, a cujos lábios transmite a onda contratural, e mantém-se &lt;strong&gt;tensa&lt;/strong&gt; no momento da contração, relaxando-se nos intervalos. A cada nova contração a tensão aumenta até que finalmente ocorre a rotura espontânea (&lt;strong&gt;amniorrexe&lt;/strong&gt;). Em 80% dos casos a rotura ocorre no fim da dilatação ou no início da expulsão.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Revisando:&lt;/strong&gt; se ocorrer a rotura antes do TP, é um &lt;strong&gt;RPMO&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Rotura:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Prematura: antes do TP&lt;/li&gt;
-      &lt;li&gt;Precoce: início do TP&lt;/li&gt;
-      &lt;li&gt;Oportunas: fim da dilatação&lt;/li&gt;
-      &lt;li&gt;Tardias: junto à expulsão do feto&lt;/li&gt;
-      &lt;li&gt;Parto empelicado: nasce envolto nas membranas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fase-de-expulsão&quot;&gt;Fase de expulsão&lt;/h2&gt;
-
-&lt;p&gt;É o segundo período do parto. Começa quando se completa a dilatação e terminando quando ocorre a saída do concepto. Se caracteriza pelo rítmo sincrônico das metrossístoles que comprime o útero&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Estudos mais recentes demonstram a importância das metrossístoles que representam o componente fundamental no processo expulsivo, com menor relevo para a prensa abdominal, que não deve ser forçada caso a parturiente não demonstre desejo de fazê-lo.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As metrossístoles se tornam mais recorrentes e intensas, até diminuirem seus intervalos para 5 a cada 10 min.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ao comprimir as paredes vaginais, o reto e a bexiga, o polo inferior do feto provoca, por via reflexa, o aparecimento das contrações voluntárias da prensaabdominal. Origina-se, então, a vontade de espremer, os puxos, movimentos enérgicos da parede do ventre, &lt;strong&gt;semelhantes aos suscitados pela evacuação ou micção&lt;/strong&gt;. &lt;strong&gt;São esses os puxos involuntários, tardios, que não demandam encorajamento dos presentes à cena do parto&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Logo após o parto (a saída do concepto), o útero se mantêm contraído e já se reduz ao nível da cicatriz umbilical. A mãe sente um momento de euforia e alívio provocados pela liberação de ocitocina e endorfina.&lt;/p&gt;
-
-&lt;h2 id=&quot;duração-do-tp&quot;&gt;Duração do TP&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fase latente (média)
-    &lt;ul&gt;
-      &lt;li&gt;20h nas prímiparas&lt;/li&gt;
-      &lt;li&gt;14h nas multíparas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Fase ativa: é bastante variável. O tempo para evoluir de 4 cm a 10 cm entre os percentis P95 e P5 são:
-    &lt;ul&gt;
-      &lt;li&gt;5,3 a 16,4 horas em primíparas&lt;/li&gt;
-      &lt;li&gt;3,8 a 15,7 horas em multíparas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O trabalho de parto pode demorar mais de 6h para progredir de 4 cm para 5 cm, sendo, portanto, 6 cm o melhor ponto de corte para definir-se o início da fase ativa do trabalho de parto.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;assistência-propriamente-dita&quot;&gt;Assistência propriamente dita&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Admissão da gestante
-    &lt;ul&gt;
-      &lt;li&gt;Deve-se tentar admitir somente as gestantes em TP
-        &lt;ul&gt;
-          &lt;li&gt;De modo a evitar intervenções desnecessárias&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Não há evidência de benefício em  realizar cardiotocografia como exame de admissão&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cuidados inciais
-    &lt;ul&gt;
-      &lt;li&gt;Parturientes de baixo risco não são doentes e não devem ser impostas a jejum, tricotomia, tricoxisma, enema (enteróclise), ou mudança de vestimentas.&lt;/li&gt;
-      &lt;li&gt;Nas pacientes de alto risco para broncoaspiração (PE, obesidade), pode-se pensar no jejum.&lt;/li&gt;
-      &lt;li&gt;Proporcionar livre deambulação, banho morno, massagem, mudança de posição, execícios e outras medidas de conforto.&lt;/li&gt;
-      &lt;li&gt;Parturientes de baixo risco devem ser encorajadas a beber livremente líquidos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Toque vaginal
-    &lt;ul&gt;
-      &lt;li&gt;Afastam-se as ninfas e introduzem-se na vagina os dedos indicador e médio, ou apenas o primeiro, untados em vaselina esterilizada ou clorexedina aquosa.&lt;/li&gt;
-      &lt;li&gt;O exame procura explorar sucessivamente:
-        &lt;ul&gt;
-          &lt;li&gt;O colo (apagamento, dilatação, orientação e consistência),&lt;/li&gt;
-          &lt;li&gt;A bolsa das águas&lt;/li&gt;
-          &lt;li&gt;A apresentação (posição, variedade, altura e proporcionalidade à bacia, além de outros detalhes, como a flexão e o assinclitismo).&lt;/li&gt;
-          &lt;li&gt;OMS recomenda um intervalo de 4h entre os toques na fase ativa de TP&lt;/li&gt;
-          &lt;li&gt;Altura da apresentação: nas primíparas a apresentação costuma estar encaixada já quando começa o TP. Nas multíparas isso só ocorre no fim da dilatação ou no começo da expulsão.
-            &lt;ul&gt;
-              &lt;li&gt;Ver partograma e planos de DeLee e Hodge&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Verificar secreções nas luvas após o toque (mecônio, sangue) e avaliar o odor.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Amniotomia
-    &lt;ul&gt;
-      &lt;li&gt;Não deve ser feita de rotina&lt;/li&gt;
-      &lt;li&gt;Quando indicada deve ser feita durante a contração uterina, com a bolsa das águas tensa.&lt;/li&gt;
-      &lt;li&gt;Examinar a cor e aspécto do líquido que escoa&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ausculta BCF
-    &lt;ul&gt;
-      &lt;li&gt;ACOG: a cada 30 min na fase de dilatação e a cada 15 min na de expulsão&lt;/li&gt;
-      &lt;li&gt;NICE: a cada 15 min e 5 min, respectivamente&lt;/li&gt;
-      &lt;li&gt;Na pausa intercontrátil, o número de ruídos costuma manter-se &lt;strong&gt;entre 110 e 160 bpm&lt;/strong&gt;, em &lt;strong&gt;média 140 bpm&lt;/strong&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;Não deve ser realizada com a parturiente deitada em decúbito dorsal, porque a compressão dos grandes vasos pelo útero gravídico pode levar a redução do retorno venoso, redução do débito cardíaco, redução do fluxo sanguíneo para útero e placenta e, portanto, a padrões anômalos de frequência cardíaca fetal por má oxigenação.&lt;/p&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ocitocina
-    &lt;ul&gt;
-      &lt;li&gt;Embora acelere o trabalho de parto, aumentando a intensidade e a frequência das contrações uterinas, seu uso deve ser limitado aos casos de parada de progressão associada com hipoatividade da matriz uterina.&lt;/li&gt;
-      &lt;li&gt;Não é recomendado o uso de rotina&lt;/li&gt;
-      &lt;li&gt;A perfusão venosa é a única a ser usada, jamais em bólus, e preferencialmente em bomba infusora. Ao se diluírem 5 UI de ocitocina (1 ampola) em 500 ml de soro, obtém-se solução de 10 mU/ml. A recomendação é que a dose inicial de ocitocina seja de 2 mU/min (4 gotas/min ou 12 mμ/h em bomba infusora), aumentando-se a infusão em 1 a 2 mU/min a cada 15 a 40 min, quando necessário.&lt;/li&gt;
-      &lt;li&gt;A resposta do útero à ocitocina, no período de dilatação, é quase imediata.&lt;/li&gt;
-      &lt;li&gt;Na impossibilidade de se registrar a pressão amniótica, pode-se inferir da contratilidade, anotando o número e a duração das contrações. A frequência delas torna possível avaliar a perfusão venosa de ocitocina; impedindo-se elevação superior a 4/10 min faz-se a profilaxia do sofrimento do concepto.&lt;/li&gt;
-      &lt;li&gt;Pela duração da metrossístole avalia-se, indiretamente, a intensidade contratural (normal: 50 a 60 s).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Analgesia
-    &lt;ul&gt;
-      &lt;li&gt;Peridural&lt;/li&gt;
-      &lt;li&gt;Bloqueio combinado raquidiano peridural (BCRP)
-        &lt;ul&gt;
-          &lt;li&gt;Injeção de opióide subaracnóideo e passagem de cateter peridural.&lt;/li&gt;
-          &lt;li&gt;Pode associar bupivacaína&lt;/li&gt;
-          &lt;li&gt;Apenas bloqueio sensitivo&lt;/li&gt;
-          &lt;li&gt;Paciente deve deambular normalmente&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Analgesia inalatória&lt;/li&gt;
-      &lt;li&gt;Deve-se evitar meperidina injetável (causa sonolência, náuseas e vômitos na gestante e depressão respiratória no bebê)&lt;/li&gt;
-      &lt;li&gt;Todas as mulheres em trabalho de parto devem ter a oportunidade de escolher algum método não invasivo de analgesia quando assim desejarem.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/altura.jpeg&quot; alt=&quot;Altura da insinuação&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/anestesia.jpeg&quot; alt=&quot;Anestesia&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;assistência-à-expulsão&quot;&gt;Assistência à expulsão&lt;/h3&gt;
-
-&lt;p&gt;O monitoramento fetal deve ser feito com maior frequência, a cada 15 min, quando não a cada 5 min, como
-recomenda o NICE. &lt;strong&gt;Desacelerações precoces (tipo I) são comuns no período expulsivo, decorrentes da compressão do polo cefálico.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;No entanto, há muitas vantagens a favor das posições verticalizadas (sentada, semissentada, ajoelhada, de cócoras e outras): efeito da gravidade, menor compressão da aorta e da cava, maior eficiência da contratilidade uterina, alinhamento do feto com a pelve, além das demais posições não supinas (lateral, quatro apoios)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Puxos e respiração:&lt;/strong&gt; comandados os puxos pode estimular puxos precoces, quando a mulher ainda não tem vontade de fazer força. Orientações frequentes incluem os comandos “força comprida” ou “força de cocô”, concomitantes com sugestões sobre técnicas respiratórias, em geral a manobra de Valsalva, “trinque os dentes e faça força”;
-    &lt;ul&gt;
-      &lt;li&gt;Todos esses comandos parecem desnecessários, pois podem atrapalhar a mulher e ser prejudiciais.&lt;/li&gt;
-      &lt;li&gt;A recomendação clássica de “força comprida” ou “força de cocô” pode não ser a mais adequada no momento em que se pretende o relaxamento perineal, podendo resultar em &lt;strong&gt;lacerações&lt;/strong&gt;.&lt;/li&gt;
-      &lt;li&gt;Estudos controlados têm demonstrado que puxos precoces e comandados podem ter repercussões adversas sobre o assoalho pélvico e que a manobra de Valsalva pode impactar negativamente os fatores urodinâmicos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Episiotomia: consiste na incisão cirúrgica do períneo, feita com tesoura ou bisturi, com o objetivo teórico de ampliar o canal de parto e facilitar o desprendimento fetal, podendo ser mediana (perineotomia) e mediolateral;
-    &lt;ul&gt;
-      &lt;li&gt;A finalidade da episiotomia, de acordo com os postulados de DeLee, seria reduzir a probabilidade de lacerações perineais graves, enquanto a associação com o fórceps minimizaria o risco de trauma fetal, prevenindo hipoxia.&lt;/li&gt;
-      &lt;li&gt;Não há diferença nos resultados perinatais nem redução da incidência de asfixia nos partos com episiotomia seletiva versus episiotomia de rotina&lt;/li&gt;
-      &lt;li&gt;Não há proteção do assoalho pélvico materno, pois a episiotomia de rotina não protege contra incontinência urinária ou fecal, e tampouco contra o prolapso genital, associando-se a redução da força muscular do assoalho pélvico em relação aos casos de lacerações perineais espontâneas;&lt;/li&gt;
-      &lt;li&gt;A episiotomia é per se uma laceração perineal de 2o grau, e quando ela não é realizada pode não ocorrer nenhuma laceração ou surgirem lacerações anteriores, de 1o ou 2 o graus, mas de melhor prognóstico;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Proteção do períneo
-    &lt;ul&gt;
-      &lt;li&gt;Há quem proponha estratégia totalmente hands off (sem colocar as mãos), enquanto outros praticam manobras, incluindo o &lt;strong&gt;procedimento de Ritgen&lt;/strong&gt;, técnica de flexão, uso de compressas mornas, massagem perineal, gel obstétrico, dentre outras;
-        &lt;ul&gt;
-          &lt;li&gt;Evitar parto em posição de litotomia, evitar puxos dirigidos, evitar manobra de Valsalva e manobra de Kristeller, evitar episiotomia e restringir o uso de parto instrumental;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Parto vaginal instrumental&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Ver o capítulo específico&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Assistência ao desprendimento dos ombros&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Após o nascimento do polo cefálico, aguarda-se o movimento de &lt;strong&gt;rotação externa da cabeça&lt;/strong&gt; e avalia-se o progresso no &lt;strong&gt;desprendimento espontâneo do ombro&lt;/strong&gt;, primeiro o anterior e depois o posterior;&lt;/li&gt;
-      &lt;li&gt;Na maioria dos casos não é necessária nenhuma intervenção&lt;/li&gt;
-      &lt;li&gt;Caso não ocorra espontaneamente, e inexistindo os sinais de distocia de ombro, apreende-se a apresentação com ambas as mãos, traciona-se para baixo com o objetivo de desprender o ombro anterior e depois para cima, para a saída do ombro posterior;&lt;/li&gt;
-      &lt;li&gt;Não tentar essa manobra na distocia de ombro, pois ela não resolve;
-        &lt;ul&gt;
-          &lt;li&gt;Um dos sinais de distocia de ombro é o &lt;strong&gt;sinal da tartaruga&lt;/strong&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Circular de cordão&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Presente em 20-40% dos nascimentos;&lt;/li&gt;
-      &lt;li&gt;Raramente se associa a aumento da morbimortalidade;&lt;/li&gt;
-      &lt;li&gt;Não é necessária USG para sua predição (além de baixa acurácia)&lt;/li&gt;
-      &lt;li&gt;Indicação equivocada de cesárea;&lt;/li&gt;
-      &lt;li&gt;Não é necessário percorrer o pescoço do bebê pesquisando circular de cordão tão logo se desprenda a cabeça fetal;
-        &lt;blockquote&gt;
-          &lt;p&gt;Infelizmente, alguns obstetras têm o hábito de ligar precocemente o cordão e proceder ao desprendimento imediato quando se deparam com uma circular de cervical apertada. No entanto, além de desnecessária, a ligadura precoce do cordão pode trazer efeitos adversos, privando o feto do suprimento sanguíneo e das trocas gasosas que se processam pelo cordão.&lt;/p&gt;
-        &lt;/blockquote&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Uma circular frouxa nem precisa ser desfeita;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Manobra de &lt;em&gt;somersault&lt;/em&gt;&lt;/strong&gt;: para circulares apertadas que dificultam o desprendimento;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Contato pele a pele
-    &lt;ul&gt;
-      &lt;li&gt;Fundamental;&lt;/li&gt;
-      &lt;li&gt;Incentivar o aleitamento ainda na 1ª hora de vida;&lt;/li&gt;
-      &lt;li&gt;Aguardar ao menos 3 min para o clampeamento em RNs saudáveis (ou até cessarem as pulsações);&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Revisão de vulva, vagina e colo uterino
-    &lt;ul&gt;
-      &lt;li&gt;A revisão da região vulvoperineal é recomendada;&lt;/li&gt;
-      &lt;li&gt;A revisão da vagina e do colo uterino deve ser sistemática apenas quando o parto for cirúrgico ou houver sangramento anormal;&lt;/li&gt;
-      &lt;li&gt;Em geral, a revisão é realizada ao fim do secundamento.&lt;/li&gt;
-      &lt;li&gt;Se não houver hemorragia ou ruptura de extensão considerável, rasgaduras pequenas não requerem maiores cuidados porque, em geral, superados o edema e a congestão das primeiras 24 h, ficam muito reduzidas.&lt;/li&gt;
-      &lt;li&gt;Há de se recordar que o fio de sutura é um corpo estranho e que a sutura pode acarretar isquemia e dano tecidual, sendo princípios básicos: menos suturas, menos fios de sutura, menos tensão.&lt;/li&gt;
-      &lt;li&gt;Julgar com bom senso sea sutura é necessária;
-        &lt;ul&gt;
-          &lt;li&gt;Geralmente se há grande desvio de anatomia ou sangramento.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Correção de lacerações espontênas ou epsiorrafia
-    &lt;ul&gt;
-      &lt;li&gt;Prefere-se a sutura contínua em todos os planos;&lt;/li&gt;
-      &lt;li&gt;Fio de ácido poliglicou (melhor que o &lt;em&gt;catgut&lt;/em&gt;)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/episio.jpeg&quot; alt=&quot;Episiotomia&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/ombro.jpeg&quot; alt=&quot;Assistência ao ombro&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;aviso aviso-red&quot;&gt;O momento adequado para a injeção intramuscular de 10 UI de ocitocina, capaz de reduzir as perdas
-sanguíneas pós-parto e apressar a dequitação, é durante a expulsão do ombro posterior, ou logo que for
-possível.&lt;/p&gt;
-
-&lt;h2 id=&quot;secundamento&quot;&gt;Secundamento&lt;/h2&gt;
-
-&lt;p&gt;É o terceiro período do parto. Processa-se em tempos que são descritos a seguir:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Descolamento:
-    &lt;ul&gt;
-      &lt;li&gt;A retração dos músculos uterinos e as contínuas contrações reduzem a superfície interna do útero;&lt;/li&gt;
-      &lt;li&gt;A zona de inserção da placeta sofre pregueamento, resultando no seu descolamento;&lt;/li&gt;
-      &lt;li&gt;A decídua não fica passiva a esses fenômenos contráteis; cede e se descola no nível da zona não resistente (camada esponjosa);&lt;/li&gt;
-      &lt;li&gt;A separação da placenta nos limites da esponjosa é explicada por esse mecanismo, e também pela existência de processos degenerativos e necróticos que se iniciaram nas últimas semanas da gravidez;&lt;/li&gt;
-      &lt;li&gt;A clivagem continua em plena espessura da decídua parietal, que se destaca e sai com as membranas ovulares;&lt;/li&gt;
-      &lt;li&gt;Forma-se o hematoma retroplacentário onde houve o descolamento;&lt;/li&gt;
-      &lt;li&gt;O descolamento da placenta ocorre de acordo com dois tipos de mecanismos:
-        &lt;ol&gt;
-          &lt;li&gt;&lt;strong&gt;Mecanismo de Baudelocque-Schultze&lt;/strong&gt; (75%): quando a placenta se insere na parte superior, inverte-se e deprende-se pela face fetal, em forma de guarda chuva. O sangue se exterioriza após a placenta pois esta está bloquendo a passagem;&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Mecanismo de Baudelocque-Duncan&lt;/strong&gt; (25%): a placenta está na parede lateral do útero, o descolamento começa na borda inferior e o sangue já se exterioriza antes da saída da placenta. E esta se apresenta pela borda ou pela face materna;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Descida:
-    &lt;ul&gt;
-      &lt;li&gt;A placenta começa a descer e do corpo do útero passa para o segmento inferior. Ela percorre a cérvice e cai na vagina;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Desprendimento:
-    &lt;ul&gt;
-      &lt;li&gt;No canal vaginal, a placenta provoca nova sensação de puxo, podendo determinar esforços abdominais semelhantes ao segundo período do parto;&lt;/li&gt;
-      &lt;li&gt;Na posição de decúbito dorsal a ausência de gravidade não ajuda nessa fase;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;No antigo local de inserção da placenta, forma-se ferida viva, com os seus vasos abertos, dando saída a certa
-quantidade de sangue, até que se obliterem, pelo mecanismo descrito por &lt;strong&gt;Pinard (ligaduras vivas)&lt;/strong&gt;, após a
-retração uterina.&lt;/p&gt;
-
-&lt;p&gt;Em geral o terceiro período dura de 5 a 6 min. Terceiro período prolongado é aquele que não se completa em até 30 min com manejo ativo ou 60 min em manejo expectante. Na maioria dos casos a placenta nasce espontaneamente, sem requerer manobras adicionais.&lt;/p&gt;
-
-&lt;h3 id=&quot;conduta-ativa-no-secundamento&quot;&gt;Conduta ativa no secundamento&lt;/h3&gt;
-
-&lt;p&gt;Consiste em intervenções destinadas a aumentar a contratilidade uterina e, assim, evitar a hemorragia pós-parto por atonia. Seus fundamentos são elencados a seguir:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Administração de agentes uterotônicos&lt;/strong&gt;: o ponto chave, 10 UI ocitocina;&lt;/li&gt;
-  &lt;li&gt;Ligadura precoce do cordão&lt;/li&gt;
-  &lt;li&gt;Tração controlada do cordão: sem evidências de redução das HPP?&lt;/li&gt;
-  &lt;li&gt;Massagem uterina após o secundamento.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;É importante palpar-se o útero para averiguar a formação do globo de segurança de Pinard, mas massagem uterina de rotina não parece ser necessária.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/jacob-dubin.jpeg&quot; alt=&quot;Jacob-Dubin&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;exame-da-placenta-e-dos-anexos-ovulares&quot;&gt;Exame da placenta e dos anexos ovulares&lt;/h4&gt;
-
-&lt;p&gt;Revisar manualmente a cavidade uterina depois do secundamento ainda é prática frequente em alguns
-serviços, procedimento que acarreta dor, desconforto e não é apoiado por evidências. Para se avaliar a
-existência de suspeita de retenção de cotilédones ou de membranas, deve-se realizar o exame da placenta e dos
-anexos ovulares.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Face materna da placenta: apresenta-se com aspecto brilhante, corresponde à decídua compacta que saiu aderida aos cotilédones;
-    &lt;ul&gt;
-      &lt;li&gt;As áreas sem brilho decorrem da ausência de decídua que ficou no útero.&lt;/li&gt;
-      &lt;li&gt;A retenção de um ou mais cotilédones traduz-se por falha na massa placentária, com nítida depressão;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Face fetal da placenta: há de verificar-se o ponto de inserção do cordão e a integridade do âmnio, que, quando desprendido, deve ser reconstituído até cobrir totalmente a massa placentária. Os vasos umbilicais desaparecem gradualmente perto da borda da placenta;
-    &lt;ul&gt;
-      &lt;li&gt;A interrupção de vaso de grosso calibre, nessa região, sugere a falta de fragmento da placenta (sucenturiada);&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Membranas: quando as membranas têm, em qualquer parte do seu contorno, extensão menor de 10 cm, suspeita-se de inserção no segmento inferior do útero (placenta baixa).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/apgar.jpeg&quot; alt=&quot;Apgar&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;quarto-período&quot;&gt;Quarto período&lt;/h2&gt;
-
-&lt;p&gt;Também chamado de período de Greenberg. É aprimeira hora após a saída da placenta. Ainda permanece o risco de hemorragia. Se divide nas seguintes fases:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Miotamponagem:&lt;/strong&gt; após a dequitação o útero se contrai é pode ser palpado logo abaixo do umbigo.
-    &lt;ul&gt;
-      &lt;li&gt;Forma-se as ligaduras vivas dos vasos uterinos;&lt;/li&gt;
-      &lt;li&gt;Primeira linha de defesa contra a hemorragia;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Trombotamponagem:&lt;/strong&gt; formação de trombos nos grandes vasos uteroplacentários, constituindo hematoma intrauterino que recobre, de modo contínuo, a ferida aberta no local placentário;
-    &lt;ul&gt;
-      &lt;li&gt;Os coágulos enchem a cavidade uterina, à medida que a matriz gradualmente se relaxa e atinge, ao fim de uma hora, o nível do umbigo;&lt;/li&gt;
-      &lt;li&gt;Segunda linha de defesa contra a hemorragia;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Indiferença miouterina:&lt;/strong&gt; o útero torna-se apático e apresenta fases de contração e relaxamentoo, com o perigo de encher-se progressivamente de sangue.
-    &lt;ul&gt;
-      &lt;li&gt;Quanto &lt;strong&gt;maior a paridade ou mais prolongados os três primeiros estágios da parturição&lt;/strong&gt;, &lt;strong&gt;maior tende a ser o tempo de indiferença miouterina&lt;/strong&gt;.&lt;/li&gt;
-      &lt;li&gt;O mesmo ocorreria após partos excessivamente rápidos, polidrâmnio, gravidez múltipla e nascimento de conceptos macrossômicos, à conta da excessiva distensão da matriz;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Contração uterina fixa:&lt;/strong&gt; após 1h o útero mantêm seu tônus estático na maior intensidade.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A altura do útero deve ser anotada no decorrer do secundamento e posteriormente, porque representa dado
-de grande importância clínica, que pode exprimir fenômenos normais ou patológicos. Sua consistência também representa elemento digno de atenção, principalmente até sentir-se o que &lt;strong&gt;Pinard chamou globo de segurança&lt;/strong&gt;,
-útero de &lt;strong&gt;consistência lenhosa permanente&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sinal de Ahfeld:&lt;/strong&gt; Pinçamento ou ligadura do funículo, próximo à vulva, que dela se distancia com o progresso de migração placentária&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sindal do pescador de Fabre:&lt;/strong&gt; O descolamento completo da placenta, que pode ser apreciado pela transmissão (presente ou ausente) de ligeiros movimentos de percussão do fundo do útero, ao cordão umbilical&lt;/li&gt;
-  &lt;li&gt;Sinal de Kustner&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sinais de descolamento placentário:  alongamento do cordão protruso através da vulva, elevação do fundo do útero acima do umbigo, que se torna duro e globular, hemorragia de pequena monta (300 a 500 ml) devido à separação da placenta que normalmente cessa rapidamente na dependência da retração das fibras miometriais.&lt;/p&gt;
-
-&lt;h1 id=&quot;partograma&quot;&gt;Partograma&lt;/h1&gt;
-
-&lt;p&gt;ACOG: o partograma só deve ser aberto após 6 cm de dilatação e padrão contrátil efetivo. Na fase latente do trabalho de parto, a conduta é expectante.&lt;/p&gt;
-
-&lt;p&gt;Alguns partogramas incluem duas linhas paralelas denominadas linhas de alerta e de ação. Quando a
-dilatação atinge ou cruza a &lt;strong&gt;linha de alerta&lt;/strong&gt;, há necessidade de melhor observação clínica; somente quando a curva de dilatação cervical atinge a &lt;strong&gt;linha de ação&lt;/strong&gt; a intervenção se torna necessária, o que não significa adotar uma conduta cirúrgica. Caso se opte por usar essas linhas, &lt;strong&gt;o intervalo entre elas deve ser de 4 h&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;O registro gráfico deve ser iniciado quando a parturiente estiver na fase ativa do trabalho de parto (duas a três contrações generalizadas em 10 min, dilatação cervical mínima de 6 cm);&lt;/li&gt;
-  &lt;li&gt;A dilatação cervical inicial é marcada no ponto correspondente do gráfico, traçando-se na hora imediatamente seguinte a linha de alerta e, em paralelo, 4 h após, registra-se a linha de ação, desde que a parturiente esteja na fase ativa de parto (&lt;strong&gt;no mínimo 1 cm/h de dilatação&lt;/strong&gt;);
-    &lt;ul&gt;
-      &lt;li&gt;Do contrário é possível corrigir as linhas e reposicioná-las;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Os toques vaginais são realizados &lt;strong&gt;a cada 4 h&lt;/strong&gt;. A cada toque deve-se anotar a &lt;strong&gt;dilatação cervical&lt;/strong&gt;, a &lt;strong&gt;altura da apresentação&lt;/strong&gt;, a &lt;strong&gt;variedade de posição&lt;/strong&gt; e as &lt;strong&gt;condições da bolsa das águas e do líquido amniótico&lt;/strong&gt;;&lt;/li&gt;
-  &lt;li&gt;Quando a bolsa estiver rompida, por convenção, registra-se a dilatação cervical com um triângulo;&lt;/li&gt;
-  &lt;li&gt;A apresentação e a respectiva variedade de posição são representadas por uma circunferência;&lt;/li&gt;
-  &lt;li&gt;O padrão das contrações uterinas e dos BCF, a infusão de líquidos, medicamen* A dilatação cervical inicial é marcada no ponto correspondente do gráfico, traçando-se na hora imediatamente seguinte a linha de alerta e, em paralelo, 4 h após, registra-se a linha de ação, desde que a parturiente esteja na fase ativa de parto (no mínimo 1 cm/h de dilatação)* A dilatação cervical inicial é marcada no ponto correspondente do gráfico, traçando-se na hora imediatamente seguinte a linha de alerta e, em paralelo, 4 h após, registra-se a linha de ação, desde que a parturiente esteja na fase ativa de parto (no mínimo 1 cm/h de dilatação)tos e o uso de analgesia devem ser devidamente registrados;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/obstetricia/partograma.jpeg&quot; alt=&quot;Partograma&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;parto-normal&quot;&gt;Parto normal&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Início espontâneo&lt;/li&gt;
-  &lt;li&gt;Apresentação cefálica de vértice, única&lt;/li&gt;
-  &lt;li&gt;Gravidez a termo (37 a 42 semanas)&lt;/li&gt;
-  &lt;li&gt;Nenhuma intervenção artificial.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Rezendinho 13ª edição&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="obstetricia" /><summary type="html"></summary></entry><entry><title type="html">Assistência pré-natal</title><link href="http://localhost:4000/obstetricia/assistencia-pre-natal" rel="alternate" type="text/html" title="Assistência pré-natal" /><published>2019-08-15T00:00:00-03:00</published><updated>2019-08-15T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/assistencia-pre-natal</id><content type="html" xml:base="http://localhost:4000/obstetricia/assistencia-pre-natal">&lt;h2 id=&quot;primeira-consulta&quot;&gt;Primeira consulta&lt;/h2&gt;
-
-&lt;p&gt;A consulta inicial deve ser no primeiro trimestre e deve englobar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;DUM&lt;/li&gt;
-  &lt;li&gt;USG 1ºT (11-13+6 semanas – época ideal: 12 semanas)
-    &lt;ul&gt;
-      &lt;li&gt;Pode ser transvaginal ou transabdominal.&lt;/li&gt;
-      &lt;li&gt;Atualmente, costuma ser oferecido o modelo piramidal de assistência pré-natal como o mais importante da gravidez, pois certifica ou corrige a idade menstrual (datação), diagnostica gravidez gemelar, identifica algumas malformações (anencefalia, onfalocele, megabexiga), rastreia aneuploidias (translucência nucal [TN]), e prediz toxemia e parto pré-termo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Exame do útero e seus anexos&lt;/li&gt;
-  &lt;li&gt;Peso e PA&lt;/li&gt;
-  &lt;li&gt;Ausculta fetal com o sonar Doppler é positiva entre 10 e 12 semanas; com o estetoscópio de Pinard, somente com 20 semanas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Na USG do 1ºT, estima-se a idade da gravidez pela medida do comprimento cabeça-nádega (CCN) do embrião, com precisão de ± 5 a 7 dias. Após 14 semanas, a idade da gestação é calculada pela medida do diâmetro biparietal (DBP) ou do comprimento do fêmur (CF), com precisão de ± 10 a 14 dias (ACOG, 2014). Para a ISUOG (2013), a medida do CCN no 1ºT apresenta precisão de ± 5 dias em 95% dos casos&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;exames-complementares-essenciais&quot;&gt;Exames complementares essenciais&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Urina (exame simples de urina [EAS] e cultura para rastrear bacteriúria assintomática)&lt;/li&gt;
-  &lt;li&gt;Grupo sanguíneo e fator Rh (para identificar a mulher Rh negativa)&lt;/li&gt;
-  &lt;li&gt;Hemograma completo (para rastrear anemia). À conta da hemodiluição fisiológica da gravidez, os níveis de hemoglobina que configuram a anemia são bem mais baixos que os existentes fora da gestação. Assim, os níveis mínimos normais de hemoglobina na gestação definidos pelo Royal College of Obstetricians and Gynaecologists (RCOG, 2015) são 11 g/dl no 1º trimestre; 10,5 g/dl no 2º e no 3º trimestres; e 10 g/dl no pós-parto.&lt;/li&gt;
-  &lt;li&gt;Glicemia de jejum (Estudo Hyperglycemia Adverse Pregnancy Outcome, HAPO – 2008)&lt;/li&gt;
-  &lt;li&gt;Reações sorológicas: sífilis (VDRL), toxoplasmose, HIV, hepatite B (HBsAg); a sorologia para rubéola não é mais obrigatória no pré-natal (Ministério da Saúde, 2011)&lt;/li&gt;
-  &lt;li&gt;Rastreamento de clamídia e gonococo (Centers for Disease Control and Prevention [CDC], 2015)&lt;/li&gt;
-  &lt;li&gt;Citologia cervicovaginal&lt;/li&gt;
-  &lt;li&gt;Identificação da mulher que necessita de cuidados adicionais
-    &lt;ul&gt;
-      &lt;li&gt;Exame das mamas visando à promoção do aleitamento não está mais indicado na gravidez (National Institute for Health and Clinical Excellence [NICE, 2008]).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;consultas-seguintes&quot;&gt;Consultas seguintes&lt;/h2&gt;
-
-&lt;p&gt;As consultas subsequentes serão mensais até 32 semanas; quinzenais, de 32 a 36 semanas; e semanais, de 36 semanas até o parto. E a cada consulta, serão avaliados: peso, PA, batimentos cardiofetais (BCF) e fundo do útero.&lt;/p&gt;
-
-&lt;p&gt;Consultas especiais:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;20 a 24 semanas: USG abdominal morfológica, para avaliar as estruturas fetais, localizar a placenta e o cordão umbilical; avaliar o Doppler das artérias uterinas e medir a circunferência abdominal (CA) para rastrear o crescimento intrauterino restrito (CIR) placentário precoce. Aconselha-se, nessa oportunidade, medir o colo uterino por ultrassonografia transvaginal, visando à predição do parto pré-termo.&lt;/li&gt;
-  &lt;li&gt;24 a 28 semanas: teste oral de tolerância à glicose de 75 g (TOTG-75), para o diagnóstico de diabetes melito gestacional (DMG)&lt;/li&gt;
-  &lt;li&gt;26 a 32 semanas: a grávida deve ser conscientizada do significado do movimento fetal&lt;/li&gt;
-  &lt;li&gt;28 semanas: deve-se repetir a dosagem da hemoglobina e administrar a primeira dose da imunoglobulina anti-D para mulheres Rh-negativo não sensibilizadas com fetos Rh-positivo pelo NIPT; deve-se repetir o VDRL&lt;/li&gt;
-  &lt;li&gt;32 a 36 semanas: deve-se medir a CA (rastrear o CIR placentário tardio)&lt;/li&gt;
-  &lt;li&gt;35 a 37 semanas: cultura vaginorretal para estreptococo do grupo B (GBS)&lt;/li&gt;
-  &lt;li&gt;36 semanas: deve-se determinar a posição fetal; para fetos em apresentação pélvica (confirmada pela USG), é preciso oferecer a versão externa&lt;/li&gt;
-  &lt;li&gt;41 semanas: deve-se propor o descolamento das membranas e a indução do parto.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vacinação&quot;&gt;Vacinação&lt;/h2&gt;
-
-&lt;p&gt;Antes da vacinação, todas as mulheres em idade fértil devem ser avaliadas sobre a possibilidade de estarem grávidas. As vacinas com vírus vivos ou vivos atenuados (rubéola, sarampo, caxumba, pólio-oral [Sabin], varicela, febre amarela) estão contraindicadas na gravidez, em função do risco teórico ao feto.&lt;/p&gt;
-
-&lt;p&gt;Grávidas inadvertidamente vacinadas com vírus vivos ou vivos atenuados não devem ser aconselhadas a abortar e mulheres vacinadas com vírus vivos ou vivos atenuados devem ser aconselhadas a evitar a gravidez por pelo menos 1 mês.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Vacinas com vírus inativos (hepatites A e B, gripe [inclusive a H1N1], pólio-Salk, raiva, vacinas bacterianas e toxoides [tétano, difteria]) podem ser aplicadas com segurança.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Lactantes podem ser vacinadas.&lt;/p&gt;
-
-&lt;p&gt;Na sequência, são apresentadas as vacinas obrigatórias na gravidez:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;TDAP&lt;/strong&gt; (tríplice bacteriana acelular – tétano, difteria, pertussis): deve ser administrada no 3ºT (27 a 36 semanas), não obstante a vacinação prévia, e repetida a cada gestação.
-    &lt;ul&gt;
-      &lt;li&gt;Uma recomendação recente aponta que a vacinação materna mais precoce para pertussis no início do 3ºt (28 a 32 semanas) é o método mais efetivo de atingir altos níveis de anticorpos antipertussis com melhor proteção ao neonato.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gripe trivalente&lt;/strong&gt;: para 2016 (MS), a vacina trivalente é composta pelo vírus da influenza A/Califórnia (H1N1) e os sazonais da influenza A/Hong Kong (H3N2) e B/Brisbane. Deve ser administrada no período sazonal, no Brasil, entre março e junho&lt;/li&gt;
-  &lt;li&gt;Mulheres de risco para hepatite B devem ser vacinadas na gravidez (três doses).
-    &lt;ul&gt;
-      &lt;li&gt;O Ministério da Saúde (2015) estende a vacinação universal para 2016, embora não aborde especificamente a gravidez.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;As vacinas de sarampo, caxumba, rubéola e varicela, contraindicadas na gravidez, podem ser administradas no pós-parto.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Rezendinho 13ª edição&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="obstetricia" /><summary type="html">Primeira consulta</summary></entry><entry><title type="html">Atendimento inicial</title><link href="http://localhost:4000/trauma/atendimento-inicial" rel="alternate" type="text/html" title="Atendimento inicial" /><published>2019-07-08T00:00:00-03:00</published><updated>2019-07-08T00:00:00-03:00</updated><id>http://localhost:4000/trauma/atendimento-inicial</id><content type="html" xml:base="http://localhost:4000/trauma/atendimento-inicial">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#atendimento-pré-hospitalar&quot; id=&quot;markdown-toc-atendimento-pré-hospitalar&quot;&gt;Atendimento pré-hospitalar&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#avaliação-primária&quot; id=&quot;markdown-toc-avaliação-primária&quot;&gt;Avaliação primária&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#vias-aéreas-e-cervical&quot; id=&quot;markdown-toc-vias-aéreas-e-cervical&quot;&gt;Vias aéreas e cervical&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#respiração-e-ventilação&quot; id=&quot;markdown-toc-respiração-e-ventilação&quot;&gt;Respiração e ventilação&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#circulação-e-hemorragia&quot; id=&quot;markdown-toc-circulação-e-hemorragia&quot;&gt;Circulação e hemorragia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#avaliação-neurológica&quot; id=&quot;markdown-toc-avaliação-neurológica&quot;&gt;Avaliação neurológica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exposição-e-controle-do-ambiente&quot; id=&quot;markdown-toc-exposição-e-controle-do-ambiente&quot;&gt;Exposição e controle do ambiente&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#populações-especiais&quot; id=&quot;markdown-toc-populações-especiais&quot;&gt;Populações especiais&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#complementos-à-avaliação-primária&quot; id=&quot;markdown-toc-complementos-à-avaliação-primária&quot;&gt;Complementos à avaliação primária&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#avaliação-secundária&quot; id=&quot;markdown-toc-avaliação-secundária&quot;&gt;Avaliação secundária&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#história&quot; id=&quot;markdown-toc-história&quot;&gt;História&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Como o tempo é precioso no manejo de lesões traumáticas, o atendimento deve ser sistematizado seguindo a ordem e os elementos:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Preparação&lt;/li&gt;
-  &lt;li&gt;Triagem&lt;/li&gt;
-  &lt;li&gt;Avaliação primária - ABCDE
-    &lt;ul&gt;
-      &lt;li&gt;Com primária ressucitação de pacientes com injúrias ameaçadoras da vida&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Avaliação de necessidade de transferência do paciente&lt;/li&gt;
-  &lt;li&gt;Avaliação secundária (Anamnese e exame físco completo, construindo a história do paciente)
-    &lt;ul&gt;
-      &lt;li&gt;Mecanismo do trauma, tempo deccorido, eventos relacionados, etc.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Assistência pós-ressucitação, monitorização e reavaliação&lt;/li&gt;
-  &lt;li&gt;Terapias definitivas&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;atendimento-pré-hospitalar&quot;&gt;Atendimento pré-hospitalar&lt;/h2&gt;
-&lt;p&gt;No APH busca-se enfatizar o cuidado com as vias aéreas, controle de hemorragias e choque, imobilização e o transporte imediato para um serviço de referência.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Incidente de multiplas vítimas:&lt;/strong&gt; o número de vítimas e de acometimentos não ultrapassa a capacidade profissional e os recursos para conduzir o evento.
-    &lt;ul&gt;
-      &lt;li&gt;Os pacientes mais graves são tratados primeiro&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Incidente em massa:&lt;/strong&gt; o número de pacientes e acometimentos ultrapassa a capacidade profissional e de recursos.
-    &lt;ul&gt;
-      &lt;li&gt;Pacientes com grandes chances de sobrevivência são tratados primeiro.&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;p&gt;No acidente em massa não dá para perder tempo e recursos com pacientes fatais, deixando os pacientes com maiores chances sem atendimento.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;avaliação-primária&quot;&gt;Avaliação primária&lt;/h2&gt;
-&lt;p&gt;A avaliação primária deve ser rápida e efetiva, focando nos sinais vitais seguindo a ordem ABCDE, de acordo com os sistemas que, quando afetados, levam a óbito de forma mais rápida se não tratados. O objetivo é &lt;strong&gt;buscar por condições ameaçadoras da vida&lt;/strong&gt; e utilizar as manobras apropriadas para retarda-las ou corrigi-las.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;em&gt;Airways&lt;/em&gt; (vias aéreas) + controle cervical&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Breathing&lt;/em&gt; (respiração)&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Circulation&lt;/em&gt; (circulação) + controle de heorragias&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Disability&lt;/em&gt; (status neurológico)&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Exposure&lt;/em&gt; (exposição) + controle do ambiente&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Importante notar que a simples prática de perguntar o &lt;strong&gt;nome do paciente e o que aconteceu&lt;/strong&gt; já pode avaliar o ABCD. Se o paciente nos dá uma resposta adequada, significa que ele está com as vias aéreas pérvias, respirando, o nível de consciência está preservado. A ausência de resposta indica falha em algum desses sistemas.&lt;/p&gt;
-
-&lt;h3 id=&quot;vias-aéreas-e-cervical&quot;&gt;Vias aéreas e cervical&lt;/h3&gt;
-&lt;p&gt;Manobras para facilitar a perviedade da via aérea:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Jaw-thrust&lt;/em&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Chin-lift&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pacientes com &lt;strong&gt;ECG ≤ 8&lt;/strong&gt; necessitam de uma &lt;strong&gt;via aérea definitiva&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Se a intuação for contraindicada ou não pôde ser executada, deve-se optar por uma via aérea cirúrgica.&lt;/p&gt;
-
-&lt;p&gt;O controle cervical busca impedir avanço ou agravamento de lesões e fraturas e é feito restringindo sua movimentação. A utilização do colar cervical cumpre a função e libera as mãos de um socorrista.&lt;/p&gt;
-
-&lt;p&gt;Sempre assumir que há uma fratura cervical, até que se prove o contrário!&lt;/p&gt;
-
-&lt;h3 id=&quot;respiração-e-ventilação&quot;&gt;Respiração e ventilação&lt;/h3&gt;
-&lt;p&gt;Apenas uma via aérea pérvia não garante uma ventilação adequada. A ventilação depende de oxigenação e gás carbônico, adequada função dos pulmões, movimentos torácicos e diafragmáticos. Cada componente deve ser rapidamente avaliado.&lt;/p&gt;
-
-&lt;p&gt;Avaliar estase/turgência jugular, a posição da traquéia, incursões torácicas. Auscultar os pulmões. Percutir o tórax.&lt;/p&gt;
-
-&lt;p&gt;Pneumotórax hipertensivo ou aberto, hemotórax,  lesões bronqueais ou traqueais são acometimentos que rapidamente podem comprometer a respiração. É necessário fazer reavaliações constantes para perceber uma possível deterioração do quadro.&lt;/p&gt;
-
-&lt;p&gt;Todo paciente vítima de trauma deve receber oxigênio sumplementar, seja através da intubação ou de uma máscara facial ou cateter nasal. O oximetro de pulso é importante para avaliar a saturação.&lt;/p&gt;
-
-&lt;p&gt;Atenção! Um pneumotórax simples pode ser convertido em um pneumotórax hipertensivo quando o paciente é intubado e recebe ventilação com pressão positiva antes da descompressão do pneumotórax.&lt;/p&gt;
-
-&lt;h3 id=&quot;circulação-e-hemorragia&quot;&gt;Circulação e hemorragia&lt;/h3&gt;
-&lt;p&gt;Rapidamente identificar e controlar hemorragias, aplicando pressão na ferida e fazendo reposição volêmica.&lt;/p&gt;
-
-&lt;p&gt;Avaliar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Nível de consciência: na hipovolemia a perfusão cerebral é comprometida.&lt;/li&gt;
-  &lt;li&gt;Perfusão da pele: palidez&lt;/li&gt;
-  &lt;li&gt;Pulso: pulso rápido é indicativo de hipovolemia. Sempre comparar ao contralateral e avaliar os &lt;strong&gt;pulsos centrais&lt;/strong&gt; (carótida e femoral).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fazer acessos calibrosos para infusão de líquidos e/ou sangue, quando necessário. Quando não for possível coneguir os acessos periféricos, pode-se fazer acesso venoso central, infusão intraóssea ou dissecção venosa.&lt;/p&gt;
-
-&lt;p&gt;A solução deve estar aquecida a 37-40°C. Iniciar reposição com cristalóides. Fazer inicialmente um bolus de 1L. Infundir até no máximo 1,5L. &lt;!-- Carece de fontes --&gt;&lt;/p&gt;
-
-&lt;p&gt;Importante coletar sangue para análise de hemograma, teste de gravidez em mulheres em idade reprodutiva, e tipagem sanguínea. Níveis de lactato?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Torniquetes&lt;/strong&gt; podem ser efetivos nos casos de exsanguinação massiva em extremidade. Contudo, possui risco de causar isquemia na região. Portanto, deve-se pesar o risco x benefício.&lt;/p&gt;
-
-&lt;p&gt;Uma vez exluido o pneumotórax hipertensivo, como a causa do choque, deve-se assumir que o choque é devido a uma hemorragia até que se prove o contrário.&lt;/p&gt;
-
-&lt;p&gt;As principais áreas de hemorragia interna são: tórax, abdomen, retroperiônio, pelve e ossos longos.&lt;/p&gt;
-
-&lt;p&gt;A hemorragia pélvica necessita de um cinto de estabiliação, para diminuir o compartimento e tamponar o sangramento.&lt;/p&gt;
-
-&lt;p&gt;A avaliação complementar da origem da hemorragia pode ser feita com radiografias de tórax e pelve, FAST e/ou LPD.&lt;/p&gt;
-
-&lt;p&gt;Ácido tranexâmico?&lt;/p&gt;
-
-&lt;h3 id=&quot;avaliação-neurológica&quot;&gt;Avaliação neurológica&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Avaliar a abertura pupilar e fotossensibilidade.&lt;/li&gt;
-  &lt;li&gt;Avaliar o nível de lesão medular, se houver.&lt;/li&gt;
-  &lt;li&gt;Fazer a ECG&lt;/li&gt;
-  &lt;li&gt;Manter oxigenação e perfusão adequada para não agravar possível lesão no SNC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Sempre lembrar que álcool e outras drogas podem alterar o nível de consciência do paciente.&lt;/p&gt;
-
-&lt;h3 id=&quot;exposição-e-controle-do-ambiente&quot;&gt;Exposição e controle do ambiente&lt;/h3&gt;
-
-&lt;p&gt;Despir o paciente na busca por lesões e fraturas. Contu
-do, lembrar de sempre cobrir o paciente após a avaliação para prevenir hipotermia. O contato corpo a corpo com um familiar ou voluntário pode ser útil como fonte de calor na ausência de mantas térmicas. Sempre aquecer as soluções antes da infusão.&lt;/p&gt;
-
-&lt;p&gt;Garantir um ambiente aquecido.&lt;/p&gt;
-
-&lt;h3 id=&quot;populações-especiais&quot;&gt;Populações especiais&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Crianças
-    &lt;ul&gt;
-      &lt;li&gt;Tipicamente possuem maior reserva e mecanismos de compensação fisiológicos.&lt;/li&gt;
-      &lt;li&gt;Demonstram menos sinais de hipovolemia, mesmo após severa depleção de volume&lt;/li&gt;
-      &lt;li&gt;Quando ocorre uma deterioração do estado geral, a perda já é catastrófica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Grávidas
-    &lt;ul&gt;
-      &lt;li&gt;Sempre palpar o abdomen na tentativa de identificar o útero das mulheres&lt;/li&gt;
-      &lt;li&gt;Testar b-HCG para confirmar a gravidez&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Idosos&lt;/li&gt;
-  &lt;li&gt;Obesos
-    &lt;ul&gt;
-      &lt;li&gt;Intubação mais difícil&lt;/li&gt;
-      &lt;li&gt;FAST e LPD são mais difíceis&lt;/li&gt;
-      &lt;li&gt;Reposição rápida de líquidos pode agravar suas comorbidades&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Atletas
-    &lt;ul&gt;
-      &lt;li&gt;Podem não manifestar os sinais iniciais de choque, como taquicardia e taquipnéia&lt;/li&gt;
-      &lt;li&gt;Devido à boa compensação fisiológica&lt;/li&gt;
-      &lt;li&gt;Podem ter baixa PA sistólica e diastólica fisiológica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;complementos-à-avaliação-primária&quot;&gt;Complementos à avaliação primária&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Eletrocardiografia contínua&lt;/li&gt;
-  &lt;li&gt;Oximetria de pulso&lt;/li&gt;
-  &lt;li&gt;Capnografia&lt;/li&gt;
-  &lt;li&gt;Medição da frequência e ritmo respiratório&lt;/li&gt;
-  &lt;li&gt;Gasometria arterial
-    &lt;ul&gt;
-      &lt;li&gt;pH baixo e excesso de base são indicativos de choque&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sonda urinária
-    &lt;ul&gt;
-      &lt;li&gt;Diurese: um bom indicativo do status de volume do paciente e reflete a perfusão renal.&lt;/li&gt;
-      &lt;li&gt;Contraindicado em pacientes com injúria uretral&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sonda gástrica
-    &lt;ul&gt;
-      &lt;li&gt;Descomprimir e aliviar a distensão&lt;/li&gt;
-      &lt;li&gt;Diminuir o risco de aspiração&lt;/li&gt;
-      &lt;li&gt;Checar hemorragia gastrointestinal alta&lt;/li&gt;
-      &lt;li&gt;Se houver ou suspeitar de fratura da placa cribiforme, nunca inserir a sonda pelo nariz! Fazer inserção pela cavidade oral.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Medição do lactato sanguíeno&lt;/li&gt;
-  &lt;li&gt;Radiografias de tórax e pelve
-    &lt;ul&gt;
-      &lt;li&gt;Se a radiografia for essencial, pode ser feita mesmo em grávidas.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;FAST&lt;/li&gt;
-  &lt;li&gt;LPD&lt;/li&gt;
-  &lt;li&gt;Pressão arterial&lt;/li&gt;
-  &lt;li&gt;Temperatura corporal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;avaliação-secundária&quot;&gt;Avaliação secundária&lt;/h2&gt;
-&lt;p&gt;Só começa quando a avaliação primária (ABCDE) é concluída e o paciente responde às manobras de ressucitação. Há não ser que um membro da equipe possa ir adiantando essa fase ao mesmo tempo em que os demais fazer a avaliação primária.&lt;/p&gt;
-
-&lt;p&gt;Consiste numa avaliação “&lt;em&gt;da cabeça aos pés&lt;/em&gt;”. Fazer uma história completa do ocorrido e um exame físico detalhado, incluindo os sinais vitais.&lt;/p&gt;
-
-&lt;h3 id=&quot;história&quot;&gt;História&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Alergias&lt;/li&gt;
-  &lt;li&gt;Entendimento do mecanismo da lesão (algumas injúrias podem ser premeditadas conhecendo-se o mecanismo)
-    &lt;ul&gt;
-      &lt;li&gt;Trauma contuso: como aciedentes de automóveis e espancamentos&lt;/li&gt;
-      &lt;li&gt;Trauma penetrante: PAFs, PABs, etc.&lt;/li&gt;
-      &lt;li&gt;Trauma térmico: inalação térmica, perda de líquido pelas feridas, etc.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Medicações em uso&lt;/li&gt;
-  &lt;li&gt;Afecções prévias&lt;/li&gt;
-  &lt;li&gt;Gravidez&lt;/li&gt;
-  &lt;li&gt;Última refeição&lt;/li&gt;
-  &lt;li&gt;Outros eventos relacionados ao trauma&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+dilatação do colo antes do esvaziamento e mantida por muitas horas no pós-operatório.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry></feed>

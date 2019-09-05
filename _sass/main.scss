@@ -1,8 +1,3 @@
-*{
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
-  text-align: left;
-}
-
 /* Padding order: top right bottom left */
 .wrapper {
   max-width: 800px;
@@ -20,9 +15,12 @@
 }
 body {
   margin: 0 0 0 0;
+  font-size: 1.2em;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  text-align: left;
 }
 
-.aviso {
+.alert {
   padding: 5px 5px 5px 10px;
   border-left: 6px solid red;
   background-color: #eee;
@@ -31,6 +29,11 @@ body {
 .aviso-red {border-color: red;}
 .aviso-yellow {border-color: yellow}
 .aviso-green {border-color: green}
+
+.red {color: red}
+.orange {color: orange}
+.green {color: green}
+.blue {color: blue}
 
 /* Header */
 #logo {
@@ -87,9 +90,6 @@ body {
 }
 .fa {
   padding-right: 5px;
-}
-.github {
-  text-indent: 0;
 }
 .meu-svg {
   padding-right: 5px;
@@ -226,8 +226,7 @@ h1 {
   text-align: center;
 }
 p{
-  text-indent: 1em;
-  line-height: 1.2em;
+  line-height: 1.5em;
 }
 a {
   word-break: break-word;
@@ -244,16 +243,26 @@ a {
 }
 table {
   border-collapse: collapse;
-  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
 td, th {
-  border: 0px solid #dddddd;
+  border: 0px solid #d1d1d1;
   text-align: left;
-  padding: 2px;
+  padding: 3px;
+}
+th{
+  background-color: white;
 }
 tr:nth-child(even) {
-  background-color: #dddddd;
+  background-color: #d1d1d1;
 }
+tr:nth-child(odd) {
+  background-color: #e0e0e0;
+}
+
+
+
 .abertura {
   color: gray;
   a {
