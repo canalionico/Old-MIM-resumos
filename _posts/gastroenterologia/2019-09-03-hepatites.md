@@ -206,6 +206,12 @@ pouco tempo depois do IgM, permanecendo positivo indefinidamente, mesmo após a 
 A melhora do quadro agudo da hepatite B e a evolução para a cura dependem fundamentalmente da **capacidade do indivíduo em produzir de forma satisfatória o anti-HBs.** Se não houver a produção deste anticorpo pelo menos após
 seis meses de evolução, o paciente não se livrará do HBV, tornando-se portador crônico assintomático ou desenvolvendo hepatite B crônica.
 
+![HEP B](/assets/gastro/hepb-sorologia.jpeg)
+![HEP B](/assets/gastro/hepb-aguda.jpeg)
+![HEP B](/assets/gastro/hepb-aguda-grafico.jpeg)
+![HEP B](/assets/gastro/hepb-cronica.jpeg)
+![HEP B](/assets/gastro/hepb-cronica-grafico.jpeg)
+
 
 
 COLOCAR AQUI A IMAGEM DA EVOLUÇÃO SOROLÓGICA
@@ -326,10 +332,6 @@ sempre fatal, num índice de mortalidade que ultrapassa os 80%.
 
 <div class="alert aviso-green">O vírus pode infectar outros órgãos além do fígado, como pâncreas, baço e medula óssea, que funcionam como reservatório. Isso explica as recidivas de hepatite B após transplante hepático.</div>
 
-### Profilaxia
-
-* Pré-Exposição = Vacina (HB).
-* Pós-Exposição = Imunoglobulina Hiperimune (IGHAHB) + Vacina (HB).
 
 ### Tratamento
 
@@ -344,6 +346,11 @@ de cronificação, ou mesmo acelerar a melhora clínica.
 Para os casos graves (hepatite fulminante), fica indicado o suporte
 intensivo, associado a uma das drogas orais disponíveis para o tratamento da hepatite B (tenofovir, entecavir, etc.). Não há benefício de
 iniciar corticoterapia. Na verdade, a grande terapia para os casos de hepatite fulminante é o transplante hepático.
+
+### Profilaxia
+
+* Pré-Exposição = Vacina (HB).
+* Pós-Exposição = Imunoglobulina Hiperimune (IGHAHB) + Vacina (HB).
 
 # Hepatite C
 
@@ -367,3 +374,7 @@ Testes sorológicos:
 No Brasil ainda é a indicação mais frequente de transplante de fígado. Mas vem mudando no mundo.
 
 Possui também relação com o carcinoma hepatocelular.
+
+## Referências
+
+1. Hepatites virais: o Brasil está atento / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Vigilância Epidemiológica. – Brasília : Ministério da Saúde, 2005.

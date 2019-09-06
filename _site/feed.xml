@@ -1,4 +1,199 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-05T16:25:28-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-05T23:25:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Gastrite</title><link href="http://localhost:4000/gastroenterologia/gastrite" rel="alternate" type="text/html" title="Gastrite" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/gastrite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/gastrite">&lt;p&gt;É a lesão da mucosa gástrica com diagnóstico &lt;strong&gt;estabelecido pela histologia&lt;/strong&gt;, pela presença de processo inflamatório da mucosa, infiltrado leucocitário inflamatório que pode ou não estar associada a alterações macroscópicas na endoscopia.&lt;/p&gt;
+
+&lt;p&gt;A gastrite por H. pylori e a gastrite autoimune (anemia perniciosa) são os dois principais representantes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Gatropatia:&lt;/strong&gt; é uma lesão da mucosa gástrica sem processo inflamatório, com edema, congestão vascular e hiperplasia celular à analise histológica. Diferente da gastrite.&lt;/p&gt;
+
+&lt;p&gt;Gastropatia por AINE, lesão aguda de mucosa gástrica e gastropatia alcoólica
+são os principais exemplos.&lt;/p&gt;
+
+&lt;p&gt;Hoje sabemos que a relação
+entre gastrite e dispepsia é precária, pois a maioria das gastrites é assintomática e a maioria dos pacientes com dispepsia sem úlcera não
+tem gastrite. Por isso, foi criado o termo “Dispepsia não ulcerosa” ou “Dispepsia funcional” para todo paciente com sintomas dispépticos não acompanhados de úlcera péptica ou neoplasia na endoscopia.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/estomago.png&quot; alt=&quot;Estômago&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;É necessária a biópsia para estabelecer o diagnóstico de gastrite ou gastropatia.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hoje classificamos as gastrites e gastropatias baseando-se em:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tempo de instalação (aguda ou crônica);&lt;/li&gt;
+  &lt;li&gt;Histopatologia (gastrite superficial ou gastrite atrófica ou gastropatia);&lt;/li&gt;
+  &lt;li&gt;Etiologia (ex.: gastrite por H. pylori).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gastrite-por-h-pylori&quot;&gt;Gastrite por &lt;em&gt;H. pylori&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;O &lt;em&gt;H. pylori&lt;/em&gt; é um bacilo &lt;strong&gt;Gram-negativo&lt;/strong&gt; que se adere à mucosa gástrica, sobrevivendo neste local graças à secreção de &lt;strong&gt;urease&lt;/strong&gt; (enzima que &lt;strong&gt;converte a ureia do suco gástrico em amônia e bicarbonato&lt;/strong&gt;, alcalinizando o ambiente). Trata-se da infecção crônica mais comum do mundo, geralmente adquirida na infância. Boa parte da população (30-50% dos adultos) alberga a bactéria em seus estômagos!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bactéria gram-negativa&lt;/li&gt;
+  &lt;li&gt;Habitat natural: estômago&lt;/li&gt;
+  &lt;li&gt;Uma das infecções  bacterianas mais comuns no ser humano. Distribuição universal (cerca de 50% da população mundial)&lt;/li&gt;
+  &lt;li&gt;Prevalência de 70-90% em países em desenvolvimento&lt;/li&gt;
+  &lt;li&gt;25% em países desenvolvidos&lt;/li&gt;
+  &lt;li&gt;Maior prevalência nos primeiros anos de vida, acomete mais crianças do que adultos
+    &lt;ul&gt;
+      &lt;li&gt;Menor resposta imunológica&lt;/li&gt;
+      &lt;li&gt;Menos higiene durante a infância&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Transmissão&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Interpessoal
+        &lt;ul&gt;
+          &lt;li&gt;Instituições psiquiátricas, orfanatos, aglomerado familiar, prática sexual&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Fecal-oral (águas e alimetnos contaminados)&lt;/li&gt;
+      &lt;li&gt;Oral-oral (vômitos, refluxo gastroesogágico, endoscopia)&lt;/li&gt;
+      &lt;li&gt;É encontrado em animais mas estes não contribuem como reservatórios para o ser humano.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O Hp consegue resistir ao sugo gástrico com pH inferior a 4;&lt;/li&gt;
+  &lt;li&gt;Produz urease que hidrolisa a uréia no suco gástrico, com produção de bicarbonato e amônia. Esta atua como repector de íons H+, gerando um pH neutroao redor da bactéria;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mobilidade&lt;/strong&gt;: o Hp se move facilmente pelo estômago devido à morfologia em &lt;em&gt;S&lt;/em&gt; do seu flagelo. Então, ela consegue escapar dos movimentos peristálticos e atingir o epitélio da mucosa gástrica (seu habitat).&lt;/li&gt;
+  &lt;li&gt;Além disso, suas &lt;strong&gt;fímbrias&lt;/strong&gt; possuem &lt;strong&gt;adesina&lt;/strong&gt;, uma proteína que a mantem aderida à mucosa.&lt;/li&gt;
+  &lt;li&gt;Algumas cepas produzem &lt;strong&gt;citocinas Cag A e Vac A&lt;/strong&gt;, mais virulentas, maior poder de inflamação, desenvolvimento de gastrite mais intensa, DUP e CA.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Resultado da aquisição do Hp&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Maioria dos infectados vivem com a gastrite crônica, se a bactéria não é tratada&lt;/li&gt;
+  &lt;li&gt;Sem sintomas e sem consequências por toda a vida&lt;/li&gt;
+  &lt;li&gt;Uma minoria na idade adulta&lt;/li&gt;
+  &lt;li&gt;Só 1% desenvolverão CA ou úlcera (cepas mais patogênicas)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fatores de aquisição:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mais comum em zona rural;&lt;/li&gt;
+  &lt;li&gt;Precarias condições sanitárias e de higiene;&lt;/li&gt;
+  &lt;li&gt;Familias numerosas;&lt;/li&gt;
+  &lt;li&gt;Nível de escolaridade dos pais.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;aguda&quot;&gt;Aguda&lt;/h3&gt;
+
+&lt;p&gt;Uma vez que o &lt;em&gt;H. pylori&lt;/em&gt; é adquirido, ele não é mais eliminado. Ocorre um processo inflamatório com &lt;strong&gt;neutrófilos&lt;/strong&gt; e eosinófilos na mucosa. Esse processo inicial costuma ser passageiro e com 1 mês torna-se assintomático.&lt;/p&gt;
+
+&lt;h3 id=&quot;crônica&quot;&gt;Crônica&lt;/h3&gt;
+
+&lt;p&gt;Gastrite crônica: decorrente da persistencia da bactéria com presença de &lt;strong&gt;linfócitos&lt;/strong&gt; e plasmócitos.&lt;/p&gt;
+
+&lt;p&gt;A gastrite crônica leve representa o fenótipo mais comum, cursando de forma assintomática e sem repercussões clínicas no futuro.&lt;/p&gt;
+
+&lt;p&gt;A gastrite antral crônica (15% dos casos), por outro lado, se associa à HIPERcloridria e à úlcera péptica (principalmente duodenal).&lt;/p&gt;
+
+&lt;p&gt;Na pangastrite grave (forma menos frequente) há destruição e atrofia das glândulas oxínticas do corpo e fundo gástrico, gerando HIPOcloridria. Tal
+fenótipo se associa às úlceras gástricas, à metaplasia intestinal (lesão precursora do adenocarcinoma) e à hiperestimulação do tecido linfoide associado à mucosa, aumentando o risco de linfoma B de baixo grau (linfoma MALT do estômago) – maiores detalhes no capítulo de “Câncer Gástrico”.&lt;/p&gt;
+
+&lt;p&gt;No geral, até 10% dos portadores crônicos
+do H. pylori complicam doença ulcerosa
+péptica. O &lt;span class=&quot;red&quot;&gt;adenocarcinoma gástrico&lt;/span&gt; aparece
+em 0.1 a 3% desses pacientes, e o linfoma
+MALT em &amp;lt; 0.01%.&lt;/p&gt;
+
+&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
+
+&lt;p&gt;80 a 90% nunca irão apresentar sintomas. A maioria dos sintomas da gastrite desaparece com o tratamento para Hp.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Azia&lt;/li&gt;
+  &lt;li&gt;Dor epigástroca&lt;/li&gt;
+  &lt;li&gt;Náuseas&lt;/li&gt;
+  &lt;li&gt;Vômitos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Piora com frutas cítricas, café, jejum, refrigerantes.&lt;/p&gt;
+
+&lt;h3 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Por endoscopia&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Teste da urease:&lt;/strong&gt; simples, barato, rápido. Meio contendo uréia e vermelho fenol. Urease desdobra a uréia em amônia a qual muda a coloração do meio, ficando violeta.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Histologia:&lt;/strong&gt; &lt;span class=&quot;orange&quot;&gt;padrão-ouro&lt;/span&gt; no diagnóstico da infecção pelo Hp
+        &lt;ul&gt;
+          &lt;li&gt;Informações sobre estado da mucosa (grau de inflamação, atrofia, metaplasia, displasia)&lt;/li&gt;
+          &lt;li&gt;Pode flagrar falsos positivos do teste da urease&lt;/li&gt;
+          &lt;li&gt;Coloração Hematoxilina-esosina: avaliar mucosa&lt;/li&gt;
+          &lt;li&gt;Giemsa: identificar a bactéria&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Cultura&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Teste respiratório:&lt;/strong&gt; método não invasivo, bom para crianças e idosos. Mais indicado para controle e avaliação do tratamento.
+    &lt;ul&gt;
+      &lt;li&gt;Ingesta de uréia marcada com Carbono 13 diluído em suco&lt;/li&gt;
+      &lt;li&gt;Coleta de amostra de ar expirado após ingestão desolução contendo uréia 13C&lt;/li&gt;
+      &lt;li&gt;Se infecção: urease hidrolisa a uréia em amônia e bicarbonato no estômago&lt;/li&gt;
+      &lt;li&gt;No pulmão o HCO3 se dissocia em H2O e CO2 marcado com carbono 13 que sera exalado na expiração&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pesquisa do antígeno fecal&lt;/li&gt;
+  &lt;li&gt;Sorologia: menor sensibilidade que os métodos anteriores, além de não confirmar doença ativa, já que pode refletir apenas uma “cicatriz sorológica” (caindo em desuso).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;Importante: não há achados clínicos ou endoscópicos típicos que possam estabelecer o diagnóstico diferencial entre a gastrite e a gastropatia.&lt;/div&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;IBP&lt;/strong&gt; 12/12 h&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Amoxalicina&lt;/strong&gt; 1 g 12/12 h&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Claritromicina&lt;/strong&gt; 500 mg 12/12 h&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Com 7 dias o índice de cura é de 73% (maior chance de resistência à claritromicina). Com 14 dias é de 83%. O IBP faz com que o antibiótico haja melhor na mucosa gástrica por meio do aumento do pH.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Falha terapêutica:
+    &lt;ul&gt;
+      &lt;li&gt;IBP 12/12 h&lt;/li&gt;
+      &lt;li&gt;Amoxacilina 1 g 12/12 h&lt;/li&gt;
+      &lt;li&gt;Levofloxacino 500 mg 1 x ao dia&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Com 10 dias o índice de cura é diminuído. Com 14 dias é o ideal.&lt;/p&gt;
+
+&lt;p&gt;Há ainda o terceiro esquema. Se com a 3ª tentativa de tratamento não conseguir tratar, não adianta mais tentar um quatro.&lt;/p&gt;
+
+&lt;p&gt;Resistência antimicrobiana (claritromicina) e levofloxacino. Pode ser adquirida (uso maior desses antibióticos, regime formulado, aderência ao tratamento) ou por predisposição genética.&lt;/p&gt;
+
+&lt;h2 id=&quot;gastropatia-medicamentosa&quot;&gt;Gastropatia medicamentosa&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ácido acetilsalicílico/AINEs&lt;/li&gt;
+  &lt;li&gt;Consumo  elevado com  aumento idade : ósseos, coração, prevenção  trombo-embolismo&lt;/li&gt;
+  &lt;li&gt;Inibição da prostaglandinas que são inibidoras da secreção ácida gástrica&lt;/li&gt;
+  &lt;li&gt;Sintomas em cerca de 25-50% dos casos&lt;/li&gt;
+  &lt;li&gt;Dor epigástrica, náuseas, vômitos, HDA: gastropatias/úlcera péptica&lt;/li&gt;
+  &lt;li&gt;IBP na gastroprevencao preventiva&lt;/li&gt;
+  &lt;li&gt;Pantoprazol 20 mg ou 40 mg (mesma eficácia) prevenir sintomas dispépticos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pode cursar com sangramento leve (sangue oculto nas fezes e anemia) ou grave, com ulceras importantes e HDA.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;p&gt;Deve-se suspender o AINE incriminado e
+iniciar terapia com IBP. Caso o paciente necessite retomar a terapia anti-inflamatória, devemos fazer profilaxia com IBP.&lt;/p&gt;
+
+&lt;p&gt;A presença do H. pylori contribui para piorar a lesão gástrica por AINE e, por isso, a erradicação da bactéria está indicada se o paciente tiver que manter os AINE.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É a lesão da mucosa gástrica com diagnóstico estabelecido pela histologia, pela presença de processo inflamatório da mucosa, infiltrado leucocitário inflamatório que pode ou não estar associada a alterações macroscópicas na endoscopia.</summary></entry><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#cistos-hepáticos&quot; id=&quot;markdown-toc-cistos-hepáticos&quot;&gt;Cistos hepáticos&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#hemangioma&quot; id=&quot;markdown-toc-hemangioma&quot;&gt;Hemangioma&lt;/a&gt;&lt;/li&gt;
@@ -205,13 +400,16 @@ NASH: &lt;em&gt;non alcoolic steatosis hepatitis&lt;/em&gt;.&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#padrão-clínico&quot; id=&quot;markdown-toc-padrão-clínico&quot;&gt;Padrão clínico&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#complicações-1&quot; id=&quot;markdown-toc-complicações-1&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hepatite-c&quot; id=&quot;markdown-toc-hepatite-c&quot;&gt;Hepatite C&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hepatite-c&quot; id=&quot;markdown-toc-hepatite-c&quot;&gt;Hepatite C&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;É a inflamação do fígado que possui várias etiologias, como virais, bacterianas, alcóolica, etc. &lt;em&gt;A&lt;/em&gt; e &lt;em&gt;E&lt;/em&gt; são transmitidas principalmente por água e alimentos. A &lt;em&gt;B&lt;/em&gt; por transmissão vertical, principalmente. Existem as hepatites &lt;em&gt;A, B, C, D, e E&lt;/em&gt;, que são as mais importantes.&lt;/p&gt;
@@ -447,6 +645,12 @@ pouco tempo depois do IgM, permanecendo positivo indefinidamente, mesmo após a 
 &lt;p&gt;A melhora do quadro agudo da hepatite B e a evolução para a cura dependem fundamentalmente da &lt;strong&gt;capacidade do indivíduo em produzir de forma satisfatória o anti-HBs.&lt;/strong&gt; Se não houver a produção deste anticorpo pelo menos após
 seis meses de evolução, o paciente não se livrará do HBV, tornando-se portador crônico assintomático ou desenvolvendo hepatite B crônica.&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/hepb-sorologia.jpeg&quot; alt=&quot;HEP B&quot; /&gt;
+&lt;img src=&quot;/assets/gastro/hepb-aguda.jpeg&quot; alt=&quot;HEP B&quot; /&gt;
+&lt;img src=&quot;/assets/gastro/hepb-aguda-grafico.jpeg&quot; alt=&quot;HEP B&quot; /&gt;
+&lt;img src=&quot;/assets/gastro/hepb-cronica.jpeg&quot; alt=&quot;HEP B&quot; /&gt;
+&lt;img src=&quot;/assets/gastro/hepb-cronica-grafico.jpeg&quot; alt=&quot;HEP B&quot; /&gt;&lt;/p&gt;
+
 &lt;p&gt;COLOCAR AQUI A IMAGEM DA EVOLUÇÃO SOROLÓGICA&lt;/p&gt;
 
 &lt;h3 id=&quot;guia-de-dianóstico&quot;&gt;Guia de dianóstico&lt;/h3&gt;
@@ -615,13 +819,6 @@ sempre fatal, num índice de mortalidade que ultrapassa os 80%.&lt;/p&gt;
 
 &lt;div class=&quot;alert aviso-green&quot;&gt;O vírus pode infectar outros órgãos além do fígado, como pâncreas, baço e medula óssea, que funcionam como reservatório. Isso explica as recidivas de hepatite B após transplante hepático.&lt;/div&gt;
 
-&lt;h3 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pré-Exposição = Vacina (HB).&lt;/li&gt;
-  &lt;li&gt;Pós-Exposição = Imunoglobulina Hiperimune (IGHAHB) + Vacina (HB).&lt;/li&gt;
-&lt;/ul&gt;
-
 &lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
 
 &lt;p&gt;O tratamento da hepatite B aguda é apenas sintomático. A única restrição
@@ -635,6 +832,13 @@ de cronificação, ou mesmo acelerar a melhora clínica.&lt;/p&gt;
 &lt;p&gt;Para os casos graves (hepatite fulminante), fica indicado o suporte
 intensivo, associado a uma das drogas orais disponíveis para o tratamento da hepatite B (tenofovir, entecavir, etc.). Não há benefício de
 iniciar corticoterapia. Na verdade, a grande terapia para os casos de hepatite fulminante é o transplante hepático.&lt;/p&gt;
+
+&lt;h3 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pré-Exposição = Vacina (HB).&lt;/li&gt;
+  &lt;li&gt;Pós-Exposição = Imunoglobulina Hiperimune (IGHAHB) + Vacina (HB).&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h1 id=&quot;hepatite-c&quot;&gt;Hepatite C&lt;/h1&gt;
 
@@ -663,7 +867,13 @@ Houghton 89&lt;/p&gt;
 
 &lt;p&gt;No Brasil ainda é a indicação mais frequente de transplante de fígado. Mas vem mudando no mundo.&lt;/p&gt;
 
-&lt;p&gt;Possui também relação com o carcinoma hepatocelular.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Doença do refluxo gastroesofágico</title><link href="http://localhost:4000/gastroenterologia/drge" rel="alternate" type="text/html" title="Doença do refluxo gastroesofágico" /><published>2019-09-02T00:00:00-03:00</published><updated>2019-09-02T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/drge</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/drge">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;Possui também relação com o carcinoma hepatocelular.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Hepatites virais: o Brasil está atento / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Vigilância Epidemiológica. – Brasília : Ministério da Saúde, 2005.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Doença do refluxo gastroesofágico</title><link href="http://localhost:4000/gastroenterologia/drge" rel="alternate" type="text/html" title="Doença do refluxo gastroesofágico" /><published>2019-09-02T00:00:00-03:00</published><updated>2019-09-02T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/drge</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/drge">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#relaxamento-do-eei-sem-relação-com-a-deglutição&quot; id=&quot;markdown-toc-relaxamento-do-eei-sem-relação-com-a-deglutição&quot;&gt;Relaxamento do EEI sem relação com a deglutição&lt;/a&gt;&lt;/li&gt;
@@ -1246,37 +1456,119 @@ grau (carcinoma in situ) indica terapia endoscópica ou esofagectomia. Prefere-s
 
 &lt;p&gt;Coledocojejuno anastomose.&lt;/p&gt;
 
-&lt;p&gt;Gastrojejunostomia.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Se tirar a cabeça do pâncreas então é necessário tirar o duodeno. Isso pois, do contrário o duodeno necrosaria, uma vez que a irrigação deste vem das artérias que se originam da cabeça do pâncreas e são ressecadas junto com o pâncreas.</summary></entry><entry><title type="html">Pancreatite</title><link href="http://localhost:4000/gastroenterologia/pancreatite" rel="alternate" type="text/html" title="Pancreatite" /><published>2019-08-28T00:00:00-03:00</published><updated>2019-08-28T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/pancreatite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/pancreatite">&lt;p&gt;O pâncreas é um órgão retroperitoneal e díficil de acessar ao exame físico. Em patologias do pâncreas  o paciente pode assumir uma postura antiálgica, como a genopeitoral.&lt;/p&gt;
+&lt;p&gt;Gastrojejunostomia.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Se tirar a cabeça do pâncreas então é necessário tirar o duodeno. Isso pois, do contrário o duodeno necrosaria, uma vez que a irrigação deste vem das artérias que se originam da cabeça do pâncreas e são ressecadas junto com o pâncreas.</summary></entry><entry><title type="html">Pancreatite</title><link href="http://localhost:4000/gastroenterologia/pancreatite" rel="alternate" type="text/html" title="Pancreatite" /><published>2019-08-28T00:00:00-03:00</published><updated>2019-08-28T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/pancreatite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/pancreatite">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#pancreatite-aguda&quot; id=&quot;markdown-toc-pancreatite-aguda&quot;&gt;Pancreatite aguda&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#litíase-biliar&quot; id=&quot;markdown-toc-litíase-biliar&quot;&gt;Litíase biliar&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#álcool&quot; id=&quot;markdown-toc-álcool&quot;&gt;Álcool&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#drogas&quot; id=&quot;markdown-toc-drogas&quot;&gt;Drogas&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#outras&quot; id=&quot;markdown-toc-outras&quot;&gt;Outras&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#trauma&quot; id=&quot;markdown-toc-trauma&quot;&gt;Trauma&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#respostas-sistêmicas&quot; id=&quot;markdown-toc-respostas-sistêmicas&quot;&gt;Respostas sistêmicas&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#indicadores-precoces-de-severidade&quot; id=&quot;markdown-toc-indicadores-precoces-de-severidade&quot;&gt;Indicadores precoces de severidade&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exames-laboratoriais&quot; id=&quot;markdown-toc-exames-laboratoriais&quot;&gt;Exames laboratoriais&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exames-de-imagem&quot; id=&quot;markdown-toc-exames-de-imagem&quot;&gt;Exames de imagem&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#necrosectomia&quot; id=&quot;markdown-toc-necrosectomia&quot;&gt;Necrosectomia&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#coleções-líquidas&quot; id=&quot;markdown-toc-coleções-líquidas&quot;&gt;Coleções líquidas&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#necrose&quot; id=&quot;markdown-toc-necrose&quot;&gt;Necrose&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#critérios-prognósticos&quot; id=&quot;markdown-toc-critérios-prognósticos&quot;&gt;Critérios prognósticos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;O pâncreas é um órgão retroperitoneal e díficil de acessar ao exame físico. Em patologias do pâncreas o paciente pode assumir uma postura antiálgica, como a genopeitoral.&lt;/p&gt;
 
 &lt;p&gt;É a inflamação do pâncreas e pode ser dividida em aguda e crônica. Na crônica ocorrem deformações importantes da glândula, como necrose, fibrose, calcificações. O pâncreas possui dois parênquimas, um endócrino e outro exócrino.&lt;/p&gt;
 
-&lt;p&gt;No pâncreas endócrino, as células alfa produzem glucaon, as beta, insulina, e as gama, somatostatina.&lt;/p&gt;
+&lt;p&gt;No pâncreas endócrino (20%), as células alfa produzem &lt;strong&gt;glucagon&lt;/strong&gt;, as beta, &lt;strong&gt;insulina&lt;/strong&gt;, e as gama, &lt;strong&gt;somatostatina&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;O pâncreas exócrino produz o suco pacreático, composto de enzimas e bicarbonato. Dentre as enzimas, estão as lipases, tripsina, elastase, etc.&lt;/p&gt;
+&lt;p&gt;O pâncreas exócrino, formado por células acinares (produtoras) e células ductais intercalares, produz o suco pacreático, composto de enzimas e bicarbonato. Dentre as enzimas, estão as lipases, tripsina, elastase, etc.&lt;/p&gt;
 
-&lt;p&gt;O tripsinogênio necessita de cálcio para sua ativação em tripsina. Essa tripsina ativa as procarboxipeptidades (a e b), a proelastase, entre outras.
+&lt;h1 id=&quot;pancreatite-aguda&quot;&gt;Pancreatite aguda&lt;/h1&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;Normalmente a ativação das pró-enzimas ocorre apenas no lúmen duodenal, graças à ação de uma enzima presente na borda em escova do epitélio
+do duodeno, conhecida como &lt;strong&gt;enteroquinase&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;O primeiro e principal zimogênio a ser ativado é o &lt;strong&gt;tripsinogênio&lt;/strong&gt;, que se transforma em sua forma ativa, a &lt;strong&gt;tripsina&lt;/strong&gt;. Esta, através de um mecanismo de cascata, é capaz de ativar
+todas as outras pró-enzimas como o &lt;strong&gt;quimiotripsinogênio&lt;/strong&gt;, &lt;strong&gt;pró-elastase&lt;/strong&gt; e &lt;strong&gt;fosfolipase A&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Por elevar o pH local, a secreção pancreática, rica em bicarbonato, facilita a ação das enzimas do pâncreas sobre os constituintes da dieta.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A activação enzimática intrapancreática,  etapa  fundamental  na  patogenia  da  pancreatite  aguda, parece   ocorrer   devido   a   uma   &lt;strong&gt;colocalização&lt;/strong&gt;   dos   zimogéneos   com   as   &lt;strong&gt;hidrolases lisossomais&lt;/strong&gt;.  Estas últimas  têm  a  capacidade  de  activar  cataliticamente  o  tripsinogénio que,  por  sua  vez,  activa  as  outras  enzimas  digestivas  no  interior  da  célula  acinar, originando lesão e necrose acinar,  com posterior  evolução para pancreatite aguda. Esta hipótese é suportada pela evidência que a &lt;strong&gt;catepsina B&lt;/strong&gt;, uma hidrolase lisossomal, tem a capacidade de activar o tripsinogéneo convertendo-o  em tripsina, que activa por sua vez os restantes zimogéneos.&lt;sup id=&quot;fnref:AlvesJVP&quot;&gt;&lt;a href=&quot;#fn:AlvesJVP&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O tripsinogênio necessita de cálcio para sua ativação em tripsina. Essa tripsina ativa as procarboxipeptidades (a e b), a pro-elastase, entre outras.
 A lipase não necessita dessa ativação pois já é secretada na sua forma ativa.&lt;/p&gt;
 
-&lt;p&gt;Alguns fatores podem fazer com que as enzimas sejam ativadas antes do tempo ideal e comecem a danificar o tecido pancreático. Uma delas é a obstrução do ducto pancreático. A causa número um de pancreatite é a litíase biliar. Numa obstrução, por exemplo, da papila, irá ocorrer uma estase. A bile com a passagem interrompida sofre refluxo, inclusive para o próprio pâncreas. Essa bile contêm componentes tóxicos que agridem o pâncreas. Essas enzimas podem tornar-se ativas e degradarem os tecidos pancreáticos e peri pancreáticos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Anatomia:&lt;/strong&gt; o ducto pancreático principal (de &lt;span class=&quot;green&quot;&gt;Wirson&lt;/span&gt;) e o ducto secundário (de &lt;span class=&quot;green&quot;&gt;Santorini&lt;/span&gt;). O pâncreas está estreitamente relacionado ao duodeno.&lt;/p&gt;
 
-&lt;p&gt;A segunda  maior causa de pancreatite aguda é o álcool. Ele na verdade é muito mais importante na pancreatite crônica. Ocorre formação de rolhas ou tampões proteícos precipitados pelo álcool que obstrui os ductos pancreáticos e causam deformações.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/pancreas.jpg&quot; alt=&quot;Pancreatite&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;h3 id=&quot;litíase-biliar&quot;&gt;Litíase biliar&lt;/h3&gt;
+
+&lt;p&gt;Alguns fatores podem fazer com que as enzimas sejam ativadas antes do tempo ideal e comecem a danificar o tecido pancreático. Uma delas é a obstrução do ducto pancreático. &lt;strong&gt;A causa número um de pancreatite aguda é a litíase biliar&lt;/strong&gt;. Numa obstrução, por exemplo, da papila, irá ocorrer uma estase. A bile com a passagem interrompida sofre refluxo, inclusive para o próprio pâncreas. Essa bile contêm componentes tóxicos que agridem o pâncreas. Essas enzimas podem tornar-se ativas e degradarem os tecidos pancreáticos e peri-pancreáticos.&lt;/p&gt;
+
+&lt;h3 id=&quot;álcool&quot;&gt;Álcool&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;A segunda  maior causa de pancreatite aguda é o álcool&lt;/strong&gt;. Ele na verdade é muito mais importante na pancreatite crônica. Ocorre formação de rolhas ou tampões proteícos precipitados pelo álcool que obstrui os ductos pancreáticos e causam deformações.&lt;/p&gt;
+
+&lt;h3 id=&quot;drogas&quot;&gt;Drogas&lt;/h3&gt;
 
 &lt;p&gt;Drogas também podem provocar pancreatite, como azatioprina. Até componentes tóxicos como veneno de abelha ou de cobra podem causa pancreatite.&lt;/p&gt;
 
-&lt;p&gt;Também existem raros relatos de áscaris provocando obstrução e pancreatite.&lt;/p&gt;
+&lt;p&gt;Outras drogas: drogas (azatioprina, 6-mercaptopurina, sulfonamidas, estrógenos, tetraciclina, ácido valproico, medicações anti-HIV).&lt;/p&gt;
 
-&lt;p&gt;Já em crianças, a principal causa de pancreatite aguda é a traumática. Principalmente o trauma fechado.&lt;/p&gt;
+&lt;h3 id=&quot;outras&quot;&gt;Outras&lt;/h3&gt;
 
-&lt;p&gt;Anatomia: o ducto pancreático principal (de Wirson) e o ducto secundário (de Santorini). O pâncreas está estreitamente relacionado ao duodeno.&lt;/p&gt;
+&lt;p&gt;CPRE, trauma (grande impacto), obstrução não litiásica, metabólicas (hipercalcemia, hipertrigliceridemia), genética, idiopática. Também existem raros relatos de áscaris provocando obstrução e pancreatite.&lt;/p&gt;
+
+&lt;h3 id=&quot;trauma&quot;&gt;Trauma&lt;/h3&gt;
+
+&lt;p&gt;Já em &lt;strong&gt;crianças&lt;/strong&gt;, a &lt;strong&gt;principal causa de pancreatite aguda é a traumática&lt;/strong&gt;. Principalmente o trauma fechado.&lt;/p&gt;
 
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
 
 &lt;p&gt;Quando se fala em pancreatite aguda já se deve pensar logo em dor abdominal e elevação de enzimas.&lt;/p&gt;
 
+&lt;p&gt;Pode se apresentar em duas formas:&lt;/p&gt;
+
 &lt;ul&gt;
+  &lt;li&gt;Forma edematosa ou intersticial: mais leve,  restrita ao pâncreas. Apresenta evolução clínica favorável (80 a
+90% dos casos);&lt;/li&gt;
+  &lt;li&gt;Forma necrosante: evoluem com complicação grave e possue alto índice de mortalidade. Acomete tecidos peripancreáticos por disseminação generalizada de enzimas do órgão.
+    &lt;ul&gt;
+      &lt;li&gt;Pode evoluir com complicações locais, como &lt;strong&gt;necrose infectada&lt;/strong&gt;, formação de &lt;strong&gt;pseudocistos&lt;/strong&gt; e &lt;strong&gt;abscesso&lt;/strong&gt;.&lt;/li&gt;
+      &lt;li&gt;É possível uma evolução complicada com envolvimento de &lt;strong&gt;órgãos à distância&lt;/strong&gt;, representada por &lt;strong&gt;falência múltipla&lt;/strong&gt; (choque, insuficiência renal, insuficiência respiratória, etc.).&lt;/li&gt;
+      &lt;li&gt;Representa 10 a 20% dos casos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;Sintomas mais frequentes
     &lt;ol&gt;
-      &lt;li&gt;Dor abdominal: a decrição clássica é uma dor em barra ou “em cinta” que melhora com a posição genupeitoral.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Dor abdominal:&lt;/strong&gt; a decrição clássica é uma dor em barra ou “em cinta” que melhora com a posição genupeitoral.
+        &lt;ul&gt;
+          &lt;li&gt;É a manifestação predominante e praticamente sempre presente;&lt;/li&gt;
+          &lt;li&gt;O paciete fica agitado no leito procurando uma posição que reduza a dor.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
       &lt;li&gt;Nâuseas e vômitos&lt;/li&gt;
       &lt;li&gt;Taquicardia&lt;/li&gt;
       &lt;li&gt;Febre baixa&lt;/li&gt;
@@ -1285,15 +1577,13 @@ A lipase não necessita dessa ativação pois já é secretada na sua forma ativ
       &lt;li&gt;Icterícia (&amp;lt; 20%)&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;Pancreatite
-    &lt;ul&gt;
-      &lt;li&gt;Forma: edematosas ou intersticiais: forma mais leve&lt;/li&gt;
-      &lt;li&gt;Forma necrosante: evoluem com complicação grave e possue alto índice de mortalidade.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;A falha no diagnóstico pode acontecer pois nem sempre o quadro é típico. A dor, por exemplo, pode nem sempre estar presente.E, além disso, pode ocorrer falso negativo nos exames complementares. Um paciente que já der entrada na emergência com falência de múltiplos órgãos, coma ou insuficiência respiratória, dificultará muito a identificação da etiologia.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;A retinopatia de Purtscher é uma complicação incomum da pancreatite aguda, caracterizada por perda súbita da visão. Na fundoscopia encontram-se exsudatos algodonosos e hemorragias confinados entre o disco óptico e a mácula. A causa provável é uma oclusão da artéria retiniana posterior por aglomerados de neutrófilos.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A falha no diagnóstico pode acontecer pois nem sempre o quadro é típico. A dor, por exemplo, pode nem sempre estar presente. E, além disso, pode ocorrer falso negativo nos exames complementares. Um paciente que já der entrada na emergência com falência de múltiplos órgãos, coma ou insuficiência respiratória, dificultará muito a identificação da etiologia.&lt;/p&gt;
 
 &lt;p&gt;A história natural da pancreatite litíasica costuma ser mais grave do que a alcóolica. Pois, nesta, a interrupção do alcolismo já traz melhoras no paciente.&lt;/p&gt;
 
@@ -1331,7 +1621,7 @@ A lipase não necessita dessa ativação pois já é secretada na sua forma ativ
       &lt;li&gt;Leucócitos &amp;gt; 12.000 ou &amp;lt; 4.000&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Síndrome da dispunsão de múltiplos órgãos:disfunção de mais de um órgão que requer intervenção para manter a homeostase&lt;/li&gt;
+  &lt;li&gt;Síndrome da dispunsão de múltiplos órgãos: disfunção de mais de um órgão que requer intervenção para manter a homeostase&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;O rim costuma ser o primeiro órgão afetado devido à hipovolemia (mecanismo pré-renal) que pode ser revertido apenas com a reposição de volume. Pode até ser necessário iniciar uma hemodiálise.&lt;/p&gt;
@@ -1349,55 +1639,135 @@ A lipase não necessita dessa ativação pois já é secretada na sua forma ativ
 &lt;p&gt;Os sinais clássicos de pancreatite na verdade são sinais de gravidade e indicadores de patologia avançada com quadro grave:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Sinal de Gray-Tuner: equimose em flancos&lt;/li&gt;
-  &lt;li&gt;Sinal de Cullen: equimose periumbilical&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sinal de Gray-Tuner:&lt;/strong&gt; equimose em flancos;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sinal de Cullen:&lt;/strong&gt; equimose periumbilical.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;exames-laboratoriais&quot;&gt;Exames laboratoriais&lt;/h2&gt;
 
-&lt;p&gt;As enzimas séricas lipase e amilase. Elas são sensíveis mas não são muito específicas. Contudo, um aumento 3 x além dos valores normais já aumenta a taxa de especificidade.&lt;/p&gt;
+&lt;p&gt;As enzimas séricas lipase e amilase. Elas são sensíveis mas não são muito específicas. Contudo, um aumento 3x além dos valores normais já aumenta a taxa de especificidade.&lt;/p&gt;
 
-&lt;p&gt;No início a lipase e a amilase aumentam quase que na mesma velocidade, mas a lipase costuma subir mais rapido.&lt;/p&gt;
+&lt;p&gt;No início a lipase e a amilase aumentam quase que na mesma velocidade, mas a &lt;strong&gt;lipase costuma subir mais rapido&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Contudo, existem várias outras situações em que a amilase sérica pode estar elevada, como: parotidite, colecistite, úlcera péptica, gravidez ectópica, colangite, cálculo renal, obstrução intestinal, isquemia ou perfuração. Mas dificilmente a elevação será tão alta quanto na pancreatite aguda. De forma geral, a lipase costuma ser mais específica que a amilase. A amilase pancreática e a salivar ainda podem ser difereniadas pelo laboratório, nos casos de dúvida com parotidite.&lt;/p&gt;
+&lt;p&gt;Contudo, existem várias outras situações em que a amilase sérica pode estar elevada, como: parotidite, colecistite, úlcera péptica, gravidez ectópica, colangite, cálculo renal, obstrução intestinal, isquemia ou perfuração. Mas dificilmente a elevação será tão alta como na pancreatite aguda. &lt;strong&gt;De forma geral, a lipase costuma ser mais específica que a amilase&lt;/strong&gt;. As isoamilases pancreática e a salivar ainda podem ser difereniadas pelo laboratório, nos casos de dúvida com parotidite.&lt;/p&gt;
 
-&lt;p&gt;A dosagem da PCR (proteína C reativa) é importante como marcador de infecção e de progressão desse estado infeccioso. Ela demora umas 24 horas a se elevar mas cai mais lentamente. Já o PAT, se eleva rapidamente mas cai em até 72 horas.&lt;/p&gt;
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;A intensidade da elevação da amilase e da  lipase não são proporcionais à gravidade da pancreatite.&lt;/div&gt;
 
-&lt;p&gt;A dosagem de cálcio também é importante. Ocorre hipocalcemia (valores &amp;lt; 7). A perda de cálcio não ionizado se dá por mecanismo dilucional enquanto que a perda do ionizado não tem mecanismo ainda conhecido, e sua precicipatação de cálcio pode levar a quadros de necrose gordurosa. O ácido graxo liberado pela reação da lipase se liga ao cálcio, produzindo necrose gordurosa. Quantos mais baixos os níveis de cálcio, mais grave é o quadro de pancreatite.&lt;/p&gt;
+&lt;div class=&quot;alert aviso-green&quot;&gt;O peptídeo ativador do tripsinogênio urinário está elevado e se correlaciona com a gravidade do ataque ao lado de outros marcadores como IL-1, IL-6, TNF-alfa, PCR.&lt;/div&gt;
+
+&lt;p&gt;A dosagem da &lt;strong&gt;PCR&lt;/strong&gt; (proteína C reativa) é importante como marcador de infecção e de progressão desse estado infeccioso. Ela demora umas 24 horas a se elevar mas cai mais lentamente. Já o &lt;strong&gt;PAT&lt;/strong&gt; (peptídio de ativação do tripsinogênio), se eleva rapidamente mas cai em até 72 horas.&lt;/p&gt;
+
+&lt;p&gt;A dosagem de &lt;strong&gt;cálcio&lt;/strong&gt; também é importante. Ocorre hipocalcemia (valores &amp;lt; 7). &lt;strong&gt;A perda de cálcio não ionizado se dá por mecanismo dilucional&lt;/strong&gt; enquanto que a &lt;strong&gt;perda do ionizado não tem mecanismo ainda conhecido, e sua precicipatação de cálcio pode levar a quadros de necrose gordurosa&lt;/strong&gt;. O ácido graxo liberado pela reação da lipase se liga ao cálcio, produzindo necrose gordurosa. &lt;span class=&quot;red&quot;&gt;Quantos mais baixos os níveis de cálcio, mais grave é o quadro de pancreatite&lt;/span&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;exames-de-imagem&quot;&gt;Exames de imagem&lt;/h2&gt;
 
-&lt;p&gt;USG, TC com e sem contraste endovenoso. Não são muito sensíveis mas são mais específicos que a dosagem de enzimas. A USG ainda pode evidenciar cálculos na vesícula. O TC pode mostrar regiões de calcificação, edemas e coleções pancreáticas. Já a TC com contraste pode detectar áreas de necrose.&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;USG&lt;/strong&gt; não é muito feliz para avaliar o pâncreas. A presença de muito ar nas vísceras ócas dificulta a difereniação das estruturas pela sonografia, uma vez que esse método necessita de tecidos com diferenças de densidade para formar a imagem. Como é um exame pouco invasivo, é interessante pois já consegue excluir uma grande gama de causas de abdome agudo, além de avaliar a presença de &lt;strong&gt;colelitíase&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;O USG não é muito feliz para avaliar o pâncreas. A presença de muito ar nas vísceras ócas dificulta a difereniação das estruturas pela sonografia, uma vez que esse método necessita de tecidos com diferenças de densidade para formar a imagem. Como é um exame pouco invasivo, pe interessante pois já consegue excluir uma grande gama de causas de abdome agudo.&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;radiografia&lt;/strong&gt; de tórax pode mostrar um derrame pleural ou atelectasias, principalmente do lado esquerdo. No abdome pode mostrar distensão de alças, ascite, calcificações pancreáticas (indicador de cronicidade).&lt;/p&gt;
 
-&lt;p&gt;A radiografia de tórax pode mostrar um derrame pleural ou atelectasias. No abdome pode mostrar distensão de alças, ascite, calcificações pancreáticas (indicador de cronicidade).&lt;/p&gt;
+&lt;p&gt;Sinal de &lt;em&gt;cut-off&lt;/em&gt; no colon: espasmo no
+segmento transverso ou na flexura esplênica, com ausência de gás distal a esse ponto impede que o ar continue distendendo a alça como normalmente ocorre.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/cutoff.jpeg&quot; alt=&quot;Pancreatite&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A TC avalia com precisão aumentos difusos ou localizados do órgão, presença ou não de coleções fluidas pancreáticas e peripancreáticas, e borramento da gordura
+perirrenal e peripancreática. Pode mostrar regiões de calcificação, edemas e coleções pancreáticas. Já a TC com contraste venoso pode detectar &lt;strong&gt;áreas de necrose&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;A tomografia precoce pode subestimar a gravidade do quadro, uma vez que a agressão ao parênquima é melhor avaliada após 48 a 72 horas de pancreatite.
+&lt;/div&gt;
 
 &lt;p&gt;Outros: CPRM, CPRE, PET. Inclusive, a realização da &lt;strong&gt;CPRE pode provocar uma pancreatite iatrogênica&lt;/strong&gt;, devido à injeção de contraste sob pressão.&lt;/p&gt;
 
-&lt;p&gt;Sinal de &lt;em&gt;cut-off&lt;/em&gt; no colon: impede que o ar continue distendendo a alça como normalmente ocorre.&lt;/p&gt;
+&lt;p&gt;A coleção líquida na pancreatite aguda pode ser uma necrose, um abcesso ou um pseudocisto. O &lt;strong&gt;pseudocisto&lt;/strong&gt; não é um cisto pois não possui as camadas que caracterizam um cisto. É necessário quase um mês para que ele se forme.&lt;/p&gt;
 
-&lt;p&gt;A coleção líquida na pancreatite aguda pode ser uma necrose, um abcesso ou um pseudocisto.
-O pseudocisto não é um cisto pois não possui as camas que caracterizam um cisto. É necessário quase um mês para que ele se forme.&lt;/p&gt;
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;Critérios de Atlanta (2012):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dor abdominal típica (início súbito de uma dor severa, em região epigástrica que se irradia para o dorso).&lt;/li&gt;
+  &lt;li&gt;Amilase/Lipase &amp;gt; 3x a normalidade.&lt;/li&gt;
+  &lt;li&gt;Imagem compatível: TC com contraste, RNM.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Apenas &lt;strong&gt;repouso, analgesia, antieméticos, dieta zero (inicialmente) e infusão de líquidos e eletrólitos&lt;/strong&gt; para a correção da desidratação, distúrbios eletrolíticos e acidobásicos gerados
+pelos vômitos.&lt;/p&gt;
+
+&lt;p&gt;A alimentação oral deve ser iniciada com cautela, sendo recomendada em pacientes que não mais necessitem de analgesia regular com opioides, apresentem peristalse e manifestem
+desejo de se alimentar (queda das citocinas) – o que geralmente ocorre por volta do quarto ao sétimo dia do início do quadro.&lt;/p&gt;
+
+&lt;p&gt;Na pancreatite grave a reposição volêmica deve ser massiva, semelhante à de um grande queimado. Ela deve
+ser realizada nas primeiras 24h de forma que a pressão arterial seja estabilizada, os valores de hematócrito voltem ao normal, os níveis de
+ureia caiam e o débito urinário seja maior que 0,5 ml/kg/hora.&lt;/p&gt;
+
+&lt;p&gt;A abordagem das vias biliares está indicada nos casos de pancreatite biliar. Pode ser feita a &lt;strong&gt;esfincterotomia&lt;/strong&gt; e extração do cálculo.&lt;/p&gt;
+
+&lt;h3 id=&quot;necrosectomia&quot;&gt;Necrosectomia&lt;/h3&gt;
+
+&lt;p&gt;…&lt;/p&gt;
+
+&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
+
+&lt;h3 id=&quot;coleções-líquidas&quot;&gt;Coleções líquidas&lt;/h3&gt;
+
+&lt;p&gt;Cistos,&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pseudocistos:&lt;/strong&gt; é a coleção fluida aguda, rica em suco pancreático, que persiste após 4 a 6 semanas do
+início da pancreatite aguda. Nesse intervalo, forma-se em volta do líquido uma “parede” não epitelizada com exuberante tecido de granulação e fibrose. O termo “pseudo” se deve
+ao fato de que o pseudocisto &lt;strong&gt;não apresenta revestimento epitelial&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;O abscesso pancreático (3-4%) nada mais
+é do que um pseudocisto infectado! Assim, ele surge tipicamente cerca de quatro a seis semanas após o início da pancreatite agu-
+da; configurando uma complicação TARDIA.
+Febre, leucocitose, íleo adinâmico, massa
+palpável, níveis flutuantes de amilasemia e rápida deterioração, em um paciente que até então se mostrava em franca recuperação do
+quadro clínico, são os achados habituais.&lt;/p&gt;
+
+&lt;p&gt;Os que
+mostram aumento progressivo do diâmetro na
+USG, sintomáticos (geralmente maiores que 6
+cm) ou associados a complicações (hemorragia, ruptura e abscesso) devem ser abordados,&lt;/p&gt;
+
+&lt;h3 id=&quot;necrose&quot;&gt;Necrose&lt;/h3&gt;
+
+&lt;p&gt;A necrose pode ser estéril ou infectada. A infecção de tecido necrótico é a complicação mais temida da pancreatite aguda e ocorre em 20-35% dos pacientes!&lt;/p&gt;
 
 &lt;h2 id=&quot;critérios-prognósticos&quot;&gt;Critérios prognósticos&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Sistemas de escore: Ransom, Glasgow, Apache, Rabenek&lt;/li&gt;
-  &lt;li&gt;Marcadores sorológicos
+  &lt;li&gt;Sistemas de escore: Ransom, Glasgow, Apache, Rabenek;&lt;/li&gt;
+  &lt;li&gt;Marcadores sorológicos com valores muito altos
     &lt;ul&gt;
-      &lt;li&gt;Peptídio de ativação do tripsinogênio (PAT)&lt;/li&gt;
-      &lt;li&gt;Proteína C reativa&lt;/li&gt;
-      &lt;li&gt;Citocinas&lt;/li&gt;
+      &lt;li&gt;Peptídio de ativação do tripsinogênio (PAT);&lt;/li&gt;
+      &lt;li&gt;Proteína C reativa;&lt;/li&gt;
+      &lt;li&gt;Citocinas;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Critérios de TC
     &lt;ul&gt;
-      &lt;li&gt;Coleções&lt;/li&gt;
-      &lt;li&gt;Necrose&lt;/li&gt;
+      &lt;li&gt;Coleções;&lt;/li&gt;
+      &lt;li&gt;Necrose.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O pâncreas é um órgão retroperitoneal e díficil de acessar ao exame físico. Em patologias do pâncreas o paciente pode assumir uma postura antiálgica, como a genopeitoral.</summary></entry><entry><title type="html">Icterícia obstrutiva</title><link href="http://localhost:4000/cirurgia/ictericia-obstrutiva" rel="alternate" type="text/html" title="Icterícia obstrutiva" /><published>2019-08-27T00:00:00-03:00</published><updated>2019-08-27T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/ictericia-obstrutiva</id><content type="html" xml:base="http://localhost:4000/cirurgia/ictericia-obstrutiva">&lt;p&gt;As hemácias após 120 dias são quebradas no baço em heme, ferro e globina. A biliverdina é metabolizada em BI (não conjugada) que não é solúvel e necessita ser carreada pela albumina. Quando chega no sinusóide hepático, a BI entra nos hepatócitos e sofre a conjugação com UDPGA e ácido glicurônico. A BD (conjugada) caminha pelo restículo endoplasmático liso e é jogada dentro do canal biliar que fica entre as células hepáticas. Esses canais se juntam no ducto hepático e seguem até a vesícula biliar.&lt;/p&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/balthazar.jpg&quot; alt=&quot;Pancreatite&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/pcr.jpeg&quot; alt=&quot;Pancreatite&quot; /&gt;
+&lt;img src=&quot;/assets/gastro/pat.jpeg&quot; alt=&quot;Pancreatite&quot; /&gt;
+&lt;img src=&quot;/assets/gastro/patxpcr.jpeg&quot; alt=&quot;Pancreatite&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;referências&quot;&gt;Referências&lt;/h1&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:AlvesJVP&quot;&gt;
+      &lt;p&gt;Alves JVP. Etiopatogenia da pancreatite aguda: a propósito da casuística da unidade de cuidados intensivos de gastroenterologia dos HUC. 2009. https://estudogeral.sib.uc.pt/handle/10316/15951. Accessed September 6, 2019. &lt;a href=&quot;#fnref:AlvesJVP&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Icterícia obstrutiva</title><link href="http://localhost:4000/cirurgia/ictericia-obstrutiva" rel="alternate" type="text/html" title="Icterícia obstrutiva" /><published>2019-08-27T00:00:00-03:00</published><updated>2019-08-27T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/ictericia-obstrutiva</id><content type="html" xml:base="http://localhost:4000/cirurgia/ictericia-obstrutiva">&lt;p&gt;As hemácias após 120 dias são quebradas no baço em heme, ferro e globina. A biliverdina é metabolizada em BI (não conjugada) que não é solúvel e necessita ser carreada pela albumina. Quando chega no sinusóide hepático, a BI entra nos hepatócitos e sofre a conjugação com UDPGA e ácido glicurônico. A BD (conjugada) caminha pelo restículo endoplasmático liso e é jogada dentro do canal biliar que fica entre as células hepáticas. Esses canais se juntam no ducto hepático e seguem até a vesícula biliar.&lt;/p&gt;
 
 &lt;p&gt;Durante o caminho a bile vai sendo alterada.Trocando água a sais biliares. Até mesmo na vesícula a bile continua sendo alterada e se concentrando cada vez mais.&lt;/p&gt;
 
@@ -1744,4 +2114,4 @@ de metal, pelo maior risco de perfuração uterina, optando-se pelas próprias c
 progressivamente introduzidas no canal cervical, até o número 8.&lt;/p&gt;
 
 &lt;p&gt;Ocitocina intravenosa deve ser infundida após a
-dilatação do colo antes do esvaziamento e mantida por muitas horas no pós-operatório.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Vácuo extrator</title><link href="http://localhost:4000/obstetricia/vacuo-extrator" rel="alternate" type="text/html" title="Vácuo extrator" /><published>2019-08-18T00:00:00-03:00</published><updated>2019-08-18T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/vacuo-extrator</id><content type="html" xml:base="http://localhost:4000/obstetricia/vacuo-extrator"></content><author><name>@moscafilipe</name></author><category term="obstetricia" /></entry></feed>
+dilatação do colo antes do esvaziamento e mantida por muitas horas no pós-operatório.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

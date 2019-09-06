@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/gastroenterologia/gastrite',
+      
         '/gastroenterologia/nodulos-hepaticos',
       
         '/gastroenterologia/hepatites',
@@ -255,6 +257,30 @@ self.addEventListener('install', function (event) {
         '/apple-touch-icon.png'
       
         '/assets/favicon.png'
+      
+        '/assets/gastro/balthazar.jpg'
+      
+        '/assets/gastro/cutoff.jpeg'
+      
+        '/assets/gastro/estomago.png'
+      
+        '/assets/gastro/hepb-aguda-grafico.jpeg'
+      
+        '/assets/gastro/hepb-aguda.jpeg'
+      
+        '/assets/gastro/hepb-cronica-grafico.jpeg'
+      
+        '/assets/gastro/hepb-cronica.jpeg'
+      
+        '/assets/gastro/hepb-sorologia.jpeg'
+      
+        '/assets/gastro/pancreas.jpg'
+      
+        '/assets/gastro/pat.jpeg'
+      
+        '/assets/gastro/patxpcr.jpeg'
+      
+        '/assets/gastro/pcr.jpeg'
       
         '/assets/ginecologia/amenorreia/img1.jpeg'
       
