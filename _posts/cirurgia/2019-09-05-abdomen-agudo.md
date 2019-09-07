@@ -1,9 +1,14 @@
-e Um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.
+---
+title: Abdomen agudo
+categories: cirurgia
+---
+
+É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.
 
 ## Fisiopatologia da dor abdominal:
 
 * Dor visceral: peritôneo visceral
-	* Decorre da distensão, tração, contração ou isquemia. É uma dor leve do tipo cólica, um desconforto abdominal de local impreciso. O paciente fica inquieto e pode apresentar nâuseas e vômitos. 
+	* Decorre da distensão, tração, contração ou isquemia. É uma dor leve do tipo cólica, um desconforto abdominal de local impreciso. O paciente fica inquieto e pode apresentar nâuseas e vômitos.
 	* Íleo paralítico reflexo
 * Dor parietal (somática): peritônio parietal
 	* Contato de órgãos e ou secreções orgânicas com o peritôneo parietal. É uma dor intensa, constante, bem localizada. O paciente se mantêm  imovel (como um mecanismo de defesa) e ocorre contração involuntária da parede abdominal (abdomen em tábua).
@@ -116,12 +121,12 @@ Causas menos frequentes: diverticulite de Meckel, peritonite primária, abcessos
 
 A pricipal (prevaência de 10%). Maior no sexo masculino.
 
-Etiopatogenia: um fecalito que entra na luz do apêndice causando uma obstrução. 
+Etiopatogenia: um fecalito que entra na luz do apêndice causando uma obstrução.
 
 Estágios evolutivos: catarral, supurativa, gangrenosa, perfurativa.
 
 Diagnóstico: manifestações atípicas em crianças e idosos. Posições anômalas do apêndice (sub-hepático, retrocecal - o mais comum, retro-ileal, pélvico)
-Estágio evolutivo da doença. 
+Estágio evolutivo da doença.
 Anorexia, náuseas e vômitos, dor periumbilical (FID), febre. (forma não complicada em mais ou menos 50% dos casos)
 
 Exame abdominal: Dor em FID, huperestesia cutânea, defesa de parede. Sinais de Blumberg, Rovsing, Obturados, Psoas. RHA normais ou hipoativos.
@@ -130,7 +135,7 @@ Na maioria das vezes o diagnóstico é clínico. De laboratório pode haver uma 
 
 USG: diâmetro > 6 mm. Edema parietal (halo de edema inflamatório), fecalito, aumento do calíbre do apêndice, líquido.............................
 
-Diagnósticos diferenciais: enterocolite, anexite, psoíte, adenite mesentérica, diverticulite de meckel, pancreatite, colecistite, litíase urinária, pielonefrite, etc. 
+Diagnósticos diferenciais: enterocolite, anexite, psoíte, adenite mesentérica, diverticulite de meckel, pancreatite, colecistite, litíase urinária, pielonefrite, etc.
 
 Complicações: peritonite, abcesso cavitário, plastrão apendicular (o epíplon adere ao ceco fazendo uma tumoração para "isolar" o apêndice), pileflebite portal, fístulas.
 
@@ -144,7 +149,7 @@ Tratamento: apendicectomia preferencialmente por videolaparoscopia. Mas atençã
 
 Dor abdominal do tipo cólica, náuseas e vômitos persistentes, distensão abdominal, parada na eliminação de fezes e flatos, timpanismo generalizado, peristaltismo aumentado (RHA aumentados)
 
-Etiologia: causas pós operatórias (aderências intestinais, bridas), hérnaias internas e da parede abdominal, tumores e doenças inflamatórias intestinais (doença de Chron - estenoses da parede do intestino), volvo intestinal (principalmente no intestino grosso - ex: megacólon chagásico), intussuscepção (mais frequente em crianças), bolo de áscaris, corpo estranho, fecaloma, íleo biliar.  
+Etiologia: causas pós operatórias (aderências intestinais, bridas), hérnaias internas e da parede abdominal, tumores e doenças inflamatórias intestinais (doença de Chron - estenoses da parede do intestino), volvo intestinal (principalmente no intestino grosso - ex: megacólon chagásico), intussuscepção (mais frequente em crianças), bolo de áscaris, corpo estranho, fecaloma, íleo biliar.
 
 O diagnóstico por imagem é importante, realizando as radiografias em pé e deitado. É possível visualizar os níveis hidroaéreos mudando de posição quando em pé ou deitado.
 
@@ -152,9 +157,9 @@ O diagnóstico por imagem é importante, realizando as radiografias em pé e dei
 
 Como na gravidez ectópica rota.
 
-Dor abdominal difusa, súbita e intensa. Sinais de irritação peritonial. Sinais de hipovolemia. Anemia aguda. 
+Dor abdominal difusa, súbita e intensa. Sinais de irritação peritonial. Sinais de hipovolemia. Anemia aguda.
 
-Etiologia: gravidez ectópica rota, cistos hemorrágicos de ovário, endometriose (quadro mais crônicos e menos relacionado à abdome agudo), ruptura esplênica, aneurisma de aorta abdominal, necrose tumoral.  
+Etiologia: gravidez ectópica rota, cistos hemorrágicos de ovário, endometriose (quadro mais crônicos e menos relacionado à abdome agudo), ruptura esplênica, aneurisma de aorta abdominal, necrose tumoral.
 
 
 ### Vascular
@@ -162,11 +167,11 @@ Etiologia: gravidez ectópica rota, cistos hemorrágicos de ovário, endometrios
 Dor abdominal súbita, difusa, contínua e intensa.
 Sinais de peritonite difusa.
 Sinais clínicos de infecção ou sepse.
-Idosos, diabéticos, fibrilação atrial, IAM, IC dilatada, drogas vasoativas, choque, pós-operatório de cirúrgia cardíaca e vascular, trombofilia, ACO, neoplasias. 
+Idosos, diabéticos, fibrilação atrial, IAM, IC dilatada, drogas vasoativas, choque, pós-operatório de cirúrgia cardíaca e vascular, trombofilia, ACO, neoplasias.
 
 Ocorre iesquemia intestinal.
 
-Etiologia: isquemia arterial oclusiva (embolia - 50%, trombos 20%) ........ 
+Etiologia: isquemia arterial oclusiva (embolia - 50%, trombos 20%) ........
 
 ### Perfurativo
 
@@ -179,5 +184,3 @@ RX com paciente em pé: é possível ver pneumoperitônio. O figado fica afastan
 
 
 ### Traumático
-
- 

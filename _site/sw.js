@@ -45,11 +45,17 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/pediatria/abdome-agudo-na-crianca',
+      
         '/gastroenterologia/nodulos-hepaticos',
       
         '/gastroenterologia/gastrite',
       
+        '/cirurgia/abdomen-agudo',
+      
         '/gastroenterologia/nodulos-hepaticos',
+      
+        '/cirurgia/megaes%C3%B4fago',
       
         '/gastroenterologia/hepatites',
       
@@ -61,7 +67,7 @@ self.addEventListener('install', function (event) {
       
         '/cirurgia/pancreatite-cronica',
       
-        '/gastroenterologia/drge-na-crianca',
+        '/pediatria/drge-na-crianca',
       
         '/cirurgia/ictericia-obstrutiva',
       

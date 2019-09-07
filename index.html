@@ -18,7 +18,7 @@ layout: default
       <ol>
         {% for post in site.categories.ginecologia %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
@@ -31,7 +31,7 @@ layout: default
       <ol>
         {% for post in site.categories.obstetricia %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
@@ -44,7 +44,7 @@ layout: default
       <ol>
         {% for post in site.categories.mastologia %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
@@ -57,7 +57,7 @@ layout: default
       <ol>
         {% for post in site.categories.neonatologia %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
@@ -70,7 +70,7 @@ layout: default
       <ol>
         {% for post in site.categories.urologia %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
@@ -83,7 +83,7 @@ layout: default
       <ol>
         {% for post in site.categories.nefrologia %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
@@ -96,7 +96,7 @@ layout: default
       <ol>
         {% for post in site.categories.infectologia %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
@@ -110,7 +110,7 @@ layout: default
       <ol>
         {% for post in site.categories.gastroenterologia %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
@@ -123,12 +123,40 @@ layout: default
       <ol>
         {% for post in site.categories.trauma %}
         <li class="post-list-li">
-            <h2><a href="{{ post.url }}" target="_blank">{{ post.title }}</a></h2>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
           </li>
         {% endfor %}
       </ol>
     </div>
   </div>
+
+  <button id="cirurgia" class="collapsible">Cirurgia</button>
+  <div class="content">
+    <div class="post-list">
+      <ol>
+        {% for post in site.categories.cirurgia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+
+  <button id="pediatria" class="collapsible">Pediatria</button>
+  <div class="content">
+    <div class="post-list">
+      <ol>
+        {% for post in site.categories.pediatria %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+
+
 
 <!-- Deixar salvo aqui pra caso dê merda
     <div class="disciplinas-list">

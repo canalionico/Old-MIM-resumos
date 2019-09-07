@@ -365,7 +365,7 @@
 <lastmod>2019-08-27T00:00:00-03:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/gastroenterologia/drge-na-crianca</loc>
+<loc>http://localhost:4000/pediatria/drge-na-crianca</loc>
 <lastmod>2019-08-27T00:00:00-03:00</lastmod>
 </url>
 <url>
@@ -389,8 +389,16 @@
 <lastmod>2019-09-03T00:00:00-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/cirurgia/megaes%C3%B4fago</loc>
+<lastmod>2019-09-04T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/gastroenterologia/nodulos-hepaticos</loc>
 <lastmod>2019-09-04T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/cirurgia/abdomen-agudo</loc>
+<lastmod>2019-09-05T00:00:00-03:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/gastroenterologia/gastrite</loc>
@@ -398,6 +406,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/gastroenterologia/nodulos-hepaticos</loc>
+<lastmod>2019-09-06T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pediatria/abdome-agudo-na-crianca</loc>
 <lastmod>2019-09-06T00:00:00-03:00</lastmod>
 </url>
 <url>

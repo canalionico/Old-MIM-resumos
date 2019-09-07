@@ -1,6 +1,6 @@
 ---
 title: Megaesôfago e megacólom
-category: Cirurgia
+category: gastroenterologia
 ---
 
 ## Doença de Chagas

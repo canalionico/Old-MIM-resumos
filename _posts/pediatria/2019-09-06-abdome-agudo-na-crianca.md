@@ -1,5 +1,6 @@
 ---
 title: Abdome agudo na criança
+categories: pediatria
 ---
 
 O diagnóstico de abdome agudo é um desafio em  crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.
@@ -20,17 +21,19 @@ Caracterização da dor: se o início foi agudo, gradativo, súbito.
   * Torção de testículo
   * Cisto no ovário
 
-Até a anemia falciforme pode fazer um quadro de abdome agudo. Sequestro eslpênico e apendicite aguda.
+Até a anemia falciforme pode fazer um quadro de abdome agudo. Sequestro esplênico e apendicite aguda.trauma
 
 ## Apendicite aguda
 
-Na criança a apendicite aguda é mais grave. Pois não tem um sistema imune completamente desenvolvido, o diagnóstico é mais difícil e  seu omento é menor (não faz plastrão).
+Na criança a apendicite aguda é **mais grave**. Pois não tem um sistema imune completamente desenvolvido, o diagnóstico é mais difícil e  **seu omento é menor** (<span class="blue">não faz plastrão</span>).
 
-Causas: fecalito (30-50%), parasitose, hiperplasia linfóide, corpo estranho.
+### Etiologia
 
-O apêncide pode ser foco de linfoma não Hodking. É por isso que toda peça de apêndice removida em crianças é enviada para histopatológico.
+Fecalito (30-50%), parasitose, hiperplasia linfóide, corpo estranho.
 
-Classificação:
+O apêncide pode ser foco de linfoma não Hodking. É por isso que **toda peça de apêndice removida em crianças é enviada para histopatológico**.
+
+### Classificação:
 
 1. Simples
 2. Supurativa
