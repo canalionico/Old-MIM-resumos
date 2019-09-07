@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/gastroenterologia/nodulos-hepaticos',
+      
         '/gastroenterologia/gastrite',
       
         '/gastroenterologia/nodulos-hepaticos',
@@ -260,6 +262,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/gastro/balthazar.jpg'
       
+        '/assets/gastro/child-pugh.png'
+      
+        '/assets/gastro/clip.jpeg'
+      
         '/assets/gastro/cutoff.jpeg'
       
         '/assets/gastro/estomago.png'
@@ -281,6 +287,8 @@ self.addEventListener('install', function (event) {
         '/assets/gastro/patxpcr.jpeg'
       
         '/assets/gastro/pcr.jpeg'
+      
+        '/assets/gastro/wash-out.jpeg'
       
         '/assets/ginecologia/amenorreia/img1.jpeg'
       

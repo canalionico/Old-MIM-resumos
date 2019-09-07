@@ -1,4 +1,413 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-05T23:25:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Gastrite</title><link href="http://localhost:4000/gastroenterologia/gastrite" rel="alternate" type="text/html" title="Gastrite" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/gastrite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/gastrite">&lt;p&gt;É a lesão da mucosa gástrica com diagnóstico &lt;strong&gt;estabelecido pela histologia&lt;/strong&gt;, pela presença de processo inflamatório da mucosa, infiltrado leucocitário inflamatório que pode ou não estar associada a alterações macroscópicas na endoscopia.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-06T22:04:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Tumores hepáticos" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tumores-benignos&quot; id=&quot;markdown-toc-tumores-benignos&quot;&gt;Tumores benignos&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#adenoma-hepatocelular&quot; id=&quot;markdown-toc-adenoma-hepatocelular&quot;&gt;Adenoma hepatocelular&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hiperplasia-nodular-focal&quot; id=&quot;markdown-toc-hiperplasia-nodular-focal&quot;&gt;Hiperplasia nodular focal&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#quadro-clínico-1&quot; id=&quot;markdown-toc-quadro-clínico-1&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#exames-complementares-1&quot; id=&quot;markdown-toc-exames-complementares-1&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hemangioma-cavernoso&quot; id=&quot;markdown-toc-hemangioma-cavernoso&quot;&gt;Hemangioma Cavernoso&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#quadro-clínico-2&quot; id=&quot;markdown-toc-quadro-clínico-2&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#exames-complementares-2&quot; id=&quot;markdown-toc-exames-complementares-2&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#carcinoma-hepatocelular&quot; id=&quot;markdown-toc-carcinoma-hepatocelular&quot;&gt;Carcinoma hepatocelular&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#epidemiologia-1&quot; id=&quot;markdown-toc-epidemiologia-1&quot;&gt;Epidemiologia&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco-1&quot; id=&quot;markdown-toc-fatores-de-risco-1&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-3&quot; id=&quot;markdown-toc-quadro-clínico-3&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#exames-complementares-3&quot; id=&quot;markdown-toc-exames-complementares-3&quot;&gt;Exames complementares&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#afp&quot; id=&quot;markdown-toc-afp&quot;&gt;AFP&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#usg&quot; id=&quot;markdown-toc-usg&quot;&gt;USG&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tc&quot; id=&quot;markdown-toc-tc&quot;&gt;TC&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#biópsia&quot; id=&quot;markdown-toc-biópsia&quot;&gt;Biópsia&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#outros&quot; id=&quot;markdown-toc-outros&quot;&gt;Outros&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#rastreamento&quot; id=&quot;markdown-toc-rastreamento&quot;&gt;Rastreamento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-3&quot; id=&quot;markdown-toc-tratamento-3&quot;&gt;Tratamento&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#cirúrgico&quot; id=&quot;markdown-toc-cirúrgico&quot;&gt;Cirúrgico&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#clínico&quot; id=&quot;markdown-toc-clínico&quot;&gt;Clínico&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Os tumores hepáticos podem se originar do
+fígado – a partir de hepatócitos, do epitélio dos ductos biliares ou do tecido mesenquimal hepático – ou podem se implantar no parênquima hepático a partir de lesões primárias em órgãos próximos ou distantes do fígado&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Em adultos, na maioria das regiões de todo o
+mundo, as metástases hepáticas são mais comuns
+que os tumores hepáticos malignos primários.
+Esta relação se inverte na África subsaariana e
+em grande parte do leste asiático. Em crianças,
+os tumores malignos primários são mais frequentes do que metástases e tumores benignos.&lt;/p&gt;
+
+&lt;p&gt;Com exceção dos hemangiomas cavernosos, os
+tumores hepáticos benignos são raros em todas
+as faixas etárias, em todo o mundo, sendo geralmente descobertos incidentalmente em pacientes
+sem história clínica, exame físico ou evidências
+sorológicas de doença hepática ou malignidade.&lt;/p&gt;
+
+&lt;h1 id=&quot;tumores-benignos&quot;&gt;Tumores benignos&lt;/h1&gt;
+
+&lt;h2 id=&quot;adenoma-hepatocelular&quot;&gt;Adenoma hepatocelular&lt;/h2&gt;
+
+&lt;p&gt;O AHC é uma rara lesão hepática sólida identificada principalmente em mulheres em idade fértil e possui estreita relação com o uso de ACO (relacionado em 93% dos casos). Geralmente o tumor é único, bem cirscunscrito, com ou sem cápsula, de tamanho entre 1 a 30 cm.&lt;/p&gt;
+
+&lt;p&gt;Pode haver áreas centrais de necrose e hemorragia. Histologicamente, o tumor é caracterizado pela presença de hepatócitos discretamente atípicos (pálidos, pouco aumentados) dispostos em cordões separados por sinusoides dilatados e com finas paredes (o que pode justificar sua tendência hemorrágica). Uma característica
+marcante é a &lt;strong&gt;ausência de&lt;/strong&gt; ductos biliares, tratos portais e, na maioria dos pacientes, das células de Kupffer.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Devido à redução da concentração de estrógenos nos anticoncepcionais, tem se observado uma diminuição na sua incidência.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;O risco estimado de desenvolvimento de AHC
+em mulheres que fazem uso contínuo de ACO
+por 5 a 7 anos é 5 vezes maior que na população geral e 25 vezes maior quando o uso é por período superior a 9 anos.
+&lt;/div&gt;
+
+&lt;p&gt;Além disso, nas usuárias de ACO os tumores tendem a ser maiores e têm maior chance de sangramento.&lt;/p&gt;
+
+&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ACO: O maior risco ocorre em mulheres com mais de 30 anos que fazem uso de ACO por mais de 5 anos.&lt;/li&gt;
+  &lt;li&gt;DM&lt;/li&gt;
+  &lt;li&gt;Glicogenose tipo I ou III (condição relacionada a tumores múltiplos, uma exceção ao padrão geral)&lt;/li&gt;
+  &lt;li&gt;Gravidez&lt;/li&gt;
+  &lt;li&gt;Uso crônico de esteroides anabolizantes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
+
+&lt;p&gt;Cursa com uma diversidade de sintomas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dor epigástrica ou em HD (sintoma mais comum, em 52%, causado por sangramento ou infarto intratumoral), a qual pode ser súbita e intensa em 30% dos pacientes;&lt;/li&gt;
+  &lt;li&gt;Massa abdominal palpável (25 a 35%);&lt;/li&gt;
+  &lt;li&gt;Hepatomegalia;&lt;/li&gt;
+  &lt;li&gt;Dor abdominal crônica ou intermitente (20 a 25%), causada por compressão de estruturas próximas;&lt;/li&gt;
+  &lt;li&gt;Sinais e sintomas compatíveis com ruptura subcapsular ou para peritônio livre:
+    &lt;ul&gt;
+      &lt;li&gt;Dor abdominal súbita&lt;/li&gt;
+      &lt;li&gt;Palidez cutânea&lt;/li&gt;
+      &lt;li&gt;Hipotensão arterial&lt;/li&gt;
+      &lt;li&gt;Morte súbita.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A ruptura ocorre comumente com tumores solitários e grandes, embora o   principal fator de risco seja sua localização superficial. O sangramento ocorre em 25% a 41%, com uma mortalidade de 6%. Os sintomas agudos frequentemente surgem durante ou logo após a menstruação.&lt;/p&gt;
+
+&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
+
+&lt;p&gt;Laboratorialmente, a Alfafetoproteína (AFP) e os testes bioquímicos hepáticos encontram-se normais, exceto por eventuais elevações de FA e GGT em um subgrupo de pacientes
+que evoluem com hemorragias intratumorais
+ou intraperitoneais ou ainda nos casos de adenomatose hepática (dez ou mais adenomas).&lt;/p&gt;
+
+&lt;p&gt;O diagnóstico é feito basicamente pelo conjunto dos achados imaginológicos à TC, US ou RNM, sendo que a arteriografia
+hepática é um procedimento de grande valia.&lt;/p&gt;
+
+&lt;p&gt;Casos de difícil diagnóstico, especialmente
+aqueles nos quais não se consegue afastar a
+presença de carcinoma hepatocelular, podem
+requerer ressecção para diagnóstico histopatológico.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;As biópsias percutâneas por aspiração
+não têm papel nestes pacientes (risco elevado de sangramento e baixo valor diagnóstico).&lt;/div&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;p&gt;consiste, fundamentalmente, em excisão cirúrgica, em virtude de:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Risco de hemorragia intratumoral ou intraperitoneal;&lt;/li&gt;
+  &lt;li&gt;Risco – provavelmente baixo – de transformação maligna em carcinoma hepatocelular;&lt;/li&gt;
+  &lt;li&gt;Frequente dificuldade de diferenciação histológica com hepatocarcinomas bem diferenciados.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Adenomas multifocais
+ou difusos podem requerer Transplante Ortotópico de Fígado (TOF), principalmente se a
+AFP estiver aumentada ou se uma transformação maligna já tiver sido diagnosticada.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;Os adenomas &amp;lt; 4-5 cm, assintomáticos, em
+usuárias de pílulas, são tema de controvérsia atualmente: enquanto alguns autores advogam a ressecção irrestrita de qualquer adenoma, outros defendem que estes adenomas sejam manejados de maneira conservadora&lt;/div&gt;
+
+&lt;p&gt;Se o AHC não for retirado, as mulheres devem ser orientadas a cessar o uso de ACO (o que
+pode reduzir o tumor) e a manter um método
+contraceptivo não hormonal, em virtude dos
+riscos potenciais de uma gestação, já expostos anteriormente.&lt;/p&gt;
+
+&lt;h2 id=&quot;hiperplasia-nodular-focal&quot;&gt;Hiperplasia nodular focal&lt;/h2&gt;
+
+&lt;p&gt;A HNF é o segundo tumor benigno mais frequente (depois dos hemangiomas), com uma incidência em séries de necrópsias entre 0,31 e 0,6%.&lt;/p&gt;
+
+&lt;p&gt;Uma lesão nodular não neoplásica encontrada em pacientes de todas as idades e em ambos os sexos, embora seja mais frequente em &lt;strong&gt;mulheres&lt;/strong&gt; entre 20 e 50 anos de idade. Sua relação com os ACOs não é bem estabelecida.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;Acredita-se que a HNF seria uma resposta hepatocelular &lt;span class=&quot;red&quot;&gt;hiperplásica&lt;/span&gt; (e não neoplásica) à hiperperfusão ou injúria vascular originadas por uma preexistente artéria anômala no local da lesão.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h3&gt;
+
+&lt;p&gt;Geralmente assintomático (50 a 90%) e descoberto de forma incidental. A dor abdominal, ao contrário do que ocorre com os AHCs, não é tão comum e não é aguda. As lesões sintomáticas são mais frequentes em usuárias de ACO.&lt;/p&gt;
+
+&lt;p&gt;O exame físico é normal em 83% dos casos; nos demais casos, podem ser encontrados hepatomegalia, massa abdominal ou dor abdominal. Raramente as lesões da HNF se rompem.&lt;/p&gt;
+
+&lt;h3 id=&quot;exames-complementares-1&quot;&gt;Exames complementares&lt;/h3&gt;
+
+&lt;p&gt;As provas bioquímicas hepáticas e a AFP são
+normais.&lt;/p&gt;
+
+&lt;p&gt;Macroscopicamente, a lesão é lobulada e facilmente demarcável, mas não encapsulada. Geralmente são subcapsulares e localizadas no lobo hepático direito. O tamanho médio é &lt;strong&gt;inferior a 5 cm&lt;/strong&gt;, raramente excedendo 10 cm.&lt;/p&gt;
+
+&lt;p&gt;São frequentemente únicos, mas podem ser múltiplos em 7 a 20% dos casos, além de pedunculados ou lobares. Possuem uma espessa &lt;strong&gt;cicatriz central com septos radiais&lt;/strong&gt; que subdividem o tumor em &lt;strong&gt;nódulos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Microscopicamente, a lesão assemelha-se à
+cirrose inativa, com o parênquima hepático
+dividido por septos fibrosos contendo numerosos dúctulos, vasos sanguíneos e células inflamatórias crônicas. Lesões maiores podem mostrar focos de hemorragia ou necrose, embora seja menos comum do que nos AHCs.&lt;/p&gt;
+
+&lt;p&gt;A cintilografia com enxofre coloidal-99Tc é
+bastante útil na diferenciação com o adenoma hepatocelular: &lt;strong&gt;a captação do radioisótopo só costuma ocorrer na HNF&lt;/strong&gt;, já que os adenomas quase nunca contêm células de Kupffer.&lt;/p&gt;
+
+&lt;p&gt;Na &lt;strong&gt;aniografia&lt;/strong&gt;, a captação do contraste é central, em contraste com a captação periférica observada
+nos adenomas.&lt;/p&gt;
+
+&lt;p&gt;Na &lt;strong&gt;TC&lt;/strong&gt;, podem ser observadas as
+cicatrizes hipodensas centrais, típicas da HNF.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;p&gt;O prognóstico das HNFs não ressecadas é ex-
+celente: a maioria dos pacientes permanece
+assintomática, assim como a maioria das lesões permanece sem alterações.&lt;/p&gt;
+
+&lt;p&gt;O tratamento é &lt;strong&gt;expectante&lt;/strong&gt; na maioria dos casos, já que são lesões normalmente &lt;strong&gt;assintomáticas&lt;/strong&gt; e que &lt;span class=&quot;orange&quot;&gt;não se associam com transformação maligna&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lesões volumosas ou pedunculadas raramente podem ser complicadas com torção ou infarto, requerendo tratamento cirúrgico.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;Não há indicação de suspensão dos ACO para as HNFs não ressecadas.&lt;/div&gt;
+
+&lt;h2 id=&quot;hemangioma-cavernoso&quot;&gt;Hemangioma Cavernoso&lt;/h2&gt;
+
+&lt;p&gt;O HC &lt;strong&gt;é o mais comum dos tumores hepáticos mesenquimais benignos&lt;/strong&gt;. Sua frequência em séries de necropsia varia entre 0,4 e 20%. Quando maiores que 5 cm, são arbitrariamente chamados de HC gigantes.&lt;/p&gt;
+
+&lt;p&gt;Mais frequentemente identificados em mulheres (60 a 80%), entre a terceira e a quinta década de vida. &lt;strong&gt;Aumentam de volume durante a gestação&lt;/strong&gt; ou durante o &lt;strong&gt;uso de estrógenos&lt;/strong&gt; e são mais comuns em multíparas. Entretanto, a despeito de sua provável relação com os estrógenos, a etiologia dos HCs ainda não é conhecida.&lt;/p&gt;
+
+&lt;p&gt;Seu crescimento ocorre mais à
+custa de &lt;strong&gt;ectasia progressiva&lt;/strong&gt; do que hiperplasia ou hipertrofia.&lt;/p&gt;
+
+&lt;p&gt;São geralmente lesões solitárias, mas
+tumores múltiplos podem ocorrer em até 10%
+dos pacientes. Normalmente, localizam-se no
+&lt;strong&gt;lobo hepático direito&lt;/strong&gt; e os tumores maiores podem ser pedunculados. Pode haver fibrose central e trombos nos espaços vasculares.&lt;/p&gt;
+
+&lt;h3 id=&quot;quadro-clínico-2&quot;&gt;Quadro clínico&lt;/h3&gt;
+
+&lt;p&gt;A grande maioria dos HC é pequena e assintomática, achados incidentalmente.&lt;/p&gt;
+
+&lt;p&gt;Lesões maiores que 4 cm e 10 cm são sintomáticas, respectivamente, em 40 e 90% dos casos. A &lt;strong&gt;dor em andar superior do abdome&lt;/strong&gt; é o sintoma mais frequente, sendo resultado de infartos e necrose, pressão sobre estruturas adjacentes, distensão da cápsula hepática, ou alto fluxo sanguíneo.&lt;/p&gt;
+
+&lt;p&gt;Sintomas compressivos podem
+ocorrer nos HC gigantes, tais como hiporexia, plenitude pós-prandial precoce, náuseas e vômitos.&lt;/p&gt;
+
+&lt;p&gt;O exame físico pode identificar hepatomegalia e/ou massa palpável, ou mesmo um sopro sob a parede abdominal. A ruptura espontânea desses tumores é marcadamente rara.&lt;/p&gt;
+
+&lt;h3 id=&quot;exames-complementares-2&quot;&gt;Exames complementares&lt;/h3&gt;
+
+&lt;p&gt;Assim como nos demais tumores hepáticos
+benignos, a AFP e os testes bioquímicos hepáticos usualmente não mostram quaisquer anormalidades, exceto em raros casos de HC gigantes que podem causar icterícia obstrutiva (com aumento de FA e GGT).&lt;/p&gt;
+
+&lt;p&gt;Pacientes com HC gigantes podem desenvolver
+coagulopatia de consumo no interior do tumor e apresentar evidências de coagulação intravascular disseminada – trombocitopenia e hipofibrinogenemia, o que é conhecido por síndrome de Kasabach-Merritt.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;TC com contraste dinâmico&lt;/strong&gt;
+mostrará captação do contraste apenas perifericamente na fase arterial, completando seu enchimento na fase venosa, quando o &lt;strong&gt;contraste atinge o centro do tumor&lt;/strong&gt;. Isso contrasta com
+os dois tumores anteriormente descritos, que captam contraste apenas na fase arterial, eliminando-o na fase venosa. O mesmo ocorre na
+arteriografia. Vale ressaltar que a RM é particularmente sensível para a detecção de lesões
+inferiores a 2,5 cm.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-red&quot;&gt;A biópsia hepática percutânea é contraindicada em virtude do grande risco de hemorragia intraperitoneal.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;p&gt;Em geral, o tratamento dos HCs é expectante, a despeito do pequeno risco potencial de ruptura. Apenas ocasionalmente, haverá
+crescimento do tumor ou aparecimento de
+sintomas, requerendo ressecção cirúrgica.&lt;/p&gt;
+
+&lt;p&gt;A terapêutica cirúrgica somente é indicada nos pacientes muito sintomáticos ou na vigência de complicações.&lt;/p&gt;
+
+&lt;h1 id=&quot;carcinoma-hepatocelular&quot;&gt;Carcinoma hepatocelular&lt;/h1&gt;
+
+&lt;p&gt;O hepatocarcinoma, ou Carcinoma Hepatocelular (CHC), é o &lt;strong&gt;tumor maligno primário mais comum do fígado&lt;/strong&gt; e a &lt;span class=&quot;red&quot;&gt;terceira causa de morte por neoplasia no mundo&lt;/span&gt;. Possui como
+causa principal a &lt;strong&gt;cirrose&lt;/strong&gt;, particularmente
+quando secundária à &lt;span class=&quot;green&quot;&gt;hepatite crônica pelos
+vírus B ou C&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia-1&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Irregularmente distribuída pelo mundo, geralmente seguindo a distribuição de prevalência da infecção crônica
+pelo Vírus da Hepatite B.&lt;/p&gt;
+
+&lt;p&gt;O CHC é de duas a &lt;strong&gt;oito vezes mais frequente em homens do que em mulheres&lt;/strong&gt;. No Brasil, a incidência do CHC é baixa, sendo mais alta em alguns estados como Espírito Santo e Bahia.&lt;/p&gt;
+
+&lt;h3 id=&quot;fatores-de-risco-1&quot;&gt;Fatores de risco&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mais de 80% dos pacientes têm &lt;strong&gt;cirrose hepática&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Hepatite B: a causa mais comum de CHC no mundo. O CHC &lt;strong&gt;pode surgir mesmo na ausência de cirrose&lt;/strong&gt;. Tanto o alcoolismo quanto o tabagismo potencializam o risco em portadores do vírus B.&lt;/li&gt;
+  &lt;li&gt;Hepatite C: Potencial oncogênico também significativo, porém, ao contrário do HBV &lt;strong&gt;requer a existência de cirrose&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;Doença hepática alcoólica&lt;/li&gt;
+  &lt;li&gt;Esteato-hepatite não alcoólica (NASH)&lt;/li&gt;
+  &lt;li&gt;Hemocromatose&lt;/li&gt;
+  &lt;li&gt;Toxinas exógenas&lt;/li&gt;
+  &lt;li&gt;Tirosinemia&lt;/li&gt;
+  &lt;li&gt;Esteroides anabolizantes&lt;/li&gt;
+  &lt;li&gt;Contraceptivos orais: risco controverso&lt;/li&gt;
+  &lt;li&gt;Cirrose hepática: de qualquer etiologia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico-3&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;A apresentação clínica do CHC se faz principalmente de quatro formas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tríade clássica:
+    &lt;ul&gt;
+      &lt;li&gt;Dor em QSD&lt;/li&gt;
+      &lt;li&gt;Aumento do volume abdominal&lt;/li&gt;
+      &lt;li&gt;Perda de peso;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Identificação incidental por método de imagem em paciente assintomático, com ou sem massa palpável em QSDA;&lt;/li&gt;
+  &lt;li&gt;Piora do estado clínico ou trombose de veia porta em paciente cirrótico previamente compensado;&lt;/li&gt;
+  &lt;li&gt;Manifestações paraneoplásicas: febre, leucocitose, caquexia, eritrocitose, hipercalcemia, síndrome carcinoide, hipoglicemia, porfiria cutânea tarda etc.&lt;/li&gt;
+  &lt;li&gt;As aminotransferases, bilirrubinas, fosfatase alcalina e GGT e leucometria global podem estar elevados.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares-3&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;afp&quot;&gt;AFP&lt;/h3&gt;
+&lt;p&gt;A &lt;strong&gt;Alfafetoproteína&lt;/strong&gt; (AFP) é o principal marcador tumoral do CHC. Trata-se de uma proteína oncofetal produzida pelo fígado e saco vitelino que diminui após o nascimento. Uma AFP &amp;gt; 20 ng/ml em paciente com cirrose hepática já sugere CHC, embora uma reativação da hepatite viral (por vezes subclínica) possa elevar os níveis deste marcador entre 20-200 ng/ml.&lt;/p&gt;
+
+&lt;p&gt;A AFP também se encontra aumentada nas metástases hepáticas, tumores de testículos ou ovários e gravidez. Um
+valor acima de 200 ng/ml (400 ng/ml para alguns autores) num paciente cirrótico tem elevada especificidade para CHC.&lt;/p&gt;
+
+&lt;h3 id=&quot;usg&quot;&gt;USG&lt;/h3&gt;
+&lt;p&gt;A USG pode identificar com facilidade lesões sólidas hepáticas acima de 2 cm que, num paciente cirrótico, costumam indicar CHC. Neste exame, lesões pequenas são tipicamente &lt;strong&gt;hipoecoicas&lt;/strong&gt; em relação ao restante do parênquima hepático.&lt;/p&gt;
+
+&lt;p&gt;Com o tempo, estas lesões
+tornam-se hiperecoicas, embora comumente
+produzam um halo hipoecoico. Ao Doppler,
+nota-se tipicamente um padrão de vascularização arterial.&lt;/p&gt;
+
+&lt;h3 id=&quot;tc&quot;&gt;TC&lt;/h3&gt;
+
+&lt;p&gt;A &lt;strong&gt;tomografia helicoidal trifásica (com contraste)&lt;/strong&gt; é o exame de escolha para a confirmação diagnóstica do CHC.&lt;/p&gt;
+
+&lt;p&gt;São comparadas as imagens
+antes do contraste, na fase inicial do contraste (&lt;strong&gt;fase arterial&lt;/strong&gt;) e na fase final do contraste (&lt;strong&gt;portal&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Embora o fígado tenha 75% de sua vascularização proveniente do sangue porta e 25% do sangue da artéria hepática, o CHC é vascularizado quase que exclusivamente pela &lt;strong&gt;artéria hepática&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;alert aviso-red&quot;&gt;Portanto, uma lesão sólida em um fígado cirrótico, que &lt;span class=&quot;red&quot;&gt;só aparece na fase arterial&lt;/span&gt;, é virtualmente diagnóstica deste tumor (principalmente se &amp;gt; 2 cm).&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/wash-out.jpeg&quot; alt=&quot;Captação de constraste pelo CHC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A visualização de nódulos satélites ou de uma massa em padrão mosaico (múltiplos pequenos nódulos separados por traves fibróticas) também sugere hepatocarcinoma.&lt;/p&gt;
+
+&lt;h3 id=&quot;biópsia&quot;&gt;Biópsia&lt;/h3&gt;
+
+&lt;p&gt;A biópsia fecha o diagnóstico, mas,
+se negativa, não exclui. O paciente
+com nódulo &amp;gt; 1 cm e biópsia negativa deverá manter o seguimento, repetindo a biópsia caso a lesão cresça.&lt;/p&gt;
+
+&lt;p&gt;Às vezes, o diagnóstico sai a partir da
+ressecção de um presumido adenoma,
+que, à biópsia de congelação, mostra
+ser um hepatocarcinoma.&lt;/p&gt;
+
+&lt;h3 id=&quot;outros&quot;&gt;Outros&lt;/h3&gt;
+
+&lt;p&gt;Outros exames de elevada acurácia para o diagnóstico do CHC são a RM, a US contrastada e a arteriografia hepática (este último tem sido pouco utilizado,
+pelo seu caráter invasivo). Nos três também
+se notará a &lt;span class=&quot;green&quot;&gt;impregnação por contraste na fase arterial&lt;/span&gt; e o &lt;strong&gt;wash-out&lt;/strong&gt; (eliminação do contraste) na fase venosa.&lt;/p&gt;
+
+&lt;p&gt;A utilização do lipiodol (contraste com forte tropismo por células neoplásicas), seja em arteriografia ou em associação com TC, pode ser útil em casos duvidosos.&lt;/p&gt;
+
+&lt;h2 id=&quot;rastreamento&quot;&gt;Rastreamento&lt;/h2&gt;
+
+&lt;p&gt;Na prática, o rastreamento é indicado em todo paciente cirrótico e em casos selecionados de portadores crônicos do vírus B, mesmo sem cirrose (história familiar de CHC, negros &amp;gt; 20 anos, asiáticos &amp;gt; 40 anos).&lt;/p&gt;
+
+&lt;p&gt;De modo simplificado, o rastreamento deverá ser feito a cada seis
+meses com US abdominal, associada ou não
+à alfafetoproteína.&lt;/p&gt;
+
+&lt;h2 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h2&gt;
+
+&lt;p&gt;A gravidade da hepatopatia de base, avaliada pela &lt;strong&gt;classificação de Child-Pugh&lt;/strong&gt;, é o fator prognóstico mais importante!&lt;/p&gt;
+
+&lt;p&gt;Os níveis de alfafetoproteína também se mostraram úteis para estimar o prognóstico do CHC!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/clip.jpeg&quot; alt=&quot;Captação de constraste pelo CHC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/child-pugh.png&quot; alt=&quot;Captação de constraste pelo CHC&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento-3&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Sem tratamento, a sobrevida média de um pa-
+ciente com CHC é de 6-20 meses! Trata-se,
+portanto, de um tumor extremamente agressivo.&lt;/p&gt;
+
+&lt;p&gt;A cura, pelas atuais evidências,
+só pode ser obtida pela ressecção do tumor ou pelo transplante hepático.&lt;/p&gt;
+
+&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
+
+&lt;p&gt;O CHC em pacientes não cirróticos (o que pode
+ocorrer em portadores de vírus B) e em cirróticos
+Child A (e alguns Child B) pode ser tratado com
+ressecção (hepatectomia parcial), se o tumor
+não for muito grande e puder ser retirado com margens de segurança de 1 cm, sem comprometer a função hepática.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A invasão do pedículo vascular e as metástases a distância contraindicam, não somente a ressecção, mas também o transplante curativo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;Como regra geral: &lt;span class=&quot;blue&quot;&gt;transplante&lt;/span&gt; nos cirróticos Child B e C, que têm maior disfunção hepática; &lt;span class=&quot;blue&quot;&gt;ressecção&lt;/span&gt; nos cirróticos Child A e nos não
+cirróticos, que ainda toleram perder algum
+tecido hepático. Deve ser evitada em pacientes com hipertensão portal.
+&lt;/div&gt;
+
+&lt;h3 id=&quot;clínico&quot;&gt;Clínico&lt;/h3&gt;
+
+&lt;p&gt;Opções terapêuticas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Injeção tumoral de etanol;&lt;/li&gt;
+  &lt;li&gt;Ablação tumoral por radiofrequência;&lt;/li&gt;
+  &lt;li&gt;Termoablação;&lt;/li&gt;
+  &lt;li&gt;Quimioembolização transarterial: como o CHC se nutre quase 100% da artéria hepática, a obstrução desta vasculatura pode propiciar a isquemia e necrose tumoral.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Gastrite</title><link href="http://localhost:4000/gastroenterologia/gastrite" rel="alternate" type="text/html" title="Gastrite" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/gastrite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/gastrite">&lt;p&gt;É a lesão da mucosa gástrica com diagnóstico &lt;strong&gt;estabelecido pela histologia&lt;/strong&gt;, pela presença de processo inflamatório da mucosa, infiltrado leucocitário inflamatório que pode ou não estar associada a alterações macroscópicas na endoscopia.&lt;/p&gt;
 
 &lt;p&gt;A gastrite por H. pylori e a gastrite autoimune (anemia perniciosa) são os dois principais representantes.&lt;/p&gt;
 
@@ -1933,185 +2342,4 @@ Deficiencia na conjugação: Cligler najar&lt;/p&gt;
   &lt;li&gt;Válvulas artificiais: Nissen e Lide&lt;/li&gt;
   &lt;li&gt;Gastropexia (Boerema ou Hil)&lt;/li&gt;
   &lt;li&gt;Fundoplicatura (Nissen modificado por Bois-Uchoa)&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">As gofadas dos bebês são uma forma de refluxo mas não necessariamente uma doença. Os refluxos fisiológicos são normais até uns 5 a 6 meses. Quando a dieta sólida começa a ser introduzida. A partir do 1º ano de vida a gofada já deve ser investigada.</summary></entry><entry><title type="html">Doença trofoblástica gestacional</title><link href="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional" rel="alternate" type="text/html" title="Doença trofoblástica gestacional" /><published>2019-08-21T00:00:00-03:00</published><updated>2019-08-21T00:00:00-03:00</updated><id>http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional</id><content type="html" xml:base="http://localhost:4000/obstetricia/doen%C3%A7a-trofoblastica-gestacional">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#mola-hidatiforme&quot; id=&quot;markdown-toc-mola-hidatiforme&quot;&gt;Mola hidatiforme&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#usg&quot; id=&quot;markdown-toc-usg&quot;&gt;USG&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#aspiração-a-vácuo&quot; id=&quot;markdown-toc-aspiração-a-vácuo&quot;&gt;Aspiração a vácuo&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;DTG é o termo usado para nomear os tumores do trofoblasto viloso placentário, englobando as várias formas da MH, mola invasora, coriocarcinoma, PSTT e ETT&lt;/p&gt;
-
-&lt;p&gt;A DTG consiste em blastomas originários do tecido de revestimento das vilosidades coriais (cito e
-sinciciotrofoblasto) caracterizados por aspectos degenerativos (hidropisia do estroma) e proliferativos
-(hiperplasia/anaplasia).&lt;/p&gt;
-
-&lt;p&gt;DTG caracteriza-se por produzir hCG, possibilitando não apenas o diagnóstico precoce, como também o
-monitoramento da evolução da forma benigna para a NTG, a resposta da quimioterapia e o controle de cura.&lt;/p&gt;
-
-&lt;p&gt;Quando a dosagem de hCG estabiliza-se por 4 semanas
-consecutivas ou sobe por 3 semanas seguidas, afastada a gravidez ou restos molares intrauterinos pela
-ultrassonografia transvaginal, estava diagnosticada a transformação maligna da MH.&lt;/p&gt;
-
-&lt;p&gt;A ultrassonografia revolucionou o diagnóstico da gravidez molar, tornando possível que essa
-entidade da gravidez fosse precocemente reconhecida e rapidamente tratada. A ultrassonografia não só
-promoveu o diagnóstico da MH, como também facilitou a avaliação dos ovários das pacientes com essa doença,
-muitas vezes acometidos por cistos tecaluteínicos.&lt;/p&gt;
-
-&lt;p&gt;Pode-se dizer que a NTG é o câncer humano com maior chance
-de cura.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A incidência é maior nas idades extremas: jovens e gestantes-idosas (&amp;gt;  40 anos).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nos EUA, a MH é observada em 1:1.500 gestações. Aproximadamente 20% das pacientes com MH após o
-esvaziamento desenvolvem NTG, que requer a administração de quimioterapia (Lurain et al., 1983). A maioria das
-pacientes com NTG pós-molar apresenta a forma não metastática ou mola invasora, mas o coriocarcinoma pode
-ocorrer nesse cenário.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;O coriocarcinoma pode ser precedido por:
-    &lt;ul&gt;
-      &lt;li&gt;Gravidez normal&lt;/li&gt;
-      &lt;li&gt;Gravidez ectópica&lt;/li&gt;
-      &lt;li&gt;Abortamento&lt;/li&gt;
-      &lt;li&gt;Mola hidatiforme&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Os únicos fatores de risco para DTG seguramente estabelecidos são a idade materna avançada e o antecedente de gravidez molar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;mola-hidatiforme&quot;&gt;Mola hidatiforme&lt;/h2&gt;
-
-&lt;p&gt;As MH completa e parcial constituem duas doenças distintas, com características citogenéticas, histológicas e
-clínicas próprias (Tabela 29.1), embora o tratamento seja similar.&lt;/p&gt;
-
-&lt;p&gt;O volume e a proliferação trofoblástica da MHC excedem, no geral, os da MHP, o que se reflete nas
-características clínicas. Os títulos iniciais do hCG costumam ser mais elevados em pacientes com mola completa.
-O aumento uterino além do esperado para a idade gestacional ocorre em até 50% dos casos de MHC.
-Complicações médicas da gravidez molar, incluindo pré-eclâmpsia, hipertireoidismo, anemia e hiperêmese
-gravídica, são mais frequentes nos casos de MHC. Aproximadamente 15 a 25% das pacientes com MHC
-apresentam cistos tecaluteínicos, com aumento ovariano &amp;gt; 6 cm. Sequelas malignas ocorrem em menos de 5%
-das pacientes com MHP, mas em cerca de 20% daquelas com MHC.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;MHP: pode ter feto com BCF&lt;/li&gt;
-  &lt;li&gt;MHC: não tem feto nem BCF&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;O diagnóstico de MH pode ser feito no &lt;strong&gt;1º trimestre da gravidez&lt;/strong&gt;. O sinal mais comum é o &lt;strong&gt;sangramento&lt;/strong&gt;, muitas
-vezes acompanhado da &lt;strong&gt;expulsão das vesículas molares&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aumento do útero maior que o esperado para a IG&lt;/li&gt;
-  &lt;li&gt;Ausência de BCF&lt;/li&gt;
-  &lt;li&gt;Tumoração cística ovariana&lt;/li&gt;
-  &lt;li&gt;Hiperêmese gravídica&lt;/li&gt;
-  &lt;li&gt;Nível anormalmente elevado de hCG&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A &lt;strong&gt;pré-eclâmpsia na 1ª metade da gestação&lt;/strong&gt;, embora incomum, é &lt;strong&gt;sugestiva de MH&lt;/strong&gt;. O diagnóstico clínico da gravidez molar pode ser suspeitado diante das alterações descritas a seguir.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sangramento vaginal:&lt;/strong&gt; É quase constante, podendo acompanhar-se ou não de dor tipo &lt;strong&gt;cólica&lt;/strong&gt;, sendo, entretanto, &lt;strong&gt;indolor&lt;/strong&gt; na maioria
-das vezes. A hemorragia genital indolor é o sintoma mais prevalente por ocasião do diagnóstico, ocorrendo em
-aproximadamente 80 a 90% dos casos. Esse sinal apresenta-se entre 4 e 16 semanas de amenorreia. Por vezes, ainda que raramente, ocorrem situações graves e emergenciais, que resultam em choque
-hipovolêmico decorrente de gravidez molar, determinando risco à vida materna e culminando em um near-miss
-obstétrico.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aumento do volume uterino:&lt;/strong&gt;
-Quando o volume uterino atinge &lt;strong&gt;4 cm além do tamanho esperado&lt;/strong&gt; para a idade gestacional, considera-se que
-o útero está aumentado. Isso se configura como fator de risco no acompanhamento pós-molar (ocorre em 50% dos casos). Além de maior chance de evolução maligna, sabe-se que essas pacientes cursam com maior ocorrência de perfuração durante o esvaziamento uterino e de possível embolização pulmonar.  Tal circunstância deveria inibir o não especialista de realizar o esvaziamento uterino e motivá-lo a enviar a paciente para centro especializado, com equipe treinada e equipamento para
-reanimação cardiopulmonar.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cistos tecaluteínicos dos ovários:&lt;/strong&gt; A hiper-reação luteínica entre as pacientes com gravidez molar &lt;strong&gt;deve-se a estímulo exagerado de hCG&lt;/strong&gt;, além
-de maior sensibilidade ovariana a esse hormônio. Nesses casos, os ovários apresentam-se com grandes e
-múltiplos cistos, bilaterais e multiloculados com líquido claro no seu interior. A incidência é baixa nos casos de MHP. Em geral, a conduta clínica a ser adotada é de vigilância estrita, pois a regressão
-dos cistos ocorre espontaneamente em torno de 6 a 8 semanas, após o esvaziamento uterino, com a
-normalização da hCG. Sendo o tamanho dos cistos proporcional à atividade gonadotrófica da massa trofoblástica, sua avaliação
-volumétrica (&amp;gt; 6 cm) constitui um dado relevante no estabelecimento do fator prognóstico (e maior risco de progressão para NTG). A ruptura destes cistos pode provocar um quadro de abdome agudo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hiperêmese&lt;/strong&gt;: Costuma ser descrita como um dos sintomas mais frequentes da mola.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pré-eclâmpsia precoce:&lt;/strong&gt; Também é descrita como sinal clássico de gravidez molar.  É
-frequente a tríade sintomática &lt;strong&gt;hipertensão, edema e proteinúria&lt;/strong&gt;. Quando presente no início da gravidez, antes de 20 semanas, principalmente se acompanhada de perda sanguínea, deve suscitar, de imediato, o diagnóstico de mola. A sintomatologia é exuberante e não difere daquela descrita em gestações
-não molares, a saber: hipertensão, proteinúria, anasarca e edema pulmonar.&lt;/p&gt;
-
-&lt;p&gt;O tratamento clínico é o mesmo de uma paciente com pré-eclâmpsia grave, com uso de &lt;strong&gt;sulfato de magnésio&lt;/strong&gt;
-a 50% para prevenir o quadro convulsivo e melhorar o prognóstico materno, além de anti-hipertensivos para
-controle da pressão arterial. O sulfato de magnésio deve ser iniciado antes do procedimento cirúrgico, conforme
-recomenda o esquema de Zuspan na &lt;strong&gt;dose de 4 g (dose de ataque) IV, seguido de 1 a 2 g/h&lt;/strong&gt;. A conduta obstétrica
-deve ser proceder imediatamente ao esvaziamento uterino, valendo-se da vácuo-aspiração, com menor tempo
-cirúrgico e menor risco de perfuração uterina.&lt;/p&gt;
-
-&lt;p&gt;Na sequência, o controle pressórico deve ser alcançado por meio
-do uso de anti-hipertensivos habituais, como a hidralazina e o nifedipino. Nos casos renitentes, podem ser usados
-anti-hipertensivos potentes, como o diazóxido e o nitroprussiato de sódio, quando necessário, sob monitoramento
-intensivo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hipertireoidismo&lt;/strong&gt;: A ocorrência do hipertireoidismo
-associado à doença molar deve-se à semelhança estrutural entre a subunidade alfa da hCG e o hormônio estimulante da tireoide (TSH), fazendo com que os receptores deste sejam estimulados pela hCG. O hipertireoidismo clínico está presente em 5% dos casos de MH e, ocasionalmente, a
-crise tireotóxica desenvolve-se com quadro clínico exuberante. A expressão clínica da crise tireotóxica consiste em taquicardia, hipertensão arterial, tremores finos,
-intolerância ao calor, fraqueza muscular, sudorese, miopatia tireotóxica, reflexos hiperativos, perda de peso e
-irritabilidade, podendo ocorrer também o aumento difuso da glândula tireoide, que se
-torna firme e lobulada.&lt;/p&gt;
-
-&lt;p&gt;Os testes hormonais mostram níveis baixos de TSH (ou mesmo ausentes) e aumentados
-de T3 e T4 livres associados a valores muito elevados de hCG, chegando a mais de 1 milhão de mU/ml.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Complicações pulmonares&lt;/strong&gt;:
-Cerca de 1% das mulheres morrem por complicações pulmonares durante ou logo após o esvaziamento uterino molar, por embolização trofoblástica (Delmis et al., 2000). No intercurso da vácuo-aspiração é preciso ter
-atenção e cuidado na administração de líquidos, pois a sobrecarga congestiva do coração esquerdo pode
-ocasionar graves complicações pulmonares.&lt;/p&gt;
-
-&lt;p&gt;O tratamento ideal inclui suporte ventilatório, monitoramento central e esvaziamento uterino imediato. A
-literatura nacional e internacional demonstra claramente que os casos com desfecho fatal tiveram origem quando
-o esvaziamento molar foi postergado.&lt;/p&gt;
-
-&lt;p&gt;A embolia trofoblástica ocorre porque a vilosidade corial penetra nos canais venosos do miométrio, deixa os
-lindes da pelve, e é levada pelas veias uterinas a veia cava inferior, coração e pulmões. O quadro
-cardiorrespiratório é grave e pode confundir com insuficiência cardíaca ou tromboembolia pulmonar.&lt;/p&gt;
-
-&lt;h2 id=&quot;usg&quot;&gt;USG&lt;/h2&gt;
-
-&lt;p&gt;Superou todos os métodos não invasivos para diagnóstico da gravidez molar. Não obstante, muitos casos de
-mola são diagnosticados como aborto retido a partir de um exame de ultrassonografia rotineiro no 1o trimestre.
-Muitas pacientes com mola completa exibem imagens típicas (Figura 29.9): útero cheio de material ecogênico,
-contendo múltiplas vesículas anecoicas de diferentes tamanhos, sem fluxo ao Doppler; não há feto nem batimento
-cardíaco fetal. Na MHP, observa-se placenta grande de aspecto normal com lesões intraplacentárias anecoicas
-difusas (Figura 29.10).&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Para pacientes nas quais há suspeita de gestação molar, antes do esvaziamento, são recomendados os exames a seguir:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hemograma completo&lt;/li&gt;
-  &lt;li&gt;Grupo sanguíneo e fator Rh&lt;/li&gt;
-  &lt;li&gt;Determinação do nível de hCG&lt;/li&gt;
-  &lt;li&gt;Coagulograma completo&lt;/li&gt;
-  &lt;li&gt;Hepatograma completo&lt;/li&gt;
-  &lt;li&gt;Ureia, creatinina, ácido úrico&lt;/li&gt;
-  &lt;li&gt;Radiografia de tórax.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em pacientes com fundo uterino maior que 16 cm, dosagens de TSH, T4 livre e eletrocardiograma também
-devem ser solicitados.&lt;/p&gt;
-
-&lt;h3 id=&quot;aspiração-a-vácuo&quot;&gt;Aspiração a vácuo&lt;/h3&gt;
-
-&lt;p&gt;É o método de eleição para o esvaziamento molar. &lt;strong&gt;Cuidados devem ser redobrados em úteros grandes&lt;/strong&gt; (14 a 16 semanas ou mais). O procedimento inclui a dilatação cervical e costuma ser realizado
-sob anestesia geral. Nos casos em que se precisa dilatar o colo uterino, não se devem usar as velas de Hegar,
-de metal, pelo maior risco de perfuração uterina, optando-se pelas próprias cânulas de aspiração manual,
-progressivamente introduzidas no canal cervical, até o número 8.&lt;/p&gt;
-
-&lt;p&gt;Ocitocina intravenosa deve ser infundida após a
-dilatação do colo antes do esvaziamento e mantida por muitas horas no pós-operatório.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">As gofadas dos bebês são uma forma de refluxo mas não necessariamente uma doença. Os refluxos fisiológicos são normais até uns 5 a 6 meses. Quando a dieta sólida começa a ser introduzida. A partir do 1º ano de vida a gofada já deve ser investigada.</summary></entry></feed>
