@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/gastroenterologia/megaesofago-e-megacolon',
+      
         '/pediatria/abdome-agudo-na-crianca',
       
         '/gastroenterologia/nodulos-hepaticos',

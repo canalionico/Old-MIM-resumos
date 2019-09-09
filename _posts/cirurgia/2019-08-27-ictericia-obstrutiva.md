@@ -63,11 +63,9 @@ Hidropsia vesicular: a bile não passa mas também não entra e nem há colecist
 
 ## Exames complementares
 
-* BIlirrubinas
+* Bilirrubinas, FA e GGT;
 * Transaminases
-* FA
-* GGT
-* Nucleotidade
+* Nucleotidase
 * Leucinoaminopeptidase
 * USG - dilatação de vias biliares: pode ser feita convencionalmente, contrastada ou por via endoscópica
 * TC
@@ -84,7 +82,8 @@ Normalmente a bile é esteril e possui alguns mecânismos de defesa: o próprio 
 
 ## Colangite
 
-> Só existe colangite se houver obstrução biliar!!!
+
+<p class="alert aviso-red">Só existe colangite se houver obstrução biliar!!!</p>
 
 A flora bacteriana pode ser (entérica) de gram negativos, anaeróbios e gram positivos.
 

@@ -116,18 +116,56 @@ exige a **sorologia viral** para os principais vírus hepatotrópicos. A biópsi
 
 É um vírus de RNA com <span style="color:orange">transmissão oral-fecal</span>, excretado nas fezes. Ele não evolui para cronicidade, sendo uma doença autoresolutiva e com cura em 99% dos casos, e a sua incidência é maior em crianças.
 
-Pode se apresentar nas formas:
+## Epidemiologia
 
-* Colestática
-* Recidivante
-* Prolongada
-* Fulminante
-
-A grande maioria das formas evoluem para cura, a exceção da fulminante que é extremamente grave.
+Acomete mais a faixa etária entre 5 e 14 anos. Se dá por transmissão oral-fecal. As transmissões sexuais e por transfusão são raríssimas.
 
 Esta é a única das hepatites que a prevenção exige não troca de toalhas, talheres, etc. Os meios de transmissão incluem fômites, interpessoal, alimentos mal preparados, água, hortaliças, sexo oral, etc. Raramente ocorre transmissão parenteral.
 
+## Quadro clínico
+
+Na maioria das vezes simula uma "gripe". Pode se apresentar nas formas:
+
+* Assintomática: mais comum
+* Sintomática clássica: trifásica (prodrômica, ictérica, covalescênça);
+* Colestática: padrão compatível com obstrução biliar;
+* Recidivante: 2 ou mais quadros de hepatite aguda em 2 a 3 meses;
+* Fulminante: rara.
+
+A grande maioria das formas evoluem para cura, a exceção da fulminante que é extremamente grave.
+
+<div class="alert aviso-red">Ela nunca cronifica!</div>
+
+É necessário isolar os acometidos por 15 dias (MS) ou até uma semana após o surgimento da icterícia.
+
+## Diagnóstico
+
+Consiste no achado de Anti-HVA IgM!
+
 A viremia do HAV é muito rápida, não há tempo suficiente para detectar esse antígeno no sangue e fazer a sorologia. A forma de avaliar a infecção envolve a detecção dos anticorpos. A detecção do anticorpo IgM anti-HAV indica uma infecção aguda. Já a fração IgG anti-HAV indica uma infecção passada já curada. Na verdade nós não avaliamos a infecção, nós avaliamos o estado da memória imunológica. O RNA viral também pode ser detectado nas fezes por PCR, mas isso é mais para pesquisas.
+
+Resolvido o quadro de hepatite A, fica no sangue um marcador – o **Anti-HAV (IgG)** – por período longo
+e indeterminado.
+
+Na maioria das
+vezes, quando surgem os sintomas clínicos, o
+vírus já não pode mais ser encontrado (sangue
+ou fezes). A fase de multiplicação viral e viremia
+– fase contagiosa – ocorre semanas antes de
+qualquer sintoma, permanecendo no máximo
+até poucos dias após o início da icterícia.
+
+
+
+## Tratamento
+
+Consiste em repouso e medicações sintomáticas.
+
+## Prognóstico
+
+excelente, e não existem sequelas. A doença traz imunidade
+permanente, quem teve hepatite A uma vez nunca mais a terá. No entanto, adolescentes mais velhos e adultos, imunodeprimidos e portadores de hepatopatias podem fazer formas mais graves.
+
 
 ### Vacina
 
@@ -135,6 +173,10 @@ A vacinação foi introduzida no SUS em 2014.
 
 * HAVRIX e VAQTA
 * TWINRIX
+
+A profilaxia pré-exposição pode ser feita usando imunoglobulina ou vacina.
+
+A pós-exposição envolve, também, a imunoglobulina e a vacina.
 
 # Hepatite B
 
@@ -374,6 +416,75 @@ Testes sorológicos:
 No Brasil ainda é a indicação mais frequente de transplante de fígado. Mas vem mudando no mundo.
 
 Possui também relação com o carcinoma hepatocelular.
+
+é a forma de hepatite
+que mais cronifica (80-90%!!!).
+
+## Epidemiologia
+
+O risco de transmissão sexual e vertical do vírus C é mínimo, ao contrário do alto risco para o vírus B.
+Inclusive, existem consensos que não recomendam medida protetora em casais quando
+um dos cônjuges é positivo!
+
+Em geral, deve-se ter
+em mente que o HCV é bem menos “contagioso” que o HBV e o HIV.
+
+
+
+## Quadro clínico
+
+* 80% dos casos de hepatite C aguda são completamente assintomáticos;
+* Mesmo nos poucos que desenvolvem sintomas, a icterícia é rara (25%);
+* A hepatite fulminante pelo vírus C é raríssima ou inexistente.
+
+
+
+## Diagnóstico
+
+Como a imensa maioria dos casos não desenvolve sintomas, o diagnóstico não costuma ser feito na fase de hepatite
+aguda.
+
+Os anticorpos
+anti-HCV são positivos no soro de 80% dos indivíduos sintomáticos no momento em que os
+sintomas aparecem, mas nos 20% restantes o
+diagnóstico só pode ser estabelecido nesta fase
+através da pesquisa do HCV-RNA nestes, os sintomas precederam a soroconversão).
+
+<div class="alert aviso-yellow">anti-HCV positivo + HCV RNA (PCR).
+</div>
+
+O anti-HCV pode ser pesquisado pelo método
+ELISA (sorologia convencional) ou pelo Teste Rápido (TR).
+
+Se positivo, o **anti-HCV não diferencia entre infecção atual ou contato prévio “curado”**. Logo, o **HCV-RNA** deve sempre ser utilizado para confirmar que o anti-HCV positivo significa infecção ativa pelo vírus C!
+
+
+## Tratamento
+
+A hepatite C é a
+hepatite viral que mais cronifica. É exatamente
+este o motivo que faz da hepatite C a única
+forma de hepatite aguda que, por definição,
+exige tratamento antiviral! Não exatamente para “tratar”
+o episódio agudo, mas para tentar prevenir a cronificação. Com o tratamento antiviral a chance de cronificação é reduzida de 80-90% para 5%.
+
+A grande dificuldade é identificar os casos de Hepatite C aguda.
+
+Os critérios para início do tratamento agudo do
+HCV são:
+
+1. Pacientes SINTOMÁTICOS (ex.: icterícia): aguardar 12 semanas após início dos sintomas. Se o HCV-RNA continuar positivo após este período, iniciar o tratamento;
+2. Pacientes ASSINTOMÁTICOS COM DATA DE INFECÇÃO CONHECIDA (ex.: monitoramento pós-acidente perfurocortante): iniciar o tratamento imediatamente após o diagnóstico;
+3. Pacientes ASSINTOMÁTICOS COM DATA DE INFECÇÃO DESCONHECIDA, mas nos quais se suspeita de infecção aguda
+
+O tratamento agudo, quando indicado, é feito com **alfapeguinterferona** (PEG-IFN), podendo-se associar ou não **ribavirina** (opcional). Recomenda-se fortemente que esta última seja
+associada ao esquema caso o paciente seja
+coinfectado pelo HIV.
+
+Em relação à transmissão vertical, não existe
+nenhuma forma de imunoprofilaxia ou profilaxia medicamentosa (as drogas para tratamento
+do vírus C são contraindicadas na gestação).
+
 
 ## Referências
 

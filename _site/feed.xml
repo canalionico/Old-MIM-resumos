@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-06T23:58:49-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Tumores hepáticos" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-08T21:11:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Megaesôfago e megacólom</title><link href="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon" rel="alternate" type="text/html" title="Megaesôfago e megacólom" /><published>2019-09-08T00:00:00-03:00</published><updated>2019-09-08T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/megaesofago-e-megacolon</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon">&lt;h2 id=&quot;doença-de-chagas&quot;&gt;Doença de Chagas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Formas de transmissão
+    &lt;ul&gt;
+      &lt;li&gt;Vetorial&lt;/li&gt;
+      &lt;li&gt;Transfusão sanguínea&lt;/li&gt;
+      &lt;li&gt;Congênita&lt;/li&gt;
+      &lt;li&gt;Oral&lt;/li&gt;
+      &lt;li&gt;Transplante de órgãos&lt;/li&gt;
+      &lt;li&gt;Acidente laboratorial&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;megaesôfago&quot;&gt;Megaesôfago&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Fascies típica: hipertrofia das glândulas parótidas;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sintoma principal do megaesôfago: é a disfagia
+    &lt;ul&gt;
+      &lt;li&gt;Geralmente uma disfagia distal (a comida entra e desce mas fica a sensação de que parou no meio do caminho)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hipersalivação&lt;/li&gt;
+  &lt;li&gt;Soluço&lt;/li&gt;
+  &lt;li&gt;Vômitos&lt;/li&gt;
+  &lt;li&gt;Regurgitação&lt;/li&gt;
+  &lt;li&gt;Perda de peso&lt;/li&gt;
+  &lt;li&gt;Constipação&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Acalásia: falta de coordenação entre a deglutição e a abatura do esfincter inferior do esôfago. Não é uma estenose propriamente dita (o aparelho de endoscópio passa pela área). Ocorre devido à invervação.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HDA&lt;/li&gt;
+  &lt;li&gt;Epidemiologia&lt;/li&gt;
+  &lt;li&gt;Exame físico&lt;/li&gt;
+  &lt;li&gt;Esofagografia&lt;/li&gt;
+  &lt;li&gt;Endoscopia digestiva alta&lt;/li&gt;
+  &lt;li&gt;Manometria: medir a pressão do esfincter inferior do esôfago&lt;/li&gt;
+  &lt;li&gt;Exame sorológico&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fármacos
+    &lt;ul&gt;
+      &lt;li&gt;Dinitrato de isossorbida&lt;/li&gt;
+      &lt;li&gt;Nifedipina&lt;/li&gt;
+      &lt;li&gt;Toxina botulínica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Dilatação por balão&lt;/li&gt;
+  &lt;li&gt;Cirurgia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;megacólon&quot;&gt;Megacólon&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dilatação colônica&lt;/li&gt;
+  &lt;li&gt;Hipertrofia&lt;/li&gt;
+  &lt;li&gt;Destruição de plexos nervosos&lt;/li&gt;
+  &lt;li&gt;Desnervação parasimpática intramural&lt;/li&gt;
+  &lt;li&gt;Distúrbios da peristalse&lt;/li&gt;
+  &lt;li&gt;Constipação intestinal&lt;/li&gt;
+  &lt;li&gt;Distensão abdominal&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><category term="gastroenterologia" /><summary type="html">Doença de Chagas</summary></entry><entry><title type="html">Tumores hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Tumores hepáticos" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tumores-benignos&quot; id=&quot;markdown-toc-tumores-benignos&quot;&gt;Tumores benignos&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#adenoma-hepatocelular&quot; id=&quot;markdown-toc-adenoma-hepatocelular&quot;&gt;Adenoma hepatocelular&lt;/a&gt;        &lt;ol&gt;
@@ -450,7 +522,7 @@ tecido hepático. Deve ser evitada em pacientes com hipertensão portal.
 &lt;ol&gt;
   &lt;li&gt;Simples&lt;/li&gt;
   &lt;li&gt;Supurativa&lt;/li&gt;
-  &lt;li&gt;….&lt;/li&gt;
+  &lt;li&gt;Gangresona&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
@@ -509,25 +581,44 @@ tecido hepático. Deve ser evitada em pacientes com hipertensão portal.
 
 &lt;p&gt;É a invaginação do intestino dentro dele mesmo levando a uma obstrução intestinal.&lt;/p&gt;
 
+&lt;div class=&quot;alert aviso-green&quot;&gt;A intussussepção é a
+invaginação do intestino
+dentro dele mesmo. A
+porção proximal é conduzida
+para dentro da porção distal
+pelo movimento peristáltico
+&lt;/div&gt;
+
 &lt;p&gt;Geralmente as invaginações são são íleo-ceco-cólicas. É necessário: 1. um desequilíbrio no peristaltismo, 2. um ponto fixo (como a válvula íleo-cecal). Na maioria dos casos a invaginação é idiopatica.&lt;/p&gt;
 
 &lt;p&gt;Divertículo de Merckel&lt;/p&gt;
 
-&lt;p&gt;Prevalência: é a causa mais freqyente de obstrução intestinal em lactantes e crianças maiores.&lt;/p&gt;
+&lt;p&gt;Prevalência: é a &lt;span class=&quot;red&quot;&gt;causa mais frequente de obstrução intestinal em lactantes e crianças maiores&lt;/span&gt;.&lt;/p&gt;
 
 &lt;p&gt;História: a criança está eutrófica (“alegre e sorridente”) e, de repente, sente uma  dor súbita. Outros sinais: reflexo vagal (vômito), sudorese, palidez, evacuação de muco e sangue.&lt;/p&gt;
 
 &lt;p&gt;Etiologias: idiopática, infecção por adenovirus e rotavirus, espessamento das placas de payer……&lt;/p&gt;
 
-&lt;p&gt;Tumoração elíptica, “salsichoide”, em mesogátrio e hipogástrio. Fossa ilíaca direita vazia (sinal de Dance).&lt;/p&gt;
+&lt;p&gt;Tumoração elíptica, “salsichoide”, em mesogátrio e hipogástrio. Fossa ilíaca direita vazia (&lt;span class=&quot;red&quot;&gt;sinal de Dance&lt;/span&gt;).&lt;/p&gt;
 
-&lt;p&gt;Ao toque retal: ampola retal vazia.&lt;/p&gt;
+&lt;p&gt;Ao toque retal: ampola retal vazia, prolapso anal da cabeça da invaginação.&lt;/p&gt;
 
-&lt;p&gt;Investigação: o enema hidrostático é tanto tratamento como investigação. Injeta-se soro fisiológico no reto e acompanha o bloqueio com o USG. Injetando o soro e fazendo pressão pode ser possível desenvaginar as alças. Se houver uma perfuração o soro entra na cavidade peritonial.&lt;/p&gt;
+&lt;p&gt;Investigação: o &lt;strong&gt;enema hidrostático&lt;/strong&gt; é &lt;strong&gt;tanto tratamento como investigação&lt;/strong&gt;. Injeta-se soro fisiológico no reto e acompanha o bloqueio com o USG. Injetando o soro e fazendo pressão pode ser possível desenvaginar as alças. Se houver uma perfuração o soro entra na cavidade peritonial.&lt;/p&gt;
 
 &lt;p&gt;Enema pneumático.&lt;/p&gt;
 
-&lt;h1 id=&quot;semi-obstrução-por-ascaris&quot;&gt;Semi obstrução por ascaris&lt;/h1&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O diagnóstico de abdome agudo é um desafio em crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.</summary></entry><entry><title type="html">Abdomen agudo</title><link href="http://localhost:4000/cirurgia/abdomen-agudo" rel="alternate" type="text/html" title="Abdomen agudo" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/abdomen-agudo</id><content type="html" xml:base="http://localhost:4000/cirurgia/abdomen-agudo">&lt;p&gt;É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.&lt;/p&gt;
+&lt;h1 id=&quot;semi-obstrução-por-ascaris&quot;&gt;Semi obstrução por ascaris&lt;/h1&gt;
+
+&lt;p&gt;Quadro clínico:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Distensão abdominal;&lt;/li&gt;
+  &lt;li&gt;Vômitos;&lt;/li&gt;
+  &lt;li&gt;Parada de eliminação de fezes;&lt;/li&gt;
+  &lt;li&gt;Eliminação de Ascaris pela boca ou nariz;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O tratamento é clínico, esporadicamente cirúrgico.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O diagnóstico de abdome agudo é um desafio em crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.</summary></entry><entry><title type="html">Abdomen agudo</title><link href="http://localhost:4000/cirurgia/abdomen-agudo" rel="alternate" type="text/html" title="Abdomen agudo" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/abdomen-agudo</id><content type="html" xml:base="http://localhost:4000/cirurgia/abdomen-agudo">&lt;p&gt;É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.&lt;/p&gt;
 
 &lt;h2 id=&quot;fisiopatologia-da-dor-abdominal&quot;&gt;Fisiopatologia da dor abdominal:&lt;/h2&gt;
 
@@ -739,7 +830,24 @@ Idosos, diabéticos, fibrilação atrial, IAM, IC dilatada, drogas vasoativas, c
 
 &lt;p&gt;RX com paciente em pé: é possível ver pneumoperitônio. O figado fica afastando da cúpula diafragmática.&lt;/p&gt;
 
-&lt;h3 id=&quot;traumático&quot;&gt;Traumático&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.</summary></entry><entry><title type="html">Gastrite</title><link href="http://localhost:4000/gastroenterologia/gastrite" rel="alternate" type="text/html" title="Gastrite" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/gastrite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/gastrite">&lt;p&gt;É a lesão da mucosa gástrica com diagnóstico &lt;strong&gt;estabelecido pela histologia&lt;/strong&gt;, pela presença de processo inflamatório da mucosa, infiltrado leucocitário inflamatório que pode ou não estar associada a alterações macroscópicas na endoscopia.&lt;/p&gt;
+&lt;h3 id=&quot;traumático&quot;&gt;Traumático&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.</summary></entry><entry><title type="html">Gastrite</title><link href="http://localhost:4000/gastroenterologia/gastrite" rel="alternate" type="text/html" title="Gastrite" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/gastrite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/gastrite">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#gastrite-por-h-pylori&quot; id=&quot;markdown-toc-gastrite-por-h-pylori&quot;&gt;Gastrite por &lt;em&gt;H. pylori&lt;/em&gt;&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#aguda&quot; id=&quot;markdown-toc-aguda&quot;&gt;Aguda&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#crônica&quot; id=&quot;markdown-toc-crônica&quot;&gt;Crônica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#gastropatia-medicamentosa&quot; id=&quot;markdown-toc-gastropatia-medicamentosa&quot;&gt;Gastropatia medicamentosa&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a lesão da mucosa gástrica com diagnóstico &lt;strong&gt;estabelecido pela histologia&lt;/strong&gt;, pela presença de processo inflamatório da mucosa, infiltrado leucocitário inflamatório que pode ou não estar associada a alterações macroscópicas na endoscopia.&lt;/p&gt;
 
 &lt;p&gt;A gastrite por H. pylori e a gastrite autoimune (anemia perniciosa) são os dois principais representantes.&lt;/p&gt;
 
@@ -934,7 +1042,13 @@ MALT em &amp;lt; 0.01%.&lt;/p&gt;
 &lt;p&gt;Deve-se suspender o AINE incriminado e
 iniciar terapia com IBP. Caso o paciente necessite retomar a terapia anti-inflamatória, devemos fazer profilaxia com IBP.&lt;/p&gt;
 
-&lt;p&gt;A presença do H. pylori contribui para piorar a lesão gástrica por AINE e, por isso, a erradicação da bactéria está indicada se o paciente tiver que manter os AINE.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É a lesão da mucosa gástrica com diagnóstico estabelecido pela histologia, pela presença de processo inflamatório da mucosa, infiltrado leucocitário inflamatório que pode ou não estar associada a alterações macroscópicas na endoscopia.</summary></entry><entry><title type="html">Megaesôfago</title><link href="http://localhost:4000/cirurgia/megaes%C3%B4fago" rel="alternate" type="text/html" title="Megaesôfago" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/megaes%C3%B4fago</id><content type="html" xml:base="http://localhost:4000/cirurgia/megaes%C3%B4fago">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;A presença do H. pylori contribui para piorar a lesão gástrica por AINE e, por isso, a erradicação da bactéria está indicada se o paciente tiver que manter os AINE.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;FERREIRA Lincoln Eduardo Villela Vieira de Castro, MEIRELLES Gustavo de Souza Portes, VIEIRA Renata La Rocca, BRAGAGNOLO Jr. Maurício Augusto, CHEBLI Júlio Maria Fonseca, SOUZA Aécio Flávio Meirelles de. Alterações no teste ultra-rápido da urease e no exame anatomopatológico para Helicobacter pylori induzidas por drogas anti-secretoras. Arq. Gastroenterol.  [Internet]. 2001  Jan [cited  2019  Sep  08] ;  38(1): 03-08. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S0004-28032001000100002&amp;amp;lng=en.  http://dx.doi.org/10.1590/S0004-28032001000100002.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Megaesôfago</title><link href="http://localhost:4000/cirurgia/megaes%C3%B4fago" rel="alternate" type="text/html" title="Megaesôfago" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/megaes%C3%B4fago</id><content type="html" xml:base="http://localhost:4000/cirurgia/megaes%C3%B4fago">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#classificação-radiográfica&quot; id=&quot;markdown-toc-classificação-radiográfica&quot;&gt;Classificação radiográfica&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#classificação-de-chucago&quot; id=&quot;markdown-toc-classificação-de-chucago&quot;&gt;Classificação de Chucago&lt;/a&gt;&lt;/li&gt;
@@ -1262,12 +1376,19 @@ NASH: &lt;em&gt;non alcoolic steatosis hepatitis&lt;/em&gt;.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#hepatite-a&quot; id=&quot;markdown-toc-hepatite-a&quot;&gt;Hepatite A&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#vacina&quot; id=&quot;markdown-toc-vacina&quot;&gt;Vacina&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-1&quot; id=&quot;markdown-toc-quadro-clínico-1&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#vacina&quot; id=&quot;markdown-toc-vacina&quot;&gt;Vacina&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#hepatite-b&quot; id=&quot;markdown-toc-hepatite-b&quot;&gt;Hepatite B&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#transmissão&quot; id=&quot;markdown-toc-transmissão&quot;&gt;Transmissão&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;        &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-2&quot; id=&quot;markdown-toc-diagnóstico-2&quot;&gt;Diagnóstico&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#evolução-sorológica&quot; id=&quot;markdown-toc-evolução-sorológica&quot;&gt;Evolução sorológica&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#guia-de-dianóstico&quot; id=&quot;markdown-toc-guia-de-dianóstico&quot;&gt;Guia de dianóstico&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#mutações-na-região-pré-core&quot; id=&quot;markdown-toc-mutações-na-região-pré-core&quot;&gt;Mutações na região pré-core&lt;/a&gt;&lt;/li&gt;
@@ -1276,13 +1397,17 @@ NASH: &lt;em&gt;non alcoolic steatosis hepatitis&lt;/em&gt;.&lt;/p&gt;
       &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#padrão-clínico&quot; id=&quot;markdown-toc-padrão-clínico&quot;&gt;Padrão clínico&lt;/a&gt;        &lt;ol&gt;
           &lt;li&gt;&lt;a href=&quot;#complicações-1&quot; id=&quot;markdown-toc-complicações-1&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
           &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#hepatite-c&quot; id=&quot;markdown-toc-hepatite-c&quot;&gt;Hepatite C&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#epidemiologia-1&quot; id=&quot;markdown-toc-epidemiologia-1&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-2&quot; id=&quot;markdown-toc-quadro-clínico-2&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-3&quot; id=&quot;markdown-toc-diagnóstico-3&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-3&quot; id=&quot;markdown-toc-tratamento-3&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
@@ -1418,20 +1543,55 @@ exige a &lt;strong&gt;sorologia viral&lt;/strong&gt; para os principais vírus h
 
 &lt;p&gt;É um vírus de RNA com &lt;span style=&quot;color:orange&quot;&gt;transmissão oral-fecal&lt;/span&gt;, excretado nas fezes. Ele não evolui para cronicidade, sendo uma doença autoresolutiva e com cura em 99% dos casos, e a sua incidência é maior em crianças.&lt;/p&gt;
 
-&lt;p&gt;Pode se apresentar nas formas:&lt;/p&gt;
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Acomete mais a faixa etária entre 5 e 14 anos. Se dá por transmissão oral-fecal. As transmissões sexuais e por transfusão são raríssimas.&lt;/p&gt;
+
+&lt;p&gt;Esta é a única das hepatites que a prevenção exige não troca de toalhas, talheres, etc. Os meios de transmissão incluem fômites, interpessoal, alimentos mal preparados, água, hortaliças, sexo oral, etc. Raramente ocorre transmissão parenteral.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Na maioria das vezes simula uma “gripe”. Pode se apresentar nas formas:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Colestática&lt;/li&gt;
-  &lt;li&gt;Recidivante&lt;/li&gt;
-  &lt;li&gt;Prolongada&lt;/li&gt;
-  &lt;li&gt;Fulminante&lt;/li&gt;
+  &lt;li&gt;Assintomática: mais comum&lt;/li&gt;
+  &lt;li&gt;Sintomática clássica: trifásica (prodrômica, ictérica, covalescênça);&lt;/li&gt;
+  &lt;li&gt;Colestática: padrão compatível com obstrução biliar;&lt;/li&gt;
+  &lt;li&gt;Recidivante: 2 ou mais quadros de hepatite aguda em 2 a 3 meses;&lt;/li&gt;
+  &lt;li&gt;Fulminante: rara.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;A grande maioria das formas evoluem para cura, a exceção da fulminante que é extremamente grave.&lt;/p&gt;
 
-&lt;p&gt;Esta é a única das hepatites que a prevenção exige não troca de toalhas, talheres, etc. Os meios de transmissão incluem fômites, interpessoal, alimentos mal preparados, água, hortaliças, sexo oral, etc. Raramente ocorre transmissão parenteral.&lt;/p&gt;
+&lt;div class=&quot;alert aviso-red&quot;&gt;Ela nunca cronifica!&lt;/div&gt;
+
+&lt;p&gt;É necessário isolar os acometidos por 15 dias (MS) ou até uma semana após o surgimento da icterícia.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;Consiste no achado de Anti-HVA IgM!&lt;/p&gt;
 
 &lt;p&gt;A viremia do HAV é muito rápida, não há tempo suficiente para detectar esse antígeno no sangue e fazer a sorologia. A forma de avaliar a infecção envolve a detecção dos anticorpos. A detecção do anticorpo IgM anti-HAV indica uma infecção aguda. Já a fração IgG anti-HAV indica uma infecção passada já curada. Na verdade nós não avaliamos a infecção, nós avaliamos o estado da memória imunológica. O RNA viral também pode ser detectado nas fezes por PCR, mas isso é mais para pesquisas.&lt;/p&gt;
+
+&lt;p&gt;Resolvido o quadro de hepatite A, fica no sangue um marcador – o &lt;strong&gt;Anti-HAV (IgG)&lt;/strong&gt; – por período longo
+e indeterminado.&lt;/p&gt;
+
+&lt;p&gt;Na maioria das
+vezes, quando surgem os sintomas clínicos, o
+vírus já não pode mais ser encontrado (sangue
+ou fezes). A fase de multiplicação viral e viremia
+– fase contagiosa – ocorre semanas antes de
+qualquer sintoma, permanecendo no máximo
+até poucos dias após o início da icterícia.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Consiste em repouso e medicações sintomáticas.&lt;/p&gt;
+
+&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
+
+&lt;p&gt;excelente, e não existem sequelas. A doença traz imunidade
+permanente, quem teve hepatite A uma vez nunca mais a terá. No entanto, adolescentes mais velhos e adultos, imunodeprimidos e portadores de hepatopatias podem fazer formas mais graves.&lt;/p&gt;
 
 &lt;h3 id=&quot;vacina&quot;&gt;Vacina&lt;/h3&gt;
 
@@ -1441,6 +1601,10 @@ exige a &lt;strong&gt;sorologia viral&lt;/strong&gt; para os principais vírus h
   &lt;li&gt;HAVRIX e VAQTA&lt;/li&gt;
   &lt;li&gt;TWINRIX&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;A profilaxia pré-exposição pode ser feita usando imunoglobulina ou vacina.&lt;/p&gt;
+
+&lt;p&gt;A pós-exposição envolve, também, a imunoglobulina e a vacina.&lt;/p&gt;
 
 &lt;h1 id=&quot;hepatite-b&quot;&gt;Hepatite B&lt;/h1&gt;
 
@@ -1483,7 +1647,7 @@ orgânicas em que se pode identificar também
 o HBsAG, mas em concentrações bem menores que as do sangue, tornando menos
 provável a contaminação.&lt;/p&gt;
 
-&lt;h2 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h2&gt;
+&lt;h2 id=&quot;diagnóstico-2&quot;&gt;Diagnóstico&lt;/h2&gt;
 
 &lt;h3 id=&quot;evolução-sorológica&quot;&gt;Evolução sorológica&lt;/h3&gt;
 
@@ -1695,7 +1859,7 @@ sempre fatal, num índice de mortalidade que ultrapassa os 80%.&lt;/p&gt;
 
 &lt;div class=&quot;alert aviso-green&quot;&gt;O vírus pode infectar outros órgãos além do fígado, como pâncreas, baço e medula óssea, que funcionam como reservatório. Isso explica as recidivas de hepatite B após transplante hepático.&lt;/div&gt;
 
-&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;h3 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h3&gt;
 
 &lt;p&gt;O tratamento da hepatite B aguda é apenas sintomático. A única restrição
 está relacionada à ingestão de álcool, que
@@ -1744,6 +1908,73 @@ Houghton 89&lt;/p&gt;
 &lt;p&gt;No Brasil ainda é a indicação mais frequente de transplante de fígado. Mas vem mudando no mundo.&lt;/p&gt;
 
 &lt;p&gt;Possui também relação com o carcinoma hepatocelular.&lt;/p&gt;
+
+&lt;p&gt;é a forma de hepatite
+que mais cronifica (80-90%!!!).&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia-1&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;O risco de transmissão sexual e vertical do vírus C é mínimo, ao contrário do alto risco para o vírus B.
+Inclusive, existem consensos que não recomendam medida protetora em casais quando
+um dos cônjuges é positivo!&lt;/p&gt;
+
+&lt;p&gt;Em geral, deve-se ter
+em mente que o HCV é bem menos “contagioso” que o HBV e o HIV.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico-2&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;80% dos casos de hepatite C aguda são completamente assintomáticos;&lt;/li&gt;
+  &lt;li&gt;Mesmo nos poucos que desenvolvem sintomas, a icterícia é rara (25%);&lt;/li&gt;
+  &lt;li&gt;A hepatite fulminante pelo vírus C é raríssima ou inexistente.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico-3&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;Como a imensa maioria dos casos não desenvolve sintomas, o diagnóstico não costuma ser feito na fase de hepatite
+aguda.&lt;/p&gt;
+
+&lt;p&gt;Os anticorpos
+anti-HCV são positivos no soro de 80% dos indivíduos sintomáticos no momento em que os
+sintomas aparecem, mas nos 20% restantes o
+diagnóstico só pode ser estabelecido nesta fase
+através da pesquisa do HCV-RNA nestes, os sintomas precederam a soroconversão).&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;anti-HCV positivo + HCV RNA (PCR).
+&lt;/div&gt;
+
+&lt;p&gt;O anti-HCV pode ser pesquisado pelo método
+ELISA (sorologia convencional) ou pelo Teste Rápido (TR).&lt;/p&gt;
+
+&lt;p&gt;Se positivo, o &lt;strong&gt;anti-HCV não diferencia entre infecção atual ou contato prévio “curado”&lt;/strong&gt;. Logo, o &lt;strong&gt;HCV-RNA&lt;/strong&gt; deve sempre ser utilizado para confirmar que o anti-HCV positivo significa infecção ativa pelo vírus C!&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento-3&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;A hepatite C é a
+hepatite viral que mais cronifica. É exatamente
+este o motivo que faz da hepatite C a única
+forma de hepatite aguda que, por definição,
+exige tratamento antiviral! Não exatamente para “tratar”
+o episódio agudo, mas para tentar prevenir a cronificação. Com o tratamento antiviral a chance de cronificação é reduzida de 80-90% para 5%.&lt;/p&gt;
+
+&lt;p&gt;A grande dificuldade é identificar os casos de Hepatite C aguda.&lt;/p&gt;
+
+&lt;p&gt;Os critérios para início do tratamento agudo do
+HCV são:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Pacientes SINTOMÁTICOS (ex.: icterícia): aguardar 12 semanas após início dos sintomas. Se o HCV-RNA continuar positivo após este período, iniciar o tratamento;&lt;/li&gt;
+  &lt;li&gt;Pacientes ASSINTOMÁTICOS COM DATA DE INFECÇÃO CONHECIDA (ex.: monitoramento pós-acidente perfurocortante): iniciar o tratamento imediatamente após o diagnóstico;&lt;/li&gt;
+  &lt;li&gt;Pacientes ASSINTOMÁTICOS COM DATA DE INFECÇÃO DESCONHECIDA, mas nos quais se suspeita de infecção aguda&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;O tratamento agudo, quando indicado, é feito com &lt;strong&gt;alfapeguinterferona&lt;/strong&gt; (PEG-IFN), podendo-se associar ou não &lt;strong&gt;ribavirina&lt;/strong&gt; (opcional). Recomenda-se fortemente que esta última seja
+associada ao esquema caso o paciente seja
+coinfectado pelo HIV.&lt;/p&gt;
+
+&lt;p&gt;Em relação à transmissão vertical, não existe
+nenhuma forma de imunoprofilaxia ou profilaxia medicamentosa (as drogas para tratamento
+do vírus C são contraindicadas na gestação).&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 
@@ -2252,84 +2483,4 @@ EDA anual; (2) terapia endoscópica. A maioria dos autores modernos têm preferi
 &lt;p&gt;O encontro de displasia de alto
 grau (carcinoma in situ) indica terapia endoscópica ou esofagectomia. Prefere-se a endoscopia devido à alta mortalidade da cirúrgia.&lt;/p&gt;
 
-&lt;p&gt;A terapia endoscópia pode ser feita por ressecção da mucosa ou ablação com ondas de radiofrequência. A ressecção é indicada na presença de nódulos ou irregularidades superficiais, já que permite um estudo histopatológico ainda mais focado. A ablação por radiofrequência pode ser empregada para eliminar o restante do epitélio metaplásico.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Pancreatite crônica</title><link href="http://localhost:4000/cirurgia/pancreatite-cronica" rel="alternate" type="text/html" title="Pancreatite crônica" /><published>2019-08-28T00:00:00-03:00</published><updated>2019-08-28T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/pancreatite-cronica</id><content type="html" xml:base="http://localhost:4000/cirurgia/pancreatite-cronica">&lt;p&gt;Se tirar a cabeça do pâncreas então é necessário tirar o duodeno. Isso pois, do contrário o duodeno necrosaria, uma vez que a irrigação deste vem das artérias que se originam da cabeça do pâncreas e são ressecadas junto com o pâncreas.&lt;/p&gt;
-
-&lt;p&gt;Para chegar ao pâncreas, um órgão retrocavitário, é necessário abrir o grande ou o pequeno epíplon. E, assim, ter acesso à cavidade retro peritoneal.&lt;/p&gt;
-
-&lt;p&gt;O pâncreas tem dois parênquimas (um endócrino e um exócrino) e um mesenquima.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Enócrino (ilhotas)
-    &lt;ul&gt;
-      &lt;li&gt;10 a 25% da volemia&lt;/li&gt;
-      &lt;li&gt;2% da massa pancreática&lt;/li&gt;
-      &lt;li&gt;Hormônios: insulina, glucagon, somatostatina, peptideo alguma coisa&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Exócrino
-    &lt;ul&gt;
-      &lt;li&gt;Células acinares: intensa síntese proteica (cloro) e estimulada pela CCK (pancreozimina)&lt;/li&gt;
-      &lt;li&gt;Células ductais: síntese hidroeletrolítica (HCO3) e estimulado pela secretina&lt;/li&gt;
-      &lt;li&gt;Fluxo pancreático: 2 L (pH 8 a 8,5), sódio e cloro iguais aos séricos, bicarbonato e cloro constante.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Tumor de cabeça do pâncreas clássico:
-&lt;strong&gt;Adenocarcinoma ductal&lt;/strong&gt;, que nasce geralmente nos ductos principais da cabeça do pâncreas.&lt;/p&gt;
-
-&lt;p&gt;Pancreatite: três grandes tipos, calcificante (relação com o consumo de álcool), obstutiva e inflamatória.&lt;/p&gt;
-
-&lt;p&gt;Lesões de cístos de retenção e ductos dilatados, um sinal comum na pancreatite crônica.&lt;/p&gt;
-
-&lt;p&gt;Pseudocisto de pâncreas: não maligniza. O tratamento é a drenagem. Diferentemente do agudo, o crônico tem paredes bem definidas.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dor&lt;/li&gt;
-  &lt;li&gt;Emagrecimento&lt;/li&gt;
-  &lt;li&gt;Anorexia&lt;/li&gt;
-  &lt;li&gt;Icterícia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Muitas patologias do pâncreas podem cursar com icterícia pois o colédoco adentra a massa pâncreatica no caminho até o duodeno.&lt;/p&gt;
-
-&lt;p&gt;Hipertensão porta segmentar por trombose ou compressão da veia esplênica que passa por trás do pâncreas.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;É possível ver calcificações dos ductos por cálculos. Podem ser vistas nas radiografias de abdome.&lt;/p&gt;
-
-&lt;p&gt;Pode existir derrame pleural pâncreativo. Identificado com alta concentração de amilase (algo como 10 mil) na secreção do derrame.&lt;/p&gt;
-
-&lt;p&gt;Pancreatite autoimune: é uma doença sistemica ligada a imunoglobulina IgG4, FAN positivo, aumento difuso do pâncreas, estreitamento difuso irregular do DPP, estenose extrínseca do colédoco terminal, boa resposta a corticóides. Não é uma doença cirúrgica.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fase aguda
-    &lt;ul&gt;
-      &lt;li&gt;Observação&lt;/li&gt;
-      &lt;li&gt;Punção esvaziadora&lt;/li&gt;
-      &lt;li&gt;Drenagem percutânea&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Fase crônica
-    &lt;ul&gt;
-      &lt;li&gt;Pseudocisto - gatrotomia&lt;/li&gt;
-      &lt;li&gt;Pseudocisto - duodenostomia&lt;/li&gt;
-      &lt;li&gt;Pseudocisto - jejunostomia (alça ou Y de Roux)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A principal cirurgia de pancreatite crônica é a &lt;strong&gt;cirurgia de Puestow&lt;/strong&gt;: pancreatojejunostomia latero lateral. É baseada em descompressão, nada é ressecado.&lt;/p&gt;
-
-&lt;p&gt;Operação de Beger: nesse caso não se tira o duodeno pois parte da cabeça pancreática é preservada, junto com a cadeia vascular que irriga o duodeno.&lt;/p&gt;
-
-&lt;p&gt;Operação de Frey: uma alteração na cirurgia de Beger em que se resseca um pouco menos da cabeça pancreática, preservando o colédoco.&lt;/p&gt;
-
-&lt;p&gt;Coledocojejuno anastomose.&lt;/p&gt;
-
-&lt;p&gt;Gastrojejunostomia.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Se tirar a cabeça do pâncreas então é necessário tirar o duodeno. Isso pois, do contrário o duodeno necrosaria, uma vez que a irrigação deste vem das artérias que se originam da cabeça do pâncreas e são ressecadas junto com o pâncreas.</summary></entry></feed>
+&lt;p&gt;A terapia endoscópia pode ser feita por ressecção da mucosa ou ablação com ondas de radiofrequência. A ressecção é indicada na presença de nódulos ou irregularidades superficiais, já que permite um estudo histopatológico ainda mais focado. A ablação por radiofrequência pode ser empregada para eliminar o restante do epitélio metaplásico.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

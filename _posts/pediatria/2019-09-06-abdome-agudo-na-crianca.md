@@ -37,7 +37,7 @@ O apêncide pode ser foco de linfoma não Hodking. É por isso que **toda peça 
 
 1. Simples
 2. Supurativa
-3. ....
+3. Gangresona
 
 ## Diagnóstico
 
@@ -84,22 +84,40 @@ Febre até o 5º dia é esperado em virtude do trauma cirúrgico. Passando disso
 
 É a invaginação do intestino dentro dele mesmo levando a uma obstrução intestinal.
 
+<div class="alert aviso-green">A intussussepção é a
+invaginação do intestino
+dentro dele mesmo. A
+porção proximal é conduzida
+para dentro da porção distal
+pelo movimento peristáltico
+</div>
+
 Geralmente as invaginações são são íleo-ceco-cólicas. É necessário: 1. um desequilíbrio no peristaltismo, 2. um ponto fixo (como a válvula íleo-cecal). Na maioria dos casos a invaginação é idiopatica.
 
 Divertículo de Merckel
 
-Prevalência: é a causa mais freqyente de obstrução intestinal em lactantes e crianças maiores.
+Prevalência: é a <span class="red">causa mais frequente de obstrução intestinal em lactantes e crianças maiores</span>.
 
 História: a criança está eutrófica ("alegre e sorridente") e, de repente, sente uma  dor súbita. Outros sinais: reflexo vagal (vômito), sudorese, palidez, evacuação de muco e sangue.
 
 Etiologias: idiopática, infecção por adenovirus e rotavirus, espessamento das placas de payer......
 
-Tumoração elíptica, "salsichoide", em mesogátrio e hipogástrio. Fossa ilíaca direita vazia (sinal de Dance).
+Tumoração elíptica, "salsichoide", em mesogátrio e hipogástrio. Fossa ilíaca direita vazia (<span class="red">sinal de Dance</span>).
 
-Ao toque retal: ampola retal vazia.
+Ao toque retal: ampola retal vazia, prolapso anal da cabeça da invaginação.
 
-Investigação: o enema hidrostático é tanto tratamento como investigação. Injeta-se soro fisiológico no reto e acompanha o bloqueio com o USG. Injetando o soro e fazendo pressão pode ser possível desenvaginar as alças. Se houver uma perfuração o soro entra na cavidade peritonial.
+
+Investigação: o **enema hidrostático** é **tanto tratamento como investigação**. Injeta-se soro fisiológico no reto e acompanha o bloqueio com o USG. Injetando o soro e fazendo pressão pode ser possível desenvaginar as alças. Se houver uma perfuração o soro entra na cavidade peritonial.
 
 Enema pneumático.
 
 # Semi obstrução por ascaris
+
+Quadro clínico:
+
+* Distensão abdominal;
+* Vômitos;
+* Parada de eliminação de fezes;
+* Eliminação de Ascaris pela boca ou nariz;
+
+O tratamento é clínico, esporadicamente cirúrgico.

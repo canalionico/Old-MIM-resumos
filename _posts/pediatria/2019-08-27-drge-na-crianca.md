@@ -73,18 +73,30 @@ Hematêmese, melena, sangue oculto nas fezes e anemia ferropriva podem estar pre
 
 Laringoespasmo, induzido por refluxo, tem sido apontado como possível fator desencadeante da apnéia obstrutiva de lactentes, explicando ainda estridores recorrentes, hipóxia aguda e, possivelmente, síndrome da morte súbita (SMS).
 
-### Método de estudo
+## Método de estudo
 
 * Rotina geral: hemograma, parcial de urina, parasitológico e pesquisa de sangue oculto nas fezes.
-* Serigrafia esôfag-gastroduodenal (SEGD)
+* Serigrafia esôfago-gastroduodenal (SEGD)
 * **Phmetria** esofágica de 24 horas;
   * Principal exame na criança!
+  * pH normal varia de 5 a 7
+  * Se < 4, sugere refluxo ácido;
+  * Se > 7, sugere refluxo básico;
+  * **Índice de refluxo:** % total do tempo em que o pH foi < 4;
   * A relação entre doenças respiratórias e RGE tem sido associado a queda do **pH < 5,8** na nasofaringe verificado pela phmetria com sonda de sensor alto;
 * Endoscopia e anatomopatológico.
 
 Na DRGE, o esfincter esofágico inferior (EEI) não funciona corretamente. Será que o refluxo é fisiológico ou patológico? Para isso é necessário fazer a phmetria. Na criança a pH-metria é feita antes da endoscopia, pois nesta é necessária sedação.
 
 Se a criança tiver refluxo comprovado pela phmetria: a mãe deve ser orientada a espeçar a dieta (por exemplo, adicionando massas). O bebê deve dormir deitado.
+
+### Manometria
+
+A manometria esofágica é de difícil realização na criança, pois requer sua colaboração. Não diagnostica a presença
+de RGE, pois uma zona de alta pressão no EEI não assegura
+a ausência de refluxo. A pressão do EEI é maior que
+15mmHg, valores menores que 6mmHg podem estar relacionados ao RGE.
+
 
 ## Tratamento
 
@@ -94,7 +106,16 @@ Elevação do decúbito (**posição semi-sentada**), **fragmentação da dieta*
 
 ### Medicamentoso
 
-O objetivo é melhorar a dinâmica gastroduodenal.
+O objetivo é melhorar a dinâmica gastroduodenal. O uso de medicamentos é reservado aos casos de refluxo
+patológico. Em algumas situações podem ser usados empiricamente, por curtos períodos.
+
+#### Procinéticos
+
+Em combinação com as medidas dietéticas e posturais,
+os procinéticos são importantes ferramentas terapêuticas
+no tratamento do RGE. Determinam aumento da pressão do
+EEI, estimulam o peristaltismo esofágico e o esvaziamento
+gástrico.
 
 * Bromoprida: antagonista central e periférico da dopamina, metabolizada no fígado, excretada na urina;
   * Exige cautela quando associada às drogas atropínicas e digoxina;
@@ -103,18 +124,30 @@ O objetivo é melhorar a dinâmica gastroduodenal.
 * Domperidona: antagonista dopaminérgico, sem efeitos colaterais;
   * Tem baixa penetração através da barreira hematoencefálica, não causando reações  extrapiramidais;
   * Dose: 0,2 a 0,6 mg/kg/dose, 3 a 4x ao dia, antes das refeições e antes de deitar.
+
+#### Antiácidos
+
+São compostos que neutralizam a acidez
+do conteúdo gástrico e, conseqüentemente, aumentam a
+motilidade gástrica, mediante ação da gastrina. Aumentam
+a pressão na porção inferior do esôfago e a depuração
+esofagiana, por mecanismo independente da gastrina. São
+recomendados para o alívio sintomático em pacientes com
+esofagite leve e moderada.
+
 * AH2: bloqueiam parcialmente a secreção ácida gástrica.
   * Usar antes das refeições e ao deitar;
+  * cimetidina, ranitidina, famotidina, nizatidina.
   * Ranitidina:
     * Se < 2 meses: 2 mg/kg/dia, 12/12 hs
     * Se > 2 meses: 4 a 5 mg/kg/dia, 2 a 3 x/dia.
-* IBP: omeprazol ação prolongada.
-  * Dose: 0,7 a 3 mg/kg/dia, 1x/dia (média 2 mg/kg/dia).
+* IBP: os mais potentes inibidores de secreção ácida.
+  * Omeprazol ação prolongada.
+    * Dose: 0,7 a 3 mg/kg/dia, 1x/dia (média 2 mg/kg/dia).
 
 <div class="alert aviso-yellow">Os IBPs e AH2 devem ser usados na presença de esofagite!</div>
 
 ### Cirúrgico
-
 
 A indicação absoluta se faz quando:
 
