@@ -1,4 +1,282 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-08T21:11:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Megaesôfago e megacólom</title><link href="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon" rel="alternate" type="text/html" title="Megaesôfago e megacólom" /><published>2019-09-08T00:00:00-03:00</published><updated>2019-09-08T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/megaesofago-e-megacolon</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon">&lt;h2 id=&quot;doença-de-chagas&quot;&gt;Doença de Chagas&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-10T17:05:17-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cirurgia do cólon e reto</title><link href="http://localhost:4000/cirurgia/cirugia-do-colon-e-reto" rel="alternate" type="text/html" title="Cirurgia do cólon e reto" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/cirugia-do-colon-e-reto</id><content type="html" xml:base="http://localhost:4000/cirurgia/cirugia-do-colon-e-reto">&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
+
+&lt;p&gt;O reto superior e inferior possuem drenagens linfáticas diferentes, o que altera a conduta na hora de fazer uma ressecção.&lt;/p&gt;
+
+&lt;p&gt;No reto inferior a drenagem linfática é muito desfavorável, a cirurgia tem de ser mais alargada.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Neoplasias&lt;/li&gt;
+  &lt;li&gt;Tumores benignos&lt;/li&gt;
+  &lt;li&gt;Colites Popiloses múltiplas&lt;/li&gt;
+  &lt;li&gt;Doença divertiulcar&lt;/li&gt;
+  &lt;li&gt;Megacolon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nas neoplasias do cólon e do reto, deve-se pesquisar por metástases no figado e pulmão.&lt;/p&gt;
+
+&lt;p&gt;Quando o paciente já apresenta anorexia, astenia e perda de peso, o diagnóstico já é tardio.&lt;/p&gt;
+
+&lt;p&gt;O IG é um reservatório de fezes e exige um preparo antes da cirurgia para a sua remoção. Além disso, a antibioticoterapia profilática é obrigatória antes das cirurgias.&lt;/p&gt;
+
+&lt;h2 id=&quot;remoção-das-fezes&quot;&gt;Remoção das fezes&lt;/h2&gt;
+
+&lt;h3 id=&quot;preparo-intestinal-mecânico&quot;&gt;Preparo intestinal mecânico:&lt;/h3&gt;
+
+&lt;p&gt;Pode ser feita por enema. O líquido alcança até o colon descendente. Não chega a limpar o colon ascendente ou transverso.&lt;/p&gt;
+
+&lt;p&gt;Lavagem gastrointestinal total: começa ingerindo líquido oral, com soluçõẽs preparadas, que vai limpar todo os TGI. Após toda a lavagem completa o líquido eliminado pelo ẫnus mantem uma coloração amarelada (semelhante à urina) devido à secreção contínua de bile no TGI.&lt;/p&gt;
+
+&lt;p&gt;Efeitos colaterais: nauseas, distensão, diarreia, perda da barreira mucosa, translocação bacteriana, distubrios hidroeletoliticos, acidose metabolica, hipertensão e taquicardia.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diminui:
+    &lt;ul&gt;
+      &lt;li&gt;Contaminação&lt;/li&gt;
+      &lt;li&gt;Deiscências&lt;/li&gt;
+      &lt;li&gt;Fístulas&lt;/li&gt;
+      &lt;li&gt;Reoperações&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;antibioticoterapia-profilática&quot;&gt;Antibioticoterapia profilática&lt;/h3&gt;
+
+&lt;p&gt;Principalmente focando em gram negativos e anaeróbios. Pode ser iniciado no pré-operatório, durante a indução anestésia, durante a cirúrgia ou até no pós-operatório.&lt;/p&gt;
+
+&lt;p&gt;Artigo: mechanical bowel preparation for elective colorectal surgery (Guenaga KF, Chochrane, 2011)&lt;/p&gt;
+
+&lt;p&gt;Benefit of mechanicaml bowel preparation prior to elective colorectal surgery: current insights (Murray AC, 2016)&lt;/p&gt;
+
+&lt;p&gt;The role of oral antibiotics prophylaxis in prevention of surgical site infection in colorrectal surgery (Koullouros M, 2017)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Como:
+    &lt;ul&gt;
+      &lt;li&gt;Neomicina + eritromicina&lt;/li&gt;
+      &lt;li&gt;Metronidazol + ciprofloxacino&lt;/li&gt;
+      &lt;li&gt;Metronidazol, Cefoxitina, aminoglicosídeo + clindamicina.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;história-natural&quot;&gt;História natural&lt;/h2&gt;
+
+&lt;p&gt;Das neoplasias do colon:&lt;/p&gt;
+
+&lt;p&gt;A histótia natural é pouco sintomática.&lt;/p&gt;
+
+&lt;h2 id=&quot;cirurgias&quot;&gt;Cirurgias&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Colostomias&lt;/li&gt;
+  &lt;li&gt;Reconstrução do trânsito&lt;/li&gt;
+  &lt;li&gt;Colectomias&lt;/li&gt;
+  &lt;li&gt;Ressecções do reto&lt;/li&gt;
+  &lt;li&gt;Proctocolectomia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;colostomia&quot;&gt;Colostomia&lt;/h3&gt;
+
+&lt;p&gt;Uma das mais frequentes, um procedimento relativamente simples que desvia o transito intestinal na parte distal da colostomia. Pode ser temporária ou definitiva.&lt;/p&gt;
+
+&lt;p&gt;Tem diversos tipos: colostomia em alça, cortando o colo e inserindo as duas “bocas” na parede abdmonial. Simplicidade para fazer e para reconstruir. (“colostomia em duas bocas”)&lt;/p&gt;
+
+&lt;p&gt;Fistula mucosa: uma colostomia do reto que apenas elimina muco e sangue, enquanto outra colostomia terminal elmina as fezes. Necessário quando se resseca um segmento do colon preservando o reto.&lt;/p&gt;
+
+&lt;p&gt;Colostomia a Hartman: tem que fechar o coto distal do reto e fazer uma boca de colostomia do colon distal.&lt;/p&gt;
+
+&lt;p&gt;Tem em torno de 400 mil pessoas no Brasil vivendo com colostomia.&lt;/p&gt;
+
+&lt;p&gt;Quando fechar a colostomia e reconstruir o trânsito? Quando o paciente estiver apto a uma nova cirurgia e quando a indicação da colostomia já tiver sido resolvida.&lt;/p&gt;
+
+&lt;h3 id=&quot;colectomias&quot;&gt;Colectomias&lt;/h3&gt;
+
+&lt;p&gt;Proctocolectomia retira todo o colon mais o ânus e o reto.&lt;/p&gt;
+
+&lt;p&gt;Acessos cirurgicos: videolaparoscopia, colonoscopia (como a alça de polipectomia com bisturi elétrico), laparoscopia com robô.&lt;/p&gt;
+
+&lt;h1 id=&quot;principios-oncologicos&quot;&gt;Principios oncologicos&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Remover o tumor&lt;/li&gt;
+  &lt;li&gt;Margem de segurança (4-6 cm)&lt;/li&gt;
+  &lt;li&gt;Linfadenectomia radical (colon)&lt;/li&gt;
+  &lt;li&gt;Remover metástases&lt;/li&gt;
+  &lt;li&gt;Reconstruir o trânsito&lt;/li&gt;
+  &lt;li&gt;Controle vascular&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Quando resseca o reto superior é necessário remover o sigmoide também. No reto inferior é necessário remover também o ânus e o paciente fica com colostomia definitiva.&lt;/p&gt;
+
+&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Anatomia</summary></entry><entry><title type="html">Doença inflamatória intestinal</title><link href="http://localhost:4000/gastroenterologia/colite-ulcerativa" rel="alternate" type="text/html" title="Doença inflamatória intestinal" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/colite-ulcerativa</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/colite-ulcerativa">&lt;p&gt;A endoscopia vai até a segunda porção duodenal. A colonoscopia vai até uns 15 cm do íleo distal. Ou seja, principalmente o jejuno e o íleo proximal não pode ser visualizado. É justamente nestas porções que ocorre a doença de Chron.&lt;/p&gt;
+
+&lt;p&gt;São dois grandes grupos de doenças inflamatória intestinais: Chron e retocolite ulcerativa.&lt;/p&gt;
+
+&lt;p&gt;Fisiopatologia da doença inflamatória intestinal: as IL-5 e IL-10 estão mais associadas à RCU (Th2), enquanto que IL-1, IL-12, TNFa e IFN-g estão mais associados ao Crohn (Th1).&lt;/p&gt;
+
+&lt;p&gt;A anemia pode aparecer tanto nos pacientes com Crohn como na RCU. Pode ser devido à hemorragia, caracterizando uma &lt;strong&gt;anemia microcítica&lt;/strong&gt;. Contudo, na Crohn também pode haver &lt;strong&gt;anemia megaloblástica&lt;/strong&gt; por deficiência de B12.&lt;/p&gt;
+
+&lt;h1 id=&quot;retocolite-ulcerativa-idiopática&quot;&gt;Retocolite ulcerativa idiopática&lt;/h1&gt;
+
+&lt;p&gt;É a doença inflamatória crônica da mucosa limitada ao cólon. Característicamente envolve o reto e pode se extender simetricamente por todo o cólon. 20% dos pacientes terão pancolite. &lt;span class=&quot;red&quot;&gt;Costuma começar pelo reto e têm caráter em ascensão pelo cólom&lt;/span&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;A história falimiar aumenta o risco em 3 a 20 vezes. A concordância entre gêmeos é de 6 a 10%. Alta incidência entre judeus e possui correlaçãocom o fumo e a colite ulcerativa.&lt;/p&gt;
+
+&lt;p&gt;Aumenta a incidência de CA colorretal nesse grupo de pacientes. O tempo e extensão da doença são proporcionais ao risco.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;Acometimento inflamatório é contínuo e simpetrico&lt;/p&gt;
+
+&lt;p&gt;Sua etiologia é indeterminada, por isso o “idiopática”. Envolve uma desregulação do sistema imune intestinal, com componentes ambientais, ifecciosos e genéticos.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;É uma doença de, basicamente, mucosa e submucosa.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diarréia sanguinolenta (sangue vivo - hematoquezia), tenesmo, mucorréia;&lt;/li&gt;
+  &lt;li&gt;Dor abdominal, perda de peso, anorexia e náusea;&lt;/li&gt;
+  &lt;li&gt;Doença leve a moderada: exame normal;&lt;/li&gt;
+  &lt;li&gt;Doença grave: febre, queda do estado geral, abdomen doloroso.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O acometimento pode ser leve, moderado ou intenso.&lt;/p&gt;
+
+&lt;p&gt;Diag. Diferencial: Crohn, Enterocolite infeciosa, CA de cólin, doença diverticular, úlcera retal solitária, sindrome do intestino irritável.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exames laboratoriais
+    &lt;ul&gt;
+      &lt;li&gt;PCR&lt;/li&gt;
+      &lt;li&gt;VSH&lt;/li&gt;
+      &lt;li&gt;p-ANCA (mais elevado na RCU) e ASCA&lt;/li&gt;
+      &lt;li&gt;Calprotectina fetal: é uma proteína produzida no processo inflamatório do colon. Indica lesão de mucosa colônica.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Colonoscopia e retossigmoidoscopia: não fazer na fase aguda do quadro clínico! muito menos o enema opaco. Têm que saber a hora certa de fazer.&lt;/li&gt;
+  &lt;li&gt;Histologia&lt;/li&gt;
+  &lt;li&gt;Radiologia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;histologia&quot;&gt;Histologia&lt;/h3&gt;
+
+&lt;p&gt;O reto está envolvido, não ocorrem fístulas, perda do padrão vascular, lesão com padrão contínuo (padrão em &lt;em&gt;coblestone&lt;/em&gt;), eritema difuso, granularidade da mucosa.&lt;/p&gt;
+
+&lt;p class=&quot;section&quot;&gt;RX simples&lt;/p&gt;
+&lt;p&gt;Nas formas graves é possível ver encurtamento do órgão e perda de haustrações e alterações do relevo mucoso.&lt;/p&gt;
+
+&lt;p&gt;Sinais de complicação: dilatação e perfuração (&lt;strong&gt;megacólon tóxico&lt;/strong&gt;) e pneumoperitônio. Perfuração, sendo visível o sinal de  Jobert (pneumoperitônio).&lt;/p&gt;
+
+&lt;h3 id=&quot;enema-opaco-com-duplo-contraste&quot;&gt;Enema opaco com duplo contraste&lt;/h3&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Induzir e manter a remissão. As drogas mais usadas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aminosalicilatos (5ASA)
+    &lt;ul&gt;
+      &lt;li&gt;Sulfassalazina&lt;/li&gt;
+      &lt;li&gt;Mesalazina&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Corticóides: não são drogas de manutenção
+    &lt;ul&gt;
+      &lt;li&gt;Prednisona&lt;/li&gt;
+      &lt;li&gt;Hidrocortisona/metilprednisolona&lt;/li&gt;
+      &lt;li&gt;Enema de hidrocortisona, espuma de cortisona&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Imunossupressores: leva 3 meses para fazer efeito. Logo, não deve ser usada para tratamento de crise.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Diferentemente do Crohn, a RCU pode ser curada cirurgicamente com a ressecção do cólon.&lt;/p&gt;
+
+&lt;p&gt;Indicações de cirurgia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Agudização grave sem resposta ao tratamento medicamrntoso&lt;/li&gt;
+  &lt;li&gt;Complicações agudas&lt;/li&gt;
+  &lt;li&gt;Displasia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vigilância&quot;&gt;Vigilância&lt;/h2&gt;
+
+&lt;p&gt;Devido ao risco de câncer, o rastreio é recomendado:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Colonoscopia anual após 8 a 10 anos de doença
+    &lt;ul&gt;
+      &lt;li&gt;Risco de CA de cólon aumenta 1% ao ano após 10 anos de doença extensa;&lt;/li&gt;
+      &lt;li&gt;Risco aumenta 1% após 30 anos de doença distal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
+
+&lt;p&gt;Expectativa de vida igual à da população geral. O maior problema está na morbidade. 80% têm doença crônica recidivante, 15% vão ter uma colite crônica com indicação de colectomia e 5% vão ter indicação de colectomia já na primeira crise.&lt;/p&gt;
+
+&lt;h1 id=&quot;doença-de-chron&quot;&gt;Doença de Chron&lt;/h1&gt;
+
+&lt;p&gt;Normalmente não acomete o intestino grosso. &lt;span class=&quot;red&quot;&gt;Costuma poupar o reto&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Caráter inflamatório assimétrico.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Acomete todas as camadas do intestino (transmural).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;O granuloma fora do intestino pode ser uma marca da doença de Crohcn.&lt;/p&gt;
+
+&lt;p&gt;Maior risco de estenose do que a RCU.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dor&lt;/li&gt;
+  &lt;li&gt;Febre&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fístulas são muito presentes. Fístulas colo-vesicais podem cursar com &lt;strong&gt;cistites&lt;/strong&gt; de repetição, &lt;strong&gt;fecalúria&lt;/strong&gt; e &lt;strong&gt;pneumatúria&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Esses doentes têm mais chance de desenvolver colelitíase, pois altera a absorção de sais biliares. A bile, por consequência, se torna mais litogênica.&lt;/p&gt;
+
+&lt;p&gt;A tuberculose intestinal pode ser um diagnóstico diferencial com a doença de crohn. A melhor diferenciação é o histopatológico. O granuloma do Crhon é não caseoso.&lt;/p&gt;
+
+&lt;p&gt;O paciente com Crohn que faz cirurgia evolui muito mal.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">A endoscopia vai até a segunda porção duodenal. A colonoscopia vai até uns 15 cm do íleo distal. Ou seja, principalmente o jejuno e o íleo proximal não pode ser visualizado. É justamente nestas porções que ocorre a doença de Chron.</summary></entry><entry><title type="html">Choque</title><link href="http://localhost:4000/intensiva/choque" rel="alternate" type="text/html" title="Choque" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/intensiva/choque</id><content type="html" xml:base="http://localhost:4000/intensiva/choque">&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Critérios de &lt;em&gt;Quick SOFA&lt;/em&gt; (&lt;em&gt;qSOFA&lt;/em&gt;)&lt;sup id=&quot;fnref:consenso&quot;&gt;&lt;a href=&quot;#fn:consenso&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Respiratory rate ≥ 22/min&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Altered mentation&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;PAS ≤ 100 mm Hg&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:consenso&quot;&gt;
+      &lt;p&gt;s &lt;a href=&quot;#fnref:consenso&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Critérios de Quick SOFA (qSOFA)1 Respiratory rate ≥ 22/min Altered mentation PAS ≤ 100 mm Hg s &amp;#8617;</summary></entry><entry><title type="html">Megaesôfago e megacólom</title><link href="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon" rel="alternate" type="text/html" title="Megaesôfago e megacólom" /><published>2019-09-08T00:00:00-03:00</published><updated>2019-09-08T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/megaesofago-e-megacolon</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon">&lt;h2 id=&quot;doença-de-chagas&quot;&gt;Doença de Chagas&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Formas de transmissão
@@ -1255,1232 +1533,4 @@ iniciar terapia com IBP. Caso o paciente necessite retomar a terapia anti-inflam
 &lt;ul&gt;
   &lt;li&gt;PFH normais ou com alterações discretas de FA, GGT e transaminases;&lt;/li&gt;
   &lt;li&gt;CA 19.9 Aumentado&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Cirrose hepática</title><link href="http://localhost:4000/gastroenterologia/cirrose-hepatica" rel="alternate" type="text/html" title="Cirrose hepática" /><published>2019-09-03T00:00:00-03:00</published><updated>2019-09-03T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/cirrose-hepatica</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/cirrose-hepatica">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#colangiopatia-biliar-primária&quot; id=&quot;markdown-toc-colangiopatia-biliar-primária&quot;&gt;Colangiopatia biliar primária&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#colangiopatia-esclerosante-primária&quot; id=&quot;markdown-toc-colangiopatia-esclerosante-primária&quot;&gt;Colangiopatia esclerosante primária&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hepatite-medicamentosa&quot; id=&quot;markdown-toc-hepatite-medicamentosa&quot;&gt;Hepatite medicamentosa&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#quantificação-do-grau-de-fibrose&quot; id=&quot;markdown-toc-quantificação-do-grau-de-fibrose&quot;&gt;Quantificação do grau de fibrose&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É uma doença crônica caracterizada pela formação de nódilos com consequente desorganização da arquitetura lobular e vascular. O fígado é um órgão com uma boa capacidade de se regenerar. Porém, com sucessivas agressões, começa a se instalar um processo cicatricial com substituição por colágeno (tecido conjuntivo). A cirrose leva em torno de 20 anos para se estabelecer. O hepatocarcinoma seria o último estágio do dano hepático crônico.&lt;/p&gt;
-
-&lt;p&gt;As etiologias podem ser: metabólica, viral, alcóolica, biliar, criptogênica (idiopática), medicamentosa e auto-imune.&lt;/p&gt;
-
-&lt;p&gt;A síndrome metabólica envolve dislipidemia, obesidade, resistência insulínica, doença hepática gordurosa.&lt;/p&gt;
-
-&lt;p&gt;Doença hepática gordurosa não alcóolica&lt;/p&gt;
-
-&lt;p&gt;DHGNA. 20% da população possio esteatose hA síndrome metabólica envolve dislipidemia, obesidade, resistência insulínica, doença hepática gordurosa.
-epática (uma doença inicialmente benigna).
-NASH: &lt;em&gt;non alcoolic steatosis hepatitis&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Não tem um exame, que não a biópsia, que consiga diferenciar a esteatose da esteato-hepatite. As duas condições possuem prognóstico diferente.&lt;/p&gt;
-
-&lt;p&gt;Hoje, pacientes com doença hepática alcóolica só fazem transplante de fígado se passarem os 6 meses anteriores à cirúrgia em abstinência.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;O infiltrado inflamatório crônico proporciona a  liberação de interleucinas, que estimula a proliferação de fibroblastos….&lt;/p&gt;
-
-&lt;p&gt;A irrigação dos hepatócitos é feita por dois sistemas: 70% do sangue que irriga o fígado é portal, 30% é arterial. Na cirrose ocorre uma inversão dessa razão, a maior parte da perfusão começa a ser arterial, pois a veia hepática consegue ser impulsionada pela contração do ventrículo esquerdo. Contudo, o fígado necessita nos nutrientes trazidos do intestino pela veia porta. Essa inversão do fluxo começa a originar uma capilarização sinusoidal e uma arterialização hepática. Começam a se formas &lt;em&gt;shunts&lt;/em&gt; instra-hepáticos.&lt;/p&gt;
-
-&lt;p&gt;O sangue começa a desviar.&lt;/p&gt;
-
-&lt;p&gt;Com a fibrose, formam-se nódulos e septos nos lóbulos hepáticos. As áreas de fibrose dificultam a passagem e drenagem do sangue, o que vai aumentandoa pressão na veia porta e causando a &lt;span style=&quot;color:red&quot;&gt;hipertensão portal&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;A tendência do doente é ir desenvolvendo hipotensão, para compensar a hipertensão porta.&lt;/p&gt;
-
-&lt;p&gt;O metabolismo hormonal é alterado e o metabolismo de estrogênios fica comprometido. Por isso homens podem desenvolver ginecomastia.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;Na esquistossomose a hipertensão portal é pré-sinusoidal, pois interrompe o fluxo antes de chegar nos sinudoides. A HP da esquistossomose é semelhante à da cirrose é semelhante mas a fisiopatologia é diferente.&lt;/div&gt;
-
-&lt;h3 id=&quot;colangiopatia-biliar-primária&quot;&gt;Colangiopatia biliar primária&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Prurido&lt;/li&gt;
-  &lt;li&gt;Em 90% dos casos no sexo feminino&lt;/li&gt;
-  &lt;li&gt;BT, FA e GGT elevadas&lt;/li&gt;
-  &lt;li&gt;AMA (anticorpo anti mitocôndria) positivo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;colangiopatia-esclerosante-primária&quot;&gt;Colangiopatia esclerosante primária&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Maior no sexo masculino&lt;/li&gt;
-  &lt;li&gt;25 a 45 anos&lt;/li&gt;
-  &lt;li&gt;BT, FA e GGT elevadas&lt;/li&gt;
-  &lt;li&gt;Colite ulcerativa (50 a 75%) dos casose ANCA positivo (80%)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;hepatite-medicamentosa&quot;&gt;Hepatite medicamentosa&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Antinflamatórios;&lt;/li&gt;
-  &lt;li&gt;Antifúngicos;&lt;/li&gt;
-  &lt;li&gt;Metrotexate;&lt;/li&gt;
-  &lt;li&gt;Alfa-metildopa: hoje em dia só se usa na obstetrícia;&lt;/li&gt;
-  &lt;li&gt;Tuberculostáticos: como a isoniazida.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ginecomastia&lt;/li&gt;
-  &lt;li&gt;Atrofia testicular&lt;/li&gt;
-  &lt;li&gt;Aranhas vasculares&lt;/li&gt;
-  &lt;li&gt;Etitema palmar&lt;/li&gt;
-  &lt;li&gt;Circulação colateral&lt;/li&gt;
-  &lt;li&gt;Esplenomegalia&lt;/li&gt;
-  &lt;li&gt;Ascite&lt;/li&gt;
-  &lt;li&gt;Flapping&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;complicações&quot;&gt;Complicações&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hemorragia digestiva&lt;/li&gt;
-  &lt;li&gt;Ascite e edema&lt;/li&gt;
-  &lt;li&gt;Peritonite bacteriana espontânea (PBE)&lt;/li&gt;
-  &lt;li&gt;Síndrome hepato-renal&lt;/li&gt;
-  &lt;li&gt;Síndrome hepato-pulmonar&lt;/li&gt;
-  &lt;li&gt;Encefalopatia&lt;/li&gt;
-  &lt;li&gt;Hepatocarcinoma&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;O &lt;span style=&quot;color:orange&quot;&gt;padrão ouro para o diagnóstico histológico é a biópsia&lt;/span&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;quantificação-do-grau-de-fibrose&quot;&gt;Quantificação do grau de fibrose&lt;/h3&gt;
-
-&lt;p&gt;APRI, FIB-4, Elastografia, MELD, Child-Turcotte-Pugh&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hepatites virais</title><link href="http://localhost:4000/gastroenterologia/hepatites" rel="alternate" type="text/html" title="Hepatites virais" /><published>2019-09-03T00:00:00-03:00</published><updated>2019-09-03T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/hepatites</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/hepatites">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-prodrômica-dias&quot; id=&quot;markdown-toc-fase-prodrômica-dias&quot;&gt;Fase prodrômica (dias)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-ictérica-semanas&quot; id=&quot;markdown-toc-fase-ictérica-semanas&quot;&gt;Fase Ictérica (semanas)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-de-convalescência-semanas&quot; id=&quot;markdown-toc-fase-de-convalescência-semanas&quot;&gt;Fase de Convalescência (semanas)&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#laboratório&quot; id=&quot;markdown-toc-laboratório&quot;&gt;Laboratório&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hepatite-a&quot; id=&quot;markdown-toc-hepatite-a&quot;&gt;Hepatite A&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-1&quot; id=&quot;markdown-toc-quadro-clínico-1&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-1&quot; id=&quot;markdown-toc-diagnóstico-1&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#vacina&quot; id=&quot;markdown-toc-vacina&quot;&gt;Vacina&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hepatite-b&quot; id=&quot;markdown-toc-hepatite-b&quot;&gt;Hepatite B&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#transmissão&quot; id=&quot;markdown-toc-transmissão&quot;&gt;Transmissão&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-2&quot; id=&quot;markdown-toc-diagnóstico-2&quot;&gt;Diagnóstico&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#evolução-sorológica&quot; id=&quot;markdown-toc-evolução-sorológica&quot;&gt;Evolução sorológica&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#guia-de-dianóstico&quot; id=&quot;markdown-toc-guia-de-dianóstico&quot;&gt;Guia de dianóstico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#mutações-na-região-pré-core&quot; id=&quot;markdown-toc-mutações-na-região-pré-core&quot;&gt;Mutações na região pré-core&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#biópsia&quot; id=&quot;markdown-toc-biópsia&quot;&gt;Biópsia&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#padrão-clínico&quot; id=&quot;markdown-toc-padrão-clínico&quot;&gt;Padrão clínico&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#complicações-1&quot; id=&quot;markdown-toc-complicações-1&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hepatite-c&quot; id=&quot;markdown-toc-hepatite-c&quot;&gt;Hepatite C&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#epidemiologia-1&quot; id=&quot;markdown-toc-epidemiologia-1&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-2&quot; id=&quot;markdown-toc-quadro-clínico-2&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-3&quot; id=&quot;markdown-toc-diagnóstico-3&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-3&quot; id=&quot;markdown-toc-tratamento-3&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É a inflamação do fígado que possui várias etiologias, como virais, bacterianas, alcóolica, etc. &lt;em&gt;A&lt;/em&gt; e &lt;em&gt;E&lt;/em&gt; são transmitidas principalmente por água e alimentos. A &lt;em&gt;B&lt;/em&gt; por transmissão vertical, principalmente. Existem as hepatites &lt;em&gt;A, B, C, D, e E&lt;/em&gt;, que são as mais importantes.&lt;/p&gt;
-
-&lt;p&gt;Para todas as hepatites virais a notificação é obrigatória!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hepatite crônica é aquela que supera 6 meses (180 dias)!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;Hostologicamente, a inflamação do fígado é caracterizada pela infiltração de leucócitos (principalmente o padrão &lt;em&gt;linfo-mono&lt;/em&gt;). O padrão que
-se estabelece é Panlobular, ou seja, todas
-as partes de cada um dos lóbulos hepáticos
-estão envolvidas. Em geral, esta destruição tem início nos hepatócitos próximos aos espaços-porta: é o
-&lt;span class=&quot;red&quot;&gt;padrão Periportal&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Em quadros graves, a destruição dos hepatócitos pode seguir um padrão que chamamos &lt;strong&gt;“em ponte”&lt;/strong&gt; ou &lt;strong&gt;“necrose subaguda”&lt;/strong&gt;, estendendo-se do
-espaço-porta para a veia central, ou mesmo de uma veia central para outra.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;Diferentemente, a hepatite alcoólica apresenta um padrão de inflamação&lt;span class=&quot;red&quot;&gt;centrolobular&lt;/span&gt; e preferencialmente por leucócitos &lt;span class=&quot;orange&quot;&gt;polimorfonucleares&lt;/span&gt; (infiltração neutrofílica) e não por mononucleares (linfócitos/monócitos) como na viral.&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Tempo de incubação:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hepatite A: 4 semanas (5-45 dias)&lt;/li&gt;
-  &lt;li&gt;Hepatite E: 5-6 semanas (14-60 dias)&lt;/li&gt;
-  &lt;li&gt;Hepatite C: 7 semanas (15-160 dias)&lt;/li&gt;
-  &lt;li&gt;Hepatite B e D: 8-12 semanas (30 dias a 6 meses)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;O quadro clínico é muito semelhante entre
-os diversos tipos de vírus, o que muda é o
-período de incubação de cada um deles. A
-apresentação clássica é Trifásica:&lt;/p&gt;
-
-&lt;h3 id=&quot;fase-prodrômica-dias&quot;&gt;Fase prodrômica (dias)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Síndrome gripal leve:
-    &lt;ul&gt;
-      &lt;li&gt;febre em 75% dos casos (principalmente na &lt;em&gt;A&lt;/em&gt; e &lt;em&gt;E&lt;/em&gt; que raramente pode chegar a 39,5 graus C)&lt;/li&gt;
-      &lt;li&gt;Sintomas gastrointestinais inespecíficos (fadiga, anorexia, náuseas, vômitos, perversão do paladar)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Desconforto no QSD&lt;/li&gt;
-  &lt;li&gt;Manifestações imunomediadas (mais comuns na hepatite B: glomerulonefrite, rash, esplenomegalia).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em geral dois a sete dias&lt;/p&gt;
-
-&lt;h3 id=&quot;fase-ictérica-semanas&quot;&gt;Fase Ictérica (semanas)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Icterícia (o mais comum é não haver)&lt;/li&gt;
-  &lt;li&gt;Colúria (precede a icterícia, geralmente  por 1 a 5 dias)&lt;/li&gt;
-  &lt;li&gt;Acolia fecal&lt;/li&gt;
-  &lt;li&gt;Prurido&lt;/li&gt;
-  &lt;li&gt;Melhora dos sintomas prodrômicos (à exceção dos gastrointestinais que podem até se agravar).&lt;/li&gt;
-  &lt;li&gt;Dor em HD e hepatomegalia dolorosa&lt;/li&gt;
-  &lt;li&gt;Achados incomuns ao exame: aranhas vasculares (telangiectasias), adenopatia cervical, esplenomegalia (10-20% dos casos).&lt;/li&gt;
-  &lt;li&gt;Obs.: existe &lt;strong&gt;hepatite viral aguda sem icterícia&lt;/strong&gt;? Sim! Aliás, &lt;strong&gt;é o mais comum&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fase-de-convalescência-semanas&quot;&gt;Fase de Convalescência (semanas)&lt;/h3&gt;
-
-&lt;p&gt;Melhora clínica lenta e progressiva de todos os sinais e sintomas. Varia de 2 a 12 semanas de duração. A regressão clinico-laboratorial completa é esperada após um
-a dois meses nos casos de hepatite A e E e
-três a quatro meses após o aparecimento da
-ictérica nos casos autolimitados de hepatite
-B e C.&lt;/p&gt;
-
-&lt;h2 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;red&quot;&gt;Elevação acentuada das transaminases&lt;/span&gt; – em geral mais de dez vezes o valor de referência (&lt;strong&gt;frequentemente &amp;gt; 1.000 U/L&lt;/strong&gt;), predominando a &lt;strong&gt;ALT (TGP)&lt;/strong&gt;;
-    &lt;ul&gt;
-      &lt;li&gt;Começa antes mesmo da fase ictérica;&lt;/li&gt;
-      &lt;li&gt;Não há uma correlação adequada entre transaminases e grau de lesão hepática&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Icterícia à custa de &lt;strong&gt;BD&lt;/strong&gt; e &lt;strong&gt;bilirrubinúria&lt;/strong&gt;;
-    &lt;ul&gt;
-      &lt;li&gt;A persistência de níveis elevados de bilirrubina ao longo da doença é um sinal de mau prognóstico.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Hemograma: normal ou com &lt;span class=&quot;green&quot;&gt;leucopenia&lt;/span&gt; discreta e &lt;span class=&quot;red&quot;&gt;linfocitose&lt;/span&gt; (compatível com infecção viral).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A &lt;strong&gt;biópsia&lt;/strong&gt; hepática não está indicada. Caso fosse realizada, mostraria: &lt;strong&gt;infiltração mononuclear&lt;/strong&gt; (lin-
-fócitos) &lt;span class=&quot;red&quot;&gt;panlobular&lt;/span&gt; e dos espaços-porta, degeneração eosinofílica apoptótica de hepatócitos
-(&amp;lt;span class=”blue”corpúsculos de Councilman&amp;lt;/span&amp;gt;). Na dependência
-da gravidade, podem ocorrer diversos graus de necrose: em “saca-bocado” (piecemeal/hepatite de interface), “em ponte” ou maciça.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;O diagnóstico de uma hepatite viral aguda
-exige a &lt;strong&gt;sorologia viral&lt;/strong&gt; para os principais vírus hepatotrópicos. A biópsia só é realizada se o diagnóstico permanecer incerto ou for necessário alguma decisão terapêutica.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hepatite Aguda:&lt;/strong&gt; 4 marcadores = HBsAg, IgM anti-HBc, IgM anti-HAV e anti-HCV;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hepatite Crônica:&lt;/strong&gt; 2 marcadores = HBsAg e anti-HCV.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Suporte&lt;/strong&gt; – repouso relativo e dieta hipercalórica.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Terapia específica indicada sempre nas:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Hepatite C aguda&lt;/strong&gt; (interferon ± ribavirina)&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Casos graves de hepatite B&lt;/strong&gt; (drogas orais como a lamivudina ou tenofovir).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Hepatite fulminante&lt;/li&gt;
-  &lt;li&gt;Cronificação&lt;/li&gt;
-  &lt;li&gt;Manifestações extra-hepáticas autoimunes&lt;/li&gt;
-  &lt;li&gt;Hepatite recorrente&lt;/li&gt;
-  &lt;li&gt;Síndrome colestática&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h1 id=&quot;hepatite-a&quot;&gt;Hepatite A&lt;/h1&gt;
-
-&lt;p&gt;É um vírus de RNA com &lt;span style=&quot;color:orange&quot;&gt;transmissão oral-fecal&lt;/span&gt;, excretado nas fezes. Ele não evolui para cronicidade, sendo uma doença autoresolutiva e com cura em 99% dos casos, e a sua incidência é maior em crianças.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;Acomete mais a faixa etária entre 5 e 14 anos. Se dá por transmissão oral-fecal. As transmissões sexuais e por transfusão são raríssimas.&lt;/p&gt;
-
-&lt;p&gt;Esta é a única das hepatites que a prevenção exige não troca de toalhas, talheres, etc. Os meios de transmissão incluem fômites, interpessoal, alimentos mal preparados, água, hortaliças, sexo oral, etc. Raramente ocorre transmissão parenteral.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;Na maioria das vezes simula uma “gripe”. Pode se apresentar nas formas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Assintomática: mais comum&lt;/li&gt;
-  &lt;li&gt;Sintomática clássica: trifásica (prodrômica, ictérica, covalescênça);&lt;/li&gt;
-  &lt;li&gt;Colestática: padrão compatível com obstrução biliar;&lt;/li&gt;
-  &lt;li&gt;Recidivante: 2 ou mais quadros de hepatite aguda em 2 a 3 meses;&lt;/li&gt;
-  &lt;li&gt;Fulminante: rara.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A grande maioria das formas evoluem para cura, a exceção da fulminante que é extremamente grave.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-red&quot;&gt;Ela nunca cronifica!&lt;/div&gt;
-
-&lt;p&gt;É necessário isolar os acometidos por 15 dias (MS) ou até uma semana após o surgimento da icterícia.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico-1&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;Consiste no achado de Anti-HVA IgM!&lt;/p&gt;
-
-&lt;p&gt;A viremia do HAV é muito rápida, não há tempo suficiente para detectar esse antígeno no sangue e fazer a sorologia. A forma de avaliar a infecção envolve a detecção dos anticorpos. A detecção do anticorpo IgM anti-HAV indica uma infecção aguda. Já a fração IgG anti-HAV indica uma infecção passada já curada. Na verdade nós não avaliamos a infecção, nós avaliamos o estado da memória imunológica. O RNA viral também pode ser detectado nas fezes por PCR, mas isso é mais para pesquisas.&lt;/p&gt;
-
-&lt;p&gt;Resolvido o quadro de hepatite A, fica no sangue um marcador – o &lt;strong&gt;Anti-HAV (IgG)&lt;/strong&gt; – por período longo
-e indeterminado.&lt;/p&gt;
-
-&lt;p&gt;Na maioria das
-vezes, quando surgem os sintomas clínicos, o
-vírus já não pode mais ser encontrado (sangue
-ou fezes). A fase de multiplicação viral e viremia
-– fase contagiosa – ocorre semanas antes de
-qualquer sintoma, permanecendo no máximo
-até poucos dias após o início da icterícia.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Consiste em repouso e medicações sintomáticas.&lt;/p&gt;
-
-&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
-
-&lt;p&gt;excelente, e não existem sequelas. A doença traz imunidade
-permanente, quem teve hepatite A uma vez nunca mais a terá. No entanto, adolescentes mais velhos e adultos, imunodeprimidos e portadores de hepatopatias podem fazer formas mais graves.&lt;/p&gt;
-
-&lt;h3 id=&quot;vacina&quot;&gt;Vacina&lt;/h3&gt;
-
-&lt;p&gt;A vacinação foi introduzida no SUS em 2014.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HAVRIX e VAQTA&lt;/li&gt;
-  &lt;li&gt;TWINRIX&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A profilaxia pré-exposição pode ser feita usando imunoglobulina ou vacina.&lt;/p&gt;
-
-&lt;p&gt;A pós-exposição envolve, também, a imunoglobulina e a vacina.&lt;/p&gt;
-
-&lt;h1 id=&quot;hepatite-b&quot;&gt;Hepatite B&lt;/h1&gt;
-
-&lt;p&gt;É o único vírus de &lt;span style=&quot;color:green&quot;&gt;DNA&lt;/span&gt;, com uma partícula de DANE de 42nm (maior comparada aos demais). Mesmo assim, ainda realiza transcrição reversa de partículas de RNA produzidos na célula invadida.  Possui vários genótipos distribuídos em todo o mundo. A infecção &lt;strong&gt;pode cronificar&lt;/strong&gt; e existe relação com o desenvolvimento de &lt;strong&gt;carcinoma hepatocelular&lt;/strong&gt; (o tumor primário do fígado).&lt;/p&gt;
-
-&lt;p&gt;Não é possível confirmar que houve a cura da hepatite B, pois o CC-DNA não é passível de eliminação com as medicações atuais. É por isso que um paciente com qualquer marcador de hepatite deixa de ser doador de sangue.&lt;/p&gt;
-
-&lt;h2 id=&quot;transmissão&quot;&gt;Transmissão&lt;/h2&gt;
-
-&lt;p&gt;O HBV está presente em grandes concentra-
-ções nos fluidos corpóreos e sangue (principalmente nos indivíduos HBeAg positivos) e sua
-transmissão ocorre por via parenteral, através do contato com estes materiais. A principal via
-de contaminação é a sexual. A maior fonte vem de carreadores assintomáticos do vírus B.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Principais vias de transmissão:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sexual: o mais comum nos dias de hoje;&lt;/li&gt;
-  &lt;li&gt;Perinatal (vertical): exposição ao sangue materno ou líquido amniótico;
-    &lt;ul&gt;
-      &lt;li&gt;A operação cesariana não se mostrou eficaz em eliminar o risco de transmissão perinatal da hepatite B.&lt;/li&gt;
-      &lt;li&gt;Embora o HBsAg possa ser identificado no leite materno, &lt;strong&gt;não há evidências conclusivas que permitam afirmar que a hepatite B possa ser transmitida pela amamentação&lt;/strong&gt;;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Percutânea: compartilhar agulhas (usuários de droga IV), lâminas de barbear, acidentes com material contaminado, hemodiálise.&lt;/li&gt;
-  &lt;li&gt;Transplante de órgãos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O HBeAg é um bom marcador do risco de transmissão vertical do HBV. Em mães com ele positivo a chance é de 90% e quando for negativo cai para 10 a 15%.&lt;/p&gt;
-
-&lt;p&gt;Como o HBV permanece viável
-por um longo período fora do corpo humano
-(ao contrário do HIV), a transmissão através
-do contato com superfícies contaminadas,
-como escova de dente e lâminas de barbear,
-seria possível.&lt;/p&gt;
-
-&lt;p&gt;Sêmen e saliva são secreções
-orgânicas em que se pode identificar também
-o HBsAG, mas em concentrações bem menores que as do sangue, tornando menos
-provável a contaminação.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico-2&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;h3 id=&quot;evolução-sorológica&quot;&gt;Evolução sorológica&lt;/h3&gt;
-
-&lt;p&gt;O período de incubação da hepatite B costuma ser de 30 dias-6 meses (média de 8-12 semanas), podendo variar em função da carga viral recebida durante o contágio.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HBsAg:&lt;/strong&gt; (antígeno Austrália) o &lt;em&gt;S&lt;/em&gt; é de superfícice e o &lt;em&gt;A&lt;/em&gt; de antígeno. Imaginando o vírus como um pnéu, é a superfície do pnéu. Pode ser interpretado como a presença do próprio vírus. Encontrado na forma tubular e esférica. São esses marcadores que são colocados na vacina. &lt;span class=&quot;red&quot;&gt;É o primeiro a dar positivo&lt;/span&gt; e, portanto, o &lt;strong&gt;primeiro a ser solicitado&lt;/strong&gt;. Após o contágio,
-este antígeno pode ser detectado no soro dentro de poucas semanas, antes da existência de qualquer sintomatologia.&lt;/p&gt;
-
-&lt;p&gt;Quando se iniciam os primeiros sinais e sintomas da hepatite B, dois importantes eventos sorológicos costumam se tornar evidentes: o aumentodas transaminases e o aparecimento do anticorpo contra o Core: anti-HBc (lembrar que o antígeno “c” não é detectado no soro pelos métodos usuais).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;HBcAg:&lt;/strong&gt; &lt;em&gt;C&lt;/em&gt; de &lt;em&gt;core&lt;/em&gt;. Assim como na hepatite A, a viremia é muito curta, dosamos o anticorpo &lt;strong&gt;Anti-HBc&lt;/strong&gt; que está presente nas infecções agudas quando IgM (no soro até 32 semanas após a infecção) e crônicas quando IgG. O &lt;strong&gt;anti-HBc IgM&lt;/strong&gt; aparece no soro logo após o HBsAg (1 a 2 semanas), juntamente com os sintomas da hepatite. Esse anticorpo
-permanece positivo por quatro a cinco meses. O &lt;strong&gt;anti-HBc IgG&lt;/strong&gt; aparece
-pouco tempo depois do IgM, permanecendo positivo indefinidamente, mesmo após a cura da hepatite B (&lt;strong&gt;cicatriz sorológica&lt;/strong&gt;).&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-red&quot;&gt;O HBsAg e o Anti-HBc IgM são os marcadores sorológicos mais importantes da fase aguda!&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;HBeAg:&lt;/strong&gt; &lt;em&gt;E&lt;/em&gt; de &lt;em&gt;excelent&lt;/em&gt; pois é o melhor marcador. É um marcador de &lt;strong&gt;replicação viral&lt;/strong&gt;. Dá positivo na fase de replicação, ou seja, na fase aguda. Quando maior o HBe mais infectividade o soro que o contêm possui.O &lt;strong&gt;Anti-HBe&lt;/strong&gt; surge após o desaparecimento do HBeAg e indica o fim da fase replicativa.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Se houver cura do quadro de hepatite B, o anti-HBe permanece no soro, evidenciando um passado de replicação viral.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Se o paciente desenvolver hepatite B crônica, sempre que houver piora do quadro (agudização) por retomada da replicação viral, aparecerá novamente no sangue o HBeAg.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;Para manejo diagnóstico de um paciente ictérico, quando o objetivo é a interpretação de um quadro provável de hepatite B, o HBeAg e o anti-HBe não tem tanta importância quanto os marcadores HBsAg, anti-HBc e anti-HBs.&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Anti-HBs:&lt;/strong&gt; único anticorpo que confere imunidade ao HBV. Está presente no soro após o desaparecimento do HBsAg, sendo &lt;strong&gt;indicador de cura e imunidade&lt;/strong&gt; e, isoladamente, &lt;strong&gt;em pessoas vacinadas&lt;/strong&gt;. Com o surgimento do anticorpo contra o antígeno de superfície – anti-HBs, inicia-se a fase de convalescência, marcada pela queda progressiva das transaminases hepáticas, e redução progressiva da icterícia e dos sintomas sistêmicos.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Este anticorpo surge em média um a dois meses após o início dos sintomas, logo depois ou algumas semanas depois da negativação do HBsAg. Este período é chamado de “janela imunológica”, justificando um pequenino grupo de pacientes com hepatite B aguda HBsAg negativo.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A melhora do quadro agudo da hepatite B e a evolução para a cura dependem fundamentalmente da &lt;strong&gt;capacidade do indivíduo em produzir de forma satisfatória o anti-HBs.&lt;/strong&gt; Se não houver a produção deste anticorpo pelo menos após
-seis meses de evolução, o paciente não se livrará do HBV, tornando-se portador crônico assintomático ou desenvolvendo hepatite B crônica.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/hepb-sorologia.jpeg&quot; alt=&quot;HEP B&quot; /&gt;
-&lt;img src=&quot;/assets/gastro/hepb-aguda.jpeg&quot; alt=&quot;HEP B&quot; /&gt;
-&lt;img src=&quot;/assets/gastro/hepb-aguda-grafico.jpeg&quot; alt=&quot;HEP B&quot; /&gt;
-&lt;img src=&quot;/assets/gastro/hepb-cronica.jpeg&quot; alt=&quot;HEP B&quot; /&gt;
-&lt;img src=&quot;/assets/gastro/hepb-cronica-grafico.jpeg&quot; alt=&quot;HEP B&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;COLOCAR AQUI A IMAGEM DA EVOLUÇÃO SOROLÓGICA&lt;/p&gt;
-
-&lt;h3 id=&quot;guia-de-dianóstico&quot;&gt;Guia de dianóstico&lt;/h3&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;MARCADORES SOROLÓGICOS DA HEPATITE B&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;ANTÍGENO&lt;/td&gt;
-      &lt;td&gt;ANTICORPO&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;HBsAg&lt;/td&gt;
-      &lt;td&gt;Anti-HBs&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;HBcAg (indetectável)&lt;/td&gt;
-      &lt;td&gt;Anti-HBc&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;HBeAg&lt;/td&gt;
-      &lt;td&gt;Anti-HBe&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Olhar o HBsAg&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Negativo:&lt;/strong&gt; HBV não presente ou falso negativo (viremia muito baixa, &lt;strong&gt;infecção oculta&lt;/strong&gt; e/ou &lt;strong&gt;“janela imunológica”&lt;/strong&gt; logo após a fase ictérica);&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Em caso de suspeita de infecção pelo HBV, uma nova amostra deverá ser coletada após 30 dias;
-      * &lt;strong&gt;Positivo:&lt;/strong&gt; HBV está presente e ativo, pode ser hepatite B aguda ou crônica. Ir para estapa 2;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Olhar o anti-HBc&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;total (IgM + IgG) negativo:&lt;/li&gt;
-      &lt;li&gt;total (IgM + IgG) positivo:&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Só IgM positivo:&lt;/strong&gt; infecção aguda!&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Só IgG positivo:&lt;/strong&gt; hepatite B crônica ou curada, ir para a etapa 3;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Olhar o anti-HBs&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Anti-HBc (IgG) positivo e anti-HBs positivo:&lt;/strong&gt; infecção passada curada;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Anti-HBc (IgG) positivo e anti-HBs negativo:&lt;/strong&gt; infecção curada há muito tempo (com queda do Anti-HBs) ou infecção crônica. A dúvida pode ser sanada com a pesquisa do &lt;strong&gt;DNA viral&lt;/strong&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Os marcadores HBeAg e anti-HBe são importantes não para o diagnóstico da Hepatite B em si, mas para verificar se o vírus está em fase de replicação ou não. Marcadores da atividade da doença e grau de infectividade. Isto acontece
-porque o antígeno “e” se localiza na estrutura
-interna do vírus e normalmente não é reconhecido pelo sistema imune. Quando o vírus
-se replica, acaba expulsando de sua estrutura
-este antígeno, que passa a circular livremente.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;&lt;b&gt;HBsAg negativo, Anti-HBc (IgM) Negativo e (IgG) negativo e Anti-HBs positivo: &lt;/b&gt; A negatividade para todos os antígenos e
-anticorpos para hepatite B, exceto para o
-anti-HBs, só pode ser conseguida por imunização prévia vacinal. Ou seja, o paciente nunca teve a infecção ou mesmo contato com o vírus ativo, apenas foi vacinado (sendo colocado em contato com o antígeno de superfície), e produziu anticorpos anti-HBs que conferem imunidade contra esta condição.
-&lt;/div&gt;
-
-&lt;p&gt;Obs.: Com o passar do tempo, o anti-HBs
-pode estar em níveis indetectáveis pelos testes sorológicos.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Sabemos que, em cerca de 1-5% de pacientes com infecção ativa pelo vírus B, o HBsAg é negativo. Ou seja, podemos dizer que a sua sensibilidade é de 95-98% para o diagnóstico da hepatite B, mas não é de 100%!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;O anti-HBc IgG permanece positivo como uma cicatriz imunológica!&lt;/div&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;quando se encontra HBsAg e anti-HBs concomitantemente positivos, devemos pensar, além de erro laboratorial, em anticorpo contra antígeno não significante do vírus. Na verdade, já são conhecidos alguns mutantes por escape, que são vírus que sofreram alteração no HBsAg, impedindo a atividade neutralizante do anti-HBs (resistentes a ele). Estes pacientes podem ter altos títulos de anti-HBs na presença do HBsAg, sem que haja qualquer significado clínico de proteção.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Em indivíduos menores de 18 meses, as crianças podem apresentar anticorpos contra o vírus, de origem materna. Por isso, após a identificação do HBsAg por imunoensaio, não se orienta a pesquisa do anti-HBc, mas a detecção direta do DNA do vírus através do diagnóstico mo-
-lecular.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;Na suspeita de infecção oculta deve-se dosar a carga viral (HBV-DNA). Baseia-se na suspeita clínica e epidemiológica.&lt;/div&gt;
-
-&lt;h3 id=&quot;mutações-na-região-pré-core&quot;&gt;Mutações na região pré-core&lt;/h3&gt;
-
-&lt;p&gt;Pelo fato de o HBV utilizar o mecanismo de
-transcrição reversa para replicação, esta pode, frequentemente, induzir mutações. A mais importante destas mutações é a que ocorre na região pré-core do DNA-HBV, que leva a uma falha na expressão do antígeno “e” (HBeAg).&lt;/p&gt;
-
-&lt;p&gt;Esta mutação se associa ao surgimento de quadros de &lt;strong&gt;hepatites fulminantes&lt;/strong&gt; e a &lt;strong&gt;exacerbações de quadros de hepatites crônicas&lt;/strong&gt; pelo HBV, produzindo maiores graus de morbidade e mortalidade que
-os observados nas infecções pelos HBV selvagens.&lt;/p&gt;
-
-&lt;p&gt;A replicação dos vírus com esta mutação
-do pré-core não deflagra a elevação no soro do HBeAg e pode ocorrer na presença do anti-HBe. Assim, a presença de HBV mutante pré-core deve ser &lt;strong&gt;suspeitada na vigência de HBsAg positivo, HBeAg negativo, anti-HBe positivo e transaminases elevadas&lt;/strong&gt;. Nesta situação, a pesquisa quantitativa do &lt;strong&gt;DNA-HBV&lt;/strong&gt; poderá detectar altos níveis de carga viral, a despeito da ausência de HBeAg detectável no soro.&lt;/p&gt;
-
-&lt;h3 id=&quot;biópsia&quot;&gt;Biópsia&lt;/h3&gt;
-
-&lt;p&gt;Regra geral, a biópsia não deve ser realizada. Está indicada nos casos de diagnóstico duvidoso ou quando se pretende avaliar concomitantemente outras patologias hepáticas.&lt;/p&gt;
-
-&lt;p&gt;O achado histológico mais específico para a hepatite B são as &lt;em&gt;Ground-Glass Inclusions&lt;/em&gt; ou &lt;strong&gt;inclusões em “vidro fosco”&lt;/strong&gt;, contudo, só são encontrados em infecções crônicas!&lt;/p&gt;
-
-&lt;p&gt;Fase aguda: HBsAg, HBeAg e Anti-HBcIgM (a fundamental para diferenciar a infecção aguda da crônica).
-Depois surge: o Anti-HBe e o Anti-HBcIgG e Anti-HBs.&lt;/p&gt;
-
-&lt;p&gt;Quando surge o Anti-HBs, o “pnéu foi destruído”.&lt;/p&gt;
-
-&lt;p&gt;Ocorre um gap imunológico entre o Anti-HBcIgM e o Anti-HBs. E nem todos os pacientes apresentam a fração Anti-HBs.&lt;/p&gt;
-
-&lt;p&gt;Fase crônica: o Anti-HBc IgG está presente em todos na fase crônica, é o indicativo da cicatriz imunológica (ao longo dos anos o anti-HBe pode desaparecer). Nessa fase podem ocorrer duas opções:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HBeAg +, Anti-HBe -, HBV-DNA +: está ocorrendo a replicação, é como se a infecção crônica foi completa. CARRO COM OS 4 PNEUS&lt;/li&gt;
-  &lt;li&gt;HBeAg -, Anti-HBe +, HBV-DNA -: CARRO COM OS PENEUS MUCHOS
-    &lt;ul&gt;
-      &lt;li&gt;Existe uma mutação &lt;em&gt;pre-core&lt;/em&gt; que muda a gravidade e a evolução deste tipo de evoluçãocrônica. O polimorfismo inibe a expressão do HBeAg, se apresentam com Anti-HBe + e carga viral +. PNEUS MUCHOS MAS MOTOR POTENTE&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;HBeAg -, Anti-HBe -, HBV-DNA -: é o chamado portador “&lt;em&gt;são&lt;/em&gt;” da hepatite B. É como se só tivesse a carcaça do vírus. CARRO SEM OS 4 PŃÉUS, SÓ COM A CARCAÇA&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Não há necessidade de de proibir o aleitamento materno em mães HBsAg positivas.&lt;/p&gt;
-
-&lt;p&gt;A vacina é feita em 3 doses com 0, 30 e 180 dias de intervalo. Nas pessoas vacinadas apenas o Anti-HBs é evidenciado.&lt;/p&gt;
-
-&lt;h2 id=&quot;padrão-clínico&quot;&gt;Padrão clínico&lt;/h2&gt;
-
-&lt;p&gt;Os quadros de hepatites costumam ser muito inespecíficos. Em geral, na hepatite B aguda, os sintomas
-costumam ser mais intensos quando comparados com os da Hepatite A ou C.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Icterícia
-    &lt;ul&gt;
-      &lt;li&gt;Idade &amp;lt; 5 anos: &amp;lt; 10%&lt;/li&gt;
-      &lt;li&gt;Idade &amp;gt; 5 anos: 30 a 50%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Hepatite fulminante em 0,5 a 1% dos casos&lt;/li&gt;
-  &lt;li&gt;Período de incubação de 45 a 180 dias&lt;/li&gt;
-  &lt;li&gt;Infecção crônica
-    &lt;ul&gt;
-      &lt;li&gt;Idade &amp;lt; 5 anos: 30 a 90%&lt;/li&gt;
-      &lt;li&gt;Idade &amp;gt; 5 anos: 2 a 10%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Mortalidade por DHC: 15 a 25%&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em crinças há menos sintomas e mais chance de cronificação. Em adultos ocorre o inverso. A maioria dos pacientes não desenvolve a fase ictérica e as formas anictéricas têm maior chance de se
-tornarem crônicas do que as ictéricas.&lt;/p&gt;
-
-&lt;h3 id=&quot;complicações-1&quot;&gt;Complicações&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cronificação (principalmente em RNs);&lt;/li&gt;
-  &lt;li&gt;Hepatite fulminante: em menos de 1% dos casos. Uma hepatite pode ser considerada fulminante quando evolui para &lt;strong&gt;encefalopatia&lt;/strong&gt; num período de 8 semanas a partir do início do quadro clínico.
-    &lt;ul&gt;
-      &lt;li&gt;A partir de então surgem gradualmente os sintomas de insuficiência hepática, como flapping, distúrbios eletrolíticos, distúrbios da consciência, e outros.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;No Brasil, a hepatite fulminante é quase
-sempre fatal, num índice de mortalidade que ultrapassa os 80%.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;O vírus pode infectar outros órgãos além do fígado, como pâncreas, baço e medula óssea, que funcionam como reservatório. Isso explica as recidivas de hepatite B após transplante hepático.&lt;/div&gt;
-
-&lt;h3 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;O tratamento da hepatite B aguda é apenas sintomático. A única restrição
-está relacionada à ingestão de álcool, que
-deve ser suspensa por no mínimo seis meses.&lt;/p&gt;
-
-&lt;p&gt;Não existem evidências de que o uso de interferon
-no episódio agudo possa reduzir as chances
-de cronificação, ou mesmo acelerar a melhora clínica.&lt;/p&gt;
-
-&lt;p&gt;Para os casos graves (hepatite fulminante), fica indicado o suporte
-intensivo, associado a uma das drogas orais disponíveis para o tratamento da hepatite B (tenofovir, entecavir, etc.). Não há benefício de
-iniciar corticoterapia. Na verdade, a grande terapia para os casos de hepatite fulminante é o transplante hepático.&lt;/p&gt;
-
-&lt;h3 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pré-Exposição = Vacina (HB).&lt;/li&gt;
-  &lt;li&gt;Pós-Exposição = Imunoglobulina Hiperimune (IGHAHB) + Vacina (HB).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;hepatite-c&quot;&gt;Hepatite C&lt;/h1&gt;
-
-&lt;p&gt;Feinstone 75
-Houghton 89&lt;/p&gt;
-
-&lt;p&gt;É um RNA vírus com dois envelopes, E1 e E2, que facilitam a sua penetração na célula. Não existe ainda uma vacina.&lt;/p&gt;
-
-&lt;p&gt;Testes sorológicos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Anti-HCV: sempre positivo após um contato com o vírus
-    &lt;ul&gt;
-      &lt;li&gt;Elisa&lt;/li&gt;
-      &lt;li&gt;Riba&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;HCV-RNA: como não existe um marcador de infecção crônica, apenas a carga viral pode avaliar atividade viral. Ainda não se consegue dosar frações de IgG e IgM.
-    &lt;ul&gt;
-      &lt;li&gt;RT-PCR&lt;/li&gt;
-      &lt;li&gt;NASBA&lt;/li&gt;
-      &lt;li&gt;B-DNA&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;No Brasil ainda é a indicação mais frequente de transplante de fígado. Mas vem mudando no mundo.&lt;/p&gt;
-
-&lt;p&gt;Possui também relação com o carcinoma hepatocelular.&lt;/p&gt;
-
-&lt;p&gt;é a forma de hepatite
-que mais cronifica (80-90%!!!).&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia-1&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;O risco de transmissão sexual e vertical do vírus C é mínimo, ao contrário do alto risco para o vírus B.
-Inclusive, existem consensos que não recomendam medida protetora em casais quando
-um dos cônjuges é positivo!&lt;/p&gt;
-
-&lt;p&gt;Em geral, deve-se ter
-em mente que o HCV é bem menos “contagioso” que o HBV e o HIV.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico-2&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;80% dos casos de hepatite C aguda são completamente assintomáticos;&lt;/li&gt;
-  &lt;li&gt;Mesmo nos poucos que desenvolvem sintomas, a icterícia é rara (25%);&lt;/li&gt;
-  &lt;li&gt;A hepatite fulminante pelo vírus C é raríssima ou inexistente.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico-3&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;Como a imensa maioria dos casos não desenvolve sintomas, o diagnóstico não costuma ser feito na fase de hepatite
-aguda.&lt;/p&gt;
-
-&lt;p&gt;Os anticorpos
-anti-HCV são positivos no soro de 80% dos indivíduos sintomáticos no momento em que os
-sintomas aparecem, mas nos 20% restantes o
-diagnóstico só pode ser estabelecido nesta fase
-através da pesquisa do HCV-RNA nestes, os sintomas precederam a soroconversão).&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;anti-HCV positivo + HCV RNA (PCR).
-&lt;/div&gt;
-
-&lt;p&gt;O anti-HCV pode ser pesquisado pelo método
-ELISA (sorologia convencional) ou pelo Teste Rápido (TR).&lt;/p&gt;
-
-&lt;p&gt;Se positivo, o &lt;strong&gt;anti-HCV não diferencia entre infecção atual ou contato prévio “curado”&lt;/strong&gt;. Logo, o &lt;strong&gt;HCV-RNA&lt;/strong&gt; deve sempre ser utilizado para confirmar que o anti-HCV positivo significa infecção ativa pelo vírus C!&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento-3&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;A hepatite C é a
-hepatite viral que mais cronifica. É exatamente
-este o motivo que faz da hepatite C a única
-forma de hepatite aguda que, por definição,
-exige tratamento antiviral! Não exatamente para “tratar”
-o episódio agudo, mas para tentar prevenir a cronificação. Com o tratamento antiviral a chance de cronificação é reduzida de 80-90% para 5%.&lt;/p&gt;
-
-&lt;p&gt;A grande dificuldade é identificar os casos de Hepatite C aguda.&lt;/p&gt;
-
-&lt;p&gt;Os critérios para início do tratamento agudo do
-HCV são:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Pacientes SINTOMÁTICOS (ex.: icterícia): aguardar 12 semanas após início dos sintomas. Se o HCV-RNA continuar positivo após este período, iniciar o tratamento;&lt;/li&gt;
-  &lt;li&gt;Pacientes ASSINTOMÁTICOS COM DATA DE INFECÇÃO CONHECIDA (ex.: monitoramento pós-acidente perfurocortante): iniciar o tratamento imediatamente após o diagnóstico;&lt;/li&gt;
-  &lt;li&gt;Pacientes ASSINTOMÁTICOS COM DATA DE INFECÇÃO DESCONHECIDA, mas nos quais se suspeita de infecção aguda&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O tratamento agudo, quando indicado, é feito com &lt;strong&gt;alfapeguinterferona&lt;/strong&gt; (PEG-IFN), podendo-se associar ou não &lt;strong&gt;ribavirina&lt;/strong&gt; (opcional). Recomenda-se fortemente que esta última seja
-associada ao esquema caso o paciente seja
-coinfectado pelo HIV.&lt;/p&gt;
-
-&lt;p&gt;Em relação à transmissão vertical, não existe
-nenhuma forma de imunoprofilaxia ou profilaxia medicamentosa (as drogas para tratamento
-do vírus C são contraindicadas na gestação).&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Hepatites virais: o Brasil está atento / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Vigilância Epidemiológica. – Brasília : Ministério da Saúde, 2005.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Doença do refluxo gastroesofágico</title><link href="http://localhost:4000/gastroenterologia/drge" rel="alternate" type="text/html" title="Doença do refluxo gastroesofágico" /><published>2019-09-02T00:00:00-03:00</published><updated>2019-09-02T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/drge</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/drge">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#relaxamento-do-eei-sem-relação-com-a-deglutição&quot; id=&quot;markdown-toc-relaxamento-do-eei-sem-relação-com-a-deglutição&quot;&gt;Relaxamento do EEI sem relação com a deglutição&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hipotonia-verdadeira-do-eei&quot; id=&quot;markdown-toc-hipotonia-verdadeira-do-eei&quot;&gt;Hipotonia verdadeira do EEI&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#desestruturação-anatômica-da-junção-esofagogástrica&quot; id=&quot;markdown-toc-desestruturação-anatômica-da-junção-esofagogástrica&quot;&gt;Desestruturação anatômica da junção esofagogástrica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#mecanismos-de-defesa&quot; id=&quot;markdown-toc-mecanismos-de-defesa&quot;&gt;Mecanismos de defesa&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnósticos-diferenciais&quot; id=&quot;markdown-toc-diagnósticos-diferenciais&quot;&gt;Diagnósticos diferenciais&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#endoscopia-digestiva-alta&quot; id=&quot;markdown-toc-endoscopia-digestiva-alta&quot;&gt;Endoscopia digestiva alta&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#phmetria-de-24h&quot; id=&quot;markdown-toc-phmetria-de-24h&quot;&gt;pHmetria de 24h&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#esofagomanometria&quot; id=&quot;markdown-toc-esofagomanometria&quot;&gt;Esofagomanometria&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#estenose-péptica-do-esôfago&quot; id=&quot;markdown-toc-estenose-péptica-do-esôfago&quot;&gt;Estenose péptica do esôfago&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#úlcera-esofágica&quot; id=&quot;markdown-toc-úlcera-esofágica&quot;&gt;Úlcera esofágica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#asma-relacionada-à-drge&quot; id=&quot;markdown-toc-asma-relacionada-à-drge&quot;&gt;Asma Relacionada à DRGE&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#esôfago-de-barret&quot; id=&quot;markdown-toc-esôfago-de-barret&quot;&gt;Esôfago de Barret&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#espofagografia-baritada&quot; id=&quot;markdown-toc-espofagografia-baritada&quot;&gt;Espofagografia baritada&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#medidas-antirrefluxo&quot; id=&quot;markdown-toc-medidas-antirrefluxo&quot;&gt;Medidas antirrefluxo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#medicamentoso&quot; id=&quot;markdown-toc-medicamentoso&quot;&gt;Medicamentoso&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#bloqueadores-do-receptor-h2-de-histamina&quot; id=&quot;markdown-toc-bloqueadores-do-receptor-h2-de-histamina&quot;&gt;Bloqueadores do receptor H2 de histamina&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#inibidoes-da-bomba-de-prótons&quot; id=&quot;markdown-toc-inibidoes-da-bomba-de-prótons&quot;&gt;Inibidoes da Bomba de Prótons&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#antiácidos&quot; id=&quot;markdown-toc-antiácidos&quot;&gt;Antiácidos&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#alginato&quot; id=&quot;markdown-toc-alginato&quot;&gt;Alginato&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cirurgia-antirrefluxo&quot; id=&quot;markdown-toc-cirurgia-antirrefluxo&quot;&gt;Cirurgia antirrefluxo&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#técnicas-cirúrgicas&quot; id=&quot;markdown-toc-técnicas-cirúrgicas&quot;&gt;Técnicas cirúrgicas&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#esquemas-terapêuticos&quot; id=&quot;markdown-toc-esquemas-terapêuticos&quot;&gt;Esquemas terapêuticos&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#sintomas-leves-e-intermitentes&quot; id=&quot;markdown-toc-sintomas-leves-e-intermitentes&quot;&gt;Sintomas leves e intermitentes&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#sintomas-graves-e-frequentes&quot; id=&quot;markdown-toc-sintomas-graves-e-frequentes&quot;&gt;Sintomas graves e frequentes&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-do-esôfago-de-barrett&quot; id=&quot;markdown-toc-tratamento-do-esôfago-de-barrett&quot;&gt;Tratamento do Esôfago de Barrett&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É o retorno do conteúdo gástrico através do esfincter esofagiano inferior (EEI). É importante diferenciar a doença de refluxo de episódios de refluxo, que podem ser fisiológicos ocorrendo logo após as refeições. A DRGE é uma patologia crônica.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;É o distúrbio mais comum do TGI alto, correspondendo a 75% de todas as esofagopatias. Pode aparecer em qualquer faixa etária mas a prevalência aumenta com a idade.&lt;/p&gt;
-
-&lt;p&gt;Alguns fatores de risco são: &lt;strong&gt;obesidade&lt;/strong&gt;, &lt;strong&gt;gestação&lt;/strong&gt; (progesterona relaxa o EEI e mais o aumento da pressão abdominal pela distensão uterina), condições que aumentam a pressão intra-abdominal.&lt;/p&gt;
-
-&lt;p&gt;Em crianças a DRGE predomina em lactentes, as famosas “gofadas”, mas costuma desaparecer em 60% dos casos até os 2 anos. A grande maioria vai desaparecer até os 4 anos. Está relacionada à imaturidade do EEI.&lt;/p&gt;
-
-&lt;p&gt;A esofagite provocada pela DRGE está relacionada a maior incidência de &lt;strong&gt;adenocarcinoma de esôfago&lt;/strong&gt;. Ela pode evoluir para uma metaplasia (onde &lt;strong&gt;epitélio intestinal colunar&lt;/strong&gt; começa a substituir o epitélio estratificado esofágico, pois suporta melhor o pH ácido) e depois para uma displasia seguida de neoplasia maligna. Essa metaplasia no terço inferior do esôfago caracteriza o chamado &lt;strong&gt;êsofago de Barret&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;A infecção por _H. pylori_ confere um fator de proteção contra o adenocarcinoma de êsofago, pois essa bactéria atua reduzindo o pH gástrico, o que diminui e lesão ácida do tecido esofágico.&lt;/div&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;Três fatores podem se somar e contribuir para a DRGE:&lt;/p&gt;
-
-&lt;h4 id=&quot;relaxamento-do-eei-sem-relação-com-a-deglutição&quot;&gt;Relaxamento do EEI sem relação com a deglutição&lt;/h4&gt;
-
-&lt;p&gt;O mais comum, presente em 60% dos pacientes): talvez tenha relação com um reflexo vagovagal anômalo. Neste a pressão do EEI costuma estar normal.&lt;/p&gt;
-
-&lt;h4 id=&quot;hipotonia-verdadeira-do-eei&quot;&gt;Hipotonia verdadeira do EEI&lt;/h4&gt;
-
-&lt;p&gt;A pressão costuma estar &amp;lt; 10 mmHg. Algumas causas são: esclerose sistêmica, lesão cirúrgica, tabagismo, uso de drogas enticolinérgicas ou miorrelaxantes, gestação. A própria esofagite é capaz de reduzir o tônus do EEI (fibrose por repetida agressão). É o principal mecanismo em pacientes com esofagite erosiva grave (o refluxo tende a ser mais intenso e prolongado).&lt;/p&gt;
-
-&lt;h4 id=&quot;desestruturação-anatômica-da-junção-esofagogástrica&quot;&gt;Desestruturação anatômica da junção esofagogástrica&lt;/h4&gt;
-
-&lt;p&gt;A famosa &lt;strong&gt;hérnia de hiato&lt;/strong&gt;. O EEI passa a ficar dentro da cavidade torácica e perde o suporte da musculatura diafragmática que lhe conferia maior pressão. Contudo, lembrar sempre que hérnia de hiato não é sinônimo de DRGE!&lt;/p&gt;
-
-&lt;h3 id=&quot;mecanismos-de-defesa&quot;&gt;Mecanismos de defesa&lt;/h3&gt;
-
-&lt;p&gt;O bicarbonato salivar (síndrome de Sjogren aumenta a gravidade do refluxo), a peristalse esofagiana (distúrbios motores também aumentam a gravidade).&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Pirose&lt;/strong&gt;, sensação de queimação restroesternal ascendente: é o principal sintoma, comum nas primeiras 3h após as refeições e após deitar;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Regurgitação&lt;/strong&gt;, a perceção de líquido na boca;&lt;/li&gt;
-  &lt;li&gt;Disfagia, presente em 1/3 dos casos: associada a outras patologias como estenoses de esôfago.&lt;/li&gt;
-  &lt;li&gt;Sintomas atípicos:
-    &lt;ul&gt;
-      &lt;li&gt;Erosão do esmalte dentário&lt;/li&gt;
-      &lt;li&gt;Irritação da garganta&lt;/li&gt;
-      &lt;li&gt;Rouquidão&lt;/li&gt;
-      &lt;li&gt;Sinusite crônica&lt;/li&gt;
-      &lt;li&gt;Otite média&lt;/li&gt;
-      &lt;li&gt;Tosse crônica&lt;/li&gt;
-      &lt;li&gt;Pneumonite aspirativa (quando também há incompetência do esfincter esofágico superior)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pirose e regurgitação são os sintomas típicos!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Cuidado para não confundir pirose com azia (queimação epigástrica)!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Interessante fazer uma boa anamnese pois a pirose pode se confundir com uma dor precordial da dor coronariana. Um diagnóstico diferencial é a &lt;em&gt;angina pectoris&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Anemia ferropriva pode ocorrer nos pacientes com lesão esofágica grave, com úlceras profundas. A perfuração de esôfago é rara.&lt;/p&gt;
-
-&lt;h4 id=&quot;diagnósticos-diferenciais&quot;&gt;Diagnósticos diferenciais&lt;/h4&gt;
-
-&lt;p&gt;Esofagite infecciosa (CMV, HSV, Candida); Esofagite eosinofílica;
-Dispepsia não ulcerosa;
-Úlcera péptica gastroduodenal;
-Doença do trato biliar;
-Distúrbios motores do esôfago;
-Doença coronariana.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;É possível diagnosticar a DRGE sem exames complementares, utilizando da &lt;strong&gt;prova terapêutica&lt;/strong&gt;. Esse método consiste em receitar as medicações e se os sintomas melhorarem então o paciente tem a DRGE. Contudo, alguns médicos preconizam sempre fazer uma endoscopia antes de inicar o tratamento, para poder excluir outras doenças. Sem a endoscopia, o tratamento pode mascarar e retardar o diagnóstico de doenças graves, como carcinomas.&lt;/p&gt;
-
-&lt;h4 id=&quot;endoscopia-digestiva-alta&quot;&gt;Endoscopia digestiva alta&lt;/h4&gt;
-
-&lt;p&gt;Utilizada para excluir outras patologias e identificar complicações da DRGE, como a esofagite (presente em 30-40% dos casos), estenose péptica, esôfago de Barret e o adenocarcinoma.&lt;/p&gt;
-
-&lt;p&gt;A esofagite é diagnosticada na presença de inflamação da mucosa esofágica. Curioso que a intensidade da esofagite pode não ser proporcional ao quadro clínico apresentado.&lt;/p&gt;
-
-&lt;p&gt;Algumas indicações de EDA em diagnóstico ou suspeita de DRGE são as referentes aos critérios de Los Angeles:&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Criterios de Los Angeles&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Sinais de alarme:&lt;/strong&gt; Disfagia, Emagrecimento, Odinofagia, Sangramento do TGI e anemia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Sintomas refratários ao tratamento&lt;/strong&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;História prolongada de pirose&lt;/strong&gt; (&amp;gt; 5-10 anos): maior risco de esôfago de Barrett&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Idade&lt;/strong&gt; &amp;gt; 45-55 anos&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;&lt;strong&gt;Presença de&lt;/strong&gt; náuseas e vômitos, história familiar de câncer e sintomas intensos ou noturnos devem levar o médico a “considerar” a realização de EDA.&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;Biópsia:&lt;/strong&gt; Se houver a presença de esofagite uma biópsia deve ser feita. Esta costuma revelar hiperplasia da camada basal do epitélio associada à papilomatose. A alteração histopatológica mais precoce é o aumento do espaço intercelular no
-epitélio estratificado, mostrando que o ácido
-refluído “penetra” por entre as camadas de células escamosas. A biópsia é imprescindível
-para confirmar o diagnóstico de esôfago de Barrett (metaplasia intestinal bem como para a
-pesquisa de displasia/neoplasia nesse tecido.&lt;/p&gt;
-
-&lt;h4 id=&quot;phmetria-de-24h&quot;&gt;pHmetria de 24h&lt;/h4&gt;
-
-&lt;p&gt;Pode ser realizada com ou sem impedanciometria. E o método padrão-ouro para o diagnóstico da DRGE, com uma especificidade e sensibilidade acima de 90%. Pode ser realizada com ou sem impedanciometria. As indicações para sua realização são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sintomas refratários ao tratamento clínico;&lt;/li&gt;
-  &lt;li&gt;Avaliação de sintomas atípicos, como tosse, rouquidão e dor torácica;&lt;/li&gt;
-  &lt;li&gt;Documentação da real existência de DRGE antes de uma cirurgia antirrefluxo;&lt;/li&gt;
-  &lt;li&gt;Reavaliação de pacientes ainda sintomáticos após a cirurgia antirrefluxo.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O exame é feito passando um fino cateter com dois sensores de pH pelo esôfago. O primeiro sensor fica a 5 cm do EEI e o segundo a 20 cm. No exame são avaliados: percentual do tempo total de refluxo, percentual do tempo de refluxo em ortostase, percentual do tempo de refluxo em posição supina, número de episódios de refluxo, número de episódios de refluxo com &amp;gt; 5 min de duração, duração do maior episódio. Com base nesses parâmetros é calculado o índice de refluxo (&lt;strong&gt;índice de Meester&lt;/strong&gt;). O &lt;span style=&quot;color:green&quot;&gt;diagnóstico é definido quando o índice é &amp;gt; 14,7&lt;/span&gt;. Ou, quando p pH esofagiano fica &amp;lt; 4,0 por mais de 7% do tempo aferido.&lt;/p&gt;
-
-&lt;p&gt;Pacientes em uso de BRH2 e IBPs devem interromper a medicação 3 e 14 dias antes, respectivamente. O exame também pode ser feito na vigência das medicações, para avaliar a efetividade terapêutica. Antes do exame o médico não deve fazer aconselhamentos para mudar os hábitos do paciente, de modo a reproduzir o ambiente usual do paciente.&lt;/p&gt;
-
-&lt;p&gt;A impedanciometria pode ser associada para aumentar a sensibilidade do exame. Pode ser muito útil para detectar refluxos alcalinos que, obviamente, não vão responder aos IBPs.&lt;/p&gt;
-
-&lt;h4 id=&quot;esofagomanometria&quot;&gt;Esofagomanometria&lt;/h4&gt;
-
-&lt;p&gt;A pressão média normal do EEI está entre &lt;strong&gt;10 e 30 mmHg&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Não é um exame para diagnóstico de DRGE! Auxilia no planejamento cirúrgico (na seleção do tipo de fundoplicatura). Um cateter é usado para medir a pressão em diversos pontos do esôfago, medindo o número e intensidade das ondas peristálticas, medindo também o tônus do EEI. Suas indicações são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Localizar o EEI de modo a permitir o correto posicionamento do cateter de pHmetria;&lt;/li&gt;
-  &lt;li&gt;Antes da cirurgia antirrefluxo, com o objetivo de avaliar a competência motora do esôfago e determinar o tipo de fundoplicatura a ser realizada;&lt;/li&gt;
-  &lt;li&gt;Suspeita de algum distúrbio motor associado.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A esofagomanometria define se a fundoplicatura deverá ser parcial ou completa. Indicam-se fundoplicaturas parciais na vigência de fatores de risco para acalásia pós-operatória, como: (1) menos de 60% das ondas peristálticas atinge a porção final do esôfago; (2) a pressão das ondas peristálticas é inferior a 30 mmHg.&lt;/p&gt;
-
-&lt;p&gt;A pressão média normal do EEI está entre \textbf{10 e 30 mmHg}.&lt;/p&gt;
-
-&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
-
-&lt;h3 id=&quot;estenose-péptica-do-esôfago&quot;&gt;Estenose péptica do esôfago&lt;/h3&gt;
-
-&lt;p&gt;Ocorre em  5% dos portadores de esofagite erosiva. Começa no terço inferior do esôfago e cresce em caráter ascendente. Se manifesta clinicamente com disfagia por obstrução mecânica, geralmente de forma insidiosa.
-Podendo ser precedida por anos de pirose. Esta costuma desaparecer após a instalação da estenose, que atua como uma “barreira”. Diferentemente das estenoses de origem neoplásica, os pacientes não perdem peso pois preservam o apetite e conseguem mudar para uma dieta mais pastosa.&lt;/p&gt;
-
-&lt;p&gt;Abaixo da estenose é comum encontrar o esôfago de Barret. Devido a isso a biópsia está sempre indicada para diferenciar a estenose benigna da maligna.&lt;/p&gt;
-
-&lt;p&gt;O tratamento envolve a dilatação endoscópica por balão (buscando obter um diâmetro de 13-17 mm). Pode ser realizada em mais de uma sessão. Estenoses que se refazem rapidamente após a dilatação podem receber injeção endoscópica de glicocorticoide (triancinolona), o que aumenta a durabilidade do procedimento.&lt;/p&gt;
-
-&lt;p&gt;É obrigatório manter esses pacientes com IBP em longo prazo. Muitos autores, inclusive, recomendam prescrever IBP em “dose dobrada” (2x ao dia), de rotina, para todos esses pacientes.&lt;/p&gt;
-
-&lt;p&gt;A correção cirúrgica da estenose (ex.: esofagectomia) constitui medida de
-exceção, mas a cirurgia antirrefluxo pode ser considerada desde que a obstrução tenha	sido satisfatoriamente aliviada com a dilatação endoscópica, e a presença de câncer tenha
-sido descartada. Uma vez que, quando a dilatação é bem sucedida, o paciente passa a se comportar como se
-tivesse um EEI hipotônico, ficando paradoxalmente predisposto à ocorrência de refluxo ainda mais grave!&lt;/p&gt;
-
-&lt;h3 id=&quot;úlcera-esofágica&quot;&gt;Úlcera esofágica&lt;/h3&gt;
-
-&lt;p&gt;A esofagite de refluxo pode complicar com a
-formação de úlceras (lesões mais profundas que alcançam a submucosa e a muscular). Esses pacientes se queixam de dor ao deglutir (odinofagia) e têm hemorragia digestiva oculta (anemia ferropriva).&lt;/p&gt;
-
-&lt;p&gt;Raramente eles perfuram o esôfago. Com frequência, as úlceras relacionadas à DRGE se localizam em áreas de
-epitélio metaplásico (“úlcera de Barrett”),
-quer dizer, tais lesões estão sempre presentes
-no 1/3 distal do órgão!&lt;/p&gt;
-
-&lt;p&gt;Os principais diagnósticos diferenciais são a	síndrome de Zollinger-Ellison (gastrinoma) e
-as úlceras induzidas por comprimidos.&lt;/p&gt;
-
-&lt;h3 id=&quot;asma-relacionada-à-drge&quot;&gt;Asma Relacionada à DRGE&lt;/h3&gt;
-
-&lt;p&gt;O refluxo pode ser a única causa para o broncoespasmo ou, mais comumente, a DRGE apenas exacerba uma asma previamente existente. Deve ser suspeitada quando houver asma de difícil controle, crises asmáticas que predominam no período pós-prandial e coexistência de sintomas típicos da DRGE.&lt;/p&gt;
-
-&lt;p&gt;O próprio tratamento da asma (pelo uso de
-agonistas beta-adrenérgicos, que relaxam o
-EEI) também pode induzir refluxo.&lt;/p&gt;
-
-&lt;p&gt;A pHmetria de 24 pode ser útil para ver se há relação entre a ocorrência dos refluxos e de sintomas respiratórios.&lt;/p&gt;
-
-&lt;p&gt;O tratamento pode ser tanto o uso de IBPs por toda a vida, como uma cirurgia antirrefluxo. Alguns defendem a cirúrgia, pois: (1) mesmo que o IBP suprima a acidez gástrica,
-a microaspiração do material refluído continua
-ocorrendo, e a cirurgia – ao restaurar a barreira
-antirrefluxo – evita esse fenômeno;  (2) para serem eficazes no controle dos sintomas respiratórios, os IBP precisam ser empregados em doses
-elevadas, demorando de 2-3 meses para começar a surtir efeito.&lt;/p&gt;
-
-&lt;h3 id=&quot;esôfago-de-barret&quot;&gt;Esôfago de Barret&lt;/h3&gt;
-
-&lt;p&gt;É a substituição do epitélio escamoso normal por um epitélio colunar de padrão intestinal, altamente resistente ao pH ácido (metaplasia intestinal).&lt;/p&gt;
-
-&lt;p&gt;É encontrado em 10-15% dos pacientes submetidos à EDA devido a sintomas de refluxo. É uma doença principalmente de homens brancos, e sua prevalência aumenta com a idade até um pico entre 45-60 anos, podendo estar presente cerca de 20 anos antes de ser reconhecida. Sabemos atualmente que a obesidade também é fator de risco independente para EB.&lt;/p&gt;
-
-&lt;p&gt;Não manifesta sintomas específicos, demonstrada uma clínica mais por causa da DRGE associada. Muitos pacientes são oligo ou assintomáticos.&lt;/p&gt;
-
-&lt;p&gt;O consumo de vinho tinto, a infecção crônica por H. pylori e a raça negra são fatores de proteção contra o esôfago de Barrett!&lt;/p&gt;
-
-&lt;p&gt;Na EDA são vistas típicas “línguas” de coloração vermelho-salmão. A confirmação é	feita pela biópsia, sendo sua principal característica histopatológica (que define a presença de metaplasia do tipo “intestinal”) o encontro
-de células caliciformes (repletas de mucina),	melhor identificadas pelo corante alcian-blue, que as torna azuis claras.&lt;/p&gt;
-
-&lt;p&gt;Representa uma lesão precursora do adenocarcinoma (AC) de esôfago. Porta	dores de EB têm risco de AC 40x maior do que a população geral, o que equivale a 0,5% ao ano ou 10% no total.&lt;/p&gt;
-
-&lt;p&gt;A terapia intervencionista só será indicada se houver displasia na biópsia.
-Indicando-­se ou não a terapia intervencionista, é consenso que todo} os portadores EB devem receber inibidores de bomba de prótons!.&lt;/p&gt;
-
-&lt;h4 id=&quot;espofagografia-baritada&quot;&gt;Espofagografia baritada&lt;/h4&gt;
-
-&lt;p&gt;O paciente deglute contraste baritado e são obtidas imagens radiológicas que revelam a anatomia do esôfago. O principal papel da esofagografia é na caracterização das hérnias de hiato.&lt;/p&gt;
-
-&lt;p&gt;Também podemos solicitar este método em pacientes com disfagia (caso uma EDA não possa ser imediatamente realizada). A estenose péptica (benigna) aparece como um afunilamento progressivo (que pode se estender até as porções mais proximais do esôfago), enquanto o adenocarcinoma (maligno) demonstra uma súbita redução do lúmen (&lt;strong&gt;sinal do “degrau de escada&lt;/strong&gt;), tipicamente no terço distal.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;80% dos pacientes têm recidiva dos sintomas após suspensão das medicações.&lt;/p&gt;
-
-&lt;h3 id=&quot;medidas-antirrefluxo&quot;&gt;Medidas antirrefluxo&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Elevação da cabeceira do leito (15 a 20 cm).
-2, Reduzir a ingestão de alimentos que relaxam o EEI ou que têm efeito diretamente “irritante” para o esôfago: gorduras, cítricos, café, bebidas alcoólicas e gasosas, menta, hortelã,
-molho de tomate, chocolate, condimentos em excesso (alho, cebola, pimenta etc.).&lt;/li&gt;
-  &lt;li&gt;Evitar deitar após as refeições, devendo-se esperar de 2-3h; quanto mais comer e mais gordura ingerir, mais esperar.&lt;/li&gt;
-  &lt;li&gt;Evitar refeições copiosas; fracionar a dieta.&lt;/li&gt;
-  &lt;li&gt;Suspensão do fumo.&lt;/li&gt;
-  &lt;li&gt;Evitar líquidos às refeições.&lt;/li&gt;
-  &lt;li&gt;Evitar atitudes que aumentem a pressão intra-abdominal (agachar, fazer abdominais, usar roupas e cintos apertados etc.).&lt;/li&gt;
-  &lt;li&gt;Redução de peso em obesos.&lt;/li&gt;
-  &lt;li&gt;Evitar, se possível, as drogas que relaxam o EEI (antagonistas do cálcio, nitratos, derivados da &lt;strong&gt;morfina&lt;/strong&gt;, &lt;strong&gt;anticolinérgicos&lt;/strong&gt;, &lt;strong&gt;progesterona&lt;/strong&gt;, &lt;strong&gt;diazepam&lt;/strong&gt;, &lt;strong&gt;barbitúricos&lt;/strong&gt;, &lt;strong&gt;teofilina&lt;/strong&gt;).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;medicamentoso&quot;&gt;Medicamentoso&lt;/h3&gt;
-
-&lt;p&gt;Os procinéticos (ex.: bromoprida, domperidona, metoclopramida) não são mais indicados de rotina. Antigamente os procinéticos eram sempre prescritos como adjuvantes ao tratamento antis-secretor, com o intuito de melhorar o tônus e a motilidade da região esofagogástrica, mas nunca foi demonstrado um benefício consistente
-para a maioria dos pacientes.&lt;/p&gt;
-
-&lt;p&gt;Todavia, os procinéticos podem ser prescritos para pacientes
-que, além dos sintomas típicos de refluxo, apresentam outras queixas dispépticas sugestivas de
-gastroparesia associada (ex.: náuseas, saciedade precoce, plenitude pós-prandial).&lt;/p&gt;
-
-&lt;h4 id=&quot;bloqueadores-do-receptor-h2-de-histamina&quot;&gt;Bloqueadores do receptor H2 de histamina&lt;/h4&gt;
-
-&lt;p&gt;Bloqueiam os receptores H2 de histamina nas células parietais gástricas, &lt;strong&gt;inibindo, desse modo, uma das três vias de estímulo neuroendócrino à secreção ácida&lt;/strong&gt; (as outras duas são mediadas por acetilcolina e gastrina).&lt;/p&gt;
-
-&lt;p&gt;São comprovadamente &lt;span style=&quot;color:orange&quot;&gt;menos eficazes do
-que os IBP&lt;/span&gt;, não devendo, por conseguinte, ser
-prescritos na vigência de esofagite grave ou outras complicações (ex.: esôfago de Barrett). Os
-principais fármacos e suas respectivas posologias são citados na Tabela 6. Perceba que &lt;span style=&quot;color:green&quot;&gt;os BH2 devem sempre ser tomados 2x ao dia&lt;/span&gt;.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Bloqueadores H2&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Ranitidina (Antak®)&lt;/td&gt;
-      &lt;td&gt;75-150 mg 2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Nizatidina (Axid®)&lt;/td&gt;
-      &lt;td&gt;75-150 mg 2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Famotidina (Famotid®, Famox®)&lt;/td&gt;
-      &lt;td&gt;10-20 mg 2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Cimetidina (Tagamet®)&lt;/td&gt;
-      &lt;td&gt;200-400 mg 2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;inibidoes-da-bomba-de-prótons&quot;&gt;Inibidoes da Bomba de Prótons&lt;/h4&gt;
-
-&lt;p&gt;Inibem
-a H+/K +ATPase (“bomba de prótons”) bloqueando a via final para a secreção de ácido pelas células parietais do estômago. Constituem as &lt;span style=&quot;color:blue&quot;&gt;drogas de escolha quando o paciente é muito sintomático, e também quando apresenta esofagite ou outras complicações da DRGE&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;A melhora da pirose é observada em
-80-90% dos pacientes, desaparecendo por completo em cerca de 50%. A resolução da esofagite é esperada em &amp;gt; 80% quando a dose padrão
-é utilizada (1x ao dia, 30min antes do café da
-manhã), e quase todo o restante melhora quando a dose é “dobrada” (2x ao dia, 30min antes do café da manhã e 30min antes do jantar).&lt;/p&gt;
-
-&lt;p&gt;O omeprazol é o que
-tem maior número de interações, mas é também
-o mais barato.&lt;/p&gt;
-
-&lt;p&gt;Raramente os IBP produzem efeitos adversos. Cefaleia, Diarreia e Dor Abdominal são os
-paraefeitos AGUDOS mais comuns, e podem
-ser resolvidos com uma simples troca da medicação (ex.: trocar omeprazol por pantoprazol).&lt;/p&gt;
-
-&lt;p&gt;Em relação aos paraefeitos CRÔNICOS,
-os mais importantes são:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Maior risco de enterocolite infecciosa, incluindo infecção por Clostridium difficile;&lt;/li&gt;
-  &lt;li&gt;Maior risco de pneumonia (por enteropatógenos Gram-­negativos que passam a colonizar a mucosa gástrica e podem ser aspirados para a via aérea);&lt;/li&gt;
-  &lt;li&gt;Má absorção intestinal de ferro, cálcio, magnésio e vitamina B12, provocando anemia (ferropriva e/ou megaloblástica), hipomagnesemia e fraturas osteoporóticas, especialmente fraturas de quadril.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Usuários crônicos de IBP também estão mais propensos a desenvolver pólipos gástricos fúndicos, porém, o significado
-clínico deste achado ainda é incerto. A causa da maior
-ocorrência desses pólipos é a hipergastrinemia
-(que exerce estímulo trófico sobre as glândulas
-fúndicas), decorrente da hipo/acloridria gerada
-pelos IBP.&lt;/p&gt;
-
-&lt;p&gt;Não há evidências definitivas de que o risco de tumores de estômago como adenocarcinoma ou carcinoide esteja aumentado pelo uso de IBPs.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: left&quot;&gt;Inibidores da bomba de prótons&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Omeprazol (Losec ®)&lt;/td&gt;
-      &lt;td&gt;20-40 mg 1-2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Pantoprazol (Pantozol ®)&lt;/td&gt;
-      &lt;td&gt;20-40 mg 1-2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Esomeprasol (Nexium ®)&lt;/td&gt;
-      &lt;td&gt;20-40 mg 1-2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Lansoprazol (Prazol ®)&lt;/td&gt;
-      &lt;td&gt;15-30 mg 1-2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: left&quot;&gt;Rabeprazol (Pariet ®)&lt;/td&gt;
-      &lt;td&gt;10-20 mg 1-2x ao dia&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h4 id=&quot;antiácidos&quot;&gt;Antiácidos&lt;/h4&gt;
-
-&lt;p&gt;Os antiácidos (ex.: hidróxido de
-alumínio e/ou magnésio, como o Mylanta Plus® 10-20 ml VO) &lt;strong&gt;neutralizam diretamente a acidez do suco gástrico&lt;/strong&gt;, &lt;span style=&quot;color:green&quot;&gt;sem interferir na secreção cloridropéptica das células parietais&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Logo, não são úteis no tratamento prolongado da DRGE, pois seu efeito é de curta duração (cerca de 2h). Seriam necessárias muitas tomadas diárias a fim de manter o pH gástrico controlado e durante a noite, o paciente ficaria desprotegido. Mas podem ser utilizados como uma “emergência” para alívio imediato!&lt;/p&gt;
-
-&lt;p&gt;Seja como for, antiácidos isolados não têm eficácia na cicatrização da esofagite erosiva, tampouco na presença de outras complicações.&lt;/p&gt;
-
-&lt;p&gt;É importante lembrar que formulações contendo magnésio devem ser evitadas em portadores de doença renal crônica, pelo risco de causar hipermagnesemia.&lt;/p&gt;
-
-&lt;h4 id=&quot;alginato&quot;&gt;Alginato&lt;/h4&gt;
-
-&lt;p&gt;Alginato é um polímero de ocorrência natural que, quando tomado por via oral após uma refeição, possui a propriedade de formar uma película isolante sobre o &lt;em&gt;acid pocket&lt;/em&gt; (bolsão
-ácido que se acumula no fundo gástrico, por cima do bolo alimentar), impedindo seu contato com o esôfago! Quando combinado ao bicarbonato (Gaviscon®), torna-se particularmente útil no &lt;span style=&quot;color:blue&quot;&gt;&lt;span style=&quot;color:blue&quot;&gt;controle da pirose pós-prandial&lt;/span&gt;&lt;/span&gt; de portadores de DRGE que também pos-
-suem grandes hérnias de hiato.&lt;/p&gt;
-
-&lt;h3 id=&quot;cirurgia-antirrefluxo&quot;&gt;Cirurgia antirrefluxo&lt;/h3&gt;
-
-&lt;p&gt;Visa restabelecer a competência
-do EEI, circundando a extremidade inferior do esôfago com um manguito (ou válvula) formado pelo fundo gástrico – a chamada &lt;span style=&quot;color:red&quot;&gt;fundoplicatura&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Existem várias modalidades que diferem
-em função da via de acesso (torácica ou abdominal) e do tamanho da válvula gástrica confeccionada (fundoplicaturas parciais ou totais).&lt;/p&gt;
-
-&lt;p&gt;Reservada para os casos refratários ou com complicações  (que são aqueles onde a probabilidade de alterações anatômicas na barreira antirrefluxo – que podem ser corrigidas com uma fundoplicatura – é maior).&lt;/p&gt;
-
-&lt;p&gt;Atualmente, é preferencialmente realizada por meio da cirurgia videolaparoscópica. A taxa
-de sucesso (alívio dos sintomas e resolução da esofagite) beira os 85%.&lt;/p&gt;
-
-&lt;p&gt;Algumas indicações para o tratamento cirúrgico são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Refratariedade ao tratamento clínico (principalmente quando existe persistência da regurgitação e/ou hérnia de hiato associada).&lt;/li&gt;
-  &lt;li&gt;Pacientes impossibilitados de utilizar IBP em longo prazo (por problemas financeiros, alergia medicamentosa ou opção pessoal).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Antes da cirurgia é mandatório documentar o refluxo por
-uma pHmetria de 24h (a fim de evitar operar portadores de distúrbios puramente “funcionais”)! A EDA também costuma ser feita para descartar complicações (ex.: esôfago de
-Barrett, adenocarcinoma) e a esofagomanometria é indicada para selecionar o tipo de fundoplicatura (total ou parcial).&lt;/p&gt;
-
-&lt;p&gt;Portadores de
-obesidade mórbida devem ser prioritariamente
-submetidos à cirurgia bariátrica, e não a um procedimento antirrefluxo.&lt;/p&gt;
-
-&lt;h5 id=&quot;técnicas-cirúrgicas&quot;&gt;Técnicas cirúrgicas&lt;/h5&gt;
-
-&lt;p&gt;&lt;strong&gt;Fundoplicatura de Nisse: (360)&lt;/strong&gt; realizada através de acesso abdominal, com
-preferência pela videolaparoscopia. Se houver hérnia de hiato, deve-se dissecar o pilar esquerdo do diafragma a fim de realizar sua redução. Confecciona-se uma válvula com o
-fundo gástrico “abraçando” toda a circunferência do esôfago (360 graus). Consiste no procedimento
-de escolha, sendo o de maior eficácia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fundoplicaturas Parciais: (180-270)&lt;/strong&gt;
-indicadas na vigência de dismotilidade esofagiana (menos de 60% das ondas peristálticas são completas e/ou a pressão das ondas peristálticas é inferior a 30 mmHg), pelo maior risco de acalásia iatrogênica com a fundoplicatura de Nissen. As válvulas são parciais, variando entre 180 e 270 graus, podendo ser anteriores
-(como nas técnicas de &lt;strong&gt;Dor&lt;/strong&gt;) ou posteriores
-(como na cirurgia de &lt;strong&gt;Toupet&lt;/strong&gt;). Em todas, o acesso é abdominal. O acesso transtorácico esquerdo era utilizado na técnica de &lt;strong&gt;Belsey-Mark IV&lt;/strong&gt; (abandonada nos dias de hoje), onde
-era confeccionada uma válvula gástrica posterior parcial de 240 graus.&lt;/p&gt;
-
-&lt;h3 id=&quot;esquemas-terapêuticos&quot;&gt;Esquemas terapêuticos&lt;/h3&gt;
-
-&lt;h4 id=&quot;sintomas-leves-e-intermitentes&quot;&gt;Sintomas leves e intermitentes&lt;/h4&gt;
-
-&lt;p&gt;Com frequência &amp;lt; 1x/semana, pode-se usar BH2 (agem em cerca de 30 min, duram 8 h) ou antiácidos (agem imediatamente, duram 2 h) quando na vigência de sintomas.&lt;/p&gt;
-
-&lt;h4 id=&quot;sintomas-graves-e-frequentes&quot;&gt;Sintomas graves e frequentes&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Tratamento inicial:&lt;/strong&gt; IBP em dose padrão (1x ao dia), mantidos por 4 a 8 semanas;
-    &lt;ul&gt;
-      &lt;li&gt;Cerca de 10-20% dos pacientes não melhoram com a dose padrão após as primeiras 2-4 semanas, situação que autoriza o médico a &lt;strong&gt;“dobrar a dose”&lt;/strong&gt; empiricamente (2x ao dia);
-        &lt;ul&gt;
-          &lt;li&gt;Pacientes que nunca fizeram medicação mas já receberam o diagnóstico de DRGE associado a complicações (ex.: esofagite erosiva grave, esôfago de Barrett, estenose péptica) já podem iniciar na dose dobrada;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Na ausência de resposta à dose dobrada (5% dos casos), o paciente deve ser submetido a exames complementares;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tratamento de manutenção:&lt;/strong&gt; pacientes que respondem de forma satisfatória ao IBP na dose padrão &lt;strong&gt;devem tentar suspender a medicação&lt;/strong&gt; após o tratamento inicial.
-    &lt;ul&gt;
-      &lt;li&gt;Cerca de 80% evoluem com recidiva dos sintomas, geralmente dentro dos primeiros 3 meses, e para estes indivíduos as seguintes opções são válidas:
-        &lt;ol&gt;
-          &lt;li&gt;Reintroduzir o IBP na dose padrão e mantê-lo indefinidamente;&lt;/li&gt;
-          &lt;li&gt;Utilizar o IBP na dose padrão, mas de forma intermitente (cursos alternantes de 2-4 semanas);&lt;/li&gt;
-          &lt;li&gt;Utilizar o IBP “sob demanda” (isto é, somente para resolver sintomas eventuais).&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Para pacientes que necessitaram de IBP em dose dobrada durante o tratamento inicial, bem como para aqueles diagnosticados com complicações da DRGE, recomenda-se não tentar seuspender a medicação. Devendo o tratamento ser mantido indefinidamente com a menor dose efetiva possível.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;tratamento-do-esôfago-de-barrett&quot;&gt;Tratamento do Esôfago de Barrett&lt;/h4&gt;
-
-&lt;p&gt;Todo portador de esôfago de Barrett deve realizar múltiplas biópsias endoscópicas à procura de displasia ou neoplasia. Na ausência de displasia, a EDA com biópsias pode ser &lt;span class=&quot;red&quot;&gt;repetida a cada 3-5 anos&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Na presença de displasia de baixo grau, duas opções são aceitáveis: (1)
-EDA anual; (2) terapia endoscópica. A maioria dos autores modernos têm preferido a última opção.&lt;/p&gt;
-
-&lt;p&gt;O encontro de displasia de alto
-grau (carcinoma in situ) indica terapia endoscópica ou esofagectomia. Prefere-se a endoscopia devido à alta mortalidade da cirúrgia.&lt;/p&gt;
-
-&lt;p&gt;A terapia endoscópia pode ser feita por ressecção da mucosa ou ablação com ondas de radiofrequência. A ressecção é indicada na presença de nódulos ou irregularidades superficiais, já que permite um estudo histopatológico ainda mais focado. A ablação por radiofrequência pode ser empregada para eliminar o restante do epitélio metaplásico.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

@@ -45,6 +45,12 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/intensiva/choque',
+      
+        '/gastroenterologia/colite-ulcerativa',
+      
+        '/cirurgia/cirugia-do-colon-e-reto',
+      
         '/gastroenterologia/megaesofago-e-megacolon',
       
         '/pediatria/abdome-agudo-na-crianca',
