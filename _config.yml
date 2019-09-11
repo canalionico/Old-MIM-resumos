@@ -50,7 +50,7 @@ defaults:
     values:
       layout: "post"
       author: "@moscafilipe"
-      permalink: /:categories/:title
+      permalink: /:categories/:title:output_ext
 #defaults para todo o resto
   - scope:
       path: ""

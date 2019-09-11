@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-10T17:05:17-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cirurgia do cólon e reto</title><link href="http://localhost:4000/cirurgia/cirugia-do-colon-e-reto" rel="alternate" type="text/html" title="Cirurgia do cólon e reto" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/cirugia-do-colon-e-reto</id><content type="html" xml:base="http://localhost:4000/cirurgia/cirugia-do-colon-e-reto">&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-11T14:44:35-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cirurgia do cólon e reto</title><link href="http://localhost:4000/cirurgia/cirugia-do-colon-e-reto.html" rel="alternate" type="text/html" title="Cirurgia do cólon e reto" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/cirugia-do-colon-e-reto</id><content type="html" xml:base="http://localhost:4000/cirurgia/cirugia-do-colon-e-reto.html">&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
 
 &lt;p&gt;O reto superior e inferior possuem drenagens linfáticas diferentes, o que altera a conduta na hora de fazer uma ressecção.&lt;/p&gt;
 
@@ -108,13 +108,28 @@
 
 &lt;p&gt;Quando resseca o reto superior é necessário remover o sigmoide também. No reto inferior é necessário remover também o ânus e o paciente fica com colostomia definitiva.&lt;/p&gt;
 
-&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Anatomia</summary></entry><entry><title type="html">Doença inflamatória intestinal</title><link href="http://localhost:4000/gastroenterologia/colite-ulcerativa" rel="alternate" type="text/html" title="Doença inflamatória intestinal" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/colite-ulcerativa</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/colite-ulcerativa">&lt;p&gt;A endoscopia vai até a segunda porção duodenal. A colonoscopia vai até uns 15 cm do íleo distal. Ou seja, principalmente o jejuno e o íleo proximal não pode ser visualizado. É justamente nestas porções que ocorre a doença de Chron.&lt;/p&gt;
+&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Anatomia</summary></entry><entry><title type="html">Doença inflamatória intestinal</title><link href="http://localhost:4000/gastroenterologia/doencas-inflamatorias-intestinais.html" rel="alternate" type="text/html" title="Doença inflamatória intestinal" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/doencas-inflamatorias-intestinais</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/doencas-inflamatorias-intestinais.html">&lt;!--
+A endoscopia vai até a segunda porção duodenal. A colonoscopia vai até uns 15 cm do íleo distal. Ou seja, principalmente o jejuno e o íleo proximal não pode ser visualizado. É justamente nestas porções que ocorre a doença de Chron.
+--&gt;
 
-&lt;p&gt;São dois grandes grupos de doenças inflamatória intestinais: Chron e retocolite ulcerativa.&lt;/p&gt;
+&lt;p&gt;São dois grandes grupos de DIIs: &lt;strong&gt;doença de Crohn&lt;/strong&gt; (DC) e a &lt;strong&gt;retocolite ulcerativa&lt;/strong&gt; (RCU). As duas devem ser diferenciadas das demais doenças que também promovem inflamação dos intestinos, como: infecções, diverticulite, apendicite, enterite por radiação, medicamentos ou toxinas, e vasculite intestinal.&lt;/p&gt;
+
+&lt;p&gt;Ambas, DC e RCU, são doenças crônicas sem etiologia esclarecida e muito semelhantes clinicamente e epidemiologicamente. Até o momento, sabemos que as DII se caracterizam por um processo inflamatório crônico associado O &lt;em&gt;gradiente Norte-Sul&lt;/em&gt; é descrito pois, quanto mais se desloca em direção ao norte, mais frequente são os casos de RCU.a uma resposta imunológica inadequada contra agentes intraluminais.&lt;sup id=&quot;fnref:esberard2012&quot;&gt;&lt;a href=&quot;#fn:esberard2012&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Para as duas, a presença de &lt;strong&gt;história familiar&lt;/strong&gt; é o principal fator de risco (em 10-25% dos pacientes). O &lt;em&gt;gradiente Norte-Sul&lt;/em&gt; é descrito pois, quanto mais se desloca em direção ao norte, mais frequente são os casos de DII. Ou seja, a incidência é maior na América do Norte e Europa, em detrimento da África e América do Sul. Também são mais comuns na população &lt;strong&gt;branca&lt;/strong&gt;, principalmente os &lt;strong&gt;judeus&lt;/strong&gt;. O pico de incidência etária é bimodal, com maior frequência entre os 15-40 anos e 50-80 anos. As sídromes de &lt;em&gt;Turner&lt;/em&gt; e &lt;em&gt;Wiskott-Aldrich&lt;/em&gt; estão associadas a maior incidência.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;anemia&lt;/strong&gt; pode aparecer tanto nos pacientes com Crohn como na RCU. Pode ser devido à hemorragia, caracterizando uma &lt;strong&gt;anemia microcítica&lt;/strong&gt;. Contudo, na Crohn também pode haver &lt;strong&gt;anemia megaloblástica&lt;/strong&gt; por deficiência de B12.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;intolerância à lactose&lt;/strong&gt; não é mais prevalente entre portadores de DII em relação à população geral. Contudo,  a presença de DII pode agregar um componente de intolerância “secundária” em consequência à diminuição da capacidade absortiva intestinal, principalmente na DC com lesão extensa do delgado.&lt;/p&gt;
+
+&lt;p&gt;Algumas mulheres relatam piora dos sintomas durante o período menstrual. Porém, a relação entre DII e &lt;strong&gt;ACO&lt;/strong&gt; (e a terapia de reposição hormonal) é controversa. Parece que os ACO aumentam (discretamente) o risco de DII e a chance de exacerbação em pacientes com doença estabelecida.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
 
 &lt;p&gt;Fisiopatologia da doença inflamatória intestinal: as IL-5 e IL-10 estão mais associadas à RCU (Th2), enquanto que IL-1, IL-12, TNFa e IFN-g estão mais associados ao Crohn (Th1).&lt;/p&gt;
 
-&lt;p&gt;A anemia pode aparecer tanto nos pacientes com Crohn como na RCU. Pode ser devido à hemorragia, caracterizando uma &lt;strong&gt;anemia microcítica&lt;/strong&gt;. Contudo, na Crohn também pode haver &lt;strong&gt;anemia megaloblástica&lt;/strong&gt; por deficiência de B12.&lt;/p&gt;
+&lt;p&gt;A diferenciação entre RCU e DC é feita por critérios clínicos, radiológicos, endoscópicos e
+histológicos.&lt;/p&gt;
 
 &lt;h1 id=&quot;retocolite-ulcerativa-idiopática&quot;&gt;Retocolite ulcerativa idiopática&lt;/h1&gt;
 
@@ -122,11 +137,15 @@
 
 &lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
 
-&lt;p&gt;A história falimiar aumenta o risco em 3 a 20 vezes. A concordância entre gêmeos é de 6 a 10%. Alta incidência entre judeus e possui correlaçãocom o fumo e a colite ulcerativa.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;A história falimiar aumenta o risco em 3 a 20 vezes. A concordância entre gêmeos é de 6 a 10%. Alta incidência entre judeus e possui correlação com o fumo e a colite ulcerativa. Possui uma discreta predominância em homens.&lt;sup id=&quot;fnref:aula&quot;&gt;&lt;a href=&quot;#fn:aula&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Aumenta a incidência de CA colorretal nesse grupo de pacientes. O tempo e extensão da doença são proporcionais ao risco.&lt;/p&gt;
 
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+&lt;p&gt;O cigarro é um fator protetor para a RCU, diferentemente da DC.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia-1&quot;&gt;Fisiopatologia&lt;/h2&gt;
 
 &lt;p&gt;Acometimento inflamatório é contínuo e simpetrico&lt;/p&gt;
 
@@ -238,6 +257,14 @@
 
 &lt;p&gt;Maior risco de estenose do que a RCU.&lt;/p&gt;
 
+&lt;h2 id=&quot;epidemiologia-1&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Apresenta uma discreta predominância em mulheres.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia-2&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;O gene NOD2/CARD15, se encontra fortemente associado.&lt;/p&gt;
+
 &lt;h2 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h2&gt;
 
 &lt;ul&gt;
@@ -251,7 +278,20 @@
 
 &lt;p&gt;A tuberculose intestinal pode ser um diagnóstico diferencial com a doença de crohn. A melhor diferenciação é o histopatológico. O granuloma do Crhon é não caseoso.&lt;/p&gt;
 
-&lt;p&gt;O paciente com Crohn que faz cirurgia evolui muito mal.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">A endoscopia vai até a segunda porção duodenal. A colonoscopia vai até uns 15 cm do íleo distal. Ou seja, principalmente o jejuno e o íleo proximal não pode ser visualizado. É justamente nestas porções que ocorre a doença de Chron.</summary></entry><entry><title type="html">Choque</title><link href="http://localhost:4000/intensiva/choque" rel="alternate" type="text/html" title="Choque" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/intensiva/choque</id><content type="html" xml:base="http://localhost:4000/intensiva/choque">&lt;table&gt;
+&lt;p&gt;O paciente com Crohn que faz cirurgia evolui muito mal.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:esberard2012&quot;&gt;
+      &lt;p&gt;Esberard BC. Etiopatogenia das doenças inflamatórias intestinais. Revista Hospital Universitário Pedro Ernesto. 2012;11(4):13-16 &lt;a href=&quot;#fnref:esberard2012&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:aula&quot;&gt;
+      &lt;p&gt;Aula de Dr. Severino &lt;a href=&quot;#fnref:aula&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Choque</title><link href="http://localhost:4000/intensiva/choque.html" rel="alternate" type="text/html" title="Choque" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/intensiva/choque</id><content type="html" xml:base="http://localhost:4000/intensiva/choque.html">&lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;Critérios de &lt;em&gt;Quick SOFA&lt;/em&gt; (&lt;em&gt;qSOFA&lt;/em&gt;)&lt;sup id=&quot;fnref:consenso&quot;&gt;&lt;a href=&quot;#fn:consenso&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
@@ -273,10 +313,10 @@
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:consenso&quot;&gt;
-      &lt;p&gt;s &lt;a href=&quot;#fnref:consenso&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock(Sepsis-3). JAMA. 2016;315(8):801. doi:10.1001/jama.2016.0287 &lt;a href=&quot;#fnref:consenso&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Critérios de Quick SOFA (qSOFA)1 Respiratory rate ≥ 22/min Altered mentation PAS ≤ 100 mm Hg s &amp;#8617;</summary></entry><entry><title type="html">Megaesôfago e megacólom</title><link href="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon" rel="alternate" type="text/html" title="Megaesôfago e megacólom" /><published>2019-09-08T00:00:00-03:00</published><updated>2019-09-08T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/megaesofago-e-megacolon</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon">&lt;h2 id=&quot;doença-de-chagas&quot;&gt;Doença de Chagas&lt;/h2&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Critérios de Quick SOFA (qSOFA)1 Respiratory rate ≥ 22/min Altered mentation PAS ≤ 100 mm Hg Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock(Sepsis-3). JAMA. 2016;315(8):801. doi:10.1001/jama.2016.0287 &amp;#8617;</summary></entry><entry><title type="html">Megaesôfago e megacólom</title><link href="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon.html" rel="alternate" type="text/html" title="Megaesôfago e megacólom" /><published>2019-09-08T00:00:00-03:00</published><updated>2019-09-08T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/megaesofago-e-megacolon</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon.html">&lt;h2 id=&quot;doença-de-chagas&quot;&gt;Doença de Chagas&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Formas de transmissão
@@ -348,7 +388,7 @@
   &lt;li&gt;Distúrbios da peristalse&lt;/li&gt;
   &lt;li&gt;Constipação intestinal&lt;/li&gt;
   &lt;li&gt;Distensão abdominal&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><category term="gastroenterologia" /><summary type="html">Doença de Chagas</summary></entry><entry><title type="html">Tumores hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Tumores hepáticos" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><category term="gastroenterologia" /><summary type="html">Doença de Chagas</summary></entry><entry><title type="html">Tumores hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos.html" rel="alternate" type="text/html" title="Tumores hepáticos" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tumores-benignos&quot; id=&quot;markdown-toc-tumores-benignos&quot;&gt;Tumores benignos&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#adenoma-hepatocelular&quot; id=&quot;markdown-toc-adenoma-hepatocelular&quot;&gt;Adenoma hepatocelular&lt;/a&gt;        &lt;ol&gt;
@@ -757,7 +797,7 @@ tecido hepático. Deve ser evitada em pacientes com hipertensão portal.
   &lt;li&gt;Ablação tumoral por radiofrequência;&lt;/li&gt;
   &lt;li&gt;Termoablação;&lt;/li&gt;
   &lt;li&gt;Quimioembolização transarterial: como o CHC se nutre quase 100% da artéria hepática, a obstrução desta vasculatura pode propiciar a isquemia e necrose tumoral.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Abdome agudo na criança</title><link href="http://localhost:4000/pediatria/abdome-agudo-na-crianca" rel="alternate" type="text/html" title="Abdome agudo na criança" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/abdome-agudo-na-crianca</id><content type="html" xml:base="http://localhost:4000/pediatria/abdome-agudo-na-crianca">&lt;p&gt;O diagnóstico de abdome agudo é um desafio em  crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.&lt;/p&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Abdome agudo na criança</title><link href="http://localhost:4000/pediatria/abdome-agudo-na-crianca.html" rel="alternate" type="text/html" title="Abdome agudo na criança" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/abdome-agudo-na-crianca</id><content type="html" xml:base="http://localhost:4000/pediatria/abdome-agudo-na-crianca.html">&lt;p&gt;O diagnóstico de abdome agudo é um desafio em  crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.&lt;/p&gt;
 
 &lt;p&gt;Caracterização da dor: se o início foi agudo, gradativo, súbito.&lt;/p&gt;
 
@@ -896,7 +936,7 @@ pelo movimento peristáltico
   &lt;li&gt;Eliminação de Ascaris pela boca ou nariz;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;O tratamento é clínico, esporadicamente cirúrgico.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O diagnóstico de abdome agudo é um desafio em crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.</summary></entry><entry><title type="html">Abdomen agudo</title><link href="http://localhost:4000/cirurgia/abdomen-agudo" rel="alternate" type="text/html" title="Abdomen agudo" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/abdomen-agudo</id><content type="html" xml:base="http://localhost:4000/cirurgia/abdomen-agudo">&lt;p&gt;É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.&lt;/p&gt;
+&lt;p&gt;O tratamento é clínico, esporadicamente cirúrgico.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O diagnóstico de abdome agudo é um desafio em crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.</summary></entry><entry><title type="html">Abdomen agudo</title><link href="http://localhost:4000/cirurgia/abdomen-agudo.html" rel="alternate" type="text/html" title="Abdomen agudo" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/abdomen-agudo</id><content type="html" xml:base="http://localhost:4000/cirurgia/abdomen-agudo.html">&lt;p&gt;É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.&lt;/p&gt;
 
 &lt;h2 id=&quot;fisiopatologia-da-dor-abdominal&quot;&gt;Fisiopatologia da dor abdominal:&lt;/h2&gt;
 
@@ -1108,7 +1148,7 @@ Idosos, diabéticos, fibrilação atrial, IAM, IC dilatada, drogas vasoativas, c
 
 &lt;p&gt;RX com paciente em pé: é possível ver pneumoperitônio. O figado fica afastando da cúpula diafragmática.&lt;/p&gt;
 
-&lt;h3 id=&quot;traumático&quot;&gt;Traumático&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.</summary></entry><entry><title type="html">Gastrite</title><link href="http://localhost:4000/gastroenterologia/gastrite" rel="alternate" type="text/html" title="Gastrite" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/gastrite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/gastrite">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;h3 id=&quot;traumático&quot;&gt;Traumático&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.</summary></entry><entry><title type="html">Gastrite</title><link href="http://localhost:4000/gastroenterologia/gastrite.html" rel="alternate" type="text/html" title="Gastrite" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/gastrite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/gastrite.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#gastrite-por-h-pylori&quot; id=&quot;markdown-toc-gastrite-por-h-pylori&quot;&gt;Gastrite por &lt;em&gt;H. pylori&lt;/em&gt;&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#aguda&quot; id=&quot;markdown-toc-aguda&quot;&gt;Aguda&lt;/a&gt;&lt;/li&gt;
@@ -1326,7 +1366,7 @@ iniciar terapia com IBP. Caso o paciente necessite retomar a terapia anti-inflam
 
 &lt;ol&gt;
   &lt;li&gt;FERREIRA Lincoln Eduardo Villela Vieira de Castro, MEIRELLES Gustavo de Souza Portes, VIEIRA Renata La Rocca, BRAGAGNOLO Jr. Maurício Augusto, CHEBLI Júlio Maria Fonseca, SOUZA Aécio Flávio Meirelles de. Alterações no teste ultra-rápido da urease e no exame anatomopatológico para Helicobacter pylori induzidas por drogas anti-secretoras. Arq. Gastroenterol.  [Internet]. 2001  Jan [cited  2019  Sep  08] ;  38(1): 03-08. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S0004-28032001000100002&amp;amp;lng=en.  http://dx.doi.org/10.1590/S0004-28032001000100002.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Megaesôfago</title><link href="http://localhost:4000/cirurgia/megaes%C3%B4fago" rel="alternate" type="text/html" title="Megaesôfago" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/megaes%C3%B4fago</id><content type="html" xml:base="http://localhost:4000/cirurgia/megaes%C3%B4fago">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Megaesôfago</title><link href="http://localhost:4000/cirurgia/megaes%C3%B4fago.html" rel="alternate" type="text/html" title="Megaesôfago" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/megaes%C3%B4fago</id><content type="html" xml:base="http://localhost:4000/cirurgia/megaes%C3%B4fago.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#classificação-radiográfica&quot; id=&quot;markdown-toc-classificação-radiográfica&quot;&gt;Classificação radiográfica&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#classificação-de-chucago&quot; id=&quot;markdown-toc-classificação-de-chucago&quot;&gt;Classificação de Chucago&lt;/a&gt;&lt;/li&gt;
@@ -1461,7 +1501,7 @@ iniciar terapia com IBP. Caso o paciente necessite retomar a terapia anti-inflam
       &lt;li&gt;Esofagocardioplastias (Thal): abre-se uma passagem bem larga entre o esôfago e o estômado. “Como a passagem é larga quase não tem esofagite pois tudo que reflui volta ao estômago”&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Nódulos hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos.html" rel="alternate" type="text/html" title="Nódulos hepáticos" /><published>2019-09-04T00:00:00-03:00</published><updated>2019-09-04T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#cistos-hepáticos&quot; id=&quot;markdown-toc-cistos-hepáticos&quot;&gt;Cistos hepáticos&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#hemangioma&quot; id=&quot;markdown-toc-hemangioma&quot;&gt;Hemangioma&lt;/a&gt;&lt;/li&gt;

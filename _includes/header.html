@@ -2,7 +2,6 @@
   <div class="wrapper">
     <a href="/"><img id="logo" src="/assets/logo-resumos.png" alt="logo"></a>
     <nav class="nav-site">
-      <a href="https://canalionico.com.br"><object id="nak" type="image/svg+xml" data="/nak-2.svg"></object>Canal Iônico</a>
       {% for item in site.data.navigation %}
         <a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}><i class="fa fa-{{ item.icon }}"></i>{{ item.name }}</a>
       {% endfor %}

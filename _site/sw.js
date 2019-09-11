@@ -45,219 +45,219 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
-        '/intensiva/choque',
+        '/intensiva/choque.html',
       
-        '/gastroenterologia/colite-ulcerativa',
+        '/gastroenterologia/doencas-inflamatorias-intestinais.html',
       
-        '/cirurgia/cirugia-do-colon-e-reto',
+        '/cirurgia/cirugia-do-colon-e-reto.html',
       
-        '/gastroenterologia/megaesofago-e-megacolon',
+        '/gastroenterologia/megaesofago-e-megacolon.html',
       
-        '/pediatria/abdome-agudo-na-crianca',
+        '/pediatria/abdome-agudo-na-crianca.html',
       
-        '/gastroenterologia/nodulos-hepaticos',
+        '/gastroenterologia/nodulos-hepaticos.html',
       
-        '/gastroenterologia/gastrite',
+        '/gastroenterologia/gastrite.html',
       
-        '/cirurgia/abdomen-agudo',
+        '/cirurgia/abdomen-agudo.html',
       
-        '/gastroenterologia/nodulos-hepaticos',
+        '/gastroenterologia/nodulos-hepaticos.html',
       
-        '/cirurgia/megaes%C3%B4fago',
+        '/cirurgia/megaes%C3%B4fago.html',
       
-        '/gastroenterologia/hepatites',
+        '/gastroenterologia/hepatites.html',
       
-        '/gastroenterologia/cirrose-hepatica',
+        '/gastroenterologia/cirrose-hepatica.html',
       
-        '/gastroenterologia/drge',
+        '/gastroenterologia/drge.html',
       
-        '/gastroenterologia/pancreatite',
+        '/gastroenterologia/pancreatite.html',
       
-        '/cirurgia/pancreatite-cronica',
+        '/cirurgia/pancreatite-cronica.html',
       
-        '/pediatria/drge-na-crianca',
+        '/pediatria/drge-na-crianca.html',
       
-        '/cirurgia/ictericia-obstrutiva',
+        '/cirurgia/ictericia-obstrutiva.html',
       
-        '/obstetricia/doen%C3%A7a-trofoblastica-gestacional',
+        '/obstetricia/doen%C3%A7a-trofoblastica-gestacional.html',
       
-        '/obstetricia/vacuo-extrator',
+        '/obstetricia/vacuo-extrator.html',
       
-        '/obstetricia/forceps',
+        '/obstetricia/forceps.html',
       
-        '/obstetricia/assistencia-pre-natal',
+        '/obstetricia/assistencia-pre-natal.html',
       
-        '/obstetricia/assistencia-ao-parto-e-partograma',
+        '/obstetricia/assistencia-ao-parto-e-partograma.html',
       
-        '/trauma/atendimento-inicial',
+        '/trauma/atendimento-inicial.html',
       
-        '/mastologia/tumores-especiais',
+        '/mastologia/tumores-especiais.html',
       
-        '/obstetricia/diabetes-na-gestacao',
+        '/obstetricia/diabetes-na-gestacao.html',
       
-        '/nefrologia/nefrotoxicidade',
+        '/nefrologia/nefrotoxicidade.html',
       
-        '/ginecologia/sangramento-uterino-anormal',
+        '/ginecologia/sangramento-uterino-anormal.html',
       
-        '/ginecologia/infertilidade',
+        '/ginecologia/infertilidade.html',
       
-        '/urologia/dinfuncao-sexual-masculina',
+        '/urologia/dinfuncao-sexual-masculina.html',
       
-        '/pediatria/has-na-crianca',
+        '/pediatria/has-na-crianca.html',
       
-        '/ginecologia/climaterio',
+        '/ginecologia/climaterio.html',
       
-        '/obstetricia/infeccao-puerperal',
+        '/obstetricia/infeccao-puerperal.html',
       
-        '/ginecologia/tumores-de-ovario',
+        '/ginecologia/tumores-de-ovario.html',
       
-        '/mastologia/oncomastologia',
+        '/mastologia/oncomastologia.html',
       
-        '/nefrologia/doenca-renal-policistica',
+        '/nefrologia/doenca-renal-policistica.html',
       
-        '/neonatologia/obstrucao-intestinal',
+        '/neonatologia/obstrucao-intestinal.html',
       
-        '/tocoliticos',
+        '/tocoliticos.html',
       
-        '/neonatologia/infeccoes-congenitas',
+        '/neonatologia/infeccoes-congenitas.html',
       
-        '/refs-rapidas/hemograma',
+        '/refs-rapidas/hemograma.html',
       
-        '/obstetricia/parto-prematuro',
+        '/obstetricia/parto-prematuro.html',
       
-        '/neonatologia/vitalidade-fetal',
+        '/neonatologia/vitalidade-fetal.html',
       
-        '/urologia/tumores-de-testiculo',
+        '/urologia/tumores-de-testiculo.html',
       
-        '/urologia/alteracoes-escrotais',
+        '/urologia/alteracoes-escrotais.html',
       
-        '/infectologia/exame-lcr',
+        '/infectologia/exame-lcr.html',
       
-        '/infectologia/neurotoxoplasmose',
+        '/infectologia/neurotoxoplasmose.html',
       
-        '/infectologia/dengue',
+        '/infectologia/dengue.html',
       
-        '/neonatologia/vomitos-no-rn',
+        '/neonatologia/vomitos-no-rn.html',
       
-        '/ginecologia/sindrome-dos-ovarios-policisticos',
+        '/ginecologia/sindrome-dos-ovarios-policisticos.html',
       
-        '/obstetricia/rpmo',
+        '/obstetricia/rpmo.html',
       
-        '/obstetricia/guia-do-plantonista',
+        '/obstetricia/guia-do-plantonista.html',
       
-        '/obstetricia/vias-arereas-e-iot',
+        '/obstetricia/vias-arereas-e-iot.html',
       
-        '/neonatologia/dispneia-de-causa-cirurgica',
+        '/neonatologia/dispneia-de-causa-cirurgica.html',
       
-        '/nefrologia/nefropatia-diabetica',
+        '/nefrologia/nefropatia-diabetica.html',
       
-        '/obstetricia/pp',
+        '/obstetricia/pp.html',
       
-        '/obstetricia/dpp',
+        '/obstetricia/dpp.html',
       
-        '/obstetricia/sangramento-segundo-trimestre',
+        '/obstetricia/sangramento-segundo-trimestre.html',
       
-        '/neonatologia/disturbios-repiratorios',
+        '/neonatologia/disturbios-repiratorios.html',
       
-        '/ginecologia/amenorreia',
+        '/ginecologia/amenorreia.html',
       
-        '/urologia/tumores-de-bexiga',
+        '/urologia/tumores-de-bexiga.html',
       
-        '/obstetricia/hipertensao-na-gravidez',
+        '/obstetricia/hipertensao-na-gravidez.html',
       
-        '/ginecologia/planejamento-familiar',
+        '/ginecologia/planejamento-familiar.html',
       
-        '/ginecologia/planejamento-familiar-2',
+        '/ginecologia/planejamento-familiar-2.html',
       
-        '/mastologia/tumores-malignos-da-mama',
+        '/mastologia/tumores-malignos-da-mama.html',
       
-        '/neonatologia/disturbios-hidroeletroliticos',
+        '/neonatologia/disturbios-hidroeletroliticos.html',
       
-        '/neonatologia/disturbios-metabolicos',
+        '/neonatologia/disturbios-metabolicos.html',
       
-        '/nefrologia/ira',
+        '/nefrologia/ira.html',
       
-        '/ginecologia/leiomioma-uterino',
+        '/ginecologia/leiomioma-uterino.html',
       
-        '/ginecologia/endometriose',
+        '/ginecologia/endometriose.html',
       
-        '/urologia/massas-renais',
+        '/urologia/massas-renais.html',
       
-        '/obstetricia/hemorragia-pos-parto',
+        '/obstetricia/hemorragia-pos-parto.html',
       
-        '/ginecologia/cancer-de-endometrio',
+        '/ginecologia/cancer-de-endometrio.html',
       
-        '/obstetricia/puerperio',
+        '/obstetricia/puerperio.html',
       
         '/pediatriạ',
       
-        '/nefrologia/doenca-renal-cronica',
+        '/nefrologia/doenca-renal-cronica.html',
       
-        '/urologia/infeccoes-do-trato-urinario',
+        '/urologia/infeccoes-do-trato-urinario.html',
       
-        '/ginecologia/cancer-de-colo-uterino',
+        '/ginecologia/cancer-de-colo-uterino.html',
       
-        '/neonatologia/aula-disturbios-metabolicos',
+        '/neonatologia/aula-disturbios-metabolicos.html',
       
-        '/ginecologia/prolapso-genital',
+        '/ginecologia/prolapso-genital.html',
       
-        '/obstetricia/cesariana',
+        '/obstetricia/cesariana.html',
       
-        '/obstetricia/gravidez-ectopica',
+        '/obstetricia/gravidez-ectopica.html',
       
-        '/ginecologia/incontinencia-urinaria',
+        '/ginecologia/incontinencia-urinaria.html',
       
-        '/corrimento-vaginal',
+        '/corrimento-vaginal.html',
       
-        '/urologia/litiase-urinaria',
+        '/urologia/litiase-urinaria.html',
       
-        '/obstetricia/abortamento',
+        '/obstetricia/abortamento.html',
       
-        '/mastologia/derrame-papilar',
+        '/mastologia/derrame-papilar.html',
       
-        '/obstetricia/pelviologia',
+        '/obstetricia/pelviologia.html',
       
-        '/obstetricia/estatica-fetal',
+        '/obstetricia/estatica-fetal.html',
       
-        '/mastologia/semiologia-mastologica',
+        '/mastologia/semiologia-mastologica.html',
       
-        '/mastologia/exames-de-imagem-mastologia',
+        '/mastologia/exames-de-imagem-mastologia.html',
       
-        '/ginecologia/ulceras-genitais',
+        '/ginecologia/ulceras-genitais.html',
       
-        '/nefrologia/glomerulopatias',
+        '/nefrologia/glomerulopatias.html',
       
-        '/ginecologia/ciclo-menstrual',
+        '/ginecologia/ciclo-menstrual.html',
       
-        '/neonatologia/tocotraumatismo',
+        '/neonatologia/tocotraumatismo.html',
       
-        '/neonatologia/recem-nascido',
+        '/neonatologia/recem-nascido.html',
       
-        '/neonatologia/infeccao-congenita-hiv-sifilis',
+        '/neonatologia/infeccao-congenita-hiv-sifilis.html',
       
-        '/ginecologia/dipa',
+        '/ginecologia/dipa.html',
       
-        '/ginecologia/corrimento-vaginal',
+        '/ginecologia/corrimento-vaginal.html',
       
-        '/ginecologia/semiologia-ginecologica',
+        '/ginecologia/semiologia-ginecologica.html',
       
-        '/urologia/hiperplasia-prostatica',
+        '/urologia/hiperplasia-prostatica.html',
       
-        '/urologia/cancer-de-prostata',
+        '/urologia/cancer-de-prostata.html',
       
-        '/obstetricia/mecanismo-do-parto',
+        '/obstetricia/mecanismo-do-parto.html',
       
-        '/obstetricia/pre-natal-de-baixo-risco',
+        '/obstetricia/pre-natal-de-baixo-risco.html',
       
-        '/obstetricia/idade-da-gestacao-e-dpp',
+        '/obstetricia/idade-da-gestacao-e-dpp.html',
       
-        '/obstetricia/diagn%C3%B3stico-da-gravidez',
+        '/obstetricia/diagn%C3%B3stico-da-gravidez.html',
       
-        '/obstetricia/semiologia-obstetrica',
+        '/obstetricia/semiologia-obstetrica.html',
       
-        '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno',
+        '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno.html',
       
-        '/obstetricia/endocrinologia-obstetrica',
+        '/obstetricia/endocrinologia-obstetrica.html',
       
       
         '/CNAME'
