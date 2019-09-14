@@ -45,6 +45,10 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/gastroenterologia/tuberculose-intestinal.html',
+      
+        '/gastroenterologia/endoscopia.html',
+      
         '/intensiva/choque.html',
       
         '/gastroenterologia/doencas-inflamatorias-intestinais.html',
@@ -272,6 +276,12 @@ self.addEventListener('install', function (event) {
       
         '/apple-touch-icon.png'
       
+        '/assets/arrow.svg'
+      
+        '/assets/cruz-web.svg'
+      
+        '/assets/cruz.svg'
+      
         '/assets/favicon.png'
       
         '/assets/gastro/balthazar.jpg'
@@ -279,6 +289,8 @@ self.addEventListener('install', function (event) {
         '/assets/gastro/child-pugh.png'
       
         '/assets/gastro/clip.jpeg'
+      
+        '/assets/gastro/crohn.jpeg'
       
         '/assets/gastro/cutoff.jpeg'
       
@@ -483,6 +495,8 @@ self.addEventListener('install', function (event) {
         '/assets/infectologia/lcr/tab2.jpeg'
       
         '/assets/infectologia/ntx/tc.jpeg'
+      
+        '/assets/left-pointing-arrow.svg'
       
         '/assets/logo-canal-ionico.png'
       

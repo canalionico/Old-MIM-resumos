@@ -15,7 +15,6 @@
 }
 body {
   margin: 0 0 0 0;
-  font-size: 1.2em;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-align: left;
 }
@@ -72,7 +71,7 @@ body {
 .nav-posts {
   padding-top: 0px;
   margin: 0 auto;
-  text-align: center;
+  text-align: left;
   width: 100%;
   a {
     text-decoration: none;
@@ -91,22 +90,10 @@ body {
 .current {
   background-color: #008000;
 }
-.fa {
-  padding-right: 5px;
-}
 .meu-svg {
   padding-right: 5px;
 }
-#face, #git {
-  font-size: 20px;
-}
-#face {
-  padding-left: 3px;
-  padding-right: 3px;
-}
-#nak {
-  padding-right: 5px;
-}
+
 
 /* conteúdo principal */
 //Botão Editar
@@ -190,7 +177,8 @@ body {
   li a, li { font-size: 15px
   }
   li {
-    list-style-type: decimal;
+    list-style-type: disc;
+    line-height: 1.2em;
       a {
     text-decoration: none;
     color: blue;
@@ -267,12 +255,9 @@ tr:nth-child(odd) {
   background-color: #e0e0e0;
 }
 .box {
-  border: solid 1px;
-  border-color: green;
+  background-color: #ebebeb;
+  padding: 1px 10px 1px 10px;
   border-radius: 1rem;
-  margin-right: auto;
-  margin-left: auto;
-  max-width: calc(100% - 50px);
 }
 
 .abertura {
@@ -428,7 +413,7 @@ figure {
   }
 }
 .footer-col3 {
-  width: 60%;
+  width: 100%;
 }
 .footer-col2 {
   width: 100%;
@@ -467,6 +452,11 @@ figure {
   height: 16px;
   padding-right: 5px;
   fill: #828282;
+}
+.svg-nav {
+  fill: white;
+  padding-right: 5px;
+  height: 12px;
 }
 
 /* Para tablet */
