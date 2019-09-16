@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-14T11:14:44-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-15T20:25:05-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -220,8 +220,30 @@
           &lt;li&gt;&lt;a href=&quot;#histopatologia&quot; id=&quot;markdown-toc-histopatologia&quot;&gt;Histopatologia&lt;/a&gt;&lt;/li&gt;
         &lt;/ol&gt;
       &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações-da-dii&quot; id=&quot;markdown-toc-complicações-da-dii&quot;&gt;Complicações da DII&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#sangramento&quot; id=&quot;markdown-toc-sangramento&quot;&gt;Sangramento&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#megacólon-tóxico&quot; id=&quot;markdown-toc-megacólon-tóxico&quot;&gt;Megacólon tóxico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#estenoses&quot; id=&quot;markdown-toc-estenoses&quot;&gt;Estenoses&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fístulas&quot; id=&quot;markdown-toc-fístulas&quot;&gt;Fístulas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#câncer&quot; id=&quot;markdown-toc-câncer&quot;&gt;Câncer&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#manifestações-extra-intestinais&quot; id=&quot;markdown-toc-manifestações-extra-intestinais&quot;&gt;Manifestações extra-intestinais&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#laboratório&quot; id=&quot;markdown-toc-laboratório&quot;&gt;Laboratório&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#p-anca&quot; id=&quot;markdown-toc-p-anca&quot;&gt;p-ANCA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#asca&quot; id=&quot;markdown-toc-asca&quot;&gt;ASCA&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#rcu&quot; id=&quot;markdown-toc-rcu&quot;&gt;RCU&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#dc&quot; id=&quot;markdown-toc-dc&quot;&gt;DC&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#outras-coisas&quot; id=&quot;markdown-toc-outras-coisas&quot;&gt;Outras coisas&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -230,8 +252,6 @@ A endoscopia vai até a segunda porção duodenal. A colonoscopia vai até uns 1
 --&gt;
 
 &lt;p&gt;São dois grandes grupos de DIIs: &lt;strong&gt;doença de Crohn&lt;/strong&gt; (DC) e a &lt;strong&gt;retocolite ulcerativa&lt;/strong&gt; (RCU). As duas devem ser diferenciadas das demais doenças que também promovem inflamação dos intestinos, como: infecções, diverticulite, apendicite, enterite por radiação, medicamentos ou toxinas, e vasculite intestinal.&lt;/p&gt;
-
-&lt;p&gt;Ambas, DC e RCU, são doenças crônicas sem etiologia esclarecida e muito semelhantes clinicamente e epidemiologicamente. Até o momento, sabemos que as DII se caracterizam por um processo inflamatório crônico associado O &lt;em&gt;gradiente Norte-Sul&lt;/em&gt; é descrito pois, quanto mais se desloca em direção ao norte, mais frequente são os casos dFisiopatologia da doença inflamatória intestinal: as IL-5 e IL-10 estão mais associadas à RCU (Th2), enquanto que IL-1, IL-12, TNFa e IFN-g estão mais associados ao Crohn (Th1).e RCU.a uma resposta imunológica inadequada contra agentes intraluminais.&lt;sup id=&quot;fnref:esberard2012&quot;&gt;&lt;a href=&quot;#fn:esberard2012&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Para as duas, a presença de &lt;strong&gt;história familiar&lt;/strong&gt; é o principal fator de risco (em 10-25% dos pacientes). O &lt;em&gt;gradiente Norte-Sul&lt;/em&gt; é descrito pois, quanto mais se desloca em direção ao norte, mais frequente são os casos de DII. Ou seja, a incidência é maior na América do Norte e Europa, em detrimento da África e América do Sul. Também são mais comuns na população &lt;strong&gt;branca&lt;/strong&gt;, principalmente os &lt;strong&gt;judeus&lt;/strong&gt;. O pico de incidência etária é bimodal, com maior frequência entre os 15-40 anos e 50-80 anos. As sídromes de &lt;em&gt;Turner&lt;/em&gt; e &lt;em&gt;Wiskott-Aldrich&lt;/em&gt; estão associadas a maior incidência.&lt;/p&gt;
 
@@ -257,10 +277,9 @@ A endoscopia vai até a segunda porção duodenal. A colonoscopia vai até uns 1
 
 &lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
 
-&lt;p&gt;Fisiopatologia da doença inflamatória intestinal: as IL-5 e IL-10 estão mais associadas à RCU (Th2), enquanto que IL-1, IL-12, TNFa e IFN-g estão mais associados ao Crohn (Th1).&lt;/p&gt;
+&lt;p&gt;Ambas, DC e RCU, são doenças crônicas sem etiologia esclarecida e muito semelhantes clinicamente e epidemiologicamente. Até o momento, sabemos que as DII se caracterizam por um processo inflamatório crônico associado a uma resposta imunológica inadequada contra agentes intraluminais.&lt;sup id=&quot;fnref:esberard2012&quot;&gt;&lt;a href=&quot;#fn:esberard2012&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
-&lt;p&gt;A diferenciação entre RCU e DC é feita por critérios clínicos, radiológicos, endoscópicos e
-histológicos.&lt;/p&gt;
+&lt;p&gt;As IL-5 e IL-10 estão mais associadas à RCU (Th2), enquanto que IL-1, IL-12, TNFa e IFN-g estão mais associados ao Crohn (Th1).&lt;/p&gt;
 
 &lt;h1 id=&quot;retocolite-ulcerativa-idiopática&quot;&gt;Retocolite ulcerativa idiopática&lt;/h1&gt;
 
@@ -278,7 +297,7 @@ histológicos.&lt;/p&gt;
 &lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A história falimiar aumenta o risco em 3 a 20 vezes. A concordância entre gêmeos é de 6 a 10%. Alta incidência entre judeus e possui correlação com o fumo e a colite ulcerativa. Possui uma discreta predominância em homens.&lt;sup id=&quot;fnref:aula&quot;&gt;&lt;a href=&quot;#fn:aula&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;A história falimiar aumenta o risco em 3 a 20 vezes. A concordância entre gêmeos é de 6 a 10%. Alta incidência entre judeus. Possui uma discreta predominância em homens.&lt;sup id=&quot;fnref:aula&quot;&gt;&lt;a href=&quot;#fn:aula&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Aumenta a incidência de CA colorretal nesse grupo de pacientes. O tempo e extensão da doença são proporcionais ao risco.&lt;/p&gt;
@@ -289,13 +308,10 @@ histológicos.&lt;/p&gt;
 
 &lt;h2 id=&quot;fisiopatologia-1&quot;&gt;Fisiopatologia&lt;/h2&gt;
 
-&lt;p&gt;Acometimento inflamatório é contínuo e simpetrico&lt;/p&gt;
-
-&lt;p&gt;Sua etiologia é indeterminada, por isso o “idiopática”. Envolve uma desregulação do sistema imune intestinal, com componentes ambientais, ifecciosos e genéticos.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;É uma doença de, basicamente, mucosa e submucosa.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;ul&gt;
+  &lt;li&gt;Acometimento inflamatório é contínuo e simpetrico&lt;/li&gt;
+  &lt;li&gt;É uma doença de, basicamente, mucosa e submucosa.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;O uso da terapia tópica com enemas de glicocorticoide pode “esfriar” a inflamação mais distal do cólon, dificultando o diagnóstico diferencial com a DC!&lt;/p&gt;
 
@@ -303,7 +319,7 @@ histológicos.&lt;/p&gt;
 
 &lt;p&gt;Desaparecimento do padrão vascular típico do cólon (alteração precoce); hiperemia, edema, mucosa friável, erosões, ulcerações e exsudação de muco, pus ou sangue; formação de pseudopólipos; mucosa pálida, atrófica, com aspécto tubular (indicador de cronicidade).&lt;/p&gt;
 
-&lt;p&gt;Em casos raros de RCU grave, estas alterações podem comprometer, por contiguidade (e não por ação direta da doença), a submucosa e a muscular. Nestes casos, a parede torna-se frágil e há risco de megacólon tóxico e perfuração espontânea.&lt;/p&gt;
+&lt;p&gt;Em casos raros de RCU grave, estas alterações podem comprometer, por contiguidade (e não por ação direta da doença), a submucosa e a muscular. Nestes casos, a parede torna-se frágil e há risco de &lt;strong&gt;megacólon tóxico&lt;/strong&gt; e perfuração espontânea.&lt;/p&gt;
 
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
 
@@ -355,16 +371,15 @@ tenesmo. Com defecação de sangue, muco e pus.&lt;/p&gt;
 
 &lt;h3 id=&quot;radiografia&quot;&gt;Radiografia&lt;/h3&gt;
 
-&lt;p&gt;Podem ser observados: perda das haustrações, espessamento da musculatura lisa com aspécto de “cano de chumbo”.&lt;/p&gt;
+&lt;p&gt;Podem ser observados: perda das haustrações, espessamento da musculatura lisa com aspécto de &lt;strong&gt;“cano de chumbo”&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nas formas graves é possível ver encurtamento do órgão e perda de haustrações e alterações do relevo mucoso.&lt;/p&gt;
+
+&lt;p&gt;Sinais de complicação: dilatação e perfuração (&lt;strong&gt;megacólon tóxico&lt;/strong&gt;) e pneumoperitônio. Perfuração, sendo visível o &lt;strong&gt;sinal de  Jobert&lt;/strong&gt; (pneumoperitônio).&lt;/p&gt;
 
 &lt;h3 id=&quot;histologia&quot;&gt;Histologia&lt;/h3&gt;
 
 &lt;p&gt;O reto está envolvido, não ocorrem fístulas, perda do padrão vascular, lesão com padrão contínuo (padrão em &lt;em&gt;coblestone&lt;/em&gt;), eritema difuso, granularidade da mucosa.&lt;/p&gt;
-
-&lt;p class=&quot;section&quot;&gt;RX simples&lt;/p&gt;
-&lt;p&gt;Nas formas graves é possível ver encurtamento do órgão e perda de haustrações e alterações do relevo mucoso.&lt;/p&gt;
-
-&lt;p&gt;Sinais de complicação: dilatação e perfuração (&lt;strong&gt;megacólon tóxico&lt;/strong&gt;) e pneumoperitônio. Perfuração, sendo visível o sinal de  Jobert (pneumoperitônio).&lt;/p&gt;
 
 &lt;h3 id=&quot;enema-opaco-com-duplo-contraste&quot;&gt;Enema opaco com duplo contraste&lt;/h3&gt;
 
@@ -481,19 +496,24 @@ gado proximal (síndrome de má absorção).&lt;/p&gt;
 
 &lt;h2 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h2&gt;
 
+&lt;p&gt;Os sinais e sintomas da DC variam de acordo com a sua localização no TGI.
+As características clínicas mais comuns da
+doença de Crohn são as de uma &lt;strong&gt;ileocolite&lt;/strong&gt;:&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Dor&lt;/li&gt;
-  &lt;li&gt;Febre&lt;/li&gt;
+  &lt;li&gt;Diarreia crônica invasiva associada à dor abdominal;&lt;/li&gt;
+  &lt;li&gt;Sintomas gerais como febre, anorexia e perda de peso;&lt;/li&gt;
+  &lt;li&gt;Massa palpável no QID;&lt;/li&gt;
+  &lt;li&gt;Doença perianal&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Fístulas são muito presentes. Fístulas colo-vesicais podem cursar com &lt;strong&gt;cistites&lt;/strong&gt; de repetição, &lt;strong&gt;fecalúria&lt;/strong&gt; e &lt;strong&gt;pneumatúria&lt;/strong&gt;. Um terço dos pacientes com DC tem
-doença perianal (fístulas, fissuras, abscessos).&lt;/p&gt;
+&lt;p&gt;A massa palpável pode ser uma &lt;strong&gt;alça intestinal edemaciada&lt;/strong&gt; ou um &lt;strong&gt;abcesso intra-abdominal&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Esses doentes têm mais chance de desenvolver colelitíase, pois altera a absorção de sais biliares. A bile, por consequência, se torna mais litogênica.&lt;/p&gt;
-
-&lt;p&gt;A tuberculose intestinal pode ser um diagnóstico diferencial com a doença de crohn. A melhor diferenciação é o histopatológico. O granuloma do Crhon é não caseoso.&lt;/p&gt;
-
-&lt;p&gt;O paciente com Crohn que faz cirurgia evolui muito mal.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A colite por DC possui um quadro muito semelhante ao da RCU.&lt;/li&gt;
+  &lt;li&gt;O acometimento extenso e crônico do intestino del­gado geralmente cursa com &lt;strong&gt;síndrome disabsortiva grave&lt;/strong&gt;, seguida por desnutrição e debilidade crônica;&lt;/li&gt;
+  &lt;li&gt;A DC gastroduodenal &lt;strong&gt;imita a doença ulcerosa péptica&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;exames-complementares-1&quot;&gt;Exames complementares&lt;/h2&gt;
 
@@ -501,6 +521,358 @@ doença perianal (fístulas, fissuras, abscessos).&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;red&quot;&gt;Granulomas não caseosos&lt;/span&gt;, semelhantes aos da sarcoidose, podem ser encontrados em até 30% dos casos de DC. Como não
 ocorrem na RCU, o encontro desses granulomas em material de biópsia diferencia a DC da RCU!&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;A utilização de &lt;strong&gt;sulfassalazina&lt;/strong&gt; e &lt;strong&gt;corticoides&lt;/strong&gt; na
+&lt;strong&gt;gravidez&lt;/strong&gt; &lt;strong&gt;não é contraindicada&lt;/strong&gt;, uma vez que o
+risco da doença ativa é bem maior que o risco
+de complicações por estas drogas. Contudo,
+deve-se ter o cuidado de &lt;strong&gt;repor ácido fólico&lt;/strong&gt; (1
+mg 2x dia), se possível, desde o período pré-concepção, pois a sulfassalazina interfere com a absorção desta substância. O uso de azatioprina ou 6-MP está associado a aumento no risco de malformação fetal.&lt;/p&gt;
+
+&lt;h1 id=&quot;complicações-da-dii&quot;&gt;Complicações da DII&lt;/h1&gt;
+
+&lt;h4 id=&quot;sangramento&quot;&gt;Sangramento&lt;/h4&gt;
+
+&lt;p&gt;A pesquisa de &lt;strong&gt;sangue oculto&lt;/strong&gt; é geralmente positiva em pacientes com DC, mas sangramentos macroscópicos (hematoquezia) são muito mais frequentes na RCU do que na DC. Sangramentos visíveis na DC são mais comuns na colite de Crohn do que na ileocolite. Sangramentos maciços são raros na DC.&lt;/p&gt;
+
+&lt;h4 id=&quot;megacólon-tóxico&quot;&gt;Megacólon tóxico&lt;/h4&gt;
+
+&lt;p&gt;Ocorre quando a inflamação compromete a camada muscular, levando à perda de seu tônus intrínseco e consequente
+adelgaçamento da parede intestinal. Todo o cólon (ou segmentos dele) pode se dilatar. Em geral, a dilatação colônica predomina no transverso e no cólon direito.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;O megacólon tóxico deve ser temido em todo paciente com colite grave.&lt;/div&gt;
+
+&lt;p&gt;Uma dilatação colônica com diâmetro superior a 6 cm na radiografia simples de abdome, quando associada à dor abdominal (espontânea ou à descompressão), febre alta
+e diminuição da peristalse, é diagnóstica de megacólon tóxico.&lt;/p&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Critérios diagnósticos de megacólon tóxico:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Evidências radiográficas de distensão colônica (&amp;gt; 6 cm)&lt;/li&gt;
+    &lt;li&gt;Pelo menos 3 dos seguintes critérios:
+      &lt;ul&gt;
+        &lt;li&gt;Febre &amp;gt; 38°C;&lt;/li&gt;
+        &lt;li&gt;Frequência cardíaca &amp;gt; 120 bpm/min;&lt;/li&gt;
+        &lt;li&gt;Leucocitose com neutrofilia;&lt;/li&gt;
+        &lt;li&gt;Anemia&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Além dos critérios acima, pelo menos 1 dos seguintes:
+      &lt;ul&gt;
+        &lt;li&gt;Desidratação;&lt;/li&gt;
+        &lt;li&gt;Alteração do nível de consciência;&lt;/li&gt;
+        &lt;li&gt;Distúrbios eletrolíticos;&lt;/li&gt;
+        &lt;li&gt;Hipotensão arterial.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As radiografias mostram acúmulo intraluminal de gás, num cólon dilatado. Eventualmente há ar dentro da parede intestinal (pneumatose intestinal)!&lt;/p&gt;
+
+&lt;p&gt;Como resultado do enfraquecimento da parede
+intestinal, as complicações do megacólon incluem perfuração e peritonite séptica.&lt;/p&gt;
+
+&lt;p&gt;O megacólon tóxico deve ser tratado de forma
+clínica intensiva, logo nos primeiros estágios
+(ver adiante). A ausência de resposta em 12 a
+24h pode indicar colectomia, evitando a alta
+morbimortalidade de uma perfuração.&lt;/p&gt;
+
+&lt;p&gt;Outras causas de megacólon tóxico além de RCU e DC:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Infecciosas
+    &lt;ul&gt;
+      &lt;li&gt;Bacterianas:
+        &lt;ul&gt;
+          &lt;li&gt;Clostridium difficile;&lt;/li&gt;
+          &lt;li&gt;Salmonella (tifoide e não tifoide);&lt;/li&gt;
+          &lt;li&gt;Shigella;&lt;/li&gt;
+          &lt;li&gt;Campylobacter;&lt;/li&gt;
+          &lt;li&gt;Yersinia.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Parasitárias:
+        &lt;ul&gt;
+          &lt;li&gt;Entamoeba histolytica;&lt;/li&gt;
+          &lt;li&gt;Cryptosporidium.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Virais:
+        &lt;ul&gt;
+          &lt;li&gt;Citomegalovírus.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Outras
+    &lt;ul&gt;
+      &lt;li&gt;Colite pseudomembranosa.&lt;/li&gt;
+      &lt;li&gt;Sarcoma de Kaposi.&lt;/li&gt;
+      &lt;li&gt;Colite isquêmica.&lt;/li&gt;
+      &lt;li&gt;Vólvulos.&lt;/li&gt;
+      &lt;li&gt;Neoplasia obstrutiva de cólon.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;estenoses&quot;&gt;Estenoses&lt;/h4&gt;
+
+&lt;p&gt;As estenoses costumam resultar do comprometimento repetitivo e grave dos planos profundos da parede intestinal e, por isso são mais comuns na DC.&lt;/p&gt;
+
+&lt;p&gt;Nessas situações, predominam os sintomas de obstrução, como cólica e distensção abdominal, constipação/diarreia paradoxal e massa palpável (refletindo ou uma alça intestinal de diâmetro aumentado, geralmente dolorosa à
+palpação, ou um abscesso intra-abdominal).&lt;/p&gt;
+
+&lt;h4 id=&quot;fístulas&quot;&gt;Fístulas&lt;/h4&gt;
+
+&lt;p&gt;Fístulas transmurais são muito presentes e típicas da DC. Fístulas colo-vesicais podem cursar com &lt;strong&gt;cistites&lt;/strong&gt; de repetição, &lt;strong&gt;fecalúria&lt;/strong&gt; e &lt;strong&gt;pneumatúria&lt;/strong&gt;. Um terço dos pacientes com DC tem doença perianal (fístulas, fissuras, abscessos).&lt;/p&gt;
+
+&lt;p&gt;As fístulas mais comumente
+encontradas na DC são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Enteroentéricas;&lt;/li&gt;
+  &lt;li&gt;Enterovesicais;&lt;/li&gt;
+  &lt;li&gt;Enteromesentéricas;&lt;/li&gt;
+  &lt;li&gt;Enterocutâneas;&lt;/li&gt;
+  &lt;li&gt;Retovaginais;&lt;/li&gt;
+  &lt;li&gt;Fístulas e abscessos perianais.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Uma forma clássica de apresentação da DC é aquela na qual um paciente que foi submetido a uma apendicectomia (diagnóstico equivocado de apendicite, quando na verdade o que ele tem é DC) evolui no pós-operatório com uma fístula enterocutânea proveniente da região manipulada durante o ato operatório.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;câncer&quot;&gt;Câncer&lt;/h4&gt;
+
+&lt;p&gt;Tanto a DC como a RCU podem aumentar a incidência de adenocarcinoma intestinal, mas há maior relação com a RCU. Os principais fatores de risco são a extensão e duração da DII.&lt;/p&gt;
+
+&lt;p&gt;O adenocarcinoma colorretal pode ocorrer em
+pacientes com RCU de longa duração (&amp;gt; 8
+anos). O risco parece ser ainda maior quando
+existe colangite esclerosante associada!&lt;/p&gt;
+
+&lt;p&gt;A displasia da mucosa, lesão precursora, pode
+ser identificada em biópsias guiadas por colonoscopia, e deve ser diferenciada das alterações
+inflamatórias e regenerativas.&lt;/p&gt;
+
+&lt;p&gt;Colonoscopias e biópsias “de vigilância”, realizadas em toda a extensão do cólon, deverão ser
+iniciadas depois de oito anos de vigência da
+RCU, e repetidas a cada um a dois anos. Isto tanto para a DC como para a RCU.&lt;/p&gt;
+
+&lt;p&gt;Uma displasia epitelial confirmada constitui
+indicação de colectomia, pois processos malignos são frequentemente identificados em
+pontos diferentes dos da displasia. Atualmente
+se recomenda, para a RCU de longa duração,
+a realização de exames periódicos para detecção precoce de displasias e neoplasias.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-yellow&quot;&gt;Em pacientes com DII, também há um pequeno aumento da incidência de leucemia,
+linfoma e carcinoma de vias biliares.
+&lt;/div&gt;
+
+&lt;h2 id=&quot;manifestações-extra-intestinais&quot;&gt;Manifestações extra-intestinais&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Articulares (25%): edema, artralgia, artrite aguda;
+    &lt;ul&gt;
+      &lt;li&gt;Mais comum em pacientes com acometimento do cólon, seja DC ou RCU;&lt;/li&gt;
+      &lt;li&gt;Podem ter padrão central ou periférico;&lt;/li&gt;
+      &lt;li&gt;Qualquer articulação pode ser acometida: são as mais afetadas;&lt;/li&gt;
+      &lt;li&gt;A artrite não é deformante e pode ter caráter migratório semelhante à febre reumática.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cutaneomucosas (25%): também mais comuns quando o  cólon é acometido;
+    &lt;ul&gt;
+      &lt;li&gt;Eritema nodoso: mais comum em mulheres e relacionado à intensidade da doença;&lt;/li&gt;
+      &lt;li&gt;Pioderma gangrenoso: mais comum na RCU, sem correlação com a atividade da doença;&lt;/li&gt;
+      &lt;li&gt;Estomatite: lesões labiais e úlceras aftosas orais.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Oculares (5%):  uveíte, conjutivite e episclerite;
+    &lt;ul&gt;
+      &lt;li&gt;Apenas a uveíte não se relaciona com a atividade da doença;&lt;/li&gt;
+      &lt;li&gt;As demais melhoram com a colectomia.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+  &lt;p&gt;&lt;span class=&quot;green&quot;&gt;Sempre associados à atividade da doença intestinal:
+&lt;/span&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Artrite periférica;&lt;/li&gt;
+    &lt;li&gt;Eritema nodoso;&lt;/li&gt;
+    &lt;li&gt;Episclerite.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;&lt;span class=&quot;red&quot;&gt;Em geral Não associados à atividade da doença
+intestinal:&lt;/span&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Espondilite anquilosante;&lt;/li&gt;
+    &lt;li&gt;Pioderma gangrenoso;&lt;/li&gt;
+    &lt;li&gt;Uveíte.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hepáticas e biliares
+    &lt;ul&gt;
+      &lt;li&gt;Alterações nas PFH: hepatite focal ou esteatose hepática (por desnutrição e terapia com corticoides), gerlamente involuem com o tratamento da doença de base;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Pericolangite&lt;/strong&gt;: (triadite portal) é uma inflamação dos canalículos biliares intra-hepáticos não progressiva, e que se manifesta geralmente por discreta elevação da FA.
+        &lt;ul&gt;
+          &lt;li&gt;Costuma ser clinicamente inaparente, a BT permanece normal, e a inflamação se restringe às tríades portais.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Colangite esclerosante&lt;/strong&gt;: rara (3%), forma progressiva de inflamação das vias biliares, que acomete a árvore biliar intra e/ou extra-hepática, e que pode produzir graus variáveis de obstrução biliar.
+        &lt;ul&gt;
+          &lt;li&gt;Clínica: icterícia assintomática ou episódios intermitentes de colangite.&lt;/li&gt;
+          &lt;li&gt;Os níveis de aminotransferases e FA geralmente estão muito elevados, e o diagnóstico deve ser dado ou por CPRE ou por colangiografia trans-hepática.&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;A doença é progressiva independentemente do curso da DII&lt;/strong&gt;;&lt;/li&gt;
+          &lt;li&gt;Não há tratamento que comprovadamente modifique a história natural da doença e pode ser necessário um transplante hepático;&lt;/li&gt;
+          &lt;li&gt;&lt;span class=&quot;red&quot;&gt;É o principal fator de risco para o surgimento de colangiocarcinoma&lt;/span&gt;;&lt;/li&gt;
+          &lt;li&gt;com cirrose biliar associada pode estar presentes;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Renais
+    &lt;ul&gt;
+      &lt;li&gt;Cálculos de Oxalato de Cálcio: devido à má absorção e à esteatorreia, resultando em hiperoxalúria. São uma complicação particular da &lt;strong&gt;enterite por DC&lt;/strong&gt;;&lt;/li&gt;
+      &lt;li&gt;Cálculos de Ácido Úrico: relacionados à desidratação em pacientes com diarreia ou ileostomia;&lt;/li&gt;
+      &lt;li&gt;Uropatia Obstrutiva&lt;/li&gt;
+      &lt;li&gt;Fístulas para a bexiga na DC: tais fístulas costumam se manifestar por polaciúria, disúria, piúria e cistites recorrentes.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;O cálcio alimentar, em condições normais, se liga ao oxalato dentro da luz intestinal, num composto pouco absorvível pela mucosa do delgado, que acaba sendo eliminado nas fezes. Quando existe má absorção, grande parte do cálcio passa a se ligar aos ácidos graxos, deixando o oxalato livre para ser absorvido.&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ósseas: osteoporose (por redução da absorção intestinal da vitamina D e pelo uso de corticoesteroides), osteomalácia.&lt;/li&gt;
+  &lt;li&gt;Metabólicos: perda de peso, retardo do crescimento em crianças, enteropatia perdedora de proteínas, desnutrição com hipoalbuminemia, deficiências vitamínicas (mais na DC).&lt;/li&gt;
+  &lt;li&gt;Tromboembólicas: estado de  hipercoagulabilidade apresentando-se como trombose venosa profunda e/ou embolia pulmonar, AVE ou embolia arterial.
+    &lt;ul&gt;
+      &lt;li&gt;Redução dos níveis de proteína S e antitrombina III, assim como aumento dos níveis de fator VIII, V e I (fibrinogênio), são alterações que podem justificar esta grave complicação.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h1&gt;
+
+&lt;p&gt;Um clister opaco contrastado com ar (duplo
+contraste) pode revelar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Na RCU:
+    &lt;ul&gt;
+      &lt;li&gt;Ausência de haustros;&lt;/li&gt;
+      &lt;li&gt;Granularidade difusa em áreas contíguas;&lt;/li&gt;
+      &lt;li&gt;Ulcerações superficiais;&lt;/li&gt;
+      &lt;li&gt;Pseudopólipos;&lt;/li&gt;
+      &lt;li&gt;Cólon em aspecto tubular (cano de chumbo).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Na DC:
+    &lt;ul&gt;
+      &lt;li&gt;Ulcerações assimétricas e focais;&lt;/li&gt;
+      &lt;li&gt;Fístulas;&lt;/li&gt;
+      &lt;li&gt;Preservação do reto;&lt;/li&gt;
+      &lt;li&gt;Íleo terminal comprometido, com refluxo do bário.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O trânsito de delgado ou enteróclise (exame contrastado do delgado) era classicamente utilizado para demonstrar a extensão do acometimento do delgado pela DC, mas não tem valor na RCU desacompanhada de ileíte de refluxo.&lt;/p&gt;
+
+&lt;p&gt;Nos dias de hoje, entretanto, métodos mais
+acurados como a entero-TC ou a entero-RNM
+(TC ou RNM com contraste oral + venoso,
+respectivamente) são preferíveis. Tais métodos
+identificam áreas de parede intestinal “doente”
+(aumento de espessura, hipercaptação focal de
+contraste), sendo obtidos de forma mais rápida
+do que um trânsito de delgado, além de garantir a visualização de TODO o tubo digestivo
+(delgado + cólon).&lt;/p&gt;
+
+&lt;h2 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ASCA (+) e p-ANCA (-): 97% de especificidade e 49% de sensibilidade para o diagnóstico de DC.&lt;/li&gt;
+  &lt;li&gt;ASCA (-) e p-ANCA (+): 97% de especificidade e 57% de sensibilidade para o diagnóstico de RCU.&lt;/li&gt;
+  &lt;li&gt;Anti-OmpC (+) e anti-CBir1 (+): sugestivo de DC.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;p-anca&quot;&gt;p-ANCA&lt;/h3&gt;
+
+&lt;p&gt;Anticorpo anticitoplasma de neutrófilo, padrão
+perinuclear de imunofluorescência. Está presente em cerca de 60-70% dos pacientes com RCU e em apenas 5-10% de pacientes com DC. A presença deste autoanticorpo relaciona-se mais frequentemente com pancolite, cirurgia
+precoce e evolução para colangite esclerosante primária (isto é, ele indica um pior prognóstico).&lt;/p&gt;
+
+&lt;h3 id=&quot;asca&quot;&gt;ASCA&lt;/h3&gt;
+
+&lt;p&gt;Anti-Saccharomyces cerevisiae. São encontrados em cerca
+de 60-70% de indivíduos com a DC e em 10-15% de pacientes com RCU.&lt;/p&gt;
+
+&lt;h2 id=&quot;rcu&quot;&gt;RCU&lt;/h2&gt;
+
+&lt;p class=&quot;alert aviso-red&quot;&gt;A retossigmoideoscopia com biópsias é o exame de escolha!
+&lt;/p&gt;
+
+&lt;p&gt;Praticamente todos os pacientes apresentam lesão inflamatória do reto (proctite), e a maioria também do cólon sigmoide (proctossigmoidite). Encontraremos um
+comprometimento uniforme e contínuo, manifestado por perda do padrão vascular da mucosa, exsudatos, friabilidade, ulcerações, granulosidade e, nos casos de doença de longa data, os pseudopólipos.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;colonoscopia com biópsias&lt;/strong&gt; é indicada na suspeita de doença grave (mais de 6 evacuações diárias ou sinais sistêmicos), embora seja contraindicada na suspei-
+ta de megacólon tóxico.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;histopatológico&lt;/strong&gt; revela distorção das criptas, infiltrado inflamatório mononuclear (linfoplasmocitário) na lâmina própria e abscesso das criptas com acúmulo de neutrófilos no epitélio.&lt;/p&gt;
+
+&lt;h2 id=&quot;dc&quot;&gt;DC&lt;/h2&gt;
+
+&lt;p class=&quot;alert aviso-red&quot;&gt;A ileocolonoscopia com biópsias é o exame de escolha!&lt;/p&gt;
+
+&lt;p&gt;A grande maioria dos pacientes
+com doença de Crohn apresenta acometimento
+do íleo terminal e do cólon ascendente ou ceco.&lt;/p&gt;
+
+&lt;p&gt;Encontraremos um comprometimento salteado
+(áreas doentes alternadas com áreas sãs), manifesto por úlceras aftosas que, quando coalescentes, dão o aspecto de “pedras de calçamento (paralelepípedo)”.&lt;/p&gt;
+
+&lt;p&gt;O histopatológico é semelhante ao encontrado na RCU, porém, podem ser encontrados granulomas não caseosos,
+que no contexto apropriado são patognomôni-
+cos de Crohn.&lt;/p&gt;
+
+&lt;h1 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h1&gt;
+
+&lt;p&gt;Os medicamentos são os mesmos para a DC e a RCU. As principais drogas são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Derivados do ácido 5-aminosalicílico (5-ASA): anti-inflamatório de ação TÓPICA na mucosa intestinal;
+    &lt;ul&gt;
+      &lt;li&gt;podem ser usadas tanto na indução da remissão quanto na manutenção da remissão.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Glicocorticoides;&lt;/li&gt;
+  &lt;li&gt;Imunomoduladores;&lt;/li&gt;
+  &lt;li&gt;Agentes “biológicos”.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;outras-coisas&quot;&gt;Outras coisas&lt;/h1&gt;
+
+&lt;p&gt;Esses doentes têm mais chance de desenvolver colelitíase, pois altera a absorção de sais biliares. A bile, por consequência, se torna mais litogênica.&lt;/p&gt;
+
+&lt;p&gt;A tuberculose intestinal pode ser um diagnóstico diferencial com a doença de crohn. A melhor diferenciação é o histopatológico. O granuloma do Crhon é não caseoso.&lt;/p&gt;
+
+&lt;p&gt;O paciente com Crohn que faz cirurgia evolui muito mal.&lt;/p&gt;
+
+&lt;p&gt;As manifestações extraintestinais da DC são
+semelhantes às da RCU e tendem a ser mais
+frequentes nos pacientes com comprometimento colônico.&lt;/p&gt;
 
 &lt;h1 id=&quot;referências&quot;&gt;Referências&lt;/h1&gt;
 
