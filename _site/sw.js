@@ -45,6 +45,16 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/gastroenterologia/hemorragia-digestiva.html',
+      
+        '/gastroenterologia/dispepsia.html',
+      
+        '/cirurgia/proctologia.html',
+      
+        '/guia-pre-internato.html',
+      
+        '/gastroenterologia/esquistossomose.html',
+      
         '/gastroenterologia/tuberculose-intestinal.html',
       
         '/gastroenterologia/endoscopia.html',
@@ -294,6 +304,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/gastro/cutoff.jpeg'
       
+        '/assets/gastro/esquistossomose.png'
+      
         '/assets/gastro/estomago.png'
       
         '/assets/gastro/hepb-aguda-grafico.jpeg'
@@ -313,6 +325,8 @@ self.addEventListener('install', function (event) {
         '/assets/gastro/patxpcr.jpeg'
       
         '/assets/gastro/pcr.jpeg'
+      
+        '/assets/gastro/schistosoma.jpg'
       
         '/assets/gastro/wash-out.jpeg'
       

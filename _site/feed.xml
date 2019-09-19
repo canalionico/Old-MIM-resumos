@@ -1,4 +1,417 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-15T20:25:05-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-18T21:37:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Proctologia</title><link href="http://localhost:4000/cirurgia/proctologia.html" rel="alternate" type="text/html" title="Proctologia" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/proctologia</id><content type="html" xml:base="http://localhost:4000/cirurgia/proctologia.html">&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
+
+&lt;p&gt;No reto, diferentemente do cólon que possui haustrações, a musculatura é lisa. É muito mais difícil o aparecimento de divertículos no reto devido a isso.&lt;/p&gt;
+
+&lt;p&gt;No canal anal o reto forma a linha denteada. Um marco importante de transição para cirurgias. A musculatura circular do reto, na sua porção distal, se expessa a forma o esfincter do ânus.&lt;/p&gt;
+
+&lt;p&gt;No fim da linha denteada tem válvulas que tem as criptas onde desembocam as glandulas anais. O abcesso pode se originar da obstrução da glândula.&lt;/p&gt;
+
+&lt;p&gt;A musculatura interna dá o esfincter intesno, mas a musculatura externa não dá o esfincter externo.&lt;/p&gt;
+
+&lt;h3 id=&quot;continência-anal&quot;&gt;Continência anal&lt;/h3&gt;
+
+&lt;h2 id=&quot;hemorroidas&quot;&gt;Hemorroidas&lt;/h2&gt;
+
+&lt;p&gt;É o prolapso da mucosa retal.&lt;/p&gt;
+
+&lt;p&gt;Têm influênciia de história familiar. A constipação é o principal fator de risco, mas a diarréia crônica também pode ser. Pode aparecer durante a gravidez mas tende a melhorar após o parto.&lt;/p&gt;
+
+&lt;p&gt;A hipertensão porta está relacionada à doença hemorroidária?&lt;/p&gt;
+
+&lt;h3 id=&quot;sintomas&quot;&gt;Sintomas&lt;/h3&gt;
+
+&lt;p&gt;Ou é &lt;span class=&quot;green&quot;&gt;sangramento&lt;/span&gt; ou é &lt;span class=&quot;green&quot;&gt;prolapso&lt;/span&gt;. Pode haver prurido anal. Na maioria das vezes é &lt;span class=&quot;blue&quot;&gt;indolor&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;A necrose e ulceração são muito raras&lt;/p&gt;
+
+&lt;p&gt;Diagnósticos diferenciais: pólipos, procidência de reto (um prolapso total de mucosa, submucosa e musculatura fazendo eversão do reto).&lt;/p&gt;
+
+&lt;h3 id=&quot;classficação&quot;&gt;Classficação&lt;/h3&gt;
+
+&lt;p&gt;Graus:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Interna&lt;/li&gt;
+  &lt;li&gt;Iterna que se exterioriza após defecação mas volta espontaneamente&lt;/li&gt;
+  &lt;li&gt;Iterna que se exterioriza após defecação mas não volta espontaneamente&lt;/li&gt;
+  &lt;li&gt;Externa e não interioriza&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Flicomas&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Orientação higieno-dietética&lt;/li&gt;
+  &lt;li&gt;Clínico&lt;/li&gt;
+  &lt;li&gt;Crioterapia&lt;/li&gt;
+  &lt;li&gt;Fotocoagulação infravermelha&lt;/li&gt;
+  &lt;li&gt;Ligadura elástica&lt;/li&gt;
+  &lt;li&gt;Hemorroidectomia
+    &lt;ul&gt;
+      &lt;li&gt;Aberta&lt;/li&gt;
+      &lt;li&gt;Semifechada&lt;/li&gt;
+      &lt;li&gt;Fechada&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anoplastia grampeada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;trombose-hemorroidária&quot;&gt;Trombose hemorroidária&lt;/h2&gt;
+
+&lt;p&gt;Na grande maioria daz vezes o tratamento é clínico.&lt;/p&gt;
+
+&lt;h2 id=&quot;fissura-anal&quot;&gt;Fissura anal&lt;/h2&gt;
+
+&lt;p&gt;Por definicação, está localizada abaixo da linha denteada. Pode ser aguda (só a fissura) ou crônica (edemaciada e hipertrofiada formando uma papila anal hipertrófica).&lt;/p&gt;
+
+&lt;p&gt;A queixa mais frequente é a dor durante e após a evacuação. Sensação desagradavel do ânus, o espasmo do esfincter interno do ânus.&lt;/p&gt;
+
+&lt;p&gt;Plicoma&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Trídade:
+    &lt;ul&gt;
+      &lt;li&gt;Fissura&lt;/li&gt;
+      &lt;li&gt;Papila anal hipertrófica&lt;/li&gt;
+      &lt;li&gt;Plicoma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pode fazer diagnóstico diferencial com &lt;strong&gt;carcinoma de canal anal ulcerado&lt;/strong&gt;, sífilis primária, herpes perianal, doença de Crohn perianal, tuberculose perianal.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;p&gt;Inicialmente é clínico, recomendando mudança da dieta.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Esfincterotomia química
+    &lt;ul&gt;
+      &lt;li&gt;Óxido nítrico&lt;/li&gt;
+      &lt;li&gt;Isossorbida&lt;/li&gt;
+      &lt;li&gt;Toxina botulínica&lt;/li&gt;
+      &lt;li&gt;Nifedipina&lt;/li&gt;
+      &lt;li&gt;Indoramina&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Esfincterotomia cirúrgica&lt;/li&gt;
+  &lt;li&gt;Crioterapia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fístulas&quot;&gt;Fístulas&lt;/h2&gt;
+
+&lt;p&gt;A fistula e formação de abcessos&lt;/p&gt;
+
+&lt;p&gt;Classificação dos abcessos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Submucoso&lt;/li&gt;
+  &lt;li&gt;Perianal (o que dá mais sintomas e mais percebido)&lt;/li&gt;
+  &lt;li&gt;Interesfincteriano (intermuscular)&lt;/li&gt;
+  &lt;li&gt;Isquiorretal&lt;/li&gt;
+  &lt;li&gt;Pelvirretal (o mais raro e mais difícil de tratar).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;
+
+&lt;p&gt;Para diferenciar a fistula perianal-retal, pode-se palpar a pele perianal e sentir uma “&lt;strong&gt;corda de violão&lt;/strong&gt;” que corresponde ao trajeto da fístula até o reto.&lt;/p&gt;
+
+&lt;p&gt;Regra de Godshal: as fístulas anteriores normalmente fazem um camino em linha reta até o ânus em quanto que as posteriores fazem um caminho angulado (em ferradura).&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;p&gt;Se for diagnosticado muito no início, pode ser feito apenas a antibioticoterapia para gram-negativo e anaeróbio.&lt;/p&gt;
+
+&lt;p&gt;O tratamento ideal é drenar o abcesso com anestesia de bloqueio e fazer uma curetagem da cripta anal com colocação de dreno para impedir a formação de fístulas.&lt;/p&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;Se não for corretamente tratado, se dará a formação da fístulas.&lt;/div&gt;
+
+&lt;p&gt;Síndrome de fournier: fascíite necrotizante da região pélvica perianal. Uma doença grave que pode matar o paciente.&lt;/p&gt;
+
+&lt;p&gt;Tratamento das fístulas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fistulectomia: retirar todo o tecido da fístula, não se faz mais hoje em dia;&lt;/li&gt;
+  &lt;li&gt;Fistulotomia: poupa tecido;&lt;/li&gt;
+  &lt;li&gt;Uso de Seton&lt;/li&gt;
+  &lt;li&gt;Cola de fibrina&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Anatomia</summary></entry><entry><title type="html">Dispepsia funcional</title><link href="http://localhost:4000/gastroenterologia/dispepsia.html" rel="alternate" type="text/html" title="Dispepsia funcional" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/dispepsia</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/dispepsia.html">&lt;p&gt;A dispepsia tem que ser investigada pra dferenciar a funcional da orgânica. A dispepsia funcional inclui sintomas gástricos relacionados a distúrbios fisiopatológicos de base sem qualquer substrato orgânico demonstrado até hoje. Ou seja, a investigação pela endoscopia alta é normal. Difere da gastrite, gastropatia e úlcera.&lt;/p&gt;
+
+&lt;p&gt;Os distúrbios podem ser recorrentes como uma doença crônica. A maioia se mantem sintomático por um período bastante longo, com alguns quadros de remissão.&lt;/p&gt;
+
+&lt;p&gt;É mais prevalente no sexo feminino e a idade média é de 37 anos.&lt;/p&gt;
+
+&lt;p&gt;A dispepsia funcional é mais comum que a dispepsia por essas outras causas orgânicas.&lt;/p&gt;
+
+&lt;h2 id=&quot;definição&quot;&gt;Definição&lt;/h2&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+  &lt;ol&gt;
+    &lt;li&gt;Presença de um ou mais dos seguintes sintomas:
+      &lt;ul&gt;
+        &lt;li&gt;Dor epigástrica&lt;/li&gt;
+        &lt;li&gt;Queimor epigástrico&lt;/li&gt;
+        &lt;li&gt;Empachamento pós-prandial&lt;/li&gt;
+        &lt;li&gt;Saciedade precoce&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Com ausência de lesões estruturais (EDA, PF, teste terapêutico para parasitoses, USG abd.)&lt;/li&gt;
+    &lt;li&gt;Sintomas presentes há 6 meses, antes dos diagnóstico e presente nos ultimos 3 meses&lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Síndrome do desconforto epigástrico (SDE)&lt;/li&gt;
+  &lt;li&gt;Síndrome do desconforto pós-prandial (SDPP)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O mais comum é as duas concomitantes num mesmo paciente (SDE + SDPP).&lt;/p&gt;
+
+&lt;h3 id=&quot;sde&quot;&gt;SDE&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sitnomas ocorrendo pelo menos uma vez por semana e de intensidade moderada&lt;/li&gt;
+  &lt;li&gt;Podem ocorrer  em jejum ou com a alimmentação, e podem ser aliviados pela alimentação&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sdpp&quot;&gt;SDPP&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sintomas ocorrendo pelo menos três vezes por semana&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Saciedade precoce&lt;/strong&gt; impede o término da refeição e/ou&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Empachamento pós-prandial&lt;/strong&gt; ocorre após as refeições.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;Ainda não totalmente estabelecida.&lt;/p&gt;
+
+&lt;p&gt;Na SDE, a sensibilidade visceral está aumentada (o limite para indução de resposta dolorosa é menor).&lt;/p&gt;
+
+&lt;p&gt;Na SDDP parece haver hipomotilidade do antro e diminuição da capacidade de relaxamento do estômago, em respora ao alimento.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hábitos dietéticos saudáveis: comer devagar e mais vezes ao dia em menor quantidade&lt;/li&gt;
+  &lt;li&gt;Atividade física&lt;/li&gt;
+  &lt;li&gt;Evitar alimentos gordurosos, condimentados, ácidos, café, cigarro e álcool em excesso.&lt;/li&gt;
+  &lt;li&gt;Ingerir menos líquidos durante as refeições&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sde-1&quot;&gt;SDE&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Omeoprazol 10 a 20 mg&lt;/li&gt;
+  &lt;li&gt;Lansoprazol 15 a 30&lt;/li&gt;
+  &lt;li&gt;Pantoprazol 20 a 40&lt;/li&gt;
+  &lt;li&gt;Rabeprazol 10 a 20&lt;/li&gt;
+  &lt;li&gt;Esomeprazol 20 a 40 mg&lt;/li&gt;
+  &lt;li&gt;Ansiolíticos/Anridepressivos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;sdpp-1&quot;&gt;SDPP&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Domperidona 2 a 3 vezes ao dia.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">A dispepsia tem que ser investigada pra dferenciar a funcional da orgânica. A dispepsia funcional inclui sintomas gástricos relacionados a distúrbios fisiopatológicos de base sem qualquer substrato orgânico demonstrado até hoje. Ou seja, a investigação pela endoscopia alta é normal. Difere da gastrite, gastropatia e úlcera.</summary></entry><entry><title type="html">Hemorragia digestiva</title><link href="http://localhost:4000/gastroenterologia/hemorragia-digestiva.html" rel="alternate" type="text/html" title="Hemorragia digestiva" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/hemorragia-digestiva</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/hemorragia-digestiva.html">&lt;p&gt;Muito mais comum que a HDB. A HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;HDA: acima do ângulo de Treitz&lt;/li&gt;
+  &lt;li&gt;HDB: abaixo&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Varicosas&lt;/strong&gt; (15%)
+    &lt;ul&gt;
+      &lt;li&gt;Varizez esofágicas (60-65%)&lt;/li&gt;
+      &lt;li&gt;Varizes gástricas (7%)&lt;/li&gt;
+      &lt;li&gt;Gastropatia congestiva (5-8%)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Não varicosas&lt;/strong&gt; (85%).
+    &lt;ul&gt;
+      &lt;li&gt;DUP&lt;/li&gt;
+      &lt;li&gt;Gastropatias (álcool e medicamentos)&lt;/li&gt;
+      &lt;li&gt;Lacerações longitudinais da submucosa na JEG (síndrome de &lt;strong&gt;Mallory-Weiss&lt;/strong&gt;)&lt;/li&gt;
+      &lt;li&gt;CA gástrico&lt;/li&gt;
+      &lt;li&gt;Esofagites: não é comum, raro chegar no ponto de lesão extensa ou úlceras profundas a ponto de sangrar.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Entre as causas de HDB, as mais comuns são a doença diverticular dos cólons (15-40%), ectasias vasculares (3-30%). Também as hemorróidas e fissuras (4-11%). Outras causas são: neoplasia e doenças inflamatórias intestinais (DC e RCUI). Nos pacientes mais jovens as doenças anorretais são mais comuns que as dos cólons.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Específicas
+    &lt;ul&gt;
+      &lt;li&gt;HDA
+        &lt;ul&gt;
+          &lt;li&gt;Hematêmese: borra de café (pode ser vivo se for muito intenso)&lt;/li&gt;
+          &lt;li&gt;Melena: fezes enegrecidas com aspecto de piche&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;HDB
+        &lt;ul&gt;
+          &lt;li&gt;Enterorragia/hematoquezia: sangue vivo nas fezes&lt;/li&gt;
+          &lt;li&gt;Sangue oculto nas fezes: sangramentos de pequena intensidade (característicos das neoplasias de cólon direito)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Outras manifestações
+    &lt;ul&gt;
+      &lt;li&gt;Sudorese&lt;/li&gt;
+      &lt;li&gt;Pele fria&lt;/li&gt;
+      &lt;li&gt;Astenia&lt;/li&gt;
+      &lt;li&gt;Sede&lt;/li&gt;
+      &lt;li&gt;Hipotensão&lt;/li&gt;
+      &lt;li&gt;Taquicardia&lt;/li&gt;
+      &lt;li&gt;Pulso fino&lt;/li&gt;
+      &lt;li&gt;Palidez&lt;/li&gt;
+      &lt;li&gt;Respiração superficial&lt;/li&gt;
+      &lt;li&gt;Cianose&lt;/li&gt;
+      &lt;li&gt;IRA&lt;/li&gt;
+      &lt;li&gt;Confusão mental ao coma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Escala de avaliação da perda sanguínea&lt;/p&gt;
+
+&lt;h2 id=&quot;conduta&quot;&gt;Conduta&lt;/h2&gt;
+
+&lt;h3 id=&quot;primeiros-procedimentos&quot;&gt;Primeiros procedimentos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dieta zero&lt;/li&gt;
+  &lt;li&gt;Acessos venosos calibrosos e reposição volêmica
+    &lt;ul&gt;
+      &lt;li&gt;Cristaloides&lt;/li&gt;
+      &lt;li&gt;Hemotransfusão se Hb &amp;lt; ou = 6&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Exames laboratoriais: hemograma, função renal (Cr, U, SU), função hepática, classificação sanguínea&lt;/li&gt;
+  &lt;li&gt;Sonda vesical e mensuração da diurese&lt;/li&gt;
+  &lt;li&gt;Oximetria de pulso e cateter nasal ou máscara facial, intubação se necessário&lt;/li&gt;
+  &lt;li&gt;ECG (isquemia coronariana por hipovolemia)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A sonda nasográstrica é usada para saber se o paciente ainda estar sangramento. Faz-se um lavado com soro fisiológico e depois aspira para ver se há retorno de sangue.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;h4 id=&quot;varizes-esofágicas&quot;&gt;Varizes esofágicas&lt;/h4&gt;
+
+&lt;h5 id=&quot;ligadura-elástica&quot;&gt;Ligadura elástica&lt;/h5&gt;
+
+&lt;p&gt;O mais eficaz é a ligadura elástica endoscópica. É mais eficaz e possui menos efeitos colaterais.&lt;/p&gt;
+
+&lt;h5 id=&quot;escleroterapia&quot;&gt;Escleroterapia&lt;/h5&gt;
+
+&lt;p&gt;Esclerose com etanolamina provoca a trombose do cordão varicoso e interrompe o sangramento. É um método mais simples.&lt;/p&gt;
+
+&lt;h4 id=&quot;varizes-gástricas&quot;&gt;Varizes gástricas&lt;/h4&gt;
+
+&lt;p&gt;Cianoacrilato.&lt;/p&gt;
+
+&lt;h4 id=&quot;gastropatias&quot;&gt;Gastropatias&lt;/h4&gt;
+
+&lt;p&gt;Pode-se lançar mão de vasoconstrictores de via sistêmica. Como a terlipressina e vasopressina EV.&lt;/p&gt;
+
+&lt;h4 id=&quot;lesões-não-varicozas&quot;&gt;Lesões não varicozas&lt;/h4&gt;
+
+&lt;p&gt;Possuem um arsenal de tratamentos por via endoscópica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Método químico: injeção
+    &lt;ul&gt;
+      &lt;li&gt;Injetar álcool absoluto na úlcera, gerando uma desidratação&lt;/li&gt;
+      &lt;li&gt;Adrenalina 1:10000: vasoconstricção&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Método térmico: laser ou eletrotermocoagulação
+    &lt;ul&gt;
+      &lt;li&gt;O calor promove a retração do coágulo&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O método químico é mais barato e possui eficácia semelhante ao térmico.&lt;/p&gt;
+
+&lt;h2 id=&quot;classificação-de-forrest-para-úlceras&quot;&gt;Classificação de Forrest para úlceras&lt;/h2&gt;
+
+&lt;p&gt;Forrest I, II e III&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Muito mais comum que a HDB. A HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.</summary></entry><entry><title type="html">Esquistossomose</title><link href="http://localhost:4000/gastroenterologia/esquistossomose.html" rel="alternate" type="text/html" title="Esquistossomose" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/esquistossomose</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/esquistossomose.html">&lt;p&gt;É a doença causada pelo helminto &lt;em&gt;Schistosoma mansoni&lt;/em&gt;, da classe Trematoda e filo Platelmintos. Existem outros parasitos não comuns no Brasil: &lt;em&gt;S. japonicum, S. haematobium, S. mekongi&lt;/em&gt; e &lt;em&gt;S. intercalatum.&lt;/em&gt; O hospedeiro definitivo é o homem e o intermediário o caramujo do gênero &lt;em&gt;Biomphalaria&lt;/em&gt;. No Brasil, as principais espécies
+de caramujo são: &lt;em&gt;glabrata, B. tenagophila&lt;/em&gt; e &lt;em&gt;B. straminea&lt;/em&gt;; que vivem na água doce de córregos e lagoas de água parada, nas regiões endêmicas do país.&lt;/p&gt;
+
+&lt;p&gt;Os vermes parasitam os vasos sanguíneos do sistema mesentérico, espoliando nutrientes. Suas ventosas permitem a fixação à parede dos vasos. O macho mede 0,6 a 1,2 cm e a fêmea, 0,7 a 1,7 cm.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/schistosoma.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ciclo-evolutivo&quot;&gt;Ciclo evolutivo&lt;/h2&gt;
+
+&lt;p&gt;A contaminação do ser humano ocorre quando em contato com água onde circulam as &lt;span class=&quot;red&quot;&gt;cercárias&lt;/span&gt;. O horário mais propício é entre 11h e 17h, pois as cercárias se movimentam melhor em ambientes com alta luminosidade. Uma vez chegando à derme, a larva perde a sua cauda, convertendo-se em esquistossômulo. Estes
+seguem pela corrente sanguínea, passam pelos
+capilares pulmonares, chegando ao coração esquerdo, sendo então lançados para os vasos arteriais mesentéricos, capilares mesentéricos, sistema porta e vênulas do espaço-porta hepático.&lt;/p&gt;
+
+&lt;p&gt;No ser humano, habitam os ramos do sistema venoso porta, principalmente no território da veia mesentérica inferior e lá se reproduzem. Uma pessoa pode habrigar 2 a 4 mil vermes adultos.&lt;/p&gt;
+
+&lt;p&gt;Após as fecundação, as fêmeas migram até as vênulas mesentéricas do sigmoide e reto para iniciar a postura dos ovos. Cada uma pode produzir mais de 1.000 ovos por dia.&lt;/p&gt;
+
+&lt;p&gt;Alguns ovos maduros (após 6 dias de postos) atravessam a parede capilar e caem na luz intestinal, sendo expelidos nas fezes. Os que não conseguem atravessar os capilares se acumulam nos vasos ou no sistema porta.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/esquistossomose.png&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;h3 id=&quot;inoculação&quot;&gt;Inoculação&lt;/h3&gt;
+
+&lt;p&gt;24 a 48 horas após a penetração na pele, as cercárias podem causar uma dermatite localizada por mecanismo imunoalérgico.&lt;/p&gt;
+
+&lt;h3 id=&quot;febre-de-katayama&quot;&gt;Febre de Katayama&lt;/h3&gt;
+
+&lt;p&gt;Quando os adultos se desenvolvem e se instalam na circulação vesona mesentérica, após 4 a 8 semanas da infestação, o paciente pode desenvolver a síndrome febril aguda eosinofílica &lt;span class=&quot;blue&quot;&gt;febre de Katayama&lt;/span&gt;. Um fenômeno de &lt;strong&gt;hipersensibilidade&lt;/strong&gt; do tipo doença do soro (imunocomplexos), uma reação do organismo aos antígenos liberados pelos vermes adultos ou pelos ovos recém-eliminados. É mais comum em pacintes que não são de área endêmica e se infestaram durante uma viajem.&lt;/p&gt;
+
+&lt;h3 id=&quot;disseminação-e-instalação-dos-ovos&quot;&gt;Disseminação e instalação dos ovos&lt;/h3&gt;
+
+&lt;p&gt;Após a colocação dos ovos, começa uma reação imunológica local com formação do &lt;strong&gt;granuloma esquistossomótico&lt;/strong&gt;, especialmente nos espaços-porta e na mucosa colorretal. Não são os ovos imaturos que provocam essa reação, mas sim os maduros que duram até 12 dias e após a sua morte ocorre a liberação de antígenos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Granuloma:&lt;/strong&gt; células epitelioides, linfócitos e células gigantes multinucleadas de Langhans. No seu centro, o ovo do &lt;em&gt;S. mansoni&lt;/em&gt;, de coloração eosinofílica.&lt;/p&gt;
+
+&lt;p&gt;Os ovos retidos na mucosa intestinal, que não conseguiram atravessar os capilates intestinais, podem ser vistos na biópsia do cólon ou reto. Outra parte dos órgãos pode ir até o figado (espaço porta), pulmões, SNC, etc. Dependendo de onde os ovos vão se depositando, a doença pode assumir as formas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Intestinal: ovos retidos na mucosa colorretal
+    &lt;ul&gt;
+      &lt;li&gt;Diarréia do tipo colite, podendo vir misturada com sangue;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hepática: ovos retidos no espaço-porta&lt;/li&gt;
+  &lt;li&gt;Hepato-esplênica: o granuloma ao redor do ovo evolui com fibrose.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cheio de ovos nos espaços-porta, o fígado desenvolve uma
+progressiva fibrose periportal nodular, denominada &lt;span class=&quot;green&quot;&gt;fibrose de Symmers&lt;/span&gt;. Inicialmente, nota-se uma &lt;strong&gt;hepatomegalia&lt;/strong&gt;, de consistência endurecida
+e nodular, com um &lt;strong&gt;predomínio frequente do lobo hepático esquerdo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h3 id=&quot;fase-aguda&quot;&gt;Fase aguda&lt;/h3&gt;
+
+&lt;p&gt;A dermatite cercariana é tratada com anti-histamínicos locais e corticosteroides tópicos, associados ao tratamento com os fármacos específicos.&lt;/p&gt;
+
+&lt;p&gt;Os quadros de &lt;span class=&quot;green&quot;&gt;febre de Katayama&lt;/span&gt; podem requerer &lt;strong&gt;internação&lt;/strong&gt; hospitalar, devendo-se indicar &lt;strong&gt;repouso&lt;/strong&gt;, &lt;strong&gt;hidratação&lt;/strong&gt; adequada, uso de &lt;strong&gt;antitérmicos&lt;/strong&gt;, &lt;strong&gt;analgésicos&lt;/strong&gt; e &lt;strong&gt;antiespasmódicos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A terapia específica deve ser logo aplicada, devendo ser associada à prednisona 1 mg/kg/dia (esta iniciada um dia antes da aplicação da droga específica). A resposta ao tratamento é muito boa.&lt;/p&gt;
+
+&lt;h3 id=&quot;fase-crônica&quot;&gt;Fase crônica&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É a doença causada pelo helminto Schistosoma mansoni, da classe Trematoda e filo Platelmintos. Existem outros parasitos não comuns no Brasil: S. japonicum, S. haematobium, S. mekongi e S. intercalatum. O hospedeiro definitivo é o homem e o intermediário o caramujo do gênero Biomphalaria. No Brasil, as principais espécies de caramujo são: glabrata, B. tenagophila e B. straminea; que vivem na água doce de córregos e lagoas de água parada, nas regiões endêmicas do país.</summary></entry><entry><title type="html">Guia Pre Internato</title><link href="http://localhost:4000/guia-pre-internato.html" rel="alternate" type="text/html" title="Guia Pre Internato" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/guia-pre-internato</id><content type="html" xml:base="http://localhost:4000/guia-pre-internato.html">&lt;p&gt;&lt;strong&gt;Como diferenciar a ressonância da tomografia computadorizada?&lt;/strong&gt; Na TC os corpos vertebrais ficam brancos e na ressonância ficam escuros.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -910,1054 +1323,4 @@ frequentes nos pacientes com comprometimento colônico.&lt;/p&gt;
       &lt;p&gt;Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock(Sepsis-3). JAMA. 2016;315(8):801. doi:10.1001/jama.2016.0287 &lt;a href=&quot;#fnref:consenso&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Critérios de Quick SOFA (qSOFA)1 Respiratory rate ≥ 22/min Altered mentation PAS ≤ 100 mm Hg Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock(Sepsis-3). JAMA. 2016;315(8):801. doi:10.1001/jama.2016.0287 &amp;#8617;</summary></entry><entry><title type="html">Megaesôfago e megacólom</title><link href="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon.html" rel="alternate" type="text/html" title="Megaesôfago e megacólom" /><published>2019-09-08T00:00:00-03:00</published><updated>2019-09-08T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/megaesofago-e-megacolon</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/megaesofago-e-megacolon.html">&lt;h2 id=&quot;doença-de-chagas&quot;&gt;Doença de Chagas&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Formas de transmissão
-    &lt;ul&gt;
-      &lt;li&gt;Vetorial&lt;/li&gt;
-      &lt;li&gt;Transfusão sanguínea&lt;/li&gt;
-      &lt;li&gt;Congênita&lt;/li&gt;
-      &lt;li&gt;Oral&lt;/li&gt;
-      &lt;li&gt;Transplante de órgãos&lt;/li&gt;
-      &lt;li&gt;Acidente laboratorial&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;megaesôfago&quot;&gt;Megaesôfago&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Fascies típica: hipertrofia das glândulas parótidas;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Sintoma principal do megaesôfago: é a disfagia
-    &lt;ul&gt;
-      &lt;li&gt;Geralmente uma disfagia distal (a comida entra e desce mas fica a sensação de que parou no meio do caminho)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Hipersalivação&lt;/li&gt;
-  &lt;li&gt;Soluço&lt;/li&gt;
-  &lt;li&gt;Vômitos&lt;/li&gt;
-  &lt;li&gt;Regurgitação&lt;/li&gt;
-  &lt;li&gt;Perda de peso&lt;/li&gt;
-  &lt;li&gt;Constipação&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Acalásia: falta de coordenação entre a deglutição e a abatura do esfincter inferior do esôfago. Não é uma estenose propriamente dita (o aparelho de endoscópio passa pela área). Ocorre devido à invervação.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HDA&lt;/li&gt;
-  &lt;li&gt;Epidemiologia&lt;/li&gt;
-  &lt;li&gt;Exame físico&lt;/li&gt;
-  &lt;li&gt;Esofagografia&lt;/li&gt;
-  &lt;li&gt;Endoscopia digestiva alta&lt;/li&gt;
-  &lt;li&gt;Manometria: medir a pressão do esfincter inferior do esôfago&lt;/li&gt;
-  &lt;li&gt;Exame sorológico&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fármacos
-    &lt;ul&gt;
-      &lt;li&gt;Dinitrato de isossorbida&lt;/li&gt;
-      &lt;li&gt;Nifedipina&lt;/li&gt;
-      &lt;li&gt;Toxina botulínica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dilatação por balão&lt;/li&gt;
-  &lt;li&gt;Cirurgia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;megacólon&quot;&gt;Megacólon&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dilatação colônica&lt;/li&gt;
-  &lt;li&gt;Hipertrofia&lt;/li&gt;
-  &lt;li&gt;Destruição de plexos nervosos&lt;/li&gt;
-  &lt;li&gt;Desnervação parasimpática intramural&lt;/li&gt;
-  &lt;li&gt;Distúrbios da peristalse&lt;/li&gt;
-  &lt;li&gt;Constipação intestinal&lt;/li&gt;
-  &lt;li&gt;Distensão abdominal&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><category term="gastroenterologia" /><summary type="html">Doença de Chagas</summary></entry><entry><title type="html">Tumores hepáticos</title><link href="http://localhost:4000/gastroenterologia/nodulos-hepaticos.html" rel="alternate" type="text/html" title="Tumores hepáticos" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/nodulos-hepaticos</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/nodulos-hepaticos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tumores-benignos&quot; id=&quot;markdown-toc-tumores-benignos&quot;&gt;Tumores benignos&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#adenoma-hepatocelular&quot; id=&quot;markdown-toc-adenoma-hepatocelular&quot;&gt;Adenoma hepatocelular&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hiperplasia-nodular-focal&quot; id=&quot;markdown-toc-hiperplasia-nodular-focal&quot;&gt;Hiperplasia nodular focal&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#quadro-clínico-1&quot; id=&quot;markdown-toc-quadro-clínico-1&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#exames-complementares-1&quot; id=&quot;markdown-toc-exames-complementares-1&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hemangioma-cavernoso&quot; id=&quot;markdown-toc-hemangioma-cavernoso&quot;&gt;Hemangioma Cavernoso&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#quadro-clínico-2&quot; id=&quot;markdown-toc-quadro-clínico-2&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#exames-complementares-2&quot; id=&quot;markdown-toc-exames-complementares-2&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#carcinoma-hepatocelular&quot; id=&quot;markdown-toc-carcinoma-hepatocelular&quot;&gt;Carcinoma hepatocelular&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#epidemiologia-1&quot; id=&quot;markdown-toc-epidemiologia-1&quot;&gt;Epidemiologia&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#fatores-de-risco-1&quot; id=&quot;markdown-toc-fatores-de-risco-1&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-3&quot; id=&quot;markdown-toc-quadro-clínico-3&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames-complementares-3&quot; id=&quot;markdown-toc-exames-complementares-3&quot;&gt;Exames complementares&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#afp&quot; id=&quot;markdown-toc-afp&quot;&gt;AFP&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#usg&quot; id=&quot;markdown-toc-usg&quot;&gt;USG&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tc&quot; id=&quot;markdown-toc-tc&quot;&gt;TC&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#biópsia&quot; id=&quot;markdown-toc-biópsia&quot;&gt;Biópsia&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#outros&quot; id=&quot;markdown-toc-outros&quot;&gt;Outros&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rastreamento&quot; id=&quot;markdown-toc-rastreamento&quot;&gt;Rastreamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#estadiamento&quot; id=&quot;markdown-toc-estadiamento&quot;&gt;Estadiamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-3&quot; id=&quot;markdown-toc-tratamento-3&quot;&gt;Tratamento&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#cirúrgico&quot; id=&quot;markdown-toc-cirúrgico&quot;&gt;Cirúrgico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#clínico&quot; id=&quot;markdown-toc-clínico&quot;&gt;Clínico&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Os tumores hepáticos podem se originar do
-fígado – a partir de hepatócitos, do epitélio dos ductos biliares ou do tecido mesenquimal hepático – ou podem se implantar no parênquima hepático a partir de lesões primárias em órgãos próximos ou distantes do fígado&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;Em adultos, na maioria das regiões de todo o
-mundo, as metástases hepáticas são mais comuns
-que os tumores hepáticos malignos primários.
-Esta relação se inverte na África subsaariana e
-em grande parte do leste asiático. Em crianças,
-os tumores malignos primários são mais frequentes do que metástases e tumores benignos.&lt;/p&gt;
-
-&lt;p&gt;Com exceção dos hemangiomas cavernosos, os
-tumores hepáticos benignos são raros em todas
-as faixas etárias, em todo o mundo, sendo geralmente descobertos incidentalmente em pacientes
-sem história clínica, exame físico ou evidências
-sorológicas de doença hepática ou malignidade.&lt;/p&gt;
-
-&lt;h1 id=&quot;tumores-benignos&quot;&gt;Tumores benignos&lt;/h1&gt;
-
-&lt;h2 id=&quot;adenoma-hepatocelular&quot;&gt;Adenoma hepatocelular&lt;/h2&gt;
-
-&lt;p&gt;O AHC é uma rara lesão hepática sólida identificada principalmente em mulheres em idade fértil e possui estreita relação com o uso de ACO (relacionado em 93% dos casos). Geralmente o tumor é único, bem cirscunscrito, com ou sem cápsula, de tamanho entre 1 a 30 cm.&lt;/p&gt;
-
-&lt;p&gt;Pode haver áreas centrais de necrose e hemorragia. Histologicamente, o tumor é caracterizado pela presença de hepatócitos discretamente atípicos (pálidos, pouco aumentados) dispostos em cordões separados por sinusoides dilatados e com finas paredes (o que pode justificar sua tendência hemorrágica). Uma característica
-marcante é a &lt;strong&gt;ausência de&lt;/strong&gt; ductos biliares, tratos portais e, na maioria dos pacientes, das células de Kupffer.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Devido à redução da concentração de estrógenos nos anticoncepcionais, tem se observado uma diminuição na sua incidência.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;O risco estimado de desenvolvimento de AHC
-em mulheres que fazem uso contínuo de ACO
-por 5 a 7 anos é 5 vezes maior que na população geral e 25 vezes maior quando o uso é por período superior a 9 anos.
-&lt;/div&gt;
-
-&lt;p&gt;Além disso, nas usuárias de ACO os tumores tendem a ser maiores e têm maior chance de sangramento.&lt;/p&gt;
-
-&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ACO: O maior risco ocorre em mulheres com mais de 30 anos que fazem uso de ACO por mais de 5 anos.&lt;/li&gt;
-  &lt;li&gt;DM&lt;/li&gt;
-  &lt;li&gt;Glicogenose tipo I ou III (condição relacionada a tumores múltiplos, uma exceção ao padrão geral)&lt;/li&gt;
-  &lt;li&gt;Gravidez&lt;/li&gt;
-  &lt;li&gt;Uso crônico de esteroides anabolizantes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
-
-&lt;p&gt;Cursa com uma diversidade de sintomas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dor epigástrica ou em HD (sintoma mais comum, em 52%, causado por sangramento ou infarto intratumoral), a qual pode ser súbita e intensa em 30% dos pacientes;&lt;/li&gt;
-  &lt;li&gt;Massa abdominal palpável (25 a 35%);&lt;/li&gt;
-  &lt;li&gt;Hepatomegalia;&lt;/li&gt;
-  &lt;li&gt;Dor abdominal crônica ou intermitente (20 a 25%), causada por compressão de estruturas próximas;&lt;/li&gt;
-  &lt;li&gt;Sinais e sintomas compatíveis com ruptura subcapsular ou para peritônio livre:
-    &lt;ul&gt;
-      &lt;li&gt;Dor abdominal súbita&lt;/li&gt;
-      &lt;li&gt;Palidez cutânea&lt;/li&gt;
-      &lt;li&gt;Hipotensão arterial&lt;/li&gt;
-      &lt;li&gt;Morte súbita.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A ruptura ocorre comumente com tumores solitários e grandes, embora o   principal fator de risco seja sua localização superficial. O sangramento ocorre em 25% a 41%, com uma mortalidade de 6%. Os sintomas agudos frequentemente surgem durante ou logo após a menstruação.&lt;/p&gt;
-
-&lt;h3 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h3&gt;
-
-&lt;p&gt;Laboratorialmente, a Alfafetoproteína (AFP) e os testes bioquímicos hepáticos encontram-se normais, exceto por eventuais elevações de FA e GGT em um subgrupo de pacientes
-que evoluem com hemorragias intratumorais
-ou intraperitoneais ou ainda nos casos de adenomatose hepática (dez ou mais adenomas).&lt;/p&gt;
-
-&lt;p&gt;O diagnóstico é feito basicamente pelo conjunto dos achados imaginológicos à TC, US ou RNM, sendo que a arteriografia
-hepática é um procedimento de grande valia.&lt;/p&gt;
-
-&lt;p&gt;Casos de difícil diagnóstico, especialmente
-aqueles nos quais não se consegue afastar a
-presença de carcinoma hepatocelular, podem
-requerer ressecção para diagnóstico histopatológico.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;As biópsias percutâneas por aspiração
-não têm papel nestes pacientes (risco elevado de sangramento e baixo valor diagnóstico).&lt;/div&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;consiste, fundamentalmente, em excisão cirúrgica, em virtude de:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Risco de hemorragia intratumoral ou intraperitoneal;&lt;/li&gt;
-  &lt;li&gt;Risco – provavelmente baixo – de transformação maligna em carcinoma hepatocelular;&lt;/li&gt;
-  &lt;li&gt;Frequente dificuldade de diferenciação histológica com hepatocarcinomas bem diferenciados.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Adenomas multifocais
-ou difusos podem requerer Transplante Ortotópico de Fígado (TOF), principalmente se a
-AFP estiver aumentada ou se uma transformação maligna já tiver sido diagnosticada.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;Os adenomas &amp;lt; 4-5 cm, assintomáticos, em
-usuárias de pílulas, são tema de controvérsia atualmente: enquanto alguns autores advogam a ressecção irrestrita de qualquer adenoma, outros defendem que estes adenomas sejam manejados de maneira conservadora&lt;/div&gt;
-
-&lt;p&gt;Se o AHC não for retirado, as mulheres devem ser orientadas a cessar o uso de ACO (o que
-pode reduzir o tumor) e a manter um método
-contraceptivo não hormonal, em virtude dos
-riscos potenciais de uma gestação, já expostos anteriormente.&lt;/p&gt;
-
-&lt;h2 id=&quot;hiperplasia-nodular-focal&quot;&gt;Hiperplasia nodular focal&lt;/h2&gt;
-
-&lt;p&gt;A HNF é o segundo tumor benigno mais frequente (depois dos hemangiomas), com uma incidência em séries de necrópsias entre 0,31 e 0,6%.&lt;/p&gt;
-
-&lt;p&gt;Uma lesão nodular não neoplásica encontrada em pacientes de todas as idades e em ambos os sexos, embora seja mais frequente em &lt;strong&gt;mulheres&lt;/strong&gt; entre 20 e 50 anos de idade. Sua relação com os ACOs não é bem estabelecida.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;Acredita-se que a HNF seria uma resposta hepatocelular &lt;span class=&quot;red&quot;&gt;hiperplásica&lt;/span&gt; (e não neoplásica) à hiperperfusão ou injúria vascular originadas por uma preexistente artéria anômala no local da lesão.
-&lt;/div&gt;
-
-&lt;h3 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h3&gt;
-
-&lt;p&gt;Geralmente assintomático (50 a 90%) e descoberto de forma incidental. A dor abdominal, ao contrário do que ocorre com os AHCs, não é tão comum e não é aguda. As lesões sintomáticas são mais frequentes em usuárias de ACO.&lt;/p&gt;
-
-&lt;p&gt;O exame físico é normal em 83% dos casos; nos demais casos, podem ser encontrados hepatomegalia, massa abdominal ou dor abdominal. Raramente as lesões da HNF se rompem.&lt;/p&gt;
-
-&lt;h3 id=&quot;exames-complementares-1&quot;&gt;Exames complementares&lt;/h3&gt;
-
-&lt;p&gt;As provas bioquímicas hepáticas e a AFP são
-normais.&lt;/p&gt;
-
-&lt;p&gt;Macroscopicamente, a lesão é lobulada e facilmente demarcável, mas não encapsulada. Geralmente são subcapsulares e localizadas no lobo hepático direito. O tamanho médio é &lt;strong&gt;inferior a 5 cm&lt;/strong&gt;, raramente excedendo 10 cm.&lt;/p&gt;
-
-&lt;p&gt;São frequentemente únicos, mas podem ser múltiplos em 7 a 20% dos casos, além de pedunculados ou lobares. Possuem uma espessa &lt;strong&gt;cicatriz central com septos radiais&lt;/strong&gt; que subdividem o tumor em &lt;strong&gt;nódulos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Microscopicamente, a lesão assemelha-se à
-cirrose inativa, com o parênquima hepático
-dividido por septos fibrosos contendo numerosos dúctulos, vasos sanguíneos e células inflamatórias crônicas. Lesões maiores podem mostrar focos de hemorragia ou necrose, embora seja menos comum do que nos AHCs.&lt;/p&gt;
-
-&lt;p&gt;A cintilografia com enxofre coloidal-99Tc é
-bastante útil na diferenciação com o adenoma hepatocelular: &lt;strong&gt;a captação do radioisótopo só costuma ocorrer na HNF&lt;/strong&gt;, já que os adenomas quase nunca contêm células de Kupffer.&lt;/p&gt;
-
-&lt;p&gt;Na &lt;strong&gt;aniografia&lt;/strong&gt;, a captação do contraste é central, em contraste com a captação periférica observada
-nos adenomas.&lt;/p&gt;
-
-&lt;p&gt;Na &lt;strong&gt;TC&lt;/strong&gt;, podem ser observadas as
-cicatrizes hipodensas centrais, típicas da HNF.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;O prognóstico das HNFs não ressecadas é ex-
-celente: a maioria dos pacientes permanece
-assintomática, assim como a maioria das lesões permanece sem alterações.&lt;/p&gt;
-
-&lt;p&gt;O tratamento é &lt;strong&gt;expectante&lt;/strong&gt; na maioria dos casos, já que são lesões normalmente &lt;strong&gt;assintomáticas&lt;/strong&gt; e que &lt;span class=&quot;orange&quot;&gt;não se associam com transformação maligna&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lesões volumosas ou pedunculadas raramente podem ser complicadas com torção ou infarto, requerendo tratamento cirúrgico.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;Não há indicação de suspensão dos ACO para as HNFs não ressecadas.&lt;/div&gt;
-
-&lt;h2 id=&quot;hemangioma-cavernoso&quot;&gt;Hemangioma Cavernoso&lt;/h2&gt;
-
-&lt;p&gt;O HC &lt;strong&gt;é o mais comum dos tumores hepáticos mesenquimais benignos&lt;/strong&gt;. Sua frequência em séries de necropsia varia entre 0,4 e 20%. Quando maiores que 5 cm, são arbitrariamente chamados de HC gigantes.&lt;/p&gt;
-
-&lt;p&gt;Mais frequentemente identificados em mulheres (60 a 80%), entre a terceira e a quinta década de vida. &lt;strong&gt;Aumentam de volume durante a gestação&lt;/strong&gt; ou durante o &lt;strong&gt;uso de estrógenos&lt;/strong&gt; e são mais comuns em multíparas. Entretanto, a despeito de sua provável relação com os estrógenos, a etiologia dos HCs ainda não é conhecida.&lt;/p&gt;
-
-&lt;p&gt;Seu crescimento ocorre mais à
-custa de &lt;strong&gt;ectasia progressiva&lt;/strong&gt; do que hiperplasia ou hipertrofia.&lt;/p&gt;
-
-&lt;p&gt;São geralmente lesões solitárias, mas
-tumores múltiplos podem ocorrer em até 10%
-dos pacientes. Normalmente, localizam-se no
-&lt;strong&gt;lobo hepático direito&lt;/strong&gt; e os tumores maiores podem ser pedunculados. Pode haver fibrose central e trombos nos espaços vasculares.&lt;/p&gt;
-
-&lt;h3 id=&quot;quadro-clínico-2&quot;&gt;Quadro clínico&lt;/h3&gt;
-
-&lt;p&gt;A grande maioria dos HC é pequena e assintomática, achados incidentalmente.&lt;/p&gt;
-
-&lt;p&gt;Lesões maiores que 4 cm e 10 cm são sintomáticas, respectivamente, em 40 e 90% dos casos. A &lt;strong&gt;dor em andar superior do abdome&lt;/strong&gt; é o sintoma mais frequente, sendo resultado de infartos e necrose, pressão sobre estruturas adjacentes, distensão da cápsula hepática, ou alto fluxo sanguíneo.&lt;/p&gt;
-
-&lt;p&gt;Sintomas compressivos podem
-ocorrer nos HC gigantes, tais como hiporexia, plenitude pós-prandial precoce, náuseas e vômitos.&lt;/p&gt;
-
-&lt;p&gt;O exame físico pode identificar hepatomegalia e/ou massa palpável, ou mesmo um sopro sob a parede abdominal. A ruptura espontânea desses tumores é marcadamente rara.&lt;/p&gt;
-
-&lt;h3 id=&quot;exames-complementares-2&quot;&gt;Exames complementares&lt;/h3&gt;
-
-&lt;p&gt;Assim como nos demais tumores hepáticos
-benignos, a AFP e os testes bioquímicos hepáticos usualmente não mostram quaisquer anormalidades, exceto em raros casos de HC gigantes que podem causar icterícia obstrutiva (com aumento de FA e GGT).&lt;/p&gt;
-
-&lt;p&gt;Pacientes com HC gigantes podem desenvolver
-coagulopatia de consumo no interior do tumor e apresentar evidências de coagulação intravascular disseminada – trombocitopenia e hipofibrinogenemia, o que é conhecido por síndrome de Kasabach-Merritt.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;TC com contraste dinâmico&lt;/strong&gt;
-mostrará captação do contraste apenas perifericamente na fase arterial, completando seu enchimento na fase venosa, quando o &lt;strong&gt;contraste atinge o centro do tumor&lt;/strong&gt;. Isso contrasta com
-os dois tumores anteriormente descritos, que captam contraste apenas na fase arterial, eliminando-o na fase venosa. O mesmo ocorre na
-arteriografia. Vale ressaltar que a RM é particularmente sensível para a detecção de lesões
-inferiores a 2,5 cm.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-red&quot;&gt;A biópsia hepática percutânea é contraindicada em virtude do grande risco de hemorragia intraperitoneal.
-&lt;/div&gt;
-
-&lt;h3 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;Em geral, o tratamento dos HCs é expectante, a despeito do pequeno risco potencial de ruptura. Apenas ocasionalmente, haverá
-crescimento do tumor ou aparecimento de
-sintomas, requerendo ressecção cirúrgica.&lt;/p&gt;
-
-&lt;p&gt;A terapêutica cirúrgica somente é indicada nos pacientes muito sintomáticos ou na vigência de complicações.&lt;/p&gt;
-
-&lt;h1 id=&quot;carcinoma-hepatocelular&quot;&gt;Carcinoma hepatocelular&lt;/h1&gt;
-
-&lt;p&gt;O hepatocarcinoma, ou Carcinoma Hepatocelular (CHC), é o &lt;strong&gt;tumor maligno primário mais comum do fígado&lt;/strong&gt; e a &lt;span class=&quot;red&quot;&gt;terceira causa de morte por neoplasia no mundo&lt;/span&gt;. Possui como
-causa principal a &lt;strong&gt;cirrose&lt;/strong&gt;, particularmente
-quando secundária à &lt;span class=&quot;green&quot;&gt;hepatite crônica pelos
-vírus B ou C&lt;/span&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia-1&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;Irregularmente distribuída pelo mundo, geralmente seguindo a distribuição de prevalência da infecção crônica
-pelo Vírus da Hepatite B.&lt;/p&gt;
-
-&lt;p&gt;O CHC é de duas a &lt;strong&gt;oito vezes mais frequente em homens do que em mulheres&lt;/strong&gt;. No Brasil, a incidência do CHC é baixa, sendo mais alta em alguns estados como Espírito Santo e Bahia.&lt;/p&gt;
-
-&lt;h3 id=&quot;fatores-de-risco-1&quot;&gt;Fatores de risco&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mais de 80% dos pacientes têm &lt;strong&gt;cirrose hepática&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Hepatite B: a causa mais comum de CHC no mundo. O CHC &lt;strong&gt;pode surgir mesmo na ausência de cirrose&lt;/strong&gt;. Tanto o alcoolismo quanto o tabagismo potencializam o risco em portadores do vírus B.&lt;/li&gt;
-  &lt;li&gt;Hepatite C: Potencial oncogênico também significativo, porém, ao contrário do HBV &lt;strong&gt;requer a existência de cirrose&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;Doença hepática alcoólica&lt;/li&gt;
-  &lt;li&gt;Esteato-hepatite não alcoólica (NASH)&lt;/li&gt;
-  &lt;li&gt;Hemocromatose&lt;/li&gt;
-  &lt;li&gt;Toxinas exógenas&lt;/li&gt;
-  &lt;li&gt;Tirosinemia&lt;/li&gt;
-  &lt;li&gt;Esteroides anabolizantes&lt;/li&gt;
-  &lt;li&gt;Contraceptivos orais: risco controverso&lt;/li&gt;
-  &lt;li&gt;Cirrose hepática: de qualquer etiologia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico-3&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;A apresentação clínica do CHC se faz principalmente de quatro formas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tríade clássica:
-    &lt;ul&gt;
-      &lt;li&gt;Dor em QSD&lt;/li&gt;
-      &lt;li&gt;Aumento do volume abdominal&lt;/li&gt;
-      &lt;li&gt;Perda de peso;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Identificação incidental por método de imagem em paciente assintomático, com ou sem massa palpável em QSDA;&lt;/li&gt;
-  &lt;li&gt;Piora do estado clínico ou trombose de veia porta em paciente cirrótico previamente compensado;&lt;/li&gt;
-  &lt;li&gt;Manifestações paraneoplásicas: febre, leucocitose, caquexia, eritrocitose, hipercalcemia, síndrome carcinoide, hipoglicemia, porfiria cutânea tarda etc.&lt;/li&gt;
-  &lt;li&gt;As aminotransferases, bilirrubinas, fosfatase alcalina e GGT e leucometria global podem estar elevados.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares-3&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;afp&quot;&gt;AFP&lt;/h3&gt;
-&lt;p&gt;A &lt;strong&gt;Alfafetoproteína&lt;/strong&gt; (AFP) é o principal marcador tumoral do CHC. Trata-se de uma proteína oncofetal produzida pelo fígado e saco vitelino que diminui após o nascimento. Uma AFP &amp;gt; 20 ng/ml em paciente com cirrose hepática já sugere CHC, embora uma reativação da hepatite viral (por vezes subclínica) possa elevar os níveis deste marcador entre 20-200 ng/ml.&lt;/p&gt;
-
-&lt;p&gt;A AFP também se encontra aumentada nas metástases hepáticas, tumores de testículos ou ovários e gravidez. Um
-valor acima de 200 ng/ml (400 ng/ml para alguns autores) num paciente cirrótico tem elevada especificidade para CHC.&lt;/p&gt;
-
-&lt;h3 id=&quot;usg&quot;&gt;USG&lt;/h3&gt;
-&lt;p&gt;A USG pode identificar com facilidade lesões sólidas hepáticas acima de 2 cm que, num paciente cirrótico, costumam indicar CHC. Neste exame, lesões pequenas são tipicamente &lt;strong&gt;hipoecoicas&lt;/strong&gt; em relação ao restante do parênquima hepático.&lt;/p&gt;
-
-&lt;p&gt;Com o tempo, estas lesões
-tornam-se hiperecoicas, embora comumente
-produzam um halo hipoecoico. Ao Doppler,
-nota-se tipicamente um padrão de vascularização arterial.&lt;/p&gt;
-
-&lt;h3 id=&quot;tc&quot;&gt;TC&lt;/h3&gt;
-
-&lt;p&gt;A &lt;strong&gt;tomografia helicoidal trifásica (com contraste)&lt;/strong&gt; é o exame de escolha para a confirmação diagnóstica do CHC.&lt;/p&gt;
-
-&lt;p&gt;São comparadas as imagens
-antes do contraste, na fase inicial do contraste (&lt;strong&gt;fase arterial&lt;/strong&gt;) e na fase final do contraste (&lt;strong&gt;portal&lt;/strong&gt;).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Embora o fígado tenha 75% de sua vascularização proveniente do sangue porta e 25% do sangue da artéria hepática, o CHC é vascularizado quase que exclusivamente pela &lt;strong&gt;artéria hepática&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;alert aviso-red&quot;&gt;Portanto, uma lesão sólida em um fígado cirrótico, que &lt;span class=&quot;red&quot;&gt;só aparece na fase arterial&lt;/span&gt;, é virtualmente diagnóstica deste tumor (principalmente se &amp;gt; 2 cm).&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/wash-out.jpeg&quot; alt=&quot;Captação de constraste pelo CHC&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A visualização de nódulos satélites ou de uma massa em padrão mosaico (múltiplos pequenos nódulos separados por traves fibróticas) também sugere hepatocarcinoma.&lt;/p&gt;
-
-&lt;h3 id=&quot;biópsia&quot;&gt;Biópsia&lt;/h3&gt;
-
-&lt;p&gt;A biópsia fecha o diagnóstico, mas,
-se negativa, não exclui. O paciente
-com nódulo &amp;gt; 1 cm e biópsia negativa deverá manter o seguimento, repetindo a biópsia caso a lesão cresça.&lt;/p&gt;
-
-&lt;p&gt;Às vezes, o diagnóstico sai a partir da
-ressecção de um presumido adenoma,
-que, à biópsia de congelação, mostra
-ser um hepatocarcinoma.&lt;/p&gt;
-
-&lt;h3 id=&quot;outros&quot;&gt;Outros&lt;/h3&gt;
-
-&lt;p&gt;Outros exames de elevada acurácia para o diagnóstico do CHC são a RM, a US contrastada e a arteriografia hepática (este último tem sido pouco utilizado,
-pelo seu caráter invasivo). Nos três também
-se notará a &lt;span class=&quot;green&quot;&gt;impregnação por contraste na fase arterial&lt;/span&gt; e o &lt;strong&gt;wash-out&lt;/strong&gt; (eliminação do contraste) na fase venosa.&lt;/p&gt;
-
-&lt;p&gt;A utilização do lipiodol (contraste com forte tropismo por células neoplásicas), seja em arteriografia ou em associação com TC, pode ser útil em casos duvidosos.&lt;/p&gt;
-
-&lt;h2 id=&quot;rastreamento&quot;&gt;Rastreamento&lt;/h2&gt;
-
-&lt;p&gt;Na prática, o rastreamento é indicado em todo paciente cirrótico e em casos selecionados de portadores crônicos do vírus B, mesmo sem cirrose (história familiar de CHC, negros &amp;gt; 20 anos, asiáticos &amp;gt; 40 anos).&lt;/p&gt;
-
-&lt;p&gt;De modo simplificado, o rastreamento deverá ser feito a cada seis
-meses com US abdominal, associada ou não
-à alfafetoproteína.&lt;/p&gt;
-
-&lt;h2 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h2&gt;
-
-&lt;p&gt;A gravidade da hepatopatia de base, avaliada pela &lt;strong&gt;classificação de Child-Pugh&lt;/strong&gt;, é o fator prognóstico mais importante!&lt;/p&gt;
-
-&lt;p&gt;Os níveis de alfafetoproteína também se mostraram úteis para estimar o prognóstico do CHC!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/clip.jpeg&quot; alt=&quot;Captação de constraste pelo CHC&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/child-pugh.png&quot; alt=&quot;Captação de constraste pelo CHC&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento-3&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Sem tratamento, a sobrevida média de um pa-
-ciente com CHC é de 6-20 meses! Trata-se,
-portanto, de um tumor extremamente agressivo.&lt;/p&gt;
-
-&lt;p&gt;A cura, pelas atuais evidências,
-só pode ser obtida pela ressecção do tumor ou pelo transplante hepático.&lt;/p&gt;
-
-&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
-
-&lt;p&gt;O CHC em pacientes não cirróticos (o que pode
-ocorrer em portadores de vírus B) e em cirróticos
-Child A (e alguns Child B) pode ser tratado com
-ressecção (hepatectomia parcial), se o tumor
-não for muito grande e puder ser retirado com margens de segurança de 1 cm, sem comprometer a função hepática.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A invasão do pedículo vascular e as metástases a distância contraindicam, não somente a ressecção, mas também o transplante curativo.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;Como regra geral: &lt;span class=&quot;blue&quot;&gt;transplante&lt;/span&gt; nos cirróticos Child B e C, que têm maior disfunção hepática; &lt;span class=&quot;blue&quot;&gt;ressecção&lt;/span&gt; nos cirróticos Child A e nos não
-cirróticos, que ainda toleram perder algum
-tecido hepático. Deve ser evitada em pacientes com hipertensão portal.
-&lt;/div&gt;
-
-&lt;h3 id=&quot;clínico&quot;&gt;Clínico&lt;/h3&gt;
-
-&lt;p&gt;Opções terapêuticas:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Injeção tumoral de etanol;&lt;/li&gt;
-  &lt;li&gt;Ablação tumoral por radiofrequência;&lt;/li&gt;
-  &lt;li&gt;Termoablação;&lt;/li&gt;
-  &lt;li&gt;Quimioembolização transarterial: como o CHC se nutre quase 100% da artéria hepática, a obstrução desta vasculatura pode propiciar a isquemia e necrose tumoral.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Abdome agudo na criança</title><link href="http://localhost:4000/pediatria/abdome-agudo-na-crianca.html" rel="alternate" type="text/html" title="Abdome agudo na criança" /><published>2019-09-06T00:00:00-03:00</published><updated>2019-09-06T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/abdome-agudo-na-crianca</id><content type="html" xml:base="http://localhost:4000/pediatria/abdome-agudo-na-crianca.html">&lt;p&gt;O diagnóstico de abdome agudo é um desafio em  crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.&lt;/p&gt;
-
-&lt;p&gt;Caracterização da dor: se o início foi agudo, gradativo, súbito.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Início gradativo
-    &lt;ul&gt;
-      &lt;li&gt;Doenças inflamatórias&lt;/li&gt;
-      &lt;li&gt;Apendicite&lt;/li&gt;
-      &lt;li&gt;Diverticulite&lt;/li&gt;
-      &lt;li&gt;Colicistite&lt;/li&gt;
-      &lt;li&gt;Pancreatite&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;De ínicio súbito
-    &lt;ul&gt;
-      &lt;li&gt;Litiásica&lt;/li&gt;
-      &lt;li&gt;Envenenamento&lt;/li&gt;
-      &lt;li&gt;Invaginação&lt;/li&gt;
-      &lt;li&gt;Perfuração&lt;/li&gt;
-      &lt;li&gt;Torção de testículo&lt;/li&gt;
-      &lt;li&gt;Cisto no ovário&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Até a anemia falciforme pode fazer um quadro de abdome agudo. Sequestro esplênico e apendicite aguda.trauma&lt;/p&gt;
-
-&lt;h2 id=&quot;apendicite-aguda&quot;&gt;Apendicite aguda&lt;/h2&gt;
-
-&lt;p&gt;Na criança a apendicite aguda é &lt;strong&gt;mais grave&lt;/strong&gt;. Pois não tem um sistema imune completamente desenvolvido, o diagnóstico é mais difícil e  &lt;strong&gt;seu omento é menor&lt;/strong&gt; (&lt;span class=&quot;blue&quot;&gt;não faz plastrão&lt;/span&gt;).&lt;/p&gt;
-
-&lt;h3 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h3&gt;
-
-&lt;p&gt;Fecalito (30-50%), parasitose, hiperplasia linfóide, corpo estranho.&lt;/p&gt;
-
-&lt;p&gt;O apêncide pode ser foco de linfoma não Hodking. É por isso que &lt;strong&gt;toda peça de apêndice removida em crianças é enviada para histopatológico&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;classificação&quot;&gt;Classificação:&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Simples&lt;/li&gt;
-  &lt;li&gt;Supurativa&lt;/li&gt;
-  &lt;li&gt;Gangresona&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;Principais sintomas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Anorexia&lt;/li&gt;
-  &lt;li&gt;Náuseas e vômitos&lt;/li&gt;
-  &lt;li&gt;Febre&lt;/li&gt;
-  &lt;li&gt;Dor abdominal em QID&lt;/li&gt;
-  &lt;li&gt;Diarréia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Um diagnóstico diferencial é a linfadenite mesenterial que melhora com hidratação é não é cirúrgico. Costuma se resolver com 12h.&lt;/p&gt;
-
-&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Avaliação geral: hidratação&lt;/li&gt;
-  &lt;li&gt;Inspeção&lt;/li&gt;
-  &lt;li&gt;Percussão&lt;/li&gt;
-  &lt;li&gt;Palpação&lt;/li&gt;
-  &lt;li&gt;Toque retal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hemograma: normalmente não ajuda muito&lt;/li&gt;
-  &lt;li&gt;Sumário de úrina&lt;/li&gt;
-  &lt;li&gt;RX simples de Abdome&lt;/li&gt;
-  &lt;li&gt;USG&lt;/li&gt;
-  &lt;li&gt;Outros&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;qual-a-conduta&quot;&gt;Qual a conduta&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ressucitação hidroeletrolítica&lt;/li&gt;
-  &lt;li&gt;Antibioticoterapia
-    &lt;ul&gt;
-      &lt;li&gt;Pré-op&lt;/li&gt;
-      &lt;li&gt;Pós-op&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Técnica cirúrgica&lt;/li&gt;
-  &lt;li&gt;Pós-operatório&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;Bactterioides fragilis&lt;/em&gt; o patógeno mais comum  em infecções de apendicite.&lt;/p&gt;
-
-&lt;p&gt;Febre até o 5º dia é esperado em virtude do trauma cirúrgico. Passando disso é um sinal de infecção.&lt;/p&gt;
-
-&lt;h1 id=&quot;invaginação-intestinal-idiopática&quot;&gt;Invaginação intestinal idiopática&lt;/h1&gt;
-
-&lt;p&gt;É a invaginação do intestino dentro dele mesmo levando a uma obstrução intestinal.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;A intussussepção é a
-invaginação do intestino
-dentro dele mesmo. A
-porção proximal é conduzida
-para dentro da porção distal
-pelo movimento peristáltico
-&lt;/div&gt;
-
-&lt;p&gt;Geralmente as invaginações são são íleo-ceco-cólicas. É necessário: 1. um desequilíbrio no peristaltismo, 2. um ponto fixo (como a válvula íleo-cecal). Na maioria dos casos a invaginação é idiopatica.&lt;/p&gt;
-
-&lt;p&gt;Divertículo de Merckel&lt;/p&gt;
-
-&lt;p&gt;Prevalência: é a &lt;span class=&quot;red&quot;&gt;causa mais frequente de obstrução intestinal em lactantes e crianças maiores&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;História: a criança está eutrófica (“alegre e sorridente”) e, de repente, sente uma  dor súbita. Outros sinais: reflexo vagal (vômito), sudorese, palidez, evacuação de muco e sangue.&lt;/p&gt;
-
-&lt;p&gt;Etiologias: idiopática, infecção por adenovirus e rotavirus, espessamento das placas de payer……&lt;/p&gt;
-
-&lt;p&gt;Tumoração elíptica, “salsichoide”, em mesogátrio e hipogástrio. Fossa ilíaca direita vazia (&lt;span class=&quot;red&quot;&gt;sinal de Dance&lt;/span&gt;).&lt;/p&gt;
-
-&lt;p&gt;Ao toque retal: ampola retal vazia, prolapso anal da cabeça da invaginação.&lt;/p&gt;
-
-&lt;p&gt;Investigação: o &lt;strong&gt;enema hidrostático&lt;/strong&gt; é &lt;strong&gt;tanto tratamento como investigação&lt;/strong&gt;. Injeta-se soro fisiológico no reto e acompanha o bloqueio com o USG. Injetando o soro e fazendo pressão pode ser possível desenvaginar as alças. Se houver uma perfuração o soro entra na cavidade peritonial.&lt;/p&gt;
-
-&lt;p&gt;Enema pneumático.&lt;/p&gt;
-
-&lt;h1 id=&quot;semi-obstrução-por-ascaris&quot;&gt;Semi obstrução por ascaris&lt;/h1&gt;
-
-&lt;p&gt;Quadro clínico:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Distensão abdominal;&lt;/li&gt;
-  &lt;li&gt;Vômitos;&lt;/li&gt;
-  &lt;li&gt;Parada de eliminação de fezes;&lt;/li&gt;
-  &lt;li&gt;Eliminação de Ascaris pela boca ou nariz;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O tratamento é clínico, esporadicamente cirúrgico.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O diagnóstico de abdome agudo é um desafio em crianças e idosos, pois diversas doenças podem mimetizar um quadro abdominal. Por exemplo: uma pneumonia em crianças pode causa abdome em tábua e apresentar sinal de Blumberg positivo.</summary></entry><entry><title type="html">Abdomen agudo</title><link href="http://localhost:4000/cirurgia/abdomen-agudo.html" rel="alternate" type="text/html" title="Abdomen agudo" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/abdomen-agudo</id><content type="html" xml:base="http://localhost:4000/cirurgia/abdomen-agudo.html">&lt;p&gt;É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia-da-dor-abdominal&quot;&gt;Fisiopatologia da dor abdominal:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dor visceral: peritôneo visceral
-    &lt;ul&gt;
-      &lt;li&gt;Decorre da distensão, tração, contração ou isquemia. É uma dor leve do tipo cólica, um desconforto abdominal de local impreciso. O paciente fica inquieto e pode apresentar nâuseas e vômitos.&lt;/li&gt;
-      &lt;li&gt;Íleo paralítico reflexo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dor parietal (somática): peritônio parietal
-    &lt;ul&gt;
-      &lt;li&gt;Contato de órgãos e ou secreções orgânicas com o peritôneo parietal. É uma dor intensa, constante, bem localizada. O paciente se mantêm  imovel (como um mecanismo de defesa) e ocorre contração involuntária da parede abdominal (abdomen em tábua).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Dor irradiada: origem intra-abdominal percebida em local anatômico distante.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;anamnese&quot;&gt;Anamnese&lt;/h2&gt;
-
-&lt;p&gt;Fazer uma anamense minunciosa seguindos os príncipios básicos da semiótica da dor.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tipo&lt;/li&gt;
-  &lt;li&gt;Duração&lt;/li&gt;
-  &lt;li&gt;Evolução&lt;/li&gt;
-  &lt;li&gt;Localização&lt;/li&gt;
-  &lt;li&gt;Intensidade&lt;/li&gt;
-  &lt;li&gt;Irradicação&lt;/li&gt;
-  &lt;li&gt;Fatores agravantes&lt;/li&gt;
-  &lt;li&gt;Fatores atenuantes&lt;/li&gt;
-  &lt;li&gt;Sintomas associadoS
-    &lt;ul&gt;
-      &lt;li&gt;Febre&lt;/li&gt;
-      &lt;li&gt;Astenia&lt;/li&gt;
-      &lt;li&gt;Anorexia&lt;/li&gt;
-      &lt;li&gt;Nâuseas e vômitos&lt;/li&gt;
-      &lt;li&gt;Diarréia&lt;/li&gt;
-      &lt;li&gt;Constipação intestinal&lt;/li&gt;
-      &lt;li&gt;Hemorragia digestiva&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Na maioria das vezes há uma diminuição do peristaltismo com constipação intestinal.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Idade&lt;/li&gt;
-  &lt;li&gt;Gênero&lt;/li&gt;
-  &lt;li&gt;História de episódios semelhantes&lt;/li&gt;
-  &lt;li&gt;Antecedentes cirúrgicos&lt;/li&gt;
-  &lt;li&gt;Doenças associadas (DM, obesidade, doenças vasculares (abdome agudo vascular, trombose das mesentéricas))&lt;/li&gt;
-  &lt;li&gt;Medicações (AINEs, corticoides, opióides, imunossupressores)&lt;/li&gt;
-  &lt;li&gt;Ciclo menstrual e antecedentes ginecológicos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
-
-&lt;h3 id=&quot;exame-geral&quot;&gt;Exame geral&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aspecto geral&lt;/li&gt;
-  &lt;li&gt;Hidratação&lt;/li&gt;
-  &lt;li&gt;Perfusão&lt;/li&gt;
-  &lt;li&gt;Consciência&lt;/li&gt;
-  &lt;li&gt;Temperatura&lt;/li&gt;
-  &lt;li&gt;FC, PA, FR&lt;/li&gt;
-  &lt;li&gt;Órgãos e sistemas&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exame-abdominal&quot;&gt;Exame abdominal&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Inspeção:
-    &lt;ul&gt;
-      &lt;li&gt;Abaulamentos&lt;/li&gt;
-      &lt;li&gt;Distensão&lt;/li&gt;
-      &lt;li&gt;Cicatrizes&lt;/li&gt;
-      &lt;li&gt;Hérnias&lt;/li&gt;
-      &lt;li&gt;Equimoses&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Palpação
-    &lt;ul&gt;
-      &lt;li&gt;Contração da parede abdominal&lt;/li&gt;
-      &lt;li&gt;Dor à descompressão&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Percussão
-    &lt;ul&gt;
-      &lt;li&gt;Distensão intestinal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ausculta
-    &lt;ul&gt;
-      &lt;li&gt;Peristaltimo intestinal&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hemograma&lt;/li&gt;
-  &lt;li&gt;Glicose&lt;/li&gt;
-  &lt;li&gt;Uréia&lt;/li&gt;
-  &lt;li&gt;Creatinina&lt;/li&gt;
-  &lt;li&gt;Ionograma&lt;/li&gt;
-  &lt;li&gt;PCR&lt;/li&gt;
-  &lt;li&gt;Amilase&lt;/li&gt;
-  &lt;li&gt;Lipase&lt;/li&gt;
-  &lt;li&gt;AST, ALT, DHL&lt;/li&gt;
-  &lt;li&gt;Gasometria arterial&lt;/li&gt;
-  &lt;li&gt;Sumário de urina&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;imagem&quot;&gt;Imagem&lt;/h3&gt;
-
-&lt;p&gt;Protocolo simples:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;RX tórax em pé: para pesquisar pneumoperitônio&lt;/li&gt;
-  &lt;li&gt;RX abdome pé e deitado: avaliar a anatomia intestinal e investigar a presença de níveis hidroaéreos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Outros:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;USG abdominal&lt;/li&gt;
-  &lt;li&gt;TC&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em emergências, muitas vezes o diagnóstico é feito durante a cirúrgia&lt;/p&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-
-&lt;h3 id=&quot;inflamatório&quot;&gt;Inflamatório,&lt;/h3&gt;
-
-&lt;p&gt;O mais comum.&lt;/p&gt;
-
-&lt;p&gt;……………..&lt;/p&gt;
-
-&lt;p&gt;Etiologia: apendicite aguda, pancreatite aguda, colecistite aguda, diverticulite colônica, doença inflamatória pélvica.&lt;/p&gt;
-
-&lt;p&gt;Causas menos frequentes: diverticulite de Meckel, peritonite primária, abcessos (hepático, esplênico, cavitário), megacólon tóxico, apendicite epiplóica.&lt;/p&gt;
-
-&lt;h4 id=&quot;apendicite-aguda&quot;&gt;Apendicite aguda&lt;/h4&gt;
-
-&lt;p&gt;A pricipal (prevaência de 10%). Maior no sexo masculino.&lt;/p&gt;
-
-&lt;p&gt;Etiopatogenia: um fecalito que entra na luz do apêndice causando uma obstrução.&lt;/p&gt;
-
-&lt;p&gt;Estágios evolutivos: catarral, supurativa, gangrenosa, perfurativa.&lt;/p&gt;
-
-&lt;p&gt;Diagnóstico: manifestações atípicas em crianças e idosos. Posições anômalas do apêndice (sub-hepático, retrocecal - o mais comum, retro-ileal, pélvico)
-Estágio evolutivo da doença.
-Anorexia, náuseas e vômitos, dor periumbilical (FID), febre. (forma não complicada em mais ou menos 50% dos casos)&lt;/p&gt;
-
-&lt;p&gt;Exame abdominal: Dor em FID, huperestesia cutânea, defesa de parede. Sinais de Blumberg, Rovsing, Obturados, Psoas. RHA normais ou hipoativos.&lt;/p&gt;
-
-&lt;p&gt;Na maioria das vezes o diagnóstico é clínico. De laboratório pode haver uma leucocitose e neutrofilia com desvio para a esquerda. Exames de imagem com USG ou TC para confirmação, além de radiografia abdominal (só nos casos em que não tem USG ou TC).&lt;/p&gt;
-
-&lt;p&gt;USG: diâmetro &amp;gt; 6 mm. Edema parietal (halo de edema inflamatório), fecalito, aumento do calíbre do apêndice, líquido………………………..&lt;/p&gt;
-
-&lt;p&gt;Diagnósticos diferenciais: enterocolite, anexite, psoíte, adenite mesentérica, diverticulite de meckel, pancreatite, colecistite, litíase urinária, pielonefrite, etc.&lt;/p&gt;
-
-&lt;p&gt;Complicações: peritonite, abcesso cavitário, plastrão apendicular (o epíplon adere ao ceco fazendo uma tumoração para “isolar” o apêndice), pileflebite portal, fístulas.&lt;/p&gt;
-
-&lt;p&gt;Plastrão apendicular: dor em FID, tumoração inflamatória na FID, demais regiões abdominais sem alterações, febre, subfebril ou sem febre, ausência de toxemia, evolução prolongada (7-10 dias após o quadro agudo).&lt;/p&gt;
-
-&lt;p&gt;Abcesso apendicular: tumoração dolorosa em FID, reação peritoneal, febre persistente, sinais de toxemia, reação peritonial.&lt;/p&gt;
-
-&lt;p&gt;Tratamento: apendicectomia preferencialmente por videolaparoscopia. Mas atenção, quando há o plastrão não deve-se operar. Faz antibioticoterapia e só opera se o paciente não melhorar (tratamento conservador).&lt;/p&gt;
-
-&lt;h3 id=&quot;obstrutivo&quot;&gt;Obstrutivo&lt;/h3&gt;
-
-&lt;p&gt;Dor abdominal do tipo cólica, náuseas e vômitos persistentes, distensão abdominal, parada na eliminação de fezes e flatos, timpanismo generalizado, peristaltismo aumentado (RHA aumentados)&lt;/p&gt;
-
-&lt;p&gt;Etiologia: causas pós operatórias (aderências intestinais, bridas), hérnaias internas e da parede abdominal, tumores e doenças inflamatórias intestinais (doença de Chron - estenoses da parede do intestino), volvo intestinal (principalmente no intestino grosso - ex: megacólon chagásico), intussuscepção (mais frequente em crianças), bolo de áscaris, corpo estranho, fecaloma, íleo biliar.&lt;/p&gt;
-
-&lt;p&gt;O diagnóstico por imagem é importante, realizando as radiografias em pé e deitado. É possível visualizar os níveis hidroaéreos mudando de posição quando em pé ou deitado.&lt;/p&gt;
-
-&lt;h3 id=&quot;hemorrágico&quot;&gt;Hemorrágico&lt;/h3&gt;
-
-&lt;p&gt;Como na gravidez ectópica rota.&lt;/p&gt;
-
-&lt;p&gt;Dor abdominal difusa, súbita e intensa. Sinais de irritação peritonial. Sinais de hipovolemia. Anemia aguda.&lt;/p&gt;
-
-&lt;p&gt;Etiologia: gravidez ectópica rota, cistos hemorrágicos de ovário, endometriose (quadro mais crônicos e menos relacionado à abdome agudo), ruptura esplênica, aneurisma de aorta abdominal, necrose tumoral.&lt;/p&gt;
-
-&lt;h3 id=&quot;vascular&quot;&gt;Vascular&lt;/h3&gt;
-
-&lt;p&gt;Dor abdominal súbita, difusa, contínua e intensa.
-Sinais de peritonite difusa.
-Sinais clínicos de infecção ou sepse.
-Idosos, diabéticos, fibrilação atrial, IAM, IC dilatada, drogas vasoativas, choque, pós-operatório de cirúrgia cardíaca e vascular, trombofilia, ACO, neoplasias.&lt;/p&gt;
-
-&lt;p&gt;Ocorre iesquemia intestinal.&lt;/p&gt;
-
-&lt;p&gt;Etiologia: isquemia arterial oclusiva (embolia - 50%, trombos 20%) ……..&lt;/p&gt;
-
-&lt;h3 id=&quot;perfurativo&quot;&gt;Perfurativo&lt;/h3&gt;
-
-&lt;p&gt;Há uma dor abdominal súbita, intensa e persistente. Apresenta respiração superficial e assume uma posição antiálgica (fica curvado e imovel). Contração involuntária e abdome em tábua.&lt;/p&gt;
-
-&lt;p&gt;Etiologia: úlcera péptica gastroduodenal, neoplasias gastrointestinais, doenças inflamatórias intestinais, corpo estranho.&lt;/p&gt;
-
-&lt;p&gt;RX com paciente em pé: é possível ver pneumoperitônio. O figado fica afastando da cúpula diafragmática.&lt;/p&gt;
-
-&lt;h3 id=&quot;traumático&quot;&gt;Traumático&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É um diagnostico sindrômico, com sinais de irritacão peritoneal que necessitam de resolução urgente e, na maioria das vezes o tratamento e cirúrgico.</summary></entry><entry><title type="html">Gastrite</title><link href="http://localhost:4000/gastroenterologia/gastrite.html" rel="alternate" type="text/html" title="Gastrite" /><published>2019-09-05T00:00:00-03:00</published><updated>2019-09-05T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/gastrite</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/gastrite.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#gastrite-por-h-pylori&quot; id=&quot;markdown-toc-gastrite-por-h-pylori&quot;&gt;Gastrite por &lt;em&gt;H. pylori&lt;/em&gt;&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#aguda&quot; id=&quot;markdown-toc-aguda&quot;&gt;Aguda&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#crônica&quot; id=&quot;markdown-toc-crônica&quot;&gt;Crônica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#gastropatia-medicamentosa&quot; id=&quot;markdown-toc-gastropatia-medicamentosa&quot;&gt;Gastropatia medicamentosa&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É a lesão da mucosa gástrica com diagnóstico &lt;strong&gt;estabelecido pela histologia&lt;/strong&gt;, pela presença de processo inflamatório da mucosa, infiltrado leucocitário inflamatório que pode ou não estar associada a alterações macroscópicas na endoscopia.&lt;/p&gt;
-
-&lt;p&gt;A gastrite por H. pylori e a gastrite autoimune (anemia perniciosa) são os dois principais representantes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Gatropatia:&lt;/strong&gt; é uma lesão da mucosa gástrica sem processo inflamatório, com edema, congestão vascular e hiperplasia celular à analise histológica. Diferente da gastrite.&lt;/p&gt;
-
-&lt;p&gt;Gastropatia por AINE, lesão aguda de mucosa gástrica e gastropatia alcoólica
-são os principais exemplos.&lt;/p&gt;
-
-&lt;p&gt;Hoje sabemos que a relação
-entre gastrite e dispepsia é precária, pois a maioria das gastrites é assintomática e a maioria dos pacientes com dispepsia sem úlcera não
-tem gastrite. Por isso, foi criado o termo “Dispepsia não ulcerosa” ou “Dispepsia funcional” para todo paciente com sintomas dispépticos não acompanhados de úlcera péptica ou neoplasia na endoscopia.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/estomago.png&quot; alt=&quot;Estômago&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;É necessária a biópsia para estabelecer o diagnóstico de gastrite ou gastropatia.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Hoje classificamos as gastrites e gastropatias baseando-se em:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tempo de instalação (aguda ou crônica);&lt;/li&gt;
-  &lt;li&gt;Histopatologia (gastrite superficial ou gastrite atrófica ou gastropatia);&lt;/li&gt;
-  &lt;li&gt;Etiologia (ex.: gastrite por H. pylori).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;gastrite-por-h-pylori&quot;&gt;Gastrite por &lt;em&gt;H. pylori&lt;/em&gt;&lt;/h2&gt;
-
-&lt;p&gt;O &lt;em&gt;H. pylori&lt;/em&gt; é um bacilo &lt;strong&gt;Gram-negativo&lt;/strong&gt; que se adere à mucosa gástrica, sobrevivendo neste local graças à secreção de &lt;strong&gt;urease&lt;/strong&gt; (enzima que &lt;strong&gt;converte a ureia do suco gástrico em amônia e bicarbonato&lt;/strong&gt;, alcalinizando o ambiente). Trata-se da infecção crônica mais comum do mundo, geralmente adquirida na infância. Boa parte da população (30-50% dos adultos) alberga a bactéria em seus estômagos!&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Bactéria gram-negativa&lt;/li&gt;
-  &lt;li&gt;Habitat natural: estômago&lt;/li&gt;
-  &lt;li&gt;Uma das infecções  bacterianas mais comuns no ser humano. Distribuição universal (cerca de 50% da população mundial)&lt;/li&gt;
-  &lt;li&gt;Prevalência de 70-90% em países em desenvolvimento&lt;/li&gt;
-  &lt;li&gt;25% em países desenvolvidos&lt;/li&gt;
-  &lt;li&gt;Maior prevalência nos primeiros anos de vida, acomete mais crianças do que adultos
-    &lt;ul&gt;
-      &lt;li&gt;Menor resposta imunológica&lt;/li&gt;
-      &lt;li&gt;Menos higiene durante a infância&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Transmissão&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Interpessoal
-        &lt;ul&gt;
-          &lt;li&gt;Instituições psiquiátricas, orfanatos, aglomerado familiar, prática sexual&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Fecal-oral (águas e alimetnos contaminados)&lt;/li&gt;
-      &lt;li&gt;Oral-oral (vômitos, refluxo gastroesogágico, endoscopia)&lt;/li&gt;
-      &lt;li&gt;É encontrado em animais mas estes não contribuem como reservatórios para o ser humano.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;O Hp consegue resistir ao sugo gástrico com pH inferior a 4;&lt;/li&gt;
-  &lt;li&gt;Produz urease que hidrolisa a uréia no suco gástrico, com produção de bicarbonato e amônia. Esta atua como repector de íons H+, gerando um pH neutroao redor da bactéria;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Mobilidade&lt;/strong&gt;: o Hp se move facilmente pelo estômago devido à morfologia em &lt;em&gt;S&lt;/em&gt; do seu flagelo. Então, ela consegue escapar dos movimentos peristálticos e atingir o epitélio da mucosa gástrica (seu habitat).&lt;/li&gt;
-  &lt;li&gt;Além disso, suas &lt;strong&gt;fímbrias&lt;/strong&gt; possuem &lt;strong&gt;adesina&lt;/strong&gt;, uma proteína que a mantem aderida à mucosa.&lt;/li&gt;
-  &lt;li&gt;Algumas cepas produzem &lt;strong&gt;citocinas Cag A e Vac A&lt;/strong&gt;, mais virulentas, maior poder de inflamação, desenvolvimento de gastrite mais intensa, DUP e CA.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Resultado da aquisição do Hp&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Maioria dos infectados vivem com a gastrite crônica, se a bactéria não é tratada&lt;/li&gt;
-  &lt;li&gt;Sem sintomas e sem consequências por toda a vida&lt;/li&gt;
-  &lt;li&gt;Uma minoria na idade adulta&lt;/li&gt;
-  &lt;li&gt;Só 1% desenvolverão CA ou úlcera (cepas mais patogênicas)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Fatores de aquisição:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Mais comum em zona rural;&lt;/li&gt;
-  &lt;li&gt;Precarias condições sanitárias e de higiene;&lt;/li&gt;
-  &lt;li&gt;Familias numerosas;&lt;/li&gt;
-  &lt;li&gt;Nível de escolaridade dos pais.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;aguda&quot;&gt;Aguda&lt;/h3&gt;
-
-&lt;p&gt;Uma vez que o &lt;em&gt;H. pylori&lt;/em&gt; é adquirido, ele não é mais eliminado. Ocorre um processo inflamatório com &lt;strong&gt;neutrófilos&lt;/strong&gt; e eosinófilos na mucosa. Esse processo inicial costuma ser passageiro e com 1 mês torna-se assintomático.&lt;/p&gt;
-
-&lt;h3 id=&quot;crônica&quot;&gt;Crônica&lt;/h3&gt;
-
-&lt;p&gt;Gastrite crônica: decorrente da persistencia da bactéria com presença de &lt;strong&gt;linfócitos&lt;/strong&gt; e plasmócitos.&lt;/p&gt;
-
-&lt;p&gt;A gastrite crônica leve representa o fenótipo mais comum, cursando de forma assintomática e sem repercussões clínicas no futuro.&lt;/p&gt;
-
-&lt;p&gt;A gastrite antral crônica (15% dos casos), por outro lado, se associa à HIPERcloridria e à úlcera péptica (principalmente duodenal).&lt;/p&gt;
-
-&lt;p&gt;Na pangastrite grave (forma menos frequente) há destruição e atrofia das glândulas oxínticas do corpo e fundo gástrico, gerando HIPOcloridria. Tal
-fenótipo se associa às úlceras gástricas, à metaplasia intestinal (lesão precursora do adenocarcinoma) e à hiperestimulação do tecido linfoide associado à mucosa, aumentando o risco de linfoma B de baixo grau (linfoma MALT do estômago) – maiores detalhes no capítulo de “Câncer Gástrico”.&lt;/p&gt;
-
-&lt;p&gt;No geral, até 10% dos portadores crônicos
-do H. pylori complicam doença ulcerosa
-péptica. O &lt;span class=&quot;red&quot;&gt;adenocarcinoma gástrico&lt;/span&gt; aparece
-em 0.1 a 3% desses pacientes, e o linfoma
-MALT em &amp;lt; 0.01%.&lt;/p&gt;
-
-&lt;h3 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h3&gt;
-
-&lt;p&gt;80 a 90% nunca irão apresentar sintomas. A maioria dos sintomas da gastrite desaparece com o tratamento para Hp.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Azia&lt;/li&gt;
-  &lt;li&gt;Dor epigástroca&lt;/li&gt;
-  &lt;li&gt;Náuseas&lt;/li&gt;
-  &lt;li&gt;Vômitos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Piora com frutas cítricas, café, jejum, refrigerantes.&lt;/p&gt;
-
-&lt;h3 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Por endoscopia&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Teste da urease:&lt;/strong&gt; simples, barato, rápido. Meio contendo uréia e vermelho fenol. Urease desdobra a uréia em amônia a qual muda a coloração do meio, ficando violeta.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Histologia:&lt;/strong&gt; &lt;span class=&quot;orange&quot;&gt;padrão-ouro&lt;/span&gt; no diagnóstico da infecção pelo Hp
-        &lt;ul&gt;
-          &lt;li&gt;Informações sobre estado da mucosa (grau de inflamação, atrofia, metaplasia, displasia)&lt;/li&gt;
-          &lt;li&gt;Pode flagrar falsos positivos do teste da urease&lt;/li&gt;
-          &lt;li&gt;Coloração Hematoxilina-esosina: avaliar mucosa&lt;/li&gt;
-          &lt;li&gt;Giemsa: identificar a bactéria&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Cultura&lt;/strong&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Teste respiratório:&lt;/strong&gt; método não invasivo, bom para crianças e idosos. Mais indicado para controle e avaliação do tratamento.
-    &lt;ul&gt;
-      &lt;li&gt;Ingesta de uréia marcada com Carbono 13 diluído em suco&lt;/li&gt;
-      &lt;li&gt;Coleta de amostra de ar expirado após ingestão desolução contendo uréia 13C&lt;/li&gt;
-      &lt;li&gt;Se infecção: urease hidrolisa a uréia em amônia e bicarbonato no estômago&lt;/li&gt;
-      &lt;li&gt;No pulmão o HCO3 se dissocia em H2O e CO2 marcado com carbono 13 que sera exalado na expiração&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Pesquisa do antígeno fecal&lt;/li&gt;
-  &lt;li&gt;Sorologia: menor sensibilidade que os métodos anteriores, além de não confirmar doença ativa, já que pode refletir apenas uma “cicatriz sorológica” (caindo em desuso).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;Importante: não há achados clínicos ou endoscópicos típicos que possam estabelecer o diagnóstico diferencial entre a gastrite e a gastropatia.&lt;/div&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;IBP&lt;/strong&gt; 12/12 h&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Amoxalicina&lt;/strong&gt; 1 g 12/12 h&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Claritromicina&lt;/strong&gt; 500 mg 12/12 h&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Com 7 dias o índice de cura é de 73% (maior chance de resistência à claritromicina). Com 14 dias é de 83%. O IBP faz com que o antibiótico haja melhor na mucosa gástrica por meio do aumento do pH.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Falha terapêutica:
-    &lt;ul&gt;
-      &lt;li&gt;IBP 12/12 h&lt;/li&gt;
-      &lt;li&gt;Amoxacilina 1 g 12/12 h&lt;/li&gt;
-      &lt;li&gt;Levofloxacino 500 mg 1 x ao dia&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Com 10 dias o índice de cura é diminuído. Com 14 dias é o ideal.&lt;/p&gt;
-
-&lt;p&gt;Há ainda o terceiro esquema. Se com a 3ª tentativa de tratamento não conseguir tratar, não adianta mais tentar um quatro.&lt;/p&gt;
-
-&lt;p&gt;Resistência antimicrobiana (claritromicina) e levofloxacino. Pode ser adquirida (uso maior desses antibióticos, regime formulado, aderência ao tratamento) ou por predisposição genética.&lt;/p&gt;
-
-&lt;h2 id=&quot;gastropatia-medicamentosa&quot;&gt;Gastropatia medicamentosa&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ácido acetilsalicílico/AINEs&lt;/li&gt;
-  &lt;li&gt;Consumo  elevado com  aumento idade : ósseos, coração, prevenção  trombo-embolismo&lt;/li&gt;
-  &lt;li&gt;Inibição da prostaglandinas que são inibidoras da secreção ácida gástrica&lt;/li&gt;
-  &lt;li&gt;Sintomas em cerca de 25-50% dos casos&lt;/li&gt;
-  &lt;li&gt;Dor epigástrica, náuseas, vômitos, HDA: gastropatias/úlcera péptica&lt;/li&gt;
-  &lt;li&gt;IBP na gastroprevencao preventiva&lt;/li&gt;
-  &lt;li&gt;Pantoprazol 20 mg ou 40 mg (mesma eficácia) prevenir sintomas dispépticos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pode cursar com sangramento leve (sangue oculto nas fezes e anemia) ou grave, com ulceras importantes e HDA.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;Deve-se suspender o AINE incriminado e
-iniciar terapia com IBP. Caso o paciente necessite retomar a terapia anti-inflamatória, devemos fazer profilaxia com IBP.&lt;/p&gt;
-
-&lt;p&gt;A presença do H. pylori contribui para piorar a lesão gástrica por AINE e, por isso, a erradicação da bactéria está indicada se o paciente tiver que manter os AINE.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;FERREIRA Lincoln Eduardo Villela Vieira de Castro, MEIRELLES Gustavo de Souza Portes, VIEIRA Renata La Rocca, BRAGAGNOLO Jr. Maurício Augusto, CHEBLI Júlio Maria Fonseca, SOUZA Aécio Flávio Meirelles de. Alterações no teste ultra-rápido da urease e no exame anatomopatológico para Helicobacter pylori induzidas por drogas anti-secretoras. Arq. Gastroenterol.  [Internet]. 2001  Jan [cited  2019  Sep  08] ;  38(1): 03-08. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S0004-28032001000100002&amp;amp;lng=en.  http://dx.doi.org/10.1590/S0004-28032001000100002.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Critérios de Quick SOFA (qSOFA)1 Respiratory rate ≥ 22/min Altered mentation PAS ≤ 100 mm Hg Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock(Sepsis-3). JAMA. 2016;315(8):801. doi:10.1001/jama.2016.0287 &amp;#8617;</summary></entry></feed>
