@@ -214,7 +214,6 @@ body {
 }
 h1 {
   text-align: center;
-  font-size: 3em;
 }
 .post-title {
   margin-bottom: 0;
@@ -228,9 +227,11 @@ a {
 }
 ::selection {
   background: yellow; /* WebKit/Blink Browsers */
+  color: black;
 }
 ::-moz-selection {
   background: yellow; /* Gecko Browsers */
+  color: black;
 }
 .footnotes p {
   text-align: left;
@@ -394,6 +395,24 @@ figure {
   padding-top: 15px;
   padding-bottom: 30px;
 }
+.caixa {
+  background-color: #e2e1e8;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-bottom-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  padding: 1px;
+
+}
+.caixa-title {
+  background-color: #241c69;
+  color: white;
+  padding: 5px 5px 5px 10px;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+  margin-bottom: 0;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
 
 /* footer */
 .footer {

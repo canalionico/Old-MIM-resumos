@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cirurgia/sepsis-abdominal.html',
+      
         '/gastroenterologia/hemorragia-digestiva.html',
       
         '/gastroenterologia/dispepsia.html',
@@ -317,6 +319,8 @@ self.addEventListener('install', function (event) {
         '/assets/gastro/hepb-cronica.jpeg'
       
         '/assets/gastro/hepb-sorologia.jpeg'
+      
+        '/assets/gastro/mapa-esquistossomose.png'
       
         '/assets/gastro/pancreas.jpg'
       

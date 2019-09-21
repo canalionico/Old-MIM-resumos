@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-18T21:37:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Proctologia</title><link href="http://localhost:4000/cirurgia/proctologia.html" rel="alternate" type="text/html" title="Proctologia" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/proctologia</id><content type="html" xml:base="http://localhost:4000/cirurgia/proctologia.html">&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-21T19:45:29-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sepse abdominal</title><link href="http://localhost:4000/cirurgia/sepsis-abdominal.html" rel="alternate" type="text/html" title="Sepse abdominal" /><published>2019-09-19T00:00:00-03:00</published><updated>2019-09-19T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/sepsis-abdominal</id><content type="html" xml:base="http://localhost:4000/cirurgia/sepsis-abdominal.html">&lt;p&gt;Disfunção orgânica por uma resposta desregulada do organismo a uma infecção.&lt;/p&gt;
+
+&lt;p&gt;Os dois escores prognósticos mais importantes são o SOFA e o q-SOFA.&lt;/p&gt;
+
+&lt;p&gt;O SOFA não comtempla dois grandes sistemas: não avalia disfunção miocárdica e do TGI.&lt;/p&gt;
+
+&lt;p&gt;q-SOFA:&lt;/p&gt;
+
+&lt;p&gt;Para cada alteração é 1 ponto. Se 2 ou mais pontos associado a uma infecção já é um indicador de risco.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;FR &amp;gt; 22&lt;/li&gt;
+  &lt;li&gt;PAS &amp;lt; 100&lt;/li&gt;
+  &lt;li&gt;Glashow &amp;lt; 15&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Surviging sepsis 2018 (EGDT)&lt;/p&gt;
+
+&lt;p&gt;The management of intra-abdminal infections a global perspective 2017&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Disfunção orgânica por uma resposta desregulada do organismo a uma infecção.</summary></entry><entry><title type="html">Proctologia</title><link href="http://localhost:4000/cirurgia/proctologia.html" rel="alternate" type="text/html" title="Proctologia" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/proctologia</id><content type="html" xml:base="http://localhost:4000/cirurgia/proctologia.html">&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
 
 &lt;p&gt;No reto, diferentemente do cólon que possui haustrações, a musculatura é lisa. É muito mais difícil o aparecimento de divertículos no reto devido a isso.&lt;/p&gt;
 
@@ -348,7 +366,48 @@
 
 &lt;h2 id=&quot;classificação-de-forrest-para-úlceras&quot;&gt;Classificação de Forrest para úlceras&lt;/h2&gt;
 
-&lt;p&gt;Forrest I, II e III&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Muito mais comum que a HDB. A HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.</summary></entry><entry><title type="html">Esquistossomose</title><link href="http://localhost:4000/gastroenterologia/esquistossomose.html" rel="alternate" type="text/html" title="Esquistossomose" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/esquistossomose</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/esquistossomose.html">&lt;p&gt;É a doença causada pelo helminto &lt;em&gt;Schistosoma mansoni&lt;/em&gt;, da classe Trematoda e filo Platelmintos. Existem outros parasitos não comuns no Brasil: &lt;em&gt;S. japonicum, S. haematobium, S. mekongi&lt;/em&gt; e &lt;em&gt;S. intercalatum.&lt;/em&gt; O hospedeiro definitivo é o homem e o intermediário o caramujo do gênero &lt;em&gt;Biomphalaria&lt;/em&gt;. No Brasil, as principais espécies
+&lt;p&gt;Forrest I, II e III&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Muito mais comum que a HDB. A HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.</summary></entry><entry><title type="html">Esquistossomose</title><link href="http://localhost:4000/gastroenterologia/esquistossomose.html" rel="alternate" type="text/html" title="Esquistossomose" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/esquistossomose</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/esquistossomose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#ciclo-evolutivo&quot; id=&quot;markdown-toc-ciclo-evolutivo&quot;&gt;Ciclo evolutivo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#disseminação-e-instalação-dos-ovos&quot; id=&quot;markdown-toc-disseminação-e-instalação-dos-ovos&quot;&gt;Disseminação e instalação dos ovos&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#hipertensão-porta&quot; id=&quot;markdown-toc-hipertensão-porta&quot;&gt;Hipertensão porta&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#inoculação&quot; id=&quot;markdown-toc-inoculação&quot;&gt;Inoculação&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#febre-de-katayama&quot; id=&quot;markdown-toc-febre-de-katayama&quot;&gt;Febre de Katayama&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-crônica&quot; id=&quot;markdown-toc-fase-crônica&quot;&gt;Fase crônica&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#forma-hepatointestinal&quot; id=&quot;markdown-toc-forma-hepatointestinal&quot;&gt;Forma hepatointestinal&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#forma-hepatoesplênica&quot; id=&quot;markdown-toc-forma-hepatoesplênica&quot;&gt;Forma hepatoesplênica&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#enterobacteriose-septicêmica-prolongada&quot; id=&quot;markdown-toc-enterobacteriose-septicêmica-prolongada&quot;&gt;Enterobacteriose septicêmica prolongada&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#forma-pulmonar&quot; id=&quot;markdown-toc-forma-pulmonar&quot;&gt;Forma pulmonar&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#forma-renal&quot; id=&quot;markdown-toc-forma-renal&quot;&gt;Forma renal&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#neuroesquistossomose&quot; id=&quot;markdown-toc-neuroesquistossomose&quot;&gt;Neuroesquistossomose&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#forma-turmoral&quot; id=&quot;markdown-toc-forma-turmoral&quot;&gt;Forma turmoral&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#laboratório&quot; id=&quot;markdown-toc-laboratório&quot;&gt;Laboratório&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#parasitologia&quot; id=&quot;markdown-toc-parasitologia&quot;&gt;Parasitologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#provas-imunológicas&quot; id=&quot;markdown-toc-provas-imunológicas&quot;&gt;Provas imunológicas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#imagem&quot; id=&quot;markdown-toc-imagem&quot;&gt;Imagem&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-aguda&quot; id=&quot;markdown-toc-fase-aguda&quot;&gt;Fase aguda&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fase-crônica-1&quot; id=&quot;markdown-toc-fase-crônica-1&quot;&gt;Fase crônica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-específico&quot; id=&quot;markdown-toc-tratamento-específico&quot;&gt;Tratamento específico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#controle-de-cura&quot; id=&quot;markdown-toc-controle-de-cura&quot;&gt;Controle de cura&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cirurgia&quot; id=&quot;markdown-toc-cirurgia&quot;&gt;Cirurgia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a doença causada pelo helminto &lt;em&gt;Schistosoma mansoni&lt;/em&gt;, da classe Trematoda e filo Platelmintos. Existem outros parasitos não comuns no Brasil: &lt;em&gt;S. japonicum, S. haematobium, S. mekongi&lt;/em&gt; e &lt;em&gt;S. intercalatum.&lt;/em&gt; O hospedeiro definitivo é o homem e o intermediário o caramujo do gênero &lt;em&gt;Biomphalaria&lt;/em&gt;. No Brasil, as principais espécies
 de caramujo são: &lt;em&gt;glabrata, B. tenagophila&lt;/em&gt; e &lt;em&gt;B. straminea&lt;/em&gt;; que vivem na água doce de córregos e lagoas de água parada, nas regiões endêmicas do país.&lt;/p&gt;
 
 &lt;p&gt;Os vermes parasitam os vasos sanguíneos do sistema mesentérico, espoliando nutrientes. Suas ventosas permitem a fixação à parede dos vasos. O macho mede 0,6 a 1,2 cm e a fêmea, 0,7 a 1,7 cm.&lt;/p&gt;
@@ -369,15 +428,11 @@ capilares pulmonares, chegando ao coração esquerdo, sendo então lançados par
 
 &lt;p&gt;&lt;img src=&quot;/assets/gastro/esquistossomose.png&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;Sempre perguntar na ananmese sobre passado de banhos de rio em áreas endêmicas (norte de MG até a PB) na busca por epidemiologia positiva para o &lt;em&gt;S. mansoni&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/mapa-esquistossomose.png&quot; alt=&quot;Mapa da esquistossomose&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;h3 id=&quot;inoculação&quot;&gt;Inoculação&lt;/h3&gt;
-
-&lt;p&gt;24 a 48 horas após a penetração na pele, as cercárias podem causar uma dermatite localizada por mecanismo imunoalérgico.&lt;/p&gt;
-
-&lt;h3 id=&quot;febre-de-katayama&quot;&gt;Febre de Katayama&lt;/h3&gt;
-
-&lt;p&gt;Quando os adultos se desenvolvem e se instalam na circulação vesona mesentérica, após 4 a 8 semanas da infestação, o paciente pode desenvolver a síndrome febril aguda eosinofílica &lt;span class=&quot;blue&quot;&gt;febre de Katayama&lt;/span&gt;. Um fenômeno de &lt;strong&gt;hipersensibilidade&lt;/strong&gt; do tipo doença do soro (imunocomplexos), uma reação do organismo aos antígenos liberados pelos vermes adultos ou pelos ovos recém-eliminados. É mais comum em pacintes que não são de área endêmica e se infestaram durante uma viajem.&lt;/p&gt;
 
 &lt;h3 id=&quot;disseminação-e-instalação-dos-ovos&quot;&gt;Disseminação e instalação dos ovos&lt;/h3&gt;
 
@@ -393,13 +448,196 @@ capilares pulmonares, chegando ao coração esquerdo, sendo então lançados par
       &lt;li&gt;Diarréia do tipo colite, podendo vir misturada com sangue;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Hepática: ovos retidos no espaço-porta&lt;/li&gt;
-  &lt;li&gt;Hepato-esplênica: o granuloma ao redor do ovo evolui com fibrose.&lt;/li&gt;
+  &lt;li&gt;Hepática: ovos retidos no espaço-porta;&lt;/li&gt;
+  &lt;li&gt;Hepato-esplênica: evolução da forma hepática com granuloma ao redor do ovo evolui com fibrose.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Cheio de ovos nos espaços-porta, o fígado desenvolve uma
 progressiva fibrose periportal nodular, denominada &lt;span class=&quot;green&quot;&gt;fibrose de Symmers&lt;/span&gt;. Inicialmente, nota-se uma &lt;strong&gt;hepatomegalia&lt;/strong&gt;, de consistência endurecida
 e nodular, com um &lt;strong&gt;predomínio frequente do lobo hepático esquerdo&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;hipertensão-porta&quot;&gt;Hipertensão porta&lt;/h4&gt;
+
+&lt;p&gt;A progressiva fibrose periportal vai levando a um quadro de &lt;span class=&quot;red&quot;&gt;hipertensão porta&lt;/span&gt; &lt;span class=&quot;orange&quot;&gt;intra-hepática&lt;/span&gt; &lt;span class=&quot;green&quot;&gt;pré-sinusoidal&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A esquistossomose causa cirrose?&lt;/strong&gt; A função hepática não costuma se alterar pois não são observados nódulos de regeneração que caracterizam a cirrose. Mas os portadores da doença podem vir a desenvolver a cirrose com uma associação de outros fatores (como alcoolismo e hepatites).&lt;/p&gt;
+
+&lt;p&gt;As suas principais consequências são a dilatação
+dos vasos do sistema porta e das colaterais
+porto-cava, culminando com a formação das
+&lt;strong&gt;varizes esofagianas&lt;/strong&gt;, que podem romper e se
+apresentar como hemorragia digestiva alta.&lt;/p&gt;
+
+&lt;p&gt;O baço cresce pelo aumento de sua pressão venosa (esplenomegalia congestiva) e por ativação de seu sistema reticuloendotelial. Pode haver hiperesplenismo concomicante.&lt;/p&gt;
+
+&lt;p&gt;Devido à HP, parte do sangue do sistema porto-mesentérico é desviada para o sistema cava, permitindo a disseminação dos ovos para outros tecidos. Destes, o principal é o
+&lt;strong&gt;pulmão&lt;/strong&gt;, talvez por existirem vasos colaterais
+diretos que comunicam o sistema porta com o
+sistema vascular pulmonar. Os ovos irão se
+alojar nas arteríolas pulmonares, produzindo uma &lt;strong&gt;endarterite granulomatosa&lt;/strong&gt;,
+que poderá levar à &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt; e ao &lt;em&gt;&lt;strong&gt;cor pulmonale&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;A medula espinal é um órgão que comumente pode ser afetado provocando quadros de paraplegia.&lt;/p&gt;
+
+&lt;p&gt;Pode haver a glomerulopatia esquistossomótica por deposição de imunocomplexos nos vasos renais.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;h3 id=&quot;inoculação&quot;&gt;Inoculação&lt;/h3&gt;
+
+&lt;p&gt;24 a 48 horas após a penetração na pele, as cercárias podem causar uma dermatite localizada por mecanismo imunoalérgico. O chamado &lt;em&gt;“prurido do nadador”&lt;/em&gt; onde as cercárias penetraram. Após 12 a 24 horas, forma-se uma &lt;strong&gt;erupção maculopapular&lt;/strong&gt; com cotinuação do prurido. Pode durar mais de uma semana.&lt;/p&gt;
+
+&lt;h3 id=&quot;febre-de-katayama&quot;&gt;Febre de Katayama&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Quando os adultos se desenvolvem e se instalam na circulação vesona mesentérica&lt;/strong&gt;, após 4 a 8 semanas da infestação, o paciente pode desenvolver a síndrome febril aguda eosinofílica &lt;span class=&quot;blue&quot;&gt;febre de Katayama&lt;/span&gt;. Um fenômeno de &lt;strong&gt;hipersensibilidade&lt;/strong&gt; do tipo doença do soro (imunocomplexos), uma reação do organismo aos antígenos que começam a ser liberados pelos vermes adultos ou pelos ovos recém-eliminados É mais comum em pacintes que não são de área endêmica e se infestaram durante uma viajem.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Início abrupto&lt;/li&gt;
+  &lt;li&gt;Febre alta (39°C), intermitente (com dias afebris) e duradoura (pode ser &amp;gt; 4 sem);&lt;/li&gt;
+  &lt;li&gt;Calafrios, sudorese noturna, mialgia, poliartralgia, cefaleia, tosse seca, broncoespasmo;&lt;/li&gt;
+  &lt;li&gt;Anorexia e perda ponderal;&lt;/li&gt;
+  &lt;li&gt;Náuseas e vômitos;&lt;/li&gt;
+  &lt;li&gt;Diarreia (pode ocorrer disenteria);&lt;/li&gt;
+  &lt;li&gt;Dor abdominal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Exame físico:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hepatoesplenomegalia;&lt;/li&gt;
+  &lt;li&gt;Micropoliadenopatia generalizada;&lt;/li&gt;
+  &lt;li&gt;Rash cutâneo do tipo urticaria ou púrpura, com prurido e até angioedema;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Raramente o paciente pode evoluir com formas mais graves e desenvolver icterícia, abdome agudo, &lt;em&gt;delirium&lt;/em&gt;, rigidez de nuca e estado comatoso.&lt;/p&gt;
+
+&lt;h3 id=&quot;fase-crônica&quot;&gt;Fase crônica&lt;/h3&gt;
+
+&lt;p&gt;Na maioria das vezes é assintomática. Nessa fase, a &lt;span class=&quot;red&quot;&gt;eosinofilia não é tão frequente&lt;/span&gt;, o que dificulta ainda mais a suspeita do diagnóstico.&lt;/p&gt;
+
+&lt;h4 id=&quot;forma-hepatointestinal&quot;&gt;Forma hepatointestinal&lt;/h4&gt;
+&lt;p&gt;Mais comum entre as crianças e os adultos jovens (5 a 20 anos). Decorre da presença de ovos no espaço porta e na mucosa colorretal. Pode assumir, ainda, uma forma intestinal pura ou uma forma hepatointestinal propriamente dita. Os sinais e sintomas são muito variados e poucos específicos.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Sinais e sintomas&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Dispepsia e eructação (arrotos);&lt;/li&gt;
+    &lt;li&gt;Sensação de plenitude gástrica;&lt;/li&gt;
+    &lt;li&gt;Náuseas e vômitos;&lt;/li&gt;
+    &lt;li&gt;Pirose, flatulência e anorexia;&lt;/li&gt;
+    &lt;li&gt;Dor abdominal do tipo cólica, difusa ou localizada na FID que precedem a defecação e depois desaparecem;&lt;/li&gt;
+    &lt;li&gt;Surtos diarreicos ou disentéricos, associados ao tenesmo;&lt;/li&gt;
+    &lt;li&gt;Emagrecimento;&lt;/li&gt;
+    &lt;li&gt;&lt;span class=&quot;green&quot;&gt;Hepatomegalia&lt;/span&gt; por &lt;span class=&quot;orange&quot;&gt;hipertrofia predominante do lobo esquedo&lt;/span&gt;, indolor;&lt;/li&gt;
+    &lt;li&gt;Baço não palpável e não percutível;&lt;/li&gt;
+    &lt;li&gt;A palpação do sigmoide pode ser dolorosa e revelar endurecimento, a &lt;em&gt;“&lt;strong&gt;corda cólica sigmoideana&lt;/strong&gt;“&lt;/em&gt;.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Faz diagnóstico diferencial com: RCU, DC, colites parasitárias, disenterias bacilares, síndrome do cólon irritável, diverticulose, polipose intestinal, etc.&lt;/p&gt;
+
+&lt;h4 id=&quot;forma-hepatoesplênica&quot;&gt;Forma hepatoesplênica&lt;/h4&gt;
+
+&lt;p&gt;Essa é a forma mais importante! É definida como a presença de &lt;span class=&quot;blue&quot;&gt;esplenomegalia mais a hipertensão porta&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Como há HP, todos seus sintomas secundários podem estar presentes (como varizes de esôfago e etc). O desenvolvimento de &lt;span class=&quot;red&quot;&gt;ascite não é comum&lt;/span&gt; pois a obstrução porta é &lt;strong&gt;pré-sinusoidal&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Sinais e sintomas&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Esplenomegalia;&lt;/li&gt;
+    &lt;li&gt;Hepatomegalia de consistência endurecida e nodular com maior aumento do lobo esquerdo (sob apêndice xifoide);&lt;/li&gt;
+    &lt;li&gt;Sinais de HP:
+      &lt;ul&gt;
+        &lt;li&gt;Hematêmese (rotura de VVEE);&lt;/li&gt;
+        &lt;li&gt;Melena;&lt;/li&gt;
+        &lt;li&gt;Circulação colateral do tipo porto-cava;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Desconforto abdominal progressivo.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Os &lt;strong&gt;estigamas clássicos da cirrose&lt;/strong&gt; hepática (aranhas vasculares, ginecomastia, eritema palmar, etc.) &lt;strong&gt;não costumam ser encontrados na esquistossomose isolada&lt;/strong&gt;. Mas pode haver certo grau de infantilismo gonadal.&lt;/p&gt;
+
+&lt;h4 id=&quot;enterobacteriose-septicêmica-prolongada&quot;&gt;Enterobacteriose septicêmica prolongada&lt;/h4&gt;
+
+&lt;p&gt;Enterobactérias da flora intestinal (principalmente gram-negativas) podem adentrar o intestino dos vermes e serem translocadas para outros locais, causando um estado de bacteremia.&lt;/p&gt;
+
+&lt;p&gt;O quadro clínico é caracterizado por febre de longa duração, perda ponderal, dor abdominal, edema de MMII, hepatomegalia, esplenomegalia, hipoalbuminemia, hipergamaglobulinemia, leucocitose neutrofílica, eosinofilia, etc. Lembra muito um quadro de leishmaniose visceral.&lt;/p&gt;
+
+&lt;h4 id=&quot;forma-pulmonar&quot;&gt;Forma pulmonar&lt;/h4&gt;
+
+&lt;p&gt;O acometimento pulmonar ocorre em 20 a 30% dos casos, mas nem sempre é sintomática. Na maioria das vezes está associada à forma hepatoesplênica (hipertensão porta). Pode ser dividida em duas formas:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hipertensiva:&lt;/strong&gt; mais frequente, obstrução do leito arterial pulmonar pelos ovos. Sua clínica envolve sinais progressivos de insuficiência ventricular direita (turgência jugular, hepatomegalia dolorosa e edema de MMII). Pode haver também dispneia de esforço, palpitações, tosse seca, dor torácica constritiva, astenia extrema, emagrecimento rápido, anorexia e dedos em baqueta de tambor. A evolução natural do quadro leva ao &lt;em&gt;cor pulmonale&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cianótica:&lt;/strong&gt; mais prevalente em mulheres e em pacientes com esplenomegalia. Cianose geralmente discreta devido a microfístulas arteriovenosas, sobretudo nas extremidades e dedos em baqueta de tambor.&lt;/p&gt;
+
+&lt;h4 id=&quot;forma-renal&quot;&gt;Forma renal&lt;/h4&gt;
+
+&lt;p&gt;É a glomerulopatia esquistossomótica. Mais frequente na forma hepatoesplênica. A lesão mais comum é a glomerulonefrite membranoproliferativa tipo 1. Se manifesta clinicamente por proteinúria e até síndrome nefrótica. A explicação se deve à deposição de imunocomplexos.&lt;/p&gt;
+
+&lt;h4 id=&quot;neuroesquistossomose&quot;&gt;Neuroesquistossomose&lt;/h4&gt;
+
+&lt;p&gt;Pode ocorrer por embolização dos ovos pela rede arterial, migração dos ovos por anastomoses entre o sistema venoso portal e o de Batson, ovoposição após migração anômala dos vermes.&lt;/p&gt;
+
+&lt;p&gt;Nem sempre a presença dos ovos no SNC cursa com alguma alteração. Os acometimentos ocorrem mais na** medula espinhal toracolombar&lt;strong&gt;, com um quadro de **mielite transversa&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;forma-turmoral&quot;&gt;Forma turmoral&lt;/h4&gt;
+
+&lt;p&gt;A forma tumoral ou pseudoneoplásica é bastante rara, simulando adenocarcinoma de cólon em muitas situações. Podem apresentar-se como
+pólipos únicos ou múltiplos, estenoses ou vegetações tumorais, as quais crescem para a luz intestinal. Os achados clínicos nesses casos incluem a enterorragia e a dor abdominal intensa e difusa (forma polipoide), além da obstrução intestinal, emagrecimento progressivo, anorexia, tumoração palpável e distensão abdominal. A colonoscopia com biópsia pode esclarecer o diagnóstico.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;span class=&quot;green&quot;&gt;Eosinofilia&lt;/span&gt; intensa (na fase aguda) ou discreta;&lt;/li&gt;
+  &lt;li&gt;Leucopenia e plaquetopenia;&lt;/li&gt;
+  &lt;li&gt;Anemia hemolítica por hiperesplenismo é incomum;&lt;/li&gt;
+  &lt;li&gt;VHS como regra está bem elevado;&lt;/li&gt;
+  &lt;li&gt;Hipergamaglobulinemia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;parasitologia&quot;&gt;Parasitologia&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Parasitológico de fezes (ovos presentes após 40 dias de infestação), ovo espiculado.
+    &lt;ul&gt;
+      &lt;li&gt;Sensibilidade em torno de 50%&lt;/li&gt;
+      &lt;li&gt;Recomendado 6 amostras para aumentar a sensibilidade&lt;/li&gt;
+      &lt;li&gt;Quanto maior o tempo de infestação, menor a ovoposição&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Biópsia retal
+    &lt;ul&gt;
+      &lt;li&gt;Sensibilidade de 80%&lt;/li&gt;
+      &lt;li&gt;Evidencia a presença de ovos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;provas-imunológicas&quot;&gt;Provas imunológicas&lt;/h3&gt;
+
+&lt;p&gt;Mais empregadas na fase crônica, pois positivam após 25 dias de infestação.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Intradermorreação&lt;/li&gt;
+  &lt;li&gt;Reações de fixação do complemento&lt;/li&gt;
+  &lt;li&gt;Imunoflorescência indireta&lt;/li&gt;
+  &lt;li&gt;ELISA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;imagem&quot;&gt;Imagem&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Radiografia de tórax: avaliar a forma pulmonar;&lt;/li&gt;
+  &lt;li&gt;ECG: avaliar também a forma vasculopulmonar;&lt;/li&gt;
+  &lt;li&gt;USG abdominal: avaliar a forma hepatoesplênica;&lt;/li&gt;
+  &lt;li&gt;EDA e EDB: avaliar a forma hepatoesplênica.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
 
@@ -411,7 +649,70 @@ e nodular, com um &lt;strong&gt;predomínio frequente do lobo hepático esquerdo
 
 &lt;p&gt;A terapia específica deve ser logo aplicada, devendo ser associada à prednisona 1 mg/kg/dia (esta iniciada um dia antes da aplicação da droga específica). A resposta ao tratamento é muito boa.&lt;/p&gt;
 
-&lt;h3 id=&quot;fase-crônica&quot;&gt;Fase crônica&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É a doença causada pelo helminto Schistosoma mansoni, da classe Trematoda e filo Platelmintos. Existem outros parasitos não comuns no Brasil: S. japonicum, S. haematobium, S. mekongi e S. intercalatum. O hospedeiro definitivo é o homem e o intermediário o caramujo do gênero Biomphalaria. No Brasil, as principais espécies de caramujo são: glabrata, B. tenagophila e B. straminea; que vivem na água doce de córregos e lagoas de água parada, nas regiões endêmicas do país.</summary></entry><entry><title type="html">Guia Pre Internato</title><link href="http://localhost:4000/guia-pre-internato.html" rel="alternate" type="text/html" title="Guia Pre Internato" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/guia-pre-internato</id><content type="html" xml:base="http://localhost:4000/guia-pre-internato.html">&lt;p&gt;&lt;strong&gt;Como diferenciar a ressonância da tomografia computadorizada?&lt;/strong&gt; Na TC os corpos vertebrais ficam brancos e na ressonância ficam escuros.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;h3 id=&quot;fase-crônica-1&quot;&gt;Fase crônica&lt;/h3&gt;
+
+&lt;p&gt;Nas formas &lt;strong&gt;hepatointestinal&lt;/strong&gt; e &lt;strong&gt;hepatoesplênica&lt;/strong&gt;, devem ser contempladas medidas para minorar o quadro diarreico (quando presente) e os fenômenos dispépticos.&lt;/p&gt;
+
+&lt;p&gt;Na forma &lt;strong&gt;hepatoesplênica&lt;/strong&gt;, condutas para redução
+do risco de hemorragias digestivas, como a
+escleroterapia de varizes de esôfago e o uso de
+betabloqueadores, também são extremamente
+relevantes.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-específico&quot;&gt;Tratamento específico&lt;/h3&gt;
+
+&lt;p&gt;Baseia-se no uso de praziquantel e oxaminiquine.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Praziquantel&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Indicado em todas as fases da doença;&lt;/li&gt;
+    &lt;li&gt;Dose de 40 mg/kg, em tomada única;&lt;/li&gt;
+    &lt;li&gt;80-90% de cura;&lt;/li&gt;
+    &lt;li&gt;Atua contra as três espécies de &lt;em&gt;Schistosoma&lt;/em&gt;;&lt;/li&gt;
+    &lt;li&gt;Também age contra outros vermes.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;As reações adversas ao uso do praziquantel, incluem: náuseas, dores abdominais, cefaleia, tonteiras, sonolência, palpitação, prurido, urticária, vômito, cinetose, sensação de “cabeça oca”, diarreia, hipoacusia,
+hiporreflexia, distúrbio visual e tremor.&lt;/p&gt;
+
+&lt;p&gt;É contraindicado na insuficiência hepática, renal e cardíaca graves, bem como na forma hepatointestinal descompensada em crianças menores de dois anos e na gestação.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Oxaminiquine&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Dose de 15 mg/kg em tomada única para adultos e de 20 mg/kg em tomada única para crianças;&lt;/li&gt;
+    &lt;li&gt;Tem atividade restrita ao &lt;em&gt;S. mansoni&lt;/em&gt;, agindo em
+todos os seus estágios evolutivos.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Os efeitos colaterais mais comuns atribuídos à droga são
+tonteiras, sonolência, cefaleia, manifestações neuropsíquicas (excitação, irritabilidade, convulsão, alucinação, sensação de flutuação etc.).
+Também podem ocorrer febre, hipertensão
+arterial, leuco e linfopenia transitórias. Para
+aliviar tais sintomas, recomenda-se administrálo após a refeição (café matinal ou jantar).&lt;/p&gt;
+
+&lt;p&gt;É contraindicado em grávidas, em lactantes, em
+crianças com menos de dois anos de idade, nas
+insuficiências renal, hepática e cardíaca descompensadas e em casos de hipertensão porta
+descompensada. Além disso, não deve ser utilizado em pessoas com epilepsia.&lt;/p&gt;
+
+&lt;h3 id=&quot;controle-de-cura&quot;&gt;Controle de cura&lt;/h3&gt;
+
+&lt;p&gt;Devem ser realizados 6 exmaes parasitológicos de fezes, um por mês e/ou uma biópsia retal após os 6 meses de tratamento. Atenção pois a biópsia deve ser sempre realizada. A cura é conseguida em 80% dos casos!&lt;/p&gt;
+
+&lt;h3 id=&quot;cirurgia&quot;&gt;Cirurgia&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A esplenectomia pode ser uma opção para a hipertensão porta com hiperesplenismo;&lt;/li&gt;
+  &lt;li&gt;A anastomose porto-cava hoje está em desuso pois aumenta a incidência de encefalopatia hepática;&lt;/li&gt;
+  &lt;li&gt;Anastomose esplenorrenal,&lt;/li&gt;
+  &lt;li&gt;Descompressão esofagogástrica&lt;/li&gt;
+  &lt;li&gt;Técnicas de reparação das varizes esofagianas;&lt;/li&gt;
+  &lt;li&gt;Transplante hepático.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Guia Pre Internato</title><link href="http://localhost:4000/guia-pre-internato.html" rel="alternate" type="text/html" title="Guia Pre Internato" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/guia-pre-internato</id><content type="html" xml:base="http://localhost:4000/guia-pre-internato.html">&lt;p&gt;&lt;strong&gt;Como diferenciar a ressonância da tomografia computadorizada?&lt;/strong&gt; Na TC os corpos vertebrais ficam brancos e na ressonância ficam escuros.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -1298,29 +1599,4 @@ frequentes nos pacientes com comprometimento colônico.&lt;/p&gt;
       &lt;p&gt;Aula de Dr. Severino &lt;a href=&quot;#fnref:aula&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Choque</title><link href="http://localhost:4000/intensiva/choque.html" rel="alternate" type="text/html" title="Choque" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/intensiva/choque</id><content type="html" xml:base="http://localhost:4000/intensiva/choque.html">&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Critérios de &lt;em&gt;Quick SOFA&lt;/em&gt; (&lt;em&gt;qSOFA&lt;/em&gt;)&lt;sup id=&quot;fnref:consenso&quot;&gt;&lt;a href=&quot;#fn:consenso&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Respiratory rate ≥ 22/min&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Altered mentation&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;PAS ≤ 100 mm Hg&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:consenso&quot;&gt;
-      &lt;p&gt;Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock(Sepsis-3). JAMA. 2016;315(8):801. doi:10.1001/jama.2016.0287 &lt;a href=&quot;#fnref:consenso&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Critérios de Quick SOFA (qSOFA)1 Respiratory rate ≥ 22/min Altered mentation PAS ≤ 100 mm Hg Singer M, Deutschman CS, Seymour CW, et al. The third international consensus definitions for sepsis and septic shock(Sepsis-3). JAMA. 2016;315(8):801. doi:10.1001/jama.2016.0287 &amp;#8617;</summary></entry></feed>
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
