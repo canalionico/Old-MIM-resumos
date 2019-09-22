@@ -11,8 +11,6 @@ de caramujo são: _glabrata, B. tenagophila_ e _B. straminea_; que vivem na águ
 
 Os vermes parasitam os vasos sanguíneos do sistema mesentérico, espoliando nutrientes. Suas ventosas permitem a fixação à parede dos vasos. O macho mede 0,6 a 1,2 cm e a fêmea, 0,7 a 1,7 cm.
 
-![_Schistosoma mansoni_](/assets/gastro/schistosoma.jpg)
-
 ## Ciclo evolutivo
 
 A contaminação do ser humano ocorre quando em contato com água onde circulam as <span class="red">cercárias</span>. O horário mais propício é entre 11h e 17h, pois as cercárias se movimentam melhor em ambientes com alta luminosidade. Uma vez chegando à derme, a larva perde a sua cauda, convertendo-se em esquistossômulo. Estes
@@ -21,9 +19,11 @@ capilares pulmonares, chegando ao coração esquerdo, sendo então lançados par
 
 No ser humano, habitam os ramos do sistema venoso porta, principalmente no território da veia mesentérica inferior e lá se reproduzem. Uma pessoa pode habrigar 2 a 4 mil vermes adultos.
 
-Após as fecundação, as fêmeas migram até as vênulas mesentéricas do sigmoide e reto para iniciar a postura dos ovos. Cada uma pode produzir mais de 1.000 ovos por dia.
+Após as fecundação, as fêmeas migram até as vênulas mesentéricas do sigmoide e reto para iniciar a postura dos ovos que ocorre **4 a 6 semanas** após a infestação. Cada uma pode produzir mais de 1.000 por dia por um período de **3 a 10 anos** (vida média dos vermes adultos).
 
-Alguns ovos maduros (após 6 dias de postos) atravessam a parede capilar e caem na luz intestinal, sendo expelidos nas fezes. Os que não conseguem atravessar os capilares se acumulam nos vasos ou no sistema porta.
+Alguns ovos maduros (após 6 dias de postos) atravessam a parede capilar e caem na luz intestinal, sendo **eliminados nas fezes**. Os que não conseguem atravessar os capilares se acumulam nos vasos ou no sistema porta gerando uma resposta inflamatória local.
+
+O ciclo de vida completa-se quando os ovos eclodem, liberando os **miracídios**, que, por sua vez, infectam os caramujos em água-doce (_Biomphalaria_); estes, infectados, liberarão cercárias na água que poderão infestar novos seres humanos.
 
 ![_Schistosoma mansoni_](/assets/gastro/esquistossomose.png)
 
@@ -33,9 +33,7 @@ Sempre perguntar na ananmese sobre passado de banhos de rio em áreas endêmicas
 
 ## Fisiopatologia
 
-
-
-
+![_Schistosoma mansoni_](/assets/gastro/schistosoma.jpg)
 
 ### Disseminação e instalação dos ovos
 
@@ -54,9 +52,11 @@ Cheio de ovos nos espaços-porta, o fígado desenvolve uma
 progressiva fibrose periportal nodular, denominada <span class="green">fibrose de Symmers</span>. Inicialmente, nota-se uma **hepatomegalia**, de consistência endurecida
 e nodular, com um **predomínio frequente do lobo hepático esquerdo**.
 
-#### Hipertensão porta
+### Hipertensão porta
 
 A progressiva fibrose periportal vai levando a um quadro de <span class="red">hipertensão porta</span> <span class="orange">intra-hepática</span> <span class="green">pré-sinusoidal</span>.
+
+![_Schistosoma mansoni_](/assets/gastro/sistema-porta.jpg)
 
 **A esquistossomose causa cirrose?** A função hepática não costuma se alterar pois não são observados nódulos de regeneração que caracterizam a cirrose. Mas os portadores da doença podem vir a desenvolver a cirrose com uma associação de outros fatores (como alcoolismo e hepatites).
 
@@ -75,9 +75,14 @@ sistema vascular pulmonar. Os ovos irão se
 alojar nas arteríolas pulmonares, produzindo uma **endarterite granulomatosa**,
 que poderá levar à **hipertensão arterial pulmonar** e ao _**cor pulmonale**_.
 
-A medula espinal é um órgão que comumente pode ser afetado provocando quadros de paraplegia.
+A doença é essencialmente mesenquimal e não parenquimatosa, <span class="red">a arquitetura dos lóbulos hepáticos não é alterada</span>, **não há hiperplasia nodular regenerativa** e os **sinusoides hepáticos não estão colapsados**, como acontece no fígado cirrótico.[^tratado]
 
-Pode haver a glomerulopatia esquistossomótica por deposição de imunocomplexos nos vasos renais.
+![_Schistosoma mansoni_](/assets/gastro/fibrose-symmers.jpg)
+![_Schistosoma mansoni_](/assets/gastro/fibrose-symmers2.jpg)
+
+<div class="box" markdown="1">A esquistossomose hepática não desorganiza a arquitetura lobular do fígado como a cirrose. Os vermes adultos vivem nos ramos intrahepáticos da veia porta, onde causam reação inflamatória crônica. Com o tempo, esta progride a intensa fibrose periportal, em que uma camada de tecido fibroso circunda as veias. O aspecto foi chamado de fibrose em haste de cachimbo de barro (clay pipe-stem cirrhosis ou fibrose de Symmers) devido à sua espessura e à cor esbranquiçada.  A presença de vermes (vivos ou mortos) e de ovos retarda o fluxo portal, causando hipertensão portal. Algumas conseqüências desta estão no quadro seguinte.[^unicamp]
+</div>
+
 
 ## Quadro clínico
 
@@ -89,6 +94,8 @@ Pode haver a glomerulopatia esquistossomótica por deposição de imunocomplexos
 
 **Quando os adultos se desenvolvem e se instalam na circulação vesona mesentérica**, após 4 a 8 semanas da infestação, o paciente pode desenvolver a síndrome febril aguda eosinofílica <span class="blue">febre de Katayama</span>. Um fenômeno de **hipersensibilidade** do tipo doença do soro (imunocomplexos), uma reação do organismo aos antígenos que começam a ser liberados pelos vermes adultos ou pelos ovos recém-eliminados É mais comum em pacintes que não são de área endêmica e se infestaram durante uma viajem.
 
+
+<p class="caixa-title">Sinais e sintomas</p><div class="caixa" markdown="1">
 * Início abrupto
 * Febre alta (39°C), intermitente (com dias afebris) e duradoura (pode ser > 4 sem);
 * Calafrios, sudorese noturna, mialgia, poliartralgia, cefaleia, tosse seca, broncoespasmo;
@@ -96,6 +103,8 @@ Pode haver a glomerulopatia esquistossomótica por deposição de imunocomplexos
 * Náuseas e vômitos;
 * Diarreia (pode ocorrer disenteria);
 * Dor abdominal.
+</div>
+
 
 Exame físico:
 
@@ -130,7 +139,7 @@ Faz diagnóstico diferencial com: RCU, DC, colites parasitárias, disenterias ba
 
 #### Forma hepatoesplênica
 
-Essa é a forma mais importante! É definida como a presença de <span class="blue">esplenomegalia mais a hipertensão porta</span>.
+Essa é a forma mais importante! É definida como a presença de <span class="blue">esplenomegalia mais a hipertensão porta</span>. Apenas 5% a 7% dos infestados possuem essa forma.
 
 Como há HP, todos seus sintomas secundários podem estar presentes (como varizes de esôfago e etc). O desenvolvimento de <span class="red">ascite não é comum</span> pois a obstrução porta é **pré-sinusoidal**.
 
@@ -178,6 +187,8 @@ pólipos únicos ou múltiplos, estenoses ou vegetações tumorais, as quais cre
 ## Exames complementares
 
 ### Laboratório
+
+A função hepatocelular encontra-se preservada até os estágios avançados da doença.[^tratado]
 
 * <span class="green">Eosinofilia</span> intensa (na fase aguda) ou discreta;
 * Leucopenia e plaquetopenia;
@@ -278,3 +289,8 @@ Devem ser realizados 6 exmaes parasitológicos de fezes, um por mês e/ou uma bi
 * Descompressão esofagogástrica
 * Técnicas de reparação das varizes esofagianas;
 * Transplante hepático.
+
+## Referências
+[^tratado]: Tratado de gastroenterologia: da graduação à pós-graduação. Schlioma Zaterka, Jaime Natan Eisig. 2ed. São Paulo. Editora Atheneu, 2016.
+
+[^unicamp]: <http://anatpat.unicamp.br/pecasfig8.html>

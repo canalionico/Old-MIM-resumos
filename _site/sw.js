@@ -310,6 +310,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/gastro/estomago.png'
       
+        '/assets/gastro/fibrose-symmers.jpg'
+      
+        '/assets/gastro/fibrose-symmers2.jpg'
+      
         '/assets/gastro/hepb-aguda-grafico.jpeg'
       
         '/assets/gastro/hepb-aguda.jpeg'
@@ -331,6 +335,8 @@ self.addEventListener('install', function (event) {
         '/assets/gastro/pcr.jpeg'
       
         '/assets/gastro/schistosoma.jpg'
+      
+        '/assets/gastro/sistema-porta.jpg'
       
         '/assets/gastro/wash-out.jpeg'
       

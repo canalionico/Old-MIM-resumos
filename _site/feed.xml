@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-21T19:45:29-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sepse abdominal</title><link href="http://localhost:4000/cirurgia/sepsis-abdominal.html" rel="alternate" type="text/html" title="Sepse abdominal" /><published>2019-09-19T00:00:00-03:00</published><updated>2019-09-19T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/sepsis-abdominal</id><content type="html" xml:base="http://localhost:4000/cirurgia/sepsis-abdominal.html">&lt;p&gt;Disfunção orgânica por uma resposta desregulada do organismo a uma infecção.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-21T23:04:17-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sepse abdominal</title><link href="http://localhost:4000/cirurgia/sepsis-abdominal.html" rel="alternate" type="text/html" title="Sepse abdominal" /><published>2019-09-19T00:00:00-03:00</published><updated>2019-09-19T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/sepsis-abdominal</id><content type="html" xml:base="http://localhost:4000/cirurgia/sepsis-abdominal.html">&lt;p&gt;Disfunção orgânica por uma resposta desregulada do organismo a uma infecção.&lt;/p&gt;
 
 &lt;p&gt;Os dois escores prognósticos mais importantes são o SOFA e o q-SOFA.&lt;/p&gt;
 
@@ -369,10 +369,8 @@
 &lt;p&gt;Forrest I, II e III&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Muito mais comum que a HDB. A HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.</summary></entry><entry><title type="html">Esquistossomose</title><link href="http://localhost:4000/gastroenterologia/esquistossomose.html" rel="alternate" type="text/html" title="Esquistossomose" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/esquistossomose</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/esquistossomose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#ciclo-evolutivo&quot; id=&quot;markdown-toc-ciclo-evolutivo&quot;&gt;Ciclo evolutivo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#disseminação-e-instalação-dos-ovos&quot; id=&quot;markdown-toc-disseminação-e-instalação-dos-ovos&quot;&gt;Disseminação e instalação dos ovos&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#hipertensão-porta&quot; id=&quot;markdown-toc-hipertensão-porta&quot;&gt;Hipertensão porta&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#disseminação-e-instalação-dos-ovos&quot; id=&quot;markdown-toc-disseminação-e-instalação-dos-ovos&quot;&gt;Disseminação e instalação dos ovos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hipertensão-porta&quot; id=&quot;markdown-toc-hipertensão-porta&quot;&gt;Hipertensão porta&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
@@ -405,14 +403,13 @@
       &lt;li&gt;&lt;a href=&quot;#cirurgia&quot; id=&quot;markdown-toc-cirurgia&quot;&gt;Cirurgia&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;É a doença causada pelo helminto &lt;em&gt;Schistosoma mansoni&lt;/em&gt;, da classe Trematoda e filo Platelmintos. Existem outros parasitos não comuns no Brasil: &lt;em&gt;S. japonicum, S. haematobium, S. mekongi&lt;/em&gt; e &lt;em&gt;S. intercalatum.&lt;/em&gt; O hospedeiro definitivo é o homem e o intermediário o caramujo do gênero &lt;em&gt;Biomphalaria&lt;/em&gt;. No Brasil, as principais espécies
 de caramujo são: &lt;em&gt;glabrata, B. tenagophila&lt;/em&gt; e &lt;em&gt;B. straminea&lt;/em&gt;; que vivem na água doce de córregos e lagoas de água parada, nas regiões endêmicas do país.&lt;/p&gt;
 
 &lt;p&gt;Os vermes parasitam os vasos sanguíneos do sistema mesentérico, espoliando nutrientes. Suas ventosas permitem a fixação à parede dos vasos. O macho mede 0,6 a 1,2 cm e a fêmea, 0,7 a 1,7 cm.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/schistosoma.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;ciclo-evolutivo&quot;&gt;Ciclo evolutivo&lt;/h2&gt;
 
@@ -422,9 +419,11 @@ capilares pulmonares, chegando ao coração esquerdo, sendo então lançados par
 
 &lt;p&gt;No ser humano, habitam os ramos do sistema venoso porta, principalmente no território da veia mesentérica inferior e lá se reproduzem. Uma pessoa pode habrigar 2 a 4 mil vermes adultos.&lt;/p&gt;
 
-&lt;p&gt;Após as fecundação, as fêmeas migram até as vênulas mesentéricas do sigmoide e reto para iniciar a postura dos ovos. Cada uma pode produzir mais de 1.000 ovos por dia.&lt;/p&gt;
+&lt;p&gt;Após as fecundação, as fêmeas migram até as vênulas mesentéricas do sigmoide e reto para iniciar a postura dos ovos que ocorre &lt;strong&gt;4 a 6 semanas&lt;/strong&gt; após a infestação. Cada uma pode produzir mais de 1.000 por dia por um período de &lt;strong&gt;3 a 10 anos&lt;/strong&gt; (vida média dos vermes adultos).&lt;/p&gt;
 
-&lt;p&gt;Alguns ovos maduros (após 6 dias de postos) atravessam a parede capilar e caem na luz intestinal, sendo expelidos nas fezes. Os que não conseguem atravessar os capilares se acumulam nos vasos ou no sistema porta.&lt;/p&gt;
+&lt;p&gt;Alguns ovos maduros (após 6 dias de postos) atravessam a parede capilar e caem na luz intestinal, sendo &lt;strong&gt;eliminados nas fezes&lt;/strong&gt;. Os que não conseguem atravessar os capilares se acumulam nos vasos ou no sistema porta gerando uma resposta inflamatória local.&lt;/p&gt;
+
+&lt;p&gt;O ciclo de vida completa-se quando os ovos eclodem, liberando os &lt;strong&gt;miracídios&lt;/strong&gt;, que, por sua vez, infectam os caramujos em água-doce (&lt;em&gt;Biomphalaria&lt;/em&gt;); estes, infectados, liberarão cercárias na água que poderão infestar novos seres humanos.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/gastro/esquistossomose.png&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
 
@@ -433,6 +432,8 @@ capilares pulmonares, chegando ao coração esquerdo, sendo então lançados par
 &lt;p&gt;&lt;img src=&quot;/assets/gastro/mapa-esquistossomose.png&quot; alt=&quot;Mapa da esquistossomose&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/schistosoma.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;disseminação-e-instalação-dos-ovos&quot;&gt;Disseminação e instalação dos ovos&lt;/h3&gt;
 
@@ -456,9 +457,11 @@ capilares pulmonares, chegando ao coração esquerdo, sendo então lançados par
 progressiva fibrose periportal nodular, denominada &lt;span class=&quot;green&quot;&gt;fibrose de Symmers&lt;/span&gt;. Inicialmente, nota-se uma &lt;strong&gt;hepatomegalia&lt;/strong&gt;, de consistência endurecida
 e nodular, com um &lt;strong&gt;predomínio frequente do lobo hepático esquerdo&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;h4 id=&quot;hipertensão-porta&quot;&gt;Hipertensão porta&lt;/h4&gt;
+&lt;h3 id=&quot;hipertensão-porta&quot;&gt;Hipertensão porta&lt;/h3&gt;
 
 &lt;p&gt;A progressiva fibrose periportal vai levando a um quadro de &lt;span class=&quot;red&quot;&gt;hipertensão porta&lt;/span&gt; &lt;span class=&quot;orange&quot;&gt;intra-hepática&lt;/span&gt; &lt;span class=&quot;green&quot;&gt;pré-sinusoidal&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/sistema-porta.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;A esquistossomose causa cirrose?&lt;/strong&gt; A função hepática não costuma se alterar pois não são observados nódulos de regeneração que caracterizam a cirrose. Mas os portadores da doença podem vir a desenvolver a cirrose com uma associação de outros fatores (como alcoolismo e hepatites).&lt;/p&gt;
 
@@ -477,9 +480,14 @@ sistema vascular pulmonar. Os ovos irão se
 alojar nas arteríolas pulmonares, produzindo uma &lt;strong&gt;endarterite granulomatosa&lt;/strong&gt;,
 que poderá levar à &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt; e ao &lt;em&gt;&lt;strong&gt;cor pulmonale&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;A medula espinal é um órgão que comumente pode ser afetado provocando quadros de paraplegia.&lt;/p&gt;
+&lt;p&gt;A doença é essencialmente mesenquimal e não parenquimatosa, &lt;span class=&quot;red&quot;&gt;a arquitetura dos lóbulos hepáticos não é alterada&lt;/span&gt;, &lt;strong&gt;não há hiperplasia nodular regenerativa&lt;/strong&gt; e os &lt;strong&gt;sinusoides hepáticos não estão colapsados&lt;/strong&gt;, como acontece no fígado cirrótico.&lt;sup id=&quot;fnref:tratado&quot;&gt;&lt;a href=&quot;#fn:tratado&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Pode haver a glomerulopatia esquistossomótica por deposição de imunocomplexos nos vasos renais.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/fibrose-symmers.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;
+&lt;img src=&quot;/assets/gastro/fibrose-symmers2.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
+
+&lt;div class=&quot;box&quot;&gt;
+  &lt;p&gt;A esquistossomose hepática não desorganiza a arquitetura lobular do fígado como a cirrose. Os vermes adultos vivem nos ramos intrahepáticos da veia porta, onde causam reação inflamatória crônica. Com o tempo, esta progride a intensa fibrose periportal, em que uma camada de tecido fibroso circunda as veias. O aspecto foi chamado de fibrose em haste de cachimbo de barro (clay pipe-stem cirrhosis ou fibrose de Symmers) devido à sua espessura e à cor esbranquiçada.  A presença de vermes (vivos ou mortos) e de ovos retarda o fluxo portal, causando hipertensão portal. Algumas conseqüências desta estão no quadro seguinte.&lt;sup id=&quot;fnref:unicamp&quot;&gt;&lt;a href=&quot;#fn:unicamp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
 
@@ -491,15 +499,18 @@ que poderá levar à &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt;
 
 &lt;p&gt;&lt;strong&gt;Quando os adultos se desenvolvem e se instalam na circulação vesona mesentérica&lt;/strong&gt;, após 4 a 8 semanas da infestação, o paciente pode desenvolver a síndrome febril aguda eosinofílica &lt;span class=&quot;blue&quot;&gt;febre de Katayama&lt;/span&gt;. Um fenômeno de &lt;strong&gt;hipersensibilidade&lt;/strong&gt; do tipo doença do soro (imunocomplexos), uma reação do organismo aos antígenos que começam a ser liberados pelos vermes adultos ou pelos ovos recém-eliminados É mais comum em pacintes que não são de área endêmica e se infestaram durante uma viajem.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;Início abrupto&lt;/li&gt;
-  &lt;li&gt;Febre alta (39°C), intermitente (com dias afebris) e duradoura (pode ser &amp;gt; 4 sem);&lt;/li&gt;
-  &lt;li&gt;Calafrios, sudorese noturna, mialgia, poliartralgia, cefaleia, tosse seca, broncoespasmo;&lt;/li&gt;
-  &lt;li&gt;Anorexia e perda ponderal;&lt;/li&gt;
-  &lt;li&gt;Náuseas e vômitos;&lt;/li&gt;
-  &lt;li&gt;Diarreia (pode ocorrer disenteria);&lt;/li&gt;
-  &lt;li&gt;Dor abdominal.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p class=&quot;caixa-title&quot;&gt;Sinais e sintomas&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Início abrupto&lt;/li&gt;
+    &lt;li&gt;Febre alta (39°C), intermitente (com dias afebris) e duradoura (pode ser &amp;gt; 4 sem);&lt;/li&gt;
+    &lt;li&gt;Calafrios, sudorese noturna, mialgia, poliartralgia, cefaleia, tosse seca, broncoespasmo;&lt;/li&gt;
+    &lt;li&gt;Anorexia e perda ponderal;&lt;/li&gt;
+    &lt;li&gt;Náuseas e vômitos;&lt;/li&gt;
+    &lt;li&gt;Diarreia (pode ocorrer disenteria);&lt;/li&gt;
+    &lt;li&gt;Dor abdominal.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Exame físico:&lt;/p&gt;
 
@@ -538,7 +549,7 @@ que poderá levar à &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt;
 
 &lt;h4 id=&quot;forma-hepatoesplênica&quot;&gt;Forma hepatoesplênica&lt;/h4&gt;
 
-&lt;p&gt;Essa é a forma mais importante! É definida como a presença de &lt;span class=&quot;blue&quot;&gt;esplenomegalia mais a hipertensão porta&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;Essa é a forma mais importante! É definida como a presença de &lt;span class=&quot;blue&quot;&gt;esplenomegalia mais a hipertensão porta&lt;/span&gt;. Apenas 5% a 7% dos infestados possuem essa forma.&lt;/p&gt;
 
 &lt;p&gt;Como há HP, todos seus sintomas secundários podem estar presentes (como varizes de esôfago e etc). O desenvolvimento de &lt;span class=&quot;red&quot;&gt;ascite não é comum&lt;/span&gt; pois a obstrução porta é &lt;strong&gt;pré-sinusoidal&lt;/strong&gt;.&lt;/p&gt;
 
@@ -592,6 +603,8 @@ pólipos únicos ou múltiplos, estenoses ou vegetações tumorais, as quais cre
 &lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
 
 &lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
+
+&lt;p&gt;A função hepatocelular encontra-se preservada até os estágios avançados da doença.&lt;sup id=&quot;fnref:tratado:1&quot;&gt;&lt;a href=&quot;#fn:tratado&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;span class=&quot;green&quot;&gt;Eosinofilia&lt;/span&gt; intensa (na fase aguda) ou discreta;&lt;/li&gt;
@@ -712,7 +725,20 @@ descompensada. Além disso, não deve ser utilizado em pessoas com epilepsia.&lt
   &lt;li&gt;Descompressão esofagogástrica&lt;/li&gt;
   &lt;li&gt;Técnicas de reparação das varizes esofagianas;&lt;/li&gt;
   &lt;li&gt;Transplante hepático.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Guia Pre Internato</title><link href="http://localhost:4000/guia-pre-internato.html" rel="alternate" type="text/html" title="Guia Pre Internato" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/guia-pre-internato</id><content type="html" xml:base="http://localhost:4000/guia-pre-internato.html">&lt;p&gt;&lt;strong&gt;Como diferenciar a ressonância da tomografia computadorizada?&lt;/strong&gt; Na TC os corpos vertebrais ficam brancos e na ressonância ficam escuros.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:tratado&quot;&gt;
+      &lt;p&gt;Tratado de gastroenterologia: da graduação à pós-graduação. Schlioma Zaterka, Jaime Natan Eisig. 2ed. São Paulo. Editora Atheneu, 2016. &lt;a href=&quot;#fnref:tratado&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:tratado:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:unicamp&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://anatpat.unicamp.br/pecasfig8.html&quot;&gt;http://anatpat.unicamp.br/pecasfig8.html&lt;/a&gt; &lt;a href=&quot;#fnref:unicamp&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Guia Pre Internato</title><link href="http://localhost:4000/guia-pre-internato.html" rel="alternate" type="text/html" title="Guia Pre Internato" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/guia-pre-internato</id><content type="html" xml:base="http://localhost:4000/guia-pre-internato.html">&lt;p&gt;&lt;strong&gt;Como diferenciar a ressonância da tomografia computadorizada?&lt;/strong&gt; Na TC os corpos vertebrais ficam brancos e na ressonância ficam escuros.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
