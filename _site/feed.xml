@@ -1,4 +1,324 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-21T23:04:17-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sepse abdominal</title><link href="http://localhost:4000/cirurgia/sepsis-abdominal.html" rel="alternate" type="text/html" title="Sepse abdominal" /><published>2019-09-19T00:00:00-03:00</published><updated>2019-09-19T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/sepsis-abdominal</id><content type="html" xml:base="http://localhost:4000/cirurgia/sepsis-abdominal.html">&lt;p&gt;Disfunção orgânica por uma resposta desregulada do organismo a uma infecção.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-26T19:49:38-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores de esôfago</title><link href="http://localhost:4000/cirurgia/ca-esofago.html" rel="alternate" type="text/html" title="Tumores de esôfago" /><published>2019-09-25T00:00:00-03:00</published><updated>2019-09-25T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/ca-esofago</id><content type="html" xml:base="http://localhost:4000/cirurgia/ca-esofago.html">&lt;p&gt;É um câncer de crescimento muito rápido, o oitavo mais comum no mundo e a sexta causa de morte. Os tipos principais são o adenocarcinoma e o espinocelular.&lt;/p&gt;
+
+&lt;p&gt;Adenocarcinoma: maior incidência em brancos e obesos. Mais comum no terço inferior. Possui relação com o tabagismo. Para portadores de DRGE o risco anual é de 0,12%. A evolução natural é a metaplasia, displasia e o adenocarcinoma.&lt;/p&gt;
+
+&lt;p&gt;Espinocelular: maior incidência em negros e magros. Mais comum no terço superior e médio. Possio relação com o tabagismo.&lt;/p&gt;
+
+&lt;p&gt;Divisão anatômica do esôfago:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cervical&lt;/li&gt;
+  &lt;li&gt;Torácico superior&lt;/li&gt;
+  &lt;li&gt;Torácico médio&lt;/li&gt;
+  &lt;li&gt;Torácido inferior e abdominal: até a JEG.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Sintomas avançados&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Disfagia rapidamente progressiva que inicia com alimentos sólidos e evolui também para pastosos e líquidos;&lt;/li&gt;
+    &lt;li&gt;Perda de peso&lt;/li&gt;
+    &lt;li&gt;Odinofagia&lt;/li&gt;
+    &lt;li&gt;Sialorréia&lt;/li&gt;
+    &lt;li&gt;Regurgitação&lt;/li&gt;
+    &lt;li&gt;Hematêmese&lt;/li&gt;
+    &lt;li&gt;Caquexia&lt;/li&gt;
+    &lt;li&gt;Afagia&lt;/li&gt;
+    &lt;li&gt;Pneumonia aspirativa&lt;/li&gt;
+    &lt;li&gt;Rouquidão&lt;/li&gt;
+    &lt;li&gt;Tosse durante deglutição&lt;/li&gt;
+    &lt;li&gt;Insuficiência respiratória&lt;/li&gt;
+    &lt;li&gt;Hematêmese maciça&lt;/li&gt;
+    &lt;li&gt;Linfadenomegalia cervical&lt;/li&gt;
+    &lt;li&gt;Icterícia&lt;/li&gt;
+    &lt;li&gt;Ascite&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Todo paciente idoso com disfagia e perda de peso, deve-se descartar o CA de esôfago.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;Esofagogastroscopia&lt;/p&gt;
+
+&lt;p&gt;Estudos radiológicos contrastados: hoje não são mais tanto usados em virtude da facilidade e acesso à endoscopia.&lt;/p&gt;
+
+&lt;p&gt;Tomografia computadorizada de abdome: hoje em dia o exame principal para o diagnóstico e estadiamento. Normalmente o esôfago não deve ser visualizado na TC, pois ele fica colabado, seu espaço é virtual.&lt;/p&gt;
+
+&lt;p&gt;Pet-scan: mais usado na procura por sítios de metástase. Não muito usado para tumores de esôfago.&lt;/p&gt;
+
+&lt;p&gt;Ultrassom endoscópico: permite ver as camadas do esôfago (três) e saber até onde vai o tumor. Muito bom para o estadiamento do “&lt;em&gt;T&lt;/em&gt;”.&lt;/p&gt;
+
+&lt;h2 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h2&gt;
+
+&lt;p&gt;Segue o modelo TNM. Vai ser importante para orientar o tratamento. Dividi-se em estágios de 0 a 4.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Para tumores precoces, a escolha é a  cirurgia de esofagectomia com margens de segurança ou uma mucosectomia endoscópica.&lt;/p&gt;
+
+&lt;p&gt;Para tumores não avançados: pode-se associar uma quimioterapia e radioterapia adjuvante (neoadjuvante também?) à esofagectomia. A radioterapia é mais importante que a quimioterapia para os tumores de esôfago.&lt;/p&gt;
+
+&lt;p&gt;Para tumores avançados: se for ressecável, pode-se optar por uma quimio-radioterapia… com ressecção…&lt;/p&gt;
+
+&lt;p&gt;O preparo pré-operatório envolve o suporte nutricional (paciente não pode ser operado desnutrido) por dieta oral ou enteral/parenteral. Profilaxia para TVP e embolia pulmonar.&lt;/p&gt;
+
+&lt;h3 id=&quot;ressecção-mucosa-endoscópica&quot;&gt;Ressecção mucosa endoscópica&lt;/h3&gt;
+
+&lt;h3 id=&quot;esofagectomia-total-trans-hiatal-com-ou-sem-traqueostomia&quot;&gt;Esofagectomia total trans-hiatal com ou sem traqueostomia&lt;/h3&gt;
+
+&lt;h3 id=&quot;esofagectomia-subtotal-com-esofagogastroplastia&quot;&gt;Esofagectomia subtotal com esofagogastroplastia&lt;/h3&gt;
+
+&lt;h3 id=&quot;esofagectomia-cervical&quot;&gt;Esofagectomia cervical&lt;/h3&gt;
+
+&lt;p&gt;Não se realiza mais com tanta frequência.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-paliativo&quot;&gt;Tratamento paliativo&lt;/h3&gt;
+
+&lt;p&gt;Pode-se passar uma prótese expansiva pela endoscopia ou passar uma sonda para alimentação.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É um câncer de crescimento muito rápido, o oitavo mais comum no mundo e a sexta causa de morte. Os tipos principais são o adenocarcinoma e o espinocelular.</summary></entry><entry><title type="html">Diarréia</title><link href="http://localhost:4000/gastroenterologia/diarreia.html" rel="alternate" type="text/html" title="Diarréia" /><published>2019-09-25T00:00:00-03:00</published><updated>2019-09-25T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/diarreia</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/diarreia.html">&lt;p&gt;Estímulos à secreção hormonal: proteinas e aminoácidos, ácidos graxos, glicose, pacido, estimulação neuronal, tração e peptídeos.&lt;/p&gt;
+
+&lt;p&gt;Hormônios: secretina, GIP, motilina, CCK, gastrina.&lt;/p&gt;
+
+&lt;p&gt;Colite do corredor: corredores de grandes distâncias passam tanto tempo sob efeitos altos de noradrenalina que acabam desenvolvendo isquemia mesentérica crônica pelo efeito vasoconstrictor do hormônio no TGI.&lt;/p&gt;
+
+&lt;p&gt;Definição: excesso de água nas fezespor distúrbio no transporte de água e eletrólitos ou solutos. Mais de 3 evacuações ao dia e fezes de consistência diminuída e/ou peso fecal aumentado.&lt;/p&gt;
+
+&lt;p&gt;Aguda: até 14 dias;
+Persistente: 14 a 30 dias;
+Crônica: mais de 30 dias.&lt;/p&gt;
+
+&lt;h3 id=&quot;síndrome-do-intestino-irritável&quot;&gt;Síndrome do intestino irritável&lt;/h3&gt;
+
+&lt;p&gt;Dor abdominal recorrente ou pelo menos 1 dia na semana nos ultimos 3 meses. Início dos sintomas há pelo menos 6 meses associada a doisou mais fatores a seguir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;defecação&lt;/li&gt;
+  &lt;li&gt;alteração da frequencia&lt;/li&gt;
+  &lt;li&gt;alteração da forma das fezes&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;incontinência-fecal&quot;&gt;Incontinência fecal&lt;/h3&gt;
+
+&lt;p&gt;Sobretudo em mulheres história de parto vaginal.&lt;/p&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;h3 id=&quot;diarréia-secretória-ou-aquosa&quot;&gt;Diarréia secretória ou aquosa&lt;/h3&gt;
+
+&lt;h3 id=&quot;diarréia-osmótica&quot;&gt;Diarréia osmótica&lt;/h3&gt;
+
+&lt;p&gt;A diarréia acaba quando o soluto vai embora.&lt;/p&gt;
+
+&lt;h3 id=&quot;diarréia-inflamatória&quot;&gt;Diarréia inflamatória&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;RCIU&lt;/li&gt;
+  &lt;li&gt;DC&lt;/li&gt;
+  &lt;li&gt;Colite isquêmica&lt;/li&gt;
+  &lt;li&gt;Infecciosa&lt;/li&gt;
+  &lt;li&gt;Parasitárias&lt;/li&gt;
+  &lt;li&gt;Por radiação&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Estímulos à secreção hormonal: proteinas e aminoácidos, ácidos graxos, glicose, pacido, estimulação neuronal, tração e peptídeos.</summary></entry><entry><title type="html">Constipação intestinal</title><link href="http://localhost:4000/gastroenterologia/constipacao-intestinal.html" rel="alternate" type="text/html" title="Constipação intestinal" /><published>2019-09-24T00:00:00-03:00</published><updated>2019-09-24T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/constipacao-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/constipacao-intestinal.html">&lt;p&gt;O normal é evacuar em torno de 3x ao dia a 3x na semana.
+Mais frequente em mulheres&lt;/p&gt;
+
+&lt;p&gt;A definição envolve fatores como: redução na frequência de evacuações, consistência endurecida, volume/calibre reduzido do bolo fecal, dificuldades/esforço para evacuar e sensação de evacuação incompleta.&lt;/p&gt;
+
+&lt;p&gt;Pode ser dividida em dois grupos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Primária ou funcional:&lt;/strong&gt; a mais comum. Não há alterações estruturais ou metabólicas que as justifiquem. Sofre influência de fatores culturais, psicológicos, dietéticos e hábitos de vida;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Secundária ou orgânica:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Doenças digestivas: megacólon, hérnias de parede, neoplasia obstrutiva;&lt;/li&gt;
+      &lt;li&gt;Doenças neuromusculares: esclerose múltipla, AVC, treuma medular;&lt;/li&gt;
+      &lt;li&gt;Doenças endócrinas ou metabólicas: diabetes, hipotireoidismo, hipocalcemia, hipocalemia, uremia;&lt;/li&gt;
+      &lt;li&gt;Gravidez;&lt;/li&gt;
+      &lt;li&gt;Estenose inflamatória, aderência pós-operatória.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os fatores mais importantes envolvidos na constipação são: a baixa ingestão de fibras e líquidos, a inibicação do reflexo de evacuação e o sedentarismo.&lt;/p&gt;
+
+&lt;p&gt;A prevalência varia entre 2 e 28%, é mais frequente nas mulheres (e aumenta com a idade. A gravidez é uma condição que comumente aumenta a incidência de constipação.&lt;/p&gt;
+
+&lt;p&gt;Drogas que interferem na motricidade colorretal:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AINEs&lt;/li&gt;
+  &lt;li&gt;Hipotensores&lt;/li&gt;
+  &lt;li&gt;Diuréticos&lt;/li&gt;
+  &lt;li&gt;Continua…&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Sinais de alarme&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Início recente&lt;/li&gt;
+    &lt;li&gt;Mudanças do calibre ou formato&lt;/li&gt;
+    &lt;li&gt;Perda de peso, febre&lt;/li&gt;
+    &lt;li&gt;Mucorréia&lt;/li&gt;
+    &lt;li&gt;Enterorragia&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A mudança de hábito intestinal em paciente idoso levanta a suspeita de neoplasia colorretal.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Orientar o paciente quanto a eventos que induzem a constipação e a importância de uma rotina evacuatória. Iniciar uma dieta laxativa (muitas fribas associadas a muito líquido), reeducar os hábitos (orientar o paciente a reservar um horário fixo para defecar) e recomendar atividade física.&lt;/p&gt;
+
+&lt;p&gt;Se as medicas comportamentais não resolverem, pode-se inicar um tratamento medicamentoso com agentes laxativos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Incrementadores do bolo fecal:
+    &lt;ul&gt;
+      &lt;li&gt;Fibras alimentares&lt;/li&gt;
+      &lt;li&gt;Fibras sintéticas&lt;/li&gt;
+      &lt;li&gt;continua…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Agentes osmóticos:
+    &lt;ul&gt;
+      &lt;li&gt;Sais de Mg e Na (sulfatos, fosfatos, citratos);&lt;/li&gt;
+      &lt;li&gt;Lactulose;&lt;/li&gt;
+      &lt;li&gt;Sorbitol (manipulação);&lt;/li&gt;
+      &lt;li&gt;Manitol (preparos especiais);&lt;/li&gt;
+      &lt;li&gt;Politilenoglicol (PEG).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Amaciantes/emolientes;&lt;/li&gt;
+  &lt;li&gt;Irritantes: aumentam a motilidade intestinal estimulando os plexos mioentéricos do cólon. A irritação induz a motilidade
+    &lt;ul&gt;
+      &lt;li&gt;Antraquinonicos;&lt;/li&gt;
+      &lt;li&gt;Irritantes químicos;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Procinéticos&lt;/li&gt;
+  &lt;li&gt;Misoprostol: não se usa mais.&lt;/li&gt;
+  &lt;li&gt;Colchicina: também não se usa mais.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Cirurgias são altamente excepcionais como tratamento. Um exemplo é nos casos de inércia colônica em que o cólon simplemente não possui nenhumas ondas peristálticas e é necessário a sua remoção fazendo uma colectomia ou protocolectomia.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O normal é evacuar em torno de 3x ao dia a 3x na semana. Mais frequente em mulheres</summary></entry><entry><title type="html">Constipação intestinal</title><link href="http://localhost:4000/pediatria/constipacao-intestinal.html" rel="alternate" type="text/html" title="Constipação intestinal" /><published>2019-09-24T00:00:00-03:00</published><updated>2019-09-24T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/constipacao-intestinal</id><content type="html" xml:base="http://localhost:4000/pediatria/constipacao-intestinal.html">&lt;h2 id=&quot;fisiologia-da-defecação&quot;&gt;Fisiologia da defecação&lt;/h2&gt;
+
+&lt;p&gt;A habilidade de defecar depende de vários fatoes incluindo as ações simultâneas dos esfíncteres anais interno e externo, a tonicidade do reto e a condição da medula espinhal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Constipação:&lt;/strong&gt; é a eliminação de fezes duras, na forma de cíbalos, seixos ou cilíndricas com rachaduras, dificuldade ou dor para evacuar, eliminação esporádica de fezes muito calibrosas que entopem o vaso sanitário ou frequência de evacuação inferior a três vezes por semana, exceto em crianças em aleitamento natural.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pseudoconstipação do lactente em aleitamento natural:&lt;/strong&gt; ocorrência de evacuação de fezes macias em frequência menor que 3 por semana.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Constipação crônica:&lt;/strong&gt; maior que 2 semanas.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Escape fecal (&lt;em&gt;soiling&lt;/em&gt;):&lt;/strong&gt; perda involuntária de parcela do conteúdo fecal por portadores de constipação crônica, consequente a fezes impactadas no reto.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Encoprese:&lt;/strong&gt; ato completo da defecação, em sua plena sequência fisiológica, porém em  local e/ou momento inapropriado, em geral, secundária a distúrbios psicológicos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Incontinência fecal:&lt;/strong&gt; falta de controle do esfíncter decorrente de causas orgânicas.&lt;/p&gt;
+
+&lt;p&gt;A mais comum é a constipação funcional, quando não se sabe o motivo.&lt;/p&gt;
+
+&lt;h2 id=&quot;classficação&quot;&gt;Classficação&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aguda: durante ou após mudança de hábitos alimenatares, uso de drogas, redução da atividade física e vigência do estado mórbido.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Crônica: orgânica ou funcional.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Causas neurogênicas:
+    &lt;ul&gt;
+      &lt;li&gt;Doença de Hirschsprung
+*&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Fisiologia da defecação</summary></entry><entry><title type="html">Linfoma</title><link href="http://localhost:4000/linfoma.html" rel="alternate" type="text/html" title="Linfoma" /><published>2019-09-24T00:00:00-03:00</published><updated>2019-09-24T00:00:00-03:00</updated><id>http://localhost:4000/linfoma</id><content type="html" xml:base="http://localhost:4000/linfoma.html">&lt;p&gt;A massa abdominal palpável em criança mais frequentemente costuma significar massa  benigna. Na maioria das vezes os achados são: bolo de ascaris, hidronefrose, hepatoesplenomegalia infecciosa.&lt;/p&gt;
+
+&lt;p&gt;Hamartoma
+Heterotopia ou coristoma
+Hemangiomas
+Linfangiomas
+Teratomas&lt;/p&gt;
+
+&lt;p&gt;Caracterização das massas abdominais:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Instraperitoneais:
+    &lt;ul&gt;
+      &lt;li&gt;Linfomas&lt;/li&gt;
+      &lt;li&gt;Tumores hepáticos&lt;/li&gt;
+      &lt;li&gt;Rabdomiossarcomas&lt;/li&gt;
+      &lt;li&gt;Tumores de células germinativas&lt;/li&gt;
+      &lt;li&gt;Teratomas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Retroperitoneais:
+    &lt;ul&gt;
+      &lt;li&gt;Nefroblastomas&lt;/li&gt;
+      &lt;li&gt;Neuroblastomas&lt;/li&gt;
+      &lt;li&gt;Outros&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hidratação e distúrbio ácido básico</title><link href="http://localhost:4000/pediatria/hidratacao-e-disturbio-acido-basico.html" rel="alternate" type="text/html" title="Hidratação e distúrbio ácido básico" /><published>2019-09-23T00:00:00-03:00</published><updated>2019-09-23T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/hidratacao-e-disturbio-acido-basico</id><content type="html" xml:base="http://localhost:4000/pediatria/hidratacao-e-disturbio-acido-basico.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#doença-diarreica-aguda&quot; id=&quot;markdown-toc-doença-diarreica-aguda&quot;&gt;Doença diarreica aguda&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;doença-diarreica-aguda&quot;&gt;Doença diarreica aguda&lt;/h2&gt;
+
+&lt;p&gt;É  a principal causa de desidratação e aunda uma importante causa de mortalidade infantil no Brasil. Os principais patógenos são o rotavírus e as bactérias &lt;em&gt;E. coli&lt;/em&gt;, &lt;em&gt;Shigella&lt;/em&gt; e &lt;em&gt;Salmonella&lt;/em&gt;. Nas regiões pobres prevalecem as etiologias bacterianas enquanto que nas ricas prevalecem as virais. Um episódio diarréico grave se caracteriza como 11 ou mais evacuações por dia.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diarreia líquida&lt;/li&gt;
+  &lt;li&gt;Diarreia com sangue&lt;/li&gt;
+  &lt;li&gt;Diarreia persistente&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A fisiopatologia pode ser: osmótica (mais comum por rotavírus), secretora (Cólera, E. coli) e aumento da motilidade (secundário). Mas a associação entre o patógeno e o tipo de diarréia não segue uma regra.&lt;/p&gt;
+
+&lt;p&gt;Quanto ao tempo de duração:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aguda: até 14 dias;&lt;/li&gt;
+  &lt;li&gt;Persistente: 14 a 30 dias;&lt;/li&gt;
+  &lt;li&gt;Crônica: mais de 30 dias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Escore de gravidade da diarréia:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pediatria/diarreia1.jpeg&quot; alt=&quot;Diarreia&quot; /&gt;
+&lt;img src=&quot;/assets/pediatria/diarreia2.jpeg&quot; alt=&quot;Diarreia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Da infância à vida adulta, a proporção de água tende a cair ao longo do crescimento e desenvolvimento.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Plano A: sais para reidratação oral (SRO) com manutenção 60 a 75 mEq de sódio por litro.&lt;/li&gt;
+  &lt;li&gt;Plano B: expansão em via oral com 10-20 mL/kg.h de SRO em doses fracionadas de 5 em 5 minutos.&lt;/li&gt;
+  &lt;li&gt;Plano C: expansão endovenosa associado a manutenção endovenosa ou oral.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A interrupção da reposição hídrica deve ocorrer quando os sinais de desidratação desaparecerem e quando houver diurese. Em geral esses fatores são conseguidos com 4 a 6 horas de reidratação com SRO. O aumento do peso também pode ser usado como parâmetro de melhora da hidratação.&lt;/p&gt;
+
+&lt;p&gt;1 de soro glicosado para 1 de soro fisiológico (0,9%).&lt;/p&gt;
+
+&lt;p&gt;Se houver sinais de choque, a expansão deve ser feita com 40 mL/kg.h com solução de soro fisiológico ou ringer lactato (não se faz mais com o soro glicosado).&lt;/p&gt;
+
+&lt;p&gt;Na doença diarreica aguda quase nunca se usa antibióticos. As indicações são bebês abaixo de 6 meses com quadro grave e em situações epidêmicas sugestivas de Shigella ou Cólera. O uso de probióticos (&lt;em&gt;Lactobacillus&lt;/em&gt; e &lt;em&gt;Sacharomices&lt;/em&gt;) ainda é muito controverso.&lt;/p&gt;
+
+&lt;p&gt;Antieméticos (como a ondansetrona) podem ser usados nos casos de vômitos incoercíveis.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Brandt Kátia Galeão, Antunes Margarida Maria de Castro, Silva Gisélia Alves Pontes da. Diarreia aguda: manejo baseado em evidências. J. Pediatr. (Rio J.) [Internet]. 2015 Dec [cited 2019 Sep 23]; 91(6 Suppl 1):S36-S43.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Sepse abdominal</title><link href="http://localhost:4000/cirurgia/sepsis-abdominal.html" rel="alternate" type="text/html" title="Sepse abdominal" /><published>2019-09-19T00:00:00-03:00</published><updated>2019-09-19T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/sepsis-abdominal</id><content type="html" xml:base="http://localhost:4000/cirurgia/sepsis-abdominal.html">&lt;p&gt;Disfunção orgânica por uma resposta desregulada do organismo a uma infecção.&lt;/p&gt;
 
 &lt;p&gt;Os dois escores prognósticos mais importantes são o SOFA e o q-SOFA.&lt;/p&gt;
 
@@ -235,14 +555,17 @@
 
 &lt;ul&gt;
   &lt;li&gt;Domperidona 2 a 3 vezes ao dia.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">A dispepsia tem que ser investigada pra dferenciar a funcional da orgânica. A dispepsia funcional inclui sintomas gástricos relacionados a distúrbios fisiopatológicos de base sem qualquer substrato orgânico demonstrado até hoje. Ou seja, a investigação pela endoscopia alta é normal. Difere da gastrite, gastropatia e úlcera.</summary></entry><entry><title type="html">Hemorragia digestiva</title><link href="http://localhost:4000/gastroenterologia/hemorragia-digestiva.html" rel="alternate" type="text/html" title="Hemorragia digestiva" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/hemorragia-digestiva</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/hemorragia-digestiva.html">&lt;p&gt;Muito mais comum que a HDB. A HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">A dispepsia tem que ser investigada pra dferenciar a funcional da orgânica. A dispepsia funcional inclui sintomas gástricos relacionados a distúrbios fisiopatológicos de base sem qualquer substrato orgânico demonstrado até hoje. Ou seja, a investigação pela endoscopia alta é normal. Difere da gastrite, gastropatia e úlcera.</summary></entry><entry><title type="html">Hemorragia digestiva</title><link href="http://localhost:4000/gastroenterologia/hemorragia-digestiva.html" rel="alternate" type="text/html" title="Hemorragia digestiva" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/hemorragia-digestiva</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/hemorragia-digestiva.html">&lt;p&gt;Muito mais comum que a HDB, a HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;HDA: acima do ângulo de Treitz&lt;/li&gt;
-  &lt;li&gt;HDB: abaixo&lt;/li&gt;
+  &lt;li&gt;HDB: abaixo do ângulo de  Treitz&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;p&gt;Mais prevalente em homens&lt;/p&gt;
+
 &lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+&lt;p&gt;A principal causa de HDA é a doença ulcerosa péptica (DUP).&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Varicosas&lt;/strong&gt; (15%)
@@ -254,66 +577,141 @@
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Não varicosas&lt;/strong&gt; (85%).
     &lt;ul&gt;
-      &lt;li&gt;DUP&lt;/li&gt;
+      &lt;li&gt;DUP (36%)&lt;/li&gt;
       &lt;li&gt;Gastropatias (álcool e medicamentos)&lt;/li&gt;
       &lt;li&gt;Lacerações longitudinais da submucosa na JEG (síndrome de &lt;strong&gt;Mallory-Weiss&lt;/strong&gt;)&lt;/li&gt;
-      &lt;li&gt;CA gástrico&lt;/li&gt;
-      &lt;li&gt;Esofagites: não é comum, raro chegar no ponto de lesão extensa ou úlceras profundas a ponto de sangrar.&lt;/li&gt;
+      &lt;li&gt;Esofagites (15%): raro chegar no ponto de lesão extensa ou úlceras profundas a ponto de sangrar.&lt;/li&gt;
+      &lt;li&gt;Neoplasias (3%): como o CA gástrico&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Entre as causas de HDB, as mais comuns são a doença diverticular dos cólons (15-40%), ectasias vasculares (3-30%). Também as hemorróidas e fissuras (4-11%). Outras causas são: neoplasia e doenças inflamatórias intestinais (DC e RCUI). Nos pacientes mais jovens as doenças anorretais são mais comuns que as dos cólons.&lt;/p&gt;
+&lt;p&gt;O aumento do uso de aspirina por doenças cardiovasculares pode elevar a incidência de HDA por úlceras pépticas. A infecção por &lt;em&gt;H. pylori&lt;/em&gt; e o uso de AINEs também está relacionada àos sangramentos da DUP.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;síndrome de Mallory-Weiss&lt;/strong&gt; é caracterizada
+por uma laceração na mucosa do esôfago distal à junção gastroesofágica que ocorre após repetidos esforços para vomitar. Ocorre geralmente em etilistas e gestantes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fístula aortoentérica&lt;/strong&gt; deve ser considerada em
+pacientes com sangramento profuso e cirurgia de
+aneurisma de aorta prévia, além de úlcera penetrante, invasão tumoral, trauma, radioterapia e perfuração
+por corpo estranho.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;lesão de Dieulafoy&lt;/strong&gt; é um vaso submucoso aberrante dilatado que pode erodir o epitélio de revestimento sobrejacente não associado com uma úlcera primária. O sangramento é recorrente, pode ser maciço e associado com várias endoscopias digestivas altas sem diagnóstico.&lt;/p&gt;
+
+&lt;p&gt;O sangramento gastrointestinal alto também pode ter origem no sistema biliar (hemobilia) ou nos ductos pancreáticos.&lt;/p&gt;
+
+&lt;p&gt;Entre as causas de &lt;strong&gt;HDB&lt;/strong&gt;, as mais comuns são a doença diverticular dos cólons (15-40%), ectasias vasculares (3-30%). Também as hemorróidas e fissuras (4-11%). Outras causas são: neoplasia e doenças inflamatórias intestinais (DC e RCUI). Nos pacientes mais jovens as doenças anorretais são mais comuns que as dos cólons.&lt;/p&gt;
 
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
 
+&lt;p class=&quot;caixa-title&quot;&gt;HDA&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Hematêmese: borra de café (pode ser vivo se for muito intenso)&lt;/li&gt;
+    &lt;li&gt;Melena: fezes enegrecidas com aspecto de piche&lt;/li&gt;
+    &lt;li&gt;Hematoquezia pode ocorrer em 11% dos casos&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;HDB&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Enterorragia/hematoquezia: sangue vivo nas fezes&lt;/li&gt;
+    &lt;li&gt;Sangue oculto nas fezes: sangramentos de pequena intensidade (característicos das neoplasias de cólon direito)&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Outras manifestações:&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Específicas
-    &lt;ul&gt;
-      &lt;li&gt;HDA
-        &lt;ul&gt;
-          &lt;li&gt;Hematêmese: borra de café (pode ser vivo se for muito intenso)&lt;/li&gt;
-          &lt;li&gt;Melena: fezes enegrecidas com aspecto de piche&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;HDB
-        &lt;ul&gt;
-          &lt;li&gt;Enterorragia/hematoquezia: sangue vivo nas fezes&lt;/li&gt;
-          &lt;li&gt;Sangue oculto nas fezes: sangramentos de pequena intensidade (característicos das neoplasias de cólon direito)&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Outras manifestações
-    &lt;ul&gt;
-      &lt;li&gt;Sudorese&lt;/li&gt;
-      &lt;li&gt;Pele fria&lt;/li&gt;
-      &lt;li&gt;Astenia&lt;/li&gt;
-      &lt;li&gt;Sede&lt;/li&gt;
-      &lt;li&gt;Hipotensão&lt;/li&gt;
-      &lt;li&gt;Taquicardia&lt;/li&gt;
-      &lt;li&gt;Pulso fino&lt;/li&gt;
-      &lt;li&gt;Palidez&lt;/li&gt;
-      &lt;li&gt;Respiração superficial&lt;/li&gt;
-      &lt;li&gt;Cianose&lt;/li&gt;
-      &lt;li&gt;IRA&lt;/li&gt;
-      &lt;li&gt;Confusão mental ao coma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Sudorese&lt;/li&gt;
+  &lt;li&gt;Pele fria&lt;/li&gt;
+  &lt;li&gt;Astenia&lt;/li&gt;
+  &lt;li&gt;Sede&lt;/li&gt;
+  &lt;li&gt;Hipotensão&lt;/li&gt;
+  &lt;li&gt;Taquicardia&lt;/li&gt;
+  &lt;li&gt;Pulso fino&lt;/li&gt;
+  &lt;li&gt;Palidez&lt;/li&gt;
+  &lt;li&gt;Respiração superficial&lt;/li&gt;
+  &lt;li&gt;Cianose&lt;/li&gt;
+  &lt;li&gt;IRA&lt;/li&gt;
+  &lt;li&gt;Confusão mental ao coma&lt;/li&gt;
+  &lt;li&gt;Toque retal: sangue em dedo de luva.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Escala de avaliação da perda sanguínea&lt;/p&gt;
+&lt;p&gt;Achados como spiders e teleangiectasias, hepatomegalia, esplenomegalia ou presença de encefalopatia hepática sugerem sangramento varicoso por cirrose ou hipertensão portal.&lt;/p&gt;
 
-&lt;h2 id=&quot;conduta&quot;&gt;Conduta&lt;/h2&gt;
+&lt;p&gt;Presença de manchas pigmentadas na mucosa bucal sugere síndrome de Peutz-Jeghers e sangramento de pólipos intestinais benignos.&lt;/p&gt;
+
+&lt;p&gt;Teleangiectasias em lábios e língua sugerem o diagnóstico de síndrome de Osler-Weber-Rendu.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Hemorragia grave&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Taquicardia;&lt;/li&gt;
+    &lt;li&gt;Hipotensão;&lt;/li&gt;
+    &lt;li&gt;Aspirado nasogástrico com sangue vermelho;&lt;/li&gt;
+    &lt;li&gt;Hemoglobina inferior a 8 g/dL.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;HDB associadasa um trânsito intestinal lento podem confundir-se com o diagnóstico de HDA.&lt;/div&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hemograma com hematócrito e hemoglobina seriados;&lt;/li&gt;
+  &lt;li&gt;Coagulograma;&lt;/li&gt;
+  &lt;li&gt;Função renal e hepática e eletrólitos;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A presença de coagulopatia na apresentação é um importante fator prognóstico adverso.&lt;/p&gt;
+
+&lt;h3 id=&quot;eda&quot;&gt;EDA&lt;/h3&gt;
+&lt;p&gt;A endoscopia digestiva alta é o principal exame para o diagnóstico e deve ser feita o mais cedo possível, ou seja, assim que o paciente estiver estável.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A administração precoce de terapia farmacológica com análogos da somatostatina também pode levar à parada temporária de sangramento, caso haja sangramento por varizes esofágicas, e pode facilitar a execução do exame endoscópico.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/gastro/forrester.jpeg&quot; alt=&quot;Forrester&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cintilografia&quot;&gt;Cintilografia&lt;/h3&gt;
+
+&lt;p&gt;Caso a fonte de sangramento não seja detectada, uma possibilidade é a realização de cintilografia com mapeamento de hemácias marcadas por tecnécio, que consegue detectar taxas de sangramento de até 0,1 mL/minuto, mas o exame só é positivo em 45% dos casos em que a EDA é negativa e sua acurácia localizatória é menor do que 80%.&lt;/p&gt;
+
+&lt;h3 id=&quot;arteriografia&quot;&gt;Arteriografia&lt;/h3&gt;
+
+&lt;p&gt;Consegue detectar sangramentos tão pequenos como 0,5 mL/minuto e pode realizar o diagnóstico em casos de EDA negativa ou em sangramentos importantes com visualização difícil pela EDA. O exame pode ainda delinear a anatomia da lesão sangrante e sugerir a sua etiologia.&lt;/p&gt;
+
+&lt;h3 id=&quot;outros&quot;&gt;Outros&lt;/h3&gt;
+
+&lt;p&gt;Enteroscopia e cápsula endoscópica, mas são pouco
+validadas para uso no DE.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
 
 &lt;h3 id=&quot;primeiros-procedimentos&quot;&gt;Primeiros procedimentos&lt;/h3&gt;
+
+&lt;p&gt;A presença de sintomas de ansiedade, torpor, síncope e dispneia, além de sinais de choque (extremidades frias e úmidas, pressão arteri al sistólica &amp;lt; 100 mmHg e frequência cardíaca &amp;gt; 100 bpm) e alterações hemodinâmicas ortostáticas (queda de 10 mmHg ou mais na pressão sistólica e elevação de &amp;gt; 15 bpm na frequência cardíaca quando o paciente é mobilizado da posição supina para
+a sentada), sugere perda de aproximadamente 20% do volume circulatório com indicação de ressuscitação volêmica.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Dieta zero&lt;/li&gt;
   &lt;li&gt;Acessos venosos calibrosos e reposição volêmica
     &lt;ul&gt;
-      &lt;li&gt;Cristaloides&lt;/li&gt;
-      &lt;li&gt;Hemotransfusão se Hb &amp;lt; ou = 6&lt;/li&gt;
+      &lt;li&gt;Cristaloides (&lt;em&gt;i.e.&lt;/em&gt; soro fisiológico ou ringer lactato)
+        &lt;ul&gt;
+          &lt;li&gt;Na maioria dos pacientes, 1 a 2 litros de solução salina corrigem o volume perdido;&lt;/li&gt;
+          &lt;li&gt;Reposições volêmicas muito agressivas (&amp;gt; 3 L nas primeiras 6 horas de adm issão do paciente ao departamento de emergência) podem aumentar o sangramento e devem ser evitadas.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Hemotransfusão se Hb &amp;lt; ou = 6
+        &lt;ul&gt;
+          &lt;li&gt;250 mL de concentrado de hemácias aumenta 1 g/dL de Hb e 3% do hematócrito;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;O &lt;strong&gt;objetivo&lt;/strong&gt; é atingir uma &lt;strong&gt;PAS de 100 mmHg&lt;/strong&gt; e &lt;strong&gt;FC&amp;lt; 100 bpm&lt;/strong&gt;, manter a &lt;strong&gt;Hb entre 7 e 10 g/dL&lt;/strong&gt; e o &lt;strong&gt;Ht de 30%&lt;/strong&gt;.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Exames laboratoriais: hemograma, função renal (Cr, U, SU), função hepática, classificação sanguínea&lt;/li&gt;
@@ -324,35 +722,43 @@
 
 &lt;p&gt;A sonda nasográstrica é usada para saber se o paciente ainda estar sangramento. Faz-se um lavado com soro fisiológico e depois aspira para ver se há retorno de sangue.&lt;/p&gt;
 
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Mas 16% dos pacientes com HDA apresentam lavado negativo, e guidelines recentes orientam que não deve ser realizado rotineiramente.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;h4 id=&quot;varizes-esofágicas&quot;&gt;Varizes esofágicas&lt;/h4&gt;
+&lt;p&gt;Em pacientes com sangramento por doença ulcerosa péptica, a base do tratamento medicamentoso é a administração intravenosa de IBPs. O uso de bloqueadores H2, por sua vez, tem pouco benefício e não é recomendado na fase aguda de HDA por doença péptica.&lt;/p&gt;
 
-&lt;h5 id=&quot;ligadura-elástica&quot;&gt;Ligadura elástica&lt;/h5&gt;
+&lt;p&gt;Pacientes com doença ulcerosa e com alto risco de ressangramento têm indicação de terapia endosoépica e uso de &lt;span class=&quot;green&quot;&gt;bloqueador de bomba de prótons em altas doses&lt;/span&gt;.&lt;/p&gt;
 
-&lt;p&gt;O mais eficaz é a ligadura elástica endoscópica. É mais eficaz e possui menos efeitos colaterais.&lt;/p&gt;
+&lt;h3 id=&quot;varizes-esofágicas&quot;&gt;Varizes esofágicas&lt;/h3&gt;
 
-&lt;h5 id=&quot;escleroterapia&quot;&gt;Escleroterapia&lt;/h5&gt;
+&lt;p&gt;A &lt;strong&gt;terlipressina&lt;/strong&gt; e &lt;strong&gt;análogos da somatostatina&lt;/strong&gt; podem ser indicados na suspeita de sangramento por varizes gastroesofágicas.&lt;/p&gt;
+
+&lt;h4 id=&quot;ligadura-elástica&quot;&gt;Ligadura elástica&lt;/h4&gt;
+
+&lt;p&gt;O mais eficaz é a ligadura elástica endoscópica e possui menos efeitos colaterais.&lt;/p&gt;
+
+&lt;h4 id=&quot;escleroterapia&quot;&gt;Escleroterapia&lt;/h4&gt;
 
 &lt;p&gt;Esclerose com etanolamina provoca a trombose do cordão varicoso e interrompe o sangramento. É um método mais simples.&lt;/p&gt;
 
-&lt;h4 id=&quot;varizes-gástricas&quot;&gt;Varizes gástricas&lt;/h4&gt;
+&lt;h3 id=&quot;varizes-gástricas&quot;&gt;Varizes gástricas&lt;/h3&gt;
 
 &lt;p&gt;Cianoacrilato.&lt;/p&gt;
 
-&lt;h4 id=&quot;gastropatias&quot;&gt;Gastropatias&lt;/h4&gt;
+&lt;h3 id=&quot;gastropatia-congestiva&quot;&gt;Gastropatia congestiva&lt;/h3&gt;
 
 &lt;p&gt;Pode-se lançar mão de vasoconstrictores de via sistêmica. Como a terlipressina e vasopressina EV.&lt;/p&gt;
 
-&lt;h4 id=&quot;lesões-não-varicozas&quot;&gt;Lesões não varicozas&lt;/h4&gt;
+&lt;h3 id=&quot;lesões-não-varicozas&quot;&gt;Lesões não varicozas&lt;/h3&gt;
 
-&lt;p&gt;Possuem um arsenal de tratamentos por via endoscópica.&lt;/p&gt;
+&lt;p&gt;Incluem as esofagites, a síndrome de Mallory-Weiss, erosões e úlceras. Possuem um arsenal de tratamentos por via endoscópica.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Método químico: injeção
     &lt;ul&gt;
       &lt;li&gt;Injetar álcool absoluto na úlcera, gerando uma desidratação&lt;/li&gt;
-      &lt;li&gt;Adrenalina 1:10000: vasoconstricção&lt;/li&gt;
+      &lt;li&gt;Adrenalina 1:10.000: vasoconstricção&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Método térmico: laser ou eletrotermocoagulação
@@ -364,1265 +770,18 @@
 
 &lt;p&gt;O método químico é mais barato e possui eficácia semelhante ao térmico.&lt;/p&gt;
 
-&lt;h2 id=&quot;classificação-de-forrest-para-úlceras&quot;&gt;Classificação de Forrest para úlceras&lt;/h2&gt;
+&lt;p&gt;Além disso, objetiiva-se manter o &lt;strong&gt;pH &amp;gt; 6&lt;/strong&gt; com &lt;strong&gt;IBPs&lt;/strong&gt; para haver neutralização da acidez gástrica.&lt;/p&gt;
 
-&lt;p&gt;Forrest I, II e III&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Muito mais comum que a HDB. A HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.</summary></entry><entry><title type="html">Esquistossomose</title><link href="http://localhost:4000/gastroenterologia/esquistossomose.html" rel="alternate" type="text/html" title="Esquistossomose" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/esquistossomose</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/esquistossomose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#ciclo-evolutivo&quot; id=&quot;markdown-toc-ciclo-evolutivo&quot;&gt;Ciclo evolutivo&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#disseminação-e-instalação-dos-ovos&quot; id=&quot;markdown-toc-disseminação-e-instalação-dos-ovos&quot;&gt;Disseminação e instalação dos ovos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hipertensão-porta&quot; id=&quot;markdown-toc-hipertensão-porta&quot;&gt;Hipertensão porta&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#inoculação&quot; id=&quot;markdown-toc-inoculação&quot;&gt;Inoculação&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#febre-de-katayama&quot; id=&quot;markdown-toc-febre-de-katayama&quot;&gt;Febre de Katayama&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-crônica&quot; id=&quot;markdown-toc-fase-crônica&quot;&gt;Fase crônica&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#forma-hepatointestinal&quot; id=&quot;markdown-toc-forma-hepatointestinal&quot;&gt;Forma hepatointestinal&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#forma-hepatoesplênica&quot; id=&quot;markdown-toc-forma-hepatoesplênica&quot;&gt;Forma hepatoesplênica&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#enterobacteriose-septicêmica-prolongada&quot; id=&quot;markdown-toc-enterobacteriose-septicêmica-prolongada&quot;&gt;Enterobacteriose septicêmica prolongada&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#forma-pulmonar&quot; id=&quot;markdown-toc-forma-pulmonar&quot;&gt;Forma pulmonar&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#forma-renal&quot; id=&quot;markdown-toc-forma-renal&quot;&gt;Forma renal&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#neuroesquistossomose&quot; id=&quot;markdown-toc-neuroesquistossomose&quot;&gt;Neuroesquistossomose&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#forma-turmoral&quot; id=&quot;markdown-toc-forma-turmoral&quot;&gt;Forma turmoral&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#laboratório&quot; id=&quot;markdown-toc-laboratório&quot;&gt;Laboratório&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#parasitologia&quot; id=&quot;markdown-toc-parasitologia&quot;&gt;Parasitologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#provas-imunológicas&quot; id=&quot;markdown-toc-provas-imunológicas&quot;&gt;Provas imunológicas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#imagem&quot; id=&quot;markdown-toc-imagem&quot;&gt;Imagem&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-aguda&quot; id=&quot;markdown-toc-fase-aguda&quot;&gt;Fase aguda&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fase-crônica-1&quot; id=&quot;markdown-toc-fase-crônica-1&quot;&gt;Fase crônica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-específico&quot; id=&quot;markdown-toc-tratamento-específico&quot;&gt;Tratamento específico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#controle-de-cura&quot; id=&quot;markdown-toc-controle-de-cura&quot;&gt;Controle de cura&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cirurgia&quot; id=&quot;markdown-toc-cirurgia&quot;&gt;Cirurgia&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;hemorragia-digestiva-baixa&quot;&gt;Hemorragia digestiva baixa&lt;/h3&gt;
 
-&lt;p&gt;É a doença causada pelo helminto &lt;em&gt;Schistosoma mansoni&lt;/em&gt;, da classe Trematoda e filo Platelmintos. Existem outros parasitos não comuns no Brasil: &lt;em&gt;S. japonicum, S. haematobium, S. mekongi&lt;/em&gt; e &lt;em&gt;S. intercalatum.&lt;/em&gt; O hospedeiro definitivo é o homem e o intermediário o caramujo do gênero &lt;em&gt;Biomphalaria&lt;/em&gt;. No Brasil, as principais espécies
-de caramujo são: &lt;em&gt;glabrata, B. tenagophila&lt;/em&gt; e &lt;em&gt;B. straminea&lt;/em&gt;; que vivem na água doce de córregos e lagoas de água parada, nas regiões endêmicas do país.&lt;/p&gt;
+&lt;p&gt;Para os divertículos o uso de adrenalina e álcool absoluto pode ser feito.&lt;/p&gt;
 
-&lt;p&gt;Os vermes parasitam os vasos sanguíneos do sistema mesentérico, espoliando nutrientes. Suas ventosas permitem a fixação à parede dos vasos. O macho mede 0,6 a 1,2 cm e a fêmea, 0,7 a 1,7 cm.&lt;/p&gt;
+&lt;p&gt;Para pólipos, indica-se a polipectomia, seja por alça diatérmica ou por corte/coagulação.&lt;/p&gt;
 
-&lt;h2 id=&quot;ciclo-evolutivo&quot;&gt;Ciclo evolutivo&lt;/h2&gt;
-
-&lt;p&gt;A contaminação do ser humano ocorre quando em contato com água onde circulam as &lt;span class=&quot;red&quot;&gt;cercárias&lt;/span&gt;. O horário mais propício é entre 11h e 17h, pois as cercárias se movimentam melhor em ambientes com alta luminosidade. Uma vez chegando à derme, a larva perde a sua cauda, convertendo-se em esquistossômulo. Estes
-seguem pela corrente sanguínea, passam pelos
-capilares pulmonares, chegando ao coração esquerdo, sendo então lançados para os vasos arteriais mesentéricos, capilares mesentéricos, sistema porta e vênulas do espaço-porta hepático.&lt;/p&gt;
-
-&lt;p&gt;No ser humano, habitam os ramos do sistema venoso porta, principalmente no território da veia mesentérica inferior e lá se reproduzem. Uma pessoa pode habrigar 2 a 4 mil vermes adultos.&lt;/p&gt;
-
-&lt;p&gt;Após as fecundação, as fêmeas migram até as vênulas mesentéricas do sigmoide e reto para iniciar a postura dos ovos que ocorre &lt;strong&gt;4 a 6 semanas&lt;/strong&gt; após a infestação. Cada uma pode produzir mais de 1.000 por dia por um período de &lt;strong&gt;3 a 10 anos&lt;/strong&gt; (vida média dos vermes adultos).&lt;/p&gt;
-
-&lt;p&gt;Alguns ovos maduros (após 6 dias de postos) atravessam a parede capilar e caem na luz intestinal, sendo &lt;strong&gt;eliminados nas fezes&lt;/strong&gt;. Os que não conseguem atravessar os capilares se acumulam nos vasos ou no sistema porta gerando uma resposta inflamatória local.&lt;/p&gt;
-
-&lt;p&gt;O ciclo de vida completa-se quando os ovos eclodem, liberando os &lt;strong&gt;miracídios&lt;/strong&gt;, que, por sua vez, infectam os caramujos em água-doce (&lt;em&gt;Biomphalaria&lt;/em&gt;); estes, infectados, liberarão cercárias na água que poderão infestar novos seres humanos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/esquistossomose.png&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Sempre perguntar na ananmese sobre passado de banhos de rio em áreas endêmicas (norte de MG até a PB) na busca por epidemiologia positiva para o &lt;em&gt;S. mansoni&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/mapa-esquistossomose.png&quot; alt=&quot;Mapa da esquistossomose&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/schistosoma.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;disseminação-e-instalação-dos-ovos&quot;&gt;Disseminação e instalação dos ovos&lt;/h3&gt;
-
-&lt;p&gt;Após a colocação dos ovos, começa uma reação imunológica local com formação do &lt;strong&gt;granuloma esquistossomótico&lt;/strong&gt;, especialmente nos espaços-porta e na mucosa colorretal. Não são os ovos imaturos que provocam essa reação, mas sim os maduros que duram até 12 dias e após a sua morte ocorre a liberação de antígenos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Granuloma:&lt;/strong&gt; células epitelioides, linfócitos e células gigantes multinucleadas de Langhans. No seu centro, o ovo do &lt;em&gt;S. mansoni&lt;/em&gt;, de coloração eosinofílica.&lt;/p&gt;
-
-&lt;p&gt;Os ovos retidos na mucosa intestinal, que não conseguiram atravessar os capilates intestinais, podem ser vistos na biópsia do cólon ou reto. Outra parte dos órgãos pode ir até o figado (espaço porta), pulmões, SNC, etc. Dependendo de onde os ovos vão se depositando, a doença pode assumir as formas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Intestinal: ovos retidos na mucosa colorretal
-    &lt;ul&gt;
-      &lt;li&gt;Diarréia do tipo colite, podendo vir misturada com sangue;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Hepática: ovos retidos no espaço-porta;&lt;/li&gt;
-  &lt;li&gt;Hepato-esplênica: evolução da forma hepática com granuloma ao redor do ovo evolui com fibrose.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Cheio de ovos nos espaços-porta, o fígado desenvolve uma
-progressiva fibrose periportal nodular, denominada &lt;span class=&quot;green&quot;&gt;fibrose de Symmers&lt;/span&gt;. Inicialmente, nota-se uma &lt;strong&gt;hepatomegalia&lt;/strong&gt;, de consistência endurecida
-e nodular, com um &lt;strong&gt;predomínio frequente do lobo hepático esquerdo&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;hipertensão-porta&quot;&gt;Hipertensão porta&lt;/h3&gt;
-
-&lt;p&gt;A progressiva fibrose periportal vai levando a um quadro de &lt;span class=&quot;red&quot;&gt;hipertensão porta&lt;/span&gt; &lt;span class=&quot;orange&quot;&gt;intra-hepática&lt;/span&gt; &lt;span class=&quot;green&quot;&gt;pré-sinusoidal&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/sistema-porta.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A esquistossomose causa cirrose?&lt;/strong&gt; A função hepática não costuma se alterar pois não são observados nódulos de regeneração que caracterizam a cirrose. Mas os portadores da doença podem vir a desenvolver a cirrose com uma associação de outros fatores (como alcoolismo e hepatites).&lt;/p&gt;
-
-&lt;p&gt;As suas principais consequências são a dilatação
-dos vasos do sistema porta e das colaterais
-porto-cava, culminando com a formação das
-&lt;strong&gt;varizes esofagianas&lt;/strong&gt;, que podem romper e se
-apresentar como hemorragia digestiva alta.&lt;/p&gt;
-
-&lt;p&gt;O baço cresce pelo aumento de sua pressão venosa (esplenomegalia congestiva) e por ativação de seu sistema reticuloendotelial. Pode haver hiperesplenismo concomicante.&lt;/p&gt;
-
-&lt;p&gt;Devido à HP, parte do sangue do sistema porto-mesentérico é desviada para o sistema cava, permitindo a disseminação dos ovos para outros tecidos. Destes, o principal é o
-&lt;strong&gt;pulmão&lt;/strong&gt;, talvez por existirem vasos colaterais
-diretos que comunicam o sistema porta com o
-sistema vascular pulmonar. Os ovos irão se
-alojar nas arteríolas pulmonares, produzindo uma &lt;strong&gt;endarterite granulomatosa&lt;/strong&gt;,
-que poderá levar à &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt; e ao &lt;em&gt;&lt;strong&gt;cor pulmonale&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;A doença é essencialmente mesenquimal e não parenquimatosa, &lt;span class=&quot;red&quot;&gt;a arquitetura dos lóbulos hepáticos não é alterada&lt;/span&gt;, &lt;strong&gt;não há hiperplasia nodular regenerativa&lt;/strong&gt; e os &lt;strong&gt;sinusoides hepáticos não estão colapsados&lt;/strong&gt;, como acontece no fígado cirrótico.&lt;sup id=&quot;fnref:tratado&quot;&gt;&lt;a href=&quot;#fn:tratado&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/fibrose-symmers.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;
-&lt;img src=&quot;/assets/gastro/fibrose-symmers2.jpg&quot; alt=&quot;_Schistosoma mansoni_&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-  &lt;p&gt;A esquistossomose hepática não desorganiza a arquitetura lobular do fígado como a cirrose. Os vermes adultos vivem nos ramos intrahepáticos da veia porta, onde causam reação inflamatória crônica. Com o tempo, esta progride a intensa fibrose periportal, em que uma camada de tecido fibroso circunda as veias. O aspecto foi chamado de fibrose em haste de cachimbo de barro (clay pipe-stem cirrhosis ou fibrose de Symmers) devido à sua espessura e à cor esbranquiçada.  A presença de vermes (vivos ou mortos) e de ovos retarda o fluxo portal, causando hipertensão portal. Algumas conseqüências desta estão no quadro seguinte.&lt;sup id=&quot;fnref:unicamp&quot;&gt;&lt;a href=&quot;#fn:unicamp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;h3 id=&quot;inoculação&quot;&gt;Inoculação&lt;/h3&gt;
-
-&lt;p&gt;24 a 48 horas após a penetração na pele, as cercárias podem causar uma dermatite localizada por mecanismo imunoalérgico. O chamado &lt;em&gt;“prurido do nadador”&lt;/em&gt; onde as cercárias penetraram. Após 12 a 24 horas, forma-se uma &lt;strong&gt;erupção maculopapular&lt;/strong&gt; com cotinuação do prurido. Pode durar mais de uma semana.&lt;/p&gt;
-
-&lt;h3 id=&quot;febre-de-katayama&quot;&gt;Febre de Katayama&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Quando os adultos se desenvolvem e se instalam na circulação vesona mesentérica&lt;/strong&gt;, após 4 a 8 semanas da infestação, o paciente pode desenvolver a síndrome febril aguda eosinofílica &lt;span class=&quot;blue&quot;&gt;febre de Katayama&lt;/span&gt;. Um fenômeno de &lt;strong&gt;hipersensibilidade&lt;/strong&gt; do tipo doença do soro (imunocomplexos), uma reação do organismo aos antígenos que começam a ser liberados pelos vermes adultos ou pelos ovos recém-eliminados É mais comum em pacintes que não são de área endêmica e se infestaram durante uma viajem.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Sinais e sintomas&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Início abrupto&lt;/li&gt;
-    &lt;li&gt;Febre alta (39°C), intermitente (com dias afebris) e duradoura (pode ser &amp;gt; 4 sem);&lt;/li&gt;
-    &lt;li&gt;Calafrios, sudorese noturna, mialgia, poliartralgia, cefaleia, tosse seca, broncoespasmo;&lt;/li&gt;
-    &lt;li&gt;Anorexia e perda ponderal;&lt;/li&gt;
-    &lt;li&gt;Náuseas e vômitos;&lt;/li&gt;
-    &lt;li&gt;Diarreia (pode ocorrer disenteria);&lt;/li&gt;
-    &lt;li&gt;Dor abdominal.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Exame físico:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hepatoesplenomegalia;&lt;/li&gt;
-  &lt;li&gt;Micropoliadenopatia generalizada;&lt;/li&gt;
-  &lt;li&gt;Rash cutâneo do tipo urticaria ou púrpura, com prurido e até angioedema;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Raramente o paciente pode evoluir com formas mais graves e desenvolver icterícia, abdome agudo, &lt;em&gt;delirium&lt;/em&gt;, rigidez de nuca e estado comatoso.&lt;/p&gt;
-
-&lt;h3 id=&quot;fase-crônica&quot;&gt;Fase crônica&lt;/h3&gt;
-
-&lt;p&gt;Na maioria das vezes é assintomática. Nessa fase, a &lt;span class=&quot;red&quot;&gt;eosinofilia não é tão frequente&lt;/span&gt;, o que dificulta ainda mais a suspeita do diagnóstico.&lt;/p&gt;
-
-&lt;h4 id=&quot;forma-hepatointestinal&quot;&gt;Forma hepatointestinal&lt;/h4&gt;
-&lt;p&gt;Mais comum entre as crianças e os adultos jovens (5 a 20 anos). Decorre da presença de ovos no espaço porta e na mucosa colorretal. Pode assumir, ainda, uma forma intestinal pura ou uma forma hepatointestinal propriamente dita. Os sinais e sintomas são muito variados e poucos específicos.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Sinais e sintomas&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Dispepsia e eructação (arrotos);&lt;/li&gt;
-    &lt;li&gt;Sensação de plenitude gástrica;&lt;/li&gt;
-    &lt;li&gt;Náuseas e vômitos;&lt;/li&gt;
-    &lt;li&gt;Pirose, flatulência e anorexia;&lt;/li&gt;
-    &lt;li&gt;Dor abdominal do tipo cólica, difusa ou localizada na FID que precedem a defecação e depois desaparecem;&lt;/li&gt;
-    &lt;li&gt;Surtos diarreicos ou disentéricos, associados ao tenesmo;&lt;/li&gt;
-    &lt;li&gt;Emagrecimento;&lt;/li&gt;
-    &lt;li&gt;&lt;span class=&quot;green&quot;&gt;Hepatomegalia&lt;/span&gt; por &lt;span class=&quot;orange&quot;&gt;hipertrofia predominante do lobo esquedo&lt;/span&gt;, indolor;&lt;/li&gt;
-    &lt;li&gt;Baço não palpável e não percutível;&lt;/li&gt;
-    &lt;li&gt;A palpação do sigmoide pode ser dolorosa e revelar endurecimento, a &lt;em&gt;“&lt;strong&gt;corda cólica sigmoideana&lt;/strong&gt;“&lt;/em&gt;.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Faz diagnóstico diferencial com: RCU, DC, colites parasitárias, disenterias bacilares, síndrome do cólon irritável, diverticulose, polipose intestinal, etc.&lt;/p&gt;
-
-&lt;h4 id=&quot;forma-hepatoesplênica&quot;&gt;Forma hepatoesplênica&lt;/h4&gt;
-
-&lt;p&gt;Essa é a forma mais importante! É definida como a presença de &lt;span class=&quot;blue&quot;&gt;esplenomegalia mais a hipertensão porta&lt;/span&gt;. Apenas 5% a 7% dos infestados possuem essa forma.&lt;/p&gt;
-
-&lt;p&gt;Como há HP, todos seus sintomas secundários podem estar presentes (como varizes de esôfago e etc). O desenvolvimento de &lt;span class=&quot;red&quot;&gt;ascite não é comum&lt;/span&gt; pois a obstrução porta é &lt;strong&gt;pré-sinusoidal&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Sinais e sintomas&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Esplenomegalia;&lt;/li&gt;
-    &lt;li&gt;Hepatomegalia de consistência endurecida e nodular com maior aumento do lobo esquerdo (sob apêndice xifoide);&lt;/li&gt;
-    &lt;li&gt;Sinais de HP:
-      &lt;ul&gt;
-        &lt;li&gt;Hematêmese (rotura de VVEE);&lt;/li&gt;
-        &lt;li&gt;Melena;&lt;/li&gt;
-        &lt;li&gt;Circulação colateral do tipo porto-cava;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;Desconforto abdominal progressivo.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Os &lt;strong&gt;estigamas clássicos da cirrose&lt;/strong&gt; hepática (aranhas vasculares, ginecomastia, eritema palmar, etc.) &lt;strong&gt;não costumam ser encontrados na esquistossomose isolada&lt;/strong&gt;. Mas pode haver certo grau de infantilismo gonadal.&lt;/p&gt;
-
-&lt;h4 id=&quot;enterobacteriose-septicêmica-prolongada&quot;&gt;Enterobacteriose septicêmica prolongada&lt;/h4&gt;
-
-&lt;p&gt;Enterobactérias da flora intestinal (principalmente gram-negativas) podem adentrar o intestino dos vermes e serem translocadas para outros locais, causando um estado de bacteremia.&lt;/p&gt;
-
-&lt;p&gt;O quadro clínico é caracterizado por febre de longa duração, perda ponderal, dor abdominal, edema de MMII, hepatomegalia, esplenomegalia, hipoalbuminemia, hipergamaglobulinemia, leucocitose neutrofílica, eosinofilia, etc. Lembra muito um quadro de leishmaniose visceral.&lt;/p&gt;
-
-&lt;h4 id=&quot;forma-pulmonar&quot;&gt;Forma pulmonar&lt;/h4&gt;
-
-&lt;p&gt;O acometimento pulmonar ocorre em 20 a 30% dos casos, mas nem sempre é sintomática. Na maioria das vezes está associada à forma hepatoesplênica (hipertensão porta). Pode ser dividida em duas formas:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hipertensiva:&lt;/strong&gt; mais frequente, obstrução do leito arterial pulmonar pelos ovos. Sua clínica envolve sinais progressivos de insuficiência ventricular direita (turgência jugular, hepatomegalia dolorosa e edema de MMII). Pode haver também dispneia de esforço, palpitações, tosse seca, dor torácica constritiva, astenia extrema, emagrecimento rápido, anorexia e dedos em baqueta de tambor. A evolução natural do quadro leva ao &lt;em&gt;cor pulmonale&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cianótica:&lt;/strong&gt; mais prevalente em mulheres e em pacientes com esplenomegalia. Cianose geralmente discreta devido a microfístulas arteriovenosas, sobretudo nas extremidades e dedos em baqueta de tambor.&lt;/p&gt;
-
-&lt;h4 id=&quot;forma-renal&quot;&gt;Forma renal&lt;/h4&gt;
-
-&lt;p&gt;É a glomerulopatia esquistossomótica. Mais frequente na forma hepatoesplênica. A lesão mais comum é a glomerulonefrite membranoproliferativa tipo 1. Se manifesta clinicamente por proteinúria e até síndrome nefrótica. A explicação se deve à deposição de imunocomplexos.&lt;/p&gt;
-
-&lt;h4 id=&quot;neuroesquistossomose&quot;&gt;Neuroesquistossomose&lt;/h4&gt;
-
-&lt;p&gt;Pode ocorrer por embolização dos ovos pela rede arterial, migração dos ovos por anastomoses entre o sistema venoso portal e o de Batson, ovoposição após migração anômala dos vermes.&lt;/p&gt;
-
-&lt;p&gt;Nem sempre a presença dos ovos no SNC cursa com alguma alteração. Os acometimentos ocorrem mais na** medula espinhal toracolombar&lt;strong&gt;, com um quadro de **mielite transversa&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;forma-turmoral&quot;&gt;Forma turmoral&lt;/h4&gt;
-
-&lt;p&gt;A forma tumoral ou pseudoneoplásica é bastante rara, simulando adenocarcinoma de cólon em muitas situações. Podem apresentar-se como
-pólipos únicos ou múltiplos, estenoses ou vegetações tumorais, as quais crescem para a luz intestinal. Os achados clínicos nesses casos incluem a enterorragia e a dor abdominal intensa e difusa (forma polipoide), além da obstrução intestinal, emagrecimento progressivo, anorexia, tumoração palpável e distensão abdominal. A colonoscopia com biópsia pode esclarecer o diagnóstico.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
-
-&lt;p&gt;A função hepatocelular encontra-se preservada até os estágios avançados da doença.&lt;sup id=&quot;fnref:tratado:1&quot;&gt;&lt;a href=&quot;#fn:tratado&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;span class=&quot;green&quot;&gt;Eosinofilia&lt;/span&gt; intensa (na fase aguda) ou discreta;&lt;/li&gt;
-  &lt;li&gt;Leucopenia e plaquetopenia;&lt;/li&gt;
-  &lt;li&gt;Anemia hemolítica por hiperesplenismo é incomum;&lt;/li&gt;
-  &lt;li&gt;VHS como regra está bem elevado;&lt;/li&gt;
-  &lt;li&gt;Hipergamaglobulinemia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;parasitologia&quot;&gt;Parasitologia&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Parasitológico de fezes (ovos presentes após 40 dias de infestação), ovo espiculado.
-    &lt;ul&gt;
-      &lt;li&gt;Sensibilidade em torno de 50%&lt;/li&gt;
-      &lt;li&gt;Recomendado 6 amostras para aumentar a sensibilidade&lt;/li&gt;
-      &lt;li&gt;Quanto maior o tempo de infestação, menor a ovoposição&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Biópsia retal
-    &lt;ul&gt;
-      &lt;li&gt;Sensibilidade de 80%&lt;/li&gt;
-      &lt;li&gt;Evidencia a presença de ovos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;provas-imunológicas&quot;&gt;Provas imunológicas&lt;/h3&gt;
-
-&lt;p&gt;Mais empregadas na fase crônica, pois positivam após 25 dias de infestação.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Intradermorreação&lt;/li&gt;
-  &lt;li&gt;Reações de fixação do complemento&lt;/li&gt;
-  &lt;li&gt;Imunoflorescência indireta&lt;/li&gt;
-  &lt;li&gt;ELISA&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;imagem&quot;&gt;Imagem&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Radiografia de tórax: avaliar a forma pulmonar;&lt;/li&gt;
-  &lt;li&gt;ECG: avaliar também a forma vasculopulmonar;&lt;/li&gt;
-  &lt;li&gt;USG abdominal: avaliar a forma hepatoesplênica;&lt;/li&gt;
-  &lt;li&gt;EDA e EDB: avaliar a forma hepatoesplênica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;fase-aguda&quot;&gt;Fase aguda&lt;/h3&gt;
-
-&lt;p&gt;A dermatite cercariana é tratada com anti-histamínicos locais e corticosteroides tópicos, associados ao tratamento com os fármacos específicos.&lt;/p&gt;
-
-&lt;p&gt;Os quadros de &lt;span class=&quot;green&quot;&gt;febre de Katayama&lt;/span&gt; podem requerer &lt;strong&gt;internação&lt;/strong&gt; hospitalar, devendo-se indicar &lt;strong&gt;repouso&lt;/strong&gt;, &lt;strong&gt;hidratação&lt;/strong&gt; adequada, uso de &lt;strong&gt;antitérmicos&lt;/strong&gt;, &lt;strong&gt;analgésicos&lt;/strong&gt; e &lt;strong&gt;antiespasmódicos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A terapia específica deve ser logo aplicada, devendo ser associada à prednisona 1 mg/kg/dia (esta iniciada um dia antes da aplicação da droga específica). A resposta ao tratamento é muito boa.&lt;/p&gt;
-
-&lt;h3 id=&quot;fase-crônica-1&quot;&gt;Fase crônica&lt;/h3&gt;
-
-&lt;p&gt;Nas formas &lt;strong&gt;hepatointestinal&lt;/strong&gt; e &lt;strong&gt;hepatoesplênica&lt;/strong&gt;, devem ser contempladas medidas para minorar o quadro diarreico (quando presente) e os fenômenos dispépticos.&lt;/p&gt;
-
-&lt;p&gt;Na forma &lt;strong&gt;hepatoesplênica&lt;/strong&gt;, condutas para redução
-do risco de hemorragias digestivas, como a
-escleroterapia de varizes de esôfago e o uso de
-betabloqueadores, também são extremamente
-relevantes.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-específico&quot;&gt;Tratamento específico&lt;/h3&gt;
-
-&lt;p&gt;Baseia-se no uso de praziquantel e oxaminiquine.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Praziquantel&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Indicado em todas as fases da doença;&lt;/li&gt;
-    &lt;li&gt;Dose de 40 mg/kg, em tomada única;&lt;/li&gt;
-    &lt;li&gt;80-90% de cura;&lt;/li&gt;
-    &lt;li&gt;Atua contra as três espécies de &lt;em&gt;Schistosoma&lt;/em&gt;;&lt;/li&gt;
-    &lt;li&gt;Também age contra outros vermes.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;As reações adversas ao uso do praziquantel, incluem: náuseas, dores abdominais, cefaleia, tonteiras, sonolência, palpitação, prurido, urticária, vômito, cinetose, sensação de “cabeça oca”, diarreia, hipoacusia,
-hiporreflexia, distúrbio visual e tremor.&lt;/p&gt;
-
-&lt;p&gt;É contraindicado na insuficiência hepática, renal e cardíaca graves, bem como na forma hepatointestinal descompensada em crianças menores de dois anos e na gestação.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Oxaminiquine&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Dose de 15 mg/kg em tomada única para adultos e de 20 mg/kg em tomada única para crianças;&lt;/li&gt;
-    &lt;li&gt;Tem atividade restrita ao &lt;em&gt;S. mansoni&lt;/em&gt;, agindo em
-todos os seus estágios evolutivos.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Os efeitos colaterais mais comuns atribuídos à droga são
-tonteiras, sonolência, cefaleia, manifestações neuropsíquicas (excitação, irritabilidade, convulsão, alucinação, sensação de flutuação etc.).
-Também podem ocorrer febre, hipertensão
-arterial, leuco e linfopenia transitórias. Para
-aliviar tais sintomas, recomenda-se administrálo após a refeição (café matinal ou jantar).&lt;/p&gt;
-
-&lt;p&gt;É contraindicado em grávidas, em lactantes, em
-crianças com menos de dois anos de idade, nas
-insuficiências renal, hepática e cardíaca descompensadas e em casos de hipertensão porta
-descompensada. Além disso, não deve ser utilizado em pessoas com epilepsia.&lt;/p&gt;
-
-&lt;h3 id=&quot;controle-de-cura&quot;&gt;Controle de cura&lt;/h3&gt;
-
-&lt;p&gt;Devem ser realizados 6 exmaes parasitológicos de fezes, um por mês e/ou uma biópsia retal após os 6 meses de tratamento. Atenção pois a biópsia deve ser sempre realizada. A cura é conseguida em 80% dos casos!&lt;/p&gt;
-
-&lt;h3 id=&quot;cirurgia&quot;&gt;Cirurgia&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A esplenectomia pode ser uma opção para a hipertensão porta com hiperesplenismo;&lt;/li&gt;
-  &lt;li&gt;A anastomose porto-cava hoje está em desuso pois aumenta a incidência de encefalopatia hepática;&lt;/li&gt;
-  &lt;li&gt;Anastomose esplenorrenal,&lt;/li&gt;
-  &lt;li&gt;Descompressão esofagogástrica&lt;/li&gt;
-  &lt;li&gt;Técnicas de reparação das varizes esofagianas;&lt;/li&gt;
-  &lt;li&gt;Transplante hepático.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:tratado&quot;&gt;
-      &lt;p&gt;Tratado de gastroenterologia: da graduação à pós-graduação. Schlioma Zaterka, Jaime Natan Eisig. 2ed. São Paulo. Editora Atheneu, 2016. &lt;a href=&quot;#fnref:tratado&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:tratado:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:unicamp&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://anatpat.unicamp.br/pecasfig8.html&quot;&gt;http://anatpat.unicamp.br/pecasfig8.html&lt;/a&gt; &lt;a href=&quot;#fnref:unicamp&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Guia Pre Internato</title><link href="http://localhost:4000/guia-pre-internato.html" rel="alternate" type="text/html" title="Guia Pre Internato" /><published>2019-09-17T00:00:00-03:00</published><updated>2019-09-17T00:00:00-03:00</updated><id>http://localhost:4000/guia-pre-internato</id><content type="html" xml:base="http://localhost:4000/guia-pre-internato.html">&lt;p&gt;&lt;strong&gt;Como diferenciar a ressonância da tomografia computadorizada?&lt;/strong&gt; Na TC os corpos vertebrais ficam brancos e na ressonância ficam escuros.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tuberculose intestinal</title><link href="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html" rel="alternate" type="text/html" title="Tuberculose intestinal" /><published>2019-09-12T00:00:00-03:00</published><updated>2019-09-12T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/tuberculose-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/tuberculose-intestinal.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A tuberculose intestinal geralmente é uma complicação da doença pulmonar, pela deglutição de escarro infectado. A região ileocecal constitui o sítio de maior comprometimento. Palidez, perda ponderal, sudorese noturna e febre são os achados mais comuns ao exame físico. Dor abdominal é o principal achado no exame abdominal. A complicação mais freqüente é a obstrução intestinal. O diagnóstico pré-operatório é muito difícil, sendo o de certeza dado pelo exame histopatológico ou em culturas de tecidos. O tratamento cirúrgico está indicado nos casos das raras complicações.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;p&gt;[^]&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Endoscopia</title><link href="http://localhost:4000/gastroenterologia/endoscopia.html" rel="alternate" type="text/html" title="Endoscopia" /><published>2019-09-11T00:00:00-03:00</published><updated>2019-09-11T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/endoscopia</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/endoscopia.html">&lt;p&gt;Indicações de EDA:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hemorragia digestiva alta&lt;/li&gt;
-  &lt;li&gt;Hemorragia digestiva baixa com melena&lt;/li&gt;
-  &lt;li&gt;Suspeita de câncer&lt;/li&gt;
-  &lt;li&gt;Gastrite e gastropatias&lt;/li&gt;
-  &lt;li&gt;Disfagia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Contra-indicações:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Megacólon tóxico
-*&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;preparação&quot;&gt;Preparação&lt;/h2&gt;
-
-&lt;p&gt;Luftal (cimeticone): atua reduzindo a tensão superificial, ou seja, impedindo a formação de bolhas que atrapalham o exame após a insuflação do esôfago com ar.&lt;/p&gt;
-
-&lt;p&gt;Xilocaína (lidocaína): spray anestésico para diminuir o reflexo de vômito ou náusea.&lt;/p&gt;
-
-&lt;p&gt;Midazolan e Fentanil: anestesia intravenosa. Também pode usar o propofol. É possível fazer o exame sem a anestesia endovenosa.&lt;/p&gt;
-
-&lt;p&gt;Posicionar o paciente em decúbito lateral esquerdo: menor risco de broncoaspiração (agudização do ângulo de bulbarof).&lt;/p&gt;
-
-&lt;p&gt;##&lt;/p&gt;
-
-&lt;p&gt;Linha Z: transição epitelial entre o esôfago e o estômago.&lt;/p&gt;
-
-&lt;p&gt;Hérnia de hiato: 2cm acima.&lt;/p&gt;
-
-&lt;p&gt;Antro: é de onde partem as contrações do estômago. A “bomba de motilidade”.&lt;/p&gt;
-
-&lt;p&gt;Duodeno: se divide em bulbo, primeira e segunda porção. O bulbo ainda não tem prega, elas começam na primeira porção duodenal (após um ângulo). Na segunda porção ficam as papilas duodenais, maior e menor. A EDA só vai até a segunda porção duodenal.&lt;/p&gt;
-
-&lt;p&gt;Ectopia de mucosa gástrica: tecido gástrico no êsofago. Não tem muito significado.&lt;/p&gt;
-
-&lt;p&gt;Diverticulo de Zencker: perígo de perfuração durante o exame devido ao seu fundo cego.&lt;/p&gt;
-
-&lt;p&gt;Varizes esofágicas:&lt;/p&gt;
-
-&lt;p&gt;Esofagite erosiva&lt;/p&gt;
-
-&lt;p&gt;Êsofago de Barret: necessita de confirmação histológica. Biopsiar o mais distal possível para confirmar a ectopia do tecido gástrico de origem metaplásica.&lt;/p&gt;
-
-&lt;p&gt;Condiloma por HPV&lt;/p&gt;
-
-&lt;p&gt;Glândulas fúndicas: uso de IBPs faz com que essas glândulas fiquem túrgidas.&lt;/p&gt;
-
-&lt;p&gt;Polipose: quando tem mais de 100 pólipos. 100% das poliposes adenomatosas familiáres evoluem para CA de colon.&lt;/p&gt;
-
-&lt;p&gt;Hematina: sangramentos superficiais que ao contato com o ácido estomacal ficam pretos. Pode aparecer em gastropatia erosiva por uso de AINEs.&lt;/p&gt;
-
-&lt;p&gt;Estenose de piloro: pode ser causada por uma úlcera no piloro que fibrosa. Causa a chamada “Sídrome pilórica”.&lt;/p&gt;
-
-&lt;p&gt;Estômago o local mais frequente de ulcera é o antro. No duodeno é nos 2cm logo após o piloro.&lt;/p&gt;
-
-&lt;p&gt;Úlcera péptica: a causa número um é o &lt;em&gt;H. pylori&lt;/em&gt;, depois o uso de AINEs.&lt;/p&gt;
-
-&lt;p&gt;Duodenite: geralmente de causa parasitária, como a estrongiloidíase.&lt;/p&gt;
-
-&lt;h1 id=&quot;colonoscopia&quot;&gt;Colonoscopia&lt;/h1&gt;
-
-&lt;p&gt;Só vai até 10 cm do íleo distal.&lt;/p&gt;
-
-&lt;p&gt;Úlceras serpiginosas no íleo são comuns na doença de crohn.&lt;/p&gt;
-
-&lt;p&gt;Válvula íleocecal.&lt;/p&gt;
-
-&lt;p&gt;Melanose coli: uma das causas é o uso de laxantes potentes.&lt;/p&gt;
-
-&lt;p&gt;Divertículos no cólon: mais comum no cólon esquerdo.&lt;/p&gt;
-
-&lt;h1 id=&quot;cpre&quot;&gt;CPRE&lt;/h1&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Indicações de EDA:</summary></entry><entry><title type="html">Cirurgia do cólon e reto</title><link href="http://localhost:4000/cirurgia/cirugia-do-colon-e-reto.html" rel="alternate" type="text/html" title="Cirurgia do cólon e reto" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/cirugia-do-colon-e-reto</id><content type="html" xml:base="http://localhost:4000/cirurgia/cirugia-do-colon-e-reto.html">&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
-
-&lt;p&gt;O reto superior e inferior possuem drenagens linfáticas diferentes, o que altera a conduta na hora de fazer uma ressecção.&lt;/p&gt;
-
-&lt;p&gt;No reto inferior a drenagem linfática é muito desfavorável, a cirurgia tem de ser mais alargada.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Neoplasias&lt;/li&gt;
-  &lt;li&gt;Tumores benignos&lt;/li&gt;
-  &lt;li&gt;Colites Popiloses múltiplas&lt;/li&gt;
-  &lt;li&gt;Doença divertiulcar&lt;/li&gt;
-  &lt;li&gt;Megacolon&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nas neoplasias do cólon e do reto, deve-se pesquisar por metástases no figado e pulmão.&lt;/p&gt;
-
-&lt;p&gt;Quando o paciente já apresenta anorexia, astenia e perda de peso, o diagnóstico já é tardio.&lt;/p&gt;
-
-&lt;p&gt;O IG é um reservatório de fezes e exige um preparo antes da cirurgia para a sua remoção. Além disso, a antibioticoterapia profilática é obrigatória antes das cirurgias.&lt;/p&gt;
-
-&lt;h2 id=&quot;remoção-das-fezes&quot;&gt;Remoção das fezes&lt;/h2&gt;
-
-&lt;h3 id=&quot;preparo-intestinal-mecânico&quot;&gt;Preparo intestinal mecânico:&lt;/h3&gt;
-
-&lt;p&gt;Pode ser feita por enema. O líquido alcança até o colon descendente. Não chega a limpar o colon ascendente ou transverso.&lt;/p&gt;
-
-&lt;p&gt;Lavagem gastrointestinal total: começa ingerindo líquido oral, com soluçõẽs preparadas, que vai limpar todo os TGI. Após toda a lavagem completa o líquido eliminado pelo ẫnus mantem uma coloração amarelada (semelhante à urina) devido à secreção contínua de bile no TGI.&lt;/p&gt;
-
-&lt;p&gt;Efeitos colaterais: nauseas, distensão, diarreia, perda da barreira mucosa, translocação bacteriana, distubrios hidroeletoliticos, acidose metabolica, hipertensão e taquicardia.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Diminui:
-    &lt;ul&gt;
-      &lt;li&gt;Contaminação&lt;/li&gt;
-      &lt;li&gt;Deiscências&lt;/li&gt;
-      &lt;li&gt;Fístulas&lt;/li&gt;
-      &lt;li&gt;Reoperações&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;antibioticoterapia-profilática&quot;&gt;Antibioticoterapia profilática&lt;/h3&gt;
-
-&lt;p&gt;Principalmente focando em gram negativos e anaeróbios. Pode ser iniciado no pré-operatório, durante a indução anestésia, durante a cirúrgia ou até no pós-operatório.&lt;/p&gt;
-
-&lt;p&gt;Artigo: mechanical bowel preparation for elective colorectal surgery (Guenaga KF, Chochrane, 2011)&lt;/p&gt;
-
-&lt;p&gt;Benefit of mechanicaml bowel preparation prior to elective colorectal surgery: current insights (Murray AC, 2016)&lt;/p&gt;
-
-&lt;p&gt;The role of oral antibiotics prophylaxis in prevention of surgical site infection in colorrectal surgery (Koullouros M, 2017)&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Como:
-    &lt;ul&gt;
-      &lt;li&gt;Neomicina + eritromicina&lt;/li&gt;
-      &lt;li&gt;Metronidazol + ciprofloxacino&lt;/li&gt;
-      &lt;li&gt;Metronidazol, Cefoxitina, aminoglicosídeo + clindamicina.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;história-natural&quot;&gt;História natural&lt;/h2&gt;
-
-&lt;p&gt;Das neoplasias do colon:&lt;/p&gt;
-
-&lt;p&gt;A histótia natural é pouco sintomática.&lt;/p&gt;
-
-&lt;h2 id=&quot;cirurgias&quot;&gt;Cirurgias&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Colostomias&lt;/li&gt;
-  &lt;li&gt;Reconstrução do trânsito&lt;/li&gt;
-  &lt;li&gt;Colectomias&lt;/li&gt;
-  &lt;li&gt;Ressecções do reto&lt;/li&gt;
-  &lt;li&gt;Proctocolectomia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;colostomia&quot;&gt;Colostomia&lt;/h3&gt;
-
-&lt;p&gt;Uma das mais frequentes, um procedimento relativamente simples que desvia o transito intestinal na parte distal da colostomia. Pode ser temporária ou definitiva.&lt;/p&gt;
-
-&lt;p&gt;Tem diversos tipos: colostomia em alça, cortando o colo e inserindo as duas “bocas” na parede abdmonial. Simplicidade para fazer e para reconstruir. (“colostomia em duas bocas”)&lt;/p&gt;
-
-&lt;p&gt;Fistula mucosa: uma colostomia do reto que apenas elimina muco e sangue, enquanto outra colostomia terminal elmina as fezes. Necessário quando se resseca um segmento do colon preservando o reto.&lt;/p&gt;
-
-&lt;p&gt;Colostomia a Hartman: tem que fechar o coto distal do reto e fazer uma boca de colostomia do colon distal.&lt;/p&gt;
-
-&lt;p&gt;Tem em torno de 400 mil pessoas no Brasil vivendo com colostomia.&lt;/p&gt;
-
-&lt;p&gt;Quando fechar a colostomia e reconstruir o trânsito? Quando o paciente estiver apto a uma nova cirurgia e quando a indicação da colostomia já tiver sido resolvida.&lt;/p&gt;
-
-&lt;h3 id=&quot;colectomias&quot;&gt;Colectomias&lt;/h3&gt;
-
-&lt;p&gt;Proctocolectomia retira todo o colon mais o ânus e o reto.&lt;/p&gt;
-
-&lt;p&gt;Acessos cirurgicos: videolaparoscopia, colonoscopia (como a alça de polipectomia com bisturi elétrico), laparoscopia com robô.&lt;/p&gt;
-
-&lt;h1 id=&quot;principios-oncologicos&quot;&gt;Principios oncologicos&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Remover o tumor&lt;/li&gt;
-  &lt;li&gt;Margem de segurança (4-6 cm)&lt;/li&gt;
-  &lt;li&gt;Linfadenectomia radical (colon)&lt;/li&gt;
-  &lt;li&gt;Remover metástases&lt;/li&gt;
-  &lt;li&gt;Reconstruir o trânsito&lt;/li&gt;
-  &lt;li&gt;Controle vascular&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Quando resseca o reto superior é necessário remover o sigmoide também. No reto inferior é necessário remover também o ânus e o paciente fica com colostomia definitiva.&lt;/p&gt;
-
-&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Anatomia</summary></entry><entry><title type="html">Doença inflamatória intestinal</title><link href="http://localhost:4000/gastroenterologia/doencas-inflamatorias-intestinais.html" rel="alternate" type="text/html" title="Doença inflamatória intestinal" /><published>2019-09-10T00:00:00-03:00</published><updated>2019-09-10T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/doencas-inflamatorias-intestinais</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/doencas-inflamatorias-intestinais.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#retocolite-ulcerativa-idiopática&quot; id=&quot;markdown-toc-retocolite-ulcerativa-idiopática&quot;&gt;Retocolite ulcerativa idiopática&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fisiopatologia-1&quot; id=&quot;markdown-toc-fisiopatologia-1&quot;&gt;Fisiopatologia&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#achados-macroscópicos&quot; id=&quot;markdown-toc-achados-macroscópicos&quot;&gt;Achados macroscópicos&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#exames-laboratoriais&quot; id=&quot;markdown-toc-exames-laboratoriais&quot;&gt;Exames laboratoriais&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#radiografia&quot; id=&quot;markdown-toc-radiografia&quot;&gt;Radiografia&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#histologia&quot; id=&quot;markdown-toc-histologia&quot;&gt;Histologia&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#enema-opaco-com-duplo-contraste&quot; id=&quot;markdown-toc-enema-opaco-com-duplo-contraste&quot;&gt;Enema opaco com duplo contraste&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#vigilância&quot; id=&quot;markdown-toc-vigilância&quot;&gt;Vigilância&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#doença-de-chron&quot; id=&quot;markdown-toc-doença-de-chron&quot;&gt;Doença de Chron&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#epidemiologia-1&quot; id=&quot;markdown-toc-epidemiologia-1&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fisiopatologia-2&quot; id=&quot;markdown-toc-fisiopatologia-2&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-1&quot; id=&quot;markdown-toc-quadro-clínico-1&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames-complementares-1&quot; id=&quot;markdown-toc-exames-complementares-1&quot;&gt;Exames complementares&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#histopatologia&quot; id=&quot;markdown-toc-histopatologia&quot;&gt;Histopatologia&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#complicações-da-dii&quot; id=&quot;markdown-toc-complicações-da-dii&quot;&gt;Complicações da DII&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#sangramento&quot; id=&quot;markdown-toc-sangramento&quot;&gt;Sangramento&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#megacólon-tóxico&quot; id=&quot;markdown-toc-megacólon-tóxico&quot;&gt;Megacólon tóxico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#estenoses&quot; id=&quot;markdown-toc-estenoses&quot;&gt;Estenoses&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fístulas&quot; id=&quot;markdown-toc-fístulas&quot;&gt;Fístulas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#câncer&quot; id=&quot;markdown-toc-câncer&quot;&gt;Câncer&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#manifestações-extra-intestinais&quot; id=&quot;markdown-toc-manifestações-extra-intestinais&quot;&gt;Manifestações extra-intestinais&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#laboratório&quot; id=&quot;markdown-toc-laboratório&quot;&gt;Laboratório&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#p-anca&quot; id=&quot;markdown-toc-p-anca&quot;&gt;p-ANCA&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#asca&quot; id=&quot;markdown-toc-asca&quot;&gt;ASCA&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#rcu&quot; id=&quot;markdown-toc-rcu&quot;&gt;RCU&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#dc&quot; id=&quot;markdown-toc-dc&quot;&gt;DC&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento-2&quot; id=&quot;markdown-toc-tratamento-2&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#outras-coisas&quot; id=&quot;markdown-toc-outras-coisas&quot;&gt;Outras coisas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;!--
-A endoscopia vai até a segunda porção duodenal. A colonoscopia vai até uns 15 cm do íleo distal. Ou seja, principalmente o jejuno e o íleo proximal não pode ser visualizado. É justamente nestas porções que ocorre a doença de Chron.
---&gt;
-
-&lt;p&gt;São dois grandes grupos de DIIs: &lt;strong&gt;doença de Crohn&lt;/strong&gt; (DC) e a &lt;strong&gt;retocolite ulcerativa&lt;/strong&gt; (RCU). As duas devem ser diferenciadas das demais doenças que também promovem inflamação dos intestinos, como: infecções, diverticulite, apendicite, enterite por radiação, medicamentos ou toxinas, e vasculite intestinal.&lt;/p&gt;
-
-&lt;p&gt;Para as duas, a presença de &lt;strong&gt;história familiar&lt;/strong&gt; é o principal fator de risco (em 10-25% dos pacientes). O &lt;em&gt;gradiente Norte-Sul&lt;/em&gt; é descrito pois, quanto mais se desloca em direção ao norte, mais frequente são os casos de DII. Ou seja, a incidência é maior na América do Norte e Europa, em detrimento da África e América do Sul. Também são mais comuns na população &lt;strong&gt;branca&lt;/strong&gt;, principalmente os &lt;strong&gt;judeus&lt;/strong&gt;. O pico de incidência etária é bimodal, com maior frequência entre os 15-40 anos e 50-80 anos. As sídromes de &lt;em&gt;Turner&lt;/em&gt; e &lt;em&gt;Wiskott-Aldrich&lt;/em&gt; estão associadas a maior incidência.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;anemia&lt;/strong&gt; pode aparecer tanto nos pacientes com Crohn como na RCU. Pode ser devido à hemorragia, caracterizando uma &lt;strong&gt;anemia microcítica&lt;/strong&gt;. Contudo, na Crohn também pode haver &lt;strong&gt;anemia megaloblástica&lt;/strong&gt; por deficiência de B12.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;intolerância à lactose&lt;/strong&gt; não é mais prevalente entre portadores de DII em relação à população geral. Contudo,  a presença de DII pode agregar um componente de intolerância “secundária” em consequência à diminuição da capacidade absortiva intestinal, principalmente na DC com lesão extensa do delgado.&lt;/p&gt;
-
-&lt;p&gt;Algumas mulheres relatam piora dos sintomas durante o período menstrual. Porém, a relação entre DII e &lt;strong&gt;ACO&lt;/strong&gt; (e a terapia de reposição hormonal) é controversa. Parece que os ACO aumentam (discretamente) o risco de DII e a chance de exacerbação em pacientes com doença estabelecida.&lt;/p&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-
-  &lt;p&gt;Diferenciação DC x RCU:&lt;/p&gt;
-
-  &lt;ol&gt;
-    &lt;li&gt;Localização do acometimento (difuso, colônico limitado etc.).&lt;/li&gt;
-    &lt;li&gt;Padrão de acometimento da mucosa (contínuo, salteado etc.).&lt;/li&gt;
-    &lt;li&gt;Envolvimento ou não de planos profundos na parede intestinal.&lt;/li&gt;
-    &lt;li&gt;Envolvimento do canal anal (exclusivo da DC).&lt;/li&gt;
-    &lt;li&gt;Presença de granulomas não caseosos.&lt;/li&gt;
-    &lt;li&gt;Presença de fístulas.&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;Ambas, DC e RCU, são doenças crônicas sem etiologia esclarecida e muito semelhantes clinicamente e epidemiologicamente. Até o momento, sabemos que as DII se caracterizam por um processo inflamatório crônico associado a uma resposta imunológica inadequada contra agentes intraluminais.&lt;sup id=&quot;fnref:esberard2012&quot;&gt;&lt;a href=&quot;#fn:esberard2012&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;As IL-5 e IL-10 estão mais associadas à RCU (Th2), enquanto que IL-1, IL-12, TNFa e IFN-g estão mais associados ao Crohn (Th1).&lt;/p&gt;
-
-&lt;h1 id=&quot;retocolite-ulcerativa-idiopática&quot;&gt;Retocolite ulcerativa idiopática&lt;/h1&gt;
-
-&lt;p&gt;É a doença inflamatória crônica da &lt;span class=&quot;orange&quot;&gt;mucosa&lt;/span&gt; &lt;span class=&quot;red&quot;&gt;limitada ao cólon&lt;/span&gt;. Característicamente envolve o reto e pode se extender simetricamente por todo o cólon, de forma &lt;span class=&quot;green&quot;&gt;ascendente&lt;/span&gt;. 20% dos pacientes terão pancolite. &lt;span class=&quot;red&quot;&gt;Costuma começar pelo reto e têm caráter em ascensão pelo cólom&lt;/span&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Proctite: acomete apenas o reto até 15 cm da linha denteada;&lt;/li&gt;
-  &lt;li&gt;Proctossigmoidite: até 30 cm da linha denteada;&lt;/li&gt;
-  &lt;li&gt;Colite esquerda: até a flexura esplênica;&lt;/li&gt;
-  &lt;li&gt;Pancolite: quando vai além da flexura hepática (existem divergências quanto ao significado deste termo).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;El alguns pacientes com pancolite, o íleo pode ser acometido por uma &lt;span class=&quot;red&quot;&gt;ileíte de refluxo&lt;/span&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A história falimiar aumenta o risco em 3 a 20 vezes. A concordância entre gêmeos é de 6 a 10%. Alta incidência entre judeus. Possui uma discreta predominância em homens.&lt;sup id=&quot;fnref:aula&quot;&gt;&lt;a href=&quot;#fn:aula&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Aumenta a incidência de CA colorretal nesse grupo de pacientes. O tempo e extensão da doença são proporcionais ao risco.&lt;/p&gt;
-
-&lt;p&gt;O cigarro é um fator protetor para a RCU, diferentemente da DC.&lt;/p&gt;
-
-&lt;p&gt;na RCU de longa duração pode ocorrer displasia epitelial, que tem forte associação com o desenvolvimento de neoplasia maligna do cólon como complicação tardia.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia-1&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Acometimento inflamatório é contínuo e simpetrico&lt;/li&gt;
-  &lt;li&gt;É uma doença de, basicamente, mucosa e submucosa.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O uso da terapia tópica com enemas de glicocorticoide pode “esfriar” a inflamação mais distal do cólon, dificultando o diagnóstico diferencial com a DC!&lt;/p&gt;
-
-&lt;h3 id=&quot;achados-macroscópicos&quot;&gt;Achados macroscópicos&lt;/h3&gt;
-
-&lt;p&gt;Desaparecimento do padrão vascular típico do cólon (alteração precoce); hiperemia, edema, mucosa friável, erosões, ulcerações e exsudação de muco, pus ou sangue; formação de pseudopólipos; mucosa pálida, atrófica, com aspécto tubular (indicador de cronicidade).&lt;/p&gt;
-
-&lt;p&gt;Em casos raros de RCU grave, estas alterações podem comprometer, por contiguidade (e não por ação direta da doença), a submucosa e a muscular. Nestes casos, a parede torna-se frágil e há risco de &lt;strong&gt;megacólon tóxico&lt;/strong&gt; e perfuração espontânea.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;Diarréia&lt;/strong&gt; &lt;strong&gt;sanguinolenta&lt;/strong&gt; (sangue vivo ou hematoquezia, sinal quase que universal na RCU), tenesmo, mucorréia;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Dor abdominal&lt;/strong&gt;&lt;/li&gt;
-    &lt;li&gt;Perda de peso, anorexia e náusea;&lt;/li&gt;
-    &lt;li&gt;Doença leve a moderada: exame normal;&lt;/li&gt;
-    &lt;li&gt;Doença grave: &lt;strong&gt;febre&lt;/strong&gt;, queda do estado geral, abdomen doloroso.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;O acometimento pode ser leve, moderado ou intenso. Na maior parte das vezes, o início dos sintomas é insidioso (o diagnóstico é feito em média após 9 meses do início do quadro), com:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Crescente urgência para defecar (refletindo a diminuição da complacência do reto inflamado);&lt;/li&gt;
-  &lt;li&gt;Leves cólicas abdominais baixas;&lt;/li&gt;
-  &lt;li&gt;Aparecimento de sangue e muco nas fezes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Menos comumente, a RCU pode ter início &lt;strong&gt;agudo&lt;/strong&gt; e &lt;strong&gt;fulminante&lt;/strong&gt;, com diarreia violenta e súbita, &lt;strong&gt;síndrome febril&lt;/strong&gt; e &lt;strong&gt;toxemia&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Quando o processo está confinado ao retossigmoide, as fezes estão normais ou endurecidas, podendo haver &lt;strong&gt;constipação&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Se o processo for mais difuso, estendendo-se de forma &lt;strong&gt;proximal&lt;/strong&gt;, as &lt;strong&gt;fezes tornam-se amolecidas&lt;/strong&gt;, e sobrevém &lt;strong&gt;diarreia&lt;/strong&gt;, &lt;strong&gt;cólicas&lt;/strong&gt; intensas e
-tenesmo. Com defecação de sangue, muco e pus.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Diagnóstico Diferencial:&lt;/strong&gt; Crohn, Enterocolite infeciosa, CA de cólon, doença diverticular, úlcera retal solitária, sindrome do intestino irritável.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;exames-laboratoriais&quot;&gt;Exames laboratoriais&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;PCR&lt;/li&gt;
-  &lt;li&gt;VSH&lt;/li&gt;
-  &lt;li&gt;p-ANCA (mais elevado na RCU) e ASCA&lt;/li&gt;
-  &lt;li&gt;Calprotectina fetal: é uma proteína produzida no processo inflamatório do colon. Indica lesão de mucosa colônica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A anormalidade laboratorial mais comum é a &lt;span class=&quot;orange&quot;&gt;anemia ferropriva por perda crônica de sangue&lt;/span&gt;. Nas colites extensas pode haver &lt;span class=&quot;green&quot;&gt;hipoalbuminemia&lt;/span&gt; devido à perda de proteína por exsudação a partir de um cólon inflamado.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Colonoscopia e retossigmoidoscopia: não fazer na fase aguda do quadro clínico! muito menos o enema opaco. Têm que saber a hora certa de fazer.&lt;/li&gt;
-  &lt;li&gt;Histologia&lt;/li&gt;
-  &lt;li&gt;Radiologia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;radiografia&quot;&gt;Radiografia&lt;/h3&gt;
-
-&lt;p&gt;Podem ser observados: perda das haustrações, espessamento da musculatura lisa com aspécto de &lt;strong&gt;“cano de chumbo”&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Nas formas graves é possível ver encurtamento do órgão e perda de haustrações e alterações do relevo mucoso.&lt;/p&gt;
-
-&lt;p&gt;Sinais de complicação: dilatação e perfuração (&lt;strong&gt;megacólon tóxico&lt;/strong&gt;) e pneumoperitônio. Perfuração, sendo visível o &lt;strong&gt;sinal de  Jobert&lt;/strong&gt; (pneumoperitônio).&lt;/p&gt;
-
-&lt;h3 id=&quot;histologia&quot;&gt;Histologia&lt;/h3&gt;
-
-&lt;p&gt;O reto está envolvido, não ocorrem fístulas, perda do padrão vascular, lesão com padrão contínuo (padrão em &lt;em&gt;coblestone&lt;/em&gt;), eritema difuso, granularidade da mucosa.&lt;/p&gt;
-
-&lt;h3 id=&quot;enema-opaco-com-duplo-contraste&quot;&gt;Enema opaco com duplo contraste&lt;/h3&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Induzir e manter a remissão. As drogas mais usadas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aminosalicilatos (5ASA)
-    &lt;ul&gt;
-      &lt;li&gt;Sulfassalazina&lt;/li&gt;
-      &lt;li&gt;Mesalazina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Corticóides: não são drogas de manutenção
-    &lt;ul&gt;
-      &lt;li&gt;Prednisona&lt;/li&gt;
-      &lt;li&gt;Hidrocortisona/metilprednisolona&lt;/li&gt;
-      &lt;li&gt;Enema de hidrocortisona, espuma de cortisona&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Imunossupressores: leva 3 meses para fazer efeito. Logo, não deve ser usada para tratamento de crise.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Com o tratamento, a recuperação tipicamente
-começa pela extremidade mais proximal (perto do delgado), sendo o reto o último segmento a apresentar melhora.&lt;/p&gt;
-
-&lt;p&gt;Diferentemente do Crohn, a RCU pode ser curada cirurgicamente com a ressecção do cólon.&lt;/p&gt;
-
-&lt;p&gt;Indicações de cirurgia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Agudização grave sem resposta ao tratamento medicamrntoso&lt;/li&gt;
-  &lt;li&gt;Complicações agudas&lt;/li&gt;
-  &lt;li&gt;Displasia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;vigilância&quot;&gt;Vigilância&lt;/h2&gt;
-
-&lt;p&gt;Devido ao risco de câncer, o rastreio é recomendado:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Colonoscopia anual após 8 a 10 anos de doença
-    &lt;ul&gt;
-      &lt;li&gt;Risco de CA de cólon aumenta 1% ao ano após 10 anos de doença extensa;&lt;/li&gt;
-      &lt;li&gt;Risco aumenta 1% após 30 anos de doença distal.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
-
-&lt;p&gt;Expectativa de vida igual à da população geral. O maior problema está na morbidade. 80% têm doença crônica recidivante, 15% vão ter uma colite crônica com indicação de colectomia e 5% vão ter indicação de colectomia já na primeira crise.&lt;/p&gt;
-
-&lt;h1 id=&quot;doença-de-chron&quot;&gt;Doença de Chron&lt;/h1&gt;
-
-&lt;p&gt;Normalmente não acomete o intestino grosso. &lt;span class=&quot;red&quot;&gt;Costuma poupar o reto&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Caráter inflamatório assimétrico.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Acomete todas as camadas do intestino (transmural).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;O granuloma fora do intestino pode ser uma marca da doença de Crohcn.&lt;/p&gt;
-
-&lt;p&gt;Maior risco de estenose do que a RCU.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia-1&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;Apresenta uma discreta predominância em mulheres.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia-2&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;A DC pode acometer qualquer parte do tubo digestivo, desde a boca até o ânus (a RCU acomete somente o cólon, principalmente suas porções mais distais).&lt;/p&gt;
-
-&lt;p&gt;Alterações microscópicas frequentemente são
-encontradas à distância dos locais onde estão
-as alterações macroscópicas, ou seja, a DC
-não acomete o trato intestinal de forma homogênea, contínua. Este fato, associado às
-recidivas após ressecções segmentares, sugere que alterações sutis da mucosa estejam presentes ao longo de todo o trato gastrointestinal dos portadores desta condição.&lt;/p&gt;
-
-&lt;p class=&quot;alert aviso-red&quot;&gt;Acometimento macroscópico em diferentes locais ao mesmo tempo, isto é, separados por trechos de mucosa normal (&lt;em&gt;skip lesions&lt;/em&gt; ou “&lt;b&gt;lesões salteadas&lt;/b&gt;”). Ou seja, é característicamente &lt;span class=&quot;blue&quot;&gt;descontínua&lt;/span&gt; e &lt;span class=&quot;blue&quot;&gt;focal&lt;/span&gt; (tanto micro quanto macroscopcamente)!&lt;/p&gt;
-
-&lt;p&gt;As lesões são tipicamente &lt;span class=&quot;red&quot;&gt;transmurais&lt;/span&gt;, podendo haver espessamento da parede intestinal com &lt;strong&gt;estreitamento do lúmem em formação de estenoses&lt;/strong&gt;. Essa caractetística também promove a formação de &lt;span class=&quot;green&quot;&gt;fístulas&lt;/span&gt; para o mesentério e órgãos contíguos.&lt;/p&gt;
-
-&lt;p&gt;A porção distal do íleo e o cólon ascendente são os mais
-comprometidos (ileocolite, presente em 70-75% dos casos), mas outros padrões de lesão são reconhecidos:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;10-20% dos pacientes apresentam acometimento exclusivo do cólon (colite de Crohn ou colite granulomatosa).
-    &lt;ul&gt;
-      &lt;li&gt;O reto está preservado em 50% desses pacientes, o que raramente ocorre na RCU (dado importantíssimo para o diagnóstico diferencial);&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;20% dos pacientes têm doença limitada ao intestino delgado (ileíte de Crohn, também chamada de “enterite regional”).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A DC geralmente se inicia com a formação das úlceras aftoides: pequenas ulcerações da mucosa que caracteristicamente se desenvolvem sobre as Placas de Peyer, no intestino delgado, ou sobre aglomerados linfoides no cólon. Estas ulcerações aftoides podem evoluir de 2 maneiras:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Extensão lateral de forma linear, retilínea: quando várias úlceras progredindo retilineamente se encontram, geralmente passam a separar áreas de mucosa normal, num aspecto de “pedras de calçamento”&lt;/li&gt;
-  &lt;li&gt;Aprofundamento através das camadas da parede intestinal, resultando em fístulas para o mesentério e órgãos vizinhos.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/crohn.jpeg&quot; alt=&quot;Crohn&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Uma pequena porcentagem (5%) tem comprometimento predominante na cavidade oral (úlceras aftoides) ou mucosa gastroduodenal (dor tipo ulcerosa ou síndrome de obstrução pilórica) e uma porcentagem ainda menor tem lesões em esôfago (odinofagia e disfagia) e intestino del-
-gado proximal (síndrome de má absorção).&lt;/p&gt;
-
-&lt;p&gt;Por fim, uma das alterações macroscópicas mais características da DC, que há muito já fora percebida por cirurgiões durante laparotomias ou laparoscopias, é invasão da serosa por tecido adiposo (fat wrapping)! Olhando a superfície externa de uma alça intestinal, também é possível notar a presença de pequenos nódulos esbranquiçados, conhecidos como “semente de milho”, que indicam a presença de granulomas na serosa, um achado específico da DC.&lt;/p&gt;
-
-&lt;p&gt;O gene NOD2/CARD15, se encontra fortemente associado.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;Os sinais e sintomas da DC variam de acordo com a sua localização no TGI.
-As características clínicas mais comuns da
-doença de Crohn são as de uma &lt;strong&gt;ileocolite&lt;/strong&gt;:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Diarreia crônica invasiva associada à dor abdominal;&lt;/li&gt;
-  &lt;li&gt;Sintomas gerais como febre, anorexia e perda de peso;&lt;/li&gt;
-  &lt;li&gt;Massa palpável no QID;&lt;/li&gt;
-  &lt;li&gt;Doença perianal&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A massa palpável pode ser uma &lt;strong&gt;alça intestinal edemaciada&lt;/strong&gt; ou um &lt;strong&gt;abcesso intra-abdominal&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A colite por DC possui um quadro muito semelhante ao da RCU.&lt;/li&gt;
-  &lt;li&gt;O acometimento extenso e crônico do intestino del­gado geralmente cursa com &lt;strong&gt;síndrome disabsortiva grave&lt;/strong&gt;, seguida por desnutrição e debilidade crônica;&lt;/li&gt;
-  &lt;li&gt;A DC gastroduodenal &lt;strong&gt;imita a doença ulcerosa péptica&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares-1&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;histopatologia&quot;&gt;Histopatologia&lt;/h3&gt;
-
-&lt;p&gt;&lt;span class=&quot;red&quot;&gt;Granulomas não caseosos&lt;/span&gt;, semelhantes aos da sarcoidose, podem ser encontrados em até 30% dos casos de DC. Como não
-ocorrem na RCU, o encontro desses granulomas em material de biópsia diferencia a DC da RCU!&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;A utilização de &lt;strong&gt;sulfassalazina&lt;/strong&gt; e &lt;strong&gt;corticoides&lt;/strong&gt; na
-&lt;strong&gt;gravidez&lt;/strong&gt; &lt;strong&gt;não é contraindicada&lt;/strong&gt;, uma vez que o
-risco da doença ativa é bem maior que o risco
-de complicações por estas drogas. Contudo,
-deve-se ter o cuidado de &lt;strong&gt;repor ácido fólico&lt;/strong&gt; (1
-mg 2x dia), se possível, desde o período pré-concepção, pois a sulfassalazina interfere com a absorção desta substância. O uso de azatioprina ou 6-MP está associado a aumento no risco de malformação fetal.&lt;/p&gt;
-
-&lt;h1 id=&quot;complicações-da-dii&quot;&gt;Complicações da DII&lt;/h1&gt;
-
-&lt;h4 id=&quot;sangramento&quot;&gt;Sangramento&lt;/h4&gt;
-
-&lt;p&gt;A pesquisa de &lt;strong&gt;sangue oculto&lt;/strong&gt; é geralmente positiva em pacientes com DC, mas sangramentos macroscópicos (hematoquezia) são muito mais frequentes na RCU do que na DC. Sangramentos visíveis na DC são mais comuns na colite de Crohn do que na ileocolite. Sangramentos maciços são raros na DC.&lt;/p&gt;
-
-&lt;h4 id=&quot;megacólon-tóxico&quot;&gt;Megacólon tóxico&lt;/h4&gt;
-
-&lt;p&gt;Ocorre quando a inflamação compromete a camada muscular, levando à perda de seu tônus intrínseco e consequente
-adelgaçamento da parede intestinal. Todo o cólon (ou segmentos dele) pode se dilatar. Em geral, a dilatação colônica predomina no transverso e no cólon direito.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;O megacólon tóxico deve ser temido em todo paciente com colite grave.&lt;/div&gt;
-
-&lt;p&gt;Uma dilatação colônica com diâmetro superior a 6 cm na radiografia simples de abdome, quando associada à dor abdominal (espontânea ou à descompressão), febre alta
-e diminuição da peristalse, é diagnóstica de megacólon tóxico.&lt;/p&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-  &lt;p&gt;&lt;strong&gt;Critérios diagnósticos de megacólon tóxico:&lt;/strong&gt;&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Evidências radiográficas de distensão colônica (&amp;gt; 6 cm)&lt;/li&gt;
-    &lt;li&gt;Pelo menos 3 dos seguintes critérios:
-      &lt;ul&gt;
-        &lt;li&gt;Febre &amp;gt; 38°C;&lt;/li&gt;
-        &lt;li&gt;Frequência cardíaca &amp;gt; 120 bpm/min;&lt;/li&gt;
-        &lt;li&gt;Leucocitose com neutrofilia;&lt;/li&gt;
-        &lt;li&gt;Anemia&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;Além dos critérios acima, pelo menos 1 dos seguintes:
-      &lt;ul&gt;
-        &lt;li&gt;Desidratação;&lt;/li&gt;
-        &lt;li&gt;Alteração do nível de consciência;&lt;/li&gt;
-        &lt;li&gt;Distúrbios eletrolíticos;&lt;/li&gt;
-        &lt;li&gt;Hipotensão arterial.&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;As radiografias mostram acúmulo intraluminal de gás, num cólon dilatado. Eventualmente há ar dentro da parede intestinal (pneumatose intestinal)!&lt;/p&gt;
-
-&lt;p&gt;Como resultado do enfraquecimento da parede
-intestinal, as complicações do megacólon incluem perfuração e peritonite séptica.&lt;/p&gt;
-
-&lt;p&gt;O megacólon tóxico deve ser tratado de forma
-clínica intensiva, logo nos primeiros estágios
-(ver adiante). A ausência de resposta em 12 a
-24h pode indicar colectomia, evitando a alta
-morbimortalidade de uma perfuração.&lt;/p&gt;
-
-&lt;p&gt;Outras causas de megacólon tóxico além de RCU e DC:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Infecciosas
-    &lt;ul&gt;
-      &lt;li&gt;Bacterianas:
-        &lt;ul&gt;
-          &lt;li&gt;Clostridium difficile;&lt;/li&gt;
-          &lt;li&gt;Salmonella (tifoide e não tifoide);&lt;/li&gt;
-          &lt;li&gt;Shigella;&lt;/li&gt;
-          &lt;li&gt;Campylobacter;&lt;/li&gt;
-          &lt;li&gt;Yersinia.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Parasitárias:
-        &lt;ul&gt;
-          &lt;li&gt;Entamoeba histolytica;&lt;/li&gt;
-          &lt;li&gt;Cryptosporidium.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Virais:
-        &lt;ul&gt;
-          &lt;li&gt;Citomegalovírus.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Outras
-    &lt;ul&gt;
-      &lt;li&gt;Colite pseudomembranosa.&lt;/li&gt;
-      &lt;li&gt;Sarcoma de Kaposi.&lt;/li&gt;
-      &lt;li&gt;Colite isquêmica.&lt;/li&gt;
-      &lt;li&gt;Vólvulos.&lt;/li&gt;
-      &lt;li&gt;Neoplasia obstrutiva de cólon.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;estenoses&quot;&gt;Estenoses&lt;/h4&gt;
-
-&lt;p&gt;As estenoses costumam resultar do comprometimento repetitivo e grave dos planos profundos da parede intestinal e, por isso são mais comuns na DC.&lt;/p&gt;
-
-&lt;p&gt;Nessas situações, predominam os sintomas de obstrução, como cólica e distensção abdominal, constipação/diarreia paradoxal e massa palpável (refletindo ou uma alça intestinal de diâmetro aumentado, geralmente dolorosa à
-palpação, ou um abscesso intra-abdominal).&lt;/p&gt;
-
-&lt;h4 id=&quot;fístulas&quot;&gt;Fístulas&lt;/h4&gt;
-
-&lt;p&gt;Fístulas transmurais são muito presentes e típicas da DC. Fístulas colo-vesicais podem cursar com &lt;strong&gt;cistites&lt;/strong&gt; de repetição, &lt;strong&gt;fecalúria&lt;/strong&gt; e &lt;strong&gt;pneumatúria&lt;/strong&gt;. Um terço dos pacientes com DC tem doença perianal (fístulas, fissuras, abscessos).&lt;/p&gt;
-
-&lt;p&gt;As fístulas mais comumente
-encontradas na DC são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Enteroentéricas;&lt;/li&gt;
-  &lt;li&gt;Enterovesicais;&lt;/li&gt;
-  &lt;li&gt;Enteromesentéricas;&lt;/li&gt;
-  &lt;li&gt;Enterocutâneas;&lt;/li&gt;
-  &lt;li&gt;Retovaginais;&lt;/li&gt;
-  &lt;li&gt;Fístulas e abscessos perianais.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Uma forma clássica de apresentação da DC é aquela na qual um paciente que foi submetido a uma apendicectomia (diagnóstico equivocado de apendicite, quando na verdade o que ele tem é DC) evolui no pós-operatório com uma fístula enterocutânea proveniente da região manipulada durante o ato operatório.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;câncer&quot;&gt;Câncer&lt;/h4&gt;
-
-&lt;p&gt;Tanto a DC como a RCU podem aumentar a incidência de adenocarcinoma intestinal, mas há maior relação com a RCU. Os principais fatores de risco são a extensão e duração da DII.&lt;/p&gt;
-
-&lt;p&gt;O adenocarcinoma colorretal pode ocorrer em
-pacientes com RCU de longa duração (&amp;gt; 8
-anos). O risco parece ser ainda maior quando
-existe colangite esclerosante associada!&lt;/p&gt;
-
-&lt;p&gt;A displasia da mucosa, lesão precursora, pode
-ser identificada em biópsias guiadas por colonoscopia, e deve ser diferenciada das alterações
-inflamatórias e regenerativas.&lt;/p&gt;
-
-&lt;p&gt;Colonoscopias e biópsias “de vigilância”, realizadas em toda a extensão do cólon, deverão ser
-iniciadas depois de oito anos de vigência da
-RCU, e repetidas a cada um a dois anos. Isto tanto para a DC como para a RCU.&lt;/p&gt;
-
-&lt;p&gt;Uma displasia epitelial confirmada constitui
-indicação de colectomia, pois processos malignos são frequentemente identificados em
-pontos diferentes dos da displasia. Atualmente
-se recomenda, para a RCU de longa duração,
-a realização de exames periódicos para detecção precoce de displasias e neoplasias.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-yellow&quot;&gt;Em pacientes com DII, também há um pequeno aumento da incidência de leucemia,
-linfoma e carcinoma de vias biliares.
-&lt;/div&gt;
-
-&lt;h2 id=&quot;manifestações-extra-intestinais&quot;&gt;Manifestações extra-intestinais&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Articulares (25%): edema, artralgia, artrite aguda;
-    &lt;ul&gt;
-      &lt;li&gt;Mais comum em pacientes com acometimento do cólon, seja DC ou RCU;&lt;/li&gt;
-      &lt;li&gt;Podem ter padrão central ou periférico;&lt;/li&gt;
-      &lt;li&gt;Qualquer articulação pode ser acometida: são as mais afetadas;&lt;/li&gt;
-      &lt;li&gt;A artrite não é deformante e pode ter caráter migratório semelhante à febre reumática.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cutaneomucosas (25%): também mais comuns quando o  cólon é acometido;
-    &lt;ul&gt;
-      &lt;li&gt;Eritema nodoso: mais comum em mulheres e relacionado à intensidade da doença;&lt;/li&gt;
-      &lt;li&gt;Pioderma gangrenoso: mais comum na RCU, sem correlação com a atividade da doença;&lt;/li&gt;
-      &lt;li&gt;Estomatite: lesões labiais e úlceras aftosas orais.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Oculares (5%):  uveíte, conjutivite e episclerite;
-    &lt;ul&gt;
-      &lt;li&gt;Apenas a uveíte não se relaciona com a atividade da doença;&lt;/li&gt;
-      &lt;li&gt;As demais melhoram com a colectomia.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-  &lt;p&gt;&lt;span class=&quot;green&quot;&gt;Sempre associados à atividade da doença intestinal:
-&lt;/span&gt;&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Artrite periférica;&lt;/li&gt;
-    &lt;li&gt;Eritema nodoso;&lt;/li&gt;
-    &lt;li&gt;Episclerite.&lt;/li&gt;
-  &lt;/ul&gt;
-
-  &lt;p&gt;&lt;span class=&quot;red&quot;&gt;Em geral Não associados à atividade da doença
-intestinal:&lt;/span&gt;&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Espondilite anquilosante;&lt;/li&gt;
-    &lt;li&gt;Pioderma gangrenoso;&lt;/li&gt;
-    &lt;li&gt;Uveíte.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hepáticas e biliares
-    &lt;ul&gt;
-      &lt;li&gt;Alterações nas PFH: hepatite focal ou esteatose hepática (por desnutrição e terapia com corticoides), gerlamente involuem com o tratamento da doença de base;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Pericolangite&lt;/strong&gt;: (triadite portal) é uma inflamação dos canalículos biliares intra-hepáticos não progressiva, e que se manifesta geralmente por discreta elevação da FA.
-        &lt;ul&gt;
-          &lt;li&gt;Costuma ser clinicamente inaparente, a BT permanece normal, e a inflamação se restringe às tríades portais.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Colangite esclerosante&lt;/strong&gt;: rara (3%), forma progressiva de inflamação das vias biliares, que acomete a árvore biliar intra e/ou extra-hepática, e que pode produzir graus variáveis de obstrução biliar.
-        &lt;ul&gt;
-          &lt;li&gt;Clínica: icterícia assintomática ou episódios intermitentes de colangite.&lt;/li&gt;
-          &lt;li&gt;Os níveis de aminotransferases e FA geralmente estão muito elevados, e o diagnóstico deve ser dado ou por CPRE ou por colangiografia trans-hepática.&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;A doença é progressiva independentemente do curso da DII&lt;/strong&gt;;&lt;/li&gt;
-          &lt;li&gt;Não há tratamento que comprovadamente modifique a história natural da doença e pode ser necessário um transplante hepático;&lt;/li&gt;
-          &lt;li&gt;&lt;span class=&quot;red&quot;&gt;É o principal fator de risco para o surgimento de colangiocarcinoma&lt;/span&gt;;&lt;/li&gt;
-          &lt;li&gt;com cirrose biliar associada pode estar presentes;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Renais
-    &lt;ul&gt;
-      &lt;li&gt;Cálculos de Oxalato de Cálcio: devido à má absorção e à esteatorreia, resultando em hiperoxalúria. São uma complicação particular da &lt;strong&gt;enterite por DC&lt;/strong&gt;;&lt;/li&gt;
-      &lt;li&gt;Cálculos de Ácido Úrico: relacionados à desidratação em pacientes com diarreia ou ileostomia;&lt;/li&gt;
-      &lt;li&gt;Uropatia Obstrutiva&lt;/li&gt;
-      &lt;li&gt;Fístulas para a bexiga na DC: tais fístulas costumam se manifestar por polaciúria, disúria, piúria e cistites recorrentes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;O cálcio alimentar, em condições normais, se liga ao oxalato dentro da luz intestinal, num composto pouco absorvível pela mucosa do delgado, que acaba sendo eliminado nas fezes. Quando existe má absorção, grande parte do cálcio passa a se ligar aos ácidos graxos, deixando o oxalato livre para ser absorvido.&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ósseas: osteoporose (por redução da absorção intestinal da vitamina D e pelo uso de corticoesteroides), osteomalácia.&lt;/li&gt;
-  &lt;li&gt;Metabólicos: perda de peso, retardo do crescimento em crianças, enteropatia perdedora de proteínas, desnutrição com hipoalbuminemia, deficiências vitamínicas (mais na DC).&lt;/li&gt;
-  &lt;li&gt;Tromboembólicas: estado de  hipercoagulabilidade apresentando-se como trombose venosa profunda e/ou embolia pulmonar, AVE ou embolia arterial.
-    &lt;ul&gt;
-      &lt;li&gt;Redução dos níveis de proteína S e antitrombina III, assim como aumento dos níveis de fator VIII, V e I (fibrinogênio), são alterações que podem justificar esta grave complicação.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h1&gt;
-
-&lt;p&gt;Um clister opaco contrastado com ar (duplo
-contraste) pode revelar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Na RCU:
-    &lt;ul&gt;
-      &lt;li&gt;Ausência de haustros;&lt;/li&gt;
-      &lt;li&gt;Granularidade difusa em áreas contíguas;&lt;/li&gt;
-      &lt;li&gt;Ulcerações superficiais;&lt;/li&gt;
-      &lt;li&gt;Pseudopólipos;&lt;/li&gt;
-      &lt;li&gt;Cólon em aspecto tubular (cano de chumbo).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Na DC:
-    &lt;ul&gt;
-      &lt;li&gt;Ulcerações assimétricas e focais;&lt;/li&gt;
-      &lt;li&gt;Fístulas;&lt;/li&gt;
-      &lt;li&gt;Preservação do reto;&lt;/li&gt;
-      &lt;li&gt;Íleo terminal comprometido, com refluxo do bário.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O trânsito de delgado ou enteróclise (exame contrastado do delgado) era classicamente utilizado para demonstrar a extensão do acometimento do delgado pela DC, mas não tem valor na RCU desacompanhada de ileíte de refluxo.&lt;/p&gt;
-
-&lt;p&gt;Nos dias de hoje, entretanto, métodos mais
-acurados como a entero-TC ou a entero-RNM
-(TC ou RNM com contraste oral + venoso,
-respectivamente) são preferíveis. Tais métodos
-identificam áreas de parede intestinal “doente”
-(aumento de espessura, hipercaptação focal de
-contraste), sendo obtidos de forma mais rápida
-do que um trânsito de delgado, além de garantir a visualização de TODO o tubo digestivo
-(delgado + cólon).&lt;/p&gt;
-
-&lt;h2 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;ASCA (+) e p-ANCA (-): 97% de especificidade e 49% de sensibilidade para o diagnóstico de DC.&lt;/li&gt;
-  &lt;li&gt;ASCA (-) e p-ANCA (+): 97% de especificidade e 57% de sensibilidade para o diagnóstico de RCU.&lt;/li&gt;
-  &lt;li&gt;Anti-OmpC (+) e anti-CBir1 (+): sugestivo de DC.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;p-anca&quot;&gt;p-ANCA&lt;/h3&gt;
-
-&lt;p&gt;Anticorpo anticitoplasma de neutrófilo, padrão
-perinuclear de imunofluorescência. Está presente em cerca de 60-70% dos pacientes com RCU e em apenas 5-10% de pacientes com DC. A presença deste autoanticorpo relaciona-se mais frequentemente com pancolite, cirurgia
-precoce e evolução para colangite esclerosante primária (isto é, ele indica um pior prognóstico).&lt;/p&gt;
-
-&lt;h3 id=&quot;asca&quot;&gt;ASCA&lt;/h3&gt;
-
-&lt;p&gt;Anti-Saccharomyces cerevisiae. São encontrados em cerca
-de 60-70% de indivíduos com a DC e em 10-15% de pacientes com RCU.&lt;/p&gt;
-
-&lt;h2 id=&quot;rcu&quot;&gt;RCU&lt;/h2&gt;
-
-&lt;p class=&quot;alert aviso-red&quot;&gt;A retossigmoideoscopia com biópsias é o exame de escolha!
-&lt;/p&gt;
-
-&lt;p&gt;Praticamente todos os pacientes apresentam lesão inflamatória do reto (proctite), e a maioria também do cólon sigmoide (proctossigmoidite). Encontraremos um
-comprometimento uniforme e contínuo, manifestado por perda do padrão vascular da mucosa, exsudatos, friabilidade, ulcerações, granulosidade e, nos casos de doença de longa data, os pseudopólipos.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;colonoscopia com biópsias&lt;/strong&gt; é indicada na suspeita de doença grave (mais de 6 evacuações diárias ou sinais sistêmicos), embora seja contraindicada na suspei-
-ta de megacólon tóxico.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;histopatológico&lt;/strong&gt; revela distorção das criptas, infiltrado inflamatório mononuclear (linfoplasmocitário) na lâmina própria e abscesso das criptas com acúmulo de neutrófilos no epitélio.&lt;/p&gt;
-
-&lt;h2 id=&quot;dc&quot;&gt;DC&lt;/h2&gt;
-
-&lt;p class=&quot;alert aviso-red&quot;&gt;A ileocolonoscopia com biópsias é o exame de escolha!&lt;/p&gt;
-
-&lt;p&gt;A grande maioria dos pacientes
-com doença de Crohn apresenta acometimento
-do íleo terminal e do cólon ascendente ou ceco.&lt;/p&gt;
-
-&lt;p&gt;Encontraremos um comprometimento salteado
-(áreas doentes alternadas com áreas sãs), manifesto por úlceras aftosas que, quando coalescentes, dão o aspecto de “pedras de calçamento (paralelepípedo)”.&lt;/p&gt;
-
-&lt;p&gt;O histopatológico é semelhante ao encontrado na RCU, porém, podem ser encontrados granulomas não caseosos,
-que no contexto apropriado são patognomôni-
-cos de Crohn.&lt;/p&gt;
-
-&lt;h1 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h1&gt;
-
-&lt;p&gt;Os medicamentos são os mesmos para a DC e a RCU. As principais drogas são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Derivados do ácido 5-aminosalicílico (5-ASA): anti-inflamatório de ação TÓPICA na mucosa intestinal;
-    &lt;ul&gt;
-      &lt;li&gt;podem ser usadas tanto na indução da remissão quanto na manutenção da remissão.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Glicocorticoides;&lt;/li&gt;
-  &lt;li&gt;Imunomoduladores;&lt;/li&gt;
-  &lt;li&gt;Agentes “biológicos”.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;outras-coisas&quot;&gt;Outras coisas&lt;/h1&gt;
-
-&lt;p&gt;Esses doentes têm mais chance de desenvolver colelitíase, pois altera a absorção de sais biliares. A bile, por consequência, se torna mais litogênica.&lt;/p&gt;
-
-&lt;p&gt;A tuberculose intestinal pode ser um diagnóstico diferencial com a doença de crohn. A melhor diferenciação é o histopatológico. O granuloma do Crhon é não caseoso.&lt;/p&gt;
-
-&lt;p&gt;O paciente com Crohn que faz cirurgia evolui muito mal.&lt;/p&gt;
-
-&lt;p&gt;As manifestações extraintestinais da DC são
-semelhantes às da RCU e tendem a ser mais
-frequentes nos pacientes com comprometimento colônico.&lt;/p&gt;
+&lt;p&gt;Nas hemorróidas, realiza-se a ligadura elástica ou faz-se a escleroterapia.&lt;/p&gt;
 
 &lt;h1 id=&quot;referências&quot;&gt;Referências&lt;/h1&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:esberard2012&quot;&gt;
-      &lt;p&gt;Esberard BC. Etiopatogenia das doenças inflamatórias intestinais. Revista Hospital Universitário Pedro Ernesto. 2012;11(4):13-16 &lt;a href=&quot;#fnref:esberard2012&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:aula&quot;&gt;
-      &lt;p&gt;Aula de Dr. Severino &lt;a href=&quot;#fnref:aula&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;ol&gt;
+  &lt;li&gt;Emergências clínicas - USP. 13 ed.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Muito mais comum que a HDB, a HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.</summary></entry></feed>

@@ -116,7 +116,7 @@ Raramente o paciente pode evoluir com formas mais graves e desenvolver icteríci
 
 ### Fase crônica
 
-Na maioria das vezes é assintomática. Nessa fase, a <span class="red">eosinofilia não é tão frequente</span>, o que dificulta ainda mais a suspeita do diagnóstico.
+Na maioria das vezes é assintomática. Nessa fase, a <span class="red">eosinofilia não é tão frequente</span>, o que dificulta ainda mais a suspeita do diagnóstico. É mínima a frequência de ascite, encefalopatia e icterícia nesses pacientes.
 
 #### Forma hepatointestinal
 Mais comum entre as crianças e os adultos jovens (5 a 20 anos). Decorre da presença de ovos no espaço porta e na mucosa colorretal. Pode assumir, ainda, uma forma intestinal pura ou uma forma hepatointestinal propriamente dita. Os sinais e sintomas são muito variados e poucos específicos.
@@ -139,15 +139,16 @@ Faz diagnóstico diferencial com: RCU, DC, colites parasitárias, disenterias ba
 
 #### Forma hepatoesplênica
 
-Essa é a forma mais importante! É definida como a presença de <span class="blue">esplenomegalia mais a hipertensão porta</span>. Apenas 5% a 7% dos infestados possuem essa forma.
+Essa é a forma mais importante! É definida como a presença de <span class="blue">esplenomegalia mais a hipertensão porta</span>. **Apenas 5% a 7%** dos infestados possuem essa forma.
 
 Como há HP, todos seus sintomas secundários podem estar presentes (como varizes de esôfago e etc). O desenvolvimento de <span class="red">ascite não é comum</span> pois a obstrução porta é **pré-sinusoidal**.
 
 <p class="caixa-title">Sinais e sintomas</p><div class="caixa" markdown="1">
 * Esplenomegalia;
 * Hepatomegalia de consistência endurecida e nodular com maior aumento do lobo esquerdo (sob apêndice xifoide);
+  * Rreflete a presença da inflamação granulomatosa e ocorre precocemente na evolução na doença crônica.
 * Sinais de HP:
-  * Hematêmese (rotura de VVEE);
+  * Hematêmese (rotura de VVEE): a principal complicação;
   * Melena;
   * Circulação colateral do tipo porto-cava;
 * Desconforto abdominal progressivo.
@@ -191,8 +192,10 @@ pólipos únicos ou múltiplos, estenoses ou vegetações tumorais, as quais cre
 A função hepatocelular encontra-se preservada até os estágios avançados da doença.[^tratado]
 
 * <span class="green">Eosinofilia</span> intensa (na fase aguda) ou discreta;
-* Leucopenia e plaquetopenia;
+* Leucopenia e plaquetopenia (por retenção de plaquetas no baço);
+* Alargamento do tempo de protrombina;
 * Anemia hemolítica por hiperesplenismo é incomum;
+* Pancitopenia em  alguns pacientes com esplenomegalia;
 * VHS como regra está bem elevado;
 * Hipergamaglobulinemia.
 
@@ -217,10 +220,13 @@ Mais empregadas na fase crônica, pois positivam após 25 dias de infestação.
 
 ### Imagem
 
+A fibrose periportal pode ser vista na USG, TC ou RM.
+
 * Radiografia de tórax: avaliar a forma pulmonar;
 * ECG: avaliar também a forma vasculopulmonar;
 * USG abdominal: avaliar a forma hepatoesplênica;
 * EDA e EDB: avaliar a forma hepatoesplênica.
+* RM: fibrose periportal, heterogeneidade do parênquima hepático e presença de nódulos sideróticos esplênicos,
 
 ## Tratamento
 

@@ -45,6 +45,18 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/gastroenterologia/diarreia.html',
+      
+        '/cirurgia/ca-esofago.html',
+      
+        '/linfoma.html',
+      
+        '/pediatria/constipacao-intestinal.html',
+      
+        '/gastroenterologia/constipacao-intestinal.html',
+      
+        '/pediatria/hidratacao-e-disturbio-acido-basico.html',
+      
         '/cirurgia/sepsis-abdominal.html',
       
         '/gastroenterologia/hemorragia-digestiva.html',
@@ -313,6 +325,8 @@ self.addEventListener('install', function (event) {
         '/assets/gastro/fibrose-symmers.jpg'
       
         '/assets/gastro/fibrose-symmers2.jpg'
+      
+        '/assets/gastro/forrester.jpeg'
       
         '/assets/gastro/hepb-aguda-grafico.jpeg'
       
@@ -775,6 +789,10 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/vacina.jpeg'
       
         '/assets/obstetricia/vacina2.jpeg'
+      
+        '/assets/pediatria/diarreia1.jpeg'
+      
+        '/assets/pediatria/diarreia2.jpeg'
       
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       
