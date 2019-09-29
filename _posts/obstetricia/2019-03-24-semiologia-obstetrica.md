@@ -49,7 +49,7 @@ Importante conhecer tanto a história da puberdade da paciente como as suas grav
 		- Mães primíparas ou multíparas com mais de 4 partos apresentam maior risco de complicações na gravidez.
 	- __Nuligesta__ é a mulher que nunca esteve grávida e __Nulípara__ a mulher que nunca pariu;
 	- Gestações gemelares continuam contando como uma única gestação e como um único parto;
-	- Intervalo interparta: os riscos diminuem quando o intervalo é menor que 2 anos.
+	- **Intervalo interpartal:** Os riscos reprodutivos estão reduzidos quando o intervalo entre os partos é de, no mínimo, 2 anos.
 - Interrogar intercorrências nas gestações passadas, e condições do aleitamento.
 
 ### História da gravidez atual
@@ -155,7 +155,7 @@ A concentração do hCG atinge seu máximo com 10 semanas de amenorreia, com mé
 	* Diagnóstico e acompanhamento da gravidez ectópica
 	* Diagnóstico e acompanhamento da doença trofoblástica gestacional
 
-<!-- Colocar o gráfico do hCG aqui-->
+![HCG](/assets/obstetricia/hcg.jpeg)
 
 ### Outros
 

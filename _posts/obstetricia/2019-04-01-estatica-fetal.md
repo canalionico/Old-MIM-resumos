@@ -17,7 +17,7 @@ O feto se mantêm em atitude de flexão generalizada, com a coluna vertebral cur
 
 Essa ovoide possui dois polos, o __polo cefálico__ e o __polo pélvico__, sendo o pélvico o maior. Neste momento, o polo pélvico é maior que o cefálico.
 
-![Ovoide fetal com dois polos](/resumos/assets/imagens/estatica-fetal/ovoide-fetal.png)
+![Ovoide fetal com dois polos](/assets/imagens/estatica-fetal/ovoide-fetal.png)
 
 A atitude da cabeça varia muito durante a apresentação pélvica. Pode estar ligeiramente fletida, com o mento próximo ao manúbrio, indiferente ou em deflexão. Nenhuma delas possui significado prognóstico.
 
@@ -48,7 +48,7 @@ Fontanelas:
 Para o parto adequado a cabeça precisa ser fletida de modo a se apresentar com o seu maior diâmetro na direção de saída da vagina (no caso, o diâmetro subocciptobregmatico).
 
 
-![Crânio de um feto](/resumos/assets/imagens/estatica-fetal/cranio-feto.jpg)
+![Crânio de um feto](/assets/imagens/estatica-fetal/cranio-feto.jpg)
 
 __Tronco:__  ...
 
@@ -64,7 +64,7 @@ __Tronco:__  ...
 
 _Mutação ou versão:_ é quando há transformação de uma apresentação para outra. Após o 6 mês o feto "da uma cambalhota" trocando da apresentação pélvica para a cefálica.
 
-![Principais diâmetros do crânio fetal](/resumos/assets/imagens/estatica-fetal/diam.png)
+![Principais diâmetros do crânio fetal](/assets/imagens/estatica-fetal/diam.png)
 
 Na situação transversa a apresentação é sempre córmica. Já nas situações longitudinais, a apresentação pode ser cefálica (maioria) ou pélvica.
 
@@ -92,12 +92,12 @@ Chama-se, assim, insinuação ou encaixamento a passagem, pelo estreito superior
 A travessia dessa região estreita da bacia se obtém pela redução dimensória sinalada, e por
 movimento de inclinação lateral da apresentação a que se denomina __assinclitismo__. A ausência da flexão lateral, mantendo-se a sutura sagital equidistante do sacro e do púbis, condiciona o __sinclitismo__.
 
-![](/resumos/assets/imagens/estatica-fetal/assin.png)
+![](/assets/imagens/estatica-fetal/assin.png)
 
 #### De acordo com os planos de DeLee
 Considera o __diâmetro biespinha ciática__, ou linha interespinhosa, como o plano 0 de referência. Cada centímetro acima é negativo e cada centímetro abaixo é positivo. Vai dos valores -5 até +5.
 
-![](/resumos/assets/imagens/estatica-fetal/delee.png)
+![](/assets/imagens/estatica-fetal/delee.png)
 
 ## Posição
 É a relação do dorso fetal com o lado direito ou esquerda materno.
@@ -139,7 +139,7 @@ Formada por duas ou três letras.
 
 __Atenção:__ Pode haver confusão da letra P de púbis e P de posterior. Quando P é a segunda letra quer dizer púbis e quando é a terceira quer dizer posterior.
 
-![](/resumos/assets/imagens/estatica-fetal/ref.png)
+![](/assets/imagens/estatica-fetal/ref.png)
 
 Variedades de posição da apresentação cefálica fletida:
 
@@ -157,9 +157,9 @@ Para a escola alemã a posição é determinada pela localização do ovoide cef
 
 Exemplo: cefálico-esquerda dorso anterior significa que a cabeça está na fossa ilíaca esquerda e o dorso voltado para a frente, e cefálico-direita-dorso posterior, quando a cabeça está na fossa ilíaca direita, o dorso se acha voltado para trás.
 
-![](/resumos/assets/imagens/estatica-fetal/1.png)
+![](/assets/imagens/estatica-fetal/1.png)
 
-![](/resumos/assets/imagens/estatica-fetal/tab.png)
+![](/assets/imagens/estatica-fetal/tab.png)
 
 ## Referências
 [^1]: Rezendinho

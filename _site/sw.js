@@ -684,6 +684,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/hasg/tabela.jpeg'
       
+        '/assets/obstetricia/hcg.jpeg'
+      
         '/assets/obstetricia/histerotomia.jpeg'
       
         '/assets/obstetricia/histerotomias.jpeg'

@@ -20,14 +20,14 @@ O __estreito médio__ começa atrás, no ápice do sacro, passa pelas apófises 
 
 O __estreito inferior__ é composto de borda inferior dos dois púbis (revestidos pelo ligamento arcuatum), ramos isquiopúbicos (ramos descendentes do púbis e ascendentes do ísquio), tuberosidades isquiáticas, borda medial ou interna dos grandes ligamentos sacrociáticos e extremidade do cóccix (articulação sacrococcígea, depois da retropulsão do cóccix); é, portanto, ósseo e ligamentoso.
 
-![](/resumos/assets/imagens/pelviologia/estreitos.jpg)
+![](/assets/imagens/pelviologia/estreitos.jpg)
 
-![](/resumos/assets/imagens/pelviologia/e.png)
+![](/assets/imagens/pelviologia/e.png)
 
 ## Planos de Hodge
 o primeiro plano paralelo passa pela borda superior do púbis e pelo promontório; o segundo corresponde à borda inferior do púbis; o terceiro é traçado nas espinhas ciáticas; e o quarto parte da ponta do cóccix e mistura-se com o assoalho pélvico.
 
-![](/resumos/assets/imagens/pelviologia/h.png)
+![](/assets/imagens/pelviologia/h.png)
 
 
 ## Referências
