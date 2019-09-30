@@ -1,4 +1,100 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-28T19:47:42-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores de esôfago</title><link href="http://localhost:4000/cirurgia/ca-esofago.html" rel="alternate" type="text/html" title="Tumores de esôfago" /><published>2019-09-25T00:00:00-03:00</published><updated>2019-09-25T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/ca-esofago</id><content type="html" xml:base="http://localhost:4000/cirurgia/ca-esofago.html">&lt;p&gt;É um câncer de crescimento muito rápido, o oitavo mais comum no mundo e a sexta causa de morte. Os tipos principais são o adenocarcinoma e o espinocelular.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-29T20:53:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Afecções mais comuns na CIPE</title><link href="http://localhost:4000/pediatria/cipe.html" rel="alternate" type="text/html" title="Afecções mais comuns na CIPE" /><published>2019-09-29T00:00:00-03:00</published><updated>2019-09-29T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/cipe</id><content type="html" xml:base="http://localhost:4000/pediatria/cipe.html">&lt;h2 id=&quot;hérnia-umbilical&quot;&gt;Hérnia umbilical&lt;/h2&gt;
+
+&lt;p&gt;É uma protrusão do conteúdo abdominal através do anel umbilical não cicatrizado.
+A hostória natural da hérnia umbilical é fechar com algum tempo.&lt;/p&gt;
+
+&lt;p&gt;Por que ocorre?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Desenvolvimento incompleto da obliteração do cordão umbilical&lt;/li&gt;
+  &lt;li&gt;Áreas frágeis em ambos os ligamentos&lt;/li&gt;
+  &lt;li&gt;Alteração na estrutura da fáscia&lt;/li&gt;
+  &lt;li&gt;Aumento da pressão intra-abdominal é um fator determinante no aparecimento da hérnia
+    &lt;ul&gt;
+      &lt;li&gt;Por exemplo: tratamento para hidrocefalia com derivação ventrículo peritoneal;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;É o defeito mais comum na parede anterior do abdomen. É mais frequente em negros do que em brancos (6:1 a 10:1). Crianças de baixo peso e prematuros e portadores de síndromes (como Dowm, hipotireoidismo, mucopolissacaridose e síndrome de Beckwith-Wiedmann.)&lt;/p&gt;
+
+&lt;p&gt;Hérnias com até 0,5 cm tendem a fechar espontâneamente até o segundo ano de vida.
+Com mais de 1,5 cm, raramente fecha.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dor periumbilical ocasional&lt;/li&gt;
+  &lt;li&gt;É raro o encarceramento&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Conduta:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Brancos até 2 anos e negros até 4 anos: expectante&lt;/li&gt;
+  &lt;li&gt;Maior que 2 cm: indicação cirúrgica;&lt;/li&gt;
+  &lt;li&gt;Hérnia pequena mas grande saco herniário a partir dos 2 anos de idade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nas meninas deve-se indicar a cirurgia até a idade da menarca devido ao risco de gravidez e consequente aumento da pressão intra-abdominal.&lt;/p&gt;
+
+&lt;h2 id=&quot;doenças-da-persistência-do-conduto-peritônio-vaginal&quot;&gt;Doenças da persistência do conduto peritônio-vaginal&lt;/h2&gt;
+
+&lt;h3 id=&quot;hérnia-inguinal-e-inguino-escrotal&quot;&gt;Hérnia inguinal e inguino-escrotal&lt;/h3&gt;
+
+&lt;p&gt;Na criança tem mais risco de encarcerar do que no adulto. Pois na criança a hérnia é indireta, devido à presistência do canal inguinal. Logo, nelas os aneis inguinais são competentes e podem estrangular ou encarcerar uma hérnia. No adulto, a hérnia é direta e devido à incometência do anel inguinal, logo, o risco de encarcerar é menor.&lt;/p&gt;
+
+&lt;h3 id=&quot;cisto-do-cordão-espermático&quot;&gt;Cisto do cordão espermático&lt;/h3&gt;
+
+&lt;p&gt;O cisco de forma quando o cordão espermático se fecha encima e embaixo mas encarcera uma montante de líquido peritoneal no meio do caminho, formando o cisto. Pode ser comunicante (continua enchendo) ou não comunicante (não aumenta de tamanho).&lt;/p&gt;
+
+&lt;p&gt;A transiluminescência pode ser usada para diferencias o cisto do testículo.&lt;/p&gt;
+
+&lt;p&gt;Não tem complicações descritas, exceto um possível crescimento exagerado que possa comprimir o testículo e prejudicar o seu desenvolvimento.&lt;/p&gt;
+
+&lt;p class=&quot;alert aviso-red&quot;&gt;20 gotas são 1 mL.&lt;/p&gt;
+
+&lt;h3 id=&quot;hidrocele&quot;&gt;Hidrocele&lt;/h3&gt;
+
+&lt;p&gt;Pode ser comunicante ou não comunicante. Na não comunicante a túnica vaginal pode absorver o líquido. Se for comunicanete, indica-se a cirurgia.&lt;/p&gt;
+
+&lt;p&gt;Fazer o diagnóstico diferencial com filariose!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sinal da seda:&lt;/strong&gt; tentar palpar o cordão espermárico contra o púbis e sentir, após o cordão, uma fina lâmina peritoneal.&lt;/p&gt;
+
+&lt;h2 id=&quot;distopia-testicular&quot;&gt;Distopia testicular&lt;/h2&gt;
+
+&lt;p&gt;Os testiculos devem ser tópicos até os 2 anos. A partir daí a chance de malignização aumenta em 4 a 20 vezes.&lt;/p&gt;
+
+&lt;p&gt;São vários tipos: criptoquírdico, retido, ectópico, migratório (pendular ou retrátil).&lt;/p&gt;
+
+&lt;h2 id=&quot;fimose&quot;&gt;Fimose&lt;/h2&gt;
+
+&lt;p&gt;A fimose fisiológica dura até em torno de 1 ano. Entre 1 ano e 2 é possívek continuar fazendo acompanhamento clínico.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jato urinário partido&lt;/li&gt;
+  &lt;li&gt;Balonamento prepucial&lt;/li&gt;
+  &lt;li&gt;Esforço miccional&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Qual a conduta:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tratamento clínico&lt;/li&gt;
+  &lt;li&gt;Tratamento cirúrgico
+    &lt;ul&gt;
+      &lt;li&gt;Convencional&lt;/li&gt;
+      &lt;li&gt;Pastbell&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Indicações cirúrgicas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Presença de sintomas&lt;/li&gt;
+  &lt;li&gt;Balanopostite de repetição&lt;/li&gt;
+  &lt;li&gt;Parafimose&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Hérnia umbilical</summary></entry><entry><title type="html">Tumores de esôfago</title><link href="http://localhost:4000/cirurgia/ca-esofago.html" rel="alternate" type="text/html" title="Tumores de esôfago" /><published>2019-09-25T00:00:00-03:00</published><updated>2019-09-25T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/ca-esofago</id><content type="html" xml:base="http://localhost:4000/cirurgia/ca-esofago.html">&lt;p&gt;É um câncer de crescimento muito rápido, o oitavo mais comum no mundo e a sexta causa de morte. Os tipos principais são o adenocarcinoma e o espinocelular.&lt;/p&gt;
 
 &lt;p&gt;Adenocarcinoma: maior incidência em brancos e obesos. Mais comum no terço inferior. Possui relação com o tabagismo. Para portadores de DRGE o risco anual é de 0,12%. A evolução natural é a metaplasia, displasia e o adenocarcinoma.&lt;/p&gt;
 
@@ -639,233 +735,4 @@ Teratomas&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Domperidona 2 a 3 vezes ao dia.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">A dispepsia tem que ser investigada pra diferenciar a funcional da orgânica. A dispepsia funcional inclui sintomas gástricos relacionados a distúrbios fisiopatológicos de base sem qualquer substrato orgânico demonstrado até hoje. Ou seja, a investigação pela endoscopia alta é normal. Difere da gastrite, gastropatia e úlcera.</summary></entry><entry><title type="html">Hemorragia digestiva</title><link href="http://localhost:4000/gastroenterologia/hemorragia-digestiva.html" rel="alternate" type="text/html" title="Hemorragia digestiva" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/hemorragia-digestiva</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/hemorragia-digestiva.html">&lt;p&gt;Muito mais comum que a HDB, a HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;HDA: acima do ângulo de Treitz&lt;/li&gt;
-  &lt;li&gt;HDB: abaixo do ângulo de  Treitz&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Mais prevalente em homens&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-&lt;p&gt;A principal causa de HDA é a doença ulcerosa péptica (DUP).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Varicosas&lt;/strong&gt; (15%)
-    &lt;ul&gt;
-      &lt;li&gt;Varizez esofágicas (60-65%)&lt;/li&gt;
-      &lt;li&gt;Varizes gástricas (7%)&lt;/li&gt;
-      &lt;li&gt;Gastropatia congestiva (5-8%)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Não varicosas&lt;/strong&gt; (85%).
-    &lt;ul&gt;
-      &lt;li&gt;DUP (36%)&lt;/li&gt;
-      &lt;li&gt;Gastropatias (álcool e medicamentos)&lt;/li&gt;
-      &lt;li&gt;Lacerações longitudinais da submucosa na JEG (síndrome de &lt;strong&gt;Mallory-Weiss&lt;/strong&gt;)&lt;/li&gt;
-      &lt;li&gt;Esofagites (15%): raro chegar no ponto de lesão extensa ou úlceras profundas a ponto de sangrar.&lt;/li&gt;
-      &lt;li&gt;Neoplasias (3%): como o CA gástrico&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O aumento do uso de aspirina por doenças cardiovasculares pode elevar a incidência de HDA por úlceras pépticas. A infecção por &lt;em&gt;H. pylori&lt;/em&gt; e o uso de AINEs também está relacionada àos sangramentos da DUP.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;síndrome de Mallory-Weiss&lt;/strong&gt; é caracterizada
-por uma laceração na mucosa do esôfago distal à junção gastroesofágica que ocorre após repetidos esforços para vomitar. Ocorre geralmente em etilistas e gestantes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fístula aortoentérica&lt;/strong&gt; deve ser considerada em
-pacientes com sangramento profuso e cirurgia de
-aneurisma de aorta prévia, além de úlcera penetrante, invasão tumoral, trauma, radioterapia e perfuração
-por corpo estranho.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;lesão de Dieulafoy&lt;/strong&gt; é um vaso submucoso aberrante dilatado que pode erodir o epitélio de revestimento sobrejacente não associado com uma úlcera primária. O sangramento é recorrente, pode ser maciço e associado com várias endoscopias digestivas altas sem diagnóstico.&lt;/p&gt;
-
-&lt;p&gt;O sangramento gastrointestinal alto também pode ter origem no sistema biliar (hemobilia) ou nos ductos pancreáticos.&lt;/p&gt;
-
-&lt;p&gt;Entre as causas de &lt;strong&gt;HDB&lt;/strong&gt;, as mais comuns são a doença diverticular dos cólons (15-40%), ectasias vasculares (3-30%). Também as hemorróidas e fissuras (4-11%). Outras causas são: neoplasia e doenças inflamatórias intestinais (DC e RCUI). Nos pacientes mais jovens as doenças anorretais são mais comuns que as dos cólons.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;HDA&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Hematêmese: borra de café (pode ser vivo se for muito intenso)&lt;/li&gt;
-    &lt;li&gt;Melena: fezes enegrecidas com aspecto de piche&lt;/li&gt;
-    &lt;li&gt;Hematoquezia pode ocorrer em 11% dos casos&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;HDB&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Enterorragia/hematoquezia: sangue vivo nas fezes&lt;/li&gt;
-    &lt;li&gt;Sangue oculto nas fezes: sangramentos de pequena intensidade (característicos das neoplasias de cólon direito)&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Outras manifestações:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sudorese&lt;/li&gt;
-  &lt;li&gt;Pele fria&lt;/li&gt;
-  &lt;li&gt;Astenia&lt;/li&gt;
-  &lt;li&gt;Sede&lt;/li&gt;
-  &lt;li&gt;Hipotensão&lt;/li&gt;
-  &lt;li&gt;Taquicardia&lt;/li&gt;
-  &lt;li&gt;Pulso fino&lt;/li&gt;
-  &lt;li&gt;Palidez&lt;/li&gt;
-  &lt;li&gt;Respiração superficial&lt;/li&gt;
-  &lt;li&gt;Cianose&lt;/li&gt;
-  &lt;li&gt;IRA&lt;/li&gt;
-  &lt;li&gt;Confusão mental ao coma&lt;/li&gt;
-  &lt;li&gt;Toque retal: sangue em dedo de luva.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Achados como spiders e teleangiectasias, hepatomegalia, esplenomegalia ou presença de encefalopatia hepática sugerem sangramento varicoso por cirrose ou hipertensão portal.&lt;/p&gt;
-
-&lt;p&gt;Presença de manchas pigmentadas na mucosa bucal sugere síndrome de Peutz-Jeghers e sangramento de pólipos intestinais benignos.&lt;/p&gt;
-
-&lt;p&gt;Teleangiectasias em lábios e língua sugerem o diagnóstico de síndrome de Osler-Weber-Rendu.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Hemorragia grave&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Taquicardia;&lt;/li&gt;
-    &lt;li&gt;Hipotensão;&lt;/li&gt;
-    &lt;li&gt;Aspirado nasogástrico com sangue vermelho;&lt;/li&gt;
-    &lt;li&gt;Hemoglobina inferior a 8 g/dL.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;HDB associadasa um trânsito intestinal lento podem confundir-se com o diagnóstico de HDA.&lt;/div&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hemograma com hematócrito e hemoglobina seriados;&lt;/li&gt;
-  &lt;li&gt;Coagulograma;&lt;/li&gt;
-  &lt;li&gt;Função renal e hepática e eletrólitos;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A presença de coagulopatia na apresentação é um importante fator prognóstico adverso.&lt;/p&gt;
-
-&lt;h3 id=&quot;eda&quot;&gt;EDA&lt;/h3&gt;
-&lt;p&gt;A endoscopia digestiva alta é o principal exame para o diagnóstico e deve ser feita o mais cedo possível, ou seja, assim que o paciente estiver estável.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A administração precoce de terapia farmacológica com análogos da somatostatina também pode levar à parada temporária de sangramento, caso haja sangramento por varizes esofágicas, e pode facilitar a execução do exame endoscópico.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/gastro/forrester.jpeg&quot; alt=&quot;Forrester&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;cintilografia&quot;&gt;Cintilografia&lt;/h3&gt;
-
-&lt;p&gt;Caso a fonte de sangramento não seja detectada, uma possibilidade é a realização de cintilografia com mapeamento de hemácias marcadas por tecnécio, que consegue detectar taxas de sangramento de até 0,1 mL/minuto, mas o exame só é positivo em 45% dos casos em que a EDA é negativa e sua acurácia localizatória é menor do que 80%.&lt;/p&gt;
-
-&lt;h3 id=&quot;arteriografia&quot;&gt;Arteriografia&lt;/h3&gt;
-
-&lt;p&gt;Consegue detectar sangramentos tão pequenos como 0,5 mL/minuto e pode realizar o diagnóstico em casos de EDA negativa ou em sangramentos importantes com visualização difícil pela EDA. O exame pode ainda delinear a anatomia da lesão sangrante e sugerir a sua etiologia.&lt;/p&gt;
-
-&lt;h3 id=&quot;outros&quot;&gt;Outros&lt;/h3&gt;
-
-&lt;p&gt;Enteroscopia e cápsula endoscópica, mas são pouco
-validadas para uso no DE.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;primeiros-procedimentos&quot;&gt;Primeiros procedimentos&lt;/h3&gt;
-
-&lt;p&gt;A presença de sintomas de ansiedade, torpor, síncope e dispneia, além de sinais de choque (extremidades frias e úmidas, pressão arteri al sistólica &amp;lt; 100 mmHg e frequência cardíaca &amp;gt; 100 bpm) e alterações hemodinâmicas ortostáticas (queda de 10 mmHg ou mais na pressão sistólica e elevação de &amp;gt; 15 bpm na frequência cardíaca quando o paciente é mobilizado da posição supina para
-a sentada), sugere perda de aproximadamente 20% do volume circulatório com indicação de ressuscitação volêmica.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dieta zero&lt;/li&gt;
-  &lt;li&gt;Acessos venosos calibrosos e reposição volêmica
-    &lt;ul&gt;
-      &lt;li&gt;Cristaloides (&lt;em&gt;i.e.&lt;/em&gt; soro fisiológico ou ringer lactato)
-        &lt;ul&gt;
-          &lt;li&gt;Na maioria dos pacientes, 1 a 2 litros de solução salina corrigem o volume perdido;&lt;/li&gt;
-          &lt;li&gt;Reposições volêmicas muito agressivas (&amp;gt; 3 L nas primeiras 6 horas de adm issão do paciente ao departamento de emergência) podem aumentar o sangramento e devem ser evitadas.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Hemotransfusão se Hb &amp;lt; ou = 6
-        &lt;ul&gt;
-          &lt;li&gt;250 mL de concentrado de hemácias aumenta 1 g/dL de Hb e 3% do hematócrito;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;O &lt;strong&gt;objetivo&lt;/strong&gt; é atingir uma &lt;strong&gt;PAS de 100 mmHg&lt;/strong&gt; e &lt;strong&gt;FC&amp;lt; 100 bpm&lt;/strong&gt;, manter a &lt;strong&gt;Hb entre 7 e 10 g/dL&lt;/strong&gt; e o &lt;strong&gt;Ht de 30%&lt;/strong&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Exames laboratoriais: hemograma, função renal (Cr, U, SU), função hepática, classificação sanguínea&lt;/li&gt;
-  &lt;li&gt;Sonda vesical e mensuração da diurese&lt;/li&gt;
-  &lt;li&gt;Oximetria de pulso e cateter nasal ou máscara facial, intubação se necessário&lt;/li&gt;
-  &lt;li&gt;ECG (isquemia coronariana por hipovolemia)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A sonda nasográstrica é usada para saber se o paciente ainda estar sangramento. Faz-se um lavado com soro fisiológico e depois aspira para ver se há retorno de sangue.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Mas 16% dos pacientes com HDA apresentam lavado negativo, e guidelines recentes orientam que não deve ser realizado rotineiramente.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Em pacientes com sangramento por doença ulcerosa péptica, a base do tratamento medicamentoso é a administração intravenosa de IBPs. O uso de bloqueadores H2, por sua vez, tem pouco benefício e não é recomendado na fase aguda de HDA por doença péptica.&lt;/p&gt;
-
-&lt;p&gt;Pacientes com doença ulcerosa e com alto risco de ressangramento têm indicação de terapia endosoépica e uso de &lt;span class=&quot;green&quot;&gt;bloqueador de bomba de prótons em altas doses&lt;/span&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;varizes-esofágicas&quot;&gt;Varizes esofágicas&lt;/h3&gt;
-
-&lt;p&gt;A &lt;strong&gt;terlipressina&lt;/strong&gt; e &lt;strong&gt;análogos da somatostatina&lt;/strong&gt; podem ser indicados na suspeita de sangramento por varizes gastroesofágicas.&lt;/p&gt;
-
-&lt;h4 id=&quot;ligadura-elástica&quot;&gt;Ligadura elástica&lt;/h4&gt;
-
-&lt;p&gt;O mais eficaz é a ligadura elástica endoscópica e possui menos efeitos colaterais.&lt;/p&gt;
-
-&lt;h4 id=&quot;escleroterapia&quot;&gt;Escleroterapia&lt;/h4&gt;
-
-&lt;p&gt;Esclerose com etanolamina provoca a trombose do cordão varicoso e interrompe o sangramento. É um método mais simples.&lt;/p&gt;
-
-&lt;h3 id=&quot;varizes-gástricas&quot;&gt;Varizes gástricas&lt;/h3&gt;
-
-&lt;p&gt;Cianoacrilato.&lt;/p&gt;
-
-&lt;h3 id=&quot;gastropatia-congestiva&quot;&gt;Gastropatia congestiva&lt;/h3&gt;
-
-&lt;p&gt;Pode-se lançar mão de vasoconstrictores de via sistêmica. Como a terlipressina e vasopressina EV.&lt;/p&gt;
-
-&lt;h3 id=&quot;lesões-não-varicozas&quot;&gt;Lesões não varicozas&lt;/h3&gt;
-
-&lt;p&gt;Incluem as esofagites, a síndrome de Mallory-Weiss, erosões e úlceras. Possuem um arsenal de tratamentos por via endoscópica.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Método químico: injeção
-    &lt;ul&gt;
-      &lt;li&gt;Injetar álcool absoluto na úlcera, gerando uma desidratação&lt;/li&gt;
-      &lt;li&gt;Adrenalina 1:10.000: vasoconstricção&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Método térmico: laser ou eletrotermocoagulação
-    &lt;ul&gt;
-      &lt;li&gt;O calor promove a retração do coágulo&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O método químico é mais barato e possui eficácia semelhante ao térmico.&lt;/p&gt;
-
-&lt;p&gt;Além disso, objetiiva-se manter o &lt;strong&gt;pH &amp;gt; 6&lt;/strong&gt; com &lt;strong&gt;IBPs&lt;/strong&gt; para haver neutralização da acidez gástrica.&lt;/p&gt;
-
-&lt;h3 id=&quot;hemorragia-digestiva-baixa&quot;&gt;Hemorragia digestiva baixa&lt;/h3&gt;
-
-&lt;p&gt;Para os divertículos o uso de adrenalina e álcool absoluto pode ser feito.&lt;/p&gt;
-
-&lt;p&gt;Para pólipos, indica-se a polipectomia, seja por alça diatérmica ou por corte/coagulação.&lt;/p&gt;
-
-&lt;p&gt;Nas hemorróidas, realiza-se a ligadura elástica ou faz-se a escleroterapia.&lt;/p&gt;
-
-&lt;h1 id=&quot;referências&quot;&gt;Referências&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Emergências clínicas - USP. 13 ed.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Muito mais comum que a HDB, a HDA envolve esôfago, estômago e duodeno. Lembrando que o duodeno esta acima do ângulo de treitz. Abaixo dele é o jejuno.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">A dispepsia tem que ser investigada pra diferenciar a funcional da orgânica. A dispepsia funcional inclui sintomas gástricos relacionados a distúrbios fisiopatológicos de base sem qualquer substrato orgânico demonstrado até hoje. Ou seja, a investigação pela endoscopia alta é normal. Difere da gastrite, gastropatia e úlcera.</summary></entry></feed>

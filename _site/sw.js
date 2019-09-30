@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/pediatria/cipe.html',
+      
         '/gastroenterologia/diarreia.html',
       
         '/cirurgia/ca-esofago.html',
