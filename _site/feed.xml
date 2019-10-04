@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-09-29T20:53:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Afecções mais comuns na CIPE</title><link href="http://localhost:4000/pediatria/cipe.html" rel="alternate" type="text/html" title="Afecções mais comuns na CIPE" /><published>2019-09-29T00:00:00-03:00</published><updated>2019-09-29T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/cipe</id><content type="html" xml:base="http://localhost:4000/pediatria/cipe.html">&lt;h2 id=&quot;hérnia-umbilical&quot;&gt;Hérnia umbilical&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-03T23:00:51-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">abdome agudo</title><link href="http://localhost:4000/mapas/abdome-agudo.html" rel="alternate" type="text/html" title="abdome agudo" /><published>2019-10-03T00:00:00-03:00</published><updated>2019-10-03T00:00:00-03:00</updated><id>http://localhost:4000/mapas/abdome-agudo</id><content type="html" xml:base="http://localhost:4000/mapas/abdome-agudo.html">&lt;p&gt;&lt;img src=&quot;/assets/mapas/abdome-agudo.jpg&quot; alt=&quot;mapa&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/mapas/abdome.jpeg&quot; alt=&quot;anatomia abdome&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Afecções mais comuns na CIPE</title><link href="http://localhost:4000/pediatria/cipe.html" rel="alternate" type="text/html" title="Afecções mais comuns na CIPE" /><published>2019-09-29T00:00:00-03:00</published><updated>2019-09-29T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/cipe</id><content type="html" xml:base="http://localhost:4000/pediatria/cipe.html">&lt;h2 id=&quot;hérnia-umbilical&quot;&gt;Hérnia umbilical&lt;/h2&gt;
 
 &lt;p&gt;É uma protrusão do conteúdo abdominal através do anel umbilical não cicatrizado.
 A hostória natural da hérnia umbilical é fechar com algum tempo.&lt;/p&gt;
@@ -654,85 +656,4 @@ Teratomas&lt;/p&gt;
   &lt;li&gt;Fistulotomia: poupa tecido;&lt;/li&gt;
   &lt;li&gt;Uso de Seton&lt;/li&gt;
   &lt;li&gt;Cola de fibrina&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Anatomia</summary></entry><entry><title type="html">Dispepsia funcional</title><link href="http://localhost:4000/gastroenterologia/dispepsia.html" rel="alternate" type="text/html" title="Dispepsia funcional" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/dispepsia</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/dispepsia.html">&lt;p&gt;A dispepsia tem que ser investigada pra diferenciar a funcional da orgânica. A dispepsia funcional inclui sintomas gástricos relacionados a distúrbios fisiopatológicos de base sem qualquer substrato orgânico demonstrado até hoje. Ou seja, a investigação pela endoscopia alta é normal. Difere da gastrite, gastropatia e úlcera.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;É uma síndrome clínica caracterizada pela presença de sintomas dispépticos recorrentes e crônicos, na ausência de lesões estruturais ou metabólicas subjacentes, capazes de justificar o quadro clínico.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Os distúrbios podem ser recorrentes como uma doença crônica. A maioia se mantem sintomático por um período bastante longo, com alguns quadros de remissão.&lt;/p&gt;
-
-&lt;p&gt;É mais prevalente no sexo feminino e a idade média é de 37 anos. Também é comum a associação com outras doenças funcionais como a síndrome do intestino irritável.&lt;/p&gt;
-
-&lt;p&gt;A dispepsia funcional é mais comum que a dispepsia por essas outras causas orgânicas.&lt;/p&gt;
-
-&lt;h2 id=&quot;definição&quot;&gt;Definição&lt;/h2&gt;
-
-&lt;div class=&quot;box&quot;&gt;
-  &lt;ol&gt;
-    &lt;li&gt;Presença de um ou mais dos seguintes sintomas:
-      &lt;ul&gt;
-        &lt;li&gt;Dor epigástrica&lt;/li&gt;
-        &lt;li&gt;Queimor epigástrico&lt;/li&gt;
-        &lt;li&gt;Empachamento pós-prandial&lt;/li&gt;
-        &lt;li&gt;Saciedade precoce&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;Com ausência de lesões estruturais (EDA, PF, teste terapêutico para parasitoses, USG abd.)&lt;/li&gt;
-    &lt;li&gt;Sintomas presentes há 6 meses, antes dos diagnóstico e presente nos ultimos 3 meses&lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Síndrome do desconforto epigástrico (SDE)&lt;/li&gt;
-  &lt;li&gt;Síndrome do desconforto pós-prandial (SDPP)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O mais comum é ocorrência das duas síndromes concomitantemente no mesmo paciente (SDE + SDPP).&lt;/p&gt;
-
-&lt;h3 id=&quot;sde&quot;&gt;SDE&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sitnomas ocorrendo pelo menos 1 vez por semana e de intensidade moderada&lt;/li&gt;
-  &lt;li&gt;Podem ocorrer em jejum ou com a alimmentação, e podem ser aliviados pela alimentação&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A sensibilidade visceral está aumentada (o limite para indução de resposta dolorosa é menor).&lt;/p&gt;
-
-&lt;h3 id=&quot;sdpp&quot;&gt;SDPP&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sintomas ocorrendo pelo menos 3 vezes por semana&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Saciedade precoce&lt;/strong&gt; impede o término da refeição e/ou&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Empachamento pós-prandial&lt;/strong&gt; ocorre após as refeições.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Parece haver hipomotilidade do antro e diminuição da capacidade de relaxamento do estômago, em resposta ao alimento.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hábitos dietéticos saudáveis: comer devagar e mais vezes ao dia em menor quantidade&lt;/li&gt;
-  &lt;li&gt;Atividade física&lt;/li&gt;
-  &lt;li&gt;Evitar alimentos gordurosos, condimentados, ácidos, café, cigarro e álcool em excesso.&lt;/li&gt;
-  &lt;li&gt;Ingerir menos líquidos durante as refeições&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sde-1&quot;&gt;SDE&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Omeoprazol 10 a 20 mg&lt;/li&gt;
-  &lt;li&gt;Lansoprazol 15 a 30&lt;/li&gt;
-  &lt;li&gt;Pantoprazol 20 a 40&lt;/li&gt;
-  &lt;li&gt;Rabeprazol 10 a 20&lt;/li&gt;
-  &lt;li&gt;Esomeprazol 20 a 40 mg&lt;/li&gt;
-  &lt;li&gt;Ansiolíticos/Anridepressivos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;sdpp-1&quot;&gt;SDPP&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Domperidona 2 a 3 vezes ao dia.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">A dispepsia tem que ser investigada pra diferenciar a funcional da orgânica. A dispepsia funcional inclui sintomas gástricos relacionados a distúrbios fisiopatológicos de base sem qualquer substrato orgânico demonstrado até hoje. Ou seja, a investigação pela endoscopia alta é normal. Difere da gastrite, gastropatia e úlcera.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Anatomia</summary></entry></feed>

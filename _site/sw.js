@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/mapas/abdome-agudo.html',
+      
         '/pediatria/cipe.html',
       
         '/gastroenterologia/diarreia.html',
@@ -302,6 +304,8 @@ self.addEventListener('install', function (event) {
       
         '/apple-touch-icon.png'
       
+        '/assets/Abdome-agudo.jpeg'
+      
         '/assets/arrow.svg'
       
         '/assets/cruz-web.svg'
@@ -541,6 +545,12 @@ self.addEventListener('install', function (event) {
         '/assets/logo-canal-ionico.png'
       
         '/assets/logo-resumos.png'
+      
+        '/assets/mapas/abdome-agudo.jpeg'
+      
+        '/assets/mapas/abdome-agudo.jpg'
+      
+        '/assets/mapas/abdome.jpeg'
       
         '/assets/mastologia/derrame-papilar/tab1.png'
       
