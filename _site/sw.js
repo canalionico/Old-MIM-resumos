@@ -312,6 +312,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/cruz.svg'
       
+        '/assets/emergencia/abdome-agudo.jpeg'
+      
+        '/assets/emergencia/abdome-agudo2.jpeg'
+      
         '/assets/favicon.png'
       
         '/assets/gastro/balthazar.jpg'
