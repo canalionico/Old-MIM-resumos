@@ -550,6 +550,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/logo-resumos.png'
       
+        '/assets/mapas/Abdome-agudo.pdf'
+      
         '/assets/mapas/abdome-agudo.jpeg'
       
         '/assets/mapas/abdome-agudo.jpg'
