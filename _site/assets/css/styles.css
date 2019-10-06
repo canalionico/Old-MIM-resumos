@@ -373,6 +373,9 @@ img {
   margin-bottom: 60px;
   border-radius: 1rem; }
 
+.mapa {
+  box-shadow: none; }
+
 .no-radius {
   border-radius: 0;
   box-shadow: none; }

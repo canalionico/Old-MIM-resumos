@@ -1,0 +1,14 @@
+---
+layout: default
+---
+{% include nav-posts.html %}
+
+
+  <div class="main">
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-page-info">{{ page.date | date_to_string }} - <a href="https://twitter.com/{{ page.author }}">{{ page.author }}</a></p>
+    <article>
+      {{ content }}
+      <a id="myBtn" href="#markdown-toc"><i class="fa fa-sort-amount-up"></i>Sumário</a>
+    </article>
+  </div>

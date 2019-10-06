@@ -1,9 +1,12 @@
 ---
-title: abdome agudo
+title: Abdome agudo
 categories: mapas
+layout: mapa
 ---
 
-![mapa](/assets/mapas/abdome-agudo.jpg)
+
+
+<img class="mapa" alt="imagem do mapa" src="/assets/mapas/abdome-agudo.jpg">
 
 
 
