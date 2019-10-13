@@ -39,6 +39,7 @@ de saída, é o responsável pelo direcionamento do fluxo sanguíneo. Isso torna
 esquerdo, a maior parte do fluxo sanguíneo vai para a aorta e não para o átrio esquerdo, durante a contração ventricular.
 
 ![Anatomia geral](/assets/cardiologia/Diagram_of_the_human_heart.svg)
+![Anatomia circulação](/assets/cardiologia/2101_Blood_Flow_Through_the_Heart.jpg)
 
 
 ### Topografia
@@ -129,40 +130,44 @@ O estímulo origina-se no **nó sinusal**, também denominado sinoatrial ou de K
 
 ![Gif do ciclo cardíaco](/assets/cardiologia/CG_Heart.gif)
 
-Em um dado momento do ciclo cardíaco, ocorre repouso elétrico e mecânico do coração. A partir daí, reconstituímos a sequência de fatos que o compõem, tomando como exemplo o lado esquerdo do coração:
+A **sístole** compreende o período de B1 (fechamento das válvulas AV - "_TUM_") até a B2 (fechamento das valvas aórtica e pulmonar - "_TÁ_"). Já a **diástole**, compreende o período de silêncio entre o fim da B2 e a nova B1.
 
-1. Neste momento, fim da diástole (coração 8), os folhetos da valva mitral estão semiabertos; entretanto, pouca ou nenhuma quantidade de sangue passa por eles. Isso se deve à pequena diferença pressórica entre o AE e o VE. Tal fase se denomina **enchimento ventricular lento**.
-2. O nó sinusal emite um novo estímulo que vai excitar os átrios, cuja musculatura se contrairá a seguir. Como consequência da contração, haverá redução do volume interno do AE e elevação concomitante do nível pressórico dessa cavidade, que resultará na impulsão do sangue para o VE;
-  * A elevação da pressão atrial corresponde à onda A do atriograma;
-  * As valvas AV se afastam amplamente para possibilitar o afluxo de sangue para o ventrículo, mantendo-se semicerradas após;
-  * A elevação da pressão atrial é seguida de aumento da pressão ventricular, a qual se denomina pressão diastólica final do ventrículo (Pd2 ou Pdf);
-  * A participação da contração atrial no enchimento ventricular situa-se em torno de 20 a 30% do volume sanguíneo total.
-3. O estímulo elétrico passa pela junção AV, distribui-se pelo feixe de His e pela rede de Purkinje, passando a excitar a musculatura ventricular. Devidamente despolarizada, esta se contrai e eleva a pressão ventricular até alcançar e ultrapassar o nível pressórico intra-atrial, que, por sua vez, começa a decrescer.
-  * Neste momento, ocorre o fechamento dos folhetos da valva mitral (coração 1), constituindo este fenômeno o principal componente da B1.
-4. A pressão ventricular elevada impulsiona para cima a face ventricular da valva mitral, provocando um transitório aumento da pressão dentro do átrio esquerdo que se traduz graficamente pela onda C do atriograma. Em seguida, prossegue o relaxamento muscular do átrio, acompanhado,
-obviamente, de queda da pressão dentro dessa cavidade. Este momento corresponde ao colapso X da curva atrial.
-5. A crescente tensão da parede ventricular produz elevação da pressão intraventricular. O ventrículo acaba por se constituir em uma cavidade fechada, pois as valvas mitral e aórtica estarão momentânea e concomitantemente cerradas. Tal fase é chamada **contração isovolumétrica** (coração 1).
-
-A **sístole** compreende o período de B1 (fechamento das válvulas AV - "_TUM_") até a B2 (fechamento das valvas aórtica e pulmonar). Já a **diástole**, compreende o período de silêncio entre o fim da B2 e a nova B1.
-
-* **Sístole:** contração ventricular
-  * **Período de contração isovolumétrica:** todas as válvulas estão fechadas e os ventrículos contraem aumentando a pressão na câmara mas sem aumentar o volume;
-  * **Período de ejeção ventricular:** chega o momento em que a pressão ventricular supera a pressão da aorta, logo, a valva aórtica se abre e inicia o fluxo de sangue por diferença de pressão;
-    * **Ejeção rápida**
-    * **Ejeção lenta:** os ventrículos começam a se repolarizar, ou seja, reduzir o seu estado de contratilidade, e a ejeção já perde o vigor e a pressão interventricular começa a diminuir. Quando a pressão aórtica supera a pressão do VE, a valva aórtica se fecha e produz B2, marcando o fim da sístole;
-    * protodiástole de Wiggers
-* **Diástole:** relaxamento ventricular
-  * **Período de relaxamento isovolumétrico:** inicia após o fechamento das valvas aórtica e pulmonar. O coração começa a relaxar mantendo o mesmo volume, uma vez que as valvas estão fechadas;
-  * **Período de enchimento ventricular:** quando a pressão no átrio supera a pressão no ventrículo, as valvas atrioventriculares se abrem permitindo o fluxo de sangue;
-    * **Rápido:** enchimento vigoroso;
-    * **Lento:** enchimento mais lento;
-  * **Período de contração atrial:** a sístole atrial, corresponde à onda P no ECG e contribui por apenas 20% do volume fornecido para os ventrículos.
-
-<div class="alert aviso-green">
-Sempre lembrar que a despolarização promove a contração e a repolaização o relaxameto!
+<p class="caixa-title">Sístole: contração ventricular</p>
+<div class="caixa" markdown="1">
+* **Período de contração isovolumétrica:** todas as válvulas estão fechadas e os ventrículos contraem aumentando a pressão na câmara mas sem aumentar o volume;
+* **Período de ejeção ventricular:** chega o momento em que a pressão ventricular supera a pressão da aorta, logo, a valva aórtica se abre e inicia o fluxo de sangue por diferença de pressão;
+  * **Ejeção rápida**
+  * **Ejeção lenta:** os ventrículos começam a se repolarizar, ou seja, reduzir o seu estado de contratilidade, e a ejeção já perde o vigor e a pressão interventricular começa a diminuir. Quando a pressão aórtica supera a pressão do VE, a valva aórtica se fecha e produz B2, marcando o fim da sístole;
+  * protodiástole de Wiggers
 </div>
 
-O ECG tem início com a onda P, a despolarização dos átrios.
+<p class="caixa-title">Diástole: relaxamento ventricular</p>
+<div class="caixa" markdown="1">
+* **Período de relaxamento isovolumétrico:** inicia após o fechamento das valvas aórtica e pulmonar. O coração começa a relaxar mantendo o mesmo volume, uma vez que as valvas estão fechadas;
+* **Período de enchimento ventricular:** quando a pressão no átrio supera a pressão no ventrículo, as valvas atrioventriculares se abrem permitindo o fluxo de sangue;
+  * **Rápido:** enchimento vigoroso;
+  * **Lento:** enchimento mais lento;
+* **Período de contração atrial:** a sístole atrial, corresponde à onda P no ECG e contribui por apenas 20% do volume fornecido para os ventrículos.
+</div>
+
+No **fim da diástole** ocorre **repouso elétrico e mecânico do coração** até que um novo estímulo
+provocado pelo nó sinusal reinicie a sequência de fenômenos que constituem o ciclo cardíaco.
+
+<p class="caixa-title">Sempre lembrar que:
+</p>
+<div class="caixa" markdown="1">
+* **B1:** fechamento AV, inicia a fase de contração isovolumétrica;
+* **B2:** fechamento Ao e P, inicia a fase de relaxamento isovolumétrico;
+* A pressão no coração direito é menor que no coração esquedo;
+* A **valva mitral se fecha antes da tricúspide**, isto porque, no lado esquerdo, são mais abundantes as ramificações do sistema His-Purkinje, o que propicia a chegada mais precoce do estímulo elétrico à musculatura. Assim, a sístole do VE se inicia ligeiramente antes da do VD;
+* Apesar de o VD iniciar sua contração mais tarde que o VE, **seu esvaziamento começa antes**. Isso ocorre porque a pressão ventricular direita ultrapassa a pressão intrapulmonar mais rapidamente do que o faz o VD com relação à pressão intra-aórtica;
+* No entanto, o VE completa sua ejeção antes do VD. Isso porque o nível pressórico intra-aórtico, sendo mais alto que o intrapulmonar, faz com que haja uma inversão do gradiente de pressão mais precoce no lado esquerdo do coração;
+* Assim, B2 será formada por 2 componentes normalmente audíveis - aórtico e pulmonar-, ocorrendo primeiro o componente aórtico (**a valva aórtica fecha primeiro que a pulmonar**).
+</div>
+
+**Desdobramento fisiológico:** a inspiração aumenta a negatividade da pressão torácica e acentua a pressão abdominal, determinando maior afluxo de sangue ao VD, retardando a sístole do ventrículo direito, separando os componentes aórtico e pulmonar de B2. Inversamente, a expiração aumenta a pressão positiva pulmonar, promovendo maior chegada de sangue ao VE, retardando sua sístole. Agora, os 2 componentes tendem a se aproximar mais.
+
+
 
 ### Diagrama de Wiggers
 
@@ -171,6 +176,52 @@ O ECG tem início com a onda P, a despolarização dos átrios.
 A **incisura dicrótica** corresponde ao fechamento da valva aórtica. Os valores médios da pressão aórtica refletem os valores da pressão arterial sistêmica, com média de 120 x 80 mmHg. Já no que diz respeito à pressão atrial, os valores médios são de 4 a 6 mmHg.
 
 ![Ciclo cardíaco](/assets/cardiologia/ciclo.jpeg)
+
+<p class="caixa-title">Curva de pressão atrial (ciclo atrial)</p>
+<div class="caixa" markdown="1">
+* **Onda A:** sistole ou contração atrial;
+* **Onda C:** a contração isovolumétrica dos ventrículos provoca um abaulamento da valva AV no sentido do átrio, o que eleva momentaneamente a pressão nessa câmara;
+* **Colapso X:** relaxamento muscular do átrio acompanhado de queda da pressão;
+* **Onda V:** o átrio começa a receber sangue e a sua pressão vai aumentando ligeiramente. Mas, quando as valvas AV se abrem a pressão cai novamente pois o sangue flui para os ventrículos.
+  * Seu pico ocorre quando há abertura das valvas AV (queda da pressão intraventricular ao mesmo tempo em que ocorre elevação da pressão atrial);
+  * Começa o esvaziamento do átrio.
+* **Colapso Y:** transferência passiva, e rápida (fase de enchimento ventricular rápido), de cerca de 75% do volume sanguíneo para o ventrículo;
+* Novamente a onda A marcando a contração atrial e o fim da diástole.
+</div>
+
+<p class="caixa-title">ECG</p>
+<div class="caixa" markdown="1">
+* Onda P: despolarização do átrio (sístole atrial);
+* Complexo QRS: despolarização dos ventrículos;
+* Onda T: repolarização dos ventrículos
+</div>
+
+<p class="alert aviso-green">
+Sempre lembrar que a despolarização promove a contração e a repolaização o relaxameto!
+</p>
+
+## Grandes vasos
+
+A aorta é uma artéria elástica, sendo sua camada média
+constituída, em grande parte, de lâminas de tecido elástico;
+sua elasticidade diminui com a idade. As paredes da aorta ascendente e do arco da aorta contêm
+células barorreceptoras em conexão com os centros vasomotores do tronco encefálico, por meio do nervo vago. A estimulação desses receptores, pelo aumento da pressão intra-aórtica,
+determina uma reação reflexa, manifestada por queda da pressão arterial e diminuição da frequência cardíaca.
+
+A aorta ascendente, situada no mediastino médio, tem
+sua origem na raiz da aorta, após o que se dirige para cima
+e para a direita, até a altura do ângulo estemal. Continua-se
+com a crossa da aorta, que se dirige para a esquerda, ventralmente situada com relação à traqueia. Daí, orientando-se para
+trás e para baixo, contorna para cima o brônquio esquerdo, à
+esquerda da traqueia e do esôfago. A maior parte da crossa da
+aorta situa-se no mediastino superior, atrás da porção inferior
+do manúbrio esternal.
+
+Os ramos principais da crossa da aorta são: tronco braquicefálico, artéria carótida esquerda e artéria subclávia esquerda. O tronco braquicefálico, primeiro ramo do arco, subdivide-se nas artérias subclávias e carótida comum direita, no nível da articulação estemoclavicular direita.
+
+
+
+![Aorta](/assets/cardiologia/aorta.jpeg)
 
 
 ## Referências

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-13T13:17:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Hipertensão arterial</title><link href="http://localhost:4000/cardiologia/hipertensao-arterial.html" rel="alternate" type="text/html" title="Hipertensão arterial" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/hipertensao-arterial</id><content type="html" xml:base="http://localhost:4000/cardiologia/hipertensao-arterial.html">&lt;p&gt;7 Diretriz brasileira de HAS
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-13T15:36:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Hipertensão arterial</title><link href="http://localhost:4000/cardiologia/hipertensao-arterial.html" rel="alternate" type="text/html" title="Hipertensão arterial" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/hipertensao-arterial</id><content type="html" xml:base="http://localhost:4000/cardiologia/hipertensao-arterial.html">&lt;p&gt;7 Diretriz brasileira de HAS
 Diretriz europeia de HAS&lt;/p&gt;
 
 &lt;p&gt;Fisiologicamente a pressão arterial aumenta com a idade, pois os vasos ficam mais rígios, não se dilatam, reduzindo a sua área e elevando a pressão nas paredes.&lt;/p&gt;
@@ -108,6 +108,7 @@ Pressão hidrostática máxima: 25.&lt;/p&gt;
       &lt;li&gt;&lt;a href=&quot;#diagrama-de-wiggers&quot; id=&quot;markdown-toc-diagrama-de-wiggers&quot;&gt;Diagrama de Wiggers&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#grandes-vasos&quot; id=&quot;markdown-toc-grandes-vasos&quot;&gt;Grandes vasos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -144,7 +145,8 @@ pressão na aorta é muito superior à da artéria pulmonar.&lt;/p&gt;
 de saída, é o responsável pelo direcionamento do fluxo sanguíneo. Isso torna possível compreender por que, mesmo quando há lesão da valva mitral com refluxo de sangue para o átrio
 esquerdo, a maior parte do fluxo sanguíneo vai para a aorta e não para o átrio esquerdo, durante a contração ventricular.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/Diagram_of_the_human_heart.svg&quot; alt=&quot;Anatomia geral&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/Diagram_of_the_human_heart.svg&quot; alt=&quot;Anatomia geral&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/2101_Blood_Flow_Through_the_Heart.jpg&quot; alt=&quot;Anatomia circulação&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;topografia&quot;&gt;Topografia&lt;/h3&gt;
 
@@ -247,62 +249,54 @@ sinapse nos gânglios cervicais e torácicos.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/CG_Heart.gif&quot; alt=&quot;Gif do ciclo cardíaco&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Em um dado momento do ciclo cardíaco, ocorre repouso elétrico e mecânico do coração. A partir daí, reconstituímos a sequência de fatos que o compõem, tomando como exemplo o lado esquerdo do coração:&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;sístole&lt;/strong&gt; compreende o período de B1 (fechamento das válvulas AV - “&lt;em&gt;TUM&lt;/em&gt;”) até a B2 (fechamento das valvas aórtica e pulmonar - “&lt;em&gt;TÁ&lt;/em&gt;”). Já a &lt;strong&gt;diástole&lt;/strong&gt;, compreende o período de silêncio entre o fim da B2 e a nova B1.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Neste momento, fim da diástole (coração 8), os folhetos da valva mitral estão semiabertos; entretanto, pouca ou nenhuma quantidade de sangue passa por eles. Isso se deve à pequena diferença pressórica entre o AE e o VE. Tal fase se denomina &lt;strong&gt;enchimento ventricular lento&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;O nó sinusal emite um novo estímulo que vai excitar os átrios, cuja musculatura se contrairá a seguir. Como consequência da contração, haverá redução do volume interno do AE e elevação concomitante do nível pressórico dessa cavidade, que resultará na impulsão do sangue para o VE;
-    &lt;ul&gt;
-      &lt;li&gt;A elevação da pressão atrial corresponde à onda A do atriograma;&lt;/li&gt;
-      &lt;li&gt;As valvas AV se afastam amplamente para possibilitar o afluxo de sangue para o ventrículo, mantendo-se semicerradas após;&lt;/li&gt;
-      &lt;li&gt;A elevação da pressão atrial é seguida de aumento da pressão ventricular, a qual se denomina pressão diastólica final do ventrículo (Pd2 ou Pdf);&lt;/li&gt;
-      &lt;li&gt;A participação da contração atrial no enchimento ventricular situa-se em torno de 20 a 30% do volume sanguíneo total.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O estímulo elétrico passa pela junção AV, distribui-se pelo feixe de His e pela rede de Purkinje, passando a excitar a musculatura ventricular. Devidamente despolarizada, esta se contrai e eleva a pressão ventricular até alcançar e ultrapassar o nível pressórico intra-atrial, que, por sua vez, começa a decrescer.
-    &lt;ul&gt;
-      &lt;li&gt;Neste momento, ocorre o fechamento dos folhetos da valva mitral (coração 1), constituindo este fenômeno o principal componente da B1.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A pressão ventricular elevada impulsiona para cima a face ventricular da valva mitral, provocando um transitório aumento da pressão dentro do átrio esquerdo que se traduz graficamente pela onda C do atriograma. Em seguida, prossegue o relaxamento muscular do átrio, acompanhado,
-obviamente, de queda da pressão dentro dessa cavidade. Este momento corresponde ao colapso X da curva atrial.&lt;/li&gt;
-  &lt;li&gt;A crescente tensão da parede ventricular produz elevação da pressão intraventricular. O ventrículo acaba por se constituir em uma cavidade fechada, pois as valvas mitral e aórtica estarão momentânea e concomitantemente cerradas. Tal fase é chamada &lt;strong&gt;contração isovolumétrica&lt;/strong&gt; (coração 1).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A &lt;strong&gt;sístole&lt;/strong&gt; compreende o período de B1 (fechamento das válvulas AV - “&lt;em&gt;TUM&lt;/em&gt;”) até a B2 (fechamento das valvas aórtica e pulmonar). Já a &lt;strong&gt;diástole&lt;/strong&gt;, compreende o período de silêncio entre o fim da B2 e a nova B1.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sístole:&lt;/strong&gt; contração ventricular
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Período de contração isovolumétrica:&lt;/strong&gt; todas as válvulas estão fechadas e os ventrículos contraem aumentando a pressão na câmara mas sem aumentar o volume;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Período de ejeção ventricular:&lt;/strong&gt; chega o momento em que a pressão ventricular supera a pressão da aorta, logo, a valva aórtica se abre e inicia o fluxo de sangue por diferença de pressão;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;strong&gt;Ejeção rápida&lt;/strong&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Ejeção lenta:&lt;/strong&gt; os ventrículos começam a se repolarizar, ou seja, reduzir o seu estado de contratilidade, e a ejeção já perde o vigor e a pressão interventricular começa a diminuir. Quando a pressão aórtica supera a pressão do VE, a valva aórtica se fecha e produz B2, marcando o fim da sístole;&lt;/li&gt;
-          &lt;li&gt;protodiástole de Wiggers&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Diástole:&lt;/strong&gt; relaxamento ventricular
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Período de relaxamento isovolumétrico:&lt;/strong&gt; inicia após o fechamento das valvas aórtica e pulmonar. O coração começa a relaxar mantendo o mesmo volume, uma vez que as valvas estão fechadas;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Período de enchimento ventricular:&lt;/strong&gt; quando a pressão no átrio supera a pressão no ventrículo, as valvas atrioventriculares se abrem permitindo o fluxo de sangue;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;strong&gt;Rápido:&lt;/strong&gt; enchimento vigoroso;&lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Lento:&lt;/strong&gt; enchimento mais lento;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Período de contração atrial:&lt;/strong&gt; a sístole atrial, corresponde à onda P no ECG e contribui por apenas 20% do volume fornecido para os ventrículos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;
-Sempre lembrar que a despolarização promove a contração e a repolaização o relaxameto!
+&lt;p class=&quot;caixa-title&quot;&gt;Sístole: contração ventricular&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Período de contração isovolumétrica:&lt;/strong&gt; todas as válvulas estão fechadas e os ventrículos contraem aumentando a pressão na câmara mas sem aumentar o volume;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Período de ejeção ventricular:&lt;/strong&gt; chega o momento em que a pressão ventricular supera a pressão da aorta, logo, a valva aórtica se abre e inicia o fluxo de sangue por diferença de pressão;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Ejeção rápida&lt;/strong&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Ejeção lenta:&lt;/strong&gt; os ventrículos começam a se repolarizar, ou seja, reduzir o seu estado de contratilidade, e a ejeção já perde o vigor e a pressão interventricular começa a diminuir. Quando a pressão aórtica supera a pressão do VE, a valva aórtica se fecha e produz B2, marcando o fim da sístole;&lt;/li&gt;
+        &lt;li&gt;protodiástole de Wiggers&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;p&gt;O ECG tem início com a onda P, a despolarização dos átrios.&lt;/p&gt;
+&lt;p class=&quot;caixa-title&quot;&gt;Diástole: relaxamento ventricular&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Período de relaxamento isovolumétrico:&lt;/strong&gt; inicia após o fechamento das valvas aórtica e pulmonar. O coração começa a relaxar mantendo o mesmo volume, uma vez que as valvas estão fechadas;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Período de enchimento ventricular:&lt;/strong&gt; quando a pressão no átrio supera a pressão no ventrículo, as valvas atrioventriculares se abrem permitindo o fluxo de sangue;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;strong&gt;Rápido:&lt;/strong&gt; enchimento vigoroso;&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Lento:&lt;/strong&gt; enchimento mais lento;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Período de contração atrial:&lt;/strong&gt; a sístole atrial, corresponde à onda P no ECG e contribui por apenas 20% do volume fornecido para os ventrículos.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;No &lt;strong&gt;fim da diástole&lt;/strong&gt; ocorre &lt;strong&gt;repouso elétrico e mecânico do coração&lt;/strong&gt; até que um novo estímulo
+provocado pelo nó sinusal reinicie a sequência de fenômenos que constituem o ciclo cardíaco.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Sempre lembrar que:
+&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;B1:&lt;/strong&gt; fechamento AV, inicia a fase de contração isovolumétrica;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;B2:&lt;/strong&gt; fechamento Ao e P, inicia a fase de relaxamento isovolumétrico;&lt;/li&gt;
+    &lt;li&gt;A pressão no coração direito é menor que no coração esquedo;&lt;/li&gt;
+    &lt;li&gt;A &lt;strong&gt;valva mitral se fecha antes da tricúspide&lt;/strong&gt;, isto porque, no lado esquerdo, são mais abundantes as ramificações do sistema His-Purkinje, o que propicia a chegada mais precoce do estímulo elétrico à musculatura. Assim, a sístole do VE se inicia ligeiramente antes da do VD;&lt;/li&gt;
+    &lt;li&gt;Apesar de o VD iniciar sua contração mais tarde que o VE, &lt;strong&gt;seu esvaziamento começa antes&lt;/strong&gt;. Isso ocorre porque a pressão ventricular direita ultrapassa a pressão intrapulmonar mais rapidamente do que o faz o VD com relação à pressão intra-aórtica;&lt;/li&gt;
+    &lt;li&gt;No entanto, o VE completa sua ejeção antes do VD. Isso porque o nível pressórico intra-aórtico, sendo mais alto que o intrapulmonar, faz com que haja uma inversão do gradiente de pressão mais precoce no lado esquerdo do coração;&lt;/li&gt;
+    &lt;li&gt;Assim, B2 será formada por 2 componentes normalmente audíveis - aórtico e pulmonar-, ocorrendo primeiro o componente aórtico (&lt;strong&gt;a valva aórtica fecha primeiro que a pulmonar&lt;/strong&gt;).&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Desdobramento fisiológico:&lt;/strong&gt; a inspiração aumenta a negatividade da pressão torácica e acentua a pressão abdominal, determinando maior afluxo de sangue ao VD, retardando a sístole do ventrículo direito, separando os componentes aórtico e pulmonar de B2. Inversamente, a expiração aumenta a pressão positiva pulmonar, promovendo maior chegada de sangue ao VE, retardando sua sístole. Agora, os 2 componentes tendem a se aproximar mais.&lt;/p&gt;
 
 &lt;h3 id=&quot;diagrama-de-wiggers&quot;&gt;Diagrama de Wiggers&lt;/h3&gt;
 
@@ -311,6 +305,57 @@ Sempre lembrar que a despolarização promove a contração e a repolaização o
 &lt;p&gt;A &lt;strong&gt;incisura dicrótica&lt;/strong&gt; corresponde ao fechamento da valva aórtica. Os valores médios da pressão aórtica refletem os valores da pressão arterial sistêmica, com média de 120 x 80 mmHg. Já no que diz respeito à pressão atrial, os valores médios são de 4 a 6 mmHg.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ciclo.jpeg&quot; alt=&quot;Ciclo cardíaco&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Curva de pressão atrial (ciclo atrial)&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Onda A:&lt;/strong&gt; sistole ou contração atrial;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Onda C:&lt;/strong&gt; a contração isovolumétrica dos ventrículos provoca um abaulamento da valva AV no sentido do átrio, o que eleva momentaneamente a pressão nessa câmara;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Colapso X:&lt;/strong&gt; relaxamento muscular do átrio acompanhado de queda da pressão;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Onda V:&lt;/strong&gt; o átrio começa a receber sangue e a sua pressão vai aumentando ligeiramente. Mas, quando as valvas AV se abrem a pressão cai novamente pois o sangue flui para os ventrículos.
+      &lt;ul&gt;
+        &lt;li&gt;Seu pico ocorre quando há abertura das valvas AV (queda da pressão intraventricular ao mesmo tempo em que ocorre elevação da pressão atrial);&lt;/li&gt;
+        &lt;li&gt;Começa o esvaziamento do átrio.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Colapso Y:&lt;/strong&gt; transferência passiva, e rápida (fase de enchimento ventricular rápido), de cerca de 75% do volume sanguíneo para o ventrículo;&lt;/li&gt;
+    &lt;li&gt;Novamente a onda A marcando a contração atrial e o fim da diástole.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;ECG&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Onda P: despolarização do átrio (sístole atrial);&lt;/li&gt;
+    &lt;li&gt;Complexo QRS: despolarização dos ventrículos;&lt;/li&gt;
+    &lt;li&gt;Onda T: repolarização dos ventrículos&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;alert aviso-green&quot;&gt;
+Sempre lembrar que a despolarização promove a contração e a repolaização o relaxameto!
+&lt;/p&gt;
+
+&lt;h2 id=&quot;grandes-vasos&quot;&gt;Grandes vasos&lt;/h2&gt;
+
+&lt;p&gt;A aorta é uma artéria elástica, sendo sua camada média
+constituída, em grande parte, de lâminas de tecido elástico;
+sua elasticidade diminui com a idade. As paredes da aorta ascendente e do arco da aorta contêm
+células barorreceptoras em conexão com os centros vasomotores do tronco encefálico, por meio do nervo vago. A estimulação desses receptores, pelo aumento da pressão intra-aórtica,
+determina uma reação reflexa, manifestada por queda da pressão arterial e diminuição da frequência cardíaca.&lt;/p&gt;
+
+&lt;p&gt;A aorta ascendente, situada no mediastino médio, tem
+sua origem na raiz da aorta, após o que se dirige para cima
+e para a direita, até a altura do ângulo estemal. Continua-se
+com a crossa da aorta, que se dirige para a esquerda, ventralmente situada com relação à traqueia. Daí, orientando-se para
+trás e para baixo, contorna para cima o brônquio esquerdo, à
+esquerda da traqueia e do esôfago. A maior parte da crossa da
+aorta situa-se no mediastino superior, atrás da porção inferior
+do manúbrio esternal.&lt;/p&gt;
+
+&lt;p&gt;Os ramos principais da crossa da aorta são: tronco braquicefálico, artéria carótida esquerda e artéria subclávia esquerda. O tronco braquicefálico, primeiro ramo do arco, subdivide-se nas artérias subclávias e carótida comum direita, no nível da articulação estemoclavicular direita.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aorta.jpeg&quot; alt=&quot;Aorta&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 

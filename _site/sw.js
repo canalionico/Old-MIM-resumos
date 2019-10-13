@@ -314,11 +314,15 @@ self.addEventListener('install', function (event) {
       
         '/assets/arrow.svg'
       
+        '/assets/cardiologia/2101_Blood_Flow_Through_the_Heart.jpg'
+      
         '/assets/cardiologia/CG_Heart.gif'
       
         '/assets/cardiologia/Diagram_of_the_human_heart.svg'
       
         '/assets/cardiologia/Wiggers.svg.png'
+      
+        '/assets/cardiologia/aorta.jpeg'
       
         '/assets/cardiologia/ciclo-cardiaco.png'
       
