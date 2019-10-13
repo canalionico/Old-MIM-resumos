@@ -326,6 +326,21 @@ tr:nth-child(odd) {
 #infectologia {
   background-color: mediumblue; }
 
+#gastroenterologia {
+  background-color: brown; }
+
+#traumatologia {
+  background-color: gray; }
+
+#pediatria {
+  background-color: blue; }
+
+#cirurgia {
+  background-color: darkgreen; }
+
+#cardiologia {
+  background-color: darkred; }
+
 pre {
   padding: 8px 12px;
   overflow-x: auto; }
@@ -368,12 +383,11 @@ img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   margin-top: 30px;
-  margin-bottom: 60px;
-  border-radius: 1rem; }
+  margin-bottom: 30px; }
 
 .mapa {
+  max-width: 100%;
   box-shadow: none; }
 
 .no-radius {
@@ -398,7 +412,7 @@ figure {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border-bottom-left-radius: 1rem;
   border-bottom-right-radius: 1rem;
-  padding: 1px; }
+  padding: 10px; }
 
 .caixa-title {
   background-color: #241c69;

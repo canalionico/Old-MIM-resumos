@@ -156,6 +156,20 @@ layout: default
     </div>
   </div>
 
+
+  <button id="cardiologia" class="collapsible">Cardiologia</button>
+  <div class="content">
+    <div class="post-list">
+      <ol>
+        {% for post in site.categories.cardiologia %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+
   <button id="mapas" class="collapsible">Mapas mentais</button>
   <div class="content">
     <div class="post-list">

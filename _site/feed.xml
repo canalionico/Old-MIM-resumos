@@ -1,4 +1,322 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-06T11:51:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Abdome agudo</title><link href="http://localhost:4000/mapas/abdome-agudo.html" rel="alternate" type="text/html" title="Abdome agudo" /><published>2019-10-03T00:00:00-03:00</published><updated>2019-10-03T00:00:00-03:00</updated><id>http://localhost:4000/mapas/abdome-agudo</id><content type="html" xml:base="http://localhost:4000/mapas/abdome-agudo.html">&lt;p&gt;&lt;img class=&quot;mapa&quot; alt=&quot;imagem do mapa&quot; src=&quot;/assets/mapas/abdome-agudo.jpg&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-13T13:17:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Hipertensão arterial</title><link href="http://localhost:4000/cardiologia/hipertensao-arterial.html" rel="alternate" type="text/html" title="Hipertensão arterial" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/hipertensao-arterial</id><content type="html" xml:base="http://localhost:4000/cardiologia/hipertensao-arterial.html">&lt;p&gt;7 Diretriz brasileira de HAS
+Diretriz europeia de HAS&lt;/p&gt;
+
+&lt;p&gt;Fisiologicamente a pressão arterial aumenta com a idade, pois os vasos ficam mais rígios, não se dilatam, reduzindo a sua área e elevando a pressão nas paredes.&lt;/p&gt;
+
+&lt;p&gt;Hipertensão: PA maior ou igual, de forma sustentada, a 140 x 90 mmHg.&lt;/p&gt;
+
+&lt;p&gt;É uma doença silenciosa.&lt;/p&gt;
+
+&lt;p&gt;Hipertensão primária (essencial):&lt;/p&gt;
+
+&lt;p&gt;Hipertensão secundária:&lt;/p&gt;
+
+&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Idade&lt;/li&gt;
+  &lt;li&gt;Sexo
+    &lt;ul&gt;
+      &lt;li&gt;Homens mas quando as mulheres entram na menopausa, superam os homens em prevalência.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Obesidade&lt;/li&gt;
+  &lt;li&gt;Fatores genéticos&lt;/li&gt;
+  &lt;li&gt;Prematuridade&lt;/li&gt;
+  &lt;li&gt;Baixo peso ao nascer&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;Método direto, intra-arterial&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;De maneira indireta:
+    &lt;ul&gt;
+      &lt;li&gt;Auscultatório&lt;/li&gt;
+      &lt;li&gt;Oscilométrico&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Menos manguito, mais pressão! A relação é inversa entre o tamanho correta e a medida incorreta da pressão.&lt;/p&gt;
+
+&lt;p&gt;16 etapas para a correta aferição da PA&lt;/p&gt;
+
+&lt;p&gt;Pelo menos 2x com&lt;/p&gt;
+
+&lt;p&gt;A partir dos 3 anos todas crianças devem ter suas medidas de PA aferidas. Nas crianças é necessário avaliar as tabelas de crascimento e percentil por idade e altura.&lt;/p&gt;
+
+&lt;p&gt;Diagnósticos possíveis:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Normotensão: nem em casa e nem no consultório&lt;/li&gt;
+  &lt;li&gt;Hipertensão sustentada: em casa e no consultório&lt;/li&gt;
+  &lt;li&gt;Hipertensão mascarada: só em casa&lt;/li&gt;
+  &lt;li&gt;Hipertensão do avental branco: só no consultório&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Outros:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hipertenso controlado&lt;/li&gt;
+  &lt;li&gt;Hipertenso não controlado&lt;/li&gt;
+  &lt;li&gt;Hipertenso do avental branco não controlado&lt;/li&gt;
+  &lt;li&gt;Hipertenso mascarado não controlado&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;No Canadá o diagnóstico de HAS em diabéticos é feito com um valor de PA menor, pois a doença pode mascarar a hipertensão.&lt;/p&gt;
+
+&lt;h2 id=&quot;exame-de-rotina-do-paciente-hipertenso&quot;&gt;Exame de rotina do paciente hipertenso&lt;/h2&gt;
+
+&lt;p&gt;VER NA DIRETRIZ&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">7 Diretriz brasileira de HAS Diretriz europeia de HAS</summary></entry><entry><title type="html">Princípios básicos de hemodinâmica e cardiologia intervencionista</title><link href="http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica.html" rel="alternate" type="text/html" title="Princípios básicos de hemodinâmica e cardiologia intervencionista" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica</id><content type="html" xml:base="http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica.html">&lt;p&gt;O primeiro cateterismo foi feito em 1929 na Alemanha.&lt;/p&gt;
+
+&lt;p&gt;Indicações:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;insuf coronariana&lt;/li&gt;
+  &lt;li&gt;Após IAM&lt;/li&gt;
+  &lt;li&gt;Outras situações&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Saturação normal sangue venoso: 50% a 70%;
+Saturação normal sangue arterial: 95% a 100%.&lt;/p&gt;
+
+&lt;p&gt;Estudar como avaliar CIV, CIA, PCA (persistência do canal arterial) por oximetria dos vasos.&lt;/p&gt;
+
+&lt;p&gt;Pressão coloidosmótica normal (PCO): 26 a 30;
+Pressão hidrostática máxima: 25.&lt;/p&gt;
+
+&lt;p&gt;Fator de proteção fisiológico contra o edema pulmonar: a pressão hidrostática no capilar pulmonar é em média de 7 e a PCO continua sendo de 26 a 30. Ou seja, qualquer soluto que estiver no alvéolo sera puxado pelo capilar.&lt;/p&gt;
+
+&lt;h2 id=&quot;edema-agudo-de-pulmão&quot;&gt;Edema agudo de pulmão&lt;/h2&gt;
+
+&lt;h2 id=&quot;cinecoronarioangiografia&quot;&gt;Cinecoronarioangiografia&lt;/h2&gt;
+
+&lt;p&gt;O que é?&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O primeiro cateterismo foi feito em 1929 na Alemanha.</summary></entry><entry><title type="html">Fisiologia cardiovascular</title><link href="http://localhost:4000/cardiologia/fisiologia-cardiovascular.html" rel="alternate" type="text/html" title="Fisiologia cardiovascular" /><published>2019-10-08T00:00:00-03:00</published><updated>2019-10-08T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/fisiologia-cardiovascular</id><content type="html" xml:base="http://localhost:4000/cardiologia/fisiologia-cardiovascular.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#anatomia&quot; id=&quot;markdown-toc-anatomia&quot;&gt;Anatomia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#topografia&quot; id=&quot;markdown-toc-topografia&quot;&gt;Topografia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#válvulas&quot; id=&quot;markdown-toc-válvulas&quot;&gt;Válvulas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#coronarianas&quot; id=&quot;markdown-toc-coronarianas&quot;&gt;Coronarianas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#invervação&quot; id=&quot;markdown-toc-invervação&quot;&gt;Invervação&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#formação-e-condução-dos-estímulos&quot; id=&quot;markdown-toc-formação-e-condução-dos-estímulos&quot;&gt;Formação e condução dos estímulos&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ciclo-cardíaco&quot; id=&quot;markdown-toc-ciclo-cardíaco&quot;&gt;Ciclo cardíaco&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagrama-de-wiggers&quot; id=&quot;markdown-toc-diagrama-de-wiggers&quot;&gt;Diagrama de Wiggers&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;O lado direito do coração recebe o sangue venoso sistêmico
+por intermédio das veias cavas - superior e inferior - que se
+conectam ao átrio direito; desse ponto, o sangue flui para o ventrículo direito, passando pela valva tricúspide. O sangue impulsionado pela contração do ventrículo ultrapassa a valva pulmonar, chegando à artéria pulmonar, que o distribui pela rede
+vascular dos pulmões, para que seja oxigenado; retoma ao lado
+esquerdo do coração pelas veias pulmonares que deságuam no
+átrio esquerdo. Desta câmara, dirige-se ao ventrículo esquerdo
+passando pela valva mitral. Por fim, ultrapassa a valva aórtica,
+alcançando a aorta, que constitui o início da circulação sistêmica, responsável pela distribuição do sangue pelo corpo todo.&lt;/p&gt;
+
+&lt;p&gt;O coração é formado por 3 camadas: epicárdio, miocárdio
+e endocárdio.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Epicárdio (pericardio visceral)&lt;/li&gt;
+  &lt;li&gt;Pericárdio parietal: é uma formação fibrosa, resistente e pouco elástica à distensão rápida, mas com capacidade de se distender lenta e gradualmente.&lt;/li&gt;
+  &lt;li&gt;Miocardio&lt;/li&gt;
+  &lt;li&gt;Endocárdio: formado principalmente por uma camada endotelial, confere ao interior do coração um aspecto liso e brilhante.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
+
+&lt;p&gt;A face esternocostal é formada principalmente pelo ventrículo direito, que constitui a parte mais anterior do coração. Levando em consideração essa informação, é fácil compreender o motivo pelo qual o crescimento do ventrículo direito provoca abaulamento da face anterior do tórax, principalmente em crianças, nas quais o arcabouço torácico ainda não
+se tornou rígido&lt;/p&gt;
+
+&lt;p&gt;a parede do ventrículo esquerdo é o dobro da do ventrículo direito, isto porque a
+pressão na aorta é muito superior à da artéria pulmonar.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/rxtorax.jpeg&quot; alt=&quot;Rx de tórax&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O sentido da contração das fibras, da via de entrada para a via
+de saída, é o responsável pelo direcionamento do fluxo sanguíneo. Isso torna possível compreender por que, mesmo quando há lesão da valva mitral com refluxo de sangue para o átrio
+esquerdo, a maior parte do fluxo sanguíneo vai para a aorta e não para o átrio esquerdo, durante a contração ventricular.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/Diagram_of_the_human_heart.svg&quot; alt=&quot;Anatomia geral&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;topografia&quot;&gt;Topografia&lt;/h3&gt;
+
+&lt;p&gt;descreve-se
+a face esternocostal, a diafragmática ou inferodorsal, à
+esquerda, a porção apical ou ápice e a basal ou base do coração.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AE: a estrutura mais posterior do coração, à esquerda e atrás do átrio direito;&lt;/li&gt;
+  &lt;li&gt;AD: frequentemente esconde o tronco da aorta;&lt;/li&gt;
+  &lt;li&gt;Ápice: corresponde à ponta do coração e é constituído do VE, que mantém contato direto com o gradil costal no nível do 5 EIC esquerdo, na maioria das pessoas.&lt;/li&gt;
+  &lt;li&gt;VD: constitui a parte mais anterior do coração, na face esternocostal.
+    &lt;ul&gt;
+      &lt;li&gt;o crescimento do ventrículo direito provoca abaulamento da face anterior do tórax, principalmente em crianças, nas quais o arcabouço torácico ainda não se tornou rígido.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;&lt;em&gt;Ictus cordis&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;p&gt;Na criança a posição é mais transversal que no adulto e, por isso, a
+ponta do coração situa-se pelo menos um espaço intercostal acima.&lt;/p&gt;
+
+  &lt;p&gt;Com a insipiração profunda, o batimento da ponta desloca-se para baixo e para dentro. O inverso ocorre na expiração profunda e o batimento do ápice pode, então, situar-se no 3 ou no 4 EIC.&lt;/p&gt;
+
+  &lt;p&gt;Em decúbito lateral direito, o choque da ponta desloca-se para trás, afastando-se da parede anterior do tórax, o que torna o batimento do ápice mais difícil de ser percebido.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;válvulas&quot;&gt;Válvulas&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/valvulas.jpeg&quot; alt=&quot;Válvulas&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O coração dispõe de 4 aparelhos valvares: no &lt;strong&gt;lado esquerdo&lt;/strong&gt;, um atrioventricular (&lt;span class=&quot;red&quot;&gt;mitral&lt;/span&gt;) e um ventriculoaórtico (&lt;span class=&quot;orange&quot;&gt;aórtico&lt;/span&gt;); no &lt;strong&gt;lado direito&lt;/strong&gt;, um atrioventricular (&lt;span class=&quot;green&quot;&gt;tricúspide&lt;/span&gt;) e um ven-
+triculopulmonar (&lt;span class=&quot;blue&quot;&gt;pulmonar&lt;/span&gt;). No lado esquerdo há 2 cúspides e, no direito, 3; daí a denominação de tricúspide.&lt;/p&gt;
+
+&lt;p&gt;As valvas AV consistem em um anel fibroso que circunscreve o óstio atrioventricular, as cúspides, as cordoalhas tendíneas (evitam a eversão) e os músculos papilares.&lt;/p&gt;
+
+&lt;p&gt;As valvas semilunares da aorta e das artérias pulmonares
+estão situadas nas origens desses vasos. Cada uma apresenta
+3 cúspides, as quais consistem em tecido fibroso, avascular,
+recoberto em cada face pela íntima.&lt;/p&gt;
+
+&lt;h3 id=&quot;coronarianas&quot;&gt;Coronarianas&lt;/h3&gt;
+
+&lt;p&gt;O coração é irrigado pelas artérias coronárias, direita e esquerda que nascem nos seios aórticos direito e esquerdo. Já a drenagem do sangue venoso é feita
+por numerosas veias, as quais desembocam diretamente nas
+câmaras cardíacas ou se unem para formar o seio coronário,
+tributário do átrio direito.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/coronarias.gif&quot; alt=&quot;Coronárias&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/coronarias2.jpg&quot; alt=&quot;Coronárias&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/coronarias3.png&quot; alt=&quot;Coronárias&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CD: irriga a parede inferior;&lt;/li&gt;
+  &lt;li&gt;CE:
+    &lt;ul&gt;
+      &lt;li&gt;DA: irriga a parede anterior;&lt;/li&gt;
+      &lt;li&gt;CX: Irriga a parede lateral esquerda.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;invervação&quot;&gt;Invervação&lt;/h3&gt;
+
+&lt;p&gt;O coração é inervado por fibras nervosas autônomas que
+incluem fibras sensoriais oriundas dos nervos vagos e dos
+troncos simpáticos.&lt;/p&gt;
+
+&lt;p&gt;O &lt;span class=&quot;red&quot;&gt;sistema simpático&lt;/span&gt; constitui o componente ativador do
+sistema de comando, provocando &lt;span class=&quot;orange&quot;&gt;aumento da frequência cardíaca&lt;/span&gt; e da contratilidade miocárdica, enquanto o &lt;span class=&quot;green&quot;&gt;sistema
+parassimpático&lt;/span&gt;, por inibir o sistema de comando, &lt;span class=&quot;green&quot;&gt;diminui a
+frequência cardíaca&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;A estimulação simpática pela norepinefrina produz
+aumento na frequência cardíaca e na contratilidade miocárdica. O estímulo parassimpático mediado pela acetilcolina
+reduz a frequência e a contratilidade. Além disso, vários receptores no arco aórtico e nos seios carotídeos enviam informações sobre a pressão arterial ao centro cardiovascular medular
+no cérebro. A integração de informações possibilita perfeito atendimento das necessidades de O2 e nutrientes de todos os órgãos.&lt;/p&gt;
+
+&lt;p&gt;As fibras simpáticas originam-se do 1° ao 4° segmento torácico da medula espinal (T1-T5), fazendo
+sinapse nos gânglios cervicais e torácicos.&lt;/p&gt;
+
+&lt;h4 id=&quot;formação-e-condução-dos-estímulos&quot;&gt;Formação e condução dos estímulos&lt;/h4&gt;
+
+&lt;p&gt;O estímulo origina-se no &lt;strong&gt;nó sinusal&lt;/strong&gt;, também denominado sinoatrial ou de Keith-Flack; progride na direção do nó atrioventricular por meio dos tratos interno dais (anterior, médio e posterior) e na direção do AE pelo feixe de Bachmann (um dos ramos da bifurcação do trato internodal anterior); alcança o &lt;strong&gt;nó atrioventricular&lt;/strong&gt; ou de Aschoff-Tawara, sofrendo atraso em sua transmissão, necessário para que a contração atrial se complete antes da ventricular; rapidamente percorre o &lt;strong&gt;feixe de His&lt;/strong&gt;, seus ramos direito e esquerdo e suas subdivisões, para finalmente chegar à &lt;strong&gt;rede de Purkinje&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/inervação.jpeg&quot; alt=&quot;Inervação&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;As propriedades fundamentais do coração são:&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;Cronotropismo ou automaticidade:&lt;/strong&gt; propriedade que têm as fibras que provocam estímulos espontaneamente, sem necessidade da inervação extrínseca. Esta propriedade é dada pelas &lt;span class=&quot;green&quot;&gt;células P&lt;/span&gt;, cujo automatismo é maior conforme mais altas estiverem no sistema excitocondutor;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Batmotropismo ou excitabilidade:&lt;/strong&gt; propriedade que as fibras apresentam de iniciar um potencial de ação em resposta a um estímulo adequado;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Dromotropismo ou condutibilidade:&lt;/strong&gt; propriedade das fibras de conduzir e transmitir às células vizinhas um estímulo recebido;&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;Inotropismo ou contratilidade:&lt;/strong&gt; capacidade de responder ao estímulo elétrico com uma atividade mecânica, representada pela contração miocárdica.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;ciclo-cardíaco&quot;&gt;Ciclo cardíaco&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/CG_Heart.gif&quot; alt=&quot;Gif do ciclo cardíaco&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Em um dado momento do ciclo cardíaco, ocorre repouso elétrico e mecânico do coração. A partir daí, reconstituímos a sequência de fatos que o compõem, tomando como exemplo o lado esquerdo do coração:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Neste momento, fim da diástole (coração 8), os folhetos da valva mitral estão semiabertos; entretanto, pouca ou nenhuma quantidade de sangue passa por eles. Isso se deve à pequena diferença pressórica entre o AE e o VE. Tal fase se denomina &lt;strong&gt;enchimento ventricular lento&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;O nó sinusal emite um novo estímulo que vai excitar os átrios, cuja musculatura se contrairá a seguir. Como consequência da contração, haverá redução do volume interno do AE e elevação concomitante do nível pressórico dessa cavidade, que resultará na impulsão do sangue para o VE;
+    &lt;ul&gt;
+      &lt;li&gt;A elevação da pressão atrial corresponde à onda A do atriograma;&lt;/li&gt;
+      &lt;li&gt;As valvas AV se afastam amplamente para possibilitar o afluxo de sangue para o ventrículo, mantendo-se semicerradas após;&lt;/li&gt;
+      &lt;li&gt;A elevação da pressão atrial é seguida de aumento da pressão ventricular, a qual se denomina pressão diastólica final do ventrículo (Pd2 ou Pdf);&lt;/li&gt;
+      &lt;li&gt;A participação da contração atrial no enchimento ventricular situa-se em torno de 20 a 30% do volume sanguíneo total.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;O estímulo elétrico passa pela junção AV, distribui-se pelo feixe de His e pela rede de Purkinje, passando a excitar a musculatura ventricular. Devidamente despolarizada, esta se contrai e eleva a pressão ventricular até alcançar e ultrapassar o nível pressórico intra-atrial, que, por sua vez, começa a decrescer.
+    &lt;ul&gt;
+      &lt;li&gt;Neste momento, ocorre o fechamento dos folhetos da valva mitral (coração 1), constituindo este fenômeno o principal componente da B1.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A pressão ventricular elevada impulsiona para cima a face ventricular da valva mitral, provocando um transitório aumento da pressão dentro do átrio esquerdo que se traduz graficamente pela onda C do atriograma. Em seguida, prossegue o relaxamento muscular do átrio, acompanhado,
+obviamente, de queda da pressão dentro dessa cavidade. Este momento corresponde ao colapso X da curva atrial.&lt;/li&gt;
+  &lt;li&gt;A crescente tensão da parede ventricular produz elevação da pressão intraventricular. O ventrículo acaba por se constituir em uma cavidade fechada, pois as valvas mitral e aórtica estarão momentânea e concomitantemente cerradas. Tal fase é chamada &lt;strong&gt;contração isovolumétrica&lt;/strong&gt; (coração 1).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A &lt;strong&gt;sístole&lt;/strong&gt; compreende o período de B1 (fechamento das válvulas AV - “&lt;em&gt;TUM&lt;/em&gt;”) até a B2 (fechamento das valvas aórtica e pulmonar). Já a &lt;strong&gt;diástole&lt;/strong&gt;, compreende o período de silêncio entre o fim da B2 e a nova B1.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sístole:&lt;/strong&gt; contração ventricular
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Período de contração isovolumétrica:&lt;/strong&gt; todas as válvulas estão fechadas e os ventrículos contraem aumentando a pressão na câmara mas sem aumentar o volume;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Período de ejeção ventricular:&lt;/strong&gt; chega o momento em que a pressão ventricular supera a pressão da aorta, logo, a valva aórtica se abre e inicia o fluxo de sangue por diferença de pressão;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;strong&gt;Ejeção rápida&lt;/strong&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Ejeção lenta:&lt;/strong&gt; os ventrículos começam a se repolarizar, ou seja, reduzir o seu estado de contratilidade, e a ejeção já perde o vigor e a pressão interventricular começa a diminuir. Quando a pressão aórtica supera a pressão do VE, a valva aórtica se fecha e produz B2, marcando o fim da sístole;&lt;/li&gt;
+          &lt;li&gt;protodiástole de Wiggers&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diástole:&lt;/strong&gt; relaxamento ventricular
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Período de relaxamento isovolumétrico:&lt;/strong&gt; inicia após o fechamento das valvas aórtica e pulmonar. O coração começa a relaxar mantendo o mesmo volume, uma vez que as valvas estão fechadas;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Período de enchimento ventricular:&lt;/strong&gt; quando a pressão no átrio supera a pressão no ventrículo, as valvas atrioventriculares se abrem permitindo o fluxo de sangue;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;strong&gt;Rápido:&lt;/strong&gt; enchimento vigoroso;&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;Lento:&lt;/strong&gt; enchimento mais lento;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Período de contração atrial:&lt;/strong&gt; a sístole atrial, corresponde à onda P no ECG e contribui por apenas 20% do volume fornecido para os ventrículos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;alert aviso-green&quot;&gt;
+Sempre lembrar que a despolarização promove a contração e a repolaização o relaxameto!
+&lt;/div&gt;
+
+&lt;p&gt;O ECG tem início com a onda P, a despolarização dos átrios.&lt;/p&gt;
+
+&lt;h3 id=&quot;diagrama-de-wiggers&quot;&gt;Diagrama de Wiggers&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/Wiggers.svg.png&quot; alt=&quot;Ciclo cardíaco&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;incisura dicrótica&lt;/strong&gt; corresponde ao fechamento da valva aórtica. Os valores médios da pressão aórtica refletem os valores da pressão arterial sistêmica, com média de 120 x 80 mmHg. Já no que diz respeito à pressão atrial, os valores médios são de 4 a 6 mmHg.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ciclo.jpeg&quot; alt=&quot;Ciclo cardíaco&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Porto, Semiologia médica - 7° edição.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Abdome agudo</title><link href="http://localhost:4000/mapas/abdome-agudo.html" rel="alternate" type="text/html" title="Abdome agudo" /><published>2019-10-03T00:00:00-03:00</published><updated>2019-10-03T00:00:00-03:00</updated><id>http://localhost:4000/mapas/abdome-agudo</id><content type="html" xml:base="http://localhost:4000/mapas/abdome-agudo.html">&lt;p&gt;&lt;img class=&quot;mapa&quot; alt=&quot;imagem do mapa&quot; src=&quot;/assets/mapas/abdome-agudo.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/mapas/abdome.jpeg&quot; alt=&quot;anatomia abdome&quot; /&gt;&lt;/p&gt;
 
@@ -446,217 +764,4 @@ Teratomas&lt;/p&gt;
       &lt;li&gt;Outros&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hidratação e distúrbio ácido básico</title><link href="http://localhost:4000/pediatria/hidratacao-e-disturbio-acido-basico.html" rel="alternate" type="text/html" title="Hidratação e distúrbio ácido básico" /><published>2019-09-23T00:00:00-03:00</published><updated>2019-09-23T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/hidratacao-e-disturbio-acido-basico</id><content type="html" xml:base="http://localhost:4000/pediatria/hidratacao-e-disturbio-acido-basico.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#doença-diarreica-aguda&quot; id=&quot;markdown-toc-doença-diarreica-aguda&quot;&gt;Doença diarreica aguda&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;doença-diarreica-aguda&quot;&gt;Doença diarreica aguda&lt;/h2&gt;
-
-&lt;p&gt;É  a principal causa de desidratação e aunda uma importante causa de mortalidade infantil no Brasil. Os principais patógenos são o rotavírus e as bactérias &lt;em&gt;E. coli&lt;/em&gt;, &lt;em&gt;Shigella&lt;/em&gt; e &lt;em&gt;Salmonella&lt;/em&gt;. Nas regiões pobres prevalecem as etiologias bacterianas enquanto que nas ricas prevalecem as virais. Um episódio diarréico grave se caracteriza como 11 ou mais evacuações por dia.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Diarreia líquida&lt;/li&gt;
-  &lt;li&gt;Diarreia com sangue&lt;/li&gt;
-  &lt;li&gt;Diarreia persistente&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A fisiopatologia pode ser: osmótica (mais comum por rotavírus), secretora (Cólera, E. coli) e aumento da motilidade (secundário). Mas a associação entre o patógeno e o tipo de diarréia não segue uma regra.&lt;/p&gt;
-
-&lt;p&gt;Quanto ao tempo de duração:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aguda: até 14 dias;&lt;/li&gt;
-  &lt;li&gt;Persistente: 14 a 30 dias;&lt;/li&gt;
-  &lt;li&gt;Crônica: mais de 30 dias.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Escore de gravidade da diarréia:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/pediatria/diarreia1.jpeg&quot; alt=&quot;Diarreia&quot; /&gt;
-&lt;img src=&quot;/assets/pediatria/diarreia2.jpeg&quot; alt=&quot;Diarreia&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Da infância à vida adulta, a proporção de água tende a cair ao longo do crescimento e desenvolvimento.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Plano A: sais para reidratação oral (SRO) com manutenção 60 a 75 mEq de sódio por litro.&lt;/li&gt;
-  &lt;li&gt;Plano B: expansão em via oral com 10-20 mL/kg.h de SRO em doses fracionadas de 5 em 5 minutos.&lt;/li&gt;
-  &lt;li&gt;Plano C: expansão endovenosa associado a manutenção endovenosa ou oral.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A interrupção da reposição hídrica deve ocorrer quando os sinais de desidratação desaparecerem e quando houver diurese. Em geral esses fatores são conseguidos com 4 a 6 horas de reidratação com SRO. O aumento do peso também pode ser usado como parâmetro de melhora da hidratação.&lt;/p&gt;
-
-&lt;p&gt;1 de soro glicosado para 1 de soro fisiológico (0,9%).&lt;/p&gt;
-
-&lt;p&gt;Se houver sinais de choque, a expansão deve ser feita com 40 mL/kg.h com solução de soro fisiológico ou ringer lactato (não se faz mais com o soro glicosado).&lt;/p&gt;
-
-&lt;p&gt;Na doença diarreica aguda quase nunca se usa antibióticos. As indicações são bebês abaixo de 6 meses com quadro grave e em situações epidêmicas sugestivas de Shigella ou Cólera. O uso de probióticos (&lt;em&gt;Lactobacillus&lt;/em&gt; e &lt;em&gt;Sacharomices&lt;/em&gt;) ainda é muito controverso.&lt;/p&gt;
-
-&lt;p&gt;Antieméticos (como a ondansetrona) podem ser usados nos casos de vômitos incoercíveis.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Brandt Kátia Galeão, Antunes Margarida Maria de Castro, Silva Gisélia Alves Pontes da. Diarreia aguda: manejo baseado em evidências. J. Pediatr. (Rio J.) [Internet]. 2015 Dec [cited 2019 Sep 23]; 91(6 Suppl 1):S36-S43.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Sepse abdominal</title><link href="http://localhost:4000/cirurgia/sepsis-abdominal.html" rel="alternate" type="text/html" title="Sepse abdominal" /><published>2019-09-19T00:00:00-03:00</published><updated>2019-09-19T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/sepsis-abdominal</id><content type="html" xml:base="http://localhost:4000/cirurgia/sepsis-abdominal.html">&lt;p&gt;Disfunção orgânica por uma resposta desregulada do organismo a uma infecção.&lt;/p&gt;
-
-&lt;p&gt;Os dois escores prognósticos mais importantes são o SOFA e o q-SOFA.&lt;/p&gt;
-
-&lt;p&gt;O SOFA não comtempla dois grandes sistemas: não avalia disfunção miocárdica e do TGI.&lt;/p&gt;
-
-&lt;p&gt;q-SOFA:&lt;/p&gt;
-
-&lt;p&gt;Para cada alteração é 1 ponto. Se 2 ou mais pontos associado a uma infecção já é um indicador de risco.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;FR &amp;gt; 22&lt;/li&gt;
-  &lt;li&gt;PAS &amp;lt; 100&lt;/li&gt;
-  &lt;li&gt;Glashow &amp;lt; 15&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Surviging sepsis 2018 (EGDT)&lt;/p&gt;
-
-&lt;p&gt;The management of intra-abdminal infections a global perspective 2017&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Disfunção orgânica por uma resposta desregulada do organismo a uma infecção.</summary></entry><entry><title type="html">Proctologia</title><link href="http://localhost:4000/cirurgia/proctologia.html" rel="alternate" type="text/html" title="Proctologia" /><published>2019-09-18T00:00:00-03:00</published><updated>2019-09-18T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/proctologia</id><content type="html" xml:base="http://localhost:4000/cirurgia/proctologia.html">&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
-
-&lt;p&gt;No reto, diferentemente do cólon que possui haustrações, a musculatura é lisa. É muito mais difícil o aparecimento de divertículos no reto devido a isso.&lt;/p&gt;
-
-&lt;p&gt;No canal anal o reto forma a linha denteada. Um marco importante de transição para cirurgias. A musculatura circular do reto, na sua porção distal, se expessa a forma o esfincter do ânus.&lt;/p&gt;
-
-&lt;p&gt;No fim da linha denteada tem válvulas que tem as criptas onde desembocam as glandulas anais. O abcesso pode se originar da obstrução da glândula.&lt;/p&gt;
-
-&lt;p&gt;A musculatura interna dá o esfincter intesno, mas a musculatura externa não dá o esfincter externo.&lt;/p&gt;
-
-&lt;h3 id=&quot;continência-anal&quot;&gt;Continência anal&lt;/h3&gt;
-
-&lt;h2 id=&quot;hemorroidas&quot;&gt;Hemorroidas&lt;/h2&gt;
-
-&lt;p&gt;É o prolapso da mucosa retal.&lt;/p&gt;
-
-&lt;p&gt;Têm influênciia de história familiar. A constipação é o principal fator de risco, mas a diarréia crônica também pode ser. Pode aparecer durante a gravidez mas tende a melhorar após o parto.&lt;/p&gt;
-
-&lt;p&gt;A hipertensão porta está relacionada à doença hemorroidária?&lt;/p&gt;
-
-&lt;h3 id=&quot;sintomas&quot;&gt;Sintomas&lt;/h3&gt;
-
-&lt;p&gt;Ou é &lt;span class=&quot;green&quot;&gt;sangramento&lt;/span&gt; ou é &lt;span class=&quot;green&quot;&gt;prolapso&lt;/span&gt;. Pode haver prurido anal. Na maioria das vezes é &lt;span class=&quot;blue&quot;&gt;indolor&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;A necrose e ulceração são muito raras&lt;/p&gt;
-
-&lt;p&gt;Diagnósticos diferenciais: pólipos, procidência de reto (um prolapso total de mucosa, submucosa e musculatura fazendo eversão do reto).&lt;/p&gt;
-
-&lt;h3 id=&quot;classficação&quot;&gt;Classficação&lt;/h3&gt;
-
-&lt;p&gt;Graus:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Interna&lt;/li&gt;
-  &lt;li&gt;Iterna que se exterioriza após defecação mas volta espontaneamente&lt;/li&gt;
-  &lt;li&gt;Iterna que se exterioriza após defecação mas não volta espontaneamente&lt;/li&gt;
-  &lt;li&gt;Externa e não interioriza&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Flicomas&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Orientação higieno-dietética&lt;/li&gt;
-  &lt;li&gt;Clínico&lt;/li&gt;
-  &lt;li&gt;Crioterapia&lt;/li&gt;
-  &lt;li&gt;Fotocoagulação infravermelha&lt;/li&gt;
-  &lt;li&gt;Ligadura elástica&lt;/li&gt;
-  &lt;li&gt;Hemorroidectomia
-    &lt;ul&gt;
-      &lt;li&gt;Aberta&lt;/li&gt;
-      &lt;li&gt;Semifechada&lt;/li&gt;
-      &lt;li&gt;Fechada&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Anoplastia grampeada&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;trombose-hemorroidária&quot;&gt;Trombose hemorroidária&lt;/h2&gt;
-
-&lt;p&gt;Na grande maioria daz vezes o tratamento é clínico.&lt;/p&gt;
-
-&lt;h2 id=&quot;fissura-anal&quot;&gt;Fissura anal&lt;/h2&gt;
-
-&lt;p&gt;Por definicação, está localizada abaixo da linha denteada. Pode ser aguda (só a fissura) ou crônica (edemaciada e hipertrofiada formando uma papila anal hipertrófica).&lt;/p&gt;
-
-&lt;p&gt;A queixa mais frequente é a dor durante e após a evacuação. Sensação desagradavel do ânus, o espasmo do esfincter interno do ânus.&lt;/p&gt;
-
-&lt;p&gt;Plicoma&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Trídade:
-    &lt;ul&gt;
-      &lt;li&gt;Fissura&lt;/li&gt;
-      &lt;li&gt;Papila anal hipertrófica&lt;/li&gt;
-      &lt;li&gt;Plicoma&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pode fazer diagnóstico diferencial com &lt;strong&gt;carcinoma de canal anal ulcerado&lt;/strong&gt;, sífilis primária, herpes perianal, doença de Crohn perianal, tuberculose perianal.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;Inicialmente é clínico, recomendando mudança da dieta.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Esfincterotomia química
-    &lt;ul&gt;
-      &lt;li&gt;Óxido nítrico&lt;/li&gt;
-      &lt;li&gt;Isossorbida&lt;/li&gt;
-      &lt;li&gt;Toxina botulínica&lt;/li&gt;
-      &lt;li&gt;Nifedipina&lt;/li&gt;
-      &lt;li&gt;Indoramina&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Esfincterotomia cirúrgica&lt;/li&gt;
-  &lt;li&gt;Crioterapia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;fístulas&quot;&gt;Fístulas&lt;/h2&gt;
-
-&lt;p&gt;A fistula e formação de abcessos&lt;/p&gt;
-
-&lt;p&gt;Classificação dos abcessos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Submucoso&lt;/li&gt;
-  &lt;li&gt;Perianal (o que dá mais sintomas e mais percebido)&lt;/li&gt;
-  &lt;li&gt;Interesfincteriano (intermuscular)&lt;/li&gt;
-  &lt;li&gt;Isquiorretal&lt;/li&gt;
-  &lt;li&gt;Pelvirretal (o mais raro e mais difícil de tratar).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h3&gt;
-
-&lt;p&gt;Para diferenciar a fistula perianal-retal, pode-se palpar a pele perianal e sentir uma “&lt;strong&gt;corda de violão&lt;/strong&gt;” que corresponde ao trajeto da fístula até o reto.&lt;/p&gt;
-
-&lt;p&gt;Regra de Godshal: as fístulas anteriores normalmente fazem um camino em linha reta até o ânus em quanto que as posteriores fazem um caminho angulado (em ferradura).&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-2&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;Se for diagnosticado muito no início, pode ser feito apenas a antibioticoterapia para gram-negativo e anaeróbio.&lt;/p&gt;
-
-&lt;p&gt;O tratamento ideal é drenar o abcesso com anestesia de bloqueio e fazer uma curetagem da cripta anal com colocação de dreno para impedir a formação de fístulas.&lt;/p&gt;
-
-&lt;div class=&quot;alert aviso-green&quot;&gt;Se não for corretamente tratado, se dará a formação da fístulas.&lt;/div&gt;
-
-&lt;p&gt;Síndrome de fournier: fascíite necrotizante da região pélvica perianal. Uma doença grave que pode matar o paciente.&lt;/p&gt;
-
-&lt;p&gt;Tratamento das fístulas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fistulectomia: retirar todo o tecido da fístula, não se faz mais hoje em dia;&lt;/li&gt;
-  &lt;li&gt;Fistulotomia: poupa tecido;&lt;/li&gt;
-  &lt;li&gt;Uso de Seton&lt;/li&gt;
-  &lt;li&gt;Cola de fibrina&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Anatomia</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

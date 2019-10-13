@@ -45,6 +45,12 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cardiologia/principios-basicos-de-hemodinamica.html',
+      
+        '/cardiologia/hipertensao-arterial.html',
+      
+        '/cardiologia/fisiologia-cardiovascular.html',
+      
         '/mapas/abdome-agudo.html',
       
         '/pediatria/cipe.html',
@@ -307,6 +313,28 @@ self.addEventListener('install', function (event) {
         '/assets/Abdome-agudo.jpeg'
       
         '/assets/arrow.svg'
+      
+        '/assets/cardiologia/CG_Heart.gif'
+      
+        '/assets/cardiologia/Diagram_of_the_human_heart.svg'
+      
+        '/assets/cardiologia/Wiggers.svg.png'
+      
+        '/assets/cardiologia/ciclo-cardiaco.png'
+      
+        '/assets/cardiologia/ciclo.jpeg'
+      
+        '/assets/cardiologia/coronarias.gif'
+      
+        '/assets/cardiologia/coronarias2.jpg'
+      
+        '/assets/cardiologia/coronarias3.png'
+      
+        '/assets/cardiologia/inervação.jpeg'
+      
+        '/assets/cardiologia/rxtorax.jpeg'
+      
+        '/assets/cardiologia/valvulas.jpeg'
       
         '/assets/cruz-web.svg'
       
