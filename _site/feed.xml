@@ -1,4 +1,372 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-13T15:36:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Hipertensão arterial</title><link href="http://localhost:4000/cardiologia/hipertensao-arterial.html" rel="alternate" type="text/html" title="Hipertensão arterial" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/hipertensao-arterial</id><content type="html" xml:base="http://localhost:4000/cardiologia/hipertensao-arterial.html">&lt;p&gt;7 Diretriz brasileira de HAS
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-17T20:18:59-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Derrame pleural</title><link href="http://localhost:4000/pneumologia/derrame-pleural.html" rel="alternate" type="text/html" title="Derrame pleural" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/derrame-pleural</id><content type="html" xml:base="http://localhost:4000/pneumologia/derrame-pleural.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/derrame.jpeg&quot; alt=&quot;quadro&quot; /&gt;
+&lt;img src=&quot;/assets/pneumo/tto-dpp.jpeg&quot; alt=&quot;quadro&quot; /&gt;
+&lt;img src=&quot;/assets/pneumo/dpp-atb.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">DPOC</title><link href="http://localhost:4000/pneumologia/dpoc.html" rel="alternate" type="text/html" title="DPOC" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/dpoc</id><content type="html" xml:base="http://localhost:4000/pneumologia/dpoc.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/dpoc-risk.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Arteriosclerose</title><link href="http://localhost:4000/cardiologia/arteriosclerose.html" rel="alternate" type="text/html" title="Arteriosclerose" /><published>2019-10-16T00:00:00-03:00</published><updated>2019-10-16T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/arteriosclerose</id><content type="html" xml:base="http://localhost:4000/cardiologia/arteriosclerose.html">&lt;p&gt;Células espumosas e formação do ateroma.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Células espumosas e formação do ateroma.</summary></entry><entry><title type="html">ECG</title><link href="http://localhost:4000/cardiologia/ecg.html" rel="alternate" type="text/html" title="ECG" /><published>2019-10-15T00:00:00-03:00</published><updated>2019-10-15T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#ondas&quot; id=&quot;markdown-toc-ondas&quot;&gt;Ondas&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ritmo&quot; id=&quot;markdown-toc-ritmo&quot;&gt;Ritmo&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#ritmo-sinusal&quot; id=&quot;markdown-toc-ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ritmo-ventricular&quot; id=&quot;markdown-toc-ritmo-ventricular&quot;&gt;Ritmo ventricular&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#extrassístole&quot; id=&quot;markdown-toc-extrassístole&quot;&gt;Extrassístole&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#frequência&quot; id=&quot;markdown-toc-frequência&quot;&gt;Frequência&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As células cardíacas, em seu estado de repouso, são eletricamente polarizadas, ou seja, o seu meio interno é carregado negativamente em relação
+ao seu meio externo.&lt;/p&gt;
+
+&lt;p&gt;Sempre que vamos analizar um ECG, nós olhamos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Velocidade&lt;/li&gt;
+  &lt;li&gt;Calibração&lt;/li&gt;
+  &lt;li&gt;Ritmo&lt;/li&gt;
+  &lt;li&gt;Frequência&lt;/li&gt;
+  &lt;li&gt;Intervalos&lt;/li&gt;
+  &lt;li&gt;Eixo&lt;/li&gt;
+  &lt;li&gt;Sobrecargas&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
+
+&lt;h3 id=&quot;ondas&quot;&gt;Ondas&lt;/h3&gt;
+
+&lt;p&gt;Onda P&lt;/p&gt;
+
+&lt;p&gt;Onda T&lt;/p&gt;
+
+&lt;p&gt;Complexo QRS&lt;/p&gt;
+
+&lt;p&gt;Onda U&lt;/p&gt;
+
+&lt;h2 id=&quot;ritmo&quot;&gt;Ritmo&lt;/h2&gt;
+
+&lt;h3 id=&quot;ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/h3&gt;
+
+&lt;p&gt;Ritmo sinusal é aquele originado no &lt;strong&gt;nó sinusal&lt;/strong&gt;, conduzido aos ventrículos com intervalo entre &lt;strong&gt;120 ms e 200 ms&lt;/strong&gt;. Em sua normalidade o ECG registra ritmo sinusal de uma maneira muito simples: tem que ter onda P (representante da despolarização dos átrios) e QRS. Deve ser &lt;strong&gt;positiva em DI, DII e aVF&lt;/strong&gt; e &lt;strong&gt;negativa em aVR&lt;/strong&gt;, em que deve ser negativa. Lembrar que as vezes as vezes a onda P pode ser negativa em DIII.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Ritmo sinusal
+&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Onda P positiva em:
+      &lt;ul&gt;
+        &lt;li&gt;DI, DII e aVF&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Onda P negativa em:
+      &lt;ul&gt;
+        &lt;li&gt;aVR&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondap.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todo rítmo que nasce no átrio mas não é sinusal, nos chamamos de atrial ectópico.&lt;/p&gt;
+
+&lt;h3 id=&quot;ritmo-ventricular&quot;&gt;Ritmo ventricular&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Frequência baixa&lt;/li&gt;
+  &lt;li&gt;Ondas P dissociadas do complexo QRS (oriundas do nó sinusal que continua trabalhando normalmente)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Para ser chamado de ritmo deve ter ao menos 3 batimentos seguidos.&lt;/p&gt;
+
+&lt;h3 id=&quot;extrassístole&quot;&gt;Extrassístole&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Supraventricular&lt;/li&gt;
+  &lt;li&gt;Ventricular&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;frequência&quot;&gt;Frequência&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/quadrados.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1 minuto&lt;/strong&gt; de traçado a uma &lt;strong&gt;velocidade de 25 mm/s&lt;/strong&gt; apresenta cerca de &lt;strong&gt;1500 quadrados&lt;/strong&gt; menores, basta então &lt;strong&gt;dividir esse valor pelo número de quadrados menores entre o pico de duas ondas R sequenciais&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Uma outra forma de avaliação da FC pode ser feita de maneira rápida e já permite a
+imediata definição de um paciente em taquicardia (FC &amp;gt; 100 bpm) ou bradicardia (FC &amp;lt;
+50 bpm, descartando situações especiais). Esta forma consiste em procurar complexos QRS
+sequênciais que estejam posicionados sobre o traçado maior que divide os blocos de cinco
+quadrados menores e contato. Na sequência, os valores de &lt;strong&gt;300, 150, 100, 75 e 60&lt;/strong&gt; a cada linha
+maior de quadrados&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/quadrados2.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O coração acelera na inspiração e desacelera na expiração, de forma fisiológica. A arritmia sinusal respiratória pode não indicar patologia.&lt;/p&gt;
+
+&lt;h2 id=&quot;eixo&quot;&gt;Eixo&lt;/h2&gt;
+
+&lt;p&gt;O eixo normal do coração se localiza entre –30° e + 90°. Na presença do desvio do eixo
+para a esquerda o eixo cardíaco varia de –30° e –90°. Na ocorrência de desvio do eixo para
+a direita o eixo está entre +90° e +180°.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/vetores.jpg&quot; alt=&quot;Vetores&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Para a determinação do eixo, devemos considerar a predominância do QRS, se positivo,
+negativo ou isoelétrico nas derivações &lt;strong&gt;DI e aVF&lt;/strong&gt;, o que permitirá inferir em qual
+quadrante está o QRS, de acordo com as projeções da roda dos ventos. Verifique a derivação DII, caso esta esteja positivo significa que o eixo encontra-se no quadrante
+inferior direito. Para definir aproximadamente o eixo dentro deste quadrante, observa-se
+em qual derivação o QRS está mais isoelétrico, pois será na derivação perpendicular a esta
+que o eixo estará.&lt;/p&gt;
+
+&lt;p&gt;Vale lembrar que o desvio do eixo elétrico para a direita ou para a esquerda muitas vezes não está relacionado com patologias e sim com o biotipo. Por exemplo, em indivíduos
+brevilíneos o eixo tende a ficar horizontalizado devido ao fato de o coração repousar uma
+maior parte sobre o diafragma, em indivíduos longilíneos ocorre o inverso, tornando o eixo
+verticalizado.&lt;/p&gt;
+
+&lt;p&gt;Desvio pra esquerda: sobrecarga ventricular esquerda ou bloqueio de ramo esquerdo;
+Desvio pra direita: sobrecarga de VD ou BRD;&lt;/p&gt;
+
+&lt;p&gt;Como saber o quadrante do eixo:&lt;/p&gt;
+
+&lt;p&gt;Sempre olhar as derivações D1 (a mais horizontal, lembrando que a captação do eletrodo está no braço esquerdo) e aVF (a mais vertical). Se o QRS for predominantemente positivo nessas duas derivações, então o eixo está no quadrante inferior esquerdo.&lt;/p&gt;
+
+&lt;p&gt;Obs: se D1 tiver componente positivo igual o negativo do QRS, significa que o eixo está exatamente no eixo vertical. O mesmo vale para o aVF, se o componente positivo do QRS for igual o negativo, então o eixo está exatamente na horizontal.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Semiologia cardiovascular</title><link href="http://localhost:4000/cardiologia/semiologia-cardiovascular.html" rel="alternate" type="text/html" title="Semiologia cardiovascular" /><published>2019-10-14T00:00:00-03:00</published><updated>2019-10-14T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/semiologia-cardiovascular</id><content type="html" xml:base="http://localhost:4000/cardiologia/semiologia-cardiovascular.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#anamnese&quot; id=&quot;markdown-toc-anamnese&quot;&gt;Anamnese&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#identificação&quot; id=&quot;markdown-toc-identificação&quot;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#antecedentes-pessoais&quot; id=&quot;markdown-toc-antecedentes-pessoais&quot;&gt;Antecedentes pessoais&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#antecedentes-familiares&quot; id=&quot;markdown-toc-antecedentes-familiares&quot;&gt;Antecedentes familiares&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hábitos-de-vida&quot; id=&quot;markdown-toc-hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sinais-e-sintomas&quot; id=&quot;markdown-toc-sinais-e-sintomas&quot;&gt;Sinais e sintomas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#ausculta&quot; id=&quot;markdown-toc-ausculta&quot;&gt;Ausculta&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#ausculta-pulmonar&quot; id=&quot;markdown-toc-ausculta-pulmonar&quot;&gt;Ausculta pulmonar&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;anamnese&quot;&gt;Anamnese&lt;/h2&gt;
+
+&lt;h3 id=&quot;identificação&quot;&gt;Identificação&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Idade&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Nas crianças e jovens, predominam as anomalias congênitas e os episódios iniciais da moléstia reumática;&lt;/li&gt;
+      &lt;li&gt;A doença de Chagas e a hipertensão arterial são mais frequentes dos 20 aos 50 anos de idade;&lt;/li&gt;
+      &lt;li&gt;A doença arterial coronariana (angina de peito e IAM) é mais comum acima da quinta década de vida, apesar de aparecer cada vez mais precocemente.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sexo&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;As lesões mitrais, especialmente a estenose e o prolapso da valva mitral, ocorrem mais em mulheres jovens;&lt;/li&gt;
+      &lt;li&gt;A aterosclerose coronária predomina no sexo masculino até os 45 anos de idade; a partir desta idade, a incidência vai se tornando igual em ambos os sexos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cor da pele&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Anemia falciforme na raça negra;&lt;/li&gt;
+      &lt;li&gt;A hipertensão arterial, além de ser mais frequente nos negros, aparece em faixas etárias mais baixas e apresenta evolução mais grave nestes indivíduos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Profissão&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Estado civil&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Naturalidade e procedência:&lt;/strong&gt; pesquisar epimiologia para doença de Chagas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;antecedentes-pessoais&quot;&gt;Antecedentes pessoais&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Destacam-se a relação entre as &lt;strong&gt;infecções estreptocócicas&lt;/strong&gt;, principalmente da bucofaringe, e as lesões orovalvares de etiologia reumática.&lt;/li&gt;
+  &lt;li&gt;Estão bem comprovadas as relações entre &lt;strong&gt;alimentação rica em lipídios&lt;/strong&gt; e aterosclerose, entre lesões renais e hipertensão arterial e entre perturbações emocionais e manifestações cardiovasculares de ansiedade e/ou depressão.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;antecedentes-familiares&quot;&gt;Antecedentes familiares&lt;/h3&gt;
+
+&lt;p&gt;Sendo indiscutível sua importância na hipertensão arterial essencial e na cardiopatia isquemica.&lt;/p&gt;
+
+&lt;h3 id=&quot;hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/h3&gt;
+
+&lt;p&gt;Destacam-se o tabagismo, o alcoolismo e o sedentarismo, relacionados com o aparecimento de
+aterosclerose e hipertensão arterial.&lt;/p&gt;
+
+&lt;h2 id=&quot;sinais-e-sintomas&quot;&gt;Sinais e sintomas&lt;/h2&gt;
+
+&lt;p&gt;Serão analisados: dor cardíaca, palpitações, dispneia, tosse e expectoração, chieira, hemoptise, desmaio (lipotimia e síncope), alterações do sono, cianose, edema, astenia e posição de cócoras.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dor precordial&lt;/strong&gt; não é sinônimo de dor cardíaca, pois pode ter origem no coração e em outros órgãos ou estruturas como pleura, esôfago, aorta, mediastino, estômago e na própria parede torácica. A dor relacionada com o coração e com a aorta compreende a de origem &lt;strong&gt;isquêmica&lt;/strong&gt;, a &lt;strong&gt;pericárdica&lt;/strong&gt; e a &lt;strong&gt;aórtica&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Perguntas sobre a dor:
+&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Localização;&lt;/li&gt;
+    &lt;li&gt;Irradiação;&lt;/li&gt;
+    &lt;li&gt;Caráter ou qualidade;&lt;/li&gt;
+    &lt;li&gt;Intensidade;&lt;/li&gt;
+    &lt;li&gt;Duração;&lt;/li&gt;
+    &lt;li&gt;Frequência;&lt;strong&gt;Dispnéia:&lt;/strong&gt;&lt;/li&gt;
+    &lt;li&gt;Fatores desencadeantes ou agravantes;&lt;/li&gt;
+    &lt;li&gt;Fatores atenuantes;&lt;/li&gt;
+    &lt;li&gt;Sintomas concomitantes (os quais podem preceder, acompanhar ou suceder a dor).&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A dor pode ocorrer devido à isquemia cardíaca. A causa mais comum de isquemia miocárdica é a aterosclerose coronária, assumindo características especiais na angina de peito e no infarto agudo do miocárdio. A dor perimamilar ou por debaixo do mamilo quase nunca é de causa cardíaca.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Síndrome de Tietze:&lt;/strong&gt; dor nas articulações condroesternais que piora à palpação caracteriza a osteocondrite.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A dor por obstrução de uma artéria coronária pode ter diversas irradiações: para os pavilhões auriculares, maxilar inferior, nuca, região cervical, membros superiores, ombros, região epigástrica e região interescapulovertebral.&lt;/p&gt;
+
+&lt;p&gt;A dor anginosa é quase sempre do tipo constritiva, tendo o paciente a sensação de que algo aperta o tórax ou a região retroesternal. Para caracterizá-la, o pacien-
+te leva a mão fechada ao peito. Costuma ser descrita como “aperto”, “opressão”, “peso”, “queimação” e “sufocação”. Pode ter também a sensação de nó na garganta, como se se estivesse sendo estrangulado. Tal sensação pode ser percebida nas áreas de irradiação da dor como, por exemplo, impressão de aperto ou de um bracelete no braço.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Dispnéia:&lt;/strong&gt; um dos sintomas mais importantes dos portadores de cardiopatia e significa a sensação consciente e desagradável do ato de respirar. Alguns tipos de dispnéia são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dispneia de esforço:&lt;/strong&gt; aparece com a realização de esforçofísico;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dispneia de decúbito (ortopneia):&lt;/strong&gt; aparece quando o paciente deita, sendo devido à maior congestão pulmonar provocada pelo maior retorno venoso dos MMII e sistema esplâncnico;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dispneia paroxística noturna:&lt;/strong&gt; 0 paciente acorda com intensa dispneia, com sufocação, tosse seca e opressão torácica, sendo obrigado a sentar-se na beira do leito ou levantar-se da cama;
+    &lt;ul&gt;
+      &lt;li&gt;Nas crises mais graves pode ter: tosse com expectoração espumosa (branca ou rosada), cianose, respiração ruidosa pela ocorrência de sibilos e estertores. Este conjunto de sintomas e sinais caracteriza o edema agudo do pulmão.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dispneia periódica ou de Cheyne-Stokes:&lt;/strong&gt; períodos de apneia, seguidos de movimentos respiratórios, superficiais a princípio, mas que se tornam cada vez mais profundos, até chegar a um máximo; depois, diminuem paulatinamente de amplitude até uma nova fase de apneia, após o que se repetem os mesmos fenômenos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O mecanismo de respiração periódica é o seguinte: durante a fase de apneia, ocorre uma gradativa diminuição da tensão de O2 junto com aumento da tensão de CO2. A tensão de CO2 passa a aumentar progressivamente até estimular o centro respiratório. A estimulação súbita e enérgica deste centro, decorrente da hipoxemia e do aumento do C02, produz a hiperpneia, que, por sua vez, determina queda no nível de CO2 e aumento da oxigenação arterial, chegando a um nível em que são insuficientes para estimular o centro respiratório, o qual deixa de emitir estímulos que provoquem movimentos respiratórios. Isso dura certo período de tempo até que se alterem novamente os níveis de O2 no sangue.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Classificação dos cardiopatas de acordo com acapacidade funcional do coração (NYHA):&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Classe I: pacientes com doença cardíaca, porém sem limitação de atividade física. A atividade física ordinária não provoca dispneia, fadiga exagerada, palpitação e nem angina de peito;&lt;/li&gt;
+    &lt;li&gt;Classe II: com doença cardíaca e que apresentam alguma limitação às atividades físicas. Estes pacientes sentem-se bem em repouso, mas a atividade física comum provoca dispneia, fadiga, palpitação ou angina de peito;&lt;/li&gt;
+    &lt;li&gt;Classe III: com doença cardíaca e que apresentam acentuada limitação nas atividades físicas. Eles se sentem bem em repouso, porém pequenos esforços provocam dispneia, fadiga, palpitação ou angina de peito;&lt;/li&gt;
+    &lt;li&gt;Classe IV: com doença cardíaca e que são incapazes de exercer qualquer atividade física. Os sintomas de dispneia, fadiga, palpitação ou angina de peito existem mesmo em repouso e se acentuam com qualquer atividade;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
+
+&lt;h3 id=&quot;ausculta&quot;&gt;Ausculta&lt;/h3&gt;
+
+&lt;h4 id=&quot;ausculta-pulmonar&quot;&gt;Ausculta pulmonar&lt;/h4&gt;
+
+&lt;p&gt;A expiração prolongada e os sibilos da insuficiência ventricular esquerda são produzidos por &lt;strong&gt;edema da mucosa brônquica&lt;/strong&gt;, que é a causa do &lt;strong&gt;estreitamento das vias respiratórias&lt;/strong&gt;.
+Outro mecanismo provável é a broncoconstrição reflexa.&lt;/p&gt;
+
+&lt;p&gt;Para o diagnóstico diferencial entre asma brônquica e
+asma cardíaca, destacam-se os seguintes elementos: a asma
+cardíaca costuma surgir na posição deitada e melhora quando
+o paciente senta-se ou fica de pé, sendo acompanhada por
+taquicardia, ritmo de galope e estertores finos nas bases pulmonares; na asma brônquica, a dispneia não é aliviada pela mudança de posição, os sibilos são disseminados e predominam sobre os estertores.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Caso persistam dúvidas, a radiografia simples do tórax é um recurso de grande valor, pois torna possível evidenciar a congestão pulmonar, que é o substrato anatomopatológico principal da asma cardíaca, enquanto, na asma brônquica, encontra-se hiperinsuflação pulmonar.&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Radiografia de tórax</title><link href="http://localhost:4000/pneumologia/radiografia-de-torax.html" rel="alternate" type="text/html" title="Radiografia de tórax" /><published>2019-10-14T00:00:00-03:00</published><updated>2019-10-14T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/radiografia-de-torax</id><content type="html" xml:base="http://localhost:4000/pneumologia/radiografia-de-torax.html">&lt;p&gt;As incidências podem ser, principalmente, PA e perfil esquerdo, para evitar o aumento relativo do coração (como ele fica ligeiramente mais distante da fonte de captura, seu tamanho fica menor).&lt;/p&gt;
+
+&lt;p&gt;PA: coração menos ampliado, consegue vizualisar ápice pulmonar acima da clavícula&lt;/p&gt;
+
+&lt;p&gt;Densidades:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ar: escura&lt;/li&gt;
+  &lt;li&gt;Gordura: cinza-escura&lt;/li&gt;
+  &lt;li&gt;Água:&lt;/li&gt;
+  &lt;li&gt;Osso: branco&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A traqueia tem em torno de 12 cm de comprimento e 2 a 2,5 cm de largura. Termina na carina, originando os brônquios fonte direito e esquedo. Sempre tentar visualizar a carina.&lt;/p&gt;
+
+&lt;p&gt;Sinal do duplo contorno: o AE cresce para o lado direito, cirando um duplo contorno na silhueta direita do coração.&lt;/p&gt;
+
+&lt;p&gt;Sinal da silhueta: borramento da silhueta cardíaca quando existem alterações do lobo pulmoar médio.&lt;/p&gt;
+
+&lt;p&gt;O hilo esquerdo é mais elevado que o direito. Nos hilos são vistos vasos, artérias, veias, os brônquios, vasos linfáticos e linfonodos.&lt;/p&gt;
+
+&lt;p&gt;Cúpulas diafragmáticas: traçar uma linha do seio costofrênico para o cardiofrênico. Se a distância perpendicular entre o ápica diafragmático e essa linha traçado for maior que 1,5 cm, indica hiperinsuflação pulmonar. A cúpula direita é mais elevada que a esquerda devido à presença do fígado. O direito se projeta mais anteriormente e o esquedo é interrompido antes devido à área cardíaca.&lt;/p&gt;
+
+&lt;p&gt;Sinal da parábola: concavidade para cima traduz derrame pleural.&lt;/p&gt;
+
+&lt;p&gt;A pleura só é vista na radiografia quando está doente.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Padrão alveolar: é o preenchimento dos espaços alveolares com materia anormal, como sangue, pus, água, restos proteicos ou combinação deles;
+    &lt;ul&gt;
+      &lt;li&gt;Algodonosas&lt;/li&gt;
+      &lt;li&gt;Contornos mal definidos&lt;/li&gt;
+      &lt;li&gt;Coalescência&lt;/li&gt;
+      &lt;li&gt;Segmentar/lobar&lt;/li&gt;
+      &lt;li&gt;Aerobroncogramas: o velamento pulmonar propicia o contaste suficiente para se visualizar os bronquios que normalmente não são vistos, pois estão cheios de ar assim como os pulmões normais, ficando sem contraste entre estas estruturas.&lt;/li&gt;
+      &lt;li&gt;Exemplos: Edema pulmonar, pneumonia lobar, hemorragia, carcinoma bronquiolo alveolar;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Padrão intesticial: afeta o tecido de suporte do parênquima.
+    &lt;ul&gt;
+      &lt;li&gt;Exemplos: pneumonia viral, tuberculose, sarcoidose, fibrose pulmonar idiopática, pulmão reumatóide, linfangite carcinoide.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nódulo:&lt;/strong&gt; até 3cm e bem delimitada;
+    &lt;ul&gt;
+      &lt;li&gt;Quando há nódulos múltiplos, pensamos em: neoplasia metastática, processos infecciosos (histoplasmose), etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Massa:&lt;/strong&gt; maior de 3cm.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Padrão reticular: lembra fibrose pulmonar;
+Padrão nodular:&lt;/p&gt;
+
+&lt;p&gt;Lesões hipertransparentes: enfisema, doença de pequenas vias aéreas, etc.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Atelectasia&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Causas: obstrutiva, conpressiva, passiva (pneumotórax), restritiva (fibrose), por alteração do surfactante em bebês.&lt;/li&gt;
+    &lt;li&gt;Na obstrutiva não são observados os broncogramas aéreos.&lt;/li&gt;
+    &lt;li&gt;Na obstrutiva também se observa desvio das estruturas contralaterais para o lado da lesão (como a traqueia e o hilo pulmonar contralateral e a área cardíaca);&lt;/li&gt;
+    &lt;li&gt;Na fibro-atelectasia pode haver sim os aerobroncogramas.&lt;/li&gt;
+    &lt;li&gt;Não se pode usar o conceito “opacidade alveolar” para a atelectasia, pois nesta os espaços alveolares não estão preenchidos, mas sim colabados. Para diferenciar, sempre olhar se há redução do volume pulmonar que indique atelectasia.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Consolidação&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+
+&lt;/div&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Bronquiectasias&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;p&gt;Dilatação brônquica irreversível. Na radiografia apresenta um padrão inespecífico.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Alterações do mediastino anterior (os 4T’s):
+    &lt;ul&gt;
+      &lt;li&gt;Timoma&lt;/li&gt;
+      &lt;li&gt;Tireoide&lt;/li&gt;
+      &lt;li&gt;Terrivel linfoma&lt;/li&gt;
+      &lt;li&gt;Teratoma&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Médio
+    &lt;ul&gt;
+      &lt;li&gt;Linfonodomegalias&lt;/li&gt;
+      &lt;li&gt;Cistos congênitos&lt;/li&gt;
+      &lt;li&gt;Doenças das vias aéreas&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Posterior&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Retificação do tronco da artéria pulmonar.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hipertensão arterial</title><link href="http://localhost:4000/cardiologia/hipertensao-arterial.html" rel="alternate" type="text/html" title="Hipertensão arterial" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/hipertensao-arterial</id><content type="html" xml:base="http://localhost:4000/cardiologia/hipertensao-arterial.html">&lt;p&gt;7 Diretriz brasileira de HAS
 Diretriz europeia de HAS&lt;/p&gt;
 
 &lt;p&gt;Fisiologicamente a pressão arterial aumenta com a idade, pois os vasos ficam mais rígios, não se dilatam, reduzindo a sua área e elevando a pressão nas paredes.&lt;/p&gt;
@@ -366,447 +734,4 @@ do manúbrio esternal.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/mapas/abdome.jpeg&quot; alt=&quot;anatomia abdome&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/emergencia/abdome-agudo.jpeg&quot; alt=&quot;DDs abdome&quot; /&gt;
-&lt;img src=&quot;/assets/emergencia/abdome-agudo2.jpeg&quot; alt=&quot;DDs abdome&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Afecções mais comuns na CIPE</title><link href="http://localhost:4000/pediatria/cipe.html" rel="alternate" type="text/html" title="Afecções mais comuns na CIPE" /><published>2019-09-29T00:00:00-03:00</published><updated>2019-09-29T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/cipe</id><content type="html" xml:base="http://localhost:4000/pediatria/cipe.html">&lt;h2 id=&quot;hérnia-umbilical&quot;&gt;Hérnia umbilical&lt;/h2&gt;
-
-&lt;p&gt;É uma protrusão do conteúdo abdominal através do anel umbilical não cicatrizado.
-A hostória natural da hérnia umbilical é fechar com algum tempo.&lt;/p&gt;
-
-&lt;p&gt;Por que ocorre?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Desenvolvimento incompleto da obliteração do cordão umbilical&lt;/li&gt;
-  &lt;li&gt;Áreas frágeis em ambos os ligamentos&lt;/li&gt;
-  &lt;li&gt;Alteração na estrutura da fáscia&lt;/li&gt;
-  &lt;li&gt;Aumento da pressão intra-abdominal é um fator determinante no aparecimento da hérnia
-    &lt;ul&gt;
-      &lt;li&gt;Por exemplo: tratamento para hidrocefalia com derivação ventrículo peritoneal;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;É o defeito mais comum na parede anterior do abdomen. É mais frequente em negros do que em brancos (6:1 a 10:1). Crianças de baixo peso e prematuros e portadores de síndromes (como Dowm, hipotireoidismo, mucopolissacaridose e síndrome de Beckwith-Wiedmann.)&lt;/p&gt;
-
-&lt;p&gt;Hérnias com até 0,5 cm tendem a fechar espontâneamente até o segundo ano de vida.
-Com mais de 1,5 cm, raramente fecha.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dor periumbilical ocasional&lt;/li&gt;
-  &lt;li&gt;É raro o encarceramento&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Conduta:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Brancos até 2 anos e negros até 4 anos: expectante&lt;/li&gt;
-  &lt;li&gt;Maior que 2 cm: indicação cirúrgica;&lt;/li&gt;
-  &lt;li&gt;Hérnia pequena mas grande saco herniário a partir dos 2 anos de idade.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Nas meninas deve-se indicar a cirurgia até a idade da menarca devido ao risco de gravidez e consequente aumento da pressão intra-abdominal.&lt;/p&gt;
-
-&lt;h2 id=&quot;doenças-da-persistência-do-conduto-peritônio-vaginal&quot;&gt;Doenças da persistência do conduto peritônio-vaginal&lt;/h2&gt;
-
-&lt;h3 id=&quot;hérnia-inguinal-e-inguino-escrotal&quot;&gt;Hérnia inguinal e inguino-escrotal&lt;/h3&gt;
-
-&lt;p&gt;Na criança tem mais risco de encarcerar do que no adulto. Pois na criança a hérnia é indireta, devido à presistência do canal inguinal. Logo, nelas os aneis inguinais são competentes e podem estrangular ou encarcerar uma hérnia. No adulto, a hérnia é direta e devido à incometência do anel inguinal, logo, o risco de encarcerar é menor.&lt;/p&gt;
-
-&lt;h3 id=&quot;cisto-do-cordão-espermático&quot;&gt;Cisto do cordão espermático&lt;/h3&gt;
-
-&lt;p&gt;O cisco de forma quando o cordão espermático se fecha encima e embaixo mas encarcera uma montante de líquido peritoneal no meio do caminho, formando o cisto. Pode ser comunicante (continua enchendo) ou não comunicante (não aumenta de tamanho).&lt;/p&gt;
-
-&lt;p&gt;A transiluminescência pode ser usada para diferencias o cisto do testículo.&lt;/p&gt;
-
-&lt;p&gt;Não tem complicações descritas, exceto um possível crescimento exagerado que possa comprimir o testículo e prejudicar o seu desenvolvimento.&lt;/p&gt;
-
-&lt;p class=&quot;alert aviso-red&quot;&gt;20 gotas são 1 mL.&lt;/p&gt;
-
-&lt;h3 id=&quot;hidrocele&quot;&gt;Hidrocele&lt;/h3&gt;
-
-&lt;p&gt;Pode ser comunicante ou não comunicante. Na não comunicante a túnica vaginal pode absorver o líquido. Se for comunicanete, indica-se a cirurgia.&lt;/p&gt;
-
-&lt;p&gt;Fazer o diagnóstico diferencial com filariose!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sinal da seda:&lt;/strong&gt; tentar palpar o cordão espermárico contra o púbis e sentir, após o cordão, uma fina lâmina peritoneal.&lt;/p&gt;
-
-&lt;h2 id=&quot;distopia-testicular&quot;&gt;Distopia testicular&lt;/h2&gt;
-
-&lt;p&gt;Os testiculos devem ser tópicos até os 2 anos. A partir daí a chance de malignização aumenta em 4 a 20 vezes.&lt;/p&gt;
-
-&lt;p&gt;São vários tipos: criptoquírdico, retido, ectópico, migratório (pendular ou retrátil).&lt;/p&gt;
-
-&lt;h2 id=&quot;fimose&quot;&gt;Fimose&lt;/h2&gt;
-
-&lt;p&gt;A fimose fisiológica dura até em torno de 1 ano. Entre 1 ano e 2 é possívek continuar fazendo acompanhamento clínico.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Jato urinário partido&lt;/li&gt;
-  &lt;li&gt;Balonamento prepucial&lt;/li&gt;
-  &lt;li&gt;Esforço miccional&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Qual a conduta:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tratamento clínico&lt;/li&gt;
-  &lt;li&gt;Tratamento cirúrgico
-    &lt;ul&gt;
-      &lt;li&gt;Convencional&lt;/li&gt;
-      &lt;li&gt;Pastbell&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Indicações cirúrgicas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Presença de sintomas&lt;/li&gt;
-  &lt;li&gt;Balanopostite de repetição&lt;/li&gt;
-  &lt;li&gt;Parafimose&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Hérnia umbilical</summary></entry><entry><title type="html">Tumores de esôfago</title><link href="http://localhost:4000/cirurgia/ca-esofago.html" rel="alternate" type="text/html" title="Tumores de esôfago" /><published>2019-09-25T00:00:00-03:00</published><updated>2019-09-25T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/ca-esofago</id><content type="html" xml:base="http://localhost:4000/cirurgia/ca-esofago.html">&lt;p&gt;É um câncer de crescimento muito rápido, o oitavo mais comum no mundo e a sexta causa de morte. Os tipos principais são o adenocarcinoma e o espinocelular.&lt;/p&gt;
-
-&lt;p&gt;Adenocarcinoma: maior incidência em brancos e obesos. Mais comum no terço inferior. Possui relação com o tabagismo. Para portadores de DRGE o risco anual é de 0,12%. A evolução natural é a metaplasia, displasia e o adenocarcinoma.&lt;/p&gt;
-
-&lt;p&gt;Espinocelular: maior incidência em negros e magros. Mais comum no terço superior e médio. Possio relação com o tabagismo.&lt;/p&gt;
-
-&lt;p&gt;Divisão anatômica do esôfago:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cervical&lt;/li&gt;
-  &lt;li&gt;Torácico superior&lt;/li&gt;
-  &lt;li&gt;Torácico médio&lt;/li&gt;
-  &lt;li&gt;Torácido inferior e abdominal: até a JEG.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Sintomas avançados&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Disfagia rapidamente progressiva que inicia com alimentos sólidos e evolui também para pastosos e líquidos;&lt;/li&gt;
-    &lt;li&gt;Perda de peso&lt;/li&gt;
-    &lt;li&gt;Odinofagia&lt;/li&gt;
-    &lt;li&gt;Sialorréia&lt;/li&gt;
-    &lt;li&gt;Regurgitação&lt;/li&gt;
-    &lt;li&gt;Hematêmese&lt;/li&gt;
-    &lt;li&gt;Caquexia&lt;/li&gt;
-    &lt;li&gt;Afagia&lt;/li&gt;
-    &lt;li&gt;Pneumonia aspirativa&lt;/li&gt;
-    &lt;li&gt;Rouquidão&lt;/li&gt;
-    &lt;li&gt;Tosse durante deglutição&lt;/li&gt;
-    &lt;li&gt;Insuficiência respiratória&lt;/li&gt;
-    &lt;li&gt;Hematêmese maciça&lt;/li&gt;
-    &lt;li&gt;Linfadenomegalia cervical&lt;/li&gt;
-    &lt;li&gt;Icterícia&lt;/li&gt;
-    &lt;li&gt;Ascite&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Todo paciente idoso com disfagia e perda de peso, deve-se descartar o CA de esôfago.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;Esofagogastroscopia&lt;/p&gt;
-
-&lt;p&gt;Estudos radiológicos contrastados: hoje não são mais tanto usados em virtude da facilidade e acesso à endoscopia.&lt;/p&gt;
-
-&lt;p&gt;Tomografia computadorizada de abdome: hoje em dia o exame principal para o diagnóstico e estadiamento. Normalmente o esôfago não deve ser visualizado na TC, pois ele fica colabado, seu espaço é virtual.&lt;/p&gt;
-
-&lt;p&gt;Pet-scan: mais usado na procura por sítios de metástase. Não muito usado para tumores de esôfago.&lt;/p&gt;
-
-&lt;p&gt;Ultrassom endoscópico: permite ver as camadas do esôfago (três) e saber até onde vai o tumor. Muito bom para o estadiamento do “&lt;em&gt;T&lt;/em&gt;”.&lt;/p&gt;
-
-&lt;h2 id=&quot;estadiamento&quot;&gt;Estadiamento&lt;/h2&gt;
-
-&lt;p&gt;Segue o modelo TNM. Vai ser importante para orientar o tratamento. Dividi-se em estágios de 0 a 4.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Para tumores precoces, a escolha é a  cirurgia de esofagectomia com margens de segurança ou uma mucosectomia endoscópica.&lt;/p&gt;
-
-&lt;p&gt;Para tumores não avançados: pode-se associar uma quimioterapia e radioterapia adjuvante (neoadjuvante também?) à esofagectomia. A radioterapia é mais importante que a quimioterapia para os tumores de esôfago.&lt;/p&gt;
-
-&lt;p&gt;Para tumores avançados: se for ressecável, pode-se optar por uma quimio-radioterapia… com ressecção…&lt;/p&gt;
-
-&lt;p&gt;O preparo pré-operatório envolve o suporte nutricional (paciente não pode ser operado desnutrido) por dieta oral ou enteral/parenteral. Profilaxia para TVP e embolia pulmonar.&lt;/p&gt;
-
-&lt;h3 id=&quot;ressecção-mucosa-endoscópica&quot;&gt;Ressecção mucosa endoscópica&lt;/h3&gt;
-
-&lt;h3 id=&quot;esofagectomia-total-trans-hiatal-com-ou-sem-traqueostomia&quot;&gt;Esofagectomia total trans-hiatal com ou sem traqueostomia&lt;/h3&gt;
-
-&lt;h3 id=&quot;esofagectomia-subtotal-com-esofagogastroplastia&quot;&gt;Esofagectomia subtotal com esofagogastroplastia&lt;/h3&gt;
-
-&lt;h3 id=&quot;esofagectomia-cervical&quot;&gt;Esofagectomia cervical&lt;/h3&gt;
-
-&lt;p&gt;Não se realiza mais com tanta frequência.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-paliativo&quot;&gt;Tratamento paliativo&lt;/h3&gt;
-
-&lt;p&gt;Pode-se passar uma prótese expansiva pela endoscopia ou passar uma sonda para alimentação.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">É um câncer de crescimento muito rápido, o oitavo mais comum no mundo e a sexta causa de morte. Os tipos principais são o adenocarcinoma e o espinocelular.</summary></entry><entry><title type="html">Diarréia</title><link href="http://localhost:4000/gastroenterologia/diarreia.html" rel="alternate" type="text/html" title="Diarréia" /><published>2019-09-25T00:00:00-03:00</published><updated>2019-09-25T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/diarreia</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/diarreia.html">&lt;p&gt;Estímulos à secreção hormonal: proteinas e aminoácidos, ácidos graxos, glicose, pacido, estimulação neuronal, tração e peptídeos.&lt;/p&gt;
-
-&lt;p&gt;Hormônios: secretina, GIP, motilina, CCK, gastrina.&lt;/p&gt;
-
-&lt;p&gt;Colite do corredor: corredores de grandes distâncias passam tanto tempo sob efeitos altos de noradrenalina que acabam desenvolvendo isquemia mesentérica crônica pelo efeito vasoconstrictor do hormônio no TGI.&lt;/p&gt;
-
-&lt;p&gt;Definição: excesso de água nas fezespor distúrbio no transporte de água e eletrólitos ou solutos. Mais de 3 evacuações ao dia e fezes de consistência diminuída e/ou peso fecal aumentado.&lt;/p&gt;
-
-&lt;p&gt;Aguda: até 14 dias;
-Persistente: 14 a 30 dias;
-Crônica: mais de 30 dias.&lt;/p&gt;
-
-&lt;h3 id=&quot;síndrome-do-intestino-irritável&quot;&gt;Síndrome do intestino irritável&lt;/h3&gt;
-
-&lt;p&gt;Dor abdominal recorrente ou pelo menos 1 dia na semana nos ultimos 3 meses. Início dos sintomas há pelo menos 6 meses associada a doisou mais fatores a seguir:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;defecação&lt;/li&gt;
-  &lt;li&gt;alteração da frequencia&lt;/li&gt;
-  &lt;li&gt;alteração da forma das fezes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;incontinência-fecal&quot;&gt;Incontinência fecal&lt;/h3&gt;
-
-&lt;p&gt;Sobretudo em mulheres história de parto vaginal.&lt;/p&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-
-&lt;h3 id=&quot;diarréia-secretória-ou-aquosa&quot;&gt;Diarréia secretória ou aquosa&lt;/h3&gt;
-
-&lt;h3 id=&quot;diarréia-osmótica&quot;&gt;Diarréia osmótica&lt;/h3&gt;
-
-&lt;p&gt;A diarréia acaba quando o soluto vai embora.&lt;/p&gt;
-
-&lt;h3 id=&quot;diarréia-inflamatória&quot;&gt;Diarréia inflamatória&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;RCIU&lt;/li&gt;
-  &lt;li&gt;DC&lt;/li&gt;
-  &lt;li&gt;Colite isquêmica&lt;/li&gt;
-  &lt;li&gt;Infecciosa&lt;/li&gt;
-  &lt;li&gt;Parasitárias&lt;/li&gt;
-  &lt;li&gt;Por radiação&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Estímulos à secreção hormonal: proteinas e aminoácidos, ácidos graxos, glicose, pacido, estimulação neuronal, tração e peptídeos.</summary></entry><entry><title type="html">Constipação intestinal</title><link href="http://localhost:4000/gastroenterologia/constipacao-intestinal.html" rel="alternate" type="text/html" title="Constipação intestinal" /><published>2019-09-24T00:00:00-03:00</published><updated>2019-09-24T00:00:00-03:00</updated><id>http://localhost:4000/gastroenterologia/constipacao-intestinal</id><content type="html" xml:base="http://localhost:4000/gastroenterologia/constipacao-intestinal.html">&lt;p&gt;O normal é evacuar em torno de 3x ao dia a 3x na semana.
-Mais frequente em mulheres&lt;/p&gt;
-
-&lt;p&gt;A definição envolve fatores como: redução na frequência de evacuações, consistência endurecida, volume/calibre reduzido do bolo fecal, dificuldades/esforço para evacuar e sensação de evacuação incompleta.&lt;/p&gt;
-
-&lt;p&gt;Pode ser dividida em dois grupos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Primária ou funcional:&lt;/strong&gt; a mais comum. Não há alterações estruturais ou metabólicas que as justifiquem. Sofre influência de fatores culturais, psicológicos, dietéticos e hábitos de vida. Inclue:
-    &lt;ul&gt;
-      &lt;li&gt;Inércia colônica;&lt;/li&gt;
-      &lt;li&gt;Disfunção esfincteriana;&lt;/li&gt;
-      &lt;li&gt;Alterações do assoalho pélvico;&lt;/li&gt;
-      &lt;li&gt;Falta repetitiva de atendimento do reflexo da evacuação;&lt;/li&gt;
-      &lt;li&gt;Postura inadequada;&lt;/li&gt;
-      &lt;li&gt;Desconcentração do ato evacuatório.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Secundária ou orgânica:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Doenças digestivas: megacólon, hérnias de parede, neoplasia obstrutiva;&lt;/li&gt;
-      &lt;li&gt;Doenças neuromusculares: esclerose múltipla, AVC, treuma medular;&lt;/li&gt;
-      &lt;li&gt;Doenças endócrinas ou metabólicas: diabetes, hipotireoidismo, hipocalcemia, hipocalemia, uremia;&lt;/li&gt;
-      &lt;li&gt;Gravidez;&lt;/li&gt;
-      &lt;li&gt;Estenose inflamatória, aderência pós-operatória.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os fatores mais importantes envolvidos na constipação são: a baixa ingestão de fibras e líquidos, a inibicação do reflexo de evacuação e o sedentarismo.&lt;/p&gt;
-
-&lt;p&gt;A prevalência varia entre 2 e 28%, é mais frequente nas mulheres (e aumenta com a idade. A gravidez é uma condição que comumente aumenta a incidência de constipação.&lt;/p&gt;
-
-&lt;p&gt;Drogas que interferem na motricidade colorretal: AINEs, hipotensores, diuréticos, antidepressivos, betabloqueadores, sais de ferro, bloqueadores de canais de cálcio.&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;p&gt;Causas de constipação orgânica:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tumores obstrutivos, estenoses, doenças anorretais, retoceles, prolapso retal, hérnias de parede;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Analgésicos opioides&lt;/strong&gt;, &lt;strong&gt;antidepressivos&lt;/strong&gt; tricíclicos, &lt;strong&gt;antipsicóticos&lt;/strong&gt; (p. ex., clorpromazina), &lt;strong&gt;anticolinérgicos&lt;/strong&gt;, antiparkinsonianos, antiácidos à base de alumínio, anticonvulsivantes, betabloqueadores, furosemida;&lt;/li&gt;
-  &lt;li&gt;Depressão, abuso físico e sexual;&lt;/li&gt;
-  &lt;li&gt;Diabete melito, &lt;strong&gt;hipotireoidismo&lt;/strong&gt;, hipoparatireoidismo, porfiria, hipopotassemia, hipomagnesemia, hipercalcemia, uremia;&lt;/li&gt;
-  &lt;li&gt;Lesões da medula espinhal, esclerose múltipla, doença de Parkinson, AVC, doença de Chagas (megacólon), esclerodermia, doença de Hirschsprung;&lt;/li&gt;
-  &lt;li&gt;Esclerose sistêmica, amiloidose.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Sinais de alarme&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Início recente;&lt;/li&gt;
-    &lt;li&gt;Mudanças do calibre ou formato;&lt;/li&gt;
-    &lt;li&gt;Perda de peso, febre;&lt;/li&gt;
-    &lt;li&gt;Mucorréia;&lt;/li&gt;
-    &lt;li&gt;Enterorragia.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A mudança de hábito intestinal em paciente idoso levanta a suspeita de neoplasia colorretal.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
-&lt;p&gt;Não é necessário solicitar uma bateria de
-exames laboratoriais e de imagem antes de iniciar o
-tratamento empírico. De rotina solicita-se apenas um hemograma.&lt;/p&gt;
-
-&lt;h3 id=&quot;colonoscopia&quot;&gt;Colonoscopia&lt;/h3&gt;
-&lt;p&gt;A colonoscopia deve ser solicitada para os pacien-
-tes com os sinais de alarme já descritos anteriormente;
-para aqueles com mais de 50 anos que não foram sub-
-metidos a exames para rastreamento do câncer color-
-retal após o início da constipação e para pacientes com
-constipação refratária ao tratamento clínico.&lt;/p&gt;
-
-&lt;h3 id=&quot;enema-opaco&quot;&gt;Enema opaco&lt;/h3&gt;
-&lt;p&gt;Pode ser solicitado para os pacientes chagásicos com o objetivo de identificar o megacólon. Esse exame também pode ser solicitado nos casos de constipação intestinal refratária, pois fornece informações sobre as medidas e alterações anatômicas dos cólons que não são obtidas com a colonoscopia.&lt;/p&gt;
-
-&lt;h3 id=&quot;testes-funcionais&quot;&gt;Testes funcionais&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Estudo do tempo de trânsito colônico;&lt;/li&gt;
-  &lt;li&gt;Defecografia;&lt;/li&gt;
-  &lt;li&gt;Manometria anorretal;&lt;/li&gt;
-  &lt;li&gt;Teste de expulsão do balão.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Orientar o paciente quanto a eventos que induzem a constipação e a importância de uma rotina evacuatória. Iniciar uma dieta laxativa (muitas fibras, 20 a 30 g/dL, associadas a muito líquido, &amp;gt; 1,5 L), reeducar os hábitos (orientar o paciente a reservar um horário fixo para defecar) e recomendar atividade física.&lt;/p&gt;
-
-&lt;p&gt;Se as medicas comportamentais não resolverem, pode-se inicar um tratamento medicamentoso com agentes laxativos.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Incrementadores do bolo fecal:&lt;/strong&gt; substâncias que retem água e aumentam o volume fecal diminuindo a consistência das fezes, facilitando a evacuação.
-    &lt;ul&gt;
-      &lt;li&gt;Fibras alimentares;&lt;/li&gt;
-      &lt;li&gt;Fibras sintéticas (policarbofilia, susbtância inerte);&lt;/li&gt;
-      &lt;li&gt;Metilcelulose;&lt;/li&gt;
-      &lt;li&gt;Psyllium;&lt;/li&gt;
-      &lt;li&gt;Agar-agar.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Laxantes osmóticos:&lt;/strong&gt; retiram água da mucosa instestinal, hidratando as fezes. Podem causa distensão, flatulência e alterar a absorção de Na e K.
-    &lt;ul&gt;
-      &lt;li&gt;Sais de Mg e Na (sulfatos, fosfatos, citratos);&lt;/li&gt;
-      &lt;li&gt;Lactulose;&lt;/li&gt;
-      &lt;li&gt;Sorbitol (manipulação);&lt;/li&gt;
-      &lt;li&gt;Manitol (preparos especiais);&lt;/li&gt;
-      &lt;li&gt;&lt;span class=&quot;green&quot;&gt;Politilenoglicol&lt;/span&gt; (PEG).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Laxantes lubrificantes&lt;/strong&gt; (amaciantes/emolientes):
-    &lt;ul&gt;
-      &lt;li&gt;Óleo mineral (uso crônico pode levar a deficiência  na absorção de vitaminas lipossolúveis KEDA);&lt;/li&gt;
-      &lt;li&gt;Parafina;&lt;/li&gt;
-      &lt;li&gt;Docusato (surfactante).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Laxantes estimulantes (irritantes):&lt;/strong&gt; aumentam a motilidade intestinal estimulando os plexos mioentéricos do cólon. A irritação induz a motilidade. Podem causar hipocalemia, principalmente se em altas doses, além de dor abdminal e diarreia. O uso crônico pode evoluir para &lt;span class=&quot;red&quot;&gt;cólon catártico&lt;/span&gt; por lesão dos plexos mioentéricos. Sua vantagem é justamente a ação rápida (6h)
-    &lt;ul&gt;
-      &lt;li&gt;Sene;&lt;/li&gt;
-      &lt;li&gt;Picossulfato de sódio;&lt;/li&gt;
-      &lt;li&gt;Fenolftaleína;&lt;/li&gt;
-      &lt;li&gt;Bisacodil.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Procinéticos:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Cisaprida;&lt;/li&gt;
-      &lt;li&gt;Domperidona;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Misoprostol:&lt;/strong&gt; uma prostaglandina sintética. Não se usa mais.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Colchicina:&lt;/strong&gt; também não se usa mais.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Agonistas da serotonina:&lt;/strong&gt; aceleram o trânsito intestinal.
-    &lt;ul&gt;
-      &lt;li&gt;Prucaloprida;&lt;/li&gt;
-      &lt;li&gt;Tegaserode.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Probióticos:&lt;/strong&gt; &lt;em&gt;Bifidobacterium lactis&lt;/em&gt; DN-173010,
-&lt;em&gt;Lactobacillus casei&lt;/em&gt; Shirota e &lt;em&gt;Escherichia coli&lt;/em&gt; Nissle&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;Biofeedback:&lt;/strong&gt;&lt;/em&gt; é a prática de exercícios para promover o relaxamento da musculatura pélvica e condicionar a coordenação retoanal (anismus).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cirurgias&lt;/strong&gt; são altamente excepcionais como tratamento. Um exemplo é nos casos de &lt;strong&gt;inércia colônica&lt;/strong&gt; em que o cólon simplemente não possui nenhuma onda peristáltica e é necessário a sua remoção fazendo uma colectomia ou protocolectomia.&lt;/p&gt;
-
-&lt;p&gt;O tratamento cirúrgico mais empregado para a
-&lt;strong&gt;retocele&lt;/strong&gt; é a colpoperineoplastia posterior associada
-à levatorplastia. Para &lt;strong&gt;prolapsos&lt;/strong&gt; a correção cirúrgica também pode ser indicada.&lt;/p&gt;
-
-&lt;h3 id=&quot;situações-especiais&quot;&gt;Situações especiais&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Gravidez:  dieta,  fibras,  macrogol  3350;&lt;/li&gt;
-  &lt;li&gt;Infância:  osmóticos,  supositórios  (glicerina);&lt;/li&gt;
-  &lt;li&gt;Psiquiátricos:  osmóticos,  estimulantes;&lt;/li&gt;
-  &lt;li&gt;Diabéticos:  dieta,  fibras,  osmóticos;&lt;/li&gt;
-  &lt;li&gt;Cardiopatas:  osmóticos,  estimulantes;&lt;/li&gt;
-  &lt;li&gt;Idoso: osmóticos, supositórios, enemas.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O normal é evacuar em torno de 3x ao dia a 3x na semana. Mais frequente em mulheres</summary></entry><entry><title type="html">Constipação intestinal</title><link href="http://localhost:4000/pediatria/constipacao-intestinal.html" rel="alternate" type="text/html" title="Constipação intestinal" /><published>2019-09-24T00:00:00-03:00</published><updated>2019-09-24T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/constipacao-intestinal</id><content type="html" xml:base="http://localhost:4000/pediatria/constipacao-intestinal.html">&lt;h2 id=&quot;fisiologia-da-defecação&quot;&gt;Fisiologia da defecação&lt;/h2&gt;
-
-&lt;p&gt;A habilidade de defecar depende de vários fatoes incluindo as ações simultâneas dos esfíncteres anais interno e externo, a tonicidade do reto e a condição da medula espinhal.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Constipação:&lt;/strong&gt; é a eliminação de fezes duras, na forma de cíbalos, seixos ou cilíndricas com rachaduras, dificuldade ou dor para evacuar, eliminação esporádica de fezes muito calibrosas que entopem o vaso sanitário ou frequência de evacuação inferior a três vezes por semana, exceto em crianças em aleitamento natural.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pseudoconstipação do lactente em aleitamento natural:&lt;/strong&gt; ocorrência de evacuação de fezes macias em frequência menor que 3 por semana.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Constipação crônica:&lt;/strong&gt; maior que 2 semanas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Escape fecal (&lt;em&gt;soiling&lt;/em&gt;):&lt;/strong&gt; perda involuntária de parcela do conteúdo fecal por portadores de constipação crônica, consequente a fezes impactadas no reto.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Encoprese:&lt;/strong&gt; ato completo da defecação, em sua plena sequência fisiológica, porém em  local e/ou momento inapropriado, em geral, secundária a distúrbios psicológicos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Incontinência fecal:&lt;/strong&gt; falta de controle do esfíncter decorrente de causas orgânicas.&lt;/p&gt;
-
-&lt;p&gt;A mais comum é a constipação funcional, quando não se sabe o motivo.&lt;/p&gt;
-
-&lt;h2 id=&quot;classficação&quot;&gt;Classficação&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aguda: durante ou após mudança de hábitos alimenatares, uso de drogas, redução da atividade física e vigência do estado mórbido.&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Crônica: orgânica ou funcional.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Causas neurogênicas:
-    &lt;ul&gt;
-      &lt;li&gt;Doença de Hirschsprung
-*&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Fisiologia da defecação</summary></entry><entry><title type="html">Linfoma</title><link href="http://localhost:4000/linfoma.html" rel="alternate" type="text/html" title="Linfoma" /><published>2019-09-24T00:00:00-03:00</published><updated>2019-09-24T00:00:00-03:00</updated><id>http://localhost:4000/linfoma</id><content type="html" xml:base="http://localhost:4000/linfoma.html">&lt;p&gt;A massa abdominal palpável em criança mais frequentemente costuma significar massa  benigna. Na maioria das vezes os achados são: bolo de ascaris, hidronefrose, hepatoesplenomegalia infecciosa.&lt;/p&gt;
-
-&lt;p&gt;Hamartoma
-Heterotopia ou coristoma
-Hemangiomas
-Linfangiomas
-Teratomas&lt;/p&gt;
-
-&lt;p&gt;Caracterização das massas abdominais:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Instraperitoneais:
-    &lt;ul&gt;
-      &lt;li&gt;Linfomas&lt;/li&gt;
-      &lt;li&gt;Tumores hepáticos&lt;/li&gt;
-      &lt;li&gt;Rabdomiossarcomas&lt;/li&gt;
-      &lt;li&gt;Tumores de células germinativas&lt;/li&gt;
-      &lt;li&gt;Teratomas&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Retroperitoneais:
-    &lt;ul&gt;
-      &lt;li&gt;Nefroblastomas&lt;/li&gt;
-      &lt;li&gt;Neuroblastomas&lt;/li&gt;
-      &lt;li&gt;Outros&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;img src=&quot;/assets/emergencia/abdome-agudo2.jpeg&quot; alt=&quot;DDs abdome&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

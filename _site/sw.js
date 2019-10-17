@@ -45,6 +45,18 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/pneumologia/dpoc.html',
+      
+        '/pneumologia/derrame-pleural.html',
+      
+        '/cardiologia/arteriosclerose.html',
+      
+        '/cardiologia/ecg.html',
+      
+        '/pneumologia/radiografia-de-torax.html',
+      
+        '/cardiologia/semiologia-cardiovascular.html',
+      
         '/cardiologia/principios-basicos-de-hemodinamica.html',
       
         '/cardiologia/hipertensao-arterial.html',
@@ -336,9 +348,17 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/inervação.jpeg'
       
+        '/assets/cardiologia/ondap.jpeg'
+      
+        '/assets/cardiologia/quadrados.jpeg'
+      
+        '/assets/cardiologia/quadrados2.jpeg'
+      
         '/assets/cardiologia/rxtorax.jpeg'
       
         '/assets/cardiologia/valvulas.jpeg'
+      
+        '/assets/cardiologia/vetores.jpg'
       
         '/assets/cruz-web.svg'
       
@@ -845,6 +865,14 @@ self.addEventListener('install', function (event) {
         '/assets/pediatria/diarreia1.jpeg'
       
         '/assets/pediatria/diarreia2.jpeg'
+      
+        '/assets/pneumo/derrame.jpeg'
+      
+        '/assets/pneumo/dpoc-risk.jpeg'
+      
+        '/assets/pneumo/dpp-atb.jpeg'
+      
+        '/assets/pneumo/tto-dpp.jpeg'
       
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       
