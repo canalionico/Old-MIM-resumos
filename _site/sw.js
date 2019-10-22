@@ -45,6 +45,10 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/pneumologia/pneumonia.html',
+      
+        '/cardiologia/sca.html',
+      
         '/pneumologia/dpoc.html',
       
         '/pneumologia/derrame-pleural.html',
@@ -340,21 +344,59 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/ciclo.jpeg'
       
+        '/assets/cardiologia/circulo-ecg.jpeg'
+      
+        '/assets/cardiologia/circulo-ecg2.jpeg'
+      
+        '/assets/cardiologia/circunferencia-manguito.jpeg'
+      
         '/assets/cardiologia/coronarias.gif'
       
         '/assets/cardiologia/coronarias2.jpg'
       
         '/assets/cardiologia/coronarias3.png'
       
+        '/assets/cardiologia/correcao-pa.jpeg'
+      
+        '/assets/cardiologia/diag-flux-has.jpeg'
+      
+        '/assets/cardiologia/diag-has.jpeg'
+      
+        '/assets/cardiologia/ecg-d.png'
+      
+        '/assets/cardiologia/ecg1.jpeg'
+      
+        '/assets/cardiologia/ecg2.jpeg'
+      
+        '/assets/cardiologia/ecg3.jpeg'
+      
+        '/assets/cardiologia/ecg4.jpeg'
+      
+        '/assets/cardiologia/ecg5.jpeg'
+      
+        '/assets/cardiologia/indicacoes-mapa.jpeg'
+      
         '/assets/cardiologia/inervação.jpeg'
       
+        '/assets/cardiologia/intervalos.jpeg'
+      
         '/assets/cardiologia/ondap.jpeg'
+      
+        '/assets/cardiologia/ondap2.jpeg'
+      
+        '/assets/cardiologia/precordiais-ecg.jpeg'
+      
+        '/assets/cardiologia/precordiais-ecg2.jpeg'
       
         '/assets/cardiologia/quadrados.jpeg'
       
         '/assets/cardiologia/quadrados2.jpeg'
       
+        '/assets/cardiologia/revasc.jpeg'
+      
         '/assets/cardiologia/rxtorax.jpeg'
+      
+        '/assets/cardiologia/tabela-ecg.jpeg'
       
         '/assets/cardiologia/valvulas.jpeg'
       

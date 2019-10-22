@@ -1,10 +1,160 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-17T20:18:59-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Derrame pleural</title><link href="http://localhost:4000/pneumologia/derrame-pleural.html" rel="alternate" type="text/html" title="Derrame pleural" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/derrame-pleural</id><content type="html" xml:base="http://localhost:4000/pneumologia/derrame-pleural.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/derrame.jpeg&quot; alt=&quot;quadro&quot; /&gt;
-&lt;img src=&quot;/assets/pneumo/tto-dpp.jpeg&quot; alt=&quot;quadro&quot; /&gt;
-&lt;img src=&quot;/assets/pneumo/dpp-atb.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">DPOC</title><link href="http://localhost:4000/pneumologia/dpoc.html" rel="alternate" type="text/html" title="DPOC" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/dpoc</id><content type="html" xml:base="http://localhost:4000/pneumologia/dpoc.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/dpoc-risk.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Arteriosclerose</title><link href="http://localhost:4000/cardiologia/arteriosclerose.html" rel="alternate" type="text/html" title="Arteriosclerose" /><published>2019-10-16T00:00:00-03:00</published><updated>2019-10-16T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/arteriosclerose</id><content type="html" xml:base="http://localhost:4000/cardiologia/arteriosclerose.html">&lt;p&gt;Células espumosas e formação do ateroma.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Células espumosas e formação do ateroma.</summary></entry><entry><title type="html">ECG</title><link href="http://localhost:4000/cardiologia/ecg.html" rel="alternate" type="text/html" title="ECG" /><published>2019-10-15T00:00:00-03:00</published><updated>2019-10-15T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#ondas&quot; id=&quot;markdown-toc-ondas&quot;&gt;Ondas&lt;/a&gt;&lt;/li&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-21T22:02:17-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Síndrome coronariana aguda</title><link href="http://localhost:4000/cardiologia/sca.html" rel="alternate" type="text/html" title="Síndrome coronariana aguda" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/sca</id><content type="html" xml:base="http://localhost:4000/cardiologia/sca.html">&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/revasc.jpeg&quot; alt=&quot;Revasc&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Pneumonia</title><link href="http://localhost:4000/pneumologia/pneumonia.html" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/pneumonia</id><content type="html" xml:base="http://localhost:4000/pneumologia/pneumonia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#típica-x-atípica&quot; id=&quot;markdown-toc-típica-x-atípica&quot;&gt;Típica x Atípica&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#curb-65&quot; id=&quot;markdown-toc-curb-65&quot;&gt;CURB-65&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É um processo inflamatório produzido por um agente infeccioso que acomete os bronquíolos e os alvéolos. É todo processo inflamatório agudo do parênquima pulmonar decorrente da infecção por algum micro-organismo.&lt;/p&gt;
+
+&lt;p&gt;Na suspeita de infecção pelo Mycoplasma, é melhor já iniciar o tratamento empírico com a azitromicina.&lt;/p&gt;
+
+&lt;p&gt;Formas anatomopatológicas e radiológicas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Alveolar&lt;/strong&gt; (pneumocócica, clássica): MV normal ou diminuio, FT aumentado, creptos e macicez no local;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Broncopneumonia&lt;/strong&gt;: ausculta de roncos;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pneumonias intersticiais&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A &lt;strong&gt;pneumonia lobar&lt;/strong&gt; é definida pela consolidação de todo
+(ou quase todo) um lobo pulmonar (consolidação alveolar extensa), sendo que 90 a
+95% dos casos têm o &lt;em&gt;&lt;span class=&quot;red&quot;&gt;Streptococcus pneumoniae&lt;/span&gt;&lt;/em&gt; como micro-organismo causador.&lt;/p&gt;
+
+&lt;p&gt;Já a &lt;strong&gt;broncopneumonia&lt;/strong&gt; é caracterizada
+pela consolidação alveolar multifocal – são
+múltiplos focos acinares (ou lobulares),
+coalescentes, que predominam na região
+peribrônquica. Este é o tipo mais frequente de apresentação da pneumonia.&lt;/p&gt;
+
+&lt;p&gt;Mecanismos de defesa: anatomia e fisiologia do trato respiratório, condução de gases, aquecimento ou resfriamento do ar, umidade do ar inspirado, vibrissas, epitélio ciliado, imunoglobulinas (A, G e M), elementos figurados do sangue.&lt;/p&gt;
+
+&lt;p&gt;Fatores predisponentes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Poluição atmosférica&lt;/li&gt;
+  &lt;li&gt;Baixa temperatura&lt;/li&gt;
+  &lt;li&gt;Hábitos: tabagismo e alcoolismo&lt;/li&gt;
+  &lt;li&gt;Patologia pulmonar crônica&lt;/li&gt;
+  &lt;li&gt;Metabólico: DM&lt;/li&gt;
+  &lt;li&gt;Pós-operatório&lt;/li&gt;
+  &lt;li&gt;Alterações na imunidade&lt;/li&gt;
+  &lt;li&gt;Atividade profissional&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;S.pneumoniae;&lt;/li&gt;
+  &lt;li&gt;M. pneumoniae;&lt;/li&gt;
+  &lt;li&gt;Vírus;&lt;/li&gt;
+  &lt;li&gt;Legionella sp: tem tropismo pelo SNC e pode evoluir com quadro neurológico;&lt;/li&gt;
+  &lt;li&gt;Bacilos gram negativos;&lt;/li&gt;
+  &lt;li&gt;C. pneumoniae;&lt;/li&gt;
+  &lt;li&gt;H. influenzae;&lt;/li&gt;
+  &lt;li&gt;S. aurus;&lt;/li&gt;
+  &lt;li&gt;K. pnuemoniae: pensar nos alcoolistas;&lt;/li&gt;
+  &lt;li&gt;P. aeruginosa: pensar nos pacientes com doença estrutural do pulmão.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;p&gt;Classificação da PAC de acordo com o local do tratamento:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Paciente ambulatorial: S. pneumoniae, M. pneumoniae, C. pneumoniae e Vírus respiratórios;&lt;/li&gt;
+  &lt;li&gt;Paciente internado em enfermaria: soma-se H. influenzae e Legionella sp;&lt;/li&gt;
+  &lt;li&gt;Paciente grave que requer internação em UTI: mais o S. aureus.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;típica-x-atípica&quot;&gt;Típica x Atípica&lt;/h3&gt;
+
+&lt;p&gt;Atualmente estes termos não são considerados adequados pelos especialistas, pois não
+ajudam na identificação etiológica. O mais correto é dividir as pneumonias em dois gru-
+pos: causadas por micro-organismos típicos e causadas por micro-organismos atípicos.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tosse com aumento de secreção brônquica&lt;/li&gt;
+  &lt;li&gt;Febre com ou sem calafrios&lt;/li&gt;
+  &lt;li&gt;Dispńeia&lt;/li&gt;
+  &lt;li&gt;Dor torácica: comum na pneumocócica, pode estar relacionada com embolia pulmonar;&lt;/li&gt;
+  &lt;li&gt;Fadiga.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quadro clínico&lt;/li&gt;
+  &lt;li&gt;Antecedentes&lt;/li&gt;
+  &lt;li&gt;RX de tórax&lt;/li&gt;
+  &lt;li&gt;Hemograma&lt;/li&gt;
+  &lt;li&gt;Exame do escarro: persquisa do gram (&amp;gt; 25 PMN e &amp;lt; 10 cels. epiteliais)&lt;/li&gt;
+  &lt;li&gt;Lavado broncoalveolar&lt;/li&gt;
+  &lt;li&gt;Hemocultura&lt;/li&gt;
+  &lt;li&gt;Teste do antígeno urinário para Legionella e pneumococo&lt;/li&gt;
+  &lt;li&gt;Teste de função hepática&lt;/li&gt;
+  &lt;li&gt;TC de tórax: imagem em mosáico caracteriza infecção.&lt;/li&gt;
+  &lt;li&gt;USG dos pulmões.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Considerar diagnísticos diferenciais como a embolia pulmonar.&lt;/p&gt;
+
+&lt;h3 id=&quot;curb-65&quot;&gt;CURB-65&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;C: confusão mental&lt;/li&gt;
+  &lt;li&gt;U: dosagem de uréia sérica (na urgência pode ser dispensada)&lt;/li&gt;
+  &lt;li&gt;R: frequência respiratória &amp;gt; 32&lt;/li&gt;
+  &lt;li&gt;B:&lt;/li&gt;
+  &lt;li&gt;65: idade &amp;gt; 65 anos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pontuação &amp;gt; 1 indica internação, exceto se a única pontuação for o fator idade.&lt;/p&gt;
+
+&lt;p&gt;Ver as mortalidades de acordo com os índices de CURB-65&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Ambulatorial&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Macrolídeos: azitromicina 500 mg VO de 24/24 h por 05 dias;&lt;/li&gt;
+  &lt;li&gt;Amoxilina 875 mg VO de 12/12 h por 07 dias&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Internação&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Levofloxacino VO 500 mg 24/24 h por 07 dias&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;UTI&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Levoflocacino EV&lt;/li&gt;
+  &lt;li&gt;Moxifloxacino EV&lt;/li&gt;
+  &lt;li&gt;Ceftriaxone EV + Azitromicina EV&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Por 7 a 10 dias&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Derrame pleural</title><link href="http://localhost:4000/pneumologia/derrame-pleural.html" rel="alternate" type="text/html" title="Derrame pleural" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/derrame-pleural</id><content type="html" xml:base="http://localhost:4000/pneumologia/derrame-pleural.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/derrame.jpeg&quot; alt=&quot;quadro&quot; /&gt;
+&lt;img src=&quot;/assets/pneumo/tto-dpp.jpeg&quot; alt=&quot;quadro&quot; /&gt;
+&lt;img src=&quot;/assets/pneumo/dpp-atb.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">DPOC</title><link href="http://localhost:4000/pneumologia/dpoc.html" rel="alternate" type="text/html" title="DPOC" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/dpoc</id><content type="html" xml:base="http://localhost:4000/pneumologia/dpoc.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/dpoc-risk.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Arteriosclerose</title><link href="http://localhost:4000/cardiologia/arteriosclerose.html" rel="alternate" type="text/html" title="Arteriosclerose" /><published>2019-10-16T00:00:00-03:00</published><updated>2019-10-16T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/arteriosclerose</id><content type="html" xml:base="http://localhost:4000/cardiologia/arteriosclerose.html">&lt;p&gt;Células espumosas e formação do ateroma.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Células espumosas e formação do ateroma.</summary></entry><entry><title type="html">ECG</title><link href="http://localhost:4000/cardiologia/ecg.html" rel="alternate" type="text/html" title="ECG" /><published>2019-10-15T00:00:00-03:00</published><updated>2019-10-15T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#derivações&quot; id=&quot;markdown-toc-derivações&quot;&gt;Derivações&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#verticais&quot; id=&quot;markdown-toc-verticais&quot;&gt;Verticais&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#horizontais&quot; id=&quot;markdown-toc-horizontais&quot;&gt;Horizontais&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ondas&quot; id=&quot;markdown-toc-ondas&quot;&gt;Ondas&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#ritmo&quot; id=&quot;markdown-toc-ritmo&quot;&gt;Ritmo&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#ritmo-sinusal&quot; id=&quot;markdown-toc-ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#ritmo-ventricular&quot; id=&quot;markdown-toc-ritmo-ventricular&quot;&gt;Ritmo ventricular&lt;/a&gt;&lt;/li&gt;
@@ -32,18 +182,91 @@ ao seu meio externo.&lt;/p&gt;
 
 &lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
 
-&lt;h3 id=&quot;ondas&quot;&gt;Ondas&lt;/h3&gt;
+&lt;p&gt;Uma onda de despolarização se movendo em direção ao eletrodo positivo causa uma deflexão positiva no ECG. Uma onda de despolarização se movendo para longe de um eletrodo positivo causa uma deflexão negativa.&lt;/p&gt;
 
-&lt;p&gt;Onda P&lt;/p&gt;
+&lt;p&gt;O que o ECG irá registrar se o eletrodo positivo for colocado no
+meio da célula? Inicialmente, à medida que a frente da onda se aproxima do eletrodo, o ECG registra uma deflexão positiva. Depois, no momento exato em que a onda atinge o eletrodo, as cargas positiva e negativa são equilibradas e essencialmente se neutralizam.
+O registro do ECG retorna à linha de base. À medida que a onda de despolarização se afasta, é inscrita uma deflexão negativa.&lt;/p&gt;
 
-&lt;p&gt;Onda T&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ecg1.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/ecg2.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/ecg3.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/ecg4.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Complexo QRS&lt;/p&gt;
+&lt;p&gt;Os efeitos da repolarização sobre o ECG são similares aos da despolarização, exceto que as cargas são invertidas. Uma onda de repolarização movendo-se em direção a um eletrodo positivo inscreve uma deflexão negativa no ECG.&lt;/p&gt;
 
-&lt;p&gt;Onda U&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ecg5.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;derivações&quot;&gt;Derivações&lt;/h2&gt;
+
+&lt;p&gt;São 12 derivações principais.&lt;/p&gt;
+
+&lt;h3 id=&quot;verticais&quot;&gt;Verticais&lt;/h3&gt;
+
+&lt;p&gt;As 6 derivações dos membros veem o coração sobre um plano vertical, sendo:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Derivações padrões:
+    &lt;ul&gt;
+      &lt;li&gt;DI é criada tornando o braço esquerdo positivo e o braço direito negativo (0°);&lt;/li&gt;
+      &lt;li&gt;DII é criada tornando as pernas positivas e o braço direito negativo (60°);&lt;/li&gt;
+      &lt;li&gt;DIII é criada tornando as pernas positivas e o braço esquerdo negativo (120°);&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Derivações aumentadas:
+    &lt;ul&gt;
+      &lt;li&gt;aVL é criada tornando o braço esquerdo positivo e os outros membros negativos (–30°);&lt;/li&gt;
+      &lt;li&gt;aVR é criada tornando o braço direito positivo e os outros membros negativos (–150°);&lt;/li&gt;
+      &lt;li&gt;aVF é criada tornando as pernas positivas e os outros membros negativo (+90°).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/circulo-ecg.jpeg&quot; alt=&quot;D&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/circulo-ecg2.jpeg&quot; alt=&quot;D&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/tabela-ecg.jpeg&quot; alt=&quot;Lados&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;horizontais&quot;&gt;Horizontais&lt;/h3&gt;
+
+&lt;p&gt;As 6 derivações precordiais, ou derivações torácicas, são ainda mais fáceis de compreender. Elas são dispostas no tórax em um plano horizontal. Cada eletrodo torácico é tornado positivo, um de cada vez, e todo o corpo é tido como um campo comum. Os seis eletrodos positivos, que criam as derivações precordiais de V1 a V6, são posicionados como explicado a seguir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;V1 é colocado no 4 EIC à direita do esterno;&lt;/li&gt;
+  &lt;li&gt;V2 é colocado no 4 EIC à esquerda do esterno;&lt;/li&gt;
+  &lt;li&gt;V3 é colocado entre V2 e V4;&lt;/li&gt;
+  &lt;li&gt;V4 é colocado no 5 EIC, na linha mesoclavicular;&lt;/li&gt;
+  &lt;li&gt;V5 é colocado entre V4 e V6;&lt;/li&gt;
+  &lt;li&gt;V6 é colocado no 5 EIC, na linha axilar média.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/precordiais-ecg.jpeg&quot; alt=&quot;Lados&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/precordiais-ecg2.jpeg&quot; alt=&quot;Lados&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A derivação V1 fica diretamente sobre o ventrículo direito, V2 e V3, sobre o septo interventricular, V4, sobre o ápice do ventrículo esquerdo, e V5 e V6, sobre a lateral do ventrículo esquerdo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Anterior:&lt;/strong&gt; V2, V3, V4;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lateral esquerda:&lt;/strong&gt; I, aVL, V5, V6;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Inferiores:&lt;/strong&gt; II, III, aVF;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ventricular direita:&lt;/strong&gt; aVR, V1;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ondas&quot;&gt;Ondas&lt;/h2&gt;
+
+&lt;p class=&quot;alert aviso-yellow&quot;&gt;Onda P: despolarização atrial. A primeira metade coresponde ao AD e a segunda ao AE;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondap2.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Complexo QRS: despolarização ventricular;&lt;/li&gt;
+  &lt;li&gt;Onda T: repolarização ventricular;&lt;/li&gt;
+  &lt;li&gt;Onda U&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/intervalos.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;ritmo&quot;&gt;Ritmo&lt;/h2&gt;
-
 &lt;h3 id=&quot;ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/h3&gt;
 
 &lt;p&gt;Ritmo sinusal é aquele originado no &lt;strong&gt;nó sinusal&lt;/strong&gt;, conduzido aos ventrículos com intervalo entre &lt;strong&gt;120 ms e 200 ms&lt;/strong&gt;. Em sua normalidade o ECG registra ritmo sinusal de uma maneira muito simples: tem que ter onda P (representante da despolarização dos átrios) e QRS. Deve ser &lt;strong&gt;positiva em DI, DII e aVF&lt;/strong&gt; e &lt;strong&gt;negativa em aVR&lt;/strong&gt;, em que deve ser negativa. Lembrar que as vezes as vezes a onda P pode ser negativa em DIII.&lt;/p&gt;
@@ -366,54 +589,156 @@ Padrão nodular:&lt;/p&gt;
   &lt;li&gt;Posterior&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Retificação do tronco da artéria pulmonar.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hipertensão arterial</title><link href="http://localhost:4000/cardiologia/hipertensao-arterial.html" rel="alternate" type="text/html" title="Hipertensão arterial" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/hipertensao-arterial</id><content type="html" xml:base="http://localhost:4000/cardiologia/hipertensao-arterial.html">&lt;p&gt;7 Diretriz brasileira de HAS
-Diretriz europeia de HAS&lt;/p&gt;
-
-&lt;p&gt;Fisiologicamente a pressão arterial aumenta com a idade, pois os vasos ficam mais rígios, não se dilatam, reduzindo a sua área e elevando a pressão nas paredes.&lt;/p&gt;
-
-&lt;p&gt;Hipertensão: PA maior ou igual, de forma sustentada, a 140 x 90 mmHg.&lt;/p&gt;
-
-&lt;p&gt;É uma doença silenciosa.&lt;/p&gt;
-
-&lt;p&gt;Hipertensão primária (essencial):&lt;/p&gt;
-
-&lt;p&gt;Hipertensão secundária:&lt;/p&gt;
-
-&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Idade&lt;/li&gt;
-  &lt;li&gt;Sexo
-    &lt;ul&gt;
-      &lt;li&gt;Homens mas quando as mulheres entram na menopausa, superam os homens em prevalência.&lt;/li&gt;
-    &lt;/ul&gt;
+&lt;p&gt;Retificação do tronco da artéria pulmonar.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hipertensão arterial</title><link href="http://localhost:4000/cardiologia/hipertensao-arterial.html" rel="alternate" type="text/html" title="Hipertensão arterial" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/hipertensao-arterial</id><content type="html" xml:base="http://localhost:4000/cardiologia/hipertensao-arterial.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#secundária&quot; id=&quot;markdown-toc-secundária&quot;&gt;Secundária&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;Obesidade&lt;/li&gt;
-  &lt;li&gt;Fatores genéticos&lt;/li&gt;
-  &lt;li&gt;Prematuridade&lt;/li&gt;
-  &lt;li&gt;Baixo peso ao nascer&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#técnica&quot; id=&quot;markdown-toc-técnica&quot;&gt;Técnica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fora-do-consultório&quot; id=&quot;markdown-toc-fora-do-consultório&quot;&gt;Fora do consultório&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#valores-diagnósticos&quot; id=&quot;markdown-toc-valores-diagnósticos&quot;&gt;Valores diagnósticos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#não-medicamentoso&quot; id=&quot;markdown-toc-não-medicamentoso&quot;&gt;Não medicamentoso&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#medicamentoso&quot; id=&quot;markdown-toc-medicamentoso&quot;&gt;Medicamentoso&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#objetivo&quot; id=&quot;markdown-toc-objetivo&quot;&gt;Objetivo&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exame-de-rotina-do-paciente-hipertenso&quot; id=&quot;markdown-toc-exame-de-rotina-do-paciente-hipertenso&quot;&gt;Exame de rotina do paciente hipertenso&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Baseado na 7a Diretriz brasileira de HAS e na Diretriz europeia de HAS.&lt;/p&gt;
+
+&lt;p&gt;Hipertensão arterial (HA) é condição clínica multifatorial caracterizada por elevação sustentada dos níveis pressóricos ≥ 140 e/ou 90 mmHg. Frequentemente se associa a distúrbios metabólicos, alterações funcionais e/ou estruturais de órgãos-alvo, sendo agravada pela presença de outros fatores de risco (FR), como dislipidemia, obesidade abdominal, intolerância à glicose e diabetes melito (DM). Mantém associação independente com eventos como morte súbita, acidente vascular encefálico (AVE), infarto agudo do miocárdio (IAM), insuficiência cardíaca (IC), doença arterial
+periférica (DAP) e doença renal crônica (DRC), fatal e não fatal.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hipertensão arterial sistêmica:&lt;/strong&gt; PA maior ou igual, de forma sustentada, a 140 x 90 mmHg.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;A pressão arterial sistólica tende a, fisiologicamente, se elevar com a idade (os vasos ficam mais rígios, não se dilatam, reduzindo a sua área e elevando a pressão nas paredes.), sendo que a pressão diastólica, a partir dos 55 anos, começa a declinar. Em idosos, os níveis são discretamente maiores nas mulheres.&lt;/p&gt;
+
+&lt;p&gt;No Brasil, a prevalência média é de 32,5% da população, subindo para 60% entre os idosos. Somado ao grande número de pacientes, a taxa de controle ainda é muito baixa (em torno de 20-30%).&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Fatores de risco&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Idade&lt;/li&gt;
+    &lt;li&gt;Sexo
+      &lt;ul&gt;
+        &lt;li&gt;Mais prevalente em homens;&lt;/li&gt;
+        &lt;li&gt;Mas quando as mulheres entram na menopausa, superam os homens em prevalência.&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Etnia: em negros é mais grave e mais precoce;&lt;/li&gt;
+    &lt;li&gt;Obesidade;&lt;/li&gt;
+    &lt;li&gt;Sedentarismo;&lt;/li&gt;
+    &lt;li&gt;Elevada ingestão de sal e álcool, baixo consumo de K e Ca;&lt;/li&gt;
+    &lt;li&gt;Fatores genéticos: não parece ter uma relação clara;&lt;/li&gt;
+    &lt;li&gt;Prematuridade;&lt;/li&gt;
+    &lt;li&gt;Baixo peso ao nascer.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p&gt;EUA, 2015: HA estava presente em 69% dos pacientes com primeiro episódio de IAM, 77% de AVE, 75% com IC e 60% com DAP.5 A HA é responsável por 45% das mortes cardíacas e 51% das mortes decorrentes de AVE.&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;p&gt;Primária ou essencial (90-95% dos casos) e secundária (5-10%). A principal causa secundária é a doença parenquimatosa renal.&lt;/p&gt;
+
+&lt;h3 id=&quot;secundária&quot;&gt;Secundária&lt;/h3&gt;
+
+&lt;p&gt;Início precoce (idade &amp;lt; 30 anos) ou tar-
+dio (idade &amp;gt; 50 anos). Alguns autores
+citam como limite antes dos 20 e acima
+dos 55 anos.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;A maioria dos pacientes são completamente assintomáticos. Quando surgem sintomas, são relacionados à lesão de órgãos-alvo pela doença crônica: coração, cérebro, rim (nefroesclerose benigna e maligna), retina (estreitamento arteriolar, cruzamento AV patológico, manchas algodonosas e hemorragias, papiledema) e vasos sanguíneos (aortopatia e doença arterial periférica).&lt;/p&gt;
 
 &lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
 
-&lt;p&gt;Método direto, intra-arterial&lt;/p&gt;
+&lt;p&gt;A PA deve ser medida no braço, devendo-se utilizar manguito adequado à sua circunferência. Na suspeita de HA secundária à coartação da aorta, a medição deverá ser realizada nos MMII, utilizando-se manguitos apropriados.&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;De maneira indireta:
-    &lt;ul&gt;
-      &lt;li&gt;Auscultatório&lt;/li&gt;
-      &lt;li&gt;Oscilométrico&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+&lt;p class=&quot;alert aviso-green&quot;&gt;
+Menos manguito, mais pressão! A relação é inversa entre o tamanho correta e a medida incorreta da pressão.
+&lt;/p&gt;
 
-&lt;p&gt;Menos manguito, mais pressão! A relação é inversa entre o tamanho correta e a medida incorreta da pressão.&lt;/p&gt;
+&lt;p&gt;Recomenda-se, pelo menos, a medição da PA a cada dois anos para os adultos com PA ≤ 120/80 mmHg ,
+e anualmente para aqueles com PA &amp;gt; 120/80 mmHg e &amp;lt; 140/90 mmHg. A partir dos 3 anos todas crianças devem ter suas medidas de PA aferidas pelo menos anualmente. Nas crianças é necessário avaliar as tabelas de crascimento e percentil por idade e altura.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Hipotensão ortostática&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;p&gt;Deve ser suspeitada em pacientes idosos, diabéticos, disautonômicos e naqueles em uso de medicação anti-hipertensiva. Assim, particularmente nessas condições, deve-se medir a PA com o paciente &lt;strong&gt;de pé, após 3 minutos&lt;/strong&gt;, sendo a hipotensão ortostática definida
+como a &lt;strong&gt;redução da PAS &amp;gt; 20 mmHg ou da PAD &amp;gt; 10 mmHg&lt;/strong&gt;.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;técnica&quot;&gt;Técnica&lt;/h3&gt;
 
 &lt;p&gt;16 etapas para a correta aferição da PA&lt;/p&gt;
 
-&lt;p&gt;Pelo menos 2x com&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Explicar o procedimento ao paciente e deixá-lo em repouso de 3 a 5 minutos em ambiente calmo. Deve ser instruído a não conversar durante a medição;&lt;/li&gt;
+  &lt;li&gt;Certificar-se de que o paciente NÃO:
+    &lt;ul&gt;
+      &lt;li&gt;Está com a bexiga cheia;&lt;/li&gt;
+      &lt;li&gt;Praticou exercícios físicos há pelo menos 60 minutos;&lt;/li&gt;
+      &lt;li&gt;Ingeriu bebidas alcoólicas, café ou alimentos;&lt;/li&gt;
+      &lt;li&gt;Fumou nos 30 minutos anteriores.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Posicionamento:
+    &lt;ul&gt;
+      &lt;li&gt;O paciente deve estar sentado, com pernas descruzadas, pés apoiados no chão, dorso recostado na cadeira e relaxado;&lt;/li&gt;
+      &lt;li&gt;O braço deve estar na altura do coração, apoiado, com a palma da mão voltada para cima e as roupas não devem garrotear o membro.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Medir a PA na posição de pé, após 3 minutos, nos diabéticos, idosos e em outras situações em que a hipotensão ortostática possa ser frequente ou suspeitada.&lt;/li&gt;
+  &lt;li&gt;Determinar a circunferência do braço no ponto médio entre acrômio e olécrano;&lt;/li&gt;
+  &lt;li&gt;Selecionar o manguito de tamanho adequado ao braço;&lt;/li&gt;
+  &lt;li&gt;Colocar o manguito, sem deixar folgas, 2 a 3 cm acima da fossa cubital;&lt;/li&gt;
+  &lt;li&gt;Centralizar o meio da parte compressiva do manguito sobre a artéria braquial;&lt;/li&gt;
+  &lt;li&gt;Estimar o nível da PAS pela palpação do pulso radial*;&lt;/li&gt;
+  &lt;li&gt;Palpar a artéria braquial na fossa cubital e colocar a campânula ou o diafragma do estetoscópio sem compressão excessiva*;&lt;/li&gt;
+  &lt;li&gt;Inflar rapidamente até ultrapassar 20 a 30 mmHg o nível estimado da PAS obtido pela palpação*;&lt;/li&gt;
+  &lt;li&gt;Proceder à deflação lentamente (velocidade de &lt;strong&gt;2 mmHg por segundo&lt;/strong&gt;)*;&lt;/li&gt;
+  &lt;li&gt;Determinar a PAS pela ausculta do &lt;strong&gt;primeiro som&lt;/strong&gt; (fase I de Korotkoff) e, após, aumentar ligeiramente a velocidade de deflação*;&lt;/li&gt;
+  &lt;li&gt;Determinar a PAD no &lt;strong&gt;desaparecimento dos sons&lt;/strong&gt; (fase V de Korotkoff)*;&lt;/li&gt;
+  &lt;li&gt;Auscultar cerca de 20 a 30 mmHg abaixo do último som para confirmar seu desaparecimento e depois proceder à deflação rápida e completa*;&lt;/li&gt;
+  &lt;li&gt;Se os batimentos persistirem até o nível zero, determinar a PAD no abafamento dos sons (fase IV de Korotkoff) e anotar valores da PAS/PAD/zero*;&lt;/li&gt;
+  &lt;li&gt;Realizar pelo menos duas medições, com intervalo em torno de um minuto. Medições adicionais deverão ser realizadas se as duas primeiras forem muito diferentes. Caso julgue adequado, considere a média das medidas;&lt;/li&gt;
+  &lt;li&gt;Medir a pressão em ambos os braços na primeira consulta e usar o valor do braço onde foi obtida a maior pressão como referência;&lt;/li&gt;
+  &lt;li&gt;Informar o valor de PA obtido para o paciente;&lt;/li&gt;
+  &lt;li&gt;Anotar os valores exatos sem “arredondamentos” e o braço em que a PA foi medida.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;A partir dos 3 anos todas crianças devem ter suas medidas de PA aferidas. Nas crianças é necessário avaliar as tabelas de crascimento e percentil por idade e altura.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/correcao-pa.jpeg&quot; alt=&quot;Correção da PA de acordo com a circunferência do braço&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/circunferencia-manguito.jpeg&quot; alt=&quot;Manguito ideal de acordo com a circunferência do braço&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Em braços com circunferência superior a 50 cm, onde não há manguito disponível, pode-se fazer a medição no antebraço, auscultando o pulso radial.&lt;/p&gt;
+
+&lt;p&gt;Em gestantes, a PA deve ser obtida com a mesma metodologia recomendada para adultos, reforçando-se que ela também pode ser medida no braço esquerdo na posição de DLE em repouso, não devendo diferir da obtida na posição sentada. Considerar o quinto ruído de Korotkoff para a PAD. A hipertensão do avental branco (HAB) e a hipertensão mascarada (HM) são comuns na gravizez e, por
+isso, a MAPA e a MRPA podem constituir métodos úteis na decisão clínica.&lt;/p&gt;
+
+&lt;h3 id=&quot;fora-do-consultório&quot;&gt;Fora do consultório&lt;/h3&gt;
+
+&lt;p&gt;A MAPA e a MRPA são os métodos habitualmente utilizados
+para realizar as medições fora do consultório. Ambas fornecem
+informações semelhantes da PA, porém só a MAPA avalia a
+PA durante o sono.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/indicacoes-mapa.jpeg&quot; alt=&quot;indicações do MAPA&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;valores-diagnósticos&quot;&gt;Valores diagnósticos&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/diag-has.jpeg&quot; alt=&quot;Valores diag&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/diag-flux-has.jpeg&quot; alt=&quot;Flux&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Diagnósticos possíveis:&lt;/p&gt;
 
@@ -435,9 +760,52 @@ Diretriz europeia de HAS&lt;/p&gt;
 
 &lt;p&gt;No Canadá o diagnóstico de HAS em diabéticos é feito com um valor de PA menor, pois a doença pode mascarar a hipertensão.&lt;/p&gt;
 
+&lt;p&gt;PA não controlada apesar do uso de três dro-
+gas em dose otimizada, sendo uma delas da
+classe dos diuréticos.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h3 id=&quot;não-medicamentoso&quot;&gt;Não medicamentoso&lt;/h3&gt;
+
+&lt;p&gt;Extremamente importante, seja associado ou não ao tratamento medicamentoso.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Perda ponderal (principal!),&lt;/li&gt;
+  &lt;li&gt;Dieta DASH (maior ingesta de potássio, magnésio e cálcio);&lt;/li&gt;
+  &lt;li&gt;Redução na ingesta de sal (dieta hipossódica);&lt;/li&gt;
+  &lt;li&gt;Atividade física;&lt;/li&gt;
+  &lt;li&gt;Cessar tabagismo;&lt;/li&gt;
+  &lt;li&gt;Reduzir ingestão alcoólica;&lt;/li&gt;
+  &lt;li&gt;Evitar situações estressantes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;medicamentoso&quot;&gt;Medicamentoso&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diuréticos&lt;/li&gt;
+  &lt;li&gt;Inibidores da ECA (IECA)&lt;/li&gt;
+  &lt;li&gt;Bloqueadores do receptor ATI da Angio II (BRA II)&lt;/li&gt;
+  &lt;li&gt;Antagonistas dos Canais de Cálcio (ACC)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Drogas de segunda linha: metildopa, clonidina, rilmenidina, moxonidina, hidralazina, minoxidil,
+reserpina.&lt;/p&gt;
+
+&lt;p&gt;VII Diretriz brasileira: depende do estágio da HAS e fatores de risco.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Estágio 1: MEV por até seis meses (se baixo risco) ou monoterapia.&lt;/li&gt;
+  &lt;li&gt;Estágio 2 / Risco Alto e Muito Alto: terapia combinada (IECA + Ant. Ca++ seria a melhor combinação).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;objetivo&quot;&gt;Objetivo&lt;/h3&gt;
+
+&lt;p&gt;PA &amp;lt; 140 x 90 mmHg (ou &amp;lt; 150 x 90 mmHg nos pacientes com mais de 60 anos).&lt;/p&gt;
+
 &lt;h2 id=&quot;exame-de-rotina-do-paciente-hipertenso&quot;&gt;Exame de rotina do paciente hipertenso&lt;/h2&gt;
 
-&lt;p&gt;VER NA DIRETRIZ&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">7 Diretriz brasileira de HAS Diretriz europeia de HAS</summary></entry><entry><title type="html">Princípios básicos de hemodinâmica e cardiologia intervencionista</title><link href="http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica.html" rel="alternate" type="text/html" title="Princípios básicos de hemodinâmica e cardiologia intervencionista" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica</id><content type="html" xml:base="http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica.html">&lt;p&gt;O primeiro cateterismo foi feito em 1929 na Alemanha.&lt;/p&gt;
+&lt;p&gt;VER NA DIRETRIZ&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Princípios básicos de hemodinâmica e cardiologia intervencionista</title><link href="http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica.html" rel="alternate" type="text/html" title="Princípios básicos de hemodinâmica e cardiologia intervencionista" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica</id><content type="html" xml:base="http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica.html">&lt;p&gt;O primeiro cateterismo foi feito em 1929 na Alemanha.&lt;/p&gt;
 
 &lt;p&gt;Indicações:&lt;/p&gt;
 
@@ -461,277 +829,4 @@ Pressão hidrostática máxima: 25.&lt;/p&gt;
 
 &lt;h2 id=&quot;cinecoronarioangiografia&quot;&gt;Cinecoronarioangiografia&lt;/h2&gt;
 
-&lt;p&gt;O que é?&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O primeiro cateterismo foi feito em 1929 na Alemanha.</summary></entry><entry><title type="html">Fisiologia cardiovascular</title><link href="http://localhost:4000/cardiologia/fisiologia-cardiovascular.html" rel="alternate" type="text/html" title="Fisiologia cardiovascular" /><published>2019-10-08T00:00:00-03:00</published><updated>2019-10-08T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/fisiologia-cardiovascular</id><content type="html" xml:base="http://localhost:4000/cardiologia/fisiologia-cardiovascular.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#anatomia&quot; id=&quot;markdown-toc-anatomia&quot;&gt;Anatomia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#topografia&quot; id=&quot;markdown-toc-topografia&quot;&gt;Topografia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#válvulas&quot; id=&quot;markdown-toc-válvulas&quot;&gt;Válvulas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#coronarianas&quot; id=&quot;markdown-toc-coronarianas&quot;&gt;Coronarianas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#invervação&quot; id=&quot;markdown-toc-invervação&quot;&gt;Invervação&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#formação-e-condução-dos-estímulos&quot; id=&quot;markdown-toc-formação-e-condução-dos-estímulos&quot;&gt;Formação e condução dos estímulos&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ciclo-cardíaco&quot; id=&quot;markdown-toc-ciclo-cardíaco&quot;&gt;Ciclo cardíaco&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagrama-de-wiggers&quot; id=&quot;markdown-toc-diagrama-de-wiggers&quot;&gt;Diagrama de Wiggers&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#grandes-vasos&quot; id=&quot;markdown-toc-grandes-vasos&quot;&gt;Grandes vasos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O lado direito do coração recebe o sangue venoso sistêmico
-por intermédio das veias cavas - superior e inferior - que se
-conectam ao átrio direito; desse ponto, o sangue flui para o ventrículo direito, passando pela valva tricúspide. O sangue impulsionado pela contração do ventrículo ultrapassa a valva pulmonar, chegando à artéria pulmonar, que o distribui pela rede
-vascular dos pulmões, para que seja oxigenado; retoma ao lado
-esquerdo do coração pelas veias pulmonares que deságuam no
-átrio esquerdo. Desta câmara, dirige-se ao ventrículo esquerdo
-passando pela valva mitral. Por fim, ultrapassa a valva aórtica,
-alcançando a aorta, que constitui o início da circulação sistêmica, responsável pela distribuição do sangue pelo corpo todo.&lt;/p&gt;
-
-&lt;p&gt;O coração é formado por 3 camadas: epicárdio, miocárdio
-e endocárdio.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Epicárdio (pericardio visceral)&lt;/li&gt;
-  &lt;li&gt;Pericárdio parietal: é uma formação fibrosa, resistente e pouco elástica à distensão rápida, mas com capacidade de se distender lenta e gradualmente.&lt;/li&gt;
-  &lt;li&gt;Miocardio&lt;/li&gt;
-  &lt;li&gt;Endocárdio: formado principalmente por uma camada endotelial, confere ao interior do coração um aspecto liso e brilhante.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h2&gt;
-
-&lt;p&gt;A face esternocostal é formada principalmente pelo ventrículo direito, que constitui a parte mais anterior do coração. Levando em consideração essa informação, é fácil compreender o motivo pelo qual o crescimento do ventrículo direito provoca abaulamento da face anterior do tórax, principalmente em crianças, nas quais o arcabouço torácico ainda não
-se tornou rígido&lt;/p&gt;
-
-&lt;p&gt;a parede do ventrículo esquerdo é o dobro da do ventrículo direito, isto porque a
-pressão na aorta é muito superior à da artéria pulmonar.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/rxtorax.jpeg&quot; alt=&quot;Rx de tórax&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O sentido da contração das fibras, da via de entrada para a via
-de saída, é o responsável pelo direcionamento do fluxo sanguíneo. Isso torna possível compreender por que, mesmo quando há lesão da valva mitral com refluxo de sangue para o átrio
-esquerdo, a maior parte do fluxo sanguíneo vai para a aorta e não para o átrio esquerdo, durante a contração ventricular.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/Diagram_of_the_human_heart.svg&quot; alt=&quot;Anatomia geral&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/2101_Blood_Flow_Through_the_Heart.jpg&quot; alt=&quot;Anatomia circulação&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;topografia&quot;&gt;Topografia&lt;/h3&gt;
-
-&lt;p&gt;descreve-se
-a face esternocostal, a diafragmática ou inferodorsal, à
-esquerda, a porção apical ou ápice e a basal ou base do coração.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AE: a estrutura mais posterior do coração, à esquerda e atrás do átrio direito;&lt;/li&gt;
-  &lt;li&gt;AD: frequentemente esconde o tronco da aorta;&lt;/li&gt;
-  &lt;li&gt;Ápice: corresponde à ponta do coração e é constituído do VE, que mantém contato direto com o gradil costal no nível do 5 EIC esquerdo, na maioria das pessoas.&lt;/li&gt;
-  &lt;li&gt;VD: constitui a parte mais anterior do coração, na face esternocostal.
-    &lt;ul&gt;
-      &lt;li&gt;o crescimento do ventrículo direito provoca abaulamento da face anterior do tórax, principalmente em crianças, nas quais o arcabouço torácico ainda não se tornou rígido.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;&lt;em&gt;Ictus cordis&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;p&gt;Na criança a posição é mais transversal que no adulto e, por isso, a
-ponta do coração situa-se pelo menos um espaço intercostal acima.&lt;/p&gt;
-
-  &lt;p&gt;Com a insipiração profunda, o batimento da ponta desloca-se para baixo e para dentro. O inverso ocorre na expiração profunda e o batimento do ápice pode, então, situar-se no 3 ou no 4 EIC.&lt;/p&gt;
-
-  &lt;p&gt;Em decúbito lateral direito, o choque da ponta desloca-se para trás, afastando-se da parede anterior do tórax, o que torna o batimento do ápice mais difícil de ser percebido.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;válvulas&quot;&gt;Válvulas&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/valvulas.jpeg&quot; alt=&quot;Válvulas&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O coração dispõe de 4 aparelhos valvares: no &lt;strong&gt;lado esquerdo&lt;/strong&gt;, um atrioventricular (&lt;span class=&quot;red&quot;&gt;mitral&lt;/span&gt;) e um ventriculoaórtico (&lt;span class=&quot;orange&quot;&gt;aórtico&lt;/span&gt;); no &lt;strong&gt;lado direito&lt;/strong&gt;, um atrioventricular (&lt;span class=&quot;green&quot;&gt;tricúspide&lt;/span&gt;) e um ven-
-triculopulmonar (&lt;span class=&quot;blue&quot;&gt;pulmonar&lt;/span&gt;). No lado esquerdo há 2 cúspides e, no direito, 3; daí a denominação de tricúspide.&lt;/p&gt;
-
-&lt;p&gt;As valvas AV consistem em um anel fibroso que circunscreve o óstio atrioventricular, as cúspides, as cordoalhas tendíneas (evitam a eversão) e os músculos papilares.&lt;/p&gt;
-
-&lt;p&gt;As valvas semilunares da aorta e das artérias pulmonares
-estão situadas nas origens desses vasos. Cada uma apresenta
-3 cúspides, as quais consistem em tecido fibroso, avascular,
-recoberto em cada face pela íntima.&lt;/p&gt;
-
-&lt;h3 id=&quot;coronarianas&quot;&gt;Coronarianas&lt;/h3&gt;
-
-&lt;p&gt;O coração é irrigado pelas artérias coronárias, direita e esquerda que nascem nos seios aórticos direito e esquerdo. Já a drenagem do sangue venoso é feita
-por numerosas veias, as quais desembocam diretamente nas
-câmaras cardíacas ou se unem para formar o seio coronário,
-tributário do átrio direito.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/coronarias.gif&quot; alt=&quot;Coronárias&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/coronarias2.jpg&quot; alt=&quot;Coronárias&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/coronarias3.png&quot; alt=&quot;Coronárias&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;CD: irriga a parede inferior;&lt;/li&gt;
-  &lt;li&gt;CE:
-    &lt;ul&gt;
-      &lt;li&gt;DA: irriga a parede anterior;&lt;/li&gt;
-      &lt;li&gt;CX: Irriga a parede lateral esquerda.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;invervação&quot;&gt;Invervação&lt;/h3&gt;
-
-&lt;p&gt;O coração é inervado por fibras nervosas autônomas que
-incluem fibras sensoriais oriundas dos nervos vagos e dos
-troncos simpáticos.&lt;/p&gt;
-
-&lt;p&gt;O &lt;span class=&quot;red&quot;&gt;sistema simpático&lt;/span&gt; constitui o componente ativador do
-sistema de comando, provocando &lt;span class=&quot;orange&quot;&gt;aumento da frequência cardíaca&lt;/span&gt; e da contratilidade miocárdica, enquanto o &lt;span class=&quot;green&quot;&gt;sistema
-parassimpático&lt;/span&gt;, por inibir o sistema de comando, &lt;span class=&quot;green&quot;&gt;diminui a
-frequência cardíaca&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;A estimulação simpática pela norepinefrina produz
-aumento na frequência cardíaca e na contratilidade miocárdica. O estímulo parassimpático mediado pela acetilcolina
-reduz a frequência e a contratilidade. Além disso, vários receptores no arco aórtico e nos seios carotídeos enviam informações sobre a pressão arterial ao centro cardiovascular medular
-no cérebro. A integração de informações possibilita perfeito atendimento das necessidades de O2 e nutrientes de todos os órgãos.&lt;/p&gt;
-
-&lt;p&gt;As fibras simpáticas originam-se do 1° ao 4° segmento torácico da medula espinal (T1-T5), fazendo
-sinapse nos gânglios cervicais e torácicos.&lt;/p&gt;
-
-&lt;h4 id=&quot;formação-e-condução-dos-estímulos&quot;&gt;Formação e condução dos estímulos&lt;/h4&gt;
-
-&lt;p&gt;O estímulo origina-se no &lt;strong&gt;nó sinusal&lt;/strong&gt;, também denominado sinoatrial ou de Keith-Flack; progride na direção do nó atrioventricular por meio dos tratos interno dais (anterior, médio e posterior) e na direção do AE pelo feixe de Bachmann (um dos ramos da bifurcação do trato internodal anterior); alcança o &lt;strong&gt;nó atrioventricular&lt;/strong&gt; ou de Aschoff-Tawara, sofrendo atraso em sua transmissão, necessário para que a contração atrial se complete antes da ventricular; rapidamente percorre o &lt;strong&gt;feixe de His&lt;/strong&gt;, seus ramos direito e esquerdo e suas subdivisões, para finalmente chegar à &lt;strong&gt;rede de Purkinje&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/inervação.jpeg&quot; alt=&quot;Inervação&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;As propriedades fundamentais do coração são:&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;Cronotropismo ou automaticidade:&lt;/strong&gt; propriedade que têm as fibras que provocam estímulos espontaneamente, sem necessidade da inervação extrínseca. Esta propriedade é dada pelas &lt;span class=&quot;green&quot;&gt;células P&lt;/span&gt;, cujo automatismo é maior conforme mais altas estiverem no sistema excitocondutor;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Batmotropismo ou excitabilidade:&lt;/strong&gt; propriedade que as fibras apresentam de iniciar um potencial de ação em resposta a um estímulo adequado;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Dromotropismo ou condutibilidade:&lt;/strong&gt; propriedade das fibras de conduzir e transmitir às células vizinhas um estímulo recebido;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Inotropismo ou contratilidade:&lt;/strong&gt; capacidade de responder ao estímulo elétrico com uma atividade mecânica, representada pela contração miocárdica.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;ciclo-cardíaco&quot;&gt;Ciclo cardíaco&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/CG_Heart.gif&quot; alt=&quot;Gif do ciclo cardíaco&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;sístole&lt;/strong&gt; compreende o período de B1 (fechamento das válvulas AV - “&lt;em&gt;TUM&lt;/em&gt;”) até a B2 (fechamento das valvas aórtica e pulmonar - “&lt;em&gt;TÁ&lt;/em&gt;”). Já a &lt;strong&gt;diástole&lt;/strong&gt;, compreende o período de silêncio entre o fim da B2 e a nova B1.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Sístole: contração ventricular&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;Período de contração isovolumétrica:&lt;/strong&gt; todas as válvulas estão fechadas e os ventrículos contraem aumentando a pressão na câmara mas sem aumentar o volume;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Período de ejeção ventricular:&lt;/strong&gt; chega o momento em que a pressão ventricular supera a pressão da aorta, logo, a valva aórtica se abre e inicia o fluxo de sangue por diferença de pressão;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Ejeção rápida&lt;/strong&gt;&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Ejeção lenta:&lt;/strong&gt; os ventrículos começam a se repolarizar, ou seja, reduzir o seu estado de contratilidade, e a ejeção já perde o vigor e a pressão interventricular começa a diminuir. Quando a pressão aórtica supera a pressão do VE, a valva aórtica se fecha e produz B2, marcando o fim da sístole;&lt;/li&gt;
-        &lt;li&gt;protodiástole de Wiggers&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Diástole: relaxamento ventricular&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;Período de relaxamento isovolumétrico:&lt;/strong&gt; inicia após o fechamento das valvas aórtica e pulmonar. O coração começa a relaxar mantendo o mesmo volume, uma vez que as valvas estão fechadas;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Período de enchimento ventricular:&lt;/strong&gt; quando a pressão no átrio supera a pressão no ventrículo, as valvas atrioventriculares se abrem permitindo o fluxo de sangue;
-      &lt;ul&gt;
-        &lt;li&gt;&lt;strong&gt;Rápido:&lt;/strong&gt; enchimento vigoroso;&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Lento:&lt;/strong&gt; enchimento mais lento;&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Período de contração atrial:&lt;/strong&gt; a sístole atrial, corresponde à onda P no ECG e contribui por apenas 20% do volume fornecido para os ventrículos.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;No &lt;strong&gt;fim da diástole&lt;/strong&gt; ocorre &lt;strong&gt;repouso elétrico e mecânico do coração&lt;/strong&gt; até que um novo estímulo
-provocado pelo nó sinusal reinicie a sequência de fenômenos que constituem o ciclo cardíaco.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Sempre lembrar que:
-&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;B1:&lt;/strong&gt; fechamento AV, inicia a fase de contração isovolumétrica;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;B2:&lt;/strong&gt; fechamento Ao e P, inicia a fase de relaxamento isovolumétrico;&lt;/li&gt;
-    &lt;li&gt;A pressão no coração direito é menor que no coração esquedo;&lt;/li&gt;
-    &lt;li&gt;A &lt;strong&gt;valva mitral se fecha antes da tricúspide&lt;/strong&gt;, isto porque, no lado esquerdo, são mais abundantes as ramificações do sistema His-Purkinje, o que propicia a chegada mais precoce do estímulo elétrico à musculatura. Assim, a sístole do VE se inicia ligeiramente antes da do VD;&lt;/li&gt;
-    &lt;li&gt;Apesar de o VD iniciar sua contração mais tarde que o VE, &lt;strong&gt;seu esvaziamento começa antes&lt;/strong&gt;. Isso ocorre porque a pressão ventricular direita ultrapassa a pressão intrapulmonar mais rapidamente do que o faz o VD com relação à pressão intra-aórtica;&lt;/li&gt;
-    &lt;li&gt;No entanto, o VE completa sua ejeção antes do VD. Isso porque o nível pressórico intra-aórtico, sendo mais alto que o intrapulmonar, faz com que haja uma inversão do gradiente de pressão mais precoce no lado esquerdo do coração;&lt;/li&gt;
-    &lt;li&gt;Assim, B2 será formada por 2 componentes normalmente audíveis - aórtico e pulmonar-, ocorrendo primeiro o componente aórtico (&lt;strong&gt;a valva aórtica fecha primeiro que a pulmonar&lt;/strong&gt;).&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Desdobramento fisiológico:&lt;/strong&gt; a inspiração aumenta a negatividade da pressão torácica e acentua a pressão abdominal, determinando maior afluxo de sangue ao VD, retardando a sístole do ventrículo direito, separando os componentes aórtico e pulmonar de B2. Inversamente, a expiração aumenta a pressão positiva pulmonar, promovendo maior chegada de sangue ao VE, retardando sua sístole. Agora, os 2 componentes tendem a se aproximar mais.&lt;/p&gt;
-
-&lt;h3 id=&quot;diagrama-de-wiggers&quot;&gt;Diagrama de Wiggers&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/Wiggers.svg.png&quot; alt=&quot;Ciclo cardíaco&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;incisura dicrótica&lt;/strong&gt; corresponde ao fechamento da valva aórtica. Os valores médios da pressão aórtica refletem os valores da pressão arterial sistêmica, com média de 120 x 80 mmHg. Já no que diz respeito à pressão atrial, os valores médios são de 4 a 6 mmHg.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ciclo.jpeg&quot; alt=&quot;Ciclo cardíaco&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Curva de pressão atrial (ciclo atrial)&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;strong&gt;Onda A:&lt;/strong&gt; sistole ou contração atrial;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Onda C:&lt;/strong&gt; a contração isovolumétrica dos ventrículos provoca um abaulamento da valva AV no sentido do átrio, o que eleva momentaneamente a pressão nessa câmara;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Colapso X:&lt;/strong&gt; relaxamento muscular do átrio acompanhado de queda da pressão;&lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Onda V:&lt;/strong&gt; o átrio começa a receber sangue e a sua pressão vai aumentando ligeiramente. Mas, quando as valvas AV se abrem a pressão cai novamente pois o sangue flui para os ventrículos.
-      &lt;ul&gt;
-        &lt;li&gt;Seu pico ocorre quando há abertura das valvas AV (queda da pressão intraventricular ao mesmo tempo em que ocorre elevação da pressão atrial);&lt;/li&gt;
-        &lt;li&gt;Começa o esvaziamento do átrio.&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;&lt;strong&gt;Colapso Y:&lt;/strong&gt; transferência passiva, e rápida (fase de enchimento ventricular rápido), de cerca de 75% do volume sanguíneo para o ventrículo;&lt;/li&gt;
-    &lt;li&gt;Novamente a onda A marcando a contração atrial e o fim da diástole.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;ECG&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Onda P: despolarização do átrio (sístole atrial);&lt;/li&gt;
-    &lt;li&gt;Complexo QRS: despolarização dos ventrículos;&lt;/li&gt;
-    &lt;li&gt;Onda T: repolarização dos ventrículos&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p class=&quot;alert aviso-green&quot;&gt;
-Sempre lembrar que a despolarização promove a contração e a repolaização o relaxameto!
-&lt;/p&gt;
-
-&lt;h2 id=&quot;grandes-vasos&quot;&gt;Grandes vasos&lt;/h2&gt;
-
-&lt;p&gt;A aorta é uma artéria elástica, sendo sua camada média
-constituída, em grande parte, de lâminas de tecido elástico;
-sua elasticidade diminui com a idade. As paredes da aorta ascendente e do arco da aorta contêm
-células barorreceptoras em conexão com os centros vasomotores do tronco encefálico, por meio do nervo vago. A estimulação desses receptores, pelo aumento da pressão intra-aórtica,
-determina uma reação reflexa, manifestada por queda da pressão arterial e diminuição da frequência cardíaca.&lt;/p&gt;
-
-&lt;p&gt;A aorta ascendente, situada no mediastino médio, tem
-sua origem na raiz da aorta, após o que se dirige para cima
-e para a direita, até a altura do ângulo estemal. Continua-se
-com a crossa da aorta, que se dirige para a esquerda, ventralmente situada com relação à traqueia. Daí, orientando-se para
-trás e para baixo, contorna para cima o brônquio esquerdo, à
-esquerda da traqueia e do esôfago. A maior parte da crossa da
-aorta situa-se no mediastino superior, atrás da porção inferior
-do manúbrio esternal.&lt;/p&gt;
-
-&lt;p&gt;Os ramos principais da crossa da aorta são: tronco braquicefálico, artéria carótida esquerda e artéria subclávia esquerda. O tronco braquicefálico, primeiro ramo do arco, subdivide-se nas artérias subclávias e carótida comum direita, no nível da articulação estemoclavicular direita.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aorta.jpeg&quot; alt=&quot;Aorta&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Porto, Semiologia médica - 7° edição.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Abdome agudo</title><link href="http://localhost:4000/mapas/abdome-agudo.html" rel="alternate" type="text/html" title="Abdome agudo" /><published>2019-10-03T00:00:00-03:00</published><updated>2019-10-03T00:00:00-03:00</updated><id>http://localhost:4000/mapas/abdome-agudo</id><content type="html" xml:base="http://localhost:4000/mapas/abdome-agudo.html">&lt;p&gt;&lt;img class=&quot;mapa&quot; alt=&quot;imagem do mapa&quot; src=&quot;/assets/mapas/abdome-agudo.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/mapas/abdome.jpeg&quot; alt=&quot;anatomia abdome&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/emergencia/abdome-agudo.jpeg&quot; alt=&quot;DDs abdome&quot; /&gt;
-&lt;img src=&quot;/assets/emergencia/abdome-agudo2.jpeg&quot; alt=&quot;DDs abdome&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;O que é?&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O primeiro cateterismo foi feito em 1929 na Alemanha.</summary></entry></feed>
