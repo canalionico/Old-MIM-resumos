@@ -1,4 +1,230 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-21T22:02:17-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Síndrome coronariana aguda</title><link href="http://localhost:4000/cardiologia/sca.html" rel="alternate" type="text/html" title="Síndrome coronariana aguda" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/sca</id><content type="html" xml:base="http://localhost:4000/cardiologia/sca.html">&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/revasc.jpeg&quot; alt=&quot;Revasc&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Pneumonia</title><link href="http://localhost:4000/pneumologia/pneumonia.html" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/pneumonia</id><content type="html" xml:base="http://localhost:4000/pneumologia/pneumonia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-23T17:34:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;p&gt;DC = FC x Volume sistólico&lt;/p&gt;
+
+&lt;p&gt;VS é proporcional à pré-carga e à contratilidade e inversamente proporcional à pós-carga.&lt;/p&gt;
+
+&lt;p&gt;Pré craga: pressão ou volume no final da diástole (até 12 mmHg no VE e até 5 mmHg no VD)&lt;/p&gt;
+
+&lt;p&gt;Pós-carga: é a força que o ventriculo deve superar para promover a contração.&lt;/p&gt;
+
+&lt;p&gt;É um síndrome clínica na qual o coração falha na sua função de bomba em atender a demanda metabólica do organismo devido ao baixo débito cardiaco, resultando em défict na perfusão tecidual e congestão pulmonar e/ou sistêmica.&lt;/p&gt;
+
+&lt;p&gt;É uma doença crônica e progressiva.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;0,4 a 2% da população geral. Sua prevalencia aumenta com o envelhecimento.&lt;/p&gt;
+
+&lt;p&gt;Ver o registro Breathe de 2014 no Brasil: As principais etiologias são isquêmica (30%), hipertensiva (20%), dilatação idiopática, valvar e doença de Chagas.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;Um evento inicial promove uma lesão miocárdica e um estresse mecânico. Ocorr inflamação, estresse oxidativo e isquemia, promovendo alterações cardíacas (remodelamento ventricular, disfunção endotelial, alterações metabólicas, disfunção neuro-hormonal) e sistêmicas.&lt;/p&gt;
+
+&lt;p&gt;Disfunção miocárdica: pode ser sistólica ou diastólica.&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;p&gt;Pode ser&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sistólica
+    &lt;ul&gt;
+      &lt;li&gt;contratilidade do VE reduzida,&lt;/li&gt;
+      &lt;li&gt;Miocardiopatia isquêmica, dilatada, chagásica, hipertensiva ou idiopática&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Diastólica
+    &lt;ul&gt;
+      &lt;li&gt;Contratilidade do VE normal;&lt;/li&gt;
+      &lt;li&gt;Disfunção diastólica do VE.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dispnéia&lt;/li&gt;
+  &lt;li&gt;Ortopneia&lt;/li&gt;
+  &lt;li&gt;Dispneia paroxística noturna&lt;/li&gt;
+  &lt;li&gt;Fadiga e fraqueza&lt;/li&gt;
+  &lt;li&gt;Sintomas abdominais&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Várias formas de apresentação,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Aguda ou crônica&lt;/li&gt;
+  &lt;li&gt;Direita ou esquerda&lt;/li&gt;
+  &lt;li&gt;Sistólica ou diastólica&lt;/li&gt;
+  &lt;li&gt;Alto ou baixo débito&lt;/li&gt;
+  &lt;li&gt;Retrógrada ou anterógrada&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Uma hipertensão pulmonar pode acometer apenas o VD e gerar uma &lt;em&gt;cor pulmonale&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pele fria&lt;/li&gt;
+  &lt;li&gt;Sudorese&lt;/li&gt;
+  &lt;li&gt;Pulso filiforme&lt;/li&gt;
+  &lt;li&gt;Estertores pulmonares&lt;/li&gt;
+  &lt;li&gt;Asciste&lt;/li&gt;
+  &lt;li&gt;Icterícia&lt;/li&gt;
+  &lt;li&gt;Hepatomegalia congestiva&lt;/li&gt;
+  &lt;li&gt;Estase jugular&lt;/li&gt;
+  &lt;li&gt;Edema MMII&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;Critérios de Framinghan: 2 maiores ou 1 maior e 2 menores.&lt;/p&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;p&gt;Apresentação clínica:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IVE&lt;/li&gt;
+  &lt;li&gt;IC congestiva&lt;/li&gt;
+  &lt;li&gt;Choque cardiogênico&lt;/li&gt;
+  &lt;li&gt;EAP&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tempo de evolução da doença&lt;/p&gt;
+
+&lt;p&gt;Tipo de disfunção do VE&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IC com FE preservada (&amp;gt; 50%)&lt;/li&gt;
+  &lt;li&gt;FE intermediária (40 a 49%)&lt;/li&gt;
+  &lt;li&gt;FE reduzida (&amp;lt; 40%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Modelo clínico-hemodinâmico (ABCL): quente-seco, quente-congesto, frio-congesto, frio-seco.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ic-hemod.png&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Estadiamento segundo a ACC/AHA ABCD&lt;/p&gt;
+
+&lt;p&gt;NYHA (com base na tolerância individual ao esforço)&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;Vão ajudar na confirmação do diagnóstico, na busca pela etiologia, na avaliação prognóstica e na avaliação funcional.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;lab
+    &lt;ul&gt;
+      &lt;li&gt;O BNP e/ou NT-proBNP pode ajudar a diferenciar dispnéia de origem cardíaca (valores aumentados) de pulmonar (valores normais).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ECG&lt;/li&gt;
+  &lt;li&gt;RM&lt;/li&gt;
+  &lt;li&gt;Holter&lt;/li&gt;
+  &lt;li&gt;RX
+    &lt;ul&gt;
+      &lt;li&gt;Linhas B de Kerley (edema intersticial)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Ecocardiograma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
+
+&lt;p&gt;Escore de Adhere para avaliação da mortalidade intra-hospitalar&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">DC = FC x Volume sistólico</summary></entry><entry><title type="html">Itrs</title><link href="http://localhost:4000/itrs.html" rel="alternate" type="text/html" title="Itrs" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/itrs</id><content type="html" xml:base="http://localhost:4000/itrs.html">&lt;p&gt;As celulas que chegam primeiro no sítio da lesão são os PMN, iniciando a inflamação. Depois chegam os linfócitos e os monócitos formando o infiltrado linfomononuclear que caracteriza a inflamação crônica (em torno de 3 meses).&lt;/p&gt;
+
+&lt;p&gt;No trato respiratório superior a mucosa acometida é a mucosa respirtatória. Essa mucosa troca gases e também secreta uma secreção musoca.&lt;/p&gt;
+
+&lt;p&gt;Se os alvéolos fecharem, será criado um gradiente negativo pois a aborsão ocorre com mais facilidade que a difusão dos gases. O próprio vácuo criado pode agredir a mucosa.&lt;/p&gt;
+
+&lt;p&gt;No nariz, o movimento ciliar se faz de cima para baixo. Na traqueia e bronquios, se faz de baixo para cima. Ou seja, o movimento se faz na direção da boca para que as particulas estranhas possam ser deglutidas.&lt;/p&gt;
+
+&lt;p&gt;As conchas nasais são importantes para aquecer, umidificar e filtrar o ar. Sua superfície irregular promove um turbilhonamento do ar que entra e facilita a deposição de partículas.&lt;/p&gt;
+
+&lt;p&gt;Inflamação da mucosa nasossinusal (nariz e seios da face) —&amp;gt; Rinossinusites&lt;/p&gt;
+
+&lt;p&gt;Podem ser agudas ou crônicas&lt;/p&gt;
+
+&lt;p&gt;O agente agressor pode ser:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Físico
+    &lt;ul&gt;
+      &lt;li&gt;Temperatura&lt;/li&gt;
+      &lt;li&gt;Umidade&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quimico
+    &lt;ul&gt;
+      &lt;li&gt;poluentes&lt;/li&gt;
+      &lt;li&gt;drogas&lt;/li&gt;
+      &lt;li&gt;medicamentos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Biologico
+    &lt;ul&gt;
+      &lt;li&gt;Pelos&lt;/li&gt;
+      &lt;li&gt;FIbras&lt;/li&gt;
+      &lt;li&gt;Virus&lt;/li&gt;
+      &lt;li&gt;Fungos&lt;/li&gt;
+      &lt;li&gt;Bacterias&lt;/li&gt;
+      &lt;li&gt;Acaro&lt;/li&gt;
+      &lt;li&gt;Etc&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A agressão gera um edema da mucosa, uma congestão das conchas e um aumento da secreção. Essa estase secretiva e congestão cria um ambiente propício para infecções. Ou seja, a infecção tanto pode ser causa de uma rinossinusite como também consequência. Na prática clínica essa diferença é muito importante, por exemplo, na decisão de uso ou não de antibióticos.&lt;/p&gt;
+
+&lt;p&gt;Sintomas: obstrução nasal, dor na face, sensação de pressão na face, rinorreia (saída de secreção pelo nariz), cefaléia, febre ou não.&lt;/p&gt;
+
+&lt;p&gt;Geralmente a rinossunisite crônica acontece quando há o binômio: hiperreatividade mais o fato desencadeante. Sendo promovida por uma agressão crônica, um contato contínuo com o mecanismo agressor. Um exemplo é a rinite alérgica.&lt;/p&gt;
+
+&lt;p&gt;Peculiaridade: sinusite odontogênica ocorre de forma interna, pela intimidade entre os dentes superiores e os seios nasais. Sempre que nos deparamos com uma sinusite maxilar unilateral, devemos descartar doença dentária.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;Exames radiográficos normalmente são desnecessários para o diagnóstico. Além disso, os achados dos exames dificilmente mudarão a conduta tomada com base apenas na história clínica.&lt;/p&gt;
+
+&lt;p&gt;A tomografia computadorizada é muito sensível para sinusite, tanto em valor preditivo positivo como negativo. É o melhor exame, o de escolha.&lt;/p&gt;
+
+&lt;p&gt;Indicações do exame radiológico:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Falha do tratamento clínico&lt;/li&gt;
+  &lt;li&gt;Planejamento cirúrgico&lt;/li&gt;
+  &lt;li&gt;Complicações&lt;/li&gt;
+  &lt;li&gt;Casos atípicos&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h3 id=&quot;aguda&quot;&gt;Aguda&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Analgésico&lt;/li&gt;
+  &lt;li&gt;Descongestionante&lt;/li&gt;
+  &lt;li&gt;Antibióticos&lt;/li&gt;
+  &lt;li&gt;Cirurgia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;crônica&quot;&gt;Crônica&lt;/h3&gt;
+
+&lt;p&gt;Não tem um tratamento definitivo. Pois a maioria dos pacientes apresentam o fator hiperreatividade intrínseco. Podemos reduzir ou controlar as manifestações.&lt;/p&gt;
+
+&lt;p&gt;A lavasagem nasal contínua com soro fisiológico pode ser o fator mais importante para o controle da rinossinusite crônica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Controle ambiental&lt;/li&gt;
+  &lt;li&gt;Lavagem nasal&lt;/li&gt;
+  &lt;li&gt;Corticóide tópico (não fazer o oral para evitar o efeito sistêmico)&lt;/li&gt;
+  &lt;li&gt;Antialérgicos&lt;/li&gt;
+  &lt;li&gt;Cirurgia&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Quando suspeitar de etiologia bacteriana? Na realidade não da pra afirmar se é ou não bacteriana. Conseguimos ter uma leve estimativa com base na intensidade dos sintomas, na duração do quadro.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Síndrome coronariana aguda</title><link href="http://localhost:4000/cardiologia/sca.html" rel="alternate" type="text/html" title="Síndrome coronariana aguda" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/sca</id><content type="html" xml:base="http://localhost:4000/cardiologia/sca.html">&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/revasc.jpeg&quot; alt=&quot;Revasc&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Pneumonia</title><link href="http://localhost:4000/pneumologia/pneumonia.html" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/pneumonia</id><content type="html" xml:base="http://localhost:4000/pneumologia/pneumonia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#típica-x-atípica&quot; id=&quot;markdown-toc-típica-x-atípica&quot;&gt;Típica x Atípica&lt;/a&gt;&lt;/li&gt;
@@ -154,7 +380,7 @@ pos: causadas por micro-organismos típicos e causadas por micro-organismos atí
       &lt;li&gt;&lt;a href=&quot;#horizontais&quot; id=&quot;markdown-toc-horizontais&quot;&gt;Horizontais&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ondas&quot; id=&quot;markdown-toc-ondas&quot;&gt;Ondas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ondas-intervalos-e-segmentos&quot; id=&quot;markdown-toc-ondas-intervalos-e-segmentos&quot;&gt;Ondas, intervalos e segmentos&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#ritmo&quot; id=&quot;markdown-toc-ritmo&quot;&gt;Ritmo&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#ritmo-sinusal&quot; id=&quot;markdown-toc-ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#ritmo-ventricular&quot; id=&quot;markdown-toc-ritmo-ventricular&quot;&gt;Ritmo ventricular&lt;/a&gt;&lt;/li&gt;
@@ -252,19 +478,70 @@ O registro do ECG retorna à linha de base. À medida que a onda de despolariza�
   &lt;li&gt;&lt;strong&gt;Ventricular direita:&lt;/strong&gt; aVR, V1;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;ondas&quot;&gt;Ondas&lt;/h2&gt;
+&lt;h2 id=&quot;ondas-intervalos-e-segmentos&quot;&gt;Ondas, intervalos e segmentos&lt;/h2&gt;
 
-&lt;p class=&quot;alert aviso-yellow&quot;&gt;Onda P: despolarização atrial. A primeira metade coresponde ao AD e a segunda ao AE;&lt;/p&gt;
+&lt;p class=&quot;alert aviso-yellow&quot;&gt;Onda P: despolarização atrial. A primeira metade coresponde ao AD e a segunda ao AE; previsivelmente, a derivação III, com frequência, registra uma onda P bifásica (embora não é incomum que ela seja negativa em corações perfeitamente normais). aVR registra uma deflexão puramente negativa. V5 e V6 registram uma deflexão positiva, V1 registra
+uma onda bifásica, V2 a V4 são variáveis. A amplitude da onda P normalmente não excede 0,25
+mV (2,5 mm, ou 2,5  quadrados pequenos) em qualquer derivação. A amplitude da onda P geralmente é mais positiva na derivação II e mais negativa na derivação aVR.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondap2.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondap2.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/ondap3.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/ondap4.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Intervalo PR:&lt;/strong&gt; representa o tempo desde o início da despolarização atrial até o início da despolarização ventricular. Ele inclui o &lt;strong&gt;retardo na condução que ocorre no nó AV&lt;/strong&gt;. O intervalo PR normalmente dura de 0,12 a 0,20 segundos (de &lt;strong&gt;3 a 5 mm&lt;/strong&gt; no papel do ECG).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Segmento PR:&lt;/strong&gt; representa o tempo do final da despolarização atrial até o início da despolarização ventricular. Geralmente é horizontal e corre ao longo da mesma linha de base do início da onda P.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/intervalos.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Complexo QRS&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;p&gt;Represeta a despolarização ventricular&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Onda Q:&lt;/strong&gt; o septo interventricular, a parede de músculo que separa os ventrículos
+direito e esquerdo, é o primeiro a se despolarizar e o faz da esquerda para
+a direita. O pequeno fascículo septal do ramo esquerdo é responsável por
+fornecer rapidamente a onda de despolarização para esta região do coração. Nem sempre é visivel no eletro. Quando é visível, essa pequena despolarização inscreve uma pequena deflexão negativa em uma ou várias derivações laterais esquerdas, portanto, em I, aVL, V5 e V6. Às vezes, pequenas ondas Q também podem ser vistas nas derivações inferiores e em V3 e V4. Normalmente tem uma amplitude menor que 0,1 mV.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondaq.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;O restante do miocárdio ventricular se despolariza:&lt;/strong&gt;  Normalmente, esse vetor aponta para algum lugar entre 0 e 90 graus. No plano frontal, portanto, grandes deflexões positivas (&lt;strong&gt;ondas R&lt;/strong&gt;) podem ser vistas nas derivações laterais esquerdas e inferiores. A derivação aVR, que fica à direita, registra uma deflexão negativa profunda (&lt;strong&gt;onda S&lt;/strong&gt;). V1, que fica sobre o ventrículo
+direito, geralmente registra ondas S profundas, já que a corrente está se movendo para a esquerda, para longe dela. Reciprocamente, as derivações V5 e V6, que ficam sobre o ventrículo esquerdo, registram ondas R positivas altas. V3 e V4 representam uma zona de transição, e geralmente uma dessas derivações registra uma onda bifásica, ou seja, uma onda R e uma onda S de amplitude quase igual.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Progressão de onda R:&lt;/strong&gt; padrão de onda R de amplitude crescente que se move da direita para a esquerda nas derivações precordiais. V1 tem a menor onda R; V5, a maior (a onda R em V6 geralmente é um pouco menor do que em V5).&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Zona de transição:&lt;/strong&gt; a derivação precordial, ou derivações, nas quais o complexo QRS se modifica
+de predominantemente negativo para predominantemente positivo. A zona de transição normal ocorre nas derivações V3 e V4.&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/prog-ondap.png&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/rs.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/progressao-ondap.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Intervalo QRS:&lt;/strong&gt; representa a duração do complexo QRS, tem 0,06 a 0,1 segundo de duração.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Segmento ST:&lt;/strong&gt; em geral é horizontal ou levemente ascendente em todas as derivações. Ele representa o tempo entre o final da despolarização ventricular até o início da repolarização ventricular.&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;strong&gt;Onda T:&lt;/strong&gt; representa a repolarização ventricular. Ao contrário da despolarização, que é amplamente passiva, a repolarização requer o gasto de uma grande quantidade de energia celular
+(lembre-se da bomba da membrana). A onda T é altamente suscetível a todos os tipos de influências, tanto cardíacas quanto não cardíacas (p. ex., hormonais, neurológicas) e, portanto, tem aspecto variável.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;No coração normal, a repolarização geralmente começa na última área a ser despolarizada e depois viaja de volta no sentido oposto. Como tanto a onda de despolarização que se aproxima quanto a onda de repolarização que se afasta geram uma deflexão positiva no ECG, os mesmos eletrodos que registraram uma deflexão positiva durante a despolarização (aparecendo como uma onda R alta) também  geralmente irão registrar uma deflexão positiva durante a repolarização (aparecendo como uma onda T positiva). &lt;strong&gt;Portanto, é típico e normal encontrar ondas T positivas nas mesmas derivações que têm ondas R altas&lt;/strong&gt;. A amplitude, ou altura, de uma onda T normal é de 1 a 2 terços da onda R correspondente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondat.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Intervalo QT:&lt;/strong&gt; engloba o tempo do início da despolarização ventricular até o final da repolarização ventricular. Dessa forma, ele inclui todos os eventos elétricos que ocorrem nos ventrículos. Do ponto de vista temporal, a maior parte do intervalo QT é dedicada à repolarização
+ventricular do que à despolarização (isto é, a onda T é mais larga do que o complexo QRS.
+A duração do intervalo QT é proporcional à FC. Quanto mais rápido o coração bater, mais rápido ele precisa se repolarizar para se preparar para a próxima contração; assim, também será mais
+curto o intervalo QT. Inversamente, quando o coração está batendo devagar, há pouca urgência em se repolarizar e o intervalo QT é longo. De um modo geral, o intervalo QT compreende cerca de 40% do ciclo cardíaco, quando medido de uma onda R até a outra.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Complexo QRS: despolarização ventricular;&lt;/li&gt;
   &lt;li&gt;Onda T: repolarização ventricular;&lt;/li&gt;
   &lt;li&gt;Onda U&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/intervalos.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;ritmo&quot;&gt;Ritmo&lt;/h2&gt;
 &lt;h3 id=&quot;ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/h3&gt;
@@ -589,244 +866,4 @@ Padrão nodular:&lt;/p&gt;
   &lt;li&gt;Posterior&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Retificação do tronco da artéria pulmonar.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hipertensão arterial</title><link href="http://localhost:4000/cardiologia/hipertensao-arterial.html" rel="alternate" type="text/html" title="Hipertensão arterial" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/hipertensao-arterial</id><content type="html" xml:base="http://localhost:4000/cardiologia/hipertensao-arterial.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#secundária&quot; id=&quot;markdown-toc-secundária&quot;&gt;Secundária&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#técnica&quot; id=&quot;markdown-toc-técnica&quot;&gt;Técnica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#fora-do-consultório&quot; id=&quot;markdown-toc-fora-do-consultório&quot;&gt;Fora do consultório&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#valores-diagnósticos&quot; id=&quot;markdown-toc-valores-diagnósticos&quot;&gt;Valores diagnósticos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#não-medicamentoso&quot; id=&quot;markdown-toc-não-medicamentoso&quot;&gt;Não medicamentoso&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#medicamentoso&quot; id=&quot;markdown-toc-medicamentoso&quot;&gt;Medicamentoso&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#objetivo&quot; id=&quot;markdown-toc-objetivo&quot;&gt;Objetivo&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exame-de-rotina-do-paciente-hipertenso&quot; id=&quot;markdown-toc-exame-de-rotina-do-paciente-hipertenso&quot;&gt;Exame de rotina do paciente hipertenso&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Baseado na 7a Diretriz brasileira de HAS e na Diretriz europeia de HAS.&lt;/p&gt;
-
-&lt;p&gt;Hipertensão arterial (HA) é condição clínica multifatorial caracterizada por elevação sustentada dos níveis pressóricos ≥ 140 e/ou 90 mmHg. Frequentemente se associa a distúrbios metabólicos, alterações funcionais e/ou estruturais de órgãos-alvo, sendo agravada pela presença de outros fatores de risco (FR), como dislipidemia, obesidade abdominal, intolerância à glicose e diabetes melito (DM). Mantém associação independente com eventos como morte súbita, acidente vascular encefálico (AVE), infarto agudo do miocárdio (IAM), insuficiência cardíaca (IC), doença arterial
-periférica (DAP) e doença renal crônica (DRC), fatal e não fatal.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hipertensão arterial sistêmica:&lt;/strong&gt; PA maior ou igual, de forma sustentada, a 140 x 90 mmHg.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;A pressão arterial sistólica tende a, fisiologicamente, se elevar com a idade (os vasos ficam mais rígios, não se dilatam, reduzindo a sua área e elevando a pressão nas paredes.), sendo que a pressão diastólica, a partir dos 55 anos, começa a declinar. Em idosos, os níveis são discretamente maiores nas mulheres.&lt;/p&gt;
-
-&lt;p&gt;No Brasil, a prevalência média é de 32,5% da população, subindo para 60% entre os idosos. Somado ao grande número de pacientes, a taxa de controle ainda é muito baixa (em torno de 20-30%).&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Fatores de risco&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Idade&lt;/li&gt;
-    &lt;li&gt;Sexo
-      &lt;ul&gt;
-        &lt;li&gt;Mais prevalente em homens;&lt;/li&gt;
-        &lt;li&gt;Mas quando as mulheres entram na menopausa, superam os homens em prevalência.&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;Etnia: em negros é mais grave e mais precoce;&lt;/li&gt;
-    &lt;li&gt;Obesidade;&lt;/li&gt;
-    &lt;li&gt;Sedentarismo;&lt;/li&gt;
-    &lt;li&gt;Elevada ingestão de sal e álcool, baixo consumo de K e Ca;&lt;/li&gt;
-    &lt;li&gt;Fatores genéticos: não parece ter uma relação clara;&lt;/li&gt;
-    &lt;li&gt;Prematuridade;&lt;/li&gt;
-    &lt;li&gt;Baixo peso ao nascer.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;EUA, 2015: HA estava presente em 69% dos pacientes com primeiro episódio de IAM, 77% de AVE, 75% com IC e 60% com DAP.5 A HA é responsável por 45% das mortes cardíacas e 51% das mortes decorrentes de AVE.&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;p&gt;Primária ou essencial (90-95% dos casos) e secundária (5-10%). A principal causa secundária é a doença parenquimatosa renal.&lt;/p&gt;
-
-&lt;h3 id=&quot;secundária&quot;&gt;Secundária&lt;/h3&gt;
-
-&lt;p&gt;Início precoce (idade &amp;lt; 30 anos) ou tar-
-dio (idade &amp;gt; 50 anos). Alguns autores
-citam como limite antes dos 20 e acima
-dos 55 anos.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;A maioria dos pacientes são completamente assintomáticos. Quando surgem sintomas, são relacionados à lesão de órgãos-alvo pela doença crônica: coração, cérebro, rim (nefroesclerose benigna e maligna), retina (estreitamento arteriolar, cruzamento AV patológico, manchas algodonosas e hemorragias, papiledema) e vasos sanguíneos (aortopatia e doença arterial periférica).&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;A PA deve ser medida no braço, devendo-se utilizar manguito adequado à sua circunferência. Na suspeita de HA secundária à coartação da aorta, a medição deverá ser realizada nos MMII, utilizando-se manguitos apropriados.&lt;/p&gt;
-
-&lt;p class=&quot;alert aviso-green&quot;&gt;
-Menos manguito, mais pressão! A relação é inversa entre o tamanho correta e a medida incorreta da pressão.
-&lt;/p&gt;
-
-&lt;p&gt;Recomenda-se, pelo menos, a medição da PA a cada dois anos para os adultos com PA ≤ 120/80 mmHg ,
-e anualmente para aqueles com PA &amp;gt; 120/80 mmHg e &amp;lt; 140/90 mmHg. A partir dos 3 anos todas crianças devem ter suas medidas de PA aferidas pelo menos anualmente. Nas crianças é necessário avaliar as tabelas de crascimento e percentil por idade e altura.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Hipotensão ortostática&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;p&gt;Deve ser suspeitada em pacientes idosos, diabéticos, disautonômicos e naqueles em uso de medicação anti-hipertensiva. Assim, particularmente nessas condições, deve-se medir a PA com o paciente &lt;strong&gt;de pé, após 3 minutos&lt;/strong&gt;, sendo a hipotensão ortostática definida
-como a &lt;strong&gt;redução da PAS &amp;gt; 20 mmHg ou da PAD &amp;gt; 10 mmHg&lt;/strong&gt;.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;técnica&quot;&gt;Técnica&lt;/h3&gt;
-
-&lt;p&gt;16 etapas para a correta aferição da PA&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Explicar o procedimento ao paciente e deixá-lo em repouso de 3 a 5 minutos em ambiente calmo. Deve ser instruído a não conversar durante a medição;&lt;/li&gt;
-  &lt;li&gt;Certificar-se de que o paciente NÃO:
-    &lt;ul&gt;
-      &lt;li&gt;Está com a bexiga cheia;&lt;/li&gt;
-      &lt;li&gt;Praticou exercícios físicos há pelo menos 60 minutos;&lt;/li&gt;
-      &lt;li&gt;Ingeriu bebidas alcoólicas, café ou alimentos;&lt;/li&gt;
-      &lt;li&gt;Fumou nos 30 minutos anteriores.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Posicionamento:
-    &lt;ul&gt;
-      &lt;li&gt;O paciente deve estar sentado, com pernas descruzadas, pés apoiados no chão, dorso recostado na cadeira e relaxado;&lt;/li&gt;
-      &lt;li&gt;O braço deve estar na altura do coração, apoiado, com a palma da mão voltada para cima e as roupas não devem garrotear o membro.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Medir a PA na posição de pé, após 3 minutos, nos diabéticos, idosos e em outras situações em que a hipotensão ortostática possa ser frequente ou suspeitada.&lt;/li&gt;
-  &lt;li&gt;Determinar a circunferência do braço no ponto médio entre acrômio e olécrano;&lt;/li&gt;
-  &lt;li&gt;Selecionar o manguito de tamanho adequado ao braço;&lt;/li&gt;
-  &lt;li&gt;Colocar o manguito, sem deixar folgas, 2 a 3 cm acima da fossa cubital;&lt;/li&gt;
-  &lt;li&gt;Centralizar o meio da parte compressiva do manguito sobre a artéria braquial;&lt;/li&gt;
-  &lt;li&gt;Estimar o nível da PAS pela palpação do pulso radial*;&lt;/li&gt;
-  &lt;li&gt;Palpar a artéria braquial na fossa cubital e colocar a campânula ou o diafragma do estetoscópio sem compressão excessiva*;&lt;/li&gt;
-  &lt;li&gt;Inflar rapidamente até ultrapassar 20 a 30 mmHg o nível estimado da PAS obtido pela palpação*;&lt;/li&gt;
-  &lt;li&gt;Proceder à deflação lentamente (velocidade de &lt;strong&gt;2 mmHg por segundo&lt;/strong&gt;)*;&lt;/li&gt;
-  &lt;li&gt;Determinar a PAS pela ausculta do &lt;strong&gt;primeiro som&lt;/strong&gt; (fase I de Korotkoff) e, após, aumentar ligeiramente a velocidade de deflação*;&lt;/li&gt;
-  &lt;li&gt;Determinar a PAD no &lt;strong&gt;desaparecimento dos sons&lt;/strong&gt; (fase V de Korotkoff)*;&lt;/li&gt;
-  &lt;li&gt;Auscultar cerca de 20 a 30 mmHg abaixo do último som para confirmar seu desaparecimento e depois proceder à deflação rápida e completa*;&lt;/li&gt;
-  &lt;li&gt;Se os batimentos persistirem até o nível zero, determinar a PAD no abafamento dos sons (fase IV de Korotkoff) e anotar valores da PAS/PAD/zero*;&lt;/li&gt;
-  &lt;li&gt;Realizar pelo menos duas medições, com intervalo em torno de um minuto. Medições adicionais deverão ser realizadas se as duas primeiras forem muito diferentes. Caso julgue adequado, considere a média das medidas;&lt;/li&gt;
-  &lt;li&gt;Medir a pressão em ambos os braços na primeira consulta e usar o valor do braço onde foi obtida a maior pressão como referência;&lt;/li&gt;
-  &lt;li&gt;Informar o valor de PA obtido para o paciente;&lt;/li&gt;
-  &lt;li&gt;Anotar os valores exatos sem “arredondamentos” e o braço em que a PA foi medida.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/correcao-pa.jpeg&quot; alt=&quot;Correção da PA de acordo com a circunferência do braço&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/circunferencia-manguito.jpeg&quot; alt=&quot;Manguito ideal de acordo com a circunferência do braço&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Em braços com circunferência superior a 50 cm, onde não há manguito disponível, pode-se fazer a medição no antebraço, auscultando o pulso radial.&lt;/p&gt;
-
-&lt;p&gt;Em gestantes, a PA deve ser obtida com a mesma metodologia recomendada para adultos, reforçando-se que ela também pode ser medida no braço esquerdo na posição de DLE em repouso, não devendo diferir da obtida na posição sentada. Considerar o quinto ruído de Korotkoff para a PAD. A hipertensão do avental branco (HAB) e a hipertensão mascarada (HM) são comuns na gravizez e, por
-isso, a MAPA e a MRPA podem constituir métodos úteis na decisão clínica.&lt;/p&gt;
-
-&lt;h3 id=&quot;fora-do-consultório&quot;&gt;Fora do consultório&lt;/h3&gt;
-
-&lt;p&gt;A MAPA e a MRPA são os métodos habitualmente utilizados
-para realizar as medições fora do consultório. Ambas fornecem
-informações semelhantes da PA, porém só a MAPA avalia a
-PA durante o sono.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/indicacoes-mapa.jpeg&quot; alt=&quot;indicações do MAPA&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;valores-diagnósticos&quot;&gt;Valores diagnósticos&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/diag-has.jpeg&quot; alt=&quot;Valores diag&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/diag-flux-has.jpeg&quot; alt=&quot;Flux&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Diagnósticos possíveis:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Normotensão: nem em casa e nem no consultório&lt;/li&gt;
-  &lt;li&gt;Hipertensão sustentada: em casa e no consultório&lt;/li&gt;
-  &lt;li&gt;Hipertensão mascarada: só em casa&lt;/li&gt;
-  &lt;li&gt;Hipertensão do avental branco: só no consultório&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Outros:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hipertenso controlado&lt;/li&gt;
-  &lt;li&gt;Hipertenso não controlado&lt;/li&gt;
-  &lt;li&gt;Hipertenso do avental branco não controlado&lt;/li&gt;
-  &lt;li&gt;Hipertenso mascarado não controlado&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;No Canadá o diagnóstico de HAS em diabéticos é feito com um valor de PA menor, pois a doença pode mascarar a hipertensão.&lt;/p&gt;
-
-&lt;p&gt;PA não controlada apesar do uso de três dro-
-gas em dose otimizada, sendo uma delas da
-classe dos diuréticos.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;não-medicamentoso&quot;&gt;Não medicamentoso&lt;/h3&gt;
-
-&lt;p&gt;Extremamente importante, seja associado ou não ao tratamento medicamentoso.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Perda ponderal (principal!),&lt;/li&gt;
-  &lt;li&gt;Dieta DASH (maior ingesta de potássio, magnésio e cálcio);&lt;/li&gt;
-  &lt;li&gt;Redução na ingesta de sal (dieta hipossódica);&lt;/li&gt;
-  &lt;li&gt;Atividade física;&lt;/li&gt;
-  &lt;li&gt;Cessar tabagismo;&lt;/li&gt;
-  &lt;li&gt;Reduzir ingestão alcoólica;&lt;/li&gt;
-  &lt;li&gt;Evitar situações estressantes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;medicamentoso&quot;&gt;Medicamentoso&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Diuréticos&lt;/li&gt;
-  &lt;li&gt;Inibidores da ECA (IECA)&lt;/li&gt;
-  &lt;li&gt;Bloqueadores do receptor ATI da Angio II (BRA II)&lt;/li&gt;
-  &lt;li&gt;Antagonistas dos Canais de Cálcio (ACC)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Drogas de segunda linha: metildopa, clonidina, rilmenidina, moxonidina, hidralazina, minoxidil,
-reserpina.&lt;/p&gt;
-
-&lt;p&gt;VII Diretriz brasileira: depende do estágio da HAS e fatores de risco.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Estágio 1: MEV por até seis meses (se baixo risco) ou monoterapia.&lt;/li&gt;
-  &lt;li&gt;Estágio 2 / Risco Alto e Muito Alto: terapia combinada (IECA + Ant. Ca++ seria a melhor combinação).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;objetivo&quot;&gt;Objetivo&lt;/h3&gt;
-
-&lt;p&gt;PA &amp;lt; 140 x 90 mmHg (ou &amp;lt; 150 x 90 mmHg nos pacientes com mais de 60 anos).&lt;/p&gt;
-
-&lt;h2 id=&quot;exame-de-rotina-do-paciente-hipertenso&quot;&gt;Exame de rotina do paciente hipertenso&lt;/h2&gt;
-
-&lt;p&gt;VER NA DIRETRIZ&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Princípios básicos de hemodinâmica e cardiologia intervencionista</title><link href="http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica.html" rel="alternate" type="text/html" title="Princípios básicos de hemodinâmica e cardiologia intervencionista" /><published>2019-10-10T00:00:00-03:00</published><updated>2019-10-10T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica</id><content type="html" xml:base="http://localhost:4000/cardiologia/principios-basicos-de-hemodinamica.html">&lt;p&gt;O primeiro cateterismo foi feito em 1929 na Alemanha.&lt;/p&gt;
-
-&lt;p&gt;Indicações:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;insuf coronariana&lt;/li&gt;
-  &lt;li&gt;Após IAM&lt;/li&gt;
-  &lt;li&gt;Outras situações&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Saturação normal sangue venoso: 50% a 70%;
-Saturação normal sangue arterial: 95% a 100%.&lt;/p&gt;
-
-&lt;p&gt;Estudar como avaliar CIV, CIA, PCA (persistência do canal arterial) por oximetria dos vasos.&lt;/p&gt;
-
-&lt;p&gt;Pressão coloidosmótica normal (PCO): 26 a 30;
-Pressão hidrostática máxima: 25.&lt;/p&gt;
-
-&lt;p&gt;Fator de proteção fisiológico contra o edema pulmonar: a pressão hidrostática no capilar pulmonar é em média de 7 e a PCO continua sendo de 26 a 30. Ou seja, qualquer soluto que estiver no alvéolo sera puxado pelo capilar.&lt;/p&gt;
-
-&lt;h2 id=&quot;edema-agudo-de-pulmão&quot;&gt;Edema agudo de pulmão&lt;/h2&gt;
-
-&lt;h2 id=&quot;cinecoronarioangiografia&quot;&gt;Cinecoronarioangiografia&lt;/h2&gt;
-
-&lt;p&gt;O que é?&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O primeiro cateterismo foi feito em 1929 na Alemanha.</summary></entry></feed>
+&lt;p&gt;Retificação do tronco da artéria pulmonar.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

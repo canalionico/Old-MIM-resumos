@@ -45,6 +45,10 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/itrs.html',
+      
+        '/cardiologia/ic.html',
+      
         '/pneumologia/pneumonia.html',
       
         '/cardiologia/sca.html',
@@ -374,6 +378,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/ecg5.jpeg'
       
+        '/assets/cardiologia/ic-hemod.png'
+      
+        '/assets/cardiologia/ic.png'
+      
         '/assets/cardiologia/indicacoes-mapa.jpeg'
       
         '/assets/cardiologia/inervação.jpeg'
@@ -384,15 +392,29 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/ondap2.jpeg'
       
+        '/assets/cardiologia/ondap3.jpeg'
+      
+        '/assets/cardiologia/ondap4.jpeg'
+      
+        '/assets/cardiologia/ondaq.jpeg'
+      
+        '/assets/cardiologia/ondat.jpeg'
+      
         '/assets/cardiologia/precordiais-ecg.jpeg'
       
         '/assets/cardiologia/precordiais-ecg2.jpeg'
+      
+        '/assets/cardiologia/prog-ondap.png'
+      
+        '/assets/cardiologia/progressao-ondap.jpeg'
       
         '/assets/cardiologia/quadrados.jpeg'
       
         '/assets/cardiologia/quadrados2.jpeg'
       
         '/assets/cardiologia/revasc.jpeg'
+      
+        '/assets/cardiologia/rs.jpeg'
       
         '/assets/cardiologia/rxtorax.jpeg'
       
