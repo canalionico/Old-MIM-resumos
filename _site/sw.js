@@ -49,6 +49,8 @@ self.addEventListener('install', function (event) {
       
         '/cardiologia/ic.html',
       
+        '/cardiologia/ecg2.html',
+      
         '/pneumologia/pneumonia.html',
       
         '/cardiologia/sca.html',
@@ -366,6 +368,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/diag-has.jpeg'
       
+        '/assets/cardiologia/dilat-hipert.jpeg'
+      
         '/assets/cardiologia/ecg-d.png'
       
         '/assets/cardiologia/ecg1.jpeg'
@@ -377,6 +381,26 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/ecg4.jpeg'
       
         '/assets/cardiologia/ecg5.jpeg'
+      
+        '/assets/cardiologia/eixo.jpeg'
+      
+        '/assets/cardiologia/eixo10.jpeg'
+      
+        '/assets/cardiologia/eixo2.jpeg'
+      
+        '/assets/cardiologia/eixo3.jpeg'
+      
+        '/assets/cardiologia/eixo4.jpeg'
+      
+        '/assets/cardiologia/eixo5.jpeg'
+      
+        '/assets/cardiologia/eixo6.jpeg'
+      
+        '/assets/cardiologia/eixo7.jpeg'
+      
+        '/assets/cardiologia/eixo8.jpeg'
+      
+        '/assets/cardiologia/eixo9.jpeg'
       
         '/assets/cardiologia/ic-hemod.png'
       
