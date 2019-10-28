@@ -346,6 +346,12 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/aorta.jpeg'
       
+        '/assets/cardiologia/aumento-ae.jpeg'
+      
+        '/assets/cardiologia/aumento-atrial.jpeg'
+      
+        '/assets/cardiologia/aumento-atrial2.jpeg'
+      
         '/assets/cardiologia/ciclo-cardiaco.png'
       
         '/assets/cardiologia/ciclo.jpeg'
@@ -401,6 +407,10 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/eixo8.jpeg'
       
         '/assets/cardiologia/eixo9.jpeg'
+      
+        '/assets/cardiologia/hipertrofia-vd.jpeg'
+      
+        '/assets/cardiologia/hipertrofia.jpeg'
       
         '/assets/cardiologia/ic-hemod.png'
       

@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-23T22:20:02-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-27T13:58:04-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#definindo-o-ângulo&quot; id=&quot;markdown-toc-definindo-o-ângulo&quot;&gt;Definindo o ângulo&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#desvios-de-eixo&quot; id=&quot;markdown-toc-desvios-de-eixo&quot;&gt;Desvios de eixo&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#eixo-da-onda-p&quot; id=&quot;markdown-toc-eixo-da-onda-p&quot;&gt;Eixo da onda P&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#eixo-da-onda-t&quot; id=&quot;markdown-toc-eixo-da-onda-t&quot;&gt;Eixo da onda T&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hipertrofia&quot; id=&quot;markdown-toc-hipertrofia&quot;&gt;Hipertrofia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#aumento-atrial&quot; id=&quot;markdown-toc-aumento-atrial&quot;&gt;Aumento atrial&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#aumento-do-ad&quot; id=&quot;markdown-toc-aumento-do-ad&quot;&gt;Aumento do AD&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#aumento-do-ae&quot; id=&quot;markdown-toc-aumento-do-ae&quot;&gt;Aumento do AE&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
@@ -73,7 +79,57 @@ I negativo e em aVF se manterá positivo.&lt;/p&gt;
 
 &lt;h3 id=&quot;eixo-da-onda-t&quot;&gt;Eixo da onda T&lt;/h3&gt;
 
-&lt;p&gt;O eixo da onda T é variável, mas deve se aproximar do eixo de QRS, ficando entre 50° e 60° do eixo do QRS.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;p&gt;DC = FC x Volume sistólico&lt;/p&gt;
+&lt;p&gt;O eixo da onda T é variável, mas deve se aproximar do eixo de QRS, ficando entre 50° e 60° do eixo do QRS.&lt;/p&gt;
+
+&lt;h2 id=&quot;hipertrofia&quot;&gt;Hipertrofia&lt;/h2&gt;
+
+&lt;p&gt;A HAS severa e sustentada força o VE a trabalhar muito forte por muito tempo, até se hipertrofiar. A sua dominância elétrica sobre o VD, portanto, torna-se ainda mais profunda. O vetor
+elétrico médio é empurrado ainda mais para a esquerda e o resultado é sum &lt;strong&gt;desvio do eixo para a esquerda&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A hipertrofia de VD é menos comum e requer uma enorme alteração nas proporções do VD para superar as forças elétricas geradas pelo VE. Ela pode ocorrer, contudo, em casos de DPOC suficientemente grave para produzir &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt; ou de doença cardíaca congênita não corrigida, com profunda sobrecarga de pressão ou de volume do ventrículo direito. Se
+o ventrículo direito se hipertrofia o bastante, isso pode ser detectado no ECG como um &lt;strong&gt;desvio no eixo do QRS para a direita&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-vd.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;aumento-atrial&quot;&gt;Aumento atrial&lt;/h2&gt;
+
+&lt;p&gt;A onda P normal tem uma duração menor do que 0,12 segundo e a maior deflexão, quer seja positiva ou negativa, não deve exceder 2,5 mm. A primeira parte da onda P representa a despolarização atrial direita, e a segunda parte, a despolarização atrial esquerda.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Praticamente todas as informações de que você precisa para avaliar o aumento atrial podem ser encontradas nas derivações II e V1. A derivação II é útil porque é orientada quase paralela ao fluxo de corrente através dos átrios (ou seja, paralela ao vetor médio da onda P). Ela registra, portanto, a maior deflexão positiva e é muito sensível a qualquer perturbação na despolarização atrial. A derivação V1 é útil porque é orientada de forma perpendicular ao fluxo de eletricidade, dessa forma, é bifásica, permitindo a separação fácil dos componentes atrial direito e esquerdo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aumento-atrial.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;alert aviso-red&quot;&gt;Olhar as derivações II e V1 para procurar por aumento atrial!&lt;/p&gt;
+
+&lt;h3 id=&quot;aumento-do-ad&quot;&gt;Aumento do AD&lt;/h3&gt;
+
+&lt;p&gt;A amplitude da primeira porção da onda P aumenta. A largura não se altera porque o componente terminal da onda P tem origem no átrio esquerdo, e isso permanece inalterado. O vetor de despolarização atrial pode girar para a direita e o eixo da onda P pode se mover, no mesmo sentido, aos +90 ou até além. A onda P mais alta pode não mais aparecer na derivação II,
+mas, sim, em aVF ou na derivação III.&lt;/p&gt;
+
+&lt;p class=&quot;alert aviso-red&quot;&gt;O quadro clássico do aumento atrial direito é ilustrado nas deriva-
+ções II e V1 a seguir e foi chamado de **P pulmonale** porque, com frequência, é causado por doença pulmonar grave.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aumento-atrial2.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;alert aviso-red&quot;&gt;O aumento atrial direito é diagnosticado pela presença das ondas P
+com amplitude acima de 2,5 mm nas derivações inferiores, II, III e aVF.
+&lt;/p&gt;
+
+&lt;h3 id=&quot;aumento-do-ae&quot;&gt;Aumento do AE&lt;/h3&gt;
+
+&lt;p&gt;No aumento atrial esquerdo, a segunda porção da onda P pode aumentar em amplitude. O diagnóstico desse aumento requer que a porção terminal da onda P desça pelo menos &lt;strong&gt;1 mm abaixo da linha isoelétrica na derivação V1&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Contudo, uma alteração mais proeminente na onda P é o &lt;strong&gt;aumento na sua duração&lt;/strong&gt;. Isso ocorre porque a despolarização atrial esquerda representa a porção terminal da onda P, e a despolarização prolongada pode ser vista imediatamente (&lt;strong&gt;no aumento atrial direito, a despolarização prolongada é mascarada pela porção atrial esquerda da onda P&lt;/strong&gt;). O
+diagnóstico de aumento atrial esquerdo, portanto, também requer que a porção terminal da onda P deva ter &lt;strong&gt;pelo menos um quadrado pequeno (0,04 segundos) de largura&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aumento-ae.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;p class=&quot;alert aviso-red&quot;&gt;Ou seja: olhar para II e V1. Aumento de AD: maior amplitude (&amp;gt; 2,5 mm) e duração preservada, eixo pode desviar para a direita; Aumento de AE: componente terminal aumentado (&amp;gt; 1 mm), duração aumentada na porção terminal (&amp;gt; 0,04 s), normalmente não mostra desvio de eixo.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;p&gt;DC = FC x Volume sistólico&lt;/p&gt;
 
 &lt;p&gt;VS é proporcional à pré-carga e à contratilidade e inversamente proporcional à pós-carga.&lt;/p&gt;
 
