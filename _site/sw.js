@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cardiologia/ecg3.html',
+      
         '/itrs.html',
       
         '/cardiologia/ic.html',
@@ -408,7 +410,17 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/eixo9.jpeg'
       
+        '/assets/cardiologia/hipertrofia-v.jpeg'
+      
         '/assets/cardiologia/hipertrofia-vd.jpeg'
+      
+        '/assets/cardiologia/hipertrofia-vd2.jpeg'
+      
+        '/assets/cardiologia/hipertrofia-vd3.jpeg'
+      
+        '/assets/cardiologia/hipertrofia-ve.jpeg'
+      
+        '/assets/cardiologia/hipertrofia-ve2.jpeg'
       
         '/assets/cardiologia/hipertrofia.jpeg'
       

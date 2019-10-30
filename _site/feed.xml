@@ -1,17 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-27T13:58:04-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-29T11:15:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">ECG III - Arritmias</title><link href="http://localhost:4000/cardiologia/ecg3.html" rel="alternate" type="text/html" title="ECG III - Arritmias" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg3</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg3.html"></content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#definindo-o-ângulo&quot; id=&quot;markdown-toc-definindo-o-ângulo&quot;&gt;Definindo o ângulo&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#desvios-de-eixo&quot; id=&quot;markdown-toc-desvios-de-eixo&quot;&gt;Desvios de eixo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#eixo-da-onda-p&quot; id=&quot;markdown-toc-eixo-da-onda-p&quot;&gt;Eixo da onda P&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#eixo-da-onda-t&quot; id=&quot;markdown-toc-eixo-da-onda-t&quot;&gt;Eixo da onda T&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hipertrofia&quot; id=&quot;markdown-toc-hipertrofia&quot;&gt;Hipertrofia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#aumento-atrial&quot; id=&quot;markdown-toc-aumento-atrial&quot;&gt;Aumento atrial&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#aumento-do-ad&quot; id=&quot;markdown-toc-aumento-do-ad&quot;&gt;Aumento do AD&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#aumento-do-ae&quot; id=&quot;markdown-toc-aumento-do-ae&quot;&gt;Aumento do AE&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#hipertrofia-ventricular&quot; id=&quot;markdown-toc-hipertrofia-ventricular&quot;&gt;Hipertrofia ventricular&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#hipertrofia-de-vd&quot; id=&quot;markdown-toc-hipertrofia-de-vd&quot;&gt;Hipertrofia de VD&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#derivações-precordiais&quot; id=&quot;markdown-toc-derivações-precordiais&quot;&gt;Derivações precordiais&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hipertrofia-de-ve&quot; id=&quot;markdown-toc-hipertrofia-de-ve&quot;&gt;Hipertrofia de VE&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#derivações-precordiais-1&quot; id=&quot;markdown-toc-derivações-precordiais-1&quot;&gt;Derivações precordiais&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#derivações-periféricas&quot; id=&quot;markdown-toc-derivações-periféricas&quot;&gt;Derivações periféricas&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#hipertrofia-de-ambos-ventrículos&quot; id=&quot;markdown-toc-hipertrofia-de-ambos-ventrículos&quot;&gt;Hipertrofia de ambos ventrículos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular&quot; id=&quot;markdown-toc-anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular&quot;&gt;Anormalidades secundárias da repolarização na hipertrofia ventricular&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;O ECG pode revelar se uma câmara cardíaca particular, atrial ou ventricular, está aumentada ou hipertrofiada. Doenças valvulares, hipertensão sustentada e distúrbios musculares cardíacos hereditários ou adquiridos podem afetar o coração dessa forma, e o ECG pode, portanto, ajudar a reconhecer e avaliar esses distúrbios.&lt;/p&gt;
@@ -73,25 +84,10 @@ I negativo e em aVF se manterá positivo.&lt;/p&gt;
 &lt;img src=&quot;/assets/cardiologia/eixo8.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;
 &lt;img src=&quot;/assets/cardiologia/eixo9.jpeg&quot; alt=&quot;eixo&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;eixo-da-onda-p&quot;&gt;Eixo da onda P&lt;/h3&gt;
-
-&lt;p&gt;O eixo normal da onda P está entre 0° e 70° em adultos e entre 0° e 90° em crianças.&lt;/p&gt;
-
-&lt;h3 id=&quot;eixo-da-onda-t&quot;&gt;Eixo da onda T&lt;/h3&gt;
-
-&lt;p&gt;O eixo da onda T é variável, mas deve se aproximar do eixo de QRS, ficando entre 50° e 60° do eixo do QRS.&lt;/p&gt;
-
-&lt;h2 id=&quot;hipertrofia&quot;&gt;Hipertrofia&lt;/h2&gt;
-
-&lt;p&gt;A HAS severa e sustentada força o VE a trabalhar muito forte por muito tempo, até se hipertrofiar. A sua dominância elétrica sobre o VD, portanto, torna-se ainda mais profunda. O vetor
-elétrico médio é empurrado ainda mais para a esquerda e o resultado é sum &lt;strong&gt;desvio do eixo para a esquerda&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A hipertrofia de VD é menos comum e requer uma enorme alteração nas proporções do VD para superar as forças elétricas geradas pelo VE. Ela pode ocorrer, contudo, em casos de DPOC suficientemente grave para produzir &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt; ou de doença cardíaca congênita não corrigida, com profunda sobrecarga de pressão ou de volume do ventrículo direito. Se
-o ventrículo direito se hipertrofia o bastante, isso pode ser detectado no ECG como um &lt;strong&gt;desvio no eixo do QRS para a direita&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-vd.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Eixo da onda P:&lt;/strong&gt; o eixo normal da onda P está entre 0° e 70° em adultos e entre 0° e 90° em crianças.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Eixo da onda T:&lt;/strong&gt; o eixo da onda T é variável, mas deve se aproximar do eixo de QRS, ficando entre 50° e 60° do eixo do QRS.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;aumento-atrial&quot;&gt;Aumento atrial&lt;/h2&gt;
 
@@ -129,7 +125,87 @@ diagnóstico de aumento atrial esquerdo, portanto, também requer que a porção
 
 &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aumento-ae.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
 
-&lt;p class=&quot;alert aviso-red&quot;&gt;Ou seja: olhar para II e V1. Aumento de AD: maior amplitude (&amp;gt; 2,5 mm) e duração preservada, eixo pode desviar para a direita; Aumento de AE: componente terminal aumentado (&amp;gt; 1 mm), duração aumentada na porção terminal (&amp;gt; 0,04 s), normalmente não mostra desvio de eixo.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;p&gt;DC = FC x Volume sistólico&lt;/p&gt;
+&lt;p class=&quot;alert aviso-red&quot;&gt;Ou seja: olhar para II e V1. Aumento de AD: maior amplitude (&amp;gt; 2,5 mm) e duração preservada, eixo pode desviar para a direita; Aumento de AE: componente terminal aumentado (&amp;gt; 1 mm), duração aumentada na porção terminal (&amp;gt; 0,04 s), normalmente não mostra desvio de eixo.&lt;/p&gt;
+
+&lt;h2 id=&quot;hipertrofia-ventricular&quot;&gt;Hipertrofia ventricular&lt;/h2&gt;
+
+&lt;h3 id=&quot;hipertrofia-de-vd&quot;&gt;Hipertrofia de VD&lt;/h3&gt;
+
+&lt;p&gt;A hipertrofia de VD é menos comum e requer uma enorme alteração nas proporções do VD para superar as forças elétricas geradas pelo VE. Ela pode ocorrer, contudo, em casos de DPOC suficientemente grave para produzir &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt; ou de doença cardíaca congênita não corrigida, com profunda sobrecarga de pressão ou de volume do ventrículo direito. Se
+o ventrículo direito se hipertrofia o bastante, isso pode ser detectado no ECG como um &lt;strong&gt;desvio no eixo do QRS para a direita&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-vd.jpeg&quot; alt=&quot;Eixos&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/hipertrofia-vd2.jpeg&quot; alt=&quot;eixos&quot; /&gt;
+&lt;img src=&quot;/assets/cardiologia/hipertrofia-vd3.jpeg&quot; alt=&quot;eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;derivações-precordiais&quot;&gt;Derivações precordiais&lt;/h4&gt;
+
+&lt;p&gt;O padrão normal da progressão da onda R, no qual a amplitude dessa onda aumenta à medida que você progride de V1 até V5, é rompido. Ao invés da amplitude crescente da onda R, à medida que as derivações se movem para mais perto do ventrículo esquerdo, pode ocorrer o inverso.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pode haver uma grande onda R em V1, que fica sobre o ventrículo direito hipertrofiado, e uma pequena onda R em V5 e V6, que ficam sobre um ventrículo esquerdo normal&lt;/strong&gt;, porém, agora, eletricamente submisso. Domesmo modo, a onda S em V1 é pequena, e a onda S de V6 é grande.
+Esses critérios foram expressos em simples matemática:&lt;/p&gt;
+
+&lt;h3 id=&quot;hipertrofia-de-ve&quot;&gt;Hipertrofia de VE&lt;/h3&gt;
+
+&lt;p&gt;As principais causas são a hipertensão sistêmica e a doença valvular. A HAS severa e sustentada força o VE a trabalhar muito forte por muito tempo, até se hipertrofiar. A sua dominância elétrica sobre o VD, portanto, torna-se ainda mais profunda. O vetor
+elétrico médio é empurrado ainda mais para a esquerda e o resultado é sum &lt;strong&gt;desvio do eixo para a esquerda&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Tanto a hipertrofia ventricular direita quanto a esquerda podem prolongar discretamente o complexo QRS, mas raramente além de 0,1 segundo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;O desvio do eixo para a esquerda além de –15o é visto com frequência, mas essa não é uma característica diagnóstica muito útil.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O aumento da onda R nas derivações que ficam sobre o ventrículo esquerdo forma a base para o diagnóstico eletrocardiográfico de hipertrofia ventricular esquerda.&lt;/strong&gt; Deve haver um aumento
+da amplitude da onda R nas derivações sobrejacentes ao ventrículo esquerdo e um aumento da amplitude da onda S nas derivações sobrejacentes ao ventrículo direito.&lt;/p&gt;
+
+&lt;h4 id=&quot;derivações-precordiais-1&quot;&gt;Derivações precordiais&lt;/h4&gt;
+
+&lt;p&gt;As derivações precordiais são mais sensíveis do que as derivações dos membros para o diagnóstico. Os critérios mais úteis são (quanto mais critérios forem positivos, maior a probabilidade):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;A soma da amplitude da onda R na derivação V5 ou V6 com a amplitude da onda S em V1 ou V2 excede 35 mm&lt;/strong&gt; (este tem o melhor valor preditivo);&lt;/li&gt;
+  &lt;li&gt;A amplitude da onda R em V5 excede 26 mm;&lt;/li&gt;
+  &lt;li&gt;A amplitude da onda R em V6 excede 18 mm;&lt;/li&gt;
+  &lt;li&gt;A amplitude da onda R em V6 excede a amplitude da onda R em V5.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Nota: esses critérios têm pouco valor com relação a indivíduos com menos de 35 anos de idade, os quais, com frequência, têm aumento da voltagem devido, em muitos casos, a uma parede torácica fina. Além disso, tais critérios são particularmente não confiáveis em crianças.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-ve.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;derivações-periféricas&quot;&gt;Derivações periféricas&lt;/h4&gt;
+
+&lt;p&gt;Os critérios mais úteis nas derivações dos membros são os seguintes:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;A amplitude da onda R em aVL excede 13 mm&lt;/strong&gt; (maior valor preditivo, mas não muito sensível);&lt;/li&gt;
+  &lt;li&gt;A amplitude da onda R em aVF excede 21 mm;&lt;/li&gt;
+  &lt;li&gt;A amplitude da onda R na derivação I excede 14 mm;&lt;/li&gt;
+  &lt;li&gt;A soma da amplitude da onda R na derivação I com a amplitude da onda S na derivação III excede 25 mm.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-ve2.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;hipertrofia-de-ambos-ventrículos&quot;&gt;Hipertrofia de ambos ventrículos&lt;/h3&gt;
+
+&lt;p&gt;Pode haver uma combinação de características (p. ex., os critérios de hipertrofia ventricular esquerda nas derivações precordiais com desvio do eixo para a direita nas derivações dos membros), mas, na maioria dos casos, os efeitos do ventrículo esquerdo, geralmente dominante, obscurecem aqueles do
+ventrículo direito.&lt;/p&gt;
+
+&lt;h2 id=&quot;anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular&quot;&gt;Anormalidades secundárias da repolarização na hipertrofia ventricular&lt;/h2&gt;
+
+&lt;p&gt;São mais evidentes nas derivações com ondas R altas (porque essas derivações estão sobre o ventrículo hipertrofiado). As anormalidades da repolarização do VD serão vistas nas derivações V1 e V2, e as do VE (muito mais comuns do que as VD) serão mais evidentes nas derivações I, aVL, V5 e V6. Não se sabe ainda o mecanismo. Incluem o seguinte:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;depressão do segmento ST com inclinação para baixo;&lt;/li&gt;
+  &lt;li&gt;inversão da onda T (ou seja, a onda T altera o seu eixo de modo que ela não mais se alinha com o eixo do QRS).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-v.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;p&gt;DC = FC x Volume sistólico&lt;/p&gt;
 
 &lt;p&gt;VS é proporcional à pré-carga e à contratilidade e inversamente proporcional à pós-carga.&lt;/p&gt;
 
@@ -504,7 +580,97 @@ pos: causadas por micro-organismos típicos e causadas por micro-organismos atí
 
 &lt;p&gt;Por 7 a 10 dias&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Derrame pleural</title><link href="http://localhost:4000/pneumologia/derrame-pleural.html" rel="alternate" type="text/html" title="Derrame pleural" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/derrame-pleural</id><content type="html" xml:base="http://localhost:4000/pneumologia/derrame-pleural.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/derrame.jpeg&quot; alt=&quot;quadro&quot; /&gt;
 &lt;img src=&quot;/assets/pneumo/tto-dpp.jpeg&quot; alt=&quot;quadro&quot; /&gt;
-&lt;img src=&quot;/assets/pneumo/dpp-atb.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">DPOC</title><link href="http://localhost:4000/pneumologia/dpoc.html" rel="alternate" type="text/html" title="DPOC" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/dpoc</id><content type="html" xml:base="http://localhost:4000/pneumologia/dpoc.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/dpoc-risk.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Arteriosclerose</title><link href="http://localhost:4000/cardiologia/arteriosclerose.html" rel="alternate" type="text/html" title="Arteriosclerose" /><published>2019-10-16T00:00:00-03:00</published><updated>2019-10-16T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/arteriosclerose</id><content type="html" xml:base="http://localhost:4000/cardiologia/arteriosclerose.html">&lt;p&gt;Células espumosas e formação do ateroma.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Células espumosas e formação do ateroma.</summary></entry><entry><title type="html">ECG I - Fundamentos</title><link href="http://localhost:4000/cardiologia/ecg.html" rel="alternate" type="text/html" title="ECG I - Fundamentos" /><published>2019-10-15T00:00:00-03:00</published><updated>2019-10-15T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;img src=&quot;/assets/pneumo/dpp-atb.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">DPOC</title><link href="http://localhost:4000/pneumologia/dpoc.html" rel="alternate" type="text/html" title="DPOC" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/dpoc</id><content type="html" xml:base="http://localhost:4000/pneumologia/dpoc.html">&lt;p&gt;GOLD 2019.&lt;/p&gt;
+
+&lt;p&gt;É uma enfermidade respiratória com manifestações sistêmicas que pode ser prevenida e tratada, e se caracterizapor obstrução do fluxo aérero que não é totalmente reversível.&lt;/p&gt;
+
+&lt;p&gt;Definição do GOLD: é uma doença comum, prevenível e tratável, que é caracterizada por sintomas respiratórios persistentes, e limitação ao fluxo aéreo (por anormalidades das vias aéreas e/ou alveolar), geralmente causada por exposição sifnificativa por exposição a particulas ou gases nocivos.&lt;/p&gt;
+
+&lt;p&gt;É uma doença progressiva!&lt;/p&gt;
+
+&lt;h2 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tabagismo (principal fator de risco)&lt;/li&gt;
+  &lt;li&gt;Combustíveis e biomassa&lt;/li&gt;
+  &lt;li&gt;Fatores intrínsecos
+*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Disfunção mucociliar&lt;/li&gt;
+  &lt;li&gt;Modificações estruturais&lt;/li&gt;
+  &lt;li&gt;Limitação do fluxo de ar&lt;/li&gt;
+  &lt;li&gt;Componente sistêmico&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Tosse e/secreção&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dispenéia&lt;/strong&gt; (aos esforços e progressiva)&lt;/li&gt;
+  &lt;li&gt;Sinais de hiperinsuflação&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Caracteriza-se por períodos de piora dos sintomas chamados de exarcebação.&lt;/p&gt;
+
+&lt;h3 id=&quot;fenótipos-de-friedlander&quot;&gt;Fenótipos de Friedlander&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Exarcebador frequente&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Caquexia pulmonar&lt;/li&gt;
+  &lt;li&gt;Respondedores a corticoide inalado&lt;/li&gt;
+  &lt;li&gt;Declinadores rápidos de VEF1&lt;/li&gt;
+  &lt;li&gt;Enfisema pulmonar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/pneumo/dpoc-risk.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;espirometria&quot;&gt;Espirometria&lt;/h2&gt;
+
+&lt;p&gt;É capaz de medir todo o ar mobilizável dos pulmões. Ou seja, a espirometria não é capaz de medir a capacidade pulmonar total, ela mede até a capacidade pulmonar vital.&lt;/p&gt;
+
+&lt;p&gt;Curva fluxo volume.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Olhar a forma da curva fluxo volume&lt;/li&gt;
+  &lt;li&gt;Avaliar VEF1/CVF
+    &lt;ul&gt;
+      &lt;li&gt;Se normal: exame normal ou restrição&lt;/li&gt;
+      &lt;li&gt;Se diminuído: obstrução&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Grau de disfunção (gravidade):
+    &lt;ul&gt;
+      &lt;li&gt;restritiva: CV(F)%&lt;/li&gt;
+      &lt;li&gt;obstrutiva: VEF1%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Resposta ao broncodilatador (VEF1. CVF, CVLenta, CI)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;VEF1/CVF &amp;lt; 0,7: obstrução&lt;/p&gt;
+
+&lt;p&gt;Classificação:&lt;/p&gt;
+
+&lt;h3 id=&quot;obstrutivo&quot;&gt;Obstrutivo&lt;/h3&gt;
+
+&lt;h3 id=&quot;restritivo&quot;&gt;Restritivo&lt;/h3&gt;
+
+&lt;h3 id=&quot;misto&quot;&gt;Misto&lt;/h3&gt;
+
+&lt;h3 id=&quot;inespecífico&quot;&gt;Inespecífico&lt;/h3&gt;
+
+&lt;h2 id=&quot;manejo&quot;&gt;Manejo&lt;/h2&gt;
+
+&lt;h3 id=&quot;hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Parar de fumar
+*&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">GOLD 2019.</summary></entry><entry><title type="html">Arteriosclerose</title><link href="http://localhost:4000/cardiologia/arteriosclerose.html" rel="alternate" type="text/html" title="Arteriosclerose" /><published>2019-10-16T00:00:00-03:00</published><updated>2019-10-16T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/arteriosclerose</id><content type="html" xml:base="http://localhost:4000/cardiologia/arteriosclerose.html">&lt;p&gt;Células espumosas e formação do ateroma.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Células espumosas e formação do ateroma.</summary></entry><entry><title type="html">ECG I - Fundamentos</title><link href="http://localhost:4000/cardiologia/ecg.html" rel="alternate" type="text/html" title="ECG I - Fundamentos" /><published>2019-10-15T00:00:00-03:00</published><updated>2019-10-15T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#derivações&quot; id=&quot;markdown-toc-derivações&quot;&gt;Derivações&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#verticais&quot; id=&quot;markdown-toc-verticais&quot;&gt;Verticais&lt;/a&gt;&lt;/li&gt;
@@ -760,145 +926,4 @@ Desvio pra direita: sobrecarga de VD ou BRD;&lt;/p&gt;
 
 &lt;p&gt;Sempre olhar as derivações D1 (a mais horizontal, lembrando que a captação do eletrodo está no braço esquerdo) e aVF (a mais vertical). Se o QRS for predominantemente positivo nessas duas derivações, então o eixo está no quadrante inferior esquerdo.&lt;/p&gt;
 
-&lt;p&gt;Obs: se D1 tiver componente positivo igual o negativo do QRS, significa que o eixo está exatamente no eixo vertical. O mesmo vale para o aVF, se o componente positivo do QRS for igual o negativo, então o eixo está exatamente na horizontal.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Semiologia cardiovascular</title><link href="http://localhost:4000/cardiologia/semiologia-cardiovascular.html" rel="alternate" type="text/html" title="Semiologia cardiovascular" /><published>2019-10-14T00:00:00-03:00</published><updated>2019-10-14T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/semiologia-cardiovascular</id><content type="html" xml:base="http://localhost:4000/cardiologia/semiologia-cardiovascular.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#anamnese&quot; id=&quot;markdown-toc-anamnese&quot;&gt;Anamnese&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#identificação&quot; id=&quot;markdown-toc-identificação&quot;&gt;Identificação&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#antecedentes-pessoais&quot; id=&quot;markdown-toc-antecedentes-pessoais&quot;&gt;Antecedentes pessoais&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#antecedentes-familiares&quot; id=&quot;markdown-toc-antecedentes-familiares&quot;&gt;Antecedentes familiares&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hábitos-de-vida&quot; id=&quot;markdown-toc-hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#sinais-e-sintomas&quot; id=&quot;markdown-toc-sinais-e-sintomas&quot;&gt;Sinais e sintomas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#ausculta&quot; id=&quot;markdown-toc-ausculta&quot;&gt;Ausculta&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#ausculta-pulmonar&quot; id=&quot;markdown-toc-ausculta-pulmonar&quot;&gt;Ausculta pulmonar&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;anamnese&quot;&gt;Anamnese&lt;/h2&gt;
-
-&lt;h3 id=&quot;identificação&quot;&gt;Identificação&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Nome&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Idade&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Nas crianças e jovens, predominam as anomalias congênitas e os episódios iniciais da moléstia reumática;&lt;/li&gt;
-      &lt;li&gt;A doença de Chagas e a hipertensão arterial são mais frequentes dos 20 aos 50 anos de idade;&lt;/li&gt;
-      &lt;li&gt;A doença arterial coronariana (angina de peito e IAM) é mais comum acima da quinta década de vida, apesar de aparecer cada vez mais precocemente.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sexo&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;As lesões mitrais, especialmente a estenose e o prolapso da valva mitral, ocorrem mais em mulheres jovens;&lt;/li&gt;
-      &lt;li&gt;A aterosclerose coronária predomina no sexo masculino até os 45 anos de idade; a partir desta idade, a incidência vai se tornando igual em ambos os sexos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cor da pele&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Anemia falciforme na raça negra;&lt;/li&gt;
-      &lt;li&gt;A hipertensão arterial, além de ser mais frequente nos negros, aparece em faixas etárias mais baixas e apresenta evolução mais grave nestes indivíduos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Profissão&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Estado civil&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Naturalidade e procedência:&lt;/strong&gt; pesquisar epimiologia para doença de Chagas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;antecedentes-pessoais&quot;&gt;Antecedentes pessoais&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Destacam-se a relação entre as &lt;strong&gt;infecções estreptocócicas&lt;/strong&gt;, principalmente da bucofaringe, e as lesões orovalvares de etiologia reumática.&lt;/li&gt;
-  &lt;li&gt;Estão bem comprovadas as relações entre &lt;strong&gt;alimentação rica em lipídios&lt;/strong&gt; e aterosclerose, entre lesões renais e hipertensão arterial e entre perturbações emocionais e manifestações cardiovasculares de ansiedade e/ou depressão.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;antecedentes-familiares&quot;&gt;Antecedentes familiares&lt;/h3&gt;
-
-&lt;p&gt;Sendo indiscutível sua importância na hipertensão arterial essencial e na cardiopatia isquemica.&lt;/p&gt;
-
-&lt;h3 id=&quot;hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/h3&gt;
-
-&lt;p&gt;Destacam-se o tabagismo, o alcoolismo e o sedentarismo, relacionados com o aparecimento de
-aterosclerose e hipertensão arterial.&lt;/p&gt;
-
-&lt;h2 id=&quot;sinais-e-sintomas&quot;&gt;Sinais e sintomas&lt;/h2&gt;
-
-&lt;p&gt;Serão analisados: dor cardíaca, palpitações, dispneia, tosse e expectoração, chieira, hemoptise, desmaio (lipotimia e síncope), alterações do sono, cianose, edema, astenia e posição de cócoras.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dor precordial&lt;/strong&gt; não é sinônimo de dor cardíaca, pois pode ter origem no coração e em outros órgãos ou estruturas como pleura, esôfago, aorta, mediastino, estômago e na própria parede torácica. A dor relacionada com o coração e com a aorta compreende a de origem &lt;strong&gt;isquêmica&lt;/strong&gt;, a &lt;strong&gt;pericárdica&lt;/strong&gt; e a &lt;strong&gt;aórtica&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Perguntas sobre a dor:
-&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Localização;&lt;/li&gt;
-    &lt;li&gt;Irradiação;&lt;/li&gt;
-    &lt;li&gt;Caráter ou qualidade;&lt;/li&gt;
-    &lt;li&gt;Intensidade;&lt;/li&gt;
-    &lt;li&gt;Duração;&lt;/li&gt;
-    &lt;li&gt;Frequência;&lt;strong&gt;Dispnéia:&lt;/strong&gt;&lt;/li&gt;
-    &lt;li&gt;Fatores desencadeantes ou agravantes;&lt;/li&gt;
-    &lt;li&gt;Fatores atenuantes;&lt;/li&gt;
-    &lt;li&gt;Sintomas concomitantes (os quais podem preceder, acompanhar ou suceder a dor).&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;A dor pode ocorrer devido à isquemia cardíaca. A causa mais comum de isquemia miocárdica é a aterosclerose coronária, assumindo características especiais na angina de peito e no infarto agudo do miocárdio. A dor perimamilar ou por debaixo do mamilo quase nunca é de causa cardíaca.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Síndrome de Tietze:&lt;/strong&gt; dor nas articulações condroesternais que piora à palpação caracteriza a osteocondrite.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A dor por obstrução de uma artéria coronária pode ter diversas irradiações: para os pavilhões auriculares, maxilar inferior, nuca, região cervical, membros superiores, ombros, região epigástrica e região interescapulovertebral.&lt;/p&gt;
-
-&lt;p&gt;A dor anginosa é quase sempre do tipo constritiva, tendo o paciente a sensação de que algo aperta o tórax ou a região retroesternal. Para caracterizá-la, o pacien-
-te leva a mão fechada ao peito. Costuma ser descrita como “aperto”, “opressão”, “peso”, “queimação” e “sufocação”. Pode ter também a sensação de nó na garganta, como se se estivesse sendo estrangulado. Tal sensação pode ser percebida nas áreas de irradiação da dor como, por exemplo, impressão de aperto ou de um bracelete no braço.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Dispnéia:&lt;/strong&gt; um dos sintomas mais importantes dos portadores de cardiopatia e significa a sensação consciente e desagradável do ato de respirar. Alguns tipos de dispnéia são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dispneia de esforço:&lt;/strong&gt; aparece com a realização de esforçofísico;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dispneia de decúbito (ortopneia):&lt;/strong&gt; aparece quando o paciente deita, sendo devido à maior congestão pulmonar provocada pelo maior retorno venoso dos MMII e sistema esplâncnico;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dispneia paroxística noturna:&lt;/strong&gt; 0 paciente acorda com intensa dispneia, com sufocação, tosse seca e opressão torácica, sendo obrigado a sentar-se na beira do leito ou levantar-se da cama;
-    &lt;ul&gt;
-      &lt;li&gt;Nas crises mais graves pode ter: tosse com expectoração espumosa (branca ou rosada), cianose, respiração ruidosa pela ocorrência de sibilos e estertores. Este conjunto de sintomas e sinais caracteriza o edema agudo do pulmão.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dispneia periódica ou de Cheyne-Stokes:&lt;/strong&gt; períodos de apneia, seguidos de movimentos respiratórios, superficiais a princípio, mas que se tornam cada vez mais profundos, até chegar a um máximo; depois, diminuem paulatinamente de amplitude até uma nova fase de apneia, após o que se repetem os mesmos fenômenos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O mecanismo de respiração periódica é o seguinte: durante a fase de apneia, ocorre uma gradativa diminuição da tensão de O2 junto com aumento da tensão de CO2. A tensão de CO2 passa a aumentar progressivamente até estimular o centro respiratório. A estimulação súbita e enérgica deste centro, decorrente da hipoxemia e do aumento do C02, produz a hiperpneia, que, por sua vez, determina queda no nível de CO2 e aumento da oxigenação arterial, chegando a um nível em que são insuficientes para estimular o centro respiratório, o qual deixa de emitir estímulos que provoquem movimentos respiratórios. Isso dura certo período de tempo até que se alterem novamente os níveis de O2 no sangue.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Classificação dos cardiopatas de acordo com acapacidade funcional do coração (NYHA):&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Classe I: pacientes com doença cardíaca, porém sem limitação de atividade física. A atividade física ordinária não provoca dispneia, fadiga exagerada, palpitação e nem angina de peito;&lt;/li&gt;
-    &lt;li&gt;Classe II: com doença cardíaca e que apresentam alguma limitação às atividades físicas. Estes pacientes sentem-se bem em repouso, mas a atividade física comum provoca dispneia, fadiga, palpitação ou angina de peito;&lt;/li&gt;
-    &lt;li&gt;Classe III: com doença cardíaca e que apresentam acentuada limitação nas atividades físicas. Eles se sentem bem em repouso, porém pequenos esforços provocam dispneia, fadiga, palpitação ou angina de peito;&lt;/li&gt;
-    &lt;li&gt;Classe IV: com doença cardíaca e que são incapazes de exercer qualquer atividade física. Os sintomas de dispneia, fadiga, palpitação ou angina de peito existem mesmo em repouso e se acentuam com qualquer atividade;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
-
-&lt;h3 id=&quot;ausculta&quot;&gt;Ausculta&lt;/h3&gt;
-
-&lt;h4 id=&quot;ausculta-pulmonar&quot;&gt;Ausculta pulmonar&lt;/h4&gt;
-
-&lt;p&gt;A expiração prolongada e os sibilos da insuficiência ventricular esquerda são produzidos por &lt;strong&gt;edema da mucosa brônquica&lt;/strong&gt;, que é a causa do &lt;strong&gt;estreitamento das vias respiratórias&lt;/strong&gt;.
-Outro mecanismo provável é a broncoconstrição reflexa.&lt;/p&gt;
-
-&lt;p&gt;Para o diagnóstico diferencial entre asma brônquica e
-asma cardíaca, destacam-se os seguintes elementos: a asma
-cardíaca costuma surgir na posição deitada e melhora quando
-o paciente senta-se ou fica de pé, sendo acompanhada por
-taquicardia, ritmo de galope e estertores finos nas bases pulmonares; na asma brônquica, a dispneia não é aliviada pela mudança de posição, os sibilos são disseminados e predominam sobre os estertores.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Caso persistam dúvidas, a radiografia simples do tórax é um recurso de grande valor, pois torna possível evidenciar a congestão pulmonar, que é o substrato anatomopatológico principal da asma cardíaca, enquanto, na asma brônquica, encontra-se hiperinsuflação pulmonar.&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;Obs: se D1 tiver componente positivo igual o negativo do QRS, significa que o eixo está exatamente no eixo vertical. O mesmo vale para o aVF, se o componente positivo do QRS for igual o negativo, então o eixo está exatamente na horizontal.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
