@@ -45,6 +45,10 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cirurgia/tumores-de-mediastino.html',
+      
+        '/cia.html',
+      
         '/cardiologia/ecg3.html',
       
         '/itrs.html',
@@ -344,9 +348,13 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/Diagram_of_the_human_heart.svg'
       
+        '/assets/cardiologia/New-York-Heart-Association-NYHA-Heart-Failure-Symptom-Classification-System.png'
+      
         '/assets/cardiologia/Wiggers.svg.png'
       
         '/assets/cardiologia/aorta.jpeg'
+      
+        '/assets/cardiologia/arritmia-sinusal.jpeg'
       
         '/assets/cardiologia/aumento-ae.jpeg'
       
@@ -354,7 +362,11 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/aumento-atrial2.jpeg'
       
+        '/assets/cardiologia/batimento-de-escape.jpeg'
+      
         '/assets/cardiologia/ciclo-cardiaco.png'
+      
+        '/assets/cardiologia/ciclo-wiggers.jpg'
       
         '/assets/cardiologia/ciclo.jpeg'
       
@@ -432,7 +444,11 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/inervação.jpeg'
       
+        '/assets/cardiologia/insp.jpeg'
+      
         '/assets/cardiologia/intervalos.jpeg'
+      
+        '/assets/cardiologia/marca-passos-não-sinusais.jpeg'
       
         '/assets/cardiologia/ondap.jpeg'
       

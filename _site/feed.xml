@@ -1,4 +1,245 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-29T11:15:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">ECG III - Arritmias</title><link href="http://localhost:4000/cardiologia/ecg3.html" rel="alternate" type="text/html" title="ECG III - Arritmias" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg3</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg3.html"></content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://resumos.canalionico.com.br/feed.xml" rel="self" type="application/atom+xml" /><link href="https://resumos.canalionico.com.br/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-31T11:02:11-03:00</updated><id>https://resumos.canalionico.com.br/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Tumores de mediastino</title><link href="https://resumos.canalionico.com.br/cirurgia/tumores-de-mediastino.html" rel="alternate" type="text/html" title="Tumores de mediastino" /><published>2019-10-31T00:00:00-03:00</published><updated>2019-10-31T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/cirurgia/tumores-de-mediastino</id><content type="html" xml:base="https://resumos.canalionico.com.br/cirurgia/tumores-de-mediastino.html">&lt;p&gt;Na maioria dos casos é no mediastino antero-superior.&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologias&quot;&gt;Etiologias&lt;/h2&gt;
+
+&lt;h3 id=&quot;mediastino-antero-superior&quot;&gt;Mediastino antero-superior&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Timoma:&lt;/strong&gt; o mais comum (50%) e mesmo assim é incomum. A incidência aumento a partir dos 40 anos, não tem predileção por sexo e dificilmente causa sintomas.
+    &lt;ul&gt;
+      &lt;li&gt;Existe uma relação entre &lt;em&gt;miastenia gravis&lt;/em&gt; e o timoma (30-65%);&lt;/li&gt;
+      &lt;li&gt;10% dos pacientes com miastenia gravis vão ter timoma;&lt;/li&gt;
+      &lt;li&gt;Crescimento lento mas muito invasivo&lt;/li&gt;
+      &lt;li&gt;Tumor maligno&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Terrível linfoma:&lt;/strong&gt; é um grupo muito heterogêneo e de muitas apresentações clínicas e de diferentes prognósticos.
+    &lt;ul&gt;
+      &lt;li&gt;50% são de Hodgkin (o subtipo esclerose nodular é o mais comum)&lt;/li&gt;
+      &lt;li&gt;20% são não-Hodgkin&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Teratoma:&lt;/strong&gt; a ressecção é curativa! Um tumor benigno encapsulado.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Seminoma:&lt;/strong&gt; é um tumor homogêneo, geralmente com b-HCG e a-FP negativos ou moderadamente elevados. É um tumor altamente quimio e radio-sensível. Ou seja, o tratamento inicial não é cirúrgico! A cirurgia fica reservada aos casos de doença residual pós neoadjuvância.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Não-seminomatosos:&lt;/strong&gt; b-HCG e a-FP bem elevados. Parecem com os seminomas mas são mais heterogêneos e não respondem bem à quimio e radio. O tratamento é a ressecção sequida por quimio e radio.&lt;/p&gt;
+
+&lt;h3 id=&quot;mediastino-médio&quot;&gt;Mediastino médio&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cistos mediastinais: crianças são mais sintomáticas que os adultos. O tratamento é sempre cirúrgico.
+    &lt;ul&gt;
+      &lt;li&gt;Cistos broncogênicos&lt;/li&gt;
+      &lt;li&gt;Cistosentéricos&lt;/li&gt;
+      &lt;li&gt;Cistos pericárdicos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Linfangioma: associação com quilotórax&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;mediastino-posterior&quot;&gt;Mediastino posterior&lt;/h3&gt;
+
+&lt;p&gt;Maioria são assintomáticos&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tumores neurogênicos: em adultos a grande maioria são benignos, mas nas crianças tendem a ser mais malignos.
+    &lt;ul&gt;
+      &lt;li&gt;Tumores de baínha nervosa: neurilemoma (Schwannomas), neurofibromas&lt;/li&gt;
+      &lt;li&gt;Tumores do gânglio autonômico: ganglioneuroma (o tumor mediastinal benigno mais comum em crianças), ganglioneuroblastoma (comportamento intermediário entre o ganglioneuroma e o neuroblastoma, acomete mais crianças abaixo de 3 anos, a maioria é um achado acidental)&lt;/li&gt;
+      &lt;li&gt;Feocromocitoma&lt;/li&gt;
+      &lt;li&gt;Tumor de Askin&lt;/li&gt;
+      &lt;li&gt;Tumores originários dos nervos&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Goteira costovertebral&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Geralmente são assintomáticos mas, quando se manifestam, são relacionados à localização:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Via aérea: dispnéia, tosse&lt;/li&gt;
+  &lt;li&gt;Parece torácica: dor torácica&lt;/li&gt;
+  &lt;li&gt;Esôfago: disfagia, regurgitação&lt;/li&gt;
+  &lt;li&gt;Veia cava: sindrome da veia cava superior&lt;/li&gt;
+  &lt;li&gt;Nervo frênico: paralisia diafragmática&lt;/li&gt;
+  &lt;li&gt;Nervo laríngeo recorrente: disfonia&lt;/li&gt;
+  &lt;li&gt;Gânglio estrelado: sindrome de Claude-Bernard-Horner.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;A tomografia com constraste é o exame padrão ouro.&lt;/p&gt;
+
+&lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;AFP e Beta-HCG: marcadores de tumores de células germinativas&lt;/li&gt;
+  &lt;li&gt;PTH: na investigação por tumores da paratireóide (podendo ser ectópico).&lt;/li&gt;
+  &lt;li&gt;Catecolaminas plasmáticase urinárias: feocromocitoma&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;biópsia&quot;&gt;Biópsia&lt;/h3&gt;
+
+&lt;p&gt;É o exame que vai confirmar o diagnóstico. Pode ser feita por broncoscopia, EBUS (um USG no broncoscópio), EUS, punção percutânea transtorácica, mediastinoscopia, videotoracoscopia (o melhor). Nos dias de hoje, uma toracotomia para biópsia é inaceitável.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Normalmente a conduta é a ressecção. Os linfomas e os tumores seminomatosos são exceções à escolha inicial de ressecção.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Na maioria dos casos é no mediastino antero-superior.</summary></entry><entry><title type="html">Cia</title><link href="https://resumos.canalionico.com.br/cia.html" rel="alternate" type="text/html" title="Cia" /><published>2019-10-30T00:00:00-03:00</published><updated>2019-10-30T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/cia</id><content type="html" xml:base="https://resumos.canalionico.com.br/cia.html">&lt;p&gt;Sopro sistólico em foco pulmonar com desdobramento fixo de B2&lt;/p&gt;
+
+&lt;p&gt;Ocorre por causa do shunt do sangue do átrio esquerdo (maior pressão) pro átrio direito (menor pressão). O maior débio sanguíneo do VD vai causar o desdobramento fixo de B2 e uma hipertrofia do VD.&lt;/p&gt;
+
+&lt;p&gt;Com o tempo, a hipertrofia do VD vai aumentar a força dessa câmera, mas com o tempo ele começa a dilatar pois chega na sua limitação de hipertrofia (o VD é mais fino). Isso vai aumentar muito a pressão no AD o que pode provocar uma inversão do fluxo da CIA que passa a ser do AD para o AE. Uma &lt;strong&gt;inversão do shunt&lt;/strong&gt; interatrial.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;eco-te&quot;&gt;ECO TE&lt;/h3&gt;
+
+&lt;p&gt;O eco trans-torácico é melhor para ver a CIA pois o transdutor está separado dos átrios apenas pela parede esofágica e pelas paredes dos átrios. É possível ver o canal da comunicação e dar o diagnóstico.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h3 id=&quot;clínico&quot;&gt;Clínico&lt;/h3&gt;
+
+&lt;p&gt;Indicado quando a cirúrgia não pode ser feita. Por exemplo, quando a pressão arterial pulmonar está muito alta. Se a cirurgia for feita nessa situação, o coração não terá força para vencer a pressão arterial pulmonar e terá congestão sistêmica constante.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG III - Arritmias</title><link href="https://resumos.canalionico.com.br/cardiologia/ecg3.html" rel="alternate" type="text/html" title="ECG III - Arritmias" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/cardiologia/ecg3</id><content type="html" xml:base="https://resumos.canalionico.com.br/cardiologia/ecg3.html">&lt;p&gt;O coração em repouso bate com um ritmo regular, de &lt;strong&gt;60 a 100 vezes&lt;/strong&gt;
+por minuto. Como cada batimento se origina da despolarização do nó
+sinoatrial (SA), o ritmo cardíaco habitual do dia a dia é chamado ritmo
+sinusal normal. Qualquer outra ocorrência é chamada de &lt;strong&gt;arritmia&lt;/strong&gt; (ou,
+mais acuradamente, &lt;strong&gt;disritmia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;O termo arritmia se refere a qualquer distúrbio na &lt;strong&gt;frequência&lt;/strong&gt;, na &lt;strong&gt;regularidade&lt;/strong&gt;, no &lt;strong&gt;local&lt;/strong&gt; de origem ou na &lt;strong&gt;condução&lt;/strong&gt; do impulso elétrico cardíaco. Pode ser um único batimento aberrante (ou mesmo uma pausa prolongada entre batimentos) ou um distúrbio de ritmo sustentado que pode persistir por toda a
+vida do paciente.&lt;/p&gt;
+
+&lt;p&gt;Nem toda arritmia é anormal ou perigosa. Por exemplo, frequências cardíacas de 35 a 40 batimentos por minuto são comuns e bastante normais em atletas bem treinados. &lt;strong&gt;Batimentos anormais isolados, que se originam em qualquer outra parte do coração que não o nó SA, frequentemente ocorrem na maioria dos indivíduos saudáveis.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Muitas arritmias passam despercebidas pelo paciente e são descobertas acidentalmente em um exame físico ou ECG de rotina.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palpitações (acelerações e/ou desacelerações)&lt;/li&gt;
+  &lt;li&gt;Sintomas de baixo débito cardíaco (quando a arritmia compromete a função cardíaca);
+    &lt;ul&gt;
+      &lt;li&gt;Tontura&lt;/li&gt;
+      &lt;li&gt;Síncope&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Angina (arritmias rápidas podem aumentar as demandas de oxigênio do miocárdio e causar angina (dor torácica);&lt;/li&gt;
+  &lt;li&gt;Morte súbita&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O ECG tem se tornado cada vez mais útil para identificar condições que predispõem a arritmias malignas e morte súbita e permite, assim, o início de intervenções salvadoras antes do evento catastrófico. Essas condições podem ser herdadas ou adquiridas. Mais comuns entre elas são as anormalidades de repolarização que prolongam o intervalo QT, um substrato perigoso para arritmias potencialmente fatais (mais detalhes adiante).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;p&gt;O mnemônico &lt;strong&gt;HIS DEBE&lt;/strong&gt; deve lhe ajudar a lembrar dos fatores arritmogênicos que devem ser considerados sempre que se encontra um paciente com arritmia.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;H – Hipoxia:&lt;/strong&gt; um miocárdio privado de oxigênio é um miocárdio irritável. Distúrbios pulmonares, seja doença pulmonar crônica grave ou uma embolia pulmonar aguda, são fatores precipitantes importantes de arritmias cardíacas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;I – Isquemia e irritabilidade:&lt;/strong&gt; a angina, mesmo sem a morte de células miocárdicas associada ao infarto, também é um fator precipitante importante. Ocasionalmente, miocardite, uma inflamação do músculo cardíaco geralmente causada por uma infecção viral, pode causar arritmias.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;S – Estimulação simpática:&lt;/strong&gt; o aumento do tônus simpático, por qualquer causa (hipertireoidismo, insuficiência cardíaca congestiva, nervosismo, exercício, etc.), pode produzir arritmias.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;D – Fármacos:&lt;/strong&gt; ironicamente, os próprios fármacos antiarrítmicos, como a quinidina, estão entre os principais culpados.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;E – Eletrólitos (distúrbios dos):&lt;/strong&gt; a hipocalemia e desequilíbrios do Ca e Mg podem induzir arritmias.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;B – Bradicardia:&lt;/strong&gt; uma FC muito lenta parece predispor a arritmias. Também é possível incluir a síndrome bradi-taqui (também chamada de síndrome do nó SA) nessa categoria.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;E – Estiramento:&lt;/strong&gt; a dilatação e a hipertrofia dos átrios e ventrículos podem produzir arritmias. Esse é um modo pelo qual a ICC e a doença valvular podem causar arritmias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;registro-de-rítmo&quot;&gt;Registro de rítmo&lt;/h2&gt;
+
+&lt;p&gt;Um longo traçado de uma única derivação ou de múltiplas derivações. Qualquer derivação
+pode ser escolhida, mas, obviamente, faz sentido escolher a derivação
+que lhe fornece a maior quantidade de informações. O registro de ritmo
+torna muito mais fácil identificar qualquer irregularidade ou surtos intermitentes de atividade elétrica incomum.&lt;/p&gt;
+
+&lt;h3 id=&quot;holter&quot;&gt;Holter&lt;/h3&gt;
+
+&lt;p&gt;O paciente a usa por 24 a 48 horas e, durante esse período, é armazenado um registro completo
+do ritmo cardíaco do paciente. Este registro, posteriormente, é analisado para a presença de qualquer atividade arrítmica. O monitor pode usar uma ou, mais frequentemente, duas derivações (uma derivação
+precordial e uma dos membros). Claramente, quanto mais tempo durar a monitoração do paciente, maior a chance de detecção da arritmia. O diário do paciente pode, então, ser comparado com o registro do
+Holter para determinar se há uma correlação entre os sintomas do paciente e qualquer arritmia cardíaca subjacente.&lt;/p&gt;
+
+&lt;h2 id=&quot;frequência-cardíaca&quot;&gt;Frequência cardíaca&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Um quadrado pequeno (1 mm) = 0,04 s;&lt;/li&gt;
+  &lt;li&gt;Um quadrado grande (5 mm) = 0,2 s;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cinco quadrados grandes, portanto, constituem 1 segundo.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;método-bizu&quot;&gt;Método bizu&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Encontre uma onda R que caia sobre, ou quase sobre, uma das linhas escuras.&lt;/li&gt;
+  &lt;li&gt;Conte o número de quadrados grandes até a próxima onda R.&lt;/li&gt;
+  &lt;li&gt;Determine a frequência em batimentos por minuto da seguinte maneira:
+    &lt;ul&gt;
+      &lt;li&gt;Se houver um quadrado grande entre ondas R sucessivas, então cada onda R é separada por 0,2 segundo. Portanto, no curso de 1 segundo, haverá cinco ciclos de atividade cardíaca (1 segundo dividido por 0,2 segundo) e em 1 minuto, 300 ciclos;&lt;/li&gt;
+      &lt;li&gt;Se houver dois quadrados grandes entre ondas R sucessivas, então cada onda R é separada por 0,4 segundo. Portanto, no curso de 1 segundo, haverá 2,5 ciclos de atividade cardíaca (1 segundo dividido por 0,4 segundo) e em 1 minuto, 150 ciclos;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Por inferência lógica:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Três quadrados grandes = 100 bpm;&lt;/li&gt;
+  &lt;li&gt;Quatro quadrados grandes = 75 bpm;&lt;/li&gt;
+  &lt;li&gt;Cinco quadrados grandes = 60 bpm;&lt;/li&gt;
+  &lt;li&gt;Seis quadrados grandes = 50 bpm.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Você pode obter as mesmas respostas dividindo 300 pelo  número de quadrados grandes entre as ondas R (p. ex., 300/4 = 75).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uma acurácia ainda maior pode ser obtida contando o número total de quadrados pequenos entre as ondas R e dividindo 1.500 por este total.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tipos-de-arritmia&quot;&gt;Tipos de arritmia&lt;/h2&gt;
+
+&lt;p&gt;O coração é capaz apenas de cinco tipos básicos de distúrbio de
+ritmo:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Origem sinusal:&lt;/strong&gt; a atividade elétrica segue as vias de condução usuais que já foram delineadas, mas é muito rápida, muito lenta ou irregular;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ritmos ectópicos:&lt;/strong&gt; a atividade elétrica se origina de um foco que não o nó SA;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Arritmias reentrantes:&lt;/strong&gt; a atividade elétrica é aprisionada dentro de um circuito elétrico cuja forma e limites são determinados por várias características miocárdicas elétricas e anatômicas;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bloqueios de condução:&lt;/strong&gt; a atividade elétrica se origina no nó SA e segue a via habitual, mas encontra bloqueios e retardos inesperados;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Síndrome de pré-excitação:&lt;/strong&gt; a atividade elétrica segue vias de condução acessórias que contornam as vias normais, fornecendo um atalho elétrico ou um curto-circuito.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;arritmias-de-origem-sinusal&quot;&gt;Arritmias de origem sinusal&lt;/h2&gt;
+
+&lt;h3 id=&quot;taquicardia-e-bradicardia-sinusal&quot;&gt;Taquicardia e Bradicardia sinusal&lt;/h3&gt;
+
+&lt;p&gt;O ritmo sinusal normal é o ritmo normal do coração. A despolarização se origina espontaneamente dentro do nó SA. A frequência é regular e entre 60 e 100 batimentos por minuto (bpm). Se o ritmo se acelera
+além de 100 bpm, ele é chamado de &lt;strong&gt;taquicardia sinusal&lt;/strong&gt;; se ele fica abaixo de 60 bpm, é chamado de &lt;strong&gt;bradicardia sinusal&lt;/strong&gt;. Estas podem ser normais (como execício intenso ou atletas em repouso) ou patológicas.&lt;/p&gt;
+
+&lt;p&gt;A taquicardia sinusal pode ocorrer em pacientes com ICC ou doença pulmonar grave, ou pode ser o único sinal de hipertireoidismo. A bradicardia sinusal é o distúrbio de ritmo mais comum visto nos estágios iniciais do IAM; em indivíduos saudáveis, em outros aspectos, ela pode ser o resultado de um aumento do tônus vagal e pode causar desmaios.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/arritmia-sinusal.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;arritmia-sinusal&quot;&gt;Arritmia sinusal&lt;/h3&gt;
+
+&lt;p&gt;ECG irá revelar um compasso que parece, em todos os aspectos, ser um ritmo sinusal normal, exceto por ser discretamente irregular. Frequentemente, é um fenômeno normal, refletindo a variação na frequência cardíaca com a inspiração e a expiração. &lt;strong&gt;A inspiração acelera a frequência cardíaca e a expiração a reduz.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/insp.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;parada-sinusal-assistolia-e-batimentos-de-escape&quot;&gt;Parada sinusal, assistolia e batimentos de escape&lt;/h3&gt;
+
+&lt;p&gt;Ocorre quando o nó SA para de estimular o coração. Se nada mais acontecer, o ECG irá mostrar uma linha isoelétrica sem qualquer atividade elétrica, e o paciente morrerá. A inatividade elétrica prolongada é chamada &lt;strong&gt;assistolia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Felizmente, a maioria das células miocárdicas têm a capacidade de se comportar como marca-passo cardíaco. O nó SA suprime as outras células de marca-passo por fornecer a sua onda de despolarização para o miocárdio antes que seus potenciais competidores possam completar a sua despolarização, de forma mais moderada, espontânea. Na parada sinusal, contudo, esses outros marca-passos podem entrar em ação como uma missão de resgate. Esses batimentos de resgate, que se originam fora do nó SA, são chamados &lt;strong&gt;batimentos de escape&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/batimento-de-escape.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;marca-passos-não-sinusais&quot;&gt;Marca-passos não sinusais&lt;/h3&gt;
+
+&lt;p&gt;Assim como o nó SA, que geralmente dispara entre 60 e100 vezes por minuto, estas outras células de marca-passo potenciais têm o seu próprio ritmo intrínseco.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/marca-passos-não-sinusais.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O coração em repouso bate com um ritmo regular, de 60 a 100 vezes por minuto. Como cada batimento se origina da despolarização do nó sinoatrial (SA), o ritmo cardíaco habitual do dia a dia é chamado ritmo sinusal normal. Qualquer outra ocorrência é chamada de arritmia (ou, mais acuradamente, disritmia.</summary></entry><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="https://resumos.canalionico.com.br/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/cardiologia/ecg2</id><content type="html" xml:base="https://resumos.canalionico.com.br/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#definindo-o-ângulo&quot; id=&quot;markdown-toc-definindo-o-ângulo&quot;&gt;Definindo o ângulo&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#desvios-de-eixo&quot; id=&quot;markdown-toc-desvios-de-eixo&quot;&gt;Desvios de eixo&lt;/a&gt;&lt;/li&gt;
@@ -205,7 +446,7 @@ ventrículo direito.&lt;/p&gt;
   &lt;li&gt;inversão da onda T (ou seja, a onda T altera o seu eixo de modo que ela não mais se alinha com o eixo do QRS).&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-v.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;p&gt;DC = FC x Volume sistólico&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-v.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="https://resumos.canalionico.com.br/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/cardiologia/ic</id><content type="html" xml:base="https://resumos.canalionico.com.br/cardiologia/ic.html">&lt;p&gt;DC = FC x Volume sistólico&lt;/p&gt;
 
 &lt;p&gt;VS é proporcional à pré-carga e à contratilidade e inversamente proporcional à pós-carga.&lt;/p&gt;
 
@@ -225,9 +466,17 @@ ventrículo direito.&lt;/p&gt;
 
 &lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
 
-&lt;p&gt;Um evento inicial promove uma lesão miocárdica e um estresse mecânico. Ocorr inflamação, estresse oxidativo e isquemia, promovendo alterações cardíacas (remodelamento ventricular, disfunção endotelial, alterações metabólicas, disfunção neuro-hormonal) e sistêmicas.&lt;/p&gt;
+&lt;p&gt;Pode ser vista como uma doença progressiva iniciada após um evento inicial, que produz um dano no músculo cardíaco com consequente perda dos cardiomiócitos funcionantes, ou, alternativamente, interrupção da capacidade do miocárdio de gerar força, impedindo, assim, a contração normal do coração. Este evento índice pode começar de modo abrupto, como no caso do infarto agudo do miocárdio (IAM); pode ter início gradual ou insidioso, como na sobrecarga de pressão ou de volume; ou ser hereditário, conforme acontece em várias cardiomiopatias genéticas.&lt;/p&gt;
+
+&lt;p&gt;A ativação mantida dos sistemas neuro-hormonais e das citocinas leva a uma série de alterações de estruturas importantes dentro do miocárdio, denominadas coletivamente de remodelamento do VE e pode levar um paciente assintomático a começar a desenvolver sintomas.&lt;/p&gt;
 
 &lt;p&gt;Disfunção miocárdica: pode ser sistólica ou diastólica.&lt;/p&gt;
+
+&lt;h3 id=&quot;remodelamento-cardíaco&quot;&gt;Remodelamento cardíaco&lt;/h3&gt;
+
+&lt;p&gt;Alterações estruturais de massa e volume do miocardio.&lt;/p&gt;
+
+&lt;p&gt;O aumento dos ventrículos também pode causar insuficiência das válvulas que também são alongadas com o aumento das câmaras. Por exemplo, pode ocorrer uma insuficiência mitral. As valvas distendidas se fecham com mais dificuldade. Além desse fatotr, também pode correr alargamento das cordoalhos tendíneas dificultando o fechamento completo das valvas.&lt;/p&gt;
 
 &lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
 
@@ -247,6 +496,10 @@ ventrículo direito.&lt;/p&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;O crescimento de VE roda o arco aórtico e pode escondê-lo da radiografia.&lt;/p&gt;
+
+&lt;p&gt;IC com fração de ejeção preservada?&lt;/p&gt;
 
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
 
@@ -317,6 +570,8 @@ ventrículo direito.&lt;/p&gt;
 
 &lt;p&gt;NYHA (com base na tolerância individual ao esforço)&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/New-York-Heart-Association-NYHA-Heart-Failure-Symptom-Classification-System.png&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
 
 &lt;p&gt;Vão ajudar na confirmação do diagnóstico, na busca pela etiologia, na avaliação prognóstica e na avaliação funcional.&lt;/p&gt;
@@ -335,12 +590,65 @@ ventrículo direito.&lt;/p&gt;
       &lt;li&gt;Linhas B de Kerley (edema intersticial)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Ecocardiograma&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;ecocardiograma&quot;&gt;Ecocardiograma&lt;/h3&gt;
+
+&lt;p&gt;Mas o que é a &lt;strong&gt;fração de ejeção?&lt;/strong&gt; É o percentual de sangue que o ventrículo ejeta para a aorta na sístole. Assim, Se no final da diástole o ventrículo tem 100 mL de sangue e no final da sístole tem 40 mL, subentende-se que 60mL de sangue foram ejetados para a aorta. 60mL de 100 mL – 60% de fração de ejeção.&lt;/p&gt;
+
+&lt;h3 id=&quot;angiorressonância&quot;&gt;Angiorressonância&lt;/h3&gt;
 
 &lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
 
-&lt;p&gt;Escore de Adhere para avaliação da mortalidade intra-hospitalar&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">DC = FC x Volume sistólico</summary></entry><entry><title type="html">Itrs</title><link href="http://localhost:4000/itrs.html" rel="alternate" type="text/html" title="Itrs" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/itrs</id><content type="html" xml:base="http://localhost:4000/itrs.html">&lt;p&gt;As celulas que chegam primeiro no sítio da lesão são os PMN, iniciando a inflamação. Depois chegam os linfócitos e os monócitos formando o infiltrado linfomononuclear que caracteriza a inflamação crônica (em torno de 3 meses).&lt;/p&gt;
+&lt;p&gt;Escore de Adhere para avaliação da mortalidade intra-hospitalar&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Primeiro identificar a etiologia. Em seguida eliminar fatores agravantes. Incentivas o exercício físico e a vacinação para o vírus da gripe (diminui a mortalidade).&lt;/p&gt;
+
+&lt;h3 id=&quot;farmacológico&quot;&gt;Farmacológico&lt;/h3&gt;
+
+&lt;h4 id=&quot;digitálicos&quot;&gt;Digitálicos&lt;/h4&gt;
+
+&lt;p&gt;Como a digoxina.&lt;/p&gt;
+
+&lt;h4 id=&quot;diuréticos&quot;&gt;Diuréticos&lt;/h4&gt;
+
+&lt;h4 id=&quot;vasodilatadores&quot;&gt;Vasodilatadores&lt;/h4&gt;
+
+&lt;h4 id=&quot;iecas&quot;&gt;IECAs&lt;/h4&gt;
+
+&lt;p&gt;Os inibidores da enzima conversora de angiotensina II.&lt;/p&gt;
+
+&lt;h4 id=&quot;betabloqueadores&quot;&gt;Betabloqueadores&lt;/h4&gt;
+
+&lt;p&gt;Os receptores beta-adrenérgicos cardíacos são principalmente o subtipo beta1; já a maior parte dos
+receptores não cardíacos é beta 2 . Os receptores beta2 constituem aproximadamente 20% do total da
+população de receptores beta no ventrículo esquerdo.&lt;/p&gt;
+
+&lt;h4 id=&quot;anticoagulantes&quot;&gt;Anticoagulantes&lt;/h4&gt;
+
+&lt;h4 id=&quot;antiarrítmicos&quot;&gt;Antiarrítmicos&lt;/h4&gt;
+
+&lt;p&gt;Digoxina???&lt;/p&gt;
+
+&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
+
+&lt;p&gt;Geralmente reservado para os pacientes classe funcional IV e IC refratária, como uma última opção de tratamento.&lt;/p&gt;
+
+&lt;h4 id=&quot;revascularização-do-miocárdio&quot;&gt;Revascularização do miocárdio&lt;/h4&gt;
+
+&lt;p&gt;Visa reperfundir áreas isquêmicas (áreas de miocárdio hibernante). Também visa prevenir futuros episódios isquêmicos. arritmias e infartos.&lt;/p&gt;
+
+&lt;h4 id=&quot;transplante&quot;&gt;Transplante&lt;/h4&gt;
+&lt;p&gt;O padrão ouro.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;https://cardiopapers.com.br/curso-basico-de-eco-como-estimar-a-fracao-de-ejecao-do-ventriculo-esquerdo/&lt;/li&gt;
+  &lt;li&gt;Aula&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html">DC = FC x Volume sistólico</summary></entry><entry><title type="html">Itrs</title><link href="https://resumos.canalionico.com.br/itrs.html" rel="alternate" type="text/html" title="Itrs" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/itrs</id><content type="html" xml:base="https://resumos.canalionico.com.br/itrs.html">&lt;p&gt;As celulas que chegam primeiro no sítio da lesão são os PMN, iniciando a inflamação. Depois chegam os linfócitos e os monócitos formando o infiltrado linfomononuclear que caracteriza a inflamação crônica (em torno de 3 meses).&lt;/p&gt;
 
 &lt;p&gt;No trato respiratório superior a mucosa acometida é a mucosa respirtatória. Essa mucosa troca gases e também secreta uma secreção musoca.&lt;/p&gt;
 
@@ -431,7 +739,7 @@ ventrículo direito.&lt;/p&gt;
   &lt;li&gt;Cirurgia&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Quando suspeitar de etiologia bacteriana? Na realidade não da pra afirmar se é ou não bacteriana. Conseguimos ter uma leve estimativa com base na intensidade dos sintomas, na duração do quadro.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Síndrome coronariana aguda</title><link href="http://localhost:4000/cardiologia/sca.html" rel="alternate" type="text/html" title="Síndrome coronariana aguda" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/sca</id><content type="html" xml:base="http://localhost:4000/cardiologia/sca.html">&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/revasc.jpeg&quot; alt=&quot;Revasc&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Pneumonia</title><link href="http://localhost:4000/pneumologia/pneumonia.html" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/pneumonia</id><content type="html" xml:base="http://localhost:4000/pneumologia/pneumonia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;Quando suspeitar de etiologia bacteriana? Na realidade não da pra afirmar se é ou não bacteriana. Conseguimos ter uma leve estimativa com base na intensidade dos sintomas, na duração do quadro.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Síndrome coronariana aguda</title><link href="https://resumos.canalionico.com.br/cardiologia/sca.html" rel="alternate" type="text/html" title="Síndrome coronariana aguda" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/cardiologia/sca</id><content type="html" xml:base="https://resumos.canalionico.com.br/cardiologia/sca.html">&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/revasc.jpeg&quot; alt=&quot;Revasc&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Pneumonia</title><link href="https://resumos.canalionico.com.br/pneumologia/pneumonia.html" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/pneumologia/pneumonia</id><content type="html" xml:base="https://resumos.canalionico.com.br/pneumologia/pneumonia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#típica-x-atípica&quot; id=&quot;markdown-toc-típica-x-atípica&quot;&gt;Típica x Atípica&lt;/a&gt;&lt;/li&gt;
@@ -578,9 +886,9 @@ pos: causadas por micro-organismos típicos e causadas por micro-organismos atí
   &lt;li&gt;Ceftriaxone EV + Azitromicina EV&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Por 7 a 10 dias&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Derrame pleural</title><link href="http://localhost:4000/pneumologia/derrame-pleural.html" rel="alternate" type="text/html" title="Derrame pleural" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/derrame-pleural</id><content type="html" xml:base="http://localhost:4000/pneumologia/derrame-pleural.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/derrame.jpeg&quot; alt=&quot;quadro&quot; /&gt;
+&lt;p&gt;Por 7 a 10 dias&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Derrame pleural</title><link href="https://resumos.canalionico.com.br/pneumologia/derrame-pleural.html" rel="alternate" type="text/html" title="Derrame pleural" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/pneumologia/derrame-pleural</id><content type="html" xml:base="https://resumos.canalionico.com.br/pneumologia/derrame-pleural.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/derrame.jpeg&quot; alt=&quot;quadro&quot; /&gt;
 &lt;img src=&quot;/assets/pneumo/tto-dpp.jpeg&quot; alt=&quot;quadro&quot; /&gt;
-&lt;img src=&quot;/assets/pneumo/dpp-atb.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">DPOC</title><link href="http://localhost:4000/pneumologia/dpoc.html" rel="alternate" type="text/html" title="DPOC" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/dpoc</id><content type="html" xml:base="http://localhost:4000/pneumologia/dpoc.html">&lt;p&gt;GOLD 2019.&lt;/p&gt;
+&lt;img src=&quot;/assets/pneumo/dpp-atb.jpeg&quot; alt=&quot;quadro&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">DPOC</title><link href="https://resumos.canalionico.com.br/pneumologia/dpoc.html" rel="alternate" type="text/html" title="DPOC" /><published>2019-10-17T00:00:00-03:00</published><updated>2019-10-17T00:00:00-03:00</updated><id>https://resumos.canalionico.com.br/pneumologia/dpoc</id><content type="html" xml:base="https://resumos.canalionico.com.br/pneumologia/dpoc.html">&lt;p&gt;GOLD 2019.&lt;/p&gt;
 
 &lt;p&gt;É uma enfermidade respiratória com manifestações sistêmicas que pode ser prevenida e tratada, e se caracterizapor obstrução do fluxo aérero que não é totalmente reversível.&lt;/p&gt;
 
@@ -670,260 +978,4 @@ pos: causadas por micro-organismos típicos e causadas por micro-organismos atí
 &lt;ul&gt;
   &lt;li&gt;Parar de fumar
 *&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">GOLD 2019.</summary></entry><entry><title type="html">Arteriosclerose</title><link href="http://localhost:4000/cardiologia/arteriosclerose.html" rel="alternate" type="text/html" title="Arteriosclerose" /><published>2019-10-16T00:00:00-03:00</published><updated>2019-10-16T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/arteriosclerose</id><content type="html" xml:base="http://localhost:4000/cardiologia/arteriosclerose.html">&lt;p&gt;Células espumosas e formação do ateroma.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Células espumosas e formação do ateroma.</summary></entry><entry><title type="html">ECG I - Fundamentos</title><link href="http://localhost:4000/cardiologia/ecg.html" rel="alternate" type="text/html" title="ECG I - Fundamentos" /><published>2019-10-15T00:00:00-03:00</published><updated>2019-10-15T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#derivações&quot; id=&quot;markdown-toc-derivações&quot;&gt;Derivações&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#verticais&quot; id=&quot;markdown-toc-verticais&quot;&gt;Verticais&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#horizontais&quot; id=&quot;markdown-toc-horizontais&quot;&gt;Horizontais&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ondas-intervalos-e-segmentos&quot; id=&quot;markdown-toc-ondas-intervalos-e-segmentos&quot;&gt;Ondas, intervalos e segmentos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ritmo&quot; id=&quot;markdown-toc-ritmo&quot;&gt;Ritmo&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#ritmo-sinusal&quot; id=&quot;markdown-toc-ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ritmo-ventricular&quot; id=&quot;markdown-toc-ritmo-ventricular&quot;&gt;Ritmo ventricular&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#extrassístole&quot; id=&quot;markdown-toc-extrassístole&quot;&gt;Extrassístole&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#frequência&quot; id=&quot;markdown-toc-frequência&quot;&gt;Frequência&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As células cardíacas, em seu estado de repouso, são eletricamente polarizadas, ou seja, o seu meio interno é carregado negativamente em relação
-ao seu meio externo.&lt;/p&gt;
-
-&lt;p&gt;Sempre que vamos analizar um ECG, nós olhamos:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Velocidade&lt;/li&gt;
-  &lt;li&gt;Calibração&lt;/li&gt;
-  &lt;li&gt;Ritmo&lt;/li&gt;
-  &lt;li&gt;Frequência&lt;/li&gt;
-  &lt;li&gt;Intervalos&lt;/li&gt;
-  &lt;li&gt;Eixo&lt;/li&gt;
-  &lt;li&gt;Sobrecargas&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
-
-&lt;p&gt;Uma onda de despolarização se movendo em direção ao eletrodo positivo causa uma deflexão positiva no ECG. Uma onda de despolarização se movendo para longe de um eletrodo positivo causa uma deflexão negativa.&lt;/p&gt;
-
-&lt;p&gt;O que o ECG irá registrar se o eletrodo positivo for colocado no
-meio da célula? Inicialmente, à medida que a frente da onda se aproxima do eletrodo, o ECG registra uma deflexão positiva. Depois, no momento exato em que a onda atinge o eletrodo, as cargas positiva e negativa são equilibradas e essencialmente se neutralizam.
-O registro do ECG retorna à linha de base. À medida que a onda de despolarização se afasta, é inscrita uma deflexão negativa.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ecg1.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ecg2.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ecg3.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ecg4.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Os efeitos da repolarização sobre o ECG são similares aos da despolarização, exceto que as cargas são invertidas. Uma onda de repolarização movendo-se em direção a um eletrodo positivo inscreve uma deflexão negativa no ECG.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ecg5.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;derivações&quot;&gt;Derivações&lt;/h2&gt;
-
-&lt;p&gt;São 12 derivações principais.&lt;/p&gt;
-
-&lt;h3 id=&quot;verticais&quot;&gt;Verticais&lt;/h3&gt;
-
-&lt;p&gt;As 6 derivações dos membros veem o coração sobre um plano vertical, sendo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Derivações padrões:
-    &lt;ul&gt;
-      &lt;li&gt;DI é criada tornando o braço esquerdo positivo e o braço direito negativo (0°);&lt;/li&gt;
-      &lt;li&gt;DII é criada tornando as pernas positivas e o braço direito negativo (60°);&lt;/li&gt;
-      &lt;li&gt;DIII é criada tornando as pernas positivas e o braço esquerdo negativo (120°);&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Derivações aumentadas:
-    &lt;ul&gt;
-      &lt;li&gt;aVL é criada tornando o braço esquerdo positivo e os outros membros negativos (–30°);&lt;/li&gt;
-      &lt;li&gt;aVR é criada tornando o braço direito positivo e os outros membros negativos (–150°);&lt;/li&gt;
-      &lt;li&gt;aVF é criada tornando as pernas positivas e os outros membros negativo (+90°).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/circulo-ecg.jpeg&quot; alt=&quot;D&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/circulo-ecg2.jpeg&quot; alt=&quot;D&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/tabela-ecg.jpeg&quot; alt=&quot;Lados&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;horizontais&quot;&gt;Horizontais&lt;/h3&gt;
-
-&lt;p&gt;As 6 derivações precordiais, ou derivações torácicas, são ainda mais fáceis de compreender. Elas são dispostas no tórax em um plano horizontal. Cada eletrodo torácico é tornado positivo, um de cada vez, e todo o corpo é tido como um campo comum. Os seis eletrodos positivos, que criam as derivações precordiais de V1 a V6, são posicionados como explicado a seguir:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;V1 é colocado no 4 EIC à direita do esterno;&lt;/li&gt;
-  &lt;li&gt;V2 é colocado no 4 EIC à esquerda do esterno;&lt;/li&gt;
-  &lt;li&gt;V3 é colocado entre V2 e V4;&lt;/li&gt;
-  &lt;li&gt;V4 é colocado no 5 EIC, na linha mesoclavicular;&lt;/li&gt;
-  &lt;li&gt;V5 é colocado entre V4 e V6;&lt;/li&gt;
-  &lt;li&gt;V6 é colocado no 5 EIC, na linha axilar média.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/precordiais-ecg.jpeg&quot; alt=&quot;Lados&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/precordiais-ecg2.jpeg&quot; alt=&quot;Lados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A derivação V1 fica diretamente sobre o ventrículo direito, V2 e V3, sobre o septo interventricular, V4, sobre o ápice do ventrículo esquerdo, e V5 e V6, sobre a lateral do ventrículo esquerdo.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Anterior:&lt;/strong&gt; V2, V3, V4;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lateral esquerda:&lt;/strong&gt; I, aVL, V5, V6;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Inferiores:&lt;/strong&gt; II, III, aVF;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ventricular direita:&lt;/strong&gt; aVR, V1;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ondas-intervalos-e-segmentos&quot;&gt;Ondas, intervalos e segmentos&lt;/h2&gt;
-
-&lt;p class=&quot;alert aviso-yellow&quot;&gt;Onda P: despolarização atrial. A primeira metade coresponde ao AD e a segunda ao AE; previsivelmente, a derivação III, com frequência, registra uma onda P bifásica (embora não é incomum que ela seja negativa em corações perfeitamente normais). aVR registra uma deflexão puramente negativa. V5 e V6 registram uma deflexão positiva, V1 registra
-uma onda bifásica, V2 a V4 são variáveis. A amplitude da onda P normalmente não excede 0,25
-mV (2,5 mm, ou 2,5  quadrados pequenos) em qualquer derivação. A amplitude da onda P geralmente é mais positiva na derivação II e mais negativa na derivação aVR.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondap2.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ondap3.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ondap4.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Intervalo PR:&lt;/strong&gt; representa o tempo desde o início da despolarização atrial até o início da despolarização ventricular. Ele inclui o &lt;strong&gt;retardo na condução que ocorre no nó AV&lt;/strong&gt;. O intervalo PR normalmente dura de 0,12 a 0,20 segundos (de &lt;strong&gt;3 a 5 mm&lt;/strong&gt; no papel do ECG).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Segmento PR:&lt;/strong&gt; representa o tempo do final da despolarização atrial até o início da despolarização ventricular. Geralmente é horizontal e corre ao longo da mesma linha de base do início da onda P.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/intervalos.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Complexo QRS&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;p&gt;Represeta a despolarização ventricular&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Onda Q:&lt;/strong&gt; o septo interventricular, a parede de músculo que separa os ventrículos
-direito e esquerdo, é o primeiro a se despolarizar e o faz da esquerda para
-a direita. O pequeno fascículo septal do ramo esquerdo é responsável por
-fornecer rapidamente a onda de despolarização para esta região do coração. Nem sempre é visivel no eletro. Quando é visível, essa pequena despolarização inscreve uma pequena deflexão negativa em uma ou várias derivações laterais esquerdas, portanto, em I, aVL, V5 e V6. Às vezes, pequenas ondas Q também podem ser vistas nas derivações inferiores e em V3 e V4. Normalmente tem uma amplitude menor que 0,1 mV.&lt;/p&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondaq.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;O restante do miocárdio ventricular se despolariza:&lt;/strong&gt;  Normalmente, esse vetor aponta para algum lugar entre 0 e 90 graus. No plano frontal, portanto, grandes deflexões positivas (&lt;strong&gt;ondas R&lt;/strong&gt;) podem ser vistas nas derivações laterais esquerdas e inferiores. A derivação aVR, que fica à direita, registra uma deflexão negativa profunda (&lt;strong&gt;onda S&lt;/strong&gt;). V1, que fica sobre o ventrículo
-direito, geralmente registra ondas S profundas, já que a corrente está se movendo para a esquerda, para longe dela. Reciprocamente, as derivações V5 e V6, que ficam sobre o ventrículo esquerdo, registram ondas R positivas altas. V3 e V4 representam uma zona de transição, e geralmente uma dessas derivações registra uma onda bifásica, ou seja, uma onda R e uma onda S de amplitude quase igual.&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Progressão de onda R:&lt;/strong&gt; padrão de onda R de amplitude crescente que se move da direita para a esquerda nas derivações precordiais. V1 tem a menor onda R; V5, a maior (a onda R em V6 geralmente é um pouco menor do que em V5).&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Zona de transição:&lt;/strong&gt; a derivação precordial, ou derivações, nas quais o complexo QRS se modifica
-de predominantemente negativo para predominantemente positivo. A zona de transição normal ocorre nas derivações V3 e V4.&lt;/p&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/prog-ondap.png&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/rs.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/progressao-ondap.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Intervalo QRS:&lt;/strong&gt; representa a duração do complexo QRS, tem 0,06 a 0,1 segundo de duração.&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Segmento ST:&lt;/strong&gt; em geral é horizontal ou levemente ascendente em todas as derivações. Ele representa o tempo entre o final da despolarização ventricular até o início da repolarização ventricular.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Onda T:&lt;/strong&gt; representa a repolarização ventricular. Ao contrário da despolarização, que é amplamente passiva, a repolarização requer o gasto de uma grande quantidade de energia celular
-(lembre-se da bomba da membrana). A onda T é altamente suscetível a todos os tipos de influências, tanto cardíacas quanto não cardíacas (p. ex., hormonais, neurológicas) e, portanto, tem aspecto variável.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;No coração normal, a repolarização geralmente começa na última área a ser despolarizada e depois viaja de volta no sentido oposto. Como tanto a onda de despolarização que se aproxima quanto a onda de repolarização que se afasta geram uma deflexão positiva no ECG, os mesmos eletrodos que registraram uma deflexão positiva durante a despolarização (aparecendo como uma onda R alta) também  geralmente irão registrar uma deflexão positiva durante a repolarização (aparecendo como uma onda T positiva). &lt;strong&gt;Portanto, é típico e normal encontrar ondas T positivas nas mesmas derivações que têm ondas R altas&lt;/strong&gt;. A amplitude, ou altura, de uma onda T normal é de 1 a 2 terços da onda R correspondente.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondat.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Intervalo QT:&lt;/strong&gt; engloba o tempo do início da despolarização ventricular até o final da repolarização ventricular. Dessa forma, ele inclui todos os eventos elétricos que ocorrem nos ventrículos. Do ponto de vista temporal, a maior parte do intervalo QT é dedicada à repolarização
-ventricular do que à despolarização (isto é, a onda T é mais larga do que o complexo QRS.
-A duração do intervalo QT é proporcional à FC. Quanto mais rápido o coração bater, mais rápido ele precisa se repolarizar para se preparar para a próxima contração; assim, também será mais
-curto o intervalo QT. Inversamente, quando o coração está batendo devagar, há pouca urgência em se repolarizar e o intervalo QT é longo. De um modo geral, o intervalo QT compreende cerca de 40% do ciclo cardíaco, quando medido de uma onda R até a outra.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Complexo QRS: despolarização ventricular;&lt;/li&gt;
-  &lt;li&gt;Onda T: repolarização ventricular;&lt;/li&gt;
-  &lt;li&gt;Onda U&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ritmo&quot;&gt;Ritmo&lt;/h2&gt;
-&lt;h3 id=&quot;ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/h3&gt;
-
-&lt;p&gt;Ritmo sinusal é aquele originado no &lt;strong&gt;nó sinusal&lt;/strong&gt;, conduzido aos ventrículos com intervalo entre &lt;strong&gt;120 ms e 200 ms&lt;/strong&gt;. Em sua normalidade o ECG registra ritmo sinusal de uma maneira muito simples: tem que ter onda P (representante da despolarização dos átrios) e QRS. Deve ser &lt;strong&gt;positiva em DI, DII e aVF&lt;/strong&gt; e &lt;strong&gt;negativa em aVR&lt;/strong&gt;, em que deve ser negativa. Lembrar que as vezes as vezes a onda P pode ser negativa em DIII.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Ritmo sinusal
-&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Onda P positiva em:
-      &lt;ul&gt;
-        &lt;li&gt;DI, DII e aVF&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;Onda P negativa em:
-      &lt;ul&gt;
-        &lt;li&gt;aVR&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondap.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Todo rítmo que nasce no átrio mas não é sinusal, nos chamamos de atrial ectópico.&lt;/p&gt;
-
-&lt;h3 id=&quot;ritmo-ventricular&quot;&gt;Ritmo ventricular&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Frequência baixa&lt;/li&gt;
-  &lt;li&gt;Ondas P dissociadas do complexo QRS (oriundas do nó sinusal que continua trabalhando normalmente)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Para ser chamado de ritmo deve ter ao menos 3 batimentos seguidos.&lt;/p&gt;
-
-&lt;h3 id=&quot;extrassístole&quot;&gt;Extrassístole&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Supraventricular&lt;/li&gt;
-  &lt;li&gt;Ventricular&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;frequência&quot;&gt;Frequência&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/quadrados.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1 minuto&lt;/strong&gt; de traçado a uma &lt;strong&gt;velocidade de 25 mm/s&lt;/strong&gt; apresenta cerca de &lt;strong&gt;1500 quadrados&lt;/strong&gt; menores, basta então &lt;strong&gt;dividir esse valor pelo número de quadrados menores entre o pico de duas ondas R sequenciais&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Uma outra forma de avaliação da FC pode ser feita de maneira rápida e já permite a
-imediata definição de um paciente em taquicardia (FC &amp;gt; 100 bpm) ou bradicardia (FC &amp;lt;
-50 bpm, descartando situações especiais). Esta forma consiste em procurar complexos QRS
-sequênciais que estejam posicionados sobre o traçado maior que divide os blocos de cinco
-quadrados menores e contato. Na sequência, os valores de &lt;strong&gt;300, 150, 100, 75 e 60&lt;/strong&gt; a cada linha
-maior de quadrados&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/quadrados2.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O coração acelera na inspiração e desacelera na expiração, de forma fisiológica. A arritmia sinusal respiratória pode não indicar patologia.&lt;/p&gt;
-
-&lt;h2 id=&quot;eixo&quot;&gt;Eixo&lt;/h2&gt;
-
-&lt;p&gt;O eixo normal do coração se localiza entre –30° e + 90°. Na presença do desvio do eixo
-para a esquerda o eixo cardíaco varia de –30° e –90°. Na ocorrência de desvio do eixo para
-a direita o eixo está entre +90° e +180°.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/vetores.jpg&quot; alt=&quot;Vetores&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para a determinação do eixo, devemos considerar a predominância do QRS, se positivo,
-negativo ou isoelétrico nas derivações &lt;strong&gt;DI e aVF&lt;/strong&gt;, o que permitirá inferir em qual
-quadrante está o QRS, de acordo com as projeções da roda dos ventos. Verifique a derivação DII, caso esta esteja positivo significa que o eixo encontra-se no quadrante
-inferior direito. Para definir aproximadamente o eixo dentro deste quadrante, observa-se
-em qual derivação o QRS está mais isoelétrico, pois será na derivação perpendicular a esta
-que o eixo estará.&lt;/p&gt;
-
-&lt;p&gt;Vale lembrar que o desvio do eixo elétrico para a direita ou para a esquerda muitas vezes não está relacionado com patologias e sim com o biotipo. Por exemplo, em indivíduos
-brevilíneos o eixo tende a ficar horizontalizado devido ao fato de o coração repousar uma
-maior parte sobre o diafragma, em indivíduos longilíneos ocorre o inverso, tornando o eixo
-verticalizado.&lt;/p&gt;
-
-&lt;p&gt;Desvio pra esquerda: sobrecarga ventricular esquerda ou bloqueio de ramo esquerdo;
-Desvio pra direita: sobrecarga de VD ou BRD;&lt;/p&gt;
-
-&lt;p&gt;Como saber o quadrante do eixo:&lt;/p&gt;
-
-&lt;p&gt;Sempre olhar as derivações D1 (a mais horizontal, lembrando que a captação do eletrodo está no braço esquerdo) e aVF (a mais vertical). Se o QRS for predominantemente positivo nessas duas derivações, então o eixo está no quadrante inferior esquerdo.&lt;/p&gt;
-
-&lt;p&gt;Obs: se D1 tiver componente positivo igual o negativo do QRS, significa que o eixo está exatamente no eixo vertical. O mesmo vale para o aVF, se o componente positivo do QRS for igual o negativo, então o eixo está exatamente na horizontal.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">GOLD 2019.</summary></entry></feed>

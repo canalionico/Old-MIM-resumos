@@ -200,6 +200,10 @@ A **incisura dicrótica** corresponde ao fechamento da valva aórtica. Os valore
 Sempre lembrar que a despolarização promove a contração e a repolaização o relaxameto!
 </p>
 
+
+![Ciclo cardíaco](/assets/cardiologia/ciclo-wiggers.jpg)
+
+
 ## Grandes vasos
 
 A aorta é uma artéria elástica, sendo sua camada média
