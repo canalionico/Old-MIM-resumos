@@ -422,6 +422,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/eixo9.jpeg'
       
+        '/assets/cardiologia/etiologia-ic.jpeg'
+      
+        '/assets/cardiologia/framingam.jpeg'
+      
         '/assets/cardiologia/hipertrofia-v.jpeg'
       
         '/assets/cardiologia/hipertrofia-vd.jpeg'

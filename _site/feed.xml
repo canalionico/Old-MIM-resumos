@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-31T22:03:38-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cia</title><link href="http://localhost:4000/cia.html" rel="alternate" type="text/html" title="Cia" /><published>2019-10-30T00:00:00-03:00</published><updated>2019-10-30T00:00:00-03:00</updated><id>http://localhost:4000/cia</id><content type="html" xml:base="http://localhost:4000/cia.html">&lt;p&gt;Sopro sistólico em foco pulmonar com desdobramento fixo de B2&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-31T23:29:16-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cia</title><link href="http://localhost:4000/cia.html" rel="alternate" type="text/html" title="Cia" /><published>2019-10-30T00:00:00-03:00</published><updated>2019-10-30T00:00:00-03:00</updated><id>http://localhost:4000/cia</id><content type="html" xml:base="http://localhost:4000/cia.html">&lt;p&gt;Sopro sistólico em foco pulmonar com desdobramento fixo de B2&lt;/p&gt;
 
 &lt;p&gt;Ocorre por causa do shunt do sangue do átrio esquerdo (maior pressão) pro átrio direito (menor pressão). O maior débio sanguíneo do VD vai causar o desdobramento fixo de B2 e uma hipertrofia do VD.&lt;/p&gt;
 
@@ -376,7 +376,12 @@ ventrículo direito.&lt;/p&gt;
       &lt;li&gt;&lt;a href=&quot;#pós-carga&quot; id=&quot;markdown-toc-pós-carga&quot;&gt;Pós-carga&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#sistólica&quot; id=&quot;markdown-toc-sistólica&quot;&gt;Sistólica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diastólica&quot; id=&quot;markdown-toc-diastólica&quot;&gt;Diastólica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ic-aguda&quot; id=&quot;markdown-toc-ic-aguda&quot;&gt;IC Aguda&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#pulso-arterial&quot; id=&quot;markdown-toc-pulso-arterial&quot;&gt;Pulso Arterial&lt;/a&gt;&lt;/li&gt;
@@ -390,6 +395,7 @@ ventrículo direito.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#ecocardiograma&quot; id=&quot;markdown-toc-ecocardiograma&quot;&gt;Ecocardiograma&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#radiografia-de-tórax&quot; id=&quot;markdown-toc-radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#eletrocardiograma&quot; id=&quot;markdown-toc-eletrocardiograma&quot;&gt;Eletrocardiograma&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
@@ -606,6 +612,48 @@ o ventrículo trabalha com uma pós-carga elevada, devido a três fatores: (1) v
 
 &lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
 
+&lt;h3 id=&quot;sistólica&quot;&gt;Sistólica&lt;/h3&gt;
+
+&lt;p&gt;Cardiopatia dilatada: HAS, doença isquêmica, cardiomiopatia (dilatada idiopática, alcoólica e chagásica), valvopatias.&lt;/p&gt;
+
+&lt;p&gt;As três valvopatias que levam à sobrecarga ventricular esquerda são: estenose aórtica, insuficiência aórtica e insuficiência mitral.&lt;/p&gt;
+
+&lt;p&gt;A estenose mitral não sobrecarrega o VE (pelo contrário, costuma poupá-lo). Mas é uma causa muito importante de HAP secundária
+e que pode evoluir futuramente para Insuficiência Ventricular Direita (IVD).&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Hipertensão arterial – cardiopatia hipertensiva.&lt;/li&gt;
+  &lt;li&gt;Doença coronariana – infarto (fibrose) ou isquemia (“miocárdio hibernante”).&lt;/li&gt;
+  &lt;li&gt;Valvopatias.&lt;/li&gt;
+  &lt;li&gt;Cardiomiopatia dilatada idiopática.&lt;/li&gt;
+  &lt;li&gt;Cardiomiopatia alcoólica.&lt;/li&gt;
+  &lt;li&gt;Doença de Chagas (nas áreas endêmicas).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;diastólica&quot;&gt;Diastólica&lt;/h3&gt;
+
+&lt;p&gt;A HAS e a fibrose (sequela de IAM) aparecem como causas importantes. O próprio envelhecimento é considerado uma causa de IC diastólica. Também existe uma miocardiopatia primária que deve ser lembrada: a miocardiopatia hipertrófica. Outras causas incluem:
+desordens infiltrativas (sarcoidose, amiloidose) e a hemocromatose, que perfazem o grupo das cardiopatias “restritivas”.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cardiopatia hipertensiva – fase hipertrófica (principal!).&lt;/li&gt;
+  &lt;li&gt;Fibrose isquêmica.&lt;/li&gt;
+  &lt;li&gt;Cardiomiopatia hipertrófica hereditária.&lt;/li&gt;
+  &lt;li&gt;Cardiomiopatias restritivas.&lt;/li&gt;
+  &lt;li&gt;Desordens do endomiocárdio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ic-aguda&quot;&gt;IC Aguda&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Infarto agudo do miocárdio – principal!!&lt;/li&gt;
+  &lt;li&gt;Miocardite aguda (viral, reumática, etc.).&lt;/li&gt;
+  &lt;li&gt;Endocardite infecciosa.&lt;/li&gt;
+  &lt;li&gt;Rotura de cordoália.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/etiologia-ic.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
 
 &lt;p&gt;No início os pacientes ficam assintomáticos por vários anos justamente por causa dos mecanismos de compensação que mantêm o DC.&lt;/p&gt;
@@ -662,6 +710,21 @@ mmHg) que não responde à reposição volêmica.&lt;/p&gt;
 
 &lt;p&gt;Pesquisar sinais de aumento da pressão venosa jugular (o sinal mais fidedigno para detectar a presença de retenção de volume é a turgência de jugular). Avaliar presença de B3 na ausculta cardíaca.&lt;/p&gt;
 
+&lt;p&gt;&lt;strong&gt;Anasarca:&lt;/strong&gt; nas fases avançadas, com IC biventricular, o paciente apresenta edema generalizado, com predomínio nas regiões dependentes
+de gravidade – membros inferiores, bolsa escrotal.&lt;/p&gt;
+
+&lt;p&gt;O edema crônico dos MMII leva a alterações de pele e fâneros, como hiperpigmentação, perda de pelos e ictiose. Não é comum o edema peripalpebral (como no edema nefrogênico). Todas as serosas podem
+estar comprometidas: ascite, derrame pleural e derrame pericárdico.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hepatopatia Congestiva&lt;/strong&gt;: a hepatomegalia congestiva é muito comum, frequentemente &lt;strong&gt;dolorosa, pela distensão aguda da cápsula hepática&lt;/strong&gt;. Casos muito agudos descompensados de IVD, porém, podem levar à congestão hepática grave, manifestando-se como uma hepatite aguda:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Icterícia;&lt;/li&gt;
+  &lt;li&gt;Hiperbilirrubinemia;&lt;/li&gt;
+  &lt;li&gt;Aumento das transaminases;&lt;/li&gt;
+  &lt;li&gt;Insuficiência hepática.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h3 id=&quot;pulso-arterial&quot;&gt;Pulso Arterial&lt;/h3&gt;
 
 &lt;p&gt;No início do processo o pulso arterial é normal. Em fases avançadas pode ser de baixa amplitude, devido ao baixo DC.&lt;/p&gt;
@@ -678,6 +741,8 @@ mmHg) que não responde à reposição volêmica.&lt;/p&gt;
 &lt;h3 id=&quot;pulso-venoso-e-turgência-jugular&quot;&gt;Pulso Venoso e Turgência Jugular&lt;/h3&gt;
 
 &lt;p&gt;Um dado fundamental. &lt;em&gt;A turgência jugular patológica a 45° (TJP) é um sinal fidedigno e precoce de IVD&lt;/em&gt;. O pulso venoso pode apresentar alterações em seu aspecto: aumento da onda A, devido às elevadas pressões de enchimento no VD, ou a presença da onda V gigante, consequente à insuficiência tricúspide secundária à dilatação do VD. Uma manobra muito importante no diagnóstico da congestão sistêmica é a pesquisa do &lt;strong&gt;refluxo hepatojugular&lt;/strong&gt;, muitas vezes presente antes mesmo da TJP. Nessa manobra faz-se pressão sobre o QSD do abdome observando se haverá aumento na altura do pulso jugular &amp;gt; 1 cm. Se houver, diz-se que o refluxo hepatojugular está presente.&lt;/p&gt;
+
+&lt;p&gt;Avaliar também se há cianoe e o enchimento capilar.&lt;/p&gt;
 
 &lt;h3 id=&quot;precórdio&quot;&gt;Precórdio&lt;/h3&gt;
 
@@ -697,9 +762,26 @@ mmHg) que não responde à reposição volêmica.&lt;/p&gt;
 
 &lt;h3 id=&quot;ausculta&quot;&gt;Ausculta&lt;/h3&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;B1 pode ser hipofonética (hipocontratilidade do VE),&lt;/li&gt;
+  &lt;li&gt;B2 pode ser hiperfonética (hipertensão arterial pulmonar);&lt;/li&gt;
+  &lt;li&gt;B3 audível pela desaceleração do fluxo de sangue no final da fase de enchimento rápido da diástole;&lt;/li&gt;
+  &lt;li&gt;B4 é mais comum na doença isquêmica e na cardiopatia hipertensiva;&lt;/li&gt;
+  &lt;li&gt;Sopro sistólico pode ser audível no foco mitral, irradiando-se para a axila, causado por &lt;em&gt;insuficiência mitral&lt;/em&gt; secundária à dilatação do VE.
+    &lt;ul&gt;
+      &lt;li&gt;dilatação do VD também pode causar insuficiência tricúspide secundária – o sopro sistólico é mais audível no foco tricúspide e aumenta à inspiração profunda (manobra de Rivero-Carvalho).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Estertores pulmonares nos terços inferiores dos hemitórax, predominando geralmente à direita, devido à congestão e edema pulmonar;&lt;/li&gt;
+  &lt;li&gt;Sibilos podem ser encontrados na “asma cardíaca”;&lt;/li&gt;
+  &lt;li&gt;Derrame pleural (geralmente do lado direito) é frequente na IVE e na IC biventricular, pois a drenagem pleural é dependente do sistema venoso pulmonar e sistêmico.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Respiração de Cheynes-Stokes:&lt;/strong&gt; períodos de apneia alternando-se com períodos de hiperpneia.&lt;/p&gt;
+
 &lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
 
-&lt;p&gt;Critérios de Framinghan: 2 maiores ou 1 maior e 2 menores.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/framingam.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
 
@@ -756,7 +838,34 @@ mmHg) que não responde à reposição volêmica.&lt;/p&gt;
 
 &lt;h3 id=&quot;radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/h3&gt;
 
-&lt;p&gt;O crescimento de VE roda o arco aórtico e pode escondê-lo da radiografia.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cardiomegalia:&lt;/strong&gt; (índice cardiotorácico &amp;gt; 50%) é um achado comum na cardiopatia dilatada, sendo critério MAJOR de Framingham. Um RX normal não é capaz de descartar miocardiopatia dilatada.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sinais de VE aumentado:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Na incidência PA, quando o coração “mergulha” no diafragma;&lt;/li&gt;
+      &lt;li&gt;Incidência em perfil, distanciamento da borda cardíaca posterior do ponto de entrada da veia cava inferior (&amp;gt; 2 cm);&lt;/li&gt;
+      &lt;li&gt;O crescimento de VE roda o arco aórtico e pode escondê-lo da radiografia.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sinais de VD aumentado:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Quando a ponta do coração se eleva (aspecto “em bota”);&lt;/li&gt;
+      &lt;li&gt;Em perfil, aumento da borda anterior cardíaca, ocupando &amp;gt; 1/3 do espaço retroesternal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Aumento dos átrios também pode ser visto;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sinais de congestão pulmonar:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Inversão do padrão vascular, isto é, as veias ficam mais proeminentes nos ápices pulmonares do que nos lobos inferiores (pois o edema intersticial, maior nos lobos inferiores, as comprime);&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Linhas B de Kerley&lt;/strong&gt; (ingurgitamento linfático), linhas paralelas ao diafragma, visualizadas nas regiões laterais dos hemitórax inferiores, na incidência PA.&lt;/li&gt;
+      &lt;li&gt;Infiltrados intersticiais bi ou unilaterais (em geral peri-hilares), devido ao edema intersticial, ou até infiltrado alveolar (no EAP);&lt;/li&gt;
+      &lt;li&gt;Derrame pleural e “tumor fantasma”: o derrame geralmente é bilateral, predominando à direita (pior drenagem linfática).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;eletrocardiograma&quot;&gt;Eletrocardiograma&lt;/h3&gt;
 
 &lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
 
