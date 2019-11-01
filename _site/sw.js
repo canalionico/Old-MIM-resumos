@@ -45,7 +45,11 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cia.html',
+      
         '/cardiologia/ecg3.html',
+      
+        '/pneumologia/ira.html',
       
         '/itrs.html',
       
@@ -342,17 +346,23 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/CG_Heart.gif'
       
+        '/assets/cardiologia/CVS_heart_failure_pt.gif'
+      
         '/assets/cardiologia/Diagram_of_the_human_heart.svg'
       
         '/assets/cardiologia/Wiggers.svg.png'
       
         '/assets/cardiologia/aorta.jpeg'
       
+        '/assets/cardiologia/arritmia-sinusal.jpeg'
+      
         '/assets/cardiologia/aumento-ae.jpeg'
       
         '/assets/cardiologia/aumento-atrial.jpeg'
       
         '/assets/cardiologia/aumento-atrial2.jpeg'
+      
+        '/assets/cardiologia/batimento-de-escape.jpeg'
       
         '/assets/cardiologia/ciclo-cardiaco.png'
       
@@ -377,6 +387,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/diag-has.jpeg'
       
         '/assets/cardiologia/dilat-hipert.jpeg'
+      
+        '/assets/cardiologia/eap.jpeg'
       
         '/assets/cardiologia/ecg-d.png'
       
@@ -432,7 +444,11 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/inervação.jpeg'
       
+        '/assets/cardiologia/insp.jpeg'
+      
         '/assets/cardiologia/intervalos.jpeg'
+      
+        '/assets/cardiologia/marca-passos-não-sinusais.jpeg'
       
         '/assets/cardiologia/ondap.jpeg'
       
@@ -457,6 +473,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/quadrados.jpeg'
       
         '/assets/cardiologia/quadrados2.jpeg'
+      
+        '/assets/cardiologia/resposta-ic.jpeg'
       
         '/assets/cardiologia/revasc.jpeg'
       
@@ -981,6 +999,8 @@ self.addEventListener('install', function (event) {
         '/assets/pneumo/dpoc-risk.jpeg'
       
         '/assets/pneumo/dpp-atb.jpeg'
+      
+        '/assets/pneumo/ira-tab.jpeg'
       
         '/assets/pneumo/tto-dpp.jpeg'
       

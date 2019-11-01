@@ -1,4 +1,155 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-29T11:15:25-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">ECG III - Arritmias</title><link href="http://localhost:4000/cardiologia/ecg3.html" rel="alternate" type="text/html" title="ECG III - Arritmias" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg3</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg3.html"></content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-31T22:03:38-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cia</title><link href="http://localhost:4000/cia.html" rel="alternate" type="text/html" title="Cia" /><published>2019-10-30T00:00:00-03:00</published><updated>2019-10-30T00:00:00-03:00</updated><id>http://localhost:4000/cia</id><content type="html" xml:base="http://localhost:4000/cia.html">&lt;p&gt;Sopro sistólico em foco pulmonar com desdobramento fixo de B2&lt;/p&gt;
+
+&lt;p&gt;Ocorre por causa do shunt do sangue do átrio esquerdo (maior pressão) pro átrio direito (menor pressão). O maior débio sanguíneo do VD vai causar o desdobramento fixo de B2 e uma hipertrofia do VD.&lt;/p&gt;
+
+&lt;p&gt;Com o tempo, a hipertrofia do VD vai aumentar a força dessa câmera, mas com o tempo ele começa a dilatar pois chega na sua limitação de hipertrofia (o VD é mais fino). Isso vai aumentar muito a pressão no AD o que pode provocar uma inversão do fluxo da CIA que passa a ser do AD para o AE. Uma &lt;strong&gt;inversão do shunt&lt;/strong&gt; interatrial.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;eco-te&quot;&gt;ECO TE&lt;/h3&gt;
+
+&lt;p&gt;O eco trans-torácico é melhor para ver a CIA pois o transdutor está separado dos átrios apenas pela parede esofágica e pelas paredes dos átrios. É possível ver o canal da comunicação e dar o diagnóstico.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h3 id=&quot;clínico&quot;&gt;Clínico&lt;/h3&gt;
+
+&lt;p&gt;Indicado quando a cirúrgia não pode ser feita. Por exemplo, quando a pressão arterial pulmonar está muito alta. Se a cirurgia for feita nessa situação, o coração não terá força para vencer a pressão arterial pulmonar e terá congestão sistêmica constante.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG III - Arritmias</title><link href="http://localhost:4000/cardiologia/ecg3.html" rel="alternate" type="text/html" title="ECG III - Arritmias" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg3</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg3.html">&lt;p&gt;O coração em repouso bate com um ritmo regular, de &lt;strong&gt;60 a 100 vezes&lt;/strong&gt;
+por minuto. Como cada batimento se origina da despolarização do nó
+sinoatrial (SA), o ritmo cardíaco habitual do dia a dia é chamado ritmo
+sinusal normal. Qualquer outra ocorrência é chamada de &lt;strong&gt;arritmia&lt;/strong&gt; (ou,
+mais acuradamente, &lt;strong&gt;disritmia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;O termo arritmia se refere a qualquer distúrbio na &lt;strong&gt;frequência&lt;/strong&gt;, na &lt;strong&gt;regularidade&lt;/strong&gt;, no &lt;strong&gt;local&lt;/strong&gt; de origem ou na &lt;strong&gt;condução&lt;/strong&gt; do impulso elétrico cardíaco. Pode ser um único batimento aberrante (ou mesmo uma pausa prolongada entre batimentos) ou um distúrbio de ritmo sustentado que pode persistir por toda a
+vida do paciente.&lt;/p&gt;
+
+&lt;p&gt;Nem toda arritmia é anormal ou perigosa. Por exemplo, frequências cardíacas de 35 a 40 batimentos por minuto são comuns e bastante normais em atletas bem treinados. &lt;strong&gt;Batimentos anormais isolados, que se originam em qualquer outra parte do coração que não o nó SA, frequentemente ocorrem na maioria dos indivíduos saudáveis.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Muitas arritmias passam despercebidas pelo paciente e são descobertas acidentalmente em um exame físico ou ECG de rotina.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Palpitações (acelerações e/ou desacelerações)&lt;/li&gt;
+  &lt;li&gt;Sintomas de baixo débito cardíaco (quando a arritmia compromete a função cardíaca);
+    &lt;ul&gt;
+      &lt;li&gt;Tontura&lt;/li&gt;
+      &lt;li&gt;Síncope&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Angina (arritmias rápidas podem aumentar as demandas de oxigênio do miocárdio e causar angina (dor torácica);&lt;/li&gt;
+  &lt;li&gt;Morte súbita&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O ECG tem se tornado cada vez mais útil para identificar condições que predispõem a arritmias malignas e morte súbita e permite, assim, o início de intervenções salvadoras antes do evento catastrófico. Essas condições podem ser herdadas ou adquiridas. Mais comuns entre elas são as anormalidades de repolarização que prolongam o intervalo QT, um substrato perigoso para arritmias potencialmente fatais (mais detalhes adiante).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;p&gt;O mnemônico &lt;strong&gt;HIS DEBE&lt;/strong&gt; deve lhe ajudar a lembrar dos fatores arritmogênicos que devem ser considerados sempre que se encontra um paciente com arritmia.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;H – Hipoxia:&lt;/strong&gt; um miocárdio privado de oxigênio é um miocárdio irritável. Distúrbios pulmonares, seja doença pulmonar crônica grave ou uma embolia pulmonar aguda, são fatores precipitantes importantes de arritmias cardíacas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;I – Isquemia e irritabilidade:&lt;/strong&gt; a angina, mesmo sem a morte de células miocárdicas associada ao infarto, também é um fator precipitante importante. Ocasionalmente, miocardite, uma inflamação do músculo cardíaco geralmente causada por uma infecção viral, pode causar arritmias.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;S – Estimulação simpática:&lt;/strong&gt; o aumento do tônus simpático, por qualquer causa (hipertireoidismo, insuficiência cardíaca congestiva, nervosismo, exercício, etc.), pode produzir arritmias.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;D – Fármacos:&lt;/strong&gt; ironicamente, os próprios fármacos antiarrítmicos, como a quinidina, estão entre os principais culpados.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;E – Eletrólitos (distúrbios dos):&lt;/strong&gt; a hipocalemia e desequilíbrios do Ca e Mg podem induzir arritmias.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;B – Bradicardia:&lt;/strong&gt; uma FC muito lenta parece predispor a arritmias. Também é possível incluir a síndrome bradi-taqui (também chamada de síndrome do nó SA) nessa categoria.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;E – Estiramento:&lt;/strong&gt; a dilatação e a hipertrofia dos átrios e ventrículos podem produzir arritmias. Esse é um modo pelo qual a ICC e a doença valvular podem causar arritmias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;registro-de-rítmo&quot;&gt;Registro de rítmo&lt;/h2&gt;
+
+&lt;p&gt;Um longo traçado de uma única derivação ou de múltiplas derivações. Qualquer derivação
+pode ser escolhida, mas, obviamente, faz sentido escolher a derivação
+que lhe fornece a maior quantidade de informações. O registro de ritmo
+torna muito mais fácil identificar qualquer irregularidade ou surtos intermitentes de atividade elétrica incomum.&lt;/p&gt;
+
+&lt;h3 id=&quot;holter&quot;&gt;Holter&lt;/h3&gt;
+
+&lt;p&gt;O paciente a usa por 24 a 48 horas e, durante esse período, é armazenado um registro completo
+do ritmo cardíaco do paciente. Este registro, posteriormente, é analisado para a presença de qualquer atividade arrítmica. O monitor pode usar uma ou, mais frequentemente, duas derivações (uma derivação
+precordial e uma dos membros). Claramente, quanto mais tempo durar a monitoração do paciente, maior a chance de detecção da arritmia. O diário do paciente pode, então, ser comparado com o registro do
+Holter para determinar se há uma correlação entre os sintomas do paciente e qualquer arritmia cardíaca subjacente.&lt;/p&gt;
+
+&lt;h2 id=&quot;frequência-cardíaca&quot;&gt;Frequência cardíaca&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Um quadrado pequeno (1 mm) = 0,04 s;&lt;/li&gt;
+  &lt;li&gt;Um quadrado grande (5 mm) = 0,2 s;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cinco quadrados grandes, portanto, constituem 1 segundo.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;método-bizu&quot;&gt;Método bizu&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Encontre uma onda R que caia sobre, ou quase sobre, uma das linhas escuras.&lt;/li&gt;
+  &lt;li&gt;Conte o número de quadrados grandes até a próxima onda R.&lt;/li&gt;
+  &lt;li&gt;Determine a frequência em batimentos por minuto da seguinte maneira:
+    &lt;ul&gt;
+      &lt;li&gt;Se houver um quadrado grande entre ondas R sucessivas, então cada onda R é separada por 0,2 segundo. Portanto, no curso de 1 segundo, haverá cinco ciclos de atividade cardíaca (1 segundo dividido por 0,2 segundo) e em 1 minuto, 300 ciclos;&lt;/li&gt;
+      &lt;li&gt;Se houver dois quadrados grandes entre ondas R sucessivas, então cada onda R é separada por 0,4 segundo. Portanto, no curso de 1 segundo, haverá 2,5 ciclos de atividade cardíaca (1 segundo dividido por 0,4 segundo) e em 1 minuto, 150 ciclos;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Por inferência lógica:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Três quadrados grandes = 100 bpm;&lt;/li&gt;
+  &lt;li&gt;Quatro quadrados grandes = 75 bpm;&lt;/li&gt;
+  &lt;li&gt;Cinco quadrados grandes = 60 bpm;&lt;/li&gt;
+  &lt;li&gt;Seis quadrados grandes = 50 bpm.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Você pode obter as mesmas respostas dividindo 300 pelo  número de quadrados grandes entre as ondas R (p. ex., 300/4 = 75).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Uma acurácia ainda maior pode ser obtida contando o número total de quadrados pequenos entre as ondas R e dividindo 1.500 por este total.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tipos-de-arritmia&quot;&gt;Tipos de arritmia&lt;/h2&gt;
+
+&lt;p&gt;O coração é capaz apenas de cinco tipos básicos de distúrbio de
+ritmo:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Origem sinusal:&lt;/strong&gt; a atividade elétrica segue as vias de condução usuais que já foram delineadas, mas é muito rápida, muito lenta ou irregular;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ritmos ectópicos:&lt;/strong&gt; a atividade elétrica se origina de um foco que não o nó SA;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Arritmias reentrantes:&lt;/strong&gt; a atividade elétrica é aprisionada dentro de um circuito elétrico cuja forma e limites são determinados por várias características miocárdicas elétricas e anatômicas;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bloqueios de condução:&lt;/strong&gt; a atividade elétrica se origina no nó SA e segue a via habitual, mas encontra bloqueios e retardos inesperados;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Síndrome de pré-excitação:&lt;/strong&gt; a atividade elétrica segue vias de condução acessórias que contornam as vias normais, fornecendo um atalho elétrico ou um curto-circuito.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;arritmias-de-origem-sinusal&quot;&gt;Arritmias de origem sinusal&lt;/h2&gt;
+
+&lt;h3 id=&quot;taquicardia-e-bradicardia-sinusal&quot;&gt;Taquicardia e Bradicardia sinusal&lt;/h3&gt;
+
+&lt;p&gt;O ritmo sinusal normal é o ritmo normal do coração. A despolarização se origina espontaneamente dentro do nó SA. A frequência é regular e entre 60 e 100 batimentos por minuto (bpm). Se o ritmo se acelera
+além de 100 bpm, ele é chamado de &lt;strong&gt;taquicardia sinusal&lt;/strong&gt;; se ele fica abaixo de 60 bpm, é chamado de &lt;strong&gt;bradicardia sinusal&lt;/strong&gt;. Estas podem ser normais (como execício intenso ou atletas em repouso) ou patológicas.&lt;/p&gt;
+
+&lt;p&gt;A taquicardia sinusal pode ocorrer em pacientes com ICC ou doença pulmonar grave, ou pode ser o único sinal de hipertireoidismo. A bradicardia sinusal é o distúrbio de ritmo mais comum visto nos estágios iniciais do IAM; em indivíduos saudáveis, em outros aspectos, ela pode ser o resultado de um aumento do tônus vagal e pode causar desmaios.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/arritmia-sinusal.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;arritmia-sinusal&quot;&gt;Arritmia sinusal&lt;/h3&gt;
+
+&lt;p&gt;ECG irá revelar um compasso que parece, em todos os aspectos, ser um ritmo sinusal normal, exceto por ser discretamente irregular. Frequentemente, é um fenômeno normal, refletindo a variação na frequência cardíaca com a inspiração e a expiração. &lt;strong&gt;A inspiração acelera a frequência cardíaca e a expiração a reduz.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/insp.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;parada-sinusal-assistolia-e-batimentos-de-escape&quot;&gt;Parada sinusal, assistolia e batimentos de escape&lt;/h3&gt;
+
+&lt;p&gt;Ocorre quando o nó SA para de estimular o coração. Se nada mais acontecer, o ECG irá mostrar uma linha isoelétrica sem qualquer atividade elétrica, e o paciente morrerá. A inatividade elétrica prolongada é chamada &lt;strong&gt;assistolia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Felizmente, a maioria das células miocárdicas têm a capacidade de se comportar como marca-passo cardíaco. O nó SA suprime as outras células de marca-passo por fornecer a sua onda de despolarização para o miocárdio antes que seus potenciais competidores possam completar a sua despolarização, de forma mais moderada, espontânea. Na parada sinusal, contudo, esses outros marca-passos podem entrar em ação como uma missão de resgate. Esses batimentos de resgate, que se originam fora do nó SA, são chamados &lt;strong&gt;batimentos de escape&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/batimento-de-escape.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;marca-passos-não-sinusais&quot;&gt;Marca-passos não sinusais&lt;/h3&gt;
+
+&lt;p&gt;Assim como o nó SA, que geralmente dispara entre 60 e100 vezes por minuto, estas outras células de marca-passo potenciais têm o seu próprio ritmo intrínseco.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/marca-passos-não-sinusais.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O coração em repouso bate com um ritmo regular, de 60 a 100 vezes por minuto. Como cada batimento se origina da despolarização do nó sinoatrial (SA), o ritmo cardíaco habitual do dia a dia é chamado ritmo sinusal normal. Qualquer outra ocorrência é chamada de arritmia (ou, mais acuradamente, disritmia.</summary></entry><entry><title type="html">Insuficiência respiratória aguda</title><link href="http://localhost:4000/pneumologia/ira.html" rel="alternate" type="text/html" title="Insuficiência respiratória aguda" /><published>2019-10-24T00:00:00-03:00</published><updated>2019-10-24T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/ira</id><content type="html" xml:base="http://localhost:4000/pneumologia/ira.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/ira-tab.jpeg&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#definindo-o-ângulo&quot; id=&quot;markdown-toc-definindo-o-ângulo&quot;&gt;Definindo o ângulo&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#desvios-de-eixo&quot; id=&quot;markdown-toc-desvios-de-eixo&quot;&gt;Desvios de eixo&lt;/a&gt;&lt;/li&gt;
@@ -205,17 +356,65 @@ ventrículo direito.&lt;/p&gt;
   &lt;li&gt;inversão da onda T (ou seja, a onda T altera o seu eixo de modo que ela não mais se alinha com o eixo do QRS).&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-v.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;p&gt;DC = FC x Volume sistólico&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-v.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#conceitos&quot; id=&quot;markdown-toc-conceitos&quot;&gt;Conceitos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#icc&quot; id=&quot;markdown-toc-icc&quot;&gt;ICC&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ic-esquerda&quot; id=&quot;markdown-toc-ic-esquerda&quot;&gt;IC esquerda&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ic-direita&quot; id=&quot;markdown-toc-ic-direita&quot;&gt;IC direita&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ic-biventricular&quot; id=&quot;markdown-toc-ic-biventricular&quot;&gt;IC biventricular&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ic-sistólica&quot; id=&quot;markdown-toc-ic-sistólica&quot;&gt;IC sistólica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ic-diastólica&quot; id=&quot;markdown-toc-ic-diastólica&quot;&gt;IC diastólica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quanto-ao-dc&quot; id=&quot;markdown-toc-quanto-ao-dc&quot;&gt;Quanto ao DC&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#insuficiência-cardíaca-de-baixo-débito&quot; id=&quot;markdown-toc-insuficiência-cardíaca-de-baixo-débito&quot;&gt;Insuficiência Cardíaca de Baixo Débito&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#insuficiência-cardíaca-de-alto-débito&quot; id=&quot;markdown-toc-insuficiência-cardíaca-de-alto-débito&quot;&gt;Insuficiência Cardíaca de Alto Débito&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#mecanismos-compensatórios&quot; id=&quot;markdown-toc-mecanismos-compensatórios&quot;&gt;Mecanismos compensatórios&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#remodelamento-cardíaco&quot; id=&quot;markdown-toc-remodelamento-cardíaco&quot;&gt;Remodelamento cardíaco&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#pós-carga&quot; id=&quot;markdown-toc-pós-carga&quot;&gt;Pós-carga&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#pulso-arterial&quot; id=&quot;markdown-toc-pulso-arterial&quot;&gt;Pulso Arterial&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#pulso-venoso-e-turgência-jugular&quot; id=&quot;markdown-toc-pulso-venoso-e-turgência-jugular&quot;&gt;Pulso Venoso e Turgência Jugular&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#precórdio&quot; id=&quot;markdown-toc-precórdio&quot;&gt;Precórdio&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ausculta&quot; id=&quot;markdown-toc-ausculta&quot;&gt;Ausculta&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#ecocardiograma&quot; id=&quot;markdown-toc-ecocardiograma&quot;&gt;Ecocardiograma&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#radiografia-de-tórax&quot; id=&quot;markdown-toc-radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;VS é proporcional à pré-carga e à contratilidade e inversamente proporcional à pós-carga.&lt;/p&gt;
+&lt;p&gt;É uma condição em que o coração não consegue bombear o sangue de
+acordo com a demanda tecidual, ou só o faz à custa de aumentos na pressão de enchimento (pressão diastólica final). Tais fenômenos se
+acompanham de sintomas correlatos:&lt;/p&gt;
 
-&lt;p&gt;Pré craga: pressão ou volume no final da diástole (até 12 mmHg no VE e até 5 mmHg no VD)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Aumento na pressão de enchimento do VE = síndrome congestiva pulmonar;&lt;/li&gt;
+  &lt;li&gt;Baixo débito = exaustão, síncope ou mesmo choque cardiogênico&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Pós-carga: é a força que o ventriculo deve superar para promover a contração.&lt;/p&gt;
+&lt;p&gt;A insuficiência cardíaca, em poucas palavras,
+é caracterizada por uma inabilidade dos ven-
+trículos se encherem e se esvaziarem de
+sangue adequadamente (isto é, com pressões
+intraventriculares normais).&lt;/p&gt;
 
-&lt;p&gt;É um síndrome clínica na qual o coração falha na sua função de bomba em atender a demanda metabólica do organismo devido ao baixo débito cardiaco, resultando em défict na perfusão tecidual e congestão pulmonar e/ou sistêmica.&lt;/p&gt;
+&lt;p&gt;Sempre lembrar que: &lt;strong&gt;DC = FC x Volume sistólico&lt;/strong&gt;. Sendo que VS é diretamente proporcional à pré-carga e à contratilidade e inversamente proporcional à pós-carga.&lt;/p&gt;
 
-&lt;p&gt;É uma doença crônica e progressiva.&lt;/p&gt;
+&lt;p&gt;É um síndrome clínica na qual o coração falha na sua função de bomba em atender a demanda metabólica do organismo devido ao baixo débito cardiaco, resultando em défict na perfusão tecidual e congestão pulmonar e/ou sistêmica. É uma doença crônica e progressiva.&lt;/p&gt;
 
 &lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
 
@@ -229,60 +428,274 @@ ventrículo direito.&lt;/p&gt;
 
 &lt;p&gt;Disfunção miocárdica: pode ser sistólica ou diastólica.&lt;/p&gt;
 
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+&lt;p&gt;A maioria dos casos é devida à perda de massa miocárdica, cursando com dilatação e/ou hipertrofia compensatória do VE. Essa resposta compensatória envolve &lt;strong&gt;ativação neuro-hormonal&lt;/strong&gt; (sistema
+adrenérgico, sistema renina-angiotensina-aldosterona), e é justamente a hiperatividade neuro-hormonal a responsável direta pelas alterações deletérias observadas no cardiomiócito (isto é, há
+cardiotoxicidade de mediadores como epinefrina, angiotensina II e aldosterona).&lt;/p&gt;
 
-&lt;p&gt;Pode ser&lt;/p&gt;
+&lt;h3 id=&quot;conceitos&quot;&gt;Conceitos&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Sistólica
-    &lt;ul&gt;
-      &lt;li&gt;contratilidade do VE reduzida,&lt;/li&gt;
-      &lt;li&gt;Miocardiopatia isquêmica, dilatada, chagásica, hipertensiva ou idiopática&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Diastólica
-    &lt;ul&gt;
-      &lt;li&gt;Contratilidade do VE normal;&lt;/li&gt;
-      &lt;li&gt;Disfunção diastólica do VE.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diástole:&lt;/strong&gt; fase de enchimento ventricular;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sístole:&lt;/strong&gt; fase de ejeção;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Função Sistólica:&lt;/strong&gt; é a capacidade que o ventrículo possui de ejetar o sangue nas grandes artérias;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Função Diastólica:&lt;/strong&gt; é a capacidade que o ventrículo possui de se encher com o sangue proveniente das grandes veias, sem aumentar significativamente sua pressão intracavitária.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Atenção!! O processo da função diastólica não é passivo, e sim dependente de energia, justificando a disfunção diastólica encontrada em situações como a isquemia (onde ocorre depleção do ATP).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Pré carga:&lt;/strong&gt; pressão ou volume no final da diástole - VDF (até 12 mmHg no VE e até 5 mmHg no VD);
+    &lt;ul&gt;
+      &lt;li&gt;Depende exclusivamente do retorno venoso ao coração;&lt;/li&gt;
+      &lt;li&gt;O retorno venoso, por sua vez, depende da volemia e do tônus do leito venoso (na venocontricção ele aumenta, na venodilatação ele diminui).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pós-carga:&lt;/strong&gt; é a força que o ventriculo deve superar para promover a contração.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Um ventrículo normal contém cerca de 80-150 ml de sangue no final da diástole – &lt;strong&gt;Volume Diastólico Final (VDF)&lt;/strong&gt;. Deste total, aproximadamente 40-100 ml são ejetados a cada batimento – é o &lt;strong&gt;Débito Sistólico (DS)&lt;/strong&gt;. Após ejetar o sangue, o que sobra na cavidade (em torno de 30-60 ml) é o &lt;strong&gt;Volume Sistólico Final (VSF)&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;O fluxo total gerado pelo coração na unidade de tempo é o &lt;strong&gt;Débito Cardíaco (DC)&lt;/strong&gt;, determinado pelo &lt;em&gt;produto do débito sistólico com a  Frequência Cardíaca (FC)&lt;/em&gt; (DC = DS x FC). O valor normal é de 4,5-6,5 L/min.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;Índice Cardíaco (IC)&lt;/strong&gt; é o DC corrigido pela área de superfície corporal. O valor normal do índice cardíaco é de 2,8-4,2 L/min/m².&lt;/p&gt;
+
+&lt;p&gt;A função sistólica pode ser estimada pela &lt;strong&gt;Fração de Ejeção (FE)&lt;/strong&gt;, definida como o &lt;em&gt;percentual do volume diastólico final que é ejetado&lt;/em&gt;, ou seja: FE = DS/VDF x 100. &lt;strong&gt;Normal = 50-70%&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em corações normais, a &lt;strong&gt;pressão diastólica final&lt;/strong&gt; ou
+pressão de enchimento ventricular (ou PD2) varia na faixa de 8-12 mmHg. Como a medida das pressões de enchimento exige métodos invasivos, na prática ambulatorial podemos aferir a função
+diastólica de forma indireta pelo ecocardiograma-Doppler, ao medir a velocidade de fluxo através da valva mitral.&lt;/p&gt;
+
+&lt;h3 id=&quot;icc&quot;&gt;ICC&lt;/h3&gt;
+
+&lt;p&gt;A principal consequência clínica da insuficiência cardíaca é o fenômeno da congestão venocapilar. Como o coração não bombeia
+o sangue adequadamente, uma parte fica estagnada na circulação venosa (incluindo a rede capilar). O consequente aumento na pressão venocapilar provoca extravasamento de líquido para o interstício, determinando seu acúmulo (&lt;strong&gt;edema ou “congestão”&lt;/strong&gt;).&lt;/p&gt;
+
+&lt;h3 id=&quot;ic-esquerda&quot;&gt;IC esquerda&lt;/h3&gt;
+
+&lt;p&gt;A maioria dos casos e cursam com congestão pulmonar. As principais etiologias são: IAM, cardiopatia hipertensiva (por “sobrecarga” ventricular), miocardiopatia idiopática, doença valvar (ex: estenose mitral com aumento da pressão no AE, sem alterações na pressão do VE).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dispneia,&lt;/li&gt;
+  &lt;li&gt;Ortopneia,&lt;/li&gt;
+  &lt;li&gt;Dispneia paroxística noturna&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ic-direita&quot;&gt;IC direita&lt;/h3&gt;
+
+&lt;p&gt;Cursa com congestão sistêmica. São exemplos: cor pulmonale (relacionado à DPOC, obesidade mórbida, pneumopatias, TEP ou HAP primária), infarto do VD e miocardiopatias.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Turgência jugular patológica,&lt;/li&gt;
+  &lt;li&gt;Hepatomegalia,&lt;/li&gt;
+  &lt;li&gt;Ascite,&lt;/li&gt;
+  &lt;li&gt;Edema de MMII.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ic-biventricular&quot;&gt;IC biventricular&lt;/h3&gt;
+
+&lt;p&gt;Há tanto disfunção “esquerda” quanto “direita”. Cursa com congestão pulmonar e sistêmica. A maioria das cardiopatias que levam à insuficiência cardíaca inicia-se como IVE e posteriormente
+evolui com comprometimento do VD. Por isso &lt;strong&gt;se diz que a causa mais comum de IVD é a própria IVE.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;ic-sistólica&quot;&gt;IC sistólica&lt;/h3&gt;
+
+&lt;p&gt;Constitui 50-60% dos casos. O problema está na &lt;strong&gt;perda da capacidade contrátil do miocárdio&lt;/strong&gt;. Na maioria das vezes, a disfunção sistólica provoca &lt;strong&gt;dilatação ventricular&lt;/strong&gt; (cardiopatia dilatada) e tem como marco laboratorial uma &lt;strong&gt;redução significativa da fração de ejeção (≤ 50%)&lt;/strong&gt;. Existem duas
+consequências principais:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Baixo débito cardíaco;&lt;/li&gt;
+  &lt;li&gt;Aumento do volume de enchimento (VDF) e, portanto, da pressão de enchimento ventricular, a qual será transmitida aos átrios e sistema venocapilar (congestão).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;O IAM, a isquemia miocárdica, a fase dilatada da cardiopatia hipertensiva e a miocardiomiopatia dilatada idiopática são exemplos comuns.&lt;/p&gt;
+
+&lt;h3 id=&quot;ic-diastólica&quot;&gt;IC diastólica&lt;/h3&gt;
+
+&lt;p&gt;Constitui 40-50% dos casos. A &lt;strong&gt;contração miocárdica está normal (com FE &amp;gt; 50%)&lt;/strong&gt;, mas existe restrição patológica ao enchimento diastólico, causando elevação nas pressões de enchimento e, consequentemente, aumento da pressão venocapilar (congestão).&lt;/p&gt;
+
+&lt;p&gt;O mecanismo pode ser uma alteração no relaxamento muscular e/ou uma redução na complacência ventricular (“ventrículo duro” por excesso de tecido conjuntivo). Na maioria das vezes existe &lt;strong&gt;hipertrofia muscular concêntrica&lt;/strong&gt;, com redução da cavidade. A fase hipertrófica da cardiopatia hipertensiva e a cardiomiopatia hipertrófica são os principais exemplos.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/CVS_heart_failure_pt.gif&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;quanto-ao-dc&quot;&gt;Quanto ao DC&lt;/h3&gt;
+
+&lt;h4 id=&quot;insuficiência-cardíaca-de-baixo-débito&quot;&gt;Insuficiência Cardíaca de Baixo Débito&lt;/h4&gt;
+
+&lt;p&gt;Constitui a maioria dos casos. A disfunção sistólica do VE reduz o Débito Cardíaco (DC), causando hipoperfusão tecidual. Nas fases iniciais o DC pode se manter normal no estado de repouso, mas durante esforço físico
+o aumento fisiológico do DC não acontece. Na fase avançada, por sua vez, o DC estará reduzido mesmo em repouso&lt;/p&gt;
+
+&lt;p&gt;Já na IC diastólica também se observa uma limitação do
+DC, especialmente durante a atividade física.&lt;/p&gt;
+
+&lt;h4 id=&quot;insuficiência-cardíaca-de-alto-débito&quot;&gt;Insuficiência Cardíaca de Alto Débito&lt;/h4&gt;
+
+&lt;p&gt;Ocorre nas condições que exigem um maior trabalho cardíaco, seja para atender a demanda metabólica (tireotoxicose, anemia grave) ou pelo desvio de sangue do leito arterial para o venoso, através de fístulas arteriovenosas (beribéri, sepse, cirrose, doença de Paget óssea, hemangiomas). Em todos esses casos, apesar do débito cardíaco estar alto, ele está abaixo do desejado em face da alta requisição da função cardíaca.&lt;/p&gt;
+
+&lt;h3 id=&quot;mecanismos-compensatórios&quot;&gt;Mecanismos compensatórios&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Lei de Frank-Starling:&lt;/strong&gt; quanto maior for o Volume Diastólico Final (VDF ou &lt;em&gt;pré-carga&lt;/em&gt;), maior será o débito sistólico e a fração de ejeção!&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Um maior volume diastólico distende mais os sarcômeros, permitindo aos filamentos de actina e miosina um maior potencial para interação bioquímica e gasto energético. Por esse motivo, o &lt;strong&gt;ventrículo dilata, aumentando o VDF e, com isso, evitando a queda do DC&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Contudo, um aumento excessivo do VDF acabará dificultando a performance ventricular, com desestruturação da mecânica das fibras, levando ao aumento das pressões de enchimento e à redução do débito sistólico. A tendência é a evolução para a ICC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contratilidade dos Miócitos Remanescentes:&lt;/strong&gt; os miócitos restantes são ativados pelo sistema nervoso simpático (adrenérgico) e “sobrecarregados” para manter o débito cardíaco.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hipertrofia Ventricular Esquerda:&lt;/strong&gt; o principal mecanismo compensatório inicial nos casos de sobrecarga de pressão ou volume ventriculares. Além de aumentar o número de sarcômeros e, portanto, a capacidade contrátil total, também reduz a tensão ou estresse da parede ventricular, melhorando a performance cardíaca.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Quando o processo inicial é a perda de miócitos, a hipertrofia compensatória pode ocorrer nos miócitos remanescentes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Na &lt;strong&gt;sobrecarga de pressão&lt;/strong&gt; (hipertensão arterial, estenose aórtica), ocorre uma &lt;strong&gt;hipertrofia concêntrica&lt;/strong&gt;, isto é, aumento da espessura da parede ventricular, sem aumentar a cavidade.&lt;/li&gt;
+  &lt;li&gt;Na &lt;strong&gt;sobrecarga de volume&lt;/strong&gt; (regurgitações valvares), ocorre &lt;strong&gt;hipertrofia excêntrica&lt;/strong&gt;, isto é, aumento da cavidade predominando sobre o aumento da espessura da parede ventricular.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A angiotensina II é um dos principais agentes indutores de hipertrofia ventricular na insuficiência cardíaca! Embora seja um mecanismo compensatório, a HVE traz sérios problemas: arritmogênese, piora da função diastólica, além de ser um fator de risco independente para eventos cardiovasculares.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aumento da Frequência Cardíaca:&lt;/strong&gt; o que não pode ser compensado pelo aumento do débito sistólico em si pode ser alcançado pelo aumento da frequência cardíaca, mantendo, assim, o DC estável. O sistema adrenérgico se encarrega de aumentar o cronotropismo, agindo sobre os &lt;em&gt;receptores beta-1 no nódulo sinusal&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/resposta-ic.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;remodelamento-cardíaco&quot;&gt;Remodelamento cardíaco&lt;/h3&gt;
+
+&lt;p&gt;Os mesmos mediadores neuro-humorais que inicialmente mantêm o
+paciente compensado (sistema adrenérgico, sistema renina-angiotensina-aldosterona - SRAA) passam a exercer efeito deletério sobre a própria função miocárdica. A parede ventricular
+será alongada, e sua espessura será reduzida. A forma elipsoide da cavidade é substituída por um formato esférico, prejudicando a funçao verntrícular.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A queda no DC é percebida pelos barorreceptores periféricos que estimulam um aumento no tônus adrenérgico;
+    &lt;ul&gt;
+      &lt;li&gt;A noradrenalina, além de seus efeitos cardiotrópicos, estimula diretamente a liberação renal de renina;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A hipoperfusão renal ativa o SRAA devido à diminuição do sódio filtrado que alcança a mácula densa e à hipodistensão da arteríola aferente glomerular;&lt;/li&gt;
+  &lt;li&gt;A angiotensina e a aldosterona, também possuem o efeito de estimular a produção (ou inibir a recaptação) de noradrenalina.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Noradrenalina:&lt;/strong&gt; age sobre receptores beta-1 e beta-2 e desencadeia a injúria do miócito (efeito “miocardiotóxico” das catecolaminas). O miócito se torna alongado e hipofuncionante,
+podendo evoluir com apoptose. Como uma espécie de “defesa”, o número de receptores beta-adrenérgicos é reduzido na IC cardíaca avançada (downregulation).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Angiotensina II:&lt;/strong&gt; age sobre os receptores AT1, promove os seguintes efeitos danosos: apoptose do miócito, proliferação de fibroblastos, liberação local de noradrenalina e da própria
+angiotensina. A ação pelos receptores AT2 ainda é desconhecida.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aldosterona:&lt;/strong&gt; agindo sobre receptores citoplasmáticos leva à hiperproliferação de fibroblastos.&lt;/p&gt;
+
+&lt;h3 id=&quot;pós-carga&quot;&gt;Pós-carga&lt;/h3&gt;
+
+&lt;p&gt;É a “dificuldade” imposta ao esvaziamento ventricular. Se expressa na tensão da parede miocárdica durante a sístole. O aumento da pós-carga reduz o débito sistólico, e eleva o consumo miocárdico de oxigênio. Ou seja, tudo que dificulta a ejeção ventricular faz
+parte da pós-carga.&lt;/p&gt;
+
+&lt;p&gt;O principal fator é o tônus arteriolar periférico. A vasoconstrição arteriolar aumenta a pós-carga, enquanto a vasodilatação
+a reduz.&lt;/p&gt;
+
+&lt;p&gt;O aumento na impedância aórtica (por calcificação) e a estenose da valva aórtica são outros possíveis mecanismos de aumento da pós-carga. Finalmente, o fator relacionado à própria geometria ventricular tem um papel de extrema importância, através da lei de Laplace.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lei de Laplace:&lt;/strong&gt; o “estresse” na parede ventricular (E) é diretamente proporcional ao raio cavitário (R) e à pressão intracavitária (P), sendo inversamente proporcional à espessura da parede (h). Está representada da seguinte forma: E = P x R/h.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ou seja: um ventrículo que apresenta diâmetro cavitário muito grande e parede fina precisa fazer um esforço muito maior para ejetar o sangue do que um ventrículo de cavidade menor e maior espessura de parede! Se precisa fazer um esforço maior, é porque sua pós-carga é maior.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Na fase sintomática da insuficiência cardíaca
+o ventrículo trabalha com uma pós-carga elevada, devido a três fatores: (1) vasoconstrição arteriolar periférica; (2) retenção hídrica, levando ao aumento do volume diastólico ventricular; (3) remodelamento cardíaco – maior relação R/h. A redução medicamentosa da pós-carga exerce efeito benéfico sobre a performance cardíaca!&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
 
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
 
+&lt;p&gt;No início os pacientes ficam assintomáticos por vários anos justamente por causa dos mecanismos de compensação que mantêm o DC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Síndrome Congestiva Pulmonar:&lt;/strong&gt; na maioria das vezes a IC começa com o comprometimento do VE. O que gera uma congestão pulmonar com  acúmulo de líquido intersticial e intra-alveolar. Inicialmente surge a dispnéia aos esforços.&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Dispnéia&lt;/li&gt;
-  &lt;li&gt;Ortopneia&lt;/li&gt;
-  &lt;li&gt;Dispneia paroxística noturna&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dispnéia&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ortopneia&lt;/strong&gt; (redistribuição de líquido da circulação esplâncnica e dos MMII para a circulação central);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dispneia paroxística noturna:&lt;/strong&gt; acordar no meio da noite por uma crise de franca dispneia, que melhora após alguns minutos em ortostatismo;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tosse seca:&lt;/strong&gt; mais noturna, por congestão da mucosa brônquica;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Asma cardíaca:&lt;/strong&gt; a congestão brônquica mais acentuada pode levar a um quadro semelhante ao broncoespasmo;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Edema Agudo de Pulmão:&lt;/strong&gt; o extremo da congestão pulmonar. O paciente apresenta intensa crise de taquidispneia e ortopneia, associada à insuficiência respiratória, às vezes com cianose central (hipoxemia grave). Por vezes o paciente &lt;strong&gt;expectora um líquido róseo&lt;/strong&gt;, proveniente do edema alveolar abundante. O exame físico revela estertoração pulmonar audível acima da metade inferior dos hemitórax. Pode haver sibilos difusos (“asma cardíaca”). Se não tratado, o quadro leva a óbito.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;O EAP costuma ocorrer quando a pressão capilar pulmonar ultrapassa 25 mmHg (normal = até 12 mmHg). A radiografia de tórax mostra dilatação vascular nos ápices e infiltrado bilateral em “asa de borboleta” ou “de morcego”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/eap.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Síndrome Congestiva Sistêmica:&lt;/strong&gt; com o avançar da disfunção de VE, há surgimento progressivo de hipertensão arterial pulmonar secundária. Com o tempo, o VD sobrecarregado acaba entrando em falência, instalando-se o quadro da insuficiência biventricular.&lt;/p&gt;
+
+&lt;p&gt;Ou, a própria doença primária já pode começar a acometer diretamente o VD.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Edema de MMII,&lt;/li&gt;
+  &lt;li&gt;Edema de bolsa escrotal,&lt;/li&gt;
+  &lt;li&gt;Aumento do volume abdominal (ascite),&lt;/li&gt;
+  &lt;li&gt;Dispneia por derrame pleural,&lt;/li&gt;
+  &lt;li&gt;Dor abdominal em hipocôndrio direito devido à hepatomegalia congestiva.&lt;/li&gt;
+  &lt;li&gt;Congestão da mucosa intestinal: pode levar à saciedade precoce, dor abdominal difusa, náuseas, diarreia e, em raros casos, enteropatia perdedora de proteína.&lt;/li&gt;
   &lt;li&gt;Fadiga e fraqueza&lt;/li&gt;
-  &lt;li&gt;Sintomas abdominais&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Várias formas de apresentação,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Síndrome de Baixo Débito:&lt;/strong&gt; é mais comum e mais acentuada na IC sistólica. Aparece inicialmente aos esforços, devido à incapacidade do coração em aumentar o débito durante o esforço ou qualquer situação de estresse. A maioria dos sintomas é secundária à inadequada perfusão muscular durante o esforço físico e se confundem com os de uma síndrome “geral”:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Aguda ou crônica&lt;/li&gt;
-  &lt;li&gt;Direita ou esquerda&lt;/li&gt;
-  &lt;li&gt;Sistólica ou diastólica&lt;/li&gt;
-  &lt;li&gt;Alto ou baixo débito&lt;/li&gt;
-  &lt;li&gt;Retrógrada ou anterógrada&lt;/li&gt;
+  &lt;li&gt;Fadiga muscular,&lt;/li&gt;
+  &lt;li&gt;Indisposição, mialgia, cansaço,&lt;/li&gt;
+  &lt;li&gt;Lipotímia.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Emagrecimento e “Caquexia Cardíaca”:&lt;/strong&gt; o paciente com IC tende a perder massa muscular, pois há um desbalanço entre o DC e
+a demanda metabólica da musculatura esquelética. Além do mais, pode haver redução na absorção intestinal de nutrientes (congestão mucosa).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Choque Cardiogênico:&lt;/strong&gt; é o extremo da insuficiência cardíaca, manifestação comum nas formas agudas graves (ex.: IAM anterior extenso) ou como fenômeno terminal da forma crônica de ICC. É definido clinicamente pelo estado de choque (hipoperfusão orgânica generalizada), associado à hipotensão grave (PA sistólica &amp;lt; 80
+mmHg) que não responde à reposição volêmica.&lt;/p&gt;
 
 &lt;p&gt;Uma hipertensão pulmonar pode acometer apenas o VD e gerar uma &lt;em&gt;cor pulmonale&lt;/em&gt;.&lt;/p&gt;
 
 &lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
 
+&lt;p&gt;Pesquisar sinais de aumento da pressão venosa jugular (o sinal mais fidedigno para detectar a presença de retenção de volume é a turgência de jugular). Avaliar presença de B3 na ausculta cardíaca.&lt;/p&gt;
+
+&lt;h3 id=&quot;pulso-arterial&quot;&gt;Pulso Arterial&lt;/h3&gt;
+
+&lt;p&gt;No início do processo o pulso arterial é normal. Em fases avançadas pode ser de baixa amplitude, devido ao baixo DC.&lt;/p&gt;
+
 &lt;ul&gt;
-  &lt;li&gt;Pele fria&lt;/li&gt;
-  &lt;li&gt;Sudorese&lt;/li&gt;
-  &lt;li&gt;Pulso filiforme&lt;/li&gt;
-  &lt;li&gt;Estertores pulmonares&lt;/li&gt;
-  &lt;li&gt;Asciste&lt;/li&gt;
-  &lt;li&gt;Icterícia&lt;/li&gt;
-  &lt;li&gt;Hepatomegalia congestiva&lt;/li&gt;
-  &lt;li&gt;Estase jugular&lt;/li&gt;
-  &lt;li&gt;Edema MMII&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pulso alternans:&lt;/strong&gt; alternância de um pulso forte com um pulso fraco. É um sinal de débito sistólico extremamente baixo que reflete péssimo prognóstico!
+    &lt;ul&gt;
+      &lt;li&gt;Após uma contração eficaz o miocárdio doente demora para se recuperar, logo, o próximo batimento será fraco.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pulso total alternans:&lt;/strong&gt; quando o fenômeno é extremo. Só percebemos o pulso mais forte, o que reduz falsamente a FC para a metade, quando contada no pulso arterial.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;pulso-venoso-e-turgência-jugular&quot;&gt;Pulso Venoso e Turgência Jugular&lt;/h3&gt;
+
+&lt;p&gt;Um dado fundamental. &lt;em&gt;A turgência jugular patológica a 45° (TJP) é um sinal fidedigno e precoce de IVD&lt;/em&gt;. O pulso venoso pode apresentar alterações em seu aspecto: aumento da onda A, devido às elevadas pressões de enchimento no VD, ou a presença da onda V gigante, consequente à insuficiência tricúspide secundária à dilatação do VD. Uma manobra muito importante no diagnóstico da congestão sistêmica é a pesquisa do &lt;strong&gt;refluxo hepatojugular&lt;/strong&gt;, muitas vezes presente antes mesmo da TJP. Nessa manobra faz-se pressão sobre o QSD do abdome observando se haverá aumento na altura do pulso jugular &amp;gt; 1 cm. Se houver, diz-se que o refluxo hepatojugular está presente.&lt;/p&gt;
+
+&lt;h3 id=&quot;precórdio&quot;&gt;Precórdio&lt;/h3&gt;
+
+&lt;p&gt;O exame do precórdio depende do tipo de cardiopatia, se dilatada, hipertrófica ou restritiva.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Cardiopatia dilatada:&lt;/strong&gt; o ictus de VE costuma ser difuso (mais de duas polpas digitais) e fraco e, algumas vezes, desviado para a esquerda (lateral à linha hemiclavicular) e para baixo (inferior ao 5º EIC).
+    &lt;ul&gt;
+      &lt;li&gt;O ictus de VD pode ser palpável e proeminente.&lt;/li&gt;
+      &lt;li&gt;A relação entre os ictus de VE e VD depende de qual ventrículo está mais acometido.&lt;/li&gt;
+      &lt;li&gt;Um batimento protodiastólico e/ou um pré-sistólico podem ser palpáveis e até visíveis no ápex (corresponde à B3 e B4, respectivamente).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cardiopatia hipertrófica:&lt;/strong&gt; o ictus de VE costuma estar localizado em posição normal, porém é “sustentado” (pico sistólico “forte” e duradouro).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Cardiopatia restritiva:&lt;/strong&gt; o ictus de VE geralmente não se altera.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ausculta&quot;&gt;Ausculta&lt;/h3&gt;
 
 &lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
 
@@ -335,12 +748,36 @@ ventrículo direito.&lt;/p&gt;
       &lt;li&gt;Linhas B de Kerley (edema intersticial)&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Ecocardiograma&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h3 id=&quot;ecocardiograma&quot;&gt;Ecocardiograma&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Fração de ejeção:&lt;/strong&gt; é o percentual de sangue que o ventrículo ejeta para a aorta na sístole. Assim, Se no final da diástole o ventrículo tem 100 mL de sangue e no final da sístole tem 40 mL, subentende-se que 60mL de sangue foram ejetados para a aorta. 60mL de 100 mL – 60% de fração de ejeção.&lt;/p&gt;
+
+&lt;h3 id=&quot;radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/h3&gt;
+
+&lt;p&gt;O crescimento de VE roda o arco aórtico e pode escondê-lo da radiografia.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;O tratamento visa justamente o bloqueio da ativação neuro-hormonal.&lt;/p&gt;
+
+&lt;p&gt;Inibidores da ECA,
+Bloqueadores do receptor AT1 de angiotensina II,
+Betabloqueadores
+Antagonistas da aldosterona.&lt;/p&gt;
 
 &lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
 
-&lt;p&gt;Escore de Adhere para avaliação da mortalidade intra-hospitalar&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">DC = FC x Volume sistólico</summary></entry><entry><title type="html">Itrs</title><link href="http://localhost:4000/itrs.html" rel="alternate" type="text/html" title="Itrs" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/itrs</id><content type="html" xml:base="http://localhost:4000/itrs.html">&lt;p&gt;As celulas que chegam primeiro no sítio da lesão são os PMN, iniciando a inflamação. Depois chegam os linfócitos e os monócitos formando o infiltrado linfomononuclear que caracteriza a inflamação crônica (em torno de 3 meses).&lt;/p&gt;
+&lt;p&gt;Escore de Adhere para avaliação da mortalidade intra-hospitalar&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;https://cardiopapers.com.br/curso-basico-de-eco-como-estimar-a-fracao-de-ejecao-do-ventriculo-esquerdo/&lt;/li&gt;
+  &lt;li&gt;Aula&lt;/li&gt;
+  &lt;li&gt;Medcurso Cardio 2 de 2018&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Itrs</title><link href="http://localhost:4000/itrs.html" rel="alternate" type="text/html" title="Itrs" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/itrs</id><content type="html" xml:base="http://localhost:4000/itrs.html">&lt;p&gt;As celulas que chegam primeiro no sítio da lesão são os PMN, iniciando a inflamação. Depois chegam os linfócitos e os monócitos formando o infiltrado linfomononuclear que caracteriza a inflamação crônica (em torno de 3 meses).&lt;/p&gt;
 
 &lt;p&gt;No trato respiratório superior a mucosa acometida é a mucosa respirtatória. Essa mucosa troca gases e também secreta uma secreção musoca.&lt;/p&gt;
 
@@ -670,260 +1107,4 @@ pos: causadas por micro-organismos típicos e causadas por micro-organismos atí
 &lt;ul&gt;
   &lt;li&gt;Parar de fumar
 *&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">GOLD 2019.</summary></entry><entry><title type="html">Arteriosclerose</title><link href="http://localhost:4000/cardiologia/arteriosclerose.html" rel="alternate" type="text/html" title="Arteriosclerose" /><published>2019-10-16T00:00:00-03:00</published><updated>2019-10-16T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/arteriosclerose</id><content type="html" xml:base="http://localhost:4000/cardiologia/arteriosclerose.html">&lt;p&gt;Células espumosas e formação do ateroma.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Células espumosas e formação do ateroma.</summary></entry><entry><title type="html">ECG I - Fundamentos</title><link href="http://localhost:4000/cardiologia/ecg.html" rel="alternate" type="text/html" title="ECG I - Fundamentos" /><published>2019-10-15T00:00:00-03:00</published><updated>2019-10-15T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#derivações&quot; id=&quot;markdown-toc-derivações&quot;&gt;Derivações&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#verticais&quot; id=&quot;markdown-toc-verticais&quot;&gt;Verticais&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#horizontais&quot; id=&quot;markdown-toc-horizontais&quot;&gt;Horizontais&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ondas-intervalos-e-segmentos&quot; id=&quot;markdown-toc-ondas-intervalos-e-segmentos&quot;&gt;Ondas, intervalos e segmentos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ritmo&quot; id=&quot;markdown-toc-ritmo&quot;&gt;Ritmo&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#ritmo-sinusal&quot; id=&quot;markdown-toc-ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ritmo-ventricular&quot; id=&quot;markdown-toc-ritmo-ventricular&quot;&gt;Ritmo ventricular&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#extrassístole&quot; id=&quot;markdown-toc-extrassístole&quot;&gt;Extrassístole&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#frequência&quot; id=&quot;markdown-toc-frequência&quot;&gt;Frequência&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As células cardíacas, em seu estado de repouso, são eletricamente polarizadas, ou seja, o seu meio interno é carregado negativamente em relação
-ao seu meio externo.&lt;/p&gt;
-
-&lt;p&gt;Sempre que vamos analizar um ECG, nós olhamos:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Velocidade&lt;/li&gt;
-  &lt;li&gt;Calibração&lt;/li&gt;
-  &lt;li&gt;Ritmo&lt;/li&gt;
-  &lt;li&gt;Frequência&lt;/li&gt;
-  &lt;li&gt;Intervalos&lt;/li&gt;
-  &lt;li&gt;Eixo&lt;/li&gt;
-  &lt;li&gt;Sobrecargas&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
-
-&lt;p&gt;Uma onda de despolarização se movendo em direção ao eletrodo positivo causa uma deflexão positiva no ECG. Uma onda de despolarização se movendo para longe de um eletrodo positivo causa uma deflexão negativa.&lt;/p&gt;
-
-&lt;p&gt;O que o ECG irá registrar se o eletrodo positivo for colocado no
-meio da célula? Inicialmente, à medida que a frente da onda se aproxima do eletrodo, o ECG registra uma deflexão positiva. Depois, no momento exato em que a onda atinge o eletrodo, as cargas positiva e negativa são equilibradas e essencialmente se neutralizam.
-O registro do ECG retorna à linha de base. À medida que a onda de despolarização se afasta, é inscrita uma deflexão negativa.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ecg1.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ecg2.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ecg3.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ecg4.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Os efeitos da repolarização sobre o ECG são similares aos da despolarização, exceto que as cargas são invertidas. Uma onda de repolarização movendo-se em direção a um eletrodo positivo inscreve uma deflexão negativa no ECG.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ecg5.jpeg&quot; alt=&quot;Onda carga&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;derivações&quot;&gt;Derivações&lt;/h2&gt;
-
-&lt;p&gt;São 12 derivações principais.&lt;/p&gt;
-
-&lt;h3 id=&quot;verticais&quot;&gt;Verticais&lt;/h3&gt;
-
-&lt;p&gt;As 6 derivações dos membros veem o coração sobre um plano vertical, sendo:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Derivações padrões:
-    &lt;ul&gt;
-      &lt;li&gt;DI é criada tornando o braço esquerdo positivo e o braço direito negativo (0°);&lt;/li&gt;
-      &lt;li&gt;DII é criada tornando as pernas positivas e o braço direito negativo (60°);&lt;/li&gt;
-      &lt;li&gt;DIII é criada tornando as pernas positivas e o braço esquerdo negativo (120°);&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Derivações aumentadas:
-    &lt;ul&gt;
-      &lt;li&gt;aVL é criada tornando o braço esquerdo positivo e os outros membros negativos (–30°);&lt;/li&gt;
-      &lt;li&gt;aVR é criada tornando o braço direito positivo e os outros membros negativos (–150°);&lt;/li&gt;
-      &lt;li&gt;aVF é criada tornando as pernas positivas e os outros membros negativo (+90°).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/circulo-ecg.jpeg&quot; alt=&quot;D&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/circulo-ecg2.jpeg&quot; alt=&quot;D&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/tabela-ecg.jpeg&quot; alt=&quot;Lados&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;horizontais&quot;&gt;Horizontais&lt;/h3&gt;
-
-&lt;p&gt;As 6 derivações precordiais, ou derivações torácicas, são ainda mais fáceis de compreender. Elas são dispostas no tórax em um plano horizontal. Cada eletrodo torácico é tornado positivo, um de cada vez, e todo o corpo é tido como um campo comum. Os seis eletrodos positivos, que criam as derivações precordiais de V1 a V6, são posicionados como explicado a seguir:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;V1 é colocado no 4 EIC à direita do esterno;&lt;/li&gt;
-  &lt;li&gt;V2 é colocado no 4 EIC à esquerda do esterno;&lt;/li&gt;
-  &lt;li&gt;V3 é colocado entre V2 e V4;&lt;/li&gt;
-  &lt;li&gt;V4 é colocado no 5 EIC, na linha mesoclavicular;&lt;/li&gt;
-  &lt;li&gt;V5 é colocado entre V4 e V6;&lt;/li&gt;
-  &lt;li&gt;V6 é colocado no 5 EIC, na linha axilar média.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/precordiais-ecg.jpeg&quot; alt=&quot;Lados&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/precordiais-ecg2.jpeg&quot; alt=&quot;Lados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A derivação V1 fica diretamente sobre o ventrículo direito, V2 e V3, sobre o septo interventricular, V4, sobre o ápice do ventrículo esquerdo, e V5 e V6, sobre a lateral do ventrículo esquerdo.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Anterior:&lt;/strong&gt; V2, V3, V4;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lateral esquerda:&lt;/strong&gt; I, aVL, V5, V6;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Inferiores:&lt;/strong&gt; II, III, aVF;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ventricular direita:&lt;/strong&gt; aVR, V1;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ondas-intervalos-e-segmentos&quot;&gt;Ondas, intervalos e segmentos&lt;/h2&gt;
-
-&lt;p class=&quot;alert aviso-yellow&quot;&gt;Onda P: despolarização atrial. A primeira metade coresponde ao AD e a segunda ao AE; previsivelmente, a derivação III, com frequência, registra uma onda P bifásica (embora não é incomum que ela seja negativa em corações perfeitamente normais). aVR registra uma deflexão puramente negativa. V5 e V6 registram uma deflexão positiva, V1 registra
-uma onda bifásica, V2 a V4 são variáveis. A amplitude da onda P normalmente não excede 0,25
-mV (2,5 mm, ou 2,5  quadrados pequenos) em qualquer derivação. A amplitude da onda P geralmente é mais positiva na derivação II e mais negativa na derivação aVR.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondap2.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ondap3.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/ondap4.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Intervalo PR:&lt;/strong&gt; representa o tempo desde o início da despolarização atrial até o início da despolarização ventricular. Ele inclui o &lt;strong&gt;retardo na condução que ocorre no nó AV&lt;/strong&gt;. O intervalo PR normalmente dura de 0,12 a 0,20 segundos (de &lt;strong&gt;3 a 5 mm&lt;/strong&gt; no papel do ECG).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Segmento PR:&lt;/strong&gt; representa o tempo do final da despolarização atrial até o início da despolarização ventricular. Geralmente é horizontal e corre ao longo da mesma linha de base do início da onda P.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/intervalos.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Complexo QRS&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;p&gt;Represeta a despolarização ventricular&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Onda Q:&lt;/strong&gt; o septo interventricular, a parede de músculo que separa os ventrículos
-direito e esquerdo, é o primeiro a se despolarizar e o faz da esquerda para
-a direita. O pequeno fascículo septal do ramo esquerdo é responsável por
-fornecer rapidamente a onda de despolarização para esta região do coração. Nem sempre é visivel no eletro. Quando é visível, essa pequena despolarização inscreve uma pequena deflexão negativa em uma ou várias derivações laterais esquerdas, portanto, em I, aVL, V5 e V6. Às vezes, pequenas ondas Q também podem ser vistas nas derivações inferiores e em V3 e V4. Normalmente tem uma amplitude menor que 0,1 mV.&lt;/p&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondaq.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;O restante do miocárdio ventricular se despolariza:&lt;/strong&gt;  Normalmente, esse vetor aponta para algum lugar entre 0 e 90 graus. No plano frontal, portanto, grandes deflexões positivas (&lt;strong&gt;ondas R&lt;/strong&gt;) podem ser vistas nas derivações laterais esquerdas e inferiores. A derivação aVR, que fica à direita, registra uma deflexão negativa profunda (&lt;strong&gt;onda S&lt;/strong&gt;). V1, que fica sobre o ventrículo
-direito, geralmente registra ondas S profundas, já que a corrente está se movendo para a esquerda, para longe dela. Reciprocamente, as derivações V5 e V6, que ficam sobre o ventrículo esquerdo, registram ondas R positivas altas. V3 e V4 representam uma zona de transição, e geralmente uma dessas derivações registra uma onda bifásica, ou seja, uma onda R e uma onda S de amplitude quase igual.&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Progressão de onda R:&lt;/strong&gt; padrão de onda R de amplitude crescente que se move da direita para a esquerda nas derivações precordiais. V1 tem a menor onda R; V5, a maior (a onda R em V6 geralmente é um pouco menor do que em V5).&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Zona de transição:&lt;/strong&gt; a derivação precordial, ou derivações, nas quais o complexo QRS se modifica
-de predominantemente negativo para predominantemente positivo. A zona de transição normal ocorre nas derivações V3 e V4.&lt;/p&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/prog-ondap.png&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/rs.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/progressao-ondap.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Intervalo QRS:&lt;/strong&gt; representa a duração do complexo QRS, tem 0,06 a 0,1 segundo de duração.&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Segmento ST:&lt;/strong&gt; em geral é horizontal ou levemente ascendente em todas as derivações. Ele representa o tempo entre o final da despolarização ventricular até o início da repolarização ventricular.&lt;/p&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;Onda T:&lt;/strong&gt; representa a repolarização ventricular. Ao contrário da despolarização, que é amplamente passiva, a repolarização requer o gasto de uma grande quantidade de energia celular
-(lembre-se da bomba da membrana). A onda T é altamente suscetível a todos os tipos de influências, tanto cardíacas quanto não cardíacas (p. ex., hormonais, neurológicas) e, portanto, tem aspecto variável.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;No coração normal, a repolarização geralmente começa na última área a ser despolarizada e depois viaja de volta no sentido oposto. Como tanto a onda de despolarização que se aproxima quanto a onda de repolarização que se afasta geram uma deflexão positiva no ECG, os mesmos eletrodos que registraram uma deflexão positiva durante a despolarização (aparecendo como uma onda R alta) também  geralmente irão registrar uma deflexão positiva durante a repolarização (aparecendo como uma onda T positiva). &lt;strong&gt;Portanto, é típico e normal encontrar ondas T positivas nas mesmas derivações que têm ondas R altas&lt;/strong&gt;. A amplitude, ou altura, de uma onda T normal é de 1 a 2 terços da onda R correspondente.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondat.jpeg&quot; alt=&quot;Intervalos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Intervalo QT:&lt;/strong&gt; engloba o tempo do início da despolarização ventricular até o final da repolarização ventricular. Dessa forma, ele inclui todos os eventos elétricos que ocorrem nos ventrículos. Do ponto de vista temporal, a maior parte do intervalo QT é dedicada à repolarização
-ventricular do que à despolarização (isto é, a onda T é mais larga do que o complexo QRS.
-A duração do intervalo QT é proporcional à FC. Quanto mais rápido o coração bater, mais rápido ele precisa se repolarizar para se preparar para a próxima contração; assim, também será mais
-curto o intervalo QT. Inversamente, quando o coração está batendo devagar, há pouca urgência em se repolarizar e o intervalo QT é longo. De um modo geral, o intervalo QT compreende cerca de 40% do ciclo cardíaco, quando medido de uma onda R até a outra.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Complexo QRS: despolarização ventricular;&lt;/li&gt;
-  &lt;li&gt;Onda T: repolarização ventricular;&lt;/li&gt;
-  &lt;li&gt;Onda U&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;ritmo&quot;&gt;Ritmo&lt;/h2&gt;
-&lt;h3 id=&quot;ritmo-sinusal&quot;&gt;Ritmo sinusal&lt;/h3&gt;
-
-&lt;p&gt;Ritmo sinusal é aquele originado no &lt;strong&gt;nó sinusal&lt;/strong&gt;, conduzido aos ventrículos com intervalo entre &lt;strong&gt;120 ms e 200 ms&lt;/strong&gt;. Em sua normalidade o ECG registra ritmo sinusal de uma maneira muito simples: tem que ter onda P (representante da despolarização dos átrios) e QRS. Deve ser &lt;strong&gt;positiva em DI, DII e aVF&lt;/strong&gt; e &lt;strong&gt;negativa em aVR&lt;/strong&gt;, em que deve ser negativa. Lembrar que as vezes as vezes a onda P pode ser negativa em DIII.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Ritmo sinusal
-&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;Onda P positiva em:
-      &lt;ul&gt;
-        &lt;li&gt;DI, DII e aVF&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-    &lt;li&gt;Onda P negativa em:
-      &lt;ul&gt;
-        &lt;li&gt;aVR&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ondap.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Todo rítmo que nasce no átrio mas não é sinusal, nos chamamos de atrial ectópico.&lt;/p&gt;
-
-&lt;h3 id=&quot;ritmo-ventricular&quot;&gt;Ritmo ventricular&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Frequência baixa&lt;/li&gt;
-  &lt;li&gt;Ondas P dissociadas do complexo QRS (oriundas do nó sinusal que continua trabalhando normalmente)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Para ser chamado de ritmo deve ter ao menos 3 batimentos seguidos.&lt;/p&gt;
-
-&lt;h3 id=&quot;extrassístole&quot;&gt;Extrassístole&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Supraventricular&lt;/li&gt;
-  &lt;li&gt;Ventricular&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;frequência&quot;&gt;Frequência&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/quadrados.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1 minuto&lt;/strong&gt; de traçado a uma &lt;strong&gt;velocidade de 25 mm/s&lt;/strong&gt; apresenta cerca de &lt;strong&gt;1500 quadrados&lt;/strong&gt; menores, basta então &lt;strong&gt;dividir esse valor pelo número de quadrados menores entre o pico de duas ondas R sequenciais&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Uma outra forma de avaliação da FC pode ser feita de maneira rápida e já permite a
-imediata definição de um paciente em taquicardia (FC &amp;gt; 100 bpm) ou bradicardia (FC &amp;lt;
-50 bpm, descartando situações especiais). Esta forma consiste em procurar complexos QRS
-sequênciais que estejam posicionados sobre o traçado maior que divide os blocos de cinco
-quadrados menores e contato. Na sequência, os valores de &lt;strong&gt;300, 150, 100, 75 e 60&lt;/strong&gt; a cada linha
-maior de quadrados&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/quadrados2.jpeg&quot; alt=&quot;Quadrados&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O coração acelera na inspiração e desacelera na expiração, de forma fisiológica. A arritmia sinusal respiratória pode não indicar patologia.&lt;/p&gt;
-
-&lt;h2 id=&quot;eixo&quot;&gt;Eixo&lt;/h2&gt;
-
-&lt;p&gt;O eixo normal do coração se localiza entre –30° e + 90°. Na presença do desvio do eixo
-para a esquerda o eixo cardíaco varia de –30° e –90°. Na ocorrência de desvio do eixo para
-a direita o eixo está entre +90° e +180°.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/vetores.jpg&quot; alt=&quot;Vetores&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para a determinação do eixo, devemos considerar a predominância do QRS, se positivo,
-negativo ou isoelétrico nas derivações &lt;strong&gt;DI e aVF&lt;/strong&gt;, o que permitirá inferir em qual
-quadrante está o QRS, de acordo com as projeções da roda dos ventos. Verifique a derivação DII, caso esta esteja positivo significa que o eixo encontra-se no quadrante
-inferior direito. Para definir aproximadamente o eixo dentro deste quadrante, observa-se
-em qual derivação o QRS está mais isoelétrico, pois será na derivação perpendicular a esta
-que o eixo estará.&lt;/p&gt;
-
-&lt;p&gt;Vale lembrar que o desvio do eixo elétrico para a direita ou para a esquerda muitas vezes não está relacionado com patologias e sim com o biotipo. Por exemplo, em indivíduos
-brevilíneos o eixo tende a ficar horizontalizado devido ao fato de o coração repousar uma
-maior parte sobre o diafragma, em indivíduos longilíneos ocorre o inverso, tornando o eixo
-verticalizado.&lt;/p&gt;
-
-&lt;p&gt;Desvio pra esquerda: sobrecarga ventricular esquerda ou bloqueio de ramo esquerdo;
-Desvio pra direita: sobrecarga de VD ou BRD;&lt;/p&gt;
-
-&lt;p&gt;Como saber o quadrante do eixo:&lt;/p&gt;
-
-&lt;p&gt;Sempre olhar as derivações D1 (a mais horizontal, lembrando que a captação do eletrodo está no braço esquerdo) e aVF (a mais vertical). Se o QRS for predominantemente positivo nessas duas derivações, então o eixo está no quadrante inferior esquerdo.&lt;/p&gt;
-
-&lt;p&gt;Obs: se D1 tiver componente positivo igual o negativo do QRS, significa que o eixo está exatamente no eixo vertical. O mesmo vale para o aVF, se o componente positivo do QRS for igual o negativo, então o eixo está exatamente na horizontal.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">GOLD 2019.</summary></entry></feed>
