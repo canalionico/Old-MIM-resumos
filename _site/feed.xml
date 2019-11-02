@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-10-31T23:29:16-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cia</title><link href="http://localhost:4000/cia.html" rel="alternate" type="text/html" title="Cia" /><published>2019-10-30T00:00:00-03:00</published><updated>2019-10-30T00:00:00-03:00</updated><id>http://localhost:4000/cia</id><content type="html" xml:base="http://localhost:4000/cia.html">&lt;p&gt;Sopro sistólico em foco pulmonar com desdobramento fixo de B2&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-02T12:06:40-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cia</title><link href="http://localhost:4000/cia.html" rel="alternate" type="text/html" title="Cia" /><published>2019-10-30T00:00:00-03:00</published><updated>2019-10-30T00:00:00-03:00</updated><id>http://localhost:4000/cia</id><content type="html" xml:base="http://localhost:4000/cia.html">&lt;p&gt;Sopro sistólico em foco pulmonar com desdobramento fixo de B2&lt;/p&gt;
 
 &lt;p&gt;Ocorre por causa do shunt do sangue do átrio esquerdo (maior pressão) pro átrio direito (menor pressão). O maior débio sanguíneo do VD vai causar o desdobramento fixo de B2 e uma hipertrofia do VD.&lt;/p&gt;
 
@@ -391,15 +391,58 @@ ventrículo direito.&lt;/p&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#perfil-hemodinâmico&quot; id=&quot;markdown-toc-perfil-hemodinâmico&quot;&gt;Perfil hemodinâmico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#classe-funcional&quot; id=&quot;markdown-toc-classe-funcional&quot;&gt;Classe funcional&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#classificação-evolutiva&quot; id=&quot;markdown-toc-classificação-evolutiva&quot;&gt;Classificação evolutiva&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fração-de-ejeção&quot; id=&quot;markdown-toc-fração-de-ejeção&quot;&gt;Fração de ejeção&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#disfunção-diastólica-associada&quot; id=&quot;markdown-toc-disfunção-diastólica-associada&quot;&gt;Disfunção Diastólica Associada&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#marcadores-neuro-humorais&quot; id=&quot;markdown-toc-marcadores-neuro-humorais&quot;&gt;Marcadores Neuro-Humorais&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#laboratório&quot; id=&quot;markdown-toc-laboratório&quot;&gt;Laboratório&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#ecocardiograma&quot; id=&quot;markdown-toc-ecocardiograma&quot;&gt;Ecocardiograma&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#radiografia-de-tórax&quot; id=&quot;markdown-toc-radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#eletrocardiograma&quot; id=&quot;markdown-toc-eletrocardiograma&quot;&gt;Eletrocardiograma&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ressonância-magnética-cardíaca&quot; id=&quot;markdown-toc-ressonância-magnética-cardíaca&quot;&gt;Ressonância magnética cardíaca&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#holter&quot; id=&quot;markdown-toc-holter&quot;&gt;Holter&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#hábitos-de-vida&quot; id=&quot;markdown-toc-hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-medicamentoso-da-ic-sistólica&quot; id=&quot;markdown-toc-tratamento-medicamentoso-da-ic-sistólica&quot;&gt;Tratamento medicamentoso da IC sistólica&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#ieca&quot; id=&quot;markdown-toc-ieca&quot;&gt;IECA&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#betabloqueadores&quot; id=&quot;markdown-toc-betabloqueadores&quot;&gt;Betabloqueadores&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#antagonistas-da-aldosterona&quot; id=&quot;markdown-toc-antagonistas-da-aldosterona&quot;&gt;Antagonistas da Aldosterona&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#antagonista-at1-da-angiotensina-ii&quot; id=&quot;markdown-toc-antagonista-at1-da-angiotensina-ii&quot;&gt;Antagonista AT1 da angiotensina II&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#hidralazina-e-nitrato&quot; id=&quot;markdown-toc-hidralazina-e-nitrato&quot;&gt;Hidralazina e Nitrato&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#ivabradina&quot; id=&quot;markdown-toc-ivabradina&quot;&gt;Ivabradina&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sintomáticos&quot; id=&quot;markdown-toc-sintomáticos&quot;&gt;Sintomáticos&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#diuréticos-de-alça&quot; id=&quot;markdown-toc-diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#tiazídicos&quot; id=&quot;markdown-toc-tiazídicos&quot;&gt;Tiazídicos&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#digitálicos&quot; id=&quot;markdown-toc-digitálicos&quot;&gt;Digitálicos&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#bloqueadores-do-canal-de-cálcio&quot; id=&quot;markdown-toc-bloqueadores-do-canal-de-cálcio&quot;&gt;Bloqueadores do canal de cálcio&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#anticoagulaão-e-antiplaquetários&quot; id=&quot;markdown-toc-anticoagulaão-e-antiplaquetários&quot;&gt;Anticoagulaão e antiplaquetários&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cardiodesfibrilador-implantável-cdi&quot; id=&quot;markdown-toc-cardiodesfibrilador-implantável-cdi&quot;&gt;Cardiodesfibrilador Implantável (CDI)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-da-ic-diastolica&quot; id=&quot;markdown-toc-tratamento-da-ic-diastolica&quot;&gt;Tratamento da IC diastolica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tratamento-cirúrgico&quot; id=&quot;markdown-toc-tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#transplante-cardíaco&quot; id=&quot;markdown-toc-transplante-cardíaco&quot;&gt;Transplante cardíaco&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#tromboembolismo&quot; id=&quot;markdown-toc-tromboembolismo&quot;&gt;Tromboembolismo&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#arritmias&quot; id=&quot;markdown-toc-arritmias&quot;&gt;Arritmias&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#causas-de-morte&quot; id=&quot;markdown-toc-causas-de-morte&quot;&gt;Causas de morte&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -785,56 +828,96 @@ estar comprometidas: ascite, derrame pleural e derrame pericárdico.&lt;/p&gt;
 
 &lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
 
-&lt;p&gt;Apresentação clínica:&lt;/p&gt;
+&lt;h3 id=&quot;perfil-hemodinâmico&quot;&gt;Perfil hemodinâmico&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ic-hemod.png&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;classe-funcional&quot;&gt;Classe funcional&lt;/h3&gt;
+
+&lt;p&gt;Segundo a New York Heart Association (NYHA), classifica o grau de comprometimento das atividades diárias do paciente.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/NYHA-Classification.jpg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A sobrevida média em cinco anos do grupo placebo (sem tratamento) pode ser estimada com base nessa cassificação:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;IVE&lt;/li&gt;
-  &lt;li&gt;IC congestiva&lt;/li&gt;
-  &lt;li&gt;Choque cardiogênico&lt;/li&gt;
-  &lt;li&gt;EAP&lt;/li&gt;
+  &lt;li&gt;Classe I – 85%;&lt;/li&gt;
+  &lt;li&gt;Classe II – 75%;&lt;/li&gt;
+  &lt;li&gt;Classe III –50%;&lt;/li&gt;
+  &lt;li&gt;Classe IV – 50% em 1 ano.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Tempo de evolução da doença&lt;/p&gt;
+&lt;p&gt;Já em tratamento, a mortalidade anual é:&lt;/p&gt;
 
-&lt;p&gt;Tipo de disfunção do VE&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Classes I e II: 2-5%;&lt;/li&gt;
+  &lt;li&gt;Classe II e e III: 5-15%;&lt;/li&gt;
+  &lt;li&gt;Classe III e IV: 15-25%;&lt;/li&gt;
+  &lt;li&gt;Classe IV refratária: maior que 25%.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;classificação-evolutiva&quot;&gt;Classificação evolutiva&lt;/h3&gt;
+
+&lt;p&gt;Proposta pela AHA/ACC de acordo com alterações estruturais.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/classif-icc.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fração-de-ejeção&quot;&gt;Fração de ejeção&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;FE &amp;lt; 35%:&lt;/strong&gt; Disfunção sistólica grave, sobrevida média em 5 anos de 15-35%, na classe funcional III ou IV, ou em torno de 60%, na classe funcional I ou II.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;FE &amp;gt; 35%:&lt;/strong&gt; sobrevida em 5 anos de 70%, se em classe funcional III ou IV, e em torno de 80%, se em classe funcional I ou II.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;disfunção-diastólica-associada&quot;&gt;Disfunção Diastólica Associada&lt;/h3&gt;
+
+&lt;p&gt;Na insuficiência cardíaca sistólica, geralmente há disfunção diastólica associada, que pode ser estimada pelo ecocardiograma. A presença de disfunção diastólica grave (padrão restritivo) relaciona-se com maior morbimortalidade!&lt;/p&gt;
+
+&lt;h3 id=&quot;marcadores-neuro-humorais&quot;&gt;Marcadores Neuro-Humorais&lt;/h3&gt;
+
+&lt;p&gt;Quanto mais grave for a insuficiência cardíaca,
+menor o débito cardíaco e menor o fluxo arterial orgânico. A resposta neuro-humoral será, portanto, mais proeminente.&lt;/p&gt;
+
+&lt;p&gt;A mortalidade é proporcional aos níveis séricos de &lt;strong&gt;noradrenalina&lt;/strong&gt;, &lt;strong&gt;ADH&lt;/strong&gt;, &lt;strong&gt;endotelina-1&lt;/strong&gt; e &lt;strong&gt;BNP&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;Vão ajudar na confirmação do diagnóstico, na busca pela etiologia, na avaliação prognóstica e na avaliação funcional.&lt;/p&gt;
+
+&lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O BNP e/ou NT-proBNP pode ajudar a diferenciar dispnéia de origem cardíaca (valores aumentados) de pulmonar (valores normais).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;BNP:&lt;/strong&gt; o peptídeo natriurético cerebral é produzido pelo miocárdio dos ventrículos, sempre em resposta ao estiramento miocárdico. Sua liberação está ligada ao aumento das pressões de enchimento ventricular. Um valor &amp;gt; 100 pg/ml foi diagnóstico de insuficiência cardíaca, com sensibilidade, especificidade e acurácia de 90%, 76% e 83%, respectivamente. Ou seja, é útil para diferenciar se a dispńeia é ou não de origem cardíaca.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NT-proBNP:&lt;/strong&gt; N-terminal pró-BNP, é uma forma mais sensível de BNP.&lt;/p&gt;
+
+&lt;p&gt;Anemia, hiponatremia e azotemia são importantes preditores prognósticos na ICC. A anemia, em
+particular, pode ser causa, agravante ou con-
+sequência da ICC! Alterações da função renal costumam ser multifatoriais: etiologias em comum
+(diabetes, HAS etc.), débito cardíaco reduzido
+pela cardiopatia e/ou paraefeito dos diuréticos.&lt;/p&gt;
+
+&lt;h3 id=&quot;ecocardiograma&quot;&gt;Ecocardiograma&lt;/h3&gt;
+
+&lt;p&gt;O método mais útil para a confirmação diagnóstica, avaliação da etiologia, do perfil hemodinâmico e do
+prognóstico.&lt;/p&gt;
+
+&lt;p&gt;É capaz de dividir a IC em sistólica e diastólica e medir a fração de ejeção. &lt;strong&gt;FE &amp;lt; 50% indica disfunção sistólica&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Também permite estimar os volumes da câmaras e espessura das paredes, além do diâmetro das valvas.&lt;/p&gt;
+
+&lt;p&gt;O método é operador dependente e também depende de uma boa “janela” de visualização.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fração de ejeção:&lt;/strong&gt; é o percentual de sangue que o ventrículo ejeta para a aorta na sístole. Assim, Se no final da diástole o ventrículo tem 100 mL de sangue e no final da sístole tem 40 mL, subentende-se que 60mL de sangue foram ejetados para a aorta. 60mL de 100 mL – 60% de fração de ejeção.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;IC com FE preservada (&amp;gt; 50%)&lt;/li&gt;
   &lt;li&gt;FE intermediária (40 a 49%)&lt;/li&gt;
   &lt;li&gt;FE reduzida (&amp;lt; 40%)&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;p&gt;Modelo clínico-hemodinâmico (ABCL): quente-seco, quente-congesto, frio-congesto, frio-seco.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ic-hemod.png&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Estadiamento segundo a ACC/AHA ABCD&lt;/p&gt;
-
-&lt;p&gt;NYHA (com base na tolerância individual ao esforço)&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;Vão ajudar na confirmação do diagnóstico, na busca pela etiologia, na avaliação prognóstica e na avaliação funcional.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;lab
-    &lt;ul&gt;
-      &lt;li&gt;O BNP e/ou NT-proBNP pode ajudar a diferenciar dispnéia de origem cardíaca (valores aumentados) de pulmonar (valores normais).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;ECG&lt;/li&gt;
-  &lt;li&gt;RM&lt;/li&gt;
-  &lt;li&gt;Holter&lt;/li&gt;
-  &lt;li&gt;RX
-    &lt;ul&gt;
-      &lt;li&gt;Linhas B de Kerley (edema intersticial)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ecocardiograma&quot;&gt;Ecocardiograma&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Fração de ejeção:&lt;/strong&gt; é o percentual de sangue que o ventrículo ejeta para a aorta na sístole. Assim, Se no final da diástole o ventrículo tem 100 mL de sangue e no final da sístole tem 40 mL, subentende-se que 60mL de sangue foram ejetados para a aorta. 60mL de 100 mL – 60% de fração de ejeção.&lt;/p&gt;
 
 &lt;h3 id=&quot;radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/h3&gt;
 
@@ -867,18 +950,517 @@ estar comprometidas: ascite, derrame pleural e derrame pericárdico.&lt;/p&gt;
 
 &lt;h3 id=&quot;eletrocardiograma&quot;&gt;Eletrocardiograma&lt;/h3&gt;
 
+&lt;p&gt;As alterações são inespecíficas e dependem da doença subjacente (ex.: coronariopatia, HAS).
+Um ECG normal possui valor preditivo negativo &amp;gt; 90% para excluir disfunção sistólica, o que torna o diagnóstico de IC improvável!&lt;/p&gt;
+
+&lt;p&gt;Qualquer cardiopatia pode alterar o ECG, produzindo sinais de sobrecarga de VE, VD, átrios, alterações secundárias da repolarização (ondas T negativas, desnivelamento do ST), bloqueios de ramo de graus variáveis, hemibloqueios e arritmias cardíacas (bradi ou taquiarritmias). O BRE de 3º grau é quase sempre um sinal ominoso.&lt;/p&gt;
+
+&lt;h3 id=&quot;ressonância-magnética-cardíaca&quot;&gt;Ressonância magnética cardíaca&lt;/h3&gt;
+
+&lt;p&gt;Possui excelente acurácia e reprodutibilidade na quantificação dos volumes, massa e função, tanto do
+VE como do VD. A viabilidade miocárdica
+também pode ser estimada pela técnica de realce tardio (a ocorrência de hipercaptação em
+áreas discinéticas indica perda da viabilidade).&lt;/p&gt;
+
+&lt;h3 id=&quot;holter&quot;&gt;Holter&lt;/h3&gt;
+
+&lt;p&gt;Pode ser utilizado para documentação
+de arritmias ventriculares em pacientes com
+queixas de palpitação, lipotímia ou síncope.&lt;/p&gt;
+
 &lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
 
-&lt;p&gt;O tratamento visa justamente o bloqueio da ativação neuro-hormonal.&lt;/p&gt;
+&lt;h3 id=&quot;hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/h3&gt;
 
-&lt;p&gt;Inibidores da ECA,
-Bloqueadores do receptor AT1 de angiotensina II,
-Betabloqueadores
-Antagonistas da aldosterona.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dieta:&lt;/strong&gt; ingestão de 2 a 3 g de sódio por dia;
+    &lt;ul&gt;
+      &lt;li&gt;No entanto, consumos muito baixos de sal, principalmente no paciente que está tomando diuréticos, podem baixar em excesso a volemia, precipitando sintomas de baixo débito cardíaco.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Restrição líquida&lt;/strong&gt; (1-1,5 L por dia): apenas nos pacientes com hiponatremia (&amp;lt; 130 mEq/L) ou com retenção de líquido não responsiva ao uso de diuréticos e restrição da ingesta de sal;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Suplementos calóricos:&lt;/strong&gt; para os pacientes com caquexia cardíaca e nos casos de IC avançada;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Repouso:&lt;/strong&gt; o paciente muito sintomático (classe funcional III ou IV) ou descompensado da IC deve ficar de repouso o máximo possível;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Atividade física:&lt;/strong&gt; pacientes com IC compensada&lt;/li&gt;
+  &lt;li&gt;Reabilitação cardiovascular multiprofissional.&lt;/li&gt;
+  &lt;li&gt;Interromper o &lt;strong&gt;tabagismo&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Realizar as &lt;strong&gt;vacinações&lt;/strong&gt;, principalmente a anti-influenza e anti-pneumocócica.&lt;/li&gt;
+  &lt;li&gt;Evitar AINES: aumentam a retenção hidrossalina  e elevam a PA;
+    &lt;ul&gt;
+      &lt;li&gt;Hipoglicemiantes como o &lt;em&gt;tiazolidinedionas&lt;/em&gt; também estão relacionados à descompensação da IC.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Profilaxia para trombose venosa quando fizer grandes viagens.
+    &lt;ul&gt;
+      &lt;li&gt;Meia elástica de média compressão, independente da classe funcional;&lt;/li&gt;
+      &lt;li&gt;Avaliar o uso de heparina subcutânea.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tratamento-medicamentoso-da-ic-sistólica&quot;&gt;Tratamento medicamentoso da IC sistólica&lt;/h3&gt;
+
+&lt;p&gt;O tratamento visa justamente o bloqueio da ativação neuro-hormonal. As classes de drogras que aumentam a sobrevida de portadores de IC com FE reduzida são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Inibidores da enzima conversora de angiotensinogênio (IECA);&lt;/li&gt;
+  &lt;li&gt;Betabloqueadores (BB);&lt;/li&gt;
+  &lt;li&gt;Antagonistas do receptor AT1 de angiotensina II (BRA);&lt;/li&gt;
+  &lt;li&gt;Hidralazina + nitrato;&lt;/li&gt;
+  &lt;li&gt;Antagonistas da aldosterona.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/tto-nyha.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ieca&quot;&gt;IECA&lt;/h4&gt;
+
+&lt;p&gt;Além do efeito sobre a mortalidade, essas drogas reduziram a progressão da cardiopatia e da disfunção ventricular. Além disso, quando usados em pacientes oligo/assintomáticos (Classe NYHA I) com disfunção moderada ou grave (FE &amp;lt; 40%),
+reduzem a progressão da doença.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hoje assume-se que o benefício é inerente à classe e não a uma droga específica.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Estão indicadas em todos os casos de IC sistólica, assintomáticos ou sintomáticos (salvo contraindicações).&lt;/p&gt;
+
+&lt;p&gt;Em geral o tratamento é iniciado com doses reduzidas (ex.: captopril 6,25 mg 2x/dia), com aumento a cada duas semanas, observando-se os níveis séricos de K+ e creatinina. Devem ser suspensos se houver aumento da creatinina sérica superior a 30-35% em relação ao basal e/ou franca hipercalemia (K+ &amp;gt; 5,5 mEq/l).&lt;/p&gt;
+
+&lt;p&gt;Exemplos de doses “otimizadas” de IECA na IC sistólica são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Captopril&lt;/strong&gt; 50 mg 3x/dia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Enalapril&lt;/strong&gt; 10 mg 2x/dia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ramipril&lt;/strong&gt; 10 mg/dia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lisinopril&lt;/strong&gt; 20 mg/dia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ao inibirem a formação da angiotensina II, promovem &lt;strong&gt;arteriolodilatação&lt;/strong&gt; (reduzindo a pós-carga), &lt;strong&gt;venodilatação&lt;/strong&gt; (reduzindo a pré-carga) e &lt;strong&gt;redução dos efeitos diretos da angiotensina II sobre o miocárdio&lt;/strong&gt;. Também aumentam os níveis de &lt;strong&gt;bradicinina&lt;/strong&gt;, uma substância vasodilatadora endógena. Ocorre ainda um acúmulo de prostaglandinas, além de uma maior produção de &lt;strong&gt;óxido nítrico&lt;/strong&gt; (vasodilatador endógeno).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Devido a todos esses efeitos, os IECAs são melhores que os BRAs.&lt;/p&gt;
+
+&lt;p&gt;Seu principal efeito colateral é a &lt;strong&gt;tosse seca&lt;/strong&gt; (em 5% dos casos) justamente pela ação da &lt;strong&gt;bradicinina&lt;/strong&gt;. Também deve-se tomar cuidado com a hipercalemia, principalmente quando associa-se um diurético poupador de potássio.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ao longo do tempo, alguns usuários de IECA apresentam o chamado escape neuro-hormonal da angiotensina II, condição em que os níveis de angiotensina II retornam aos valores pré-tratamento com IECA. Tal fenômeno provavelmente é secundário a um aumento na síntese do hormônio por sistemas independentes da ECA. Mas viu-se que os IECA mantêm seus benefícios mesmo quando o escape neuro-hormonal acontece!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Na realidade, parte da eficácia dos IECA deriva do fato de que aumentam os níveis de bradicinina e outras substâncias vasodilatadoras. O efeito benéfico vai além da mera redução nos níveis de angiotensina II, o que faz com essas drogas sejam sempre preferenciais aos BRA no tratamento da IC com FE reduzida.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;betabloqueadores&quot;&gt;Betabloqueadores&lt;/h4&gt;
+
+&lt;p&gt;Possuem um efeito inotrópico negativo, bloqueando o efeito negativo das catecolaminas de ação beta sobre o miocardio.&lt;/p&gt;
+
+&lt;p&gt;Eles reduzem não apenas a mortalidade mas também a incidência de morte súbita e reinfarto, principalmente nos pacientes com IVE.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Antes da década de 90, seria considerado um grande absurdo utilizar um betabloqueador em qualquer paciente com insuficiência cardíaca sistólica!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Um pouco diferente dos IECA, são três BBs específicos que estão relacionados a maior redução da mortalidade: caverdilol, bisoprolol e metoprolol.&lt;/p&gt;
+
+&lt;p&gt;Cerca de 30% dos pacientes não irão tolerar os BBs (descompensam a IC). Mas estes devem ser tentados até nos pacientes NYHA IV, começando com doses mínimas e aumentando a cada 2-4 semanas. As “doses-alvo” são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Carvedilol&lt;/strong&gt; 25-50 mg 2x/dia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Metoprolol&lt;/strong&gt; 200 mg/dia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bisoprolol&lt;/strong&gt; 10 mg/dia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hoje sabemos que, em pacientes internados por
+IC descompensada, não se deve suspender os
+BB de uso prévio, exceto na presença de choque cardiogênico, bloqueio atrioventricular ou sinoatrial avançado, ou bradicardia sintomática.&lt;/p&gt;
+
+&lt;p&gt;Em pacientes com PAS &amp;lt; 85 mmHg ou com sinais de hipoperfusão periférica podemos tentar reduzir a posologia em 50% e reavaliar: em muitos casos a hemodinâmica estabiliza, sendo desnecessário suspender a medicação. Não devem ser iniciados nos pacientes descompensados.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contraindicações formais:&lt;/strong&gt; asma e bradiarritmia.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;nebivolol&lt;/strong&gt; é outro BB que se mostrou efetivo em aumentar a sobrevida em idosos &amp;gt; 70 anos, porém com magnitude inferior aos já citados. Como ele é mais beta-1 seletivo, pode ser uma opção em pacienetes asmáticos (confirmar essa informação!).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mecanismo de ação: bloqueio da ação tóxica da noradrenalina sobre os miócitos cardíacos e a redução da liberação de noradrenalina nas sinapses cardíacas. Por isso, o efeito pleno é tardio (3-6 meses). Também reduzem o consumo miocárdico de oxigênio, reduzindo a isquemia; redução da frequência cardíaca, facilitando a mecânica diastólica.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Então, os BBs estão indicados em:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Todos os pacientes com IC sistólica, independente da classe;&lt;/li&gt;
+  &lt;li&gt;Doença isquêmica do miocárdio;&lt;/li&gt;
+  &lt;li&gt;Cardiomiopatia hipertrófica hereditária sintomática.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;antagonistas-da-aldosterona&quot;&gt;Antagonistas da Aldosterona&lt;/h4&gt;
+
+&lt;p&gt;São a espironolactona e a eplerenona. Diuréticos poupadores de potássio antagonistas da aldosterona. A eplerenona é mais específica, atua apenas no túbulo renal e tem menos efeitos colaterais como a ginecomastia.&lt;/p&gt;
+
+&lt;p&gt;Um estudo demonstrou redução adicional na mortalidade (30%) com o uso de &lt;strong&gt;25 mg/dia de espironolactona&lt;/strong&gt; em pacientes com insuficiência cardíaca classe III e IV já tratados com IECA, sem haver aumento significativo da calemia nesses pacientes. Seu uso tambem reduziu internamentos por descompensação.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Mecanismo de ação:&lt;/strong&gt; inibição do efeito da aldosterona sobre o miocárdio; reduzindo, assim, a degeneração de fibras, a apoptose e a fibrose intersticial (prevenindo o remodelamento ventricular). Outro possível efeito benéfico é a prevenção da hipocalemia pelos diuréticos de alça ou tiazídicos, com isso, reduzindo a chance de arritmias ventriculares e morte súbita.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A &lt;strong&gt;indicação&lt;/strong&gt; de antagonistas da aldosterona na IC é para a IC sistólica &lt;strong&gt;“sintomática”&lt;/strong&gt; (NYHA II a IV). A &lt;strong&gt;contraindicação&lt;/strong&gt; formal é K &amp;gt; 5,5 mEq/L.&lt;/p&gt;
+
+&lt;h4 id=&quot;antagonista-at1-da-angiotensina-ii&quot;&gt;Antagonista AT1 da angiotensina II&lt;/h4&gt;
+
+&lt;p&gt;Não possuem o mesmo inconveniente dos IECA de perderem o efeito a longo prazo. São capazes de
+contornar o escape neuro-hormonal, bloqueando diretamente o receptor de angio II, seja qual
+for a origem do hormônio! Contudo, ainda são inferiores aos IECA na magnitude da sobrevida e redução do remodelamento cardíaco.&lt;/p&gt;
+
+&lt;p&gt;Recomendados no tratamento da IC com FE reduzida como substitutos dos IECA para pacientes que não toleram os IECA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mas atenção:&lt;/strong&gt; se a intolerância aos IECA for devida ao surgimento de &lt;strong&gt;IRA e/ou hipercalemia&lt;/strong&gt;, BRA também estarão contraindicados, pois se tratam de paraefeitos inerentes ao bloqueio do SRAA igualmente esperados com estes últimos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Não se recomenda a associação de BRA com IECA&lt;/strong&gt;, pois não traz benefícios e potencializa os efeitos colaterais, aumentando a morbi-mortalidade (como arritmias malignas por hipercalemia).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Mecanismo de ação:&lt;/strong&gt; inibem a ação da angiotensina II sobre os receptores AT1 presentes na musculatura lisa vascular (daí o efeito vasodilatador), na suprarrenal (daí a redução dos níveis de aldosterona) e no miocárdio.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A principal vantagem sobre os inibidores da ECA é a ausência de tosse como efeito adverso, uma vez que este efeito é dependente da elevação da bradicinina pelos IECA.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Indicação de uso dos BRA:&lt;/strong&gt; pacientes com indicação de IECA, mas que não toleram o medicamento devido à tosse.&lt;/p&gt;
+
+&lt;h4 id=&quot;hidralazina-e-nitrato&quot;&gt;Hidralazina e Nitrato&lt;/h4&gt;
+
+&lt;p&gt;Em pacientes negros parece haver maior benefício na sobrevida com a associação hidralazina + dinitrato comparado ao enalapril! Mas também usa-se para brancos, adicionando à terapia já otimizada com IECA + BB + espironolactona.&lt;/p&gt;
+
+&lt;p&gt;A “dose-alvo” é de &lt;strong&gt;75 mg de hidralazina + 40 mg de dinitrato de isossorbida 3x dia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Mecanismo de ação:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Hidralazina:&lt;/strong&gt; é um vasodilatador arteriolar direto, cujo mecanismo farmacodinâmico é desconhecido. Ao dilatar as arteríolas, reduz a pós-carga e, portanto, melhora a performance ventricular.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Dinitrato de isossorbida:&lt;/strong&gt; tem um importante efeito venodilatador, reduzindo assim a pré-carga e facilitando o trabalho ventricular. A redução da mortalidade pela associação hidralazina + dinitrato comprova o grande benefício do efeito vasodilatador geral (arterial e venoso) nos pacientes com IC sistólica moderada.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt; a taquicardia reflexa, comum nos hipertensos sem IC, não parece ser um efeito adverso importante nos pacientes com IC. Porém outros efeitos adversos incômodos (cefaleia, tonteira, lúpus farmacoinduzido) podem ocorrer,
+especialmente nas doses mais altas.&lt;/p&gt;
+
+&lt;p&gt;Indicação da associação hidralazina + dinitrato:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pacientes negros com IC, já em uso de IECA e BB, nas classes II-IV;&lt;/li&gt;
+  &lt;li&gt;Alternativa aos pacientes brancos com intolerância aos IECA e aos BRA;&lt;/li&gt;
+  &lt;li&gt;Todo o paciente que permaneça sintomático apesar da terapia padrão.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ivabradina&quot;&gt;Ivabradina&lt;/h4&gt;
+
+&lt;p&gt;Da classe dos &lt;strong&gt;inibidores específicos da corrente If&lt;/strong&gt;, responsável pelo mecanismo de despolarização automático do nó sinoatrial.&lt;/p&gt;
+
+&lt;p&gt;A ivabradina (5 mg VO 12/12h, podendo-se chegar a 7,5 mg VO 12/12h) consegue reduzir a FC no repouso e no exercício, e já existem evidências de que seu emprego na IC (em associação à terapia otimizada) consegue reduzir ainda mais a morbimortalidade, em
+particular se a etiologia for isquêmica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Indicações da ivabradina:&lt;/strong&gt; pacientes com NYHA II-IV da com disfunção sistólica e terapia otimizada (&lt;strong&gt;IECA ou BRA + BB&lt;/strong&gt;), &lt;strong&gt;desde que a FC seja maior ou igual a 70 bpm e o ritmo seja sinusal&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;sintomáticos&quot;&gt;Sintomáticos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Diuréticos de alça;&lt;/li&gt;
+  &lt;li&gt;Tiazídicos;&lt;/li&gt;
+  &lt;li&gt;Digitálicos;&lt;/li&gt;
+  &lt;li&gt;Aminas inotrópicas (dobutamina);&lt;/li&gt;
+  &lt;li&gt;Inibidores da fosfodiesterease (milrinona).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Apesar de não aumentarem a sobrevida dos pacientes com IC, esses medicamentos podem ser fundamentais para manter os pacientes no estado compensado.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Não existe remédio melhor do que a furosemida venosa para compensar um paciente com IC congestiva!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/h4&gt;
+
+&lt;p&gt;Combater os sinais e sintomas da congestão e do edema. São eficazes tanto na IC sistólica quanto na IC diastólica!&lt;/p&gt;
+
+&lt;p&gt;Aumentam a excreção renal de sódio e água, reduzindo a volemia.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Mesmo a hipervolemia sendo um mecanismo copensatório para manter o DC (lei de Frank-Starling), se exagerada pode descompensar a IC. Se aumentar demais a pré-carga o DC pode diminuir.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Logo, não podemos fazer doses excessivas de diuréticos, de modo a baixar muito a volemia. Senao, o DC se reduzirá demais e induzirá uma síndrome de baixo débito. A dose ideal de diuréticos varia para cada paciente.&lt;/p&gt;
+
+&lt;p&gt;Os pacientes com IC classe III ou IV, em sua maioria, necessitam do emprego dos diuréticos de alça ou dos tiazídicos para manterem-se compensados.&lt;/p&gt;
+
+&lt;p&gt;Os pacientes descompensados necessitam da
+administração &lt;strong&gt;parenteral&lt;/strong&gt; de diuréticos de alça,
+especificamente a &lt;strong&gt;furosemida&lt;/strong&gt;, pois a absorção
+dos diuréticos por via oral está muito prejudicada pela congestão da mucosa intestinal.&lt;/p&gt;
+
+&lt;p&gt;Efeitos adversos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ototoxicidade;&lt;/li&gt;
+  &lt;li&gt;Hipovolemia;&lt;/li&gt;
+  &lt;li&gt;Insuficiência pré-renal;&lt;/li&gt;
+  &lt;li&gt;Hiperuricemia, hiperglicemia, hiperlipidemia, hipercalciúria (litíase renal);&lt;/li&gt;
+  &lt;li&gt;Hipomagnesemia, hipocalemia, hipocalcemia;&lt;/li&gt;
+  &lt;li&gt;Nefrite intersticial alérgica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A monitorização dos eletrólitos é obrigatória nas primeiras três semanas do início da terapia diurética.&lt;/p&gt;
+
+&lt;h4 id=&quot;tiazídicos&quot;&gt;Tiazídicos&lt;/h4&gt;
+
+&lt;p&gt;São menos potentes que os de diuréticos de alça. Aumentam a excreção de sódio em apenas 5-10%,
+os diuréticos de alça a elevam em 20-25%.&lt;/p&gt;
+
+&lt;p&gt;Os tiazídicos podem ser associados à furosemida nos
+pacientes que persistem com retenção hidrossalina a despeito de altas doses de furosemida.&lt;/p&gt;
+
+&lt;p&gt;Efeitos adversos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hiponatremia;&lt;/li&gt;
+  &lt;li&gt;Hipercalcemia;&lt;/li&gt;
+  &lt;li&gt;Hipovolemia;&lt;/li&gt;
+  &lt;li&gt;Insuficiência pré-renal;&lt;/li&gt;
+  &lt;li&gt;Hipocalemia, hiperuricemia, hiperglicemia, hiperlipidemia;&lt;/li&gt;
+  &lt;li&gt;Hipomagnesemia;&lt;/li&gt;
+  &lt;li&gt;Nefrite intersticial alérgica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;digitálicos&quot;&gt;Digitálicos&lt;/h4&gt;
+
+&lt;p&gt;São chamados também de glicosídeos cardíacos. São três os seus efeitos cardíacos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Efeito Inotrópico Positivo:&lt;/strong&gt; sua principal ação farmacológica é a inibição da Na/K ATPase.
+    &lt;ul&gt;
+      &lt;li&gt;O transporte transmembrana de Ca++ está ligado ao de Na +. Existe uma proteína de membrana trocadora de Na+ por Ca ++ (trocador Na/Ca).&lt;/li&gt;
+      &lt;li&gt;Se a Na/K ATPase é inibida, o Na+ intracelular começa a se acumular, aumentando o seu efluxo pelo trocador Na/Ca, em troca da entrada Ca++ no miócito.&lt;/li&gt;
+      &lt;li&gt;A consequência final é o aumento do Ca++ citossólico, principal determinante do inotropismo cardíaco.&lt;/li&gt;
+      &lt;li&gt;Este íon é armazenado no retículo sarcoplasmático da célula miocárdica, aumentando a sua disponibilidade para a contração muscular na sístole, garantindo, assim, maior força contrátil (melhora da função sistólica).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ação Colinérgica:&lt;/strong&gt; o aumento do tônus vagal reduz o automatismo do nódulo sinusal, aumenta a refratariedade e diminui a velocidade de condução do nódulo AV.
+    &lt;ul&gt;
+      &lt;li&gt;Este efeito justifica o uso dos digitais nas taquiarritmias supraventriculares, pois reduzem a resposta ventricular na fibrilação atrial e no flutter atrial.&lt;/li&gt;
+      &lt;li&gt;Também justifica o seu potencial bradiarrítmico na toxicidade.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ação Arritmogênica:&lt;/strong&gt; o acúmulo intracelular
+de cálcio predispõe à ativação de uma corrente de sódio capaz de precipitar pós-potenciais tardios e desencadear extrassístoles ou taquiarritmias automáticas por atividade deflagrada, no miocárdio atrial ou ventricular.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Reduzem o número de internações&lt;/strong&gt; por descompensação cardíaca desses pacientes, &lt;strong&gt;apesar de não haver alteração da mortalidade&lt;/strong&gt;. A suspensão dos digitais em pacientes com IC com FE reduzida pode levar à descompensação do quadro.&lt;/p&gt;
+
+&lt;p&gt;O grande representante é a &lt;strong&gt;digoxina&lt;/strong&gt; na
+dose de &lt;strong&gt;0,125-0,375 mg VO/dia&lt;/strong&gt;. A &lt;strong&gt;digitoxina&lt;/strong&gt;, pouco usada em nosso meio, é dada na dose 0,10 mg VO/dia. O digital venoso mais
+usado em nosso meio é o &lt;strong&gt;deslanosídeo&lt;/strong&gt; (cedilanide), na dose 0,4-0,12 mg IV/dia (em duas tomadas).&lt;/p&gt;
+
+&lt;p&gt;Indicações dos digitálicos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IC sintomática classe III-IV, em pacientes que não compensaram apesar do uso de IECA, BB e diurético;&lt;/li&gt;
+  &lt;li&gt;IC com fibrilação atrial de alta resposta ventricular (não controlados com uso de BB).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contra-indicações (podem piorar a função diastólica ou a isquemia):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IC diastólica pura;&lt;/li&gt;
+  &lt;li&gt;Cardiomiopatia hipertrófica;&lt;/li&gt;
+  &lt;li&gt;Doença isquêmica do miocárdio sem IC sistólica;&lt;/li&gt;
+  &lt;li&gt;Bloqueio AV de 2° grau Mobitz II e 3° grau;&lt;/li&gt;
+  &lt;li&gt;Doença do nó sinusal sem proteção de marca -passo;&lt;/li&gt;
+  &lt;li&gt;Síndromes de pré-excitação.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Farmacocinética:&lt;/strong&gt; para que seu efeito seja máximo, deve ocorrer uma impregnação do organismo
+pela droga. Esse fenômeno pode ser alcançado de duas formas: utilizando-se doses de ataque ou aguardando 7 dias com o uso da dose convencional. Diversas drogas podem interagir com os níveis séricos da digoxina; importantes exemplos são a amiodarona, o verapamil e a propafenona, que promovem um aumento em seus níveis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Intoxicação digitálica:&lt;/strong&gt; se caracteriza pelos
+seguintes componentes do quadro:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Náuseas, vômitos e hiporexia;&lt;/li&gt;
+  &lt;li&gt;Alterações visuais, com escotomas coloridos, vertigem, insônia, confusão mental;&lt;/li&gt;
+  &lt;li&gt;Arritmias cardíacas, principalmente:
+    &lt;ul&gt;
+      &lt;li&gt;Extrassístoles ventriculares múltiplas (mais comum);&lt;/li&gt;
+      &lt;li&gt;Bradiarritmias do tipo BAV;&lt;/li&gt;
+      &lt;li&gt;Taquicardia atrial com bloqueio;&lt;/li&gt;
+      &lt;li&gt;Taquicardia juncional não paroxística;&lt;/li&gt;
+      &lt;li&gt;Taquicardia ventricular (incluindo a TV bidirecional).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Fatores que aumentam a sensibilidade efeito digitálico podendo precipitar a intoxicação: hipocalemia, hipomagnesemia.&lt;/p&gt;
+
+&lt;p&gt;Ainda tem muito mais coisa de digitálicos para estudar, como o tratamento da intoxicação pelo seu uso!!!&lt;/p&gt;
+
+&lt;h4 id=&quot;bloqueadores-do-canal-de-cálcio&quot;&gt;Bloqueadores do canal de cálcio&lt;/h4&gt;
+
+&lt;p&gt;Os BCC do tipo &lt;strong&gt;nifedipina&lt;/strong&gt; e &lt;strong&gt;verapamil&lt;/strong&gt; não devem ser usados em pacientes com IC sistólica e cardiopatia dilatada. Estas drogas podem piorar o quadro clínico do paciente (provavelmente pelo efeito inotrópico negativo), além de possivelmente aumentarem a mortalidade.&lt;/p&gt;
+
+&lt;p&gt;Apesar de segura na IC, a &lt;strong&gt;amlodipina&lt;/strong&gt; não apresenta benefícios em termos de mortalidade geral. Seu uso é reservado aos casos acompanhados por HAS resistente, como droga crucial para um melhor controle pressórico.&lt;/p&gt;
+
+&lt;h3 id=&quot;anticoagulaão-e-antiplaquetários&quot;&gt;Anticoagulaão e antiplaquetários&lt;/h3&gt;
+
+&lt;p&gt;Pacientes com IC têm um risco aumentado de
+eventos tromboembólicos devido à estase sanguínea nas câmaras cardíacas dilatadas e em vasos periféricos. No entanto, em
+estudos multicêntricos, o risco aferido tem sido
+de 1 a 3% ao ano, mesmo naqueles com baixa
+fração de ejeção e evidências ecocardiográficas
+de trombos intracardíacos!&lt;/p&gt;
+
+&lt;p&gt;As diretrizes da AHA/ACC e da Sociedade Brasileira de Cardiologia apontam para as seguintes condições
+nas quais a anticoagulação deve ser considerada:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;História de evento embólico;&lt;/li&gt;
+  &lt;li&gt;Fibrilação atrial paroxística ou persistente;&lt;/li&gt;
+  &lt;li&gt;Amiloidose (risco aumentado de tromboembolismo);&lt;/li&gt;
+  &lt;li&gt;Cardiomiopatia dilatada familiar;&lt;/li&gt;
+  &lt;li&gt;História de tromboembolismo em parentes de primeiro grau.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A droga mais usada é o &lt;strong&gt;warfarin&lt;/strong&gt; (antagonista de vit. K).&lt;/p&gt;
+
+&lt;p&gt;O uso rotineiro de &lt;strong&gt;antiplaquetários&lt;/strong&gt; não está
+indicado na IC. A &lt;strong&gt;aspirina&lt;/strong&gt;, todavia, é largamente empregada nos casos de doença coronária concomitante. Nestes pacientes, é recomendável utilizar as menores doses possíveis de aspirina (75-100 mg).&lt;/p&gt;
+
+&lt;p&gt;Profilaxia de fenômenos tromboembólicos
+em pacientes hospitalizados com IC: está indicado o uso de heparina subcutânea em doses profiláticas
+em todos os pacientes com IC que se encontrem hospitalizados!&lt;/p&gt;
+
+&lt;h3 id=&quot;cardiodesfibrilador-implantável-cdi&quot;&gt;Cardiodesfibrilador Implantável (CDI)&lt;/h3&gt;
+
+&lt;p&gt;Aproximadamente metade dos pacientes com
+IC morre subitamente, a maioria devido a uma
+arritmia ventricular.&lt;/p&gt;
+
+&lt;p&gt;O CDI é recomendado para
+a prevenção secundária de pacientes que tiveram
+morte súbita abortada e para a prevenção primária em pacientes pós-IAM ou não isquêmicos, com disfunção de VE com FE &amp;lt; 35% em NYHA II ou III, na vigência de drogas otimizadas.&lt;/p&gt;
+
+&lt;p&gt;Para ambas as indicações, os pacientes devem apre-
+sentar uma razoável expectativa de vida. O uso
+de antiarrítmicos não mostrou uma melhora na
+sobrevida dos pacientes com IC.&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-da-ic-diastolica&quot;&gt;Tratamento da IC diastolica&lt;/h3&gt;
+
+&lt;p&gt;No caso da IC com FE preservada, nenhum tratamento demonstrou aumentar a sobrevida.&lt;/p&gt;
+
+&lt;p&gt;O diagnóstico de Insuficiência Cardíaca com
+Fração de Ejeção Preservada (ICFEP) requer
+a presença simultânea de três condições:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sinais ou sintomas de IC congestiva;&lt;/li&gt;
+  &lt;li&gt;FE normal ou discretamente reduzida;&lt;/li&gt;
+  &lt;li&gt;Evidências objetivas de disfunção diastólica do VE:
+    &lt;ul&gt;
+      &lt;li&gt;Relaxamento e enchimento anormais;&lt;/li&gt;
+      &lt;li&gt;Distensibilidade diastólica reduzida;&lt;/li&gt;
+      &lt;li&gt;“Rigidez” diastólica.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Bloqueadores dos canais de cálcio não di-hidropiridínicos (como o verapamil e o diltiazem), os betabloqueadores, os IECA e talvez até os antagonistas da AT podem ser utilizados, associados a diuréticos em baixas doses na presença de congestão.&lt;/p&gt;
+
+&lt;p&gt;Uma medida fundamental é controlar
+agressivamente a hipertensão arterial, com
+drogas que reduzem comprovadamente a hipertrofia ventricular (inibidores da ECA – principal –, antagonistas AT1, diuréticos, betablo-
+queadores, verapamil, diltiazem ou amlodipina).&lt;/p&gt;
+
+&lt;h3 id=&quot;tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Revascularização Miocárdica:&lt;/strong&gt; nos pacientes
+com IC sistólica por cardiomiopatia isquêmica, a cirurgia de escolha é a revascularização miocárdica. Geralmente, estes pacientes têm lesão &amp;gt; 50% no tronco da coronária esquerda ou têm
+doença obstrutiva multivascular. Os resultados
+têm sido promissores, mesmo em pacientes
+com FE &amp;lt; 20%.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ventriculectomia Parcial (cirurgia de Handas Batista):&lt;/strong&gt; é uma cirurgia desenvolvida
+por um brasileiro, em que é ressecada uma porção de músculo miocárdico, de modo a reduzir o tamanho da cavidade ventricular. O princípio dessa cirurgia baseia-se na lei de Laplace. Se reduzirmos a relação R/h, reduzimos o “estresse”,
+que, na verdade, representa a pós-carga.&lt;/p&gt;
+
+&lt;h4 id=&quot;transplante-cardíaco&quot;&gt;Transplante cardíaco&lt;/h4&gt;
+
+&lt;p&gt;Terapia imunossupressora: atualmente feita com ciclosporina, prednisona e azatioprina.&lt;/p&gt;
+
+&lt;p&gt;Os pacientes candidatos a transplante são
+aqueles com:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Doença avançada, classe funcional IV permanente, ou III/IV intermitente;&lt;/li&gt;
+  &lt;li&gt;Com sintomas severos e incapacitantes;&lt;/li&gt;
+  &lt;li&gt;Sem alternativa de tratamento;&lt;/li&gt;
+  &lt;li&gt;Com alta mortalidade em um ano.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A FE isoladamente não serve como critério de indicação de transplante (antes a indicação era FE &amp;lt; 20%).&lt;/p&gt;
+
+&lt;p&gt;Contraindicações ao transplante:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Idade avançada (&amp;gt; 70 anos);&lt;/li&gt;
+  &lt;li&gt;Infecção ativa (incluindo CMV, hepatites virais e HIV);&lt;/li&gt;
+  &lt;li&gt;Hepatopatia, nefropatia ou pneumopatia severa (como HAP) e irreversível (pode-se optar pelo transplante desses órgãos, junto ao transplante cardíaco);&lt;/li&gt;
+  &lt;li&gt;Doença psiquiátrica, cerebral ou cerebrovascular avançada;&lt;/li&gt;
+  &lt;li&gt;Doença vascular periférica acentuada (aterosclerose avançada);&lt;/li&gt;
+  &lt;li&gt;Câncer incurável ou de estadiamento incerto;&lt;/li&gt;
+  &lt;li&gt;Obesidade mórbida;&lt;/li&gt;
+  &lt;li&gt;Doença sistêmica grave limitante;&lt;/li&gt;
+  &lt;li&gt;Resistência Vascular Pulmonar (RVP) alta: &amp;gt; 5 unidades Wood, após vasodilatadores.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
 
 &lt;p&gt;Escore de Adhere para avaliação da mortalidade intra-hospitalar&lt;/p&gt;
+
+&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/descompensacao-ic.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tromboembolismo&quot;&gt;Tromboembolismo&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Tromboembolismo Pulmonar:&lt;/strong&gt; devido à formação de trombo nas veias ileofemorais e pélvicas, facilitada pela estase venosa, ou então
+no átrio e ventrículo direitos.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tromboembolismo Sistêmico:&lt;/strong&gt; devido à formação de trombos murais, isto é, no interior dos átrios ou ventrículos, aderidos ou não às suas
+paredes, facilitada pela estase sanguínea e lesão
+endocárdica. Os principais fatores de risco são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;FE &amp;lt; 30%,&lt;/li&gt;
+  &lt;li&gt;Fibrilação atrial,&lt;/li&gt;
+  &lt;li&gt;Acinesia apical.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A anticoagulação na IC crônica
+está indicada sempre nos casos de fibrilação
+atrial, trombo mural e acinesia apical. Nos pacientes com ritmo sinusal e disfunção grave de
+VE (FE &amp;lt; 30%), o uso de anticoagulante também é preconizado por alguns autores.&lt;/p&gt;
+
+&lt;h3 id=&quot;arritmias&quot;&gt;Arritmias&lt;/h3&gt;
+
+&lt;p&gt;Taquiarritmias e bradiarritmias podem ocorrer. Além das extrassístoles ventriculares destacam-se o flutter e fibrilação atriais, a taquicardia ventricular (não sustentada ou sustentada) e o bloqueio AV.&lt;/p&gt;
+
+&lt;p&gt;Uma TV sustentada pode se degenerar em fibrilação
+ventricular, causando morte súbita. O bloqueio
+AV total também pode levar à morte súbita.&lt;/p&gt;
+
+&lt;h3 id=&quot;causas-de-morte&quot;&gt;Causas de morte&lt;/h3&gt;
+
+&lt;p&gt;50-60% dos pacientes com ICC, principalmente aqueles com IC sistólica, morrem subitamente, provavelmente por fibrilação ventricular (ou bradiarritmia/assistolia)&lt;/p&gt;
+
+&lt;p&gt;O restante dos pacientes morre de falência ventricular progressiva, evoluindo para choque cardiogênico ou edema agudo refratário. Uma minoria
+pode morrer de outras eventualidades, como
+tromboembolismo pulmonar ou sistêmico,
+sepse, etc.&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 

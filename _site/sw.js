@@ -350,6 +350,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/Diagram_of_the_human_heart.svg'
       
+        '/assets/cardiologia/NYHA-Classification.jpg'
+      
         '/assets/cardiologia/Wiggers.svg.png'
       
         '/assets/cardiologia/aorta.jpeg'
@@ -374,6 +376,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/circunferencia-manguito.jpeg'
       
+        '/assets/cardiologia/classif-icc.jpeg'
+      
         '/assets/cardiologia/coronarias.gif'
       
         '/assets/cardiologia/coronarias2.jpg'
@@ -381,6 +385,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/coronarias3.png'
       
         '/assets/cardiologia/correcao-pa.jpeg'
+      
+        '/assets/cardiologia/descompensacao-ic.jpeg'
       
         '/assets/cardiologia/diag-flux-has.jpeg'
       
@@ -487,6 +493,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/rxtorax.jpeg'
       
         '/assets/cardiologia/tabela-ecg.jpeg'
+      
+        '/assets/cardiologia/tto-nyha.jpeg'
       
         '/assets/cardiologia/valvulas.jpeg'
       
