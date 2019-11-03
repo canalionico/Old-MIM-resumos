@@ -18,25 +18,11 @@ self.addEventListener('install', function (event) {
       
         '/404.html',
       
-        '/ginecologia.html',
-      
         '/',
-      
-        '/infectologia.html',
-      
-        '/mastologia.html',
-      
-        '/nefrologia.html',
-      
-        '/neonatologia.html',
-      
-        '/obstetricia.html',
       
         '/assets/css/styles.css',
       
         '/sw.js',
-      
-        '/urologia.html',
       
         '/assets/main.css',
       
@@ -47,9 +33,13 @@ self.addEventListener('install', function (event) {
       
         '/cirurgia/tumores-de-mediastino.html',
       
+        '/cardiologia/doencas-da-aorta.html',
+      
         '/cia.html',
       
         '/cardiologia/ecg3.html',
+      
+        '/pneumologia/ira.html',
       
         '/itrs.html',
       
@@ -346,7 +336,11 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/CG_Heart.gif'
       
+        '/assets/cardiologia/CVS_heart_failure_pt.gif'
+      
         '/assets/cardiologia/Diagram_of_the_human_heart.svg'
+      
+        '/assets/cardiologia/NYHA-Classification.jpg'
       
         '/assets/cardiologia/New-York-Heart-Association-NYHA-Heart-Failure-Symptom-Classification-System.png'
       
@@ -355,6 +349,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/aorta.jpeg'
       
         '/assets/cardiologia/arritmia-sinusal.jpeg'
+      
+        '/assets/cardiologia/aterosclerotica.jpeg'
       
         '/assets/cardiologia/aumento-ae.jpeg'
       
@@ -376,6 +372,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/circunferencia-manguito.jpeg'
       
+        '/assets/cardiologia/classif-icc.jpeg'
+      
         '/assets/cardiologia/coronarias.gif'
       
         '/assets/cardiologia/coronarias2.jpg'
@@ -384,11 +382,17 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/correcao-pa.jpeg'
       
+        '/assets/cardiologia/descompensacao-ic.jpeg'
+      
         '/assets/cardiologia/diag-flux-has.jpeg'
       
         '/assets/cardiologia/diag-has.jpeg'
       
         '/assets/cardiologia/dilat-hipert.jpeg'
+      
+        '/assets/cardiologia/drc.jpeg'
+      
+        '/assets/cardiologia/eap.jpeg'
       
         '/assets/cardiologia/ecg-d.png'
       
@@ -422,6 +426,18 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/eixo9.jpeg'
       
+        '/assets/cardiologia/ergh.jpeg'
+      
+        '/assets/cardiologia/ergm.jpeg'
+      
+        '/assets/cardiologia/estratificacao-has.jpeg'
+      
+        '/assets/cardiologia/etiologia-ic.jpeg'
+      
+        '/assets/cardiologia/flux-erg.jpeg'
+      
+        '/assets/cardiologia/framingam.jpeg'
+      
         '/assets/cardiologia/hipertrofia-v.jpeg'
       
         '/assets/cardiologia/hipertrofia-vd.jpeg'
@@ -442,6 +458,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/indicacoes-mapa.jpeg'
       
+        '/assets/cardiologia/indicacoes-tto-has.jpeg'
+      
         '/assets/cardiologia/inervação.jpeg'
       
         '/assets/cardiologia/insp.jpeg'
@@ -449,6 +467,10 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/intervalos.jpeg'
       
         '/assets/cardiologia/marca-passos-não-sinusais.jpeg'
+      
+        '/assets/cardiologia/meta-has.jpeg'
+      
+        '/assets/cardiologia/mev-has.jpeg'
       
         '/assets/cardiologia/ondap.jpeg'
       
@@ -474,13 +496,21 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/quadrados2.jpeg'
       
+        '/assets/cardiologia/resposta-ic.jpeg'
+      
         '/assets/cardiologia/revasc.jpeg'
       
         '/assets/cardiologia/rs.jpeg'
       
         '/assets/cardiologia/rxtorax.jpeg'
       
+        '/assets/cardiologia/sm.jpeg'
+      
+        '/assets/cardiologia/tab8.jpeg'
+      
         '/assets/cardiologia/tabela-ecg.jpeg'
+      
+        '/assets/cardiologia/tto-nyha.jpeg'
       
         '/assets/cardiologia/valvulas.jpeg'
       
@@ -997,6 +1027,8 @@ self.addEventListener('install', function (event) {
         '/assets/pneumo/dpoc-risk.jpeg'
       
         '/assets/pneumo/dpp-atb.jpeg'
+      
+        '/assets/pneumo/ira-tab.jpeg'
       
         '/assets/pneumo/tto-dpp.jpeg'
       
