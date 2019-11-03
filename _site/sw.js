@@ -18,25 +18,11 @@ self.addEventListener('install', function (event) {
       
         '/404.html',
       
-        '/ginecologia.html',
-      
         '/',
-      
-        '/infectologia.html',
-      
-        '/mastologia.html',
-      
-        '/nefrologia.html',
-      
-        '/neonatologia.html',
-      
-        '/obstetricia.html',
       
         '/assets/css/styles.css',
       
         '/sw.js',
-      
-        '/urologia.html',
       
         '/assets/main.css',
       
@@ -358,6 +344,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/arritmia-sinusal.jpeg'
       
+        '/assets/cardiologia/aterosclerotica.jpeg'
+      
         '/assets/cardiologia/aumento-ae.jpeg'
       
         '/assets/cardiologia/aumento-atrial.jpeg'
@@ -394,6 +382,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/dilat-hipert.jpeg'
       
+        '/assets/cardiologia/drc.jpeg'
+      
         '/assets/cardiologia/eap.jpeg'
       
         '/assets/cardiologia/ecg-d.png'
@@ -428,7 +418,15 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/eixo9.jpeg'
       
+        '/assets/cardiologia/ergh.jpeg'
+      
+        '/assets/cardiologia/ergm.jpeg'
+      
+        '/assets/cardiologia/estratificacao-has.jpeg'
+      
         '/assets/cardiologia/etiologia-ic.jpeg'
+      
+        '/assets/cardiologia/flux-erg.jpeg'
       
         '/assets/cardiologia/framingam.jpeg'
       
@@ -491,6 +489,10 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/rs.jpeg'
       
         '/assets/cardiologia/rxtorax.jpeg'
+      
+        '/assets/cardiologia/sm.jpeg'
+      
+        '/assets/cardiologia/tab8.jpeg'
       
         '/assets/cardiologia/tabela-ecg.jpeg'
       
