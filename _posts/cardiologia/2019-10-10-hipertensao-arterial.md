@@ -324,11 +324,19 @@ significativos, sendo recomendada a adoção de medidas não medicamentosas, com
 
 ### Tratamento medicamentoso
 
+Arsenal:
 
-* Diuréticos
-* Inibidores da ECA (IECA)
-* Bloqueadores do receptor ATI da Angio II (BRA II)
-* Antagonistas dos Canais de Cálcio (ACC)
+* Diuréticos (DIU);
+* Betabloqueadores (BB);
+* Bloqueadores do canal de cálcio (BCC);
+* Inibidores da enzima conversora de angiotensina (IECA);
+* Bloqueadores do receptor ATI da angiotensina II (BRA).
+
+Todos os medicamentos anti-hipertensivos disponíveis podem ser utilizados desde que sejam observadas as
+indicações e contraindicações específicas. A
+preferência inicial será sempre por aqueles em que haja comprovação de diminuição de eventos CV, ficando os demais reservados a casos especiais em que haja a necessidade
+da associação de múltiplos medicamentos para que sejam atingidas as metas da PA.
+
 
 Drogas de segunda linha: metildopa, clonidina, rilmenidina, moxonidina, hidralazina, minoxidil,
 reserpina.
@@ -337,6 +345,20 @@ VII Diretriz brasileira: depende do estágio da HAS e fatores de risco.
 
 * Estágio 1: MEV por até seis meses (se baixo risco) ou monoterapia.
 * Estágio 2 / Risco Alto e Muito Alto: terapia combinada (IECA + Ant. Ca++ seria a melhor combinação).
+
+#### Diuréticos
+
+Inicialmente seu efeito natriurético diminui o volume extracelular. Após quatro a seis
+semanas, o volume circulante praticamente se normaliza e ocorre redução da resistência vascular periférica (RVP).
+
+Deve-se dar preferência aos DIU **tiazídicos** ou similares (clortalidona, hidroclorotiazida e indapamida) em doses baixas, pois são mais suaves e com maior tempo de ação, reservando-se os DIU **de alça** (furosemida e bumetanida)
+aos casos de IR (creatinina > 2,0 mg/dl ou RFG calculado < 30 ml/min/1,73m 2) e situações de
+edema (IC ou insuficiência renal).
+
+Os **poupadores de potássio** (espironolactona e amilorida) são habitualmente utilizados em associação com os tiazídicos ou DIU de alça.
+
+**Efeitos adversos:** fraqueza, câimbras, hipovolemia e disfunção erétil.
+
 
 ### Objetivo terapêutico
 
