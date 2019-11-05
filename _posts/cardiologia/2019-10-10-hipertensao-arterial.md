@@ -53,6 +53,14 @@ dos 55 anos.
 
 A maioria dos pacientes são completamente assintomáticos. Quando surgem sintomas, são relacionados à lesão de órgãos-alvo pela doença crônica: coração, cérebro, rim (nefroesclerose benigna e maligna), retina (estreitamento arteriolar, cruzamento AV patológico, manchas algodonosas e hemorragias, papiledema) e vasos sanguíneos (aortopatia e doença arterial periférica).
 
+### Lesões de órgãos alvo
+
+* Coração: hipertrofia ventricular esquerda, IC, doença coronariana aterosclerótica;
+* Cérebro: principalmente o AVE;
+* Rim: doença renal crônica, glomeruloesclerose;
+* Olho: retinopatia, papiledema, manchas algodonosas, estreitamento arteriolar;
+* Vasos sanguíneos: aneurisma, dissecção de aorta, aterosclerose, angina mesentérica.
+
 ### Exame físico
 
 Avaliar: peso, altura, IMC, CA, FC, sinais de LOA. Fazer a fundoscopia quando adequado.
@@ -153,9 +161,9 @@ Em braços com circunferência superior a 50 cm, onde não há manguito disponí
 
 Em **gestantes**, a PA deve ser obtida com a mesma metodologia recomendada para adultos, reforçando-se que ela **também pode ser medida no braço esquerdo na posição de DLE** em repouso, não devendo diferir da obtida na posição sentada. Considerar o quinto ruído de Korotkoff para a PAD. A hipertensão do avental branco (HAB) e a hipertensão mascarada (HM) são comuns na gravizez e, por isso, a MAPA e a MRPA podem constituir métodos úteis na decisão clínica.
 
-Em **idosos** é comum a maior frequência do hiato auscultatório, que consiste no desaparecimento dos sons durante a deflação do manguito, resultando em valores falsamente baixos para a PAS ou falsamente altos para a PAD.
+Em **idosos** é comum a maior frequência do **hiato auscultatório**, que consiste no maior intervalo entre o I e II sons de Korotkoff, resultando em valores falsamente baixos para a PAS ou falsamente altos para a PAD.
 
-**Manobra de Osler:** artéria radial permanece ainda palpável após a insuflação do manguito pelo menos 30 mmHg acima do desaparecimento do pulso radial. Pode detectar a pseudo-hipertensão por doença aterosclerótica.
+**Manobra de Osler:** artéria radial permanece ainda palpável (sensação de "tubo firme") após a insuflação do manguito pelo menos 30 mmHg acima do desaparecimento do pulso radial. Pode detectar a pseudo-hipertensão por doença aterosclerótica, em que os vasos estão mais rígidoz, superestimando a PA.
 
 **Cálculo do índice tornozelo-braquial:** utiliza-se a medição da PAS no braço e no tornozelo, em ambos os lados. Define-se como normal uma relação PAS braço/PAS tornozelo acima de 0,90, definindo-se a presença de DAP como: leve, se a relação é 0,71-0,90; moderada, 0,41-0,70; e grave, 0,00-0,40.
 
@@ -288,7 +296,8 @@ terapia não farmacológica isoladamente não possa promover reduções da PA su
 * Reduzir ingestão alcoólica;
 * Evitar situações estressantes.
 
-As dietas DASH (Dietary Approaches to Stop Hypertension), do mediterrâneo e a vegetariana têm sido relacionadas à redução dos níveis pressóricos.
+A dieta DASH (_Dietary Approaches to Stop Hypertension_), inclui o consumo de grande quantidade de grãos e cereais integrais, frutas, verduras, legumes, laticínios desnatados, carnes magras, nozes, castanhas e óleos vegetais.
+Ela é rica em potássio, magnésio e cálcio – fatores que auxiliam na redução da pressão arterial.
 
 O treinamento aeróbico reduz a PA casual de pré-hipertensos e hipertensos. Ele também reduz a PA de vigília
 de hipertensos e diminui a PA em situações de estresse físico, mental e psicológico. O treinamento aeróbico é
@@ -306,9 +315,9 @@ completa.
 
 ### Indicações do tratamento medicamentoso
 
-**Abordagem de hipertensos estágio 1 de risco baixo e moderado:** a terapia não farmacológica deve ser tentada por 3 (risco moderado) e 6 (baixo risco) meses, findos os quais, a falta de controle da PA condicionará o início de terapia farmacológica.
+**Abordagem de hipertensos estágio 1 de risco baixo e moderado:** a terapia não farmacológica deve ser tentada por 3 (risco moderado) a 6 (baixo risco) meses, findos os quais, a falta de controle da PA condicionará o início de terapia farmacológica. Se o paciente for de alto risco CV ou já tiver DCV estabelecida, deve-se inciar o tratamento medicamentoso de imediato.
 
-**Abordagem para níveis de PA de 130-139/85-89 mmHg:** há várias meta-análises em portadores de PH mostrando maior risco de progressão para HAS e de eventos CV nesse grupo, após ajuste para os demais FR. Como justificativa, recomendam-se medidas não medicamentosas para essa faixa pressórica. O tratamento medicamentoso pode ser considerado nos pré-hipertensos com PA de 130-139/85-89 mmHg e história prévia de DCV ou naqueles com risco CV alto, sem DCV. A decisão de instituir terapia farmacológica deve ser individualizada.
+**Abordagem para níveis de PA de 130-139/85-89 mmHg (PH):** há várias meta-análises em portadores de PH mostrando maior risco de progressão para HAS e de eventos CV nesse grupo, após ajuste para os demais FR. Como justificativa, recomendam-se medidas não medicamentosas para essa faixa pressórica. O tratamento medicamentoso pode ser considerado nos pré-hipertensos com PA de 130-139/85-89 mmHg e história prévia de DCV ou naqueles com risco CV alto, sem DCV. A decisão de instituir terapia farmacológica deve ser individualizada.
 
 **Abordagem de hipertensos estágios 2 e 3 e/ou de alto risco:** indivíduos com PA ≥ 160/100 mmHg e/ou portadores de risco CV estimado alto, mesmo no estágio 1, devem iniciar de imediato o tratamento medicamentoso associado à terapia não medicamentosa.
 
@@ -334,9 +343,7 @@ Arsenal:
 
 Todos os medicamentos anti-hipertensivos disponíveis podem ser utilizados desde que sejam observadas as
 indicações e contraindicações específicas. A
-preferência inicial será sempre por aqueles em que haja comprovação de diminuição de eventos CV, ficando os demais reservados a casos especiais em que haja a necessidade
-da associação de múltiplos medicamentos para que sejam atingidas as metas da PA.
-
+preferência inicial será sempre por aqueles em que haja comprovação de diminuição de eventos CV, ficando os demais reservados a casos especiais em que haja a necessidade da associação de múltiplos medicamentos para que sejam atingidas as metas da PA.
 
 Drogas de segunda linha: metildopa, clonidina, rilmenidina, moxonidina, hidralazina, minoxidil,
 reserpina.
@@ -357,8 +364,83 @@ edema (IC ou insuficiência renal).
 
 Os **poupadores de potássio** (espironolactona e amilorida) são habitualmente utilizados em associação com os tiazídicos ou DIU de alça.
 
-**Efeitos adversos:** fraqueza, câimbras, hipovolemia e disfunção erétil.
+**Efeitos adversos:** fraqueza, câimbras, hipovolemia e disfunção erétil. Hipopotassemia, eventualmente acompanhada de hipomagnesemia, que podem induzir arritmias ventriculares, sobretudo extrassistolia. Intolerância à glicose por reduzir a liberação de insulina, aumentando o risco do desenvolvimento de DM2. O aumento do ácido úrico é um efeito quase universal dos DIU, mas de consequências clínicas não documentadas, exceto pela precipitação de crises de gota nos indivíduos com predisposição.
 
+O uso de doses baixas diminui o risco dos efeitos adversos, sem prejuízo da eficácia anti-hipertensiva, especialmente quando em associação com outras classes de medicamentos. A espironolactona pode causar hiperpotassemia, em particular em pacientes com déficit de função renal.
+
+#### Alfa-agonistas de ação central
+
+Agem através do estímulo dos receptores α2 que estão envolvidos nos mecanismos simpatoinibitórios. Nem todos são seletivos. Os efeitos bem definidos dessa classe são: diminuição da atividade simpática e do reflexo dos barorreceptores, contribuindo para bradicardia relativa e a hipotensão notada em ortostatismo; discreta diminuição na RVP e no débito cardíaco; redução nos níveis plasmáticos de renina e retenção de fluidos.
+
+* Metildopa;
+* Clonidina;
+* Guanabenzo;
+* Inibidores dos receptores imidazolínicos (moxonidina e rilmenidina).
+
+**Efeitos adversos:** a metildopa pode provocar reações autoimunes, como febre, anemia hemolítica, galactorreia e disfunção hepática, que na maioria dos casos desaparecem com a cessação do uso. No desenvolvimento de uma reação adversa, esse pode ser substituído por outro alfa-agonista central. A clonidina apresenta um risco maior do efeito rebote com a descontinuação, especialmente quando associada a um BB e pode ser perigosa em situações pré-operatórias. Os medicamentos dessa classe, apresentam reações adversas decorrentes da ação central, como _sonolência_, _sedação_, boca seca, fadiga, hipotensão postural e disfunção erétil.
+
+#### Betabloqueadores
+
+Promovem diminuição inicial do débito cardíaco e da secreção de renina, havendo readaptação dos barorreceptores
+e diminuição das catecolaminas nas sinapses nervosas. Os fármacos de terceira geração (carvedilol, nebivolol)
+além das ações anteriores, têm efeito vasodilatador por mecanismos diferentes: o **carvedilol**, pelo seu efeito de
+bloqueio concomitante do receptor alfa-1 adrenérgico; e o **nebivolol**, por aumentar a síntese e liberação de óxido nítrico no endotélio vascular. O **propranolol** mostra-se também útil em pacientes com tremor essencial, síndromes hipercinéticas, cefaleia de origem vascular e hipertensão portal.
+
+**Efeitos adversos:** broncoespasmo, bradicardia, distúrbios da condução atrioventricular, vasoconstrição periférica, insônia, pesadelos, depressão psíquica, astenia e disfunção sexual. Os BB de primeira e segunda geração são formalmente contraindicados a pacientes com asma brônquica, doença pulmonar obstrutiva crônica (DPOC) e bloqueio atrioventricular de segundo e terceiro graus, podem acarretar intolerância à glicose, induzir ao aparecimento de novos casos de DM, hipertrigliceridemia com elevação do LDL-colesterol e redução da fração HDL-colesterol.
+
+O impacto sobre o metabolismo da glicose é potencializado quando são utilizados em combinação com DIU. Os BB de
+terceira geração (carvedilol e o nebivolol) têm impacto neutro ou até podem melhorar o metabolismo da glicose e lipídico.
+
+#### Alfabloqueadores
+
+Agem como antagonistas competitivos dos α1-receptores pós-sinápticos, levando a redução da RVP sem maiores mudanças no débito cardíaco. São representantes dessa classe a **doxazosina**, **prazosina** e **terazosina**. O efeito hipotensor é discreto como monoterapia, sendo a preferência pelo uso associado. Apresentam contribuição favorável e discreta no metabolismo lipídico e glicídico, e em especial na melhora da sintomatologia relacionada à hipertrofia prostática benigna.
+
+**Efeitos adversos:** podem provocar hipotensão sintomática na primeira dose. O fenômeno de tolerância é frequente, necessitando aumento da dose, ao longo do uso. Incontinência urinária em mulheres pode ser causada pelo uso de alfabloqueadores. Há evidência de que os pacientes tratados com doxazosina têm maior risco de incidência de ICC.
+
+#### Vasodilatadores diretos
+
+Os medicamentos que representam essa classe são **hidralazina** e **minoxidil**. Atuam diretamente, relaxando a
+musculatura lisa arterial, levando a redução da RVP.
+
+**Efeitos adversos:** os efeitos colaterais da hidralazina são cefaleia, flushing, taquicardia reflexa e reação lupus-like (dose-dependente). O uso dessa medicação deve ser cuidadoso em pacientes com DAC e deve ser evitado naqueles com aneurisma dissecante da aorta e episódio recente de hemorragia cerebral. Seu uso pode também acarretar anorexia, náusea, vômito e diarreia. Um efeito colateral comum do minoxidil é o hirsutismo, que ocorre em aproximadamente 80% dos pacientes. Um efeito menos comum é a expansão generalizada de volume circulante e taquicardia reflexa.
+
+#### Bloqueadores dos canais de cálcio
+
+Os BCC agem primordialmente proporcionando redução da RVP como consequência da diminuição da quantidade de
+cálcio no interior das células musculares lisas das arteríolas, decorrente do bloqueio dos canais de cálcio na membrana
+dessas células. São classificados em 2 tipos básicos: os di-idropiridínicos e os não di-idropiridínicos.
+
+Os BCC di-idropiridínicos (**amlodipino**, **nifedipino**, felodipino, nitrendipino, manidipino, lercanidipino, levanlodipino, lacidipino, isradipino, nisoldipino, nimodipino) exercem um efeito vasodilatador predominante, com mínima interferência
+na frequência e na função sistólica, sendo, por isso, mais frequentemente usados como anti-hipertensivos.
+
+Os não di-idropiridínicos, como as fenilalquilaminas (**verapamil**) e as benzotiazepinas (diltiazem), têm menor efeito vasodilatador, e podem ser bradicardizantes e antiarrítmicos, o que restringe seu uso a alguns casos específicos. Podem deprimir a função sistólica cardíaca, principalmente em pacientes que já apresentavam tal disfunção antes do início do seu uso, devendo ser evitados nessa condição.
+
+**Efeitos adversos:** edema maleolar costuma ser o efeito colateral mais registrado, e resulta da própria ação vasodilatadora (mais arterial que venosa), promovendo a transudação capilar. Cefaleia latejante e tonturas não são incomuns. O rubor facial é mais comum com os BCC di-idropiridínicos de ação rápida. Hipercromia do terço distal das pernas (dermatite ocre) e a hipertrofia gengival podem ocorrer ocasionalmente. Tais efeitos podem ser dose-dependentes. Verapamil e diltiazem podem agravar a IC, além de bradicardia e bloqueio atrioventricular.
+Obstipação intestinal é observada com verapamil.
+
+#### Inibidores da enzima conversora da angiotensina
+
+Impedem a transformação de angiotensina I em angiotensina II, de ação vasoconstritora. São eficazes no tratamento da HA, reduzindo a morbimortalidade CV. São medicações comprovadamente  úteis em muitas outras afecções CV, como em IC com fração de ejeção reduzida, anti-remodelamento cardíaco pós-infarto, além de possíveis propriedades antiateroscleróticas. Também _retardam o declínio da função renal em pacientes com nefropatia diabética ou de outras etiologias_.
+
+**Efeitos adversos:** habitualmente bem tolerados pela maioria dos pacientes hipertensos, a **tosse seca** é seu principal efeito colateral, acometendo 5 a 20% dos pacientes. Edema angioneurótico e erupção cutânea ocorrem mais raramente. Um fenômeno passageiro observado quando do seu uso inicial em pacientes com insuficiência renal é a elevação de ureia e creatinina séricas, habitualmente de pequena monta e reversível. A longo prazo, revelam-se eficazes em reduzir a progressão da DRC. Podem provocar hiperpotassemia em pacientes com insuficiência renal, particularmente diabéticos. Podem promover redução do RFG e aumento em graus variáveis de ureia, creatina e potássio em pacientes com estenose bilateral das artérias renais ou com estenose de artéria renal em rim único funcionante. Seu uso é **contraindicado na gravidez**, pelo risco de complicações fetais. Por isso, seu emprego deve
+ser cauteloso e frequentemente monitorado em adolescentes e mulheres em idade fértil.
+
+#### Bloqueadores dos receptores AT1 da angiotensina II
+
+Os BRA antagonizam a ação da angiotensina II por meio do bloqueio específico dos receptores AT1, responsáveis
+pelas ações vasoconstritoras, proliferativas e estimuladoras da liberação de aldosterona, próprias da angiotensina II. No tratamento da HA, especialmente em populações de alto risco CV ou com comorbidades, proporcionam redução da
+morbimortalidade CV e renal (nefropatia diabética).
+
+**Efeitos adversos:** são incomuns os efeitos adversos relacionados aos BRA, sendo o exantema raramente observado. Pelas mesmas razões dos IECA, são **contraindicados na gravidez**, devendo os mesmos cuidados ser tomados em mulheres em idade fértil.
+
+#### Inibidores diretos da renina
+
+**Alisquireno**, único representante da classe disponível para uso clínico, promove a inibição direta da ação da renina com consequente diminuição da formação de angiotensina II. Outras ações podem contribuir para a redução da PA e a proteção tissular, tais como redução da atividade plasmática de renina, bloqueio de um receptor celular próprio de
+renina/pró-renina e diminuição da síntese intracelular de angiotensina II. Estudos de eficácia anti-hipertensiva
+comprovam sua capacidade, em monoterapia, de redução da PA de intensidade semelhante aos demais anti-hipertensivos.
+Não existem, contudo, evidências de seus benefícios sobre morbimortalidade.
+
+**Efeitos adversos:** apresentam boa tolerabilidade. “Rash” cutâneo, diarreia (especialmente com doses elevadas, acima de 300 mg/dia), aumento de CPK e tosse são os eventos mais frequentes, porém, em geral, com incidência inferior a 1%. Seu uso é contraindicado na gravidez.
 
 ### Objetivo terapêutico
 
@@ -370,6 +452,48 @@ Os **poupadores de potássio** (espironolactona e amilorida) são habitualmente 
 Aula: PA < 140 x 90 mmHg (ou < 150 x 90 mmHg nos pacientes com mais de 60 anos).
 
 ![Indicação](/assets/cardiologia/meta-has.jpeg)
+
+### Esquemas terapêuticos
+
+#### Monoterapia
+
+Pode ser a estratégia inicial para pacientes em estágio 1, com risco CV baixo e moderado. Entretanto, deve-se observar que, de acordo com a meta a ser atingida, a maioria dos pacientes irá necessitar da associação de medicamentos. O tratamento deve ser individualizado e a escolha inicial do medicamento a ser utilizado como monoterapia deve basear-se nos seguintes aspectos: capacidade de o agente escolhido reduzir a morbimortalidade CV; mecanismo fisiopatogênico
+predominante no paciente a ser tratado; características individuais; doenças associadas; condições socioeconômicas.
+
+As classes de anti-hipertensivos atualmente consideradas preferenciais para o controle da PA em monoterapia inicial são:
+
+* DIU tiazídicos (preferência para clortalidona);
+* IECA;
+* BCC;
+* BRA.
+
+Deve ser observado que os DIU são os fármacos que apresentam mais evidências de efetividade com relação aos
+desfechos CV, com claros benefícios para todos os tipos de eventos.
+
+O BB poderá ser considerado como fármaco inicial em situações específicas, como a associação de arritmias supraventriculares, enxaqueca, IC e coronariopatia, sendo que, nas duas últimas condições, deverá estar associado a
+outros fármacos.
+
+#### Combinação
+
+A maioria dos pacientes vai necessitar do uso de mais de um medicamento para que sejam atingidas as metas. Por esse
+motivo, os pacientes com HA estágio 1 e com risco CV alto ou muito alto ou com DCV associada e aqueles com estágio 2 ou
+3 com ou sem outros FRCV associados devem ser considerados para o uso de combinação de fármacos. A utilização
+de associações de dois medicamentos em baixas dosagens em hipertensos estágio 1, mesmo com baixo ou moderado risco
+CV, embora não preferencial, também poderá ser considerada em casos individuais.
+
+Para a escolha dos medicamentos em associação, deve ser evitado o uso de anti-hipertensivos com mesmo mecanismo de ação. Fazem exceção a essa regra a associação de DIU tiazídicos com poupadores de potássio. O uso de DIU de alça
+deve ser reservado para aqueles com RFG abaixo de 30ml/min ou com edema grave. As associações que tenham atuação
+sinérgica sempre propiciarão resultados melhores.
+
+**A associação de IECA com BRA não é recomendada, pois, além de não mostrar benefício em desfechos CV, acrescentou risco de efeitos adversos.**
+
+Nos casos em que se configure a HA resistente (falta de controle da PA com o uso de pelo menos três medicamentos
+em dosagens máximas toleradas, sendo um deles um DIU), está indicada a associação de espironolactona.
+
+Os simpaticolíticos de ação central (clonidina) ou BB podem ser uma alternativa ao quarto fármaco, ficando o uso de
+vasodilatadores diretos reservado para casos especiais e em associação com DIU e BB.
+
+![Indicação](/assets/cardiologia/has-drogas.jpeg)
 
 ## Referências
 

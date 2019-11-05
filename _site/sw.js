@@ -438,6 +438,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/framingam.jpeg'
       
+        '/assets/cardiologia/has-drogas.jpeg'
+      
         '/assets/cardiologia/hipertrofia-v.jpeg'
       
         '/assets/cardiologia/hipertrofia-vd.jpeg'
@@ -497,6 +499,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/quadrados2.jpeg'
       
         '/assets/cardiologia/resposta-ic.jpeg'
+      
+        '/assets/cardiologia/resposta-pa.jpeg'
       
         '/assets/cardiologia/revasc.jpeg'
       
