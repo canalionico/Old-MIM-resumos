@@ -31,6 +31,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cardiologia/anti-hipertensivos.html',
+      
         '/cirurgia/tumores-de-mediastino.html',
       
         '/cardiologia/doencas-da-aorta.html',
@@ -68,6 +70,8 @@ self.addEventListener('install', function (event) {
         '/cardiologia/hipertensao-arterial.html',
       
         '/cardiologia/fisiologia-cardiovascular.html',
+      
+        '/cardiologia/arritmias.html',
       
         '/mapas/abdome-agudo.html',
       
@@ -346,9 +350,13 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/Wiggers.svg.png'
       
+        '/assets/cardiologia/alca-de-reentrada.jpeg'
+      
         '/assets/cardiologia/aorta.jpeg'
       
         '/assets/cardiologia/arritmia-sinusal.jpeg'
+      
+        '/assets/cardiologia/arritmias-sinusais.jpeg'
       
         '/assets/cardiologia/aterosclerotica.jpeg'
       
@@ -430,6 +438,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/ergm.jpeg'
       
+        '/assets/cardiologia/escape-juncional.jpeg'
+      
         '/assets/cardiologia/estratificacao-has.jpeg'
       
         '/assets/cardiologia/etiologia-ic.jpeg'
@@ -504,6 +514,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/revasc.jpeg'
       
+        '/assets/cardiologia/ritmo-sinusal.jpeg'
+      
         '/assets/cardiologia/rs.jpeg'
       
         '/assets/cardiologia/rxtorax.jpeg'
@@ -527,6 +539,14 @@ self.addEventListener('install', function (event) {
         '/assets/emergencia/abdome-agudo.jpeg'
       
         '/assets/emergencia/abdome-agudo2.jpeg'
+      
+        '/assets/farmaco/acao-bb.jpeg'
+      
+        '/assets/farmaco/bcc.jpeg'
+      
+        '/assets/farmaco/ieca.jpeg'
+      
+        '/assets/farmaco/ieca2.jpeg'
       
         '/assets/favicon.png'
       

@@ -1,4 +1,292 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-04T21:20:12-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Patologias da aorta</title><link href="http://localhost:4000/cardiologia/doencas-da-aorta.html" rel="alternate" type="text/html" title="Patologias da aorta" /><published>2019-10-31T00:00:00-03:00</published><updated>2019-10-31T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/doencas-da-aorta</id><content type="html" xml:base="http://localhost:4000/cardiologia/doencas-da-aorta.html">&lt;ul&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-05T16:22:07-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Anti hipertensivos</title><link href="http://localhost:4000/cardiologia/anti-hipertensivos.html" rel="alternate" type="text/html" title="Anti hipertensivos" /><published>2019-11-05T00:00:00-03:00</published><updated>2019-11-05T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/anti-hipertensivos</id><content type="html" xml:base="http://localhost:4000/cardiologia/anti-hipertensivos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#sistema-renina-angiotensina-aldosterona&quot; id=&quot;markdown-toc-sistema-renina-angiotensina-aldosterona&quot;&gt;Sistema renina-angiotensina-aldosterona&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#medicamentos&quot; id=&quot;markdown-toc-medicamentos&quot;&gt;Medicamentos&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#cuidados-individualizados&quot; id=&quot;markdown-toc-cuidados-individualizados&quot;&gt;Cuidados individualizados&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diuréticos&quot; id=&quot;markdown-toc-diuréticos&quot;&gt;Diuréticos&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#tiazídicos&quot; id=&quot;markdown-toc-tiazídicos&quot;&gt;Tiazídicos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#diuréticos-de-alça&quot; id=&quot;markdown-toc-diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#poupadores-de-potássio&quot; id=&quot;markdown-toc-poupadores-de-potássio&quot;&gt;Poupadores de potássio&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#β-bloqueadores&quot; id=&quot;markdown-toc-β-bloqueadores&quot;&gt;β-bloqueadores&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#efeitos-adversos&quot; id=&quot;markdown-toc-efeitos-adversos&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#inibidores-da-enzima-conversora-de-angiotensina&quot; id=&quot;markdown-toc-inibidores-da-enzima-conversora-de-angiotensina&quot;&gt;Inibidores da enzima conversora de angiotensina&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#usos-terapêuticos&quot; id=&quot;markdown-toc-usos-terapêuticos&quot;&gt;Usos terapêuticos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#efeitos-adversos-1&quot; id=&quot;markdown-toc-efeitos-adversos-1&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bloqueadores-do-receptor-at1-da-angiotensina-ii&quot; id=&quot;markdown-toc-bloqueadores-do-receptor-at1-da-angiotensina-ii&quot;&gt;Bloqueadores do receptor AT1 da angiotensina II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#inibidores-da-renina&quot; id=&quot;markdown-toc-inibidores-da-renina&quot;&gt;Inibidores da renina&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bloqueadores-dos-canais-de-cálcio&quot; id=&quot;markdown-toc-bloqueadores-dos-canais-de-cálcio&quot;&gt;Bloqueadores dos canais de cálcio&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#difenilalquilaminas&quot; id=&quot;markdown-toc-difenilalquilaminas&quot;&gt;Difenilalquilaminas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#benzotiazepínico&quot; id=&quot;markdown-toc-benzotiazepínico&quot;&gt;Benzotiazepínico&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#di-hidropiridinas&quot; id=&quot;markdown-toc-di-hidropiridinas&quot;&gt;Di-hidropiridinas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ações&quot; id=&quot;markdown-toc-ações&quot;&gt;Ações&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#usos-terapêuticos-1&quot; id=&quot;markdown-toc-usos-terapêuticos-1&quot;&gt;Usos terapêuticos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#efeitos-adversos-2&quot; id=&quot;markdown-toc-efeitos-adversos-2&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bloqueadores-dos-adrenorreceptores-α&quot; id=&quot;markdown-toc-bloqueadores-dos-adrenorreceptores-α&quot;&gt;Bloqueadores dos adrenorreceptores α&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bloqueadores-dos-adrenorreceptores-α-e-β&quot; id=&quot;markdown-toc-bloqueadores-dos-adrenorreceptores-α-e-β&quot;&gt;Bloqueadores dos adrenorreceptores α e β&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#adrenérgicos-de-ação-central&quot; id=&quot;markdown-toc-adrenérgicos-de-ação-central&quot;&gt;Adrenérgicos de ação central&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#clonidina&quot; id=&quot;markdown-toc-clonidina&quot;&gt;Clonidina&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#metildopa&quot; id=&quot;markdown-toc-metildopa&quot;&gt;Metildopa&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#vasodilatadores&quot; id=&quot;markdown-toc-vasodilatadores&quot;&gt;Vasodilatadores&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A pressão arterial é regulada dentro de uma faixa estreita para prover perfusão adequada aos tecidos sem causar lesões ao sistema vascular, particularmente à túnica íntima arterial (endotélio). Ela é diretamente proporcional ao débito cardíaco e à resistência vascular periférica. O débito cardíaco e a resistência periférica são controlados principalmente por dois mecanismos sobrepostos de controle: os barorreflexos e o sistema renina-angiotensina-aldosterona. A maioria dos anti-hipertensivos diminui a pressão arterial, reduzindo o débito cardíaco e/ou diminuindo a resistência periférica.&lt;/p&gt;
+
+&lt;p&gt;O objetivo do tratamento anti-hipertensivo é reduzir a morbidade cardiovascular e renal e a mortalidade.&lt;/p&gt;
+
+&lt;h2 id=&quot;sistema-renina-angiotensina-aldosterona&quot;&gt;Sistema renina-angiotensina-aldosterona&lt;/h2&gt;
+
+&lt;p&gt;Os rins são responsáveis pelo controle da PA ajustando o volume sanguíneo. Os barorreceptores nos rins respondem à pressão arterial reduzida (e à estimulação simpática de adrenoceptores β1), liberando a enzima &lt;strong&gt;renina&lt;/strong&gt;. Ingestão baixa de sódio e aumento da perda de sódio também tornam maior a liberação de renina. Essa peptidase &lt;strong&gt;converte angiotensinogênio em angiotensina I&lt;/strong&gt;, que é convertida, por sua vez, em &lt;strong&gt;angiotensina II&lt;/strong&gt; na presença da &lt;strong&gt;enzima conversora de angiotensina&lt;/strong&gt; (ECA). A &lt;strong&gt;angiotensina II é um vasoconstritor&lt;/strong&gt; circulante potente, que contrai arteríolas e veias, resultando no aumento da pressão arterial. A angiotensina II exerce ação vasoconstritora preferencial nas arteríolas eferentes do glomérulo renal, aumentando a filtração glomerular. Além disso, a angiotensina II estimula a secreção de &lt;strong&gt;aldosterona&lt;/strong&gt;, levando ao aumento da reabsorção renal de sódio e ao aumento do volume sanguíneo, o que contribui para o aumento adicional da pressão arterial. Esses efeitos são mediados pela estimulação dos &lt;strong&gt;receptores da angiotensina II tipo 1&lt;/strong&gt; (AT1).&lt;/p&gt;
+
+&lt;h2 id=&quot;medicamentos&quot;&gt;Medicamentos&lt;/h2&gt;
+
+&lt;p&gt;As recomendações atuais são de iniciar o tratamento com diurético tiazídico, IECA, bloqueador do receptor de angiotensina (BRA) ou bloqueador dos canais de cálcio (BCC).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/resposta-pa.jpeg&quot; alt=&quot;DRC&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;cuidados-individualizados&quot;&gt;Cuidados individualizados&lt;/h3&gt;
+
+&lt;p&gt;A hipertensão pode coexistir com outras doenças que podem ser agravadas por alguns anti-hipertensivos ou que podem se beneficiar com eles, independentemente do controle da pressão arterial. Nesses casos, é importante encontrar o melhor fármaco anti-hipertensivo para cada paciente em particular.&lt;/p&gt;
+
+&lt;h2 id=&quot;diuréticos&quot;&gt;Diuréticos&lt;/h2&gt;
+
+&lt;p&gt;Independentemente da classe, o mecanismo de ação inicial dos diuréticos é baseado na &lt;strong&gt;redução do volume&lt;/strong&gt;, o que leva à diminuição da pressão arterial. O tratamento com doses baixas de diuréticos é seguro, barato e eficaz na prevenção de derrame, infarto do miocárdio e insuficiência cardíaca. Devem-se &lt;strong&gt;monitorar os eletrólitos&lt;/strong&gt; séricos rotineiramente em todos os pacientes que recebem diuréticos.&lt;/p&gt;
+
+&lt;h3 id=&quot;tiazídicos&quot;&gt;Tiazídicos&lt;/h3&gt;
+
+&lt;p&gt;Os tiazídicos podem ser usados como tratamento farmacológico inicial contra a hipertensão, a menos que alguma razão obrigue a escolha de outro fármaco.&lt;/p&gt;
+
+&lt;p&gt;Os diuréticos tiazídicos, como a &lt;strong&gt;hidroclorotiazida&lt;/strong&gt; (&lt;em&gt;Clorana&lt;/em&gt;), &lt;strong&gt;indapamida&lt;/strong&gt; (&lt;em&gt;Idapen&lt;/em&gt;) e a &lt;strong&gt;clortalidona&lt;/strong&gt; (&lt;em&gt;Higroton&lt;/em&gt;), diminuem a pressão arterial inicialmente por &lt;strong&gt;aumentar a excreção de sódio e água&lt;/strong&gt;. Isso causa uma redução do volume extracelular, resultando em diminuição do débito cardíaco e do fluxo sanguíneo renal.&lt;/p&gt;
+
+&lt;p&gt;Atuam na porção mais distal da alça de Henle com a porção proximal do túbulo distal, inibindo a reabsorção de Na/K/Cl.&lt;/p&gt;
+
+&lt;p&gt;Com o tratamento prolongado, o volume de plasma volta ao normal, mas persiste o efeito hipotensor relacionado com a diminuição da resistência periférica. Os tiazídicos são úteis no tratamento combinado com uma variedade de outros anti-hipertensivos, incluindo BBs, IECAs, BRAs e diuréticos poupadores de potássio.&lt;/p&gt;
+
+&lt;p&gt;Com exceção da &lt;strong&gt;metolazona&lt;/strong&gt;, os diuréticos tiazídicos não são eficazes em pacientes com função renal inadequada (velocidade de filtração glomerular estimada menor que 30
+mL/min/m2). Nesses pacientes, podem ser necessários diuréticos de alça.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hipopotassemia;&lt;/li&gt;
+  &lt;li&gt;Hipocalemia;&lt;/li&gt;
+  &lt;li&gt;Hiponatremia;&lt;/li&gt;
+  &lt;li&gt;Hiperuricemia;&lt;/li&gt;
+  &lt;li&gt;Hipercolesterolemia;&lt;/li&gt;
+  &lt;li&gt;em menor extensão, Hiperglicemia em alguns pacientes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/h3&gt;
+
+&lt;p&gt;Agem na porção ascendente da alça de Henle e inibem a reabsorção de Na/K/Cl (maior excreção desses eletrólitos e, consequentemente, de água).&lt;/p&gt;
+
+&lt;p&gt;Os principais são: &lt;strong&gt;furosemida&lt;/strong&gt; (&lt;em&gt;Lasix&lt;/em&gt;), &lt;strong&gt;torsemida&lt;/strong&gt;, bumetanida (&lt;em&gt;Burinax&lt;/em&gt;) e ácido etacrínico. Atuam rapidamente, &lt;strong&gt;bloqueando a reabsorção de sódio e cloreto nos rins&lt;/strong&gt;, mesmo em pacientes com má função renal ou naqueles que não responderam ao diurético tiazídico. Os diuréticos de alça causam diminuição da resistência vascular renal e aumento do fluxo sanguíneo renal.&lt;/p&gt;
+
+&lt;p&gt;Como os tiazídicos, eles podem causar hipopotassemia. Contudo, diferentemente dos tiazídicos, os diuréticos de alça &lt;strong&gt;aumentam o conteúdo de Ca++ na urina&lt;/strong&gt;, ao passo que os tiazídicos diminuem.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hipocalemia&lt;/li&gt;
+  &lt;li&gt;Hipovolemia&lt;/li&gt;
+  &lt;li&gt;Hiponatremia&lt;/li&gt;
+  &lt;li&gt;Alterações do perfil metabólico (Glic, CT, Ac. Úrico)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os diuréticos e alça raramente são usados isoladamente para tratar a hipertensão, mas são comumente usados para tratar sintomas de insuficiência
+cardíaca e edema.&lt;/p&gt;
+
+&lt;h3 id=&quot;poupadores-de-potássio&quot;&gt;Poupadores de potássio&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Amilorida&lt;/strong&gt; e &lt;strong&gt;triantereno&lt;/strong&gt; (inibidores do transporte de sódio epitelial nos
+ductos distais e coletores), bem como &lt;strong&gt;espironolactona&lt;/strong&gt; (&lt;em&gt;Aldactone&lt;/em&gt;) e &lt;strong&gt;eplerenona&lt;/strong&gt; (antagonistas de receptor da aldosterona), reduzem a perda de potássio na urina. A aldosterona tem a vantagem adicional de diminuir a remodelação cardíaca que ocorre na insuficiência cardíaca.&lt;/p&gt;
+
+&lt;p&gt;Os diuréticos poupadores de potássio são usados algumas vezes associados aos diuréticos de alça e aos tiazídicos para reduzir a espoliação do potássio causada por esses diuréticos.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Moduretic&lt;/em&gt;: amilorida associada a hidroclorotiazida;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Diurana&lt;/em&gt;: triantereno associadoa furosemia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;β-bloqueadores&quot;&gt;β-bloqueadores&lt;/h2&gt;
+
+&lt;p&gt;Reduzem a PA primariamente &lt;span class=&quot;orange&quot;&gt;diminuindo o débito cardíaco&lt;/span&gt;. Eles também podem diminuir o efluxo simpático do sistema nervoso central (SNC) e &lt;span class=&quot;blue&quot;&gt;inibir a liberação de renina&lt;/span&gt; dos rins, reduzindo, assim, a formação de angiotensina II e a secreção de aldosterona. O protótipo dos β-bloqueadores é o &lt;strong&gt;propranolol&lt;/strong&gt;, que atua em receptores β 1 e β2. Bloqueadores seletivos de receptores β1, como &lt;strong&gt;metoprolol&lt;/strong&gt; e &lt;strong&gt;atenolol&lt;/strong&gt;, estão entre os β-bloqueadores mais comumente prescritos. O &lt;span class=&quot;red&quot;&gt;nebivolol&lt;/span&gt; é um bloqueador seletivo de receptores β1 que &lt;span class=&quot;red&quot;&gt;aumenta também a produção de óxido nítrico&lt;/span&gt;, levando à vasodilatação.&lt;/p&gt;
+
+&lt;p&gt;Os β-bloqueadores seletivos devem ser administrados cautelosamente em pacientes hipertensos que também têm asma. Os β-bloqueadores não seletivos, como propranolol e nadolol, são contraindicados devido ao bloqueio da broncodilatação mediada por β2. Os β-bloqueadores devem ser usados com cautela no tratamento de pacientes com insuficiência cardíaca aguda ou doença vascular periférica.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/farmaco/acao-bb.jpeg&quot; alt=&quot;BB&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A vantagem terapêutica primária dos BB é observada em pacientes hipertensos com doença cardíaca concomitante, como &lt;span class=&quot;green&quot;&gt;taquiarritmia supraventricular&lt;/span&gt; (p. ex. fibrilação atrial), &lt;span class=&quot;green&quot;&gt;infarto do miocárdico&lt;/span&gt; prévio, &lt;span class=&quot;green&quot;&gt;angina pectoris&lt;/span&gt; e &lt;span class=&quot;green&quot;&gt;insuficiência cardíaca&lt;/span&gt; crônica. As condições que desaconselham o uso de β-bloqueadores incluem doença broncoespástica como asma, bloqueio cardíaco de segundo e terceiro graus e doença vascular periférica grave.&lt;/p&gt;
+
+&lt;p&gt;Podem demorar várias semanas até desenvolverem seu efeito pleno.&lt;/p&gt;
+
+&lt;h3 id=&quot;efeitos-adversos&quot;&gt;Efeitos adversos&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Efeitos comuns:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Bradicardia;&lt;/li&gt;
+      &lt;li&gt;Hipotensão;&lt;/li&gt;
+      &lt;li&gt;Efeitos adversos no SNC, como fadiga, letargia e insônia;&lt;/li&gt;
+      &lt;li&gt;Diminuir a libido e causar disfunção erétil;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alterações nos padrões lipídicos séricos:&lt;/strong&gt; desregular o metabolismo lipídico, diminuindo a lipoproteína de alta densidade (HDL) e aumentando os triglicerídeos;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Retirada do fármaco:&lt;/strong&gt; A retirada abrupta dos BBs pode causar angina, infarto do miocárdio e mesmo a morte súbita de pacientes com doença cardíaca isquêmica. Por isso, esses fármacos devem ser reduzidos gradualmente ao longo de algumas semanas em pacientes com hipertensão e doença cardíaca isquêmica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;inibidores-da-enzima-conversora-de-angiotensina&quot;&gt;Inibidores da enzima conversora de angiotensina&lt;/h2&gt;
+
+&lt;p&gt;Os IECAs, como &lt;strong&gt;enalapril&lt;/strong&gt; e &lt;strong&gt;lisinopril&lt;/strong&gt;, são recomendados como tratamento
+de primeira escolha contra hipertensão em pacientes com uma variedade de indicações, incluindo risco alto de doença coronária ou história de diabetes, AVE, insuficiência cardíaca, infarto do miocárdio ou doença renal crônica.&lt;/p&gt;
+
+&lt;p&gt;Diminuem a PA reduzindo a RVP sem aumentar reflexamente o DC, a FC ou a contratilidade cardíaca. Esses fármacos bloqueiam a ECA que hidrolisa a angiotensina I para formar o &lt;strong&gt;potente vasoconstritor angiotensina II&lt;/strong&gt;. A ECA também é responsável pela degradação da &lt;strong&gt;bradicinina&lt;/strong&gt;, &lt;span class=&quot;blue&quot;&gt;um peptídeo que aumenta a produção de óxido nítrico e prostaciclinas nos vasos sanguíneos&lt;/span&gt;. Ambos, óxido nítrico e prostaciclinas, são potentes vasodilatadores. Os IECAs diminuem os níveis de angiotensina II e aumentam os de bradicinina. Ocorre vasodilatação de arteríolas e veias como resultado da menor vasoconstrição causada pela redução dos níveis de angiotensina II e maior vasodilatação devido ao aumento da
+bradicinina. Reduzindo os níveis de angiotensina II circulante, os IECAs também &lt;strong&gt;diminuem a secreção de aldosterona&lt;/strong&gt;, resultando em menor retenção de sódio e água. Os IECAs &lt;span class=&quot;blue&quot;&gt;diminuem a pré-carga e a pós-carga&lt;/span&gt; cardíaca, reduzindo, assim, o trabalho cardíaco.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/farmaco/ieca2.jpeg&quot; alt=&quot;BB&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;usos-terapêuticos&quot;&gt;Usos terapêuticos&lt;/h3&gt;
+
+&lt;p&gt;Como os BRAs, os IECAs retardam a progressão da nefropatia diabética e diminuem a albuminúria. Por isso, são &lt;strong&gt;fortemente indicados para uso em pacientes com nefropatia diabética&lt;/strong&gt;. Os efeitos benéficos na função renal podem resultar da diminuição da pressão intraglomerular devido à vasodilatação da arteríola eferente.&lt;/p&gt;
+
+&lt;p&gt;Os IECAs são usados no cuidado de pacientes após infarto do miocárdio e são fármacos de primeira escolha no tratamento de pacientes com disfunções sistólicas. O tratamento crônico com IECAs obtém redução sustentada da pressão arterial, regressão da hipertrofia ventricular esquerda e &lt;strong&gt;prevenção do remodelamento ventricular&lt;/strong&gt;, após infarto do miocárdio.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;São os fármacos de primeira escolha para tratar a insuficiência cardíaca&lt;/strong&gt;, os pacientes hipertensos &lt;strong&gt;com doença renal crônica&lt;/strong&gt; e os pacientes com &lt;strong&gt;risco elevado de doença arterial coronariana&lt;/strong&gt;. Todos os IECAs são igualmente eficazes no
+tratamento da hipertensão, em doses equivalentes.&lt;/p&gt;
+
+&lt;h3 id=&quot;efeitos-adversos-1&quot;&gt;Efeitos adversos&lt;/h3&gt;
+
+&lt;p&gt;Os efeitos adversos comuns incluem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Tosse seca:&lt;/strong&gt; em cerca de 10% dos pacientes, parece ser decorrente do aumento dos níveis de bradicinina e substância P na árvore pulmonar e melhora dentro de poucos dias após a interrupção;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Exantema&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;Febre;&lt;/li&gt;
+  &lt;li&gt;Alteração do paladar;&lt;/li&gt;
+  &lt;li&gt;Hipotensão (em estados hipovolêmicos);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hiperpotassemia:&lt;/strong&gt; monitorar os niveis de potássio!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Podem induzir malformações fetais e não devem ser usados em gestantes!!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/farmaco/ieca.jpeg&quot; alt=&quot;BB&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bloqueadores-do-receptor-at1-da-angiotensina-ii&quot;&gt;Bloqueadores do receptor AT1 da angiotensina II&lt;/h2&gt;
+
+&lt;p&gt;Os BRAs como &lt;strong&gt;losartana&lt;/strong&gt; e &lt;strong&gt;irbesartana&lt;/strong&gt; são &lt;span class=&quot;blue&quot;&gt;alternativas aos IECAs&lt;/span&gt;. Esses fármacos bloqueiam os receptores AT1, diminuindo a sua ativação pela angiotensina II.&lt;/p&gt;
+
+&lt;p&gt;Seus efeitos farmacológicos são similares aos dos IECAs por
+produzirem dilatação arteriolar e venosa e bloqueio da secreção de aldosterona, reduzindo, assim, a PA e diminuindo a retenção de sal
+e água.&lt;/p&gt;
+
+&lt;p&gt;Os BRAs &lt;strong&gt;não aumentam os níveis de bradicinina&lt;/strong&gt;. Eles podem ser usados como fármacos de primeira escolha para o tratamento da hipertensão, especialmente em pacientes com forte indicação de diabetes, insuficiência cardíaca ou doença renal crônica. Os efeitos adversos são semelhantes aos dos IECAs, embora o risco de tosse e angioedema seja significativamente menor.&lt;/p&gt;
+
+&lt;p&gt;Não devem ser associados com IECA para o tratamento da hipertensão devido à similaridade de mecanismo e de efeitos adversos.&lt;/p&gt;
+
+&lt;p&gt;Também são teratogênicos e não devem ser usados em gestantes!!&lt;/p&gt;
+
+&lt;h2 id=&quot;inibidores-da-renina&quot;&gt;Inibidores da renina&lt;/h2&gt;
+
+&lt;p&gt;O inibidor seletivo da renina, &lt;strong&gt;alisquireno&lt;/strong&gt;, está disponível para o tratamento
+da hipertensão. Inibe diretamente a renina e, assim, atua mais precocemente no sistema renina-angiotensina-aldosterona do que os IECAs ou os BRAs. Ele reduz a PA com eficácia similar à dos BRAs, IECAs e tiazídicos.&lt;/p&gt;
+
+&lt;p&gt;O alisquireno não deve ser usado rotineiramente associado com IECA ou BRA. Pode causar diarreia, especialmente em doses altas, e pode causar também tosse e angioedema, mas possivelmente menos do que com IECAs.&lt;/p&gt;
+
+&lt;p&gt;Como os IECAs e os BRAs, o aliquireno é contraindicado durante a gestação. O aliquireno é biotransformado pela CYP3A4 e é sujeito a interações de fármacos.&lt;/p&gt;
+
+&lt;h2 id=&quot;bloqueadores-dos-canais-de-cálcio&quot;&gt;Bloqueadores dos canais de cálcio&lt;/h2&gt;
+
+&lt;p&gt;Os BCCs são uma opção de tratamento recomendado para hipertensos com diabetes ou angina. Doses elevadas de BCCs de curta duração devem ser evitadas devido ao maior risco de infarto do miocárdio por vasodilatação excessiva e acentuada estimulação cardíaca reflexa.&lt;/p&gt;
+
+&lt;p&gt;Os BCCs são divididos em três classes químicas, cada uma com propriedades farmacocinéticas e indicações clínicas diferentes:&lt;/p&gt;
+
+&lt;h3 id=&quot;difenilalquilaminas&quot;&gt;Difenilalquilaminas&lt;/h3&gt;
+
+&lt;p&gt;O &lt;strong&gt;verapamil&lt;/strong&gt; é o único representante dessa classe disponível nos EUA. É o menos seletivo dos BCCs e apresenta efeitos significativos nas células cardíacas e no
+músculo liso vascular. Ele é usado também no tratamento da angina e das taquiarritmias supraventriculares, bem como para prevenir a enxaqueca e a cefaleia em salvas.&lt;/p&gt;
+
+&lt;h3 id=&quot;benzotiazepínico&quot;&gt;Benzotiazepínico&lt;/h3&gt;
+
+&lt;p&gt;O &lt;strong&gt;diltiazem&lt;/strong&gt; é o único membro dessa classe que está aprovado nos EUA atualmente. Como o verapamil, o diltiazem afeta tanto as células cardíacas quanto as do músculo liso vascular, mas apresenta efeito inotrópico cardíaco negativo menos pronunciado comparado ao efeito do verapamil. O diltiazem apresenta um perfil de efeitos adversos favorável.&lt;/p&gt;
+
+&lt;h3 id=&quot;di-hidropiridinas&quot;&gt;Di-hidropiridinas&lt;/h3&gt;
+
+&lt;p&gt;Esta classe de BCCs inclui &lt;strong&gt;nifedipino&lt;/strong&gt; (o protótipo), &lt;strong&gt;anlodipino&lt;/strong&gt;, felodipino, isradipino, nicardipino e nisoldipino. Esses fármacos diferem na farmacocinética, nos usos aprovados e nas interações farmacológicas.&lt;/p&gt;
+
+&lt;p&gt;Todas as di-hidropiridinas apresentam muito maior afinidade pelos canais de cálcio vasculares do que pelos canais de cálcio do coração. Elas são, por isso, particularmente benéficas no tratamento da hipertensão. As di-hidropiridinas têm a vantagem de interagir pouco com outros fármacos cardiovasculares, como a digoxina ou a varfarina, que são frequentemente usados em conjunto com BCCs.&lt;/p&gt;
+
+&lt;h3 id=&quot;ações&quot;&gt;Ações&lt;/h3&gt;
+
+&lt;p&gt;A concentração intracelular de cálcio tem um papel importante na manutenção do tônus da musculatura lisa e na contração do miocárdio. O cálcio entra nas células musculares através de canais de cálcio voltagem-sensíveis. Isso dispara a liberação de cálcio do retículo sarcoplasmático e da mitocôndria, aumentando adicionalmente o nível de cálcio citosólico. Os antagonistas de canais de cálcio bloqueiam a entrada de cálcio por se ligarem aos canais de cálcio do tipo L no coração e nos músculos lisos dos vasos coronarianos e arteriolares periféricos. Isso causa o relaxamento do músculo liso vascular, dilatando principalmente as arteríolas. Os BCCs não dilatam veias.&lt;/p&gt;
+
+&lt;h3 id=&quot;usos-terapêuticos-1&quot;&gt;Usos terapêuticos&lt;/h3&gt;
+
+&lt;p&gt;No tratamento da hipertensão, os BCCs podem ser usados como tratamento inicial ou adicional. Eles &lt;strong&gt;são úteis no tratamento de pacientes hipertensos que também têm asma, diabetes e/ou doença vascular periférica&lt;/strong&gt; porque, diferentemente dos BBs, eles não têm potencial de afetar adversamente essas condições. Todos os BCCs são úteis no
+tratamento da angina. Além disso, &lt;strong&gt;diltiazem e verapamil são usados no tratamento da fibrilação atrial&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;efeitos-adversos-2&quot;&gt;Efeitos adversos&lt;/h3&gt;
+
+&lt;p&gt;Bloqueio atrioventricular de primeiro grau e constipação são efeitos adversos dose-dependentes do verapamil. Verapamil e diltiazem devem ser evitados em pacientes com insuficiência cardíaca congestiva ou com bloqueio atrioventricular, devido aos efeitos inotrópicos (força de contração do músculo cardíaco) e dromotrópicos (velocidade de condução) negativos.&lt;/p&gt;
+
+&lt;p&gt;Tontura, cefaleia e sensação de fadiga causada pela redução da pressão arterial ocorrem mais frequentemente com di-hidropiridinas. &lt;span class=&quot;red&quot;&gt;Edema periférico&lt;/span&gt; é outro efeito adverso comumente registrado desta classe. Nifedipina e outras di-hidropiridinas podem causar hiperplasia gengival.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/farmaco/bcc.jpeg&quot; alt=&quot;BCC&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bloqueadores-dos-adrenorreceptores-α&quot;&gt;Bloqueadores dos adrenorreceptores α&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Prazosina&lt;/strong&gt;, &lt;strong&gt;doxazosina&lt;/strong&gt; e &lt;strong&gt;terazosina&lt;/strong&gt; produzem bloqueio competitivo de
+adrenoceptores α1 . Diminuem a RVP e reduzem a PA, relaxando os músculos lisos de artérias e veias. Causam mudanças mínimas no DC, no fluxo sanguíneo renal e na velocidade de filtração glomerular. Por isso, não ocorre taquicardia no tratamento prolongado, mas sim retenção de sal e água.&lt;/p&gt;
+
+&lt;p&gt;Taquicardia reflexa e hipotensão postural ocorrem com frequência no início do tratamento e com o aumento da dose, exigindo lenta titulação do fármaco em doses divididas. Devido aos resultados fracos e ao perfil de efeitos adversos, os α-bloqueadores &lt;strong&gt;não são recomendados no tratamento inicial da hipertensão&lt;/strong&gt; há muito tempo, mas podem ser &lt;strong&gt;usados para casos refratários&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Outros α 1-bloqueadores, com maior seletividade para o músculo da próstata, são usados no tratamento da hiperplasia prostática benigna.&lt;/p&gt;
+
+&lt;h2 id=&quot;bloqueadores-dos-adrenorreceptores-α-e-β&quot;&gt;Bloqueadores dos adrenorreceptores α e β&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Labetalol&lt;/strong&gt; e &lt;strong&gt;carvedilol&lt;/strong&gt; bloqueiam os receptores α1, β1 e β2. O carvedilol, embora eficaz como anti-hipertensivo, é usado principalmente no tratamento da insuficiência cardíaca. O carvedilol, bem como o succinato de metoprolol e o bisoprolol, revelaram-se capazes de reduzir a morbidade e a mortalidade associadas à insuficiência cardíaca.&lt;/p&gt;
+
+&lt;p&gt;O &lt;strong&gt;labetalol&lt;/strong&gt; é usado no tratamento da &lt;strong&gt;hipertensão gestacional&lt;/strong&gt; e em emergências hipertensivas.&lt;/p&gt;
+
+&lt;h2 id=&quot;adrenérgicos-de-ação-central&quot;&gt;Adrenérgicos de ação central&lt;/h2&gt;
+
+&lt;h3 id=&quot;clonidina&quot;&gt;Clonidina&lt;/h3&gt;
+
+&lt;p&gt;A clonidina atua centralmente, produzindo inibição dos centros vasomotores simpáticos e diminuindo a estimulação simpática para a periferia. Isso leva à redução da resistência periférica total e à diminuição da PA. A clonidina é &lt;strong&gt;usada primariamente no tratamento da hipertensão que não responde adequadamente ao tratamento com dois ou mais fármacos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A clonidina não reduz o fluxo sanguíneo renal ou a filtração glomerular e, portanto, é útil no tratamento da hipertensão complicada por doença renal. É bem absorvida após administração oral e é excretada pelos rins. Também está disponível como adesivo transcutâneo.&lt;/p&gt;
+
+&lt;p&gt;Os efeitos adversos incluem sedação, boca seca e constipação. Ocorre hipertensão de rebote após interrupção súbita da clonidina. Por isso, se a interrupção for necessária, o fármaco deve ser retirado lentamente.&lt;/p&gt;
+
+&lt;h3 id=&quot;metildopa&quot;&gt;Metildopa&lt;/h3&gt;
+
+&lt;p&gt;Metildopa é um α2-agonista que é convertido em metilnorepinefrina no SNC, causando diminuição do efluxo adrenérgico.&lt;/p&gt;
+
+&lt;p&gt;Os efeitos adversos mais comuns da metildopa são &lt;strong&gt;sedação&lt;/strong&gt; e &lt;strong&gt;sonolência&lt;/strong&gt;. Seu uso é limitado devido aos efeitos adversos e à necessidade de múltiplas dosificações
+diárias. É usada principalmente para o tratamento da &lt;strong&gt;hipertensão na gestação&lt;/strong&gt;, por ter registros de segurança.&lt;/p&gt;
+
+&lt;h2 id=&quot;vasodilatadores&quot;&gt;Vasodilatadores&lt;/h2&gt;
+
+&lt;p&gt;Os relaxantes de músculos lisos de ação direta, como a &lt;strong&gt;hidralazina&lt;/strong&gt; e o &lt;strong&gt;minoxidil&lt;/strong&gt;, &lt;span class=&quot;blue&quot;&gt;não são usados como fármacos primários&lt;/span&gt; no tratamento da hipertensão. Produzem relaxamento do músculo liso vascular, primariamente em artérias e arteríolas. Isso resulta em diminuição da resistência periférica e, por isso, da pressão arterial.&lt;/p&gt;
+
+&lt;p&gt;Esses fármacos produzem estimulação reflexa do coração, resultando em aumentos reflexos da contratilidade miocárdica, da frequência cardíaca e do consumo de oxigê-
+nio. Essas ações &lt;strong&gt;podem causar angina pectoris&lt;/strong&gt;, infarto do miocárdio ou insuficiência cardíaca em indivíduos predispostos.&lt;/p&gt;
+
+&lt;p&gt;Os vasodilatadores também aumentam a concentração plasmática de renina, causando retenção de sódio e água. Esses efeitos indesejados podem ser bloqueados pelo uso
+concomitante de um diurético e um β-bloqueador. &lt;strong&gt;Por exemplo, a hidralazina é administrada quase sempre em associação com um β-bloqueador&lt;/strong&gt;, como propranolol, metoprolol ou atenolol (&lt;span class=&quot;green&quot;&gt;para compensar a taquicardia reflexa&lt;/span&gt;), &lt;strong&gt;e um diurético&lt;/strong&gt; (&lt;span class=&quot;green&quot;&gt;para reduzir a retenção de sódio&lt;/span&gt;). Juntos, os três fármacos diminuem o débito cardíaco, o volume plasmático e a resistência vascular periférica.&lt;/p&gt;
+
+&lt;p&gt;A hidralazina é uma medicação aceita no controle da hipertensão induzida pela gestação. Os efeitos adversos do tratamento com hidralazina incluem &lt;strong&gt;cefaleia&lt;/strong&gt;, &lt;strong&gt;taquicardia&lt;/strong&gt;, &lt;strong&gt;náusea&lt;/strong&gt;, &lt;strong&gt;sudoração&lt;/strong&gt;, &lt;strong&gt;arritmia&lt;/strong&gt; e &lt;strong&gt;precipitação de angina&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Uma síndrome semelhante ao lúpus pode ocorrer com doses elevadas, mas é reversível com a interrupção do uso do fármaco. O tratamento com &lt;strong&gt;minoxidil causa hipertricose&lt;/strong&gt;. Atualmente, esse fármaco é usado topicamente no tratamento da calvície masculina padrão.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Patologias da aorta</title><link href="http://localhost:4000/cardiologia/doencas-da-aorta.html" rel="alternate" type="text/html" title="Patologias da aorta" /><published>2019-10-31T00:00:00-03:00</published><updated>2019-10-31T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/doencas-da-aorta</id><content type="html" xml:base="http://localhost:4000/cardiologia/doencas-da-aorta.html">&lt;ul&gt;
   &lt;li&gt;Aneurismas&lt;/li&gt;
   &lt;li&gt;Dissecções&lt;/li&gt;
   &lt;li&gt;Pseudoanerismas&lt;/li&gt;
@@ -202,7 +490,33 @@ Se a valva estiver acometida é necessário, também, troca-lá.&lt;/p&gt;
 
 &lt;h3 id=&quot;clínico&quot;&gt;Clínico&lt;/h3&gt;
 
-&lt;p&gt;Indicado quando a cirúrgia não pode ser feita. Por exemplo, quando a pressão arterial pulmonar está muito alta. Se a cirurgia for feita nessa situação, o coração não terá força para vencer a pressão arterial pulmonar e terá congestão sistêmica constante.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG III - Arritmias</title><link href="http://localhost:4000/cardiologia/ecg3.html" rel="alternate" type="text/html" title="ECG III - Arritmias" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg3</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg3.html">&lt;p&gt;O coração em repouso bate com um ritmo regular, de &lt;strong&gt;60 a 100 vezes&lt;/strong&gt;
+&lt;p&gt;Indicado quando a cirúrgia não pode ser feita. Por exemplo, quando a pressão arterial pulmonar está muito alta. Se a cirurgia for feita nessa situação, o coração não terá força para vencer a pressão arterial pulmonar e terá congestão sistêmica constante.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG III - Arritmias</title><link href="http://localhost:4000/cardiologia/ecg3.html" rel="alternate" type="text/html" title="ECG III - Arritmias" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg3</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg3.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#registro-de-rítmo&quot; id=&quot;markdown-toc-registro-de-rítmo&quot;&gt;Registro de rítmo&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#holter&quot; id=&quot;markdown-toc-holter&quot;&gt;Holter&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#frequência-cardíaca&quot; id=&quot;markdown-toc-frequência-cardíaca&quot;&gt;Frequência cardíaca&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#método-bizu&quot; id=&quot;markdown-toc-método-bizu&quot;&gt;Método bizu&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tipos-de-arritmia&quot; id=&quot;markdown-toc-tipos-de-arritmia&quot;&gt;Tipos de arritmia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#arritmias-de-origem-sinusal&quot; id=&quot;markdown-toc-arritmias-de-origem-sinusal&quot;&gt;Arritmias de origem sinusal&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#taquicardia-e-bradicardia-sinusal&quot; id=&quot;markdown-toc-taquicardia-e-bradicardia-sinusal&quot;&gt;Taquicardia e Bradicardia sinusal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#arritmia-sinusal&quot; id=&quot;markdown-toc-arritmia-sinusal&quot;&gt;Arritmia sinusal&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#parada-sinusal-assistolia-e-batimentos-de-escape&quot; id=&quot;markdown-toc-parada-sinusal-assistolia-e-batimentos-de-escape&quot;&gt;Parada sinusal, assistolia e batimentos de escape&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#marca-passos-não-sinusais&quot; id=&quot;markdown-toc-marca-passos-não-sinusais&quot;&gt;Marca-passos não sinusais&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#parada-sinusal-versus-bloqueio-de-saída-sinusal&quot; id=&quot;markdown-toc-parada-sinusal-versus-bloqueio-de-saída-sinusal&quot;&gt;Parada sinusal versus bloqueio de saída sinusal&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ritmos-ectópicos&quot; id=&quot;markdown-toc-ritmos-ectópicos&quot;&gt;Ritmos ectópicos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ritmos-reentrantes&quot; id=&quot;markdown-toc-ritmos-reentrantes&quot;&gt;Ritmos reentrantes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pausa-para-um-conceito&quot; id=&quot;markdown-toc-pausa-para-um-conceito&quot;&gt;Pausa para um conceito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#arritmias-supraventriculares&quot; id=&quot;markdown-toc-arritmias-supraventriculares&quot;&gt;Arritmias supraventriculares&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;O coração em repouso bate com um ritmo regular, de &lt;strong&gt;60 a 100 vezes&lt;/strong&gt;
 por minuto. Como cada batimento se origina da despolarização do nó
 sinoatrial (SA), o ritmo cardíaco habitual do dia a dia é chamado ritmo
 sinusal normal. Qualquer outra ocorrência é chamada de &lt;strong&gt;arritmia&lt;/strong&gt; (ou,
@@ -297,8 +611,7 @@ Holter para determinar se há uma correlação entre os sintomas do paciente e q
 
 &lt;h2 id=&quot;tipos-de-arritmia&quot;&gt;Tipos de arritmia&lt;/h2&gt;
 
-&lt;p&gt;O coração é capaz apenas de cinco tipos básicos de distúrbio de
-ritmo:&lt;/p&gt;
+&lt;p&gt;O coração é capaz apenas de cinco tipos básicos de distúrbio de ritmo:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;Origem sinusal:&lt;/strong&gt; a atividade elétrica segue as vias de condução usuais que já foram delineadas, mas é muito rápida, muito lenta ou irregular;&lt;/li&gt;
@@ -335,9 +648,109 @@ além de 100 bpm, ele é chamado de &lt;strong&gt;taquicardia sinusal&lt;/strong
 
 &lt;h3 id=&quot;marca-passos-não-sinusais&quot;&gt;Marca-passos não sinusais&lt;/h3&gt;
 
-&lt;p&gt;Assim como o nó SA, que geralmente dispara entre 60 e100 vezes por minuto, estas outras células de marca-passo potenciais têm o seu próprio ritmo intrínseco.&lt;/p&gt;
+&lt;p&gt;Assim como o nó SA, que geralmente dispara entre 60 e 100 vezes por minuto, estas outras células de marca-passo potenciais têm o seu próprio ritmo intrínseco.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/marca-passos-não-sinusais.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">O coração em repouso bate com um ritmo regular, de 60 a 100 vezes por minuto. Como cada batimento se origina da despolarização do nó sinoatrial (SA), o ritmo cardíaco habitual do dia a dia é chamado ritmo sinusal normal. Qualquer outra ocorrência é chamada de arritmia (ou, mais acuradamente, disritmia.</summary></entry><entry><title type="html">Insuficiência respiratória aguda</title><link href="http://localhost:4000/pneumologia/ira.html" rel="alternate" type="text/html" title="Insuficiência respiratória aguda" /><published>2019-10-24T00:00:00-03:00</published><updated>2019-10-24T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/ira</id><content type="html" xml:base="http://localhost:4000/pneumologia/ira.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/ira-tab.jpeg&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/marca-passos-não-sinusais.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Cada um desses marca-passos não sinusais pode resgatar um nó SA
+inadequado fornecendo apenas um batimento de escape ou uma série
+contínua desses batimentos. De todos os mecanismos de escape disponíveis, o &lt;strong&gt;escape juncional&lt;/strong&gt; é, sem dúvida, o mais comum.&lt;/p&gt;
+
+&lt;p&gt;No escape juncional, a despolarização se origina próximo ao nó AV, e o padrão habitual de despolarização atrial não ocorre. Como resultado, não é vista uma onda P normal. Mais frequentemente, não há nenhuma onda P. Às vezes, contudo, pode ser vista uma onda P retrógrada, representando a despolarização atrial se movendo para trás, a partir do nó AV e para dentro dos átrios.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/escape-juncional.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;
+Uma observação especial para os encantados eletricamente: há uma forma
+pela qual a parada sinusal transitória e o bloqueio de saída sinusal podem,
+às vezes, ser distinguidos no ECG. Na parada sinusal, o reinício da atividade
+elétrica sinusal ocorre em qualquer momento aleatoriamente (o nó SA sim-
+plesmente recomeça a disparar). Contudo, no bloqueio de saída sinusal, o
+nó SA continua a disparar silenciosamente. Logo, quando o bloqueio cessa, o
+nó SA retoma a despolarização dos átrios após uma pausa que é um múltiplo
+inteiro do ciclo normal (exatamente uma onda P perdida, ou exatamente duas
+ondas P perdidas, ou mais).&lt;/p&gt;
+
+&lt;h3 id=&quot;parada-sinusal-versus-bloqueio-de-saída-sinusal&quot;&gt;Parada sinusal versus bloqueio de saída sinusal&lt;/h3&gt;
+
+&lt;p&gt;Como a despolarização do nó SA não é registrada no ECG, é impossível determinar se uma pausa sinusal prolongada é devida à parada sinusal ou à falha na transmissão da despolarização sinusal para fora do nó e para os átrios, uma situação chamada bloqueio de saída sinusal.&lt;/p&gt;
+
+&lt;p&gt;Você pode ouvir esses diferentes termos alternados de tempos em tempos,
+mas, para todos os propósitos, parada sinusal e bloqueio de saída sinusal
+significam a mesma coisa: há uma falha no mecanismo sinusal em fornecer a sua corrente para os tecidos adjacentes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/arritmias-sinusais.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Uma observação especial para os encantados eletricamente: há uma forma pela qual a parada sinusal transitória e o bloqueio de saída sinusal podem, às vezes, ser distinguidos no ECG. Na parada sinusal, o reinício da atividade elétrica sinusal ocorre em qualquer momento aleatoriamente (o nó SA simplesmente recomeça a disparar). Contudo, no bloqueio de saída sinusal, o nó SA continua a disparar silenciosamente. Logo, quando o bloqueio cessa, o nó SA retoma a despolarização dos átrios após uma pausa que é um múltiplo inteiro do ciclo normal (exatamente uma onda P perdida, ou exatamente duas ondas P perdidas, ou mais).&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;ritmos-ectópicos&quot;&gt;Ritmos ectópicos&lt;/h2&gt;
+
+&lt;p&gt;Os ritmos ectópicos são ritmos anormais que se originam de outro lugar que não o nó SA. Desse modo, eles lembram batimentos de escape, mas, aqui, a abordagem é sobre ritmos sustentados, não apenas um ou alguns batimentos. Ritmos ectópicos podem ser causados por qualquer um dos fatores precipitantes descritos.&lt;/p&gt;
+
+&lt;p&gt;Em circunstâncias anormais, qualquer um dos outros marca-passos espalhados pelo coração pode ser acelerado, ou seja, estimulado para despolarizar cada vez mais rápido até que possa superar o mecanismo sinusal normal e estabelecer o seu próprio ritmo ectópico transitório ou sustentado.&lt;/p&gt;
+
+&lt;p&gt;Entre as causas mais comuns de aumento da automaticidade estão a intoxicação &lt;strong&gt;digitálica&lt;/strong&gt; e a &lt;strong&gt;estimulação beta-adrenérgica por terapias inalatórias&lt;/strong&gt; usadas para tratar asma e DPOC.&lt;/p&gt;
+
+&lt;h2 id=&quot;ritmos-reentrantes&quot;&gt;Ritmos reentrantes&lt;/h2&gt;
+
+&lt;p&gt;A segunda maior causa de arritmias não sinusais é chamada de reentrada. Representa um distúrbio da transmissão do impulso. O resultado é a criação de um foco de atividade elétrica anormal.&lt;/p&gt;
+
+&lt;p&gt;Normalmente, a condução passando por duas vias distintas deve ocorrer simultâneamente, na mesma velocidade. Contudo, se uma via for mais lenta que a outra (p. ex. danificada por doença isquêmica ou fibrose), a onda de despolarização será acelerada pela via rápida mas retida pela via lenta. E, quando o impulso chegar na via lenta, se ela já estiver repolarizada, pode ocorrer uma nova despolarização nos dois sentidos dessa via lenta.&lt;/p&gt;
+
+&lt;p&gt;À medida que o impulso elétrico gira por essa alça, ondas de despolarização são enviadas em todas as direções. Isso é chamado de &lt;strong&gt;alça de reentrada&lt;/strong&gt;, e ela se comporta como um circuito elétrico, fornecendo uma fonte de ativação elétrica que pode suprimir o mecanismo sinusal e comandar o coração.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/alca-de-reentrada.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Uma alça de reentrada pode variar significativamente em tamanho. Pode ser limitada em uma alça pequena dentro de um único local anatômico (p. ex., o nó AV), pode fazer uma alça por toda a câmara (o átrio ou o ventrículo) ou pode até mesmo envolver um átrio e um ventrículo se houver uma via acessória de condução conectando as duas
+câmaras.&lt;/p&gt;
+
+&lt;h2 id=&quot;pausa-para-um-conceito&quot;&gt;Pausa para um conceito&lt;/h2&gt;
+
+&lt;p&gt;Todas as arritmias não sinusais clinicamente importantes são de origem ectópica ou reentrante. Para avaliar qualquer distúrbio de ritmo em um ECG, você apenas precisa responder a quatro perguntas:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Há ondas P normais?&lt;/li&gt;
+  &lt;li&gt;Os complexos QRS são estreitos ou largos?&lt;/li&gt;
+  &lt;li&gt;Qual é a relação entre as ondas P e os complexos QRS?&lt;/li&gt;
+  &lt;li&gt;O ritmo é regular ou irregular?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Para o ECG normal (ritmo sinusal normal), as respostas são fáceis:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Sim, há ondas P normais.&lt;/li&gt;
+  &lt;li&gt;Os complexos QRS são estreitos.&lt;/li&gt;
+  &lt;li&gt;Há uma onda P para cada complexo QRS.&lt;/li&gt;
+  &lt;li&gt;O ritmo é essencialmente regular.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Pois:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Há ondas P normais presentes?&lt;/strong&gt; Se a resposta é “sim”, se há ondas P de aspecto normal com um eixo da onda P normal, então a origem da arritmia é, quase certamente, dentro dos átrios.
+    &lt;ul&gt;
+      &lt;li&gt;Se não houver ondas P, então o ritmo deve se originar abaixo dos átrios, no nó AV ou nos ventrículos.&lt;/li&gt;
+      &lt;li&gt;A presença das ondas P com um eixo anormal pode refletir uma ativação retrógrada dos átrios por impulsos que se originam abaixo dos átrios, no nó AV ou nos ventrículos, ou seja, do fluxo de corrente de volta para os átrios através do nó AV ou de uma via acessória.&lt;/li&gt;
+      &lt;li&gt;Um eixo anormal da onda P não garante que a origem do ritmo esteja localizada abaixo dos átrios, enquanto um eixo normal da onda P é uma boa garantia de que o ritmo se origine acima do nó AV.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Os complexos QRS são estreitos (menos de 0,12 segundo de duração) ou largos (mais de 0,12 segundo de duração)?&lt;/strong&gt; Um complexo QRS estreito normal implica que a despolarização ventricular está progredindo ao longo das vias usuais (nó AV para o feixe de His, dele para os ramos e destes para as células de Purkinje).
+    &lt;ul&gt;
+      &lt;li&gt;Esse é o meio mais eficiente de condução, requerendo a menor quantidade de tempo. Dessa forma, o complexo QRS resultante tem curta duração (estreito). Um complexo QRS estreito, portanto, indica que a origem do ritmo deve ser no nó AV ou acima dele.&lt;/li&gt;
+      &lt;li&gt;Um complexo QRS amplo geralmente implica que a origem da despolarização ventricular está dentro dos próprios ventrículos. A despolarização é iniciada dentro do miocárdio ventricular, não do sistema de condução, e, assim,espalha-se muito mais lentamente.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Qual é a relação entre as ondas P e os complexos QRS?&lt;/strong&gt; Se as ondas P e os complexos QRS se correlacionam da forma normal um para um, com uma única onda P precedendo cada complexo QRS, então, quase certamente, o ritmo tem uma origem sinusal ou atrial.
+    &lt;ul&gt;
+      &lt;li&gt;Às vezes, contudo, os átrios e os ventrículos se despolarizam e contraem independentemente um do outro. Isso se manifestará no ECG por uma falta de correlação entre as ondas P e os complexos QRS: uma situação chamada dissociação AV.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;O ritmo é regular ou irregular?&lt;/strong&gt; Essa é, frequentemente, a característica mais imediatamente óbvia de um ritmo particular e é, às vezes, a mais crítica.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ritmo-sinusal.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;arritmias-supraventriculares&quot;&gt;Arritmias supraventriculares&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência respiratória aguda</title><link href="http://localhost:4000/pneumologia/ira.html" rel="alternate" type="text/html" title="Insuficiência respiratória aguda" /><published>2019-10-24T00:00:00-03:00</published><updated>2019-10-24T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/ira</id><content type="html" xml:base="http://localhost:4000/pneumologia/ira.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/ira-tab.jpeg&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#definindo-o-ângulo&quot; id=&quot;markdown-toc-definindo-o-ângulo&quot;&gt;Definindo o ângulo&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#desvios-de-eixo&quot; id=&quot;markdown-toc-desvios-de-eixo&quot;&gt;Desvios de eixo&lt;/a&gt;&lt;/li&gt;
@@ -1873,151 +2286,4 @@ sepse, etc.&lt;/p&gt;
   &lt;li&gt;Cirurgia&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Quando suspeitar de etiologia bacteriana? Na realidade não da pra afirmar se é ou não bacteriana. Conseguimos ter uma leve estimativa com base na intensidade dos sintomas, na duração do quadro.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Síndrome coronariana aguda</title><link href="http://localhost:4000/cardiologia/sca.html" rel="alternate" type="text/html" title="Síndrome coronariana aguda" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/sca</id><content type="html" xml:base="http://localhost:4000/cardiologia/sca.html">&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/revasc.jpeg&quot; alt=&quot;Revasc&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Pneumonia</title><link href="http://localhost:4000/pneumologia/pneumonia.html" rel="alternate" type="text/html" title="Pneumonia" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/pneumonia</id><content type="html" xml:base="http://localhost:4000/pneumologia/pneumonia.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#típica-x-atípica&quot; id=&quot;markdown-toc-típica-x-atípica&quot;&gt;Típica x Atípica&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#curb-65&quot; id=&quot;markdown-toc-curb-65&quot;&gt;CURB-65&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É um processo inflamatório produzido por um agente infeccioso que acomete os bronquíolos e os alvéolos. É todo processo inflamatório agudo do parênquima pulmonar decorrente da infecção por algum micro-organismo.&lt;/p&gt;
-
-&lt;p&gt;Na suspeita de infecção pelo Mycoplasma, é melhor já iniciar o tratamento empírico com a azitromicina.&lt;/p&gt;
-
-&lt;p&gt;Formas anatomopatológicas e radiológicas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Alveolar&lt;/strong&gt; (pneumocócica, clássica): MV normal ou diminuio, FT aumentado, creptos e macicez no local;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Broncopneumonia&lt;/strong&gt;: ausculta de roncos;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pneumonias intersticiais&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A &lt;strong&gt;pneumonia lobar&lt;/strong&gt; é definida pela consolidação de todo
-(ou quase todo) um lobo pulmonar (consolidação alveolar extensa), sendo que 90 a
-95% dos casos têm o &lt;em&gt;&lt;span class=&quot;red&quot;&gt;Streptococcus pneumoniae&lt;/span&gt;&lt;/em&gt; como micro-organismo causador.&lt;/p&gt;
-
-&lt;p&gt;Já a &lt;strong&gt;broncopneumonia&lt;/strong&gt; é caracterizada
-pela consolidação alveolar multifocal – são
-múltiplos focos acinares (ou lobulares),
-coalescentes, que predominam na região
-peribrônquica. Este é o tipo mais frequente de apresentação da pneumonia.&lt;/p&gt;
-
-&lt;p&gt;Mecanismos de defesa: anatomia e fisiologia do trato respiratório, condução de gases, aquecimento ou resfriamento do ar, umidade do ar inspirado, vibrissas, epitélio ciliado, imunoglobulinas (A, G e M), elementos figurados do sangue.&lt;/p&gt;
-
-&lt;p&gt;Fatores predisponentes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Poluição atmosférica&lt;/li&gt;
-  &lt;li&gt;Baixa temperatura&lt;/li&gt;
-  &lt;li&gt;Hábitos: tabagismo e alcoolismo&lt;/li&gt;
-  &lt;li&gt;Patologia pulmonar crônica&lt;/li&gt;
-  &lt;li&gt;Metabólico: DM&lt;/li&gt;
-  &lt;li&gt;Pós-operatório&lt;/li&gt;
-  &lt;li&gt;Alterações na imunidade&lt;/li&gt;
-  &lt;li&gt;Atividade profissional&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;S.pneumoniae;&lt;/li&gt;
-  &lt;li&gt;M. pneumoniae;&lt;/li&gt;
-  &lt;li&gt;Vírus;&lt;/li&gt;
-  &lt;li&gt;Legionella sp: tem tropismo pelo SNC e pode evoluir com quadro neurológico;&lt;/li&gt;
-  &lt;li&gt;Bacilos gram negativos;&lt;/li&gt;
-  &lt;li&gt;C. pneumoniae;&lt;/li&gt;
-  &lt;li&gt;H. influenzae;&lt;/li&gt;
-  &lt;li&gt;S. aurus;&lt;/li&gt;
-  &lt;li&gt;K. pnuemoniae: pensar nos alcoolistas;&lt;/li&gt;
-  &lt;li&gt;P. aeruginosa: pensar nos pacientes com doença estrutural do pulmão.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-
-&lt;p&gt;Classificação da PAC de acordo com o local do tratamento:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Paciente ambulatorial: S. pneumoniae, M. pneumoniae, C. pneumoniae e Vírus respiratórios;&lt;/li&gt;
-  &lt;li&gt;Paciente internado em enfermaria: soma-se H. influenzae e Legionella sp;&lt;/li&gt;
-  &lt;li&gt;Paciente grave que requer internação em UTI: mais o S. aureus.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;típica-x-atípica&quot;&gt;Típica x Atípica&lt;/h3&gt;
-
-&lt;p&gt;Atualmente estes termos não são considerados adequados pelos especialistas, pois não
-ajudam na identificação etiológica. O mais correto é dividir as pneumonias em dois gru-
-pos: causadas por micro-organismos típicos e causadas por micro-organismos atípicos.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tosse com aumento de secreção brônquica&lt;/li&gt;
-  &lt;li&gt;Febre com ou sem calafrios&lt;/li&gt;
-  &lt;li&gt;Dispńeia&lt;/li&gt;
-  &lt;li&gt;Dor torácica: comum na pneumocócica, pode estar relacionada com embolia pulmonar;&lt;/li&gt;
-  &lt;li&gt;Fadiga.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Quadro clínico&lt;/li&gt;
-  &lt;li&gt;Antecedentes&lt;/li&gt;
-  &lt;li&gt;RX de tórax&lt;/li&gt;
-  &lt;li&gt;Hemograma&lt;/li&gt;
-  &lt;li&gt;Exame do escarro: persquisa do gram (&amp;gt; 25 PMN e &amp;lt; 10 cels. epiteliais)&lt;/li&gt;
-  &lt;li&gt;Lavado broncoalveolar&lt;/li&gt;
-  &lt;li&gt;Hemocultura&lt;/li&gt;
-  &lt;li&gt;Teste do antígeno urinário para Legionella e pneumococo&lt;/li&gt;
-  &lt;li&gt;Teste de função hepática&lt;/li&gt;
-  &lt;li&gt;TC de tórax: imagem em mosáico caracteriza infecção.&lt;/li&gt;
-  &lt;li&gt;USG dos pulmões.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Considerar diagnísticos diferenciais como a embolia pulmonar.&lt;/p&gt;
-
-&lt;h3 id=&quot;curb-65&quot;&gt;CURB-65&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;C: confusão mental&lt;/li&gt;
-  &lt;li&gt;U: dosagem de uréia sérica (na urgência pode ser dispensada)&lt;/li&gt;
-  &lt;li&gt;R: frequência respiratória &amp;gt; 32&lt;/li&gt;
-  &lt;li&gt;B:&lt;/li&gt;
-  &lt;li&gt;65: idade &amp;gt; 65 anos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Pontuação &amp;gt; 1 indica internação, exceto se a única pontuação for o fator idade.&lt;/p&gt;
-
-&lt;p&gt;Ver as mortalidades de acordo com os índices de CURB-65&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Ambulatorial&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Macrolídeos: azitromicina 500 mg VO de 24/24 h por 05 dias;&lt;/li&gt;
-  &lt;li&gt;Amoxilina 875 mg VO de 12/12 h por 07 dias&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Internação&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Levofloxacino VO 500 mg 24/24 h por 07 dias&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;UTI&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Levoflocacino EV&lt;/li&gt;
-  &lt;li&gt;Moxifloxacino EV&lt;/li&gt;
-  &lt;li&gt;Ceftriaxone EV + Azitromicina EV&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Por 7 a 10 dias&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;Quando suspeitar de etiologia bacteriana? Na realidade não da pra afirmar se é ou não bacteriana. Conseguimos ter uma leve estimativa com base na intensidade dos sintomas, na duração do quadro.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Síndrome coronariana aguda</title><link href="http://localhost:4000/cardiologia/sca.html" rel="alternate" type="text/html" title="Síndrome coronariana aguda" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/sca</id><content type="html" xml:base="http://localhost:4000/cardiologia/sca.html">&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/revasc.jpeg&quot; alt=&quot;Revasc&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

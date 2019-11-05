@@ -38,9 +38,18 @@ EUA, 2015: HA estava presente em 69% dos pacientes com primeiro episódio de IAM
 
 ## Etiologia
 
-Primária ou essencial (90-95% dos casos) e secundária (5-10%).
-
-A principal causa secundária é a doença parenquimatosa renal.
+* **Primária**, essencial ou idiopática (90-95% dos casos)
+* **Secundária** (6%)
+  * **Renal**
+    * DRC (4%)
+    * Doença renovascular (1%)
+  * **Endócrina**
+    * Aldosteronismo primário (0,1%)
+    * Síndrome de Cushing (0,1%)
+    * Feocromocitoma (0,2%)
+  * ACO (0,2 a 0,8%)
+  * Coarctação de aorta (0,1%)
+  * Outros
 
 ### Secundária
 
@@ -55,11 +64,11 @@ A maioria dos pacientes são completamente assintomáticos. Quando surgem sintom
 
 ### Lesões de órgãos alvo
 
-* Coração: hipertrofia ventricular esquerda, IC, doença coronariana aterosclerótica;
-* Cérebro: principalmente o AVE;
-* Rim: doença renal crônica, glomeruloesclerose;
-* Olho: retinopatia, papiledema, manchas algodonosas, estreitamento arteriolar;
-* Vasos sanguíneos: aneurisma, dissecção de aorta, aterosclerose, angina mesentérica.
+* **Coração:** hipertrofia ventricular esquerda, IC, doença coronariana aterosclerótica;
+* **Cérebro:** principalmente o AVE;
+* **Rim:** doença renal crônica, glomeruloesclerose;
+* **Olho:** retinopatia, papiledema, manchas algodonosas, estreitamento arteriolar;
+* **Vasos sanguíneos:** aneurisma, dissecção de aorta, aterosclerose, angina mesentérica.
 
 ### Exame físico
 
