@@ -71,6 +71,8 @@ self.addEventListener('install', function (event) {
       
         '/cardiologia/fisiologia-cardiovascular.html',
       
+        '/cardiologia/cardiomiopatia-dilatada.html',
+      
         '/cardiologia/arritmias.html',
       
         '/mapas/abdome-agudo.html',

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-05T16:22:07-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Anti hipertensivos</title><link href="http://localhost:4000/cardiologia/anti-hipertensivos.html" rel="alternate" type="text/html" title="Anti hipertensivos" /><published>2019-11-05T00:00:00-03:00</published><updated>2019-11-05T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/anti-hipertensivos</id><content type="html" xml:base="http://localhost:4000/cardiologia/anti-hipertensivos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-07T19:08:43-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Anti hipertensivos</title><link href="http://localhost:4000/cardiologia/anti-hipertensivos.html" rel="alternate" type="text/html" title="Anti hipertensivos" /><published>2019-11-05T00:00:00-03:00</published><updated>2019-11-05T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/anti-hipertensivos</id><content type="html" xml:base="http://localhost:4000/cardiologia/anti-hipertensivos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#sistema-renina-angiotensina-aldosterona&quot; id=&quot;markdown-toc-sistema-renina-angiotensina-aldosterona&quot;&gt;Sistema renina-angiotensina-aldosterona&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#medicamentos&quot; id=&quot;markdown-toc-medicamentos&quot;&gt;Medicamentos&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#cuidados-individualizados&quot; id=&quot;markdown-toc-cuidados-individualizados&quot;&gt;Cuidados individualizados&lt;/a&gt;&lt;/li&gt;
@@ -10,8 +10,17 @@
       &lt;li&gt;&lt;a href=&quot;#poupadores-de-potássio&quot; id=&quot;markdown-toc-poupadores-de-potássio&quot;&gt;Poupadores de potássio&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#β-bloqueadores&quot; id=&quot;markdown-toc-β-bloqueadores&quot;&gt;β-bloqueadores&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#efeitos-adversos&quot; id=&quot;markdown-toc-efeitos-adversos&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#simpaticolíticos&quot; id=&quot;markdown-toc-simpaticolíticos&quot;&gt;Simpaticolíticos&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#alfa-adrenérgicos-de-ação-central&quot; id=&quot;markdown-toc-alfa-adrenérgicos-de-ação-central&quot;&gt;Alfa-adrenérgicos de ação central&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#metildopa&quot; id=&quot;markdown-toc-metildopa&quot;&gt;Metildopa&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#clonidina&quot; id=&quot;markdown-toc-clonidina&quot;&gt;Clonidina&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#alfabloqueadores-periféricos&quot; id=&quot;markdown-toc-alfabloqueadores-periféricos&quot;&gt;Alfabloqueadores periféricos&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#β-bloqueadores&quot; id=&quot;markdown-toc-β-bloqueadores&quot;&gt;β-bloqueadores&lt;/a&gt;        &lt;ol&gt;
+          &lt;li&gt;&lt;a href=&quot;#efeitos-adversos&quot; id=&quot;markdown-toc-efeitos-adversos&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#inibidores-da-enzima-conversora-de-angiotensina&quot; id=&quot;markdown-toc-inibidores-da-enzima-conversora-de-angiotensina&quot;&gt;Inibidores da enzima conversora de angiotensina&lt;/a&gt;    &lt;ol&gt;
@@ -22,22 +31,19 @@
   &lt;li&gt;&lt;a href=&quot;#bloqueadores-do-receptor-at1-da-angiotensina-ii&quot; id=&quot;markdown-toc-bloqueadores-do-receptor-at1-da-angiotensina-ii&quot;&gt;Bloqueadores do receptor AT1 da angiotensina II&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#inibidores-da-renina&quot; id=&quot;markdown-toc-inibidores-da-renina&quot;&gt;Inibidores da renina&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#bloqueadores-dos-canais-de-cálcio&quot; id=&quot;markdown-toc-bloqueadores-dos-canais-de-cálcio&quot;&gt;Bloqueadores dos canais de cálcio&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#difenilalquilaminas&quot; id=&quot;markdown-toc-difenilalquilaminas&quot;&gt;Difenilalquilaminas&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fenilalquilaminas&quot; id=&quot;markdown-toc-fenilalquilaminas&quot;&gt;Fenilalquilaminas&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#benzotiazepínico&quot; id=&quot;markdown-toc-benzotiazepínico&quot;&gt;Benzotiazepínico&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#di-hidropiridinas&quot; id=&quot;markdown-toc-di-hidropiridinas&quot;&gt;Di-hidropiridinas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ações&quot; id=&quot;markdown-toc-ações&quot;&gt;Ações&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#usos-terapêuticos-1&quot; id=&quot;markdown-toc-usos-terapêuticos-1&quot;&gt;Usos terapêuticos&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#efeitos-adversos-2&quot; id=&quot;markdown-toc-efeitos-adversos-2&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#bloqueadores-dos-adrenorreceptores-α&quot; id=&quot;markdown-toc-bloqueadores-dos-adrenorreceptores-α&quot;&gt;Bloqueadores dos adrenorreceptores α&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#bloqueadores-dos-adrenorreceptores-α-e-β&quot; id=&quot;markdown-toc-bloqueadores-dos-adrenorreceptores-α-e-β&quot;&gt;Bloqueadores dos adrenorreceptores α e β&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#adrenérgicos-de-ação-central&quot; id=&quot;markdown-toc-adrenérgicos-de-ação-central&quot;&gt;Adrenérgicos de ação central&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#clonidina&quot; id=&quot;markdown-toc-clonidina&quot;&gt;Clonidina&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#metildopa&quot; id=&quot;markdown-toc-metildopa&quot;&gt;Metildopa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#vasodilatadores&quot; id=&quot;markdown-toc-vasodilatadores&quot;&gt;Vasodilatadores&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#hidralazina&quot; id=&quot;markdown-toc-hidralazina&quot;&gt;Hidralazina&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#minoxidil&quot; id=&quot;markdown-toc-minoxidil&quot;&gt;Minoxidil&lt;/a&gt;&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#vasodilatadores&quot; id=&quot;markdown-toc-vasodilatadores&quot;&gt;Vasodilatadores&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#escolha-inicial-do-anti-hipertensivo-aula&quot; id=&quot;markdown-toc-escolha-inicial-do-anti-hipertensivo-aula&quot;&gt;Escolha inicial do anti-hipertensivo (aula)&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;p&gt;A pressão arterial é regulada dentro de uma faixa estreita para prover perfusão adequada aos tecidos sem causar lesões ao sistema vascular, particularmente à túnica íntima arterial (endotélio). Ela é diretamente proporcional ao débito cardíaco e à resistência vascular periférica. O débito cardíaco e a resistência periférica são controlados principalmente por dois mecanismos sobrepostos de controle: os barorreflexos e o sistema renina-angiotensina-aldosterona. A maioria dos anti-hipertensivos diminui a pressão arterial, reduzindo o débito cardíaco e/ou diminuindo a resistência periférica.&lt;/p&gt;
@@ -79,11 +85,10 @@ mL/min/m2). Nesses pacientes, podem ser necessários diuréticos de alça.&lt;/p
 
 &lt;ul&gt;
   &lt;li&gt;Hipopotassemia;&lt;/li&gt;
-  &lt;li&gt;Hipocalemia;&lt;/li&gt;
-  &lt;li&gt;Hiponatremia;&lt;/li&gt;
   &lt;li&gt;Hiperuricemia;&lt;/li&gt;
-  &lt;li&gt;Hipercolesterolemia;&lt;/li&gt;
-  &lt;li&gt;em menor extensão, Hiperglicemia em alguns pacientes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hipocalemia&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hiponatremia&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alterações do perfil metabólico&lt;/strong&gt; (Glic, CT, Ac. Úrico)&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/h3&gt;
@@ -111,6 +116,16 @@ cardíaca e edema.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Amilorida&lt;/strong&gt; e &lt;strong&gt;triantereno&lt;/strong&gt; (inibidores do transporte de sódio epitelial nos
 ductos distais e coletores), bem como &lt;strong&gt;espironolactona&lt;/strong&gt; (&lt;em&gt;Aldactone&lt;/em&gt;) e &lt;strong&gt;eplerenona&lt;/strong&gt; (antagonistas de receptor da aldosterona), reduzem a perda de potássio na urina. A aldosterona tem a vantagem adicional de diminuir a remodelação cardíaca que ocorre na insuficiência cardíaca.&lt;/p&gt;
 
+&lt;p&gt;São antagonistas da aldosterona (espironolactona) ou inibidores diretos da secreção de potássio (amilorida e triantereno), inibindo a reabsorção de Na e água nos túbulos distais e coletor.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hipercalemia&lt;/li&gt;
+  &lt;li&gt;Hiponatremia&lt;/li&gt;
+  &lt;li&gt;Ginecomastia (a espironolactona)&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;Os diuréticos poupadores de potássio são usados algumas vezes associados aos diuréticos de alça e aos tiazídicos para reduzir a espoliação do potássio causada por esses diuréticos.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -118,40 +133,201 @@ ductos distais e coletores), bem como &lt;strong&gt;espironolactona&lt;/strong&g
   &lt;li&gt;&lt;em&gt;Diurana&lt;/em&gt;: triantereno associadoa furosemia.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;β-bloqueadores&quot;&gt;β-bloqueadores&lt;/h2&gt;
+&lt;h2 id=&quot;simpaticolíticos&quot;&gt;Simpaticolíticos&lt;/h2&gt;
 
-&lt;p&gt;Reduzem a PA primariamente &lt;span class=&quot;orange&quot;&gt;diminuindo o débito cardíaco&lt;/span&gt;. Eles também podem diminuir o efluxo simpático do sistema nervoso central (SNC) e &lt;span class=&quot;blue&quot;&gt;inibir a liberação de renina&lt;/span&gt; dos rins, reduzindo, assim, a formação de angiotensina II e a secreção de aldosterona. O protótipo dos β-bloqueadores é o &lt;strong&gt;propranolol&lt;/strong&gt;, que atua em receptores β 1 e β2. Bloqueadores seletivos de receptores β1, como &lt;strong&gt;metoprolol&lt;/strong&gt; e &lt;strong&gt;atenolol&lt;/strong&gt;, estão entre os β-bloqueadores mais comumente prescritos. O &lt;span class=&quot;red&quot;&gt;nebivolol&lt;/span&gt; é um bloqueador seletivo de receptores β1 que &lt;span class=&quot;red&quot;&gt;aumenta também a produção de óxido nítrico&lt;/span&gt;, levando à vasodilatação.&lt;/p&gt;
+&lt;h3 id=&quot;alfa-adrenérgicos-de-ação-central&quot;&gt;Alfa-adrenérgicos de ação central&lt;/h3&gt;
+
+&lt;p&gt;Os alfa-agonistas de ação central. Estimulam os alfa-2 receptores adrenérgicos pré-sinápticos, em nível de SNC, reduzindo o tônus simpático e provocando uma vasodilatação.&lt;/p&gt;
+
+&lt;h4 id=&quot;metildopa&quot;&gt;Metildopa&lt;/h4&gt;
+
+&lt;p&gt;Metildopa (&lt;em&gt;Aldomet&lt;/em&gt;) é um α2-agonista que é convertido em metilnorepinefrina no SNC, causando diminuição do efluxo adrenérgico. É usada principalmente para o tratamento da &lt;strong&gt;hipertensão na gestação&lt;/strong&gt;, por ter registros de segurança.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Posologia:&lt;/strong&gt; 250 a 2.000 mg, em 1 a 2 tomadas diárias.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Sedação&lt;/strong&gt; e &lt;strong&gt;sonolência&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;Hipotensão postural;&lt;/li&gt;
+  &lt;li&gt;Boca seca;&lt;/li&gt;
+  &lt;li&gt;Fadiga e disfunção sexual;&lt;/li&gt;
+  &lt;li&gt;Galactorréia;&lt;/li&gt;
+  &lt;li&gt;Anemia hemolítica;&lt;/li&gt;
+  &lt;li&gt;Lesão hepática.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;clonidina&quot;&gt;Clonidina&lt;/h4&gt;
+
+&lt;p&gt;A clonidina (&lt;em&gt;Atensina&lt;/em&gt;) atua centralmente, produzindo inibição dos centros vasomotores simpáticos e diminuindo a estimulação simpática para a periferia. Isso leva à redução da resistência periférica total e à diminuição da PA. A clonidina é &lt;strong&gt;usada primariamente no tratamento da hipertensão que não responde adequadamente ao tratamento com dois ou mais fármacos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A clonidina não reduz o fluxo sanguíneo renal ou a filtração glomerular e, portanto, é útil no tratamento da hipertensão complicada por doença renal. É bem absorvida após administração oral e é excretada pelos rins. Também está disponível como adesivo transcutâneo.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Posologia:&lt;/strong&gt; 0,1 a 0,6 mg, em 2 a 3 tomadas diárias.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sedação e sonolência;&lt;/li&gt;
+  &lt;li&gt;Boca seca;&lt;/li&gt;
+  &lt;li&gt;Fadga e disfunção sexual;&lt;/li&gt;
+  &lt;li&gt;Constipação;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Hipertensão de rebote&lt;/em&gt; após interrupção súbita da clonidina. Por isso, se a interrupção for necessária, o fármaco deve ser retirado lentamente.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;alfabloqueadores-periféricos&quot;&gt;Alfabloqueadores periféricos&lt;/h3&gt;
+
+&lt;p&gt;São bloqueadores dos adrenorreceptores-α-1 periféricos (pós-sinápticos), reduzindo o tônus simpático e provocando vasodilatação.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Prazosina&lt;/strong&gt;, &lt;strong&gt;doxazosina&lt;/strong&gt; e &lt;strong&gt;terazosina&lt;/strong&gt; produzem bloqueio competitivo de
+adrenoceptores α1 . Diminuem a RVP e reduzem a PA, relaxando os músculos lisos de artérias e veias. Causam mudanças mínimas no DC, no fluxo sanguíneo renal e na velocidade de filtração glomerular. Por isso, não ocorre taquicardia no tratamento prolongado, mas sim retenção de sal e água.&lt;/p&gt;
+
+&lt;p&gt;Taquicardia reflexa e hipotensão postural ocorrem com frequência no início do tratamento e com o aumento da dose, exigindo lenta titulação do fármaco em doses divididas. Devido aos resultados fracos e ao perfil de efeitos adversos, os α-bloqueadores &lt;strong&gt;não são recomendados no tratamento inicial da hipertensão&lt;/strong&gt; há muito tempo, mas podem ser &lt;strong&gt;usados para casos refratários&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Outros α1-bloqueadores, com maior seletividade para o músculo da próstata, são usados no tratamento da hiperplasia prostática benigna.&lt;/p&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Prazosina (Minipress):&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Posologia:&lt;/strong&gt; 2 a 12 mg em 2 a 3 tomadas diárias.&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Palpitações;&lt;/li&gt;
+    &lt;li&gt;Hipotensão postural;&lt;/li&gt;
+    &lt;li&gt;Astenia;&lt;/li&gt;
+    &lt;li&gt;Fenômeno da primeira dose.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;p class=&quot;caixa-title&quot;&gt;Doxasozina (Carduran):&lt;/p&gt;
+&lt;div class=&quot;caixa&quot;&gt;
+  &lt;p&gt;&lt;strong&gt;Posologia:&lt;/strong&gt; 4 a 12 mg em dose única.&lt;/p&gt;
+
+  &lt;p&gt;Indicado no tratamento da HPB. Importante saber se homens com HPB estão em uso deste medicamento para não somar seu efeito ao de novos anti-hipertensivos!&lt;/p&gt;
+
+  &lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;Palpitações;&lt;/li&gt;
+    &lt;li&gt;Hipotensão postural;&lt;/li&gt;
+    &lt;li&gt;Astenia;&lt;/li&gt;
+    &lt;li&gt;Fenômeno da primeira dose.&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;β-bloqueadores&quot;&gt;β-bloqueadores&lt;/h3&gt;
+
+&lt;p&gt;Reduzem a PA primariamente &lt;span class=&quot;orange&quot;&gt;diminuindo o DC&lt;/span&gt; (inotropismo e cronotropismo negativo). Eles também podem diminuir o efluxo simpático do sistema nervoso central (SNC) e &lt;span class=&quot;blue&quot;&gt;inibir a liberação de renina&lt;/span&gt; dos rins, reduzindo, assim, a formação de angiotensina II e a secreção de aldosterona.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Primeira geração:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;propanolol, nadolol, timolol e sotalol.&lt;/li&gt;
+      &lt;li&gt;Não são cardioseletivos;&lt;/li&gt;
+      &lt;li&gt;Bloqueiam β1 e β2.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Segunda geração:&lt;/strong&gt; atenolol, metoprolol e bisoprolol.
+    &lt;ul&gt;
+      &lt;li&gt;São cardioseletivos;&lt;/li&gt;
+      &lt;li&gt;Bloqueiam apenas β1.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Terceira geração:&lt;/strong&gt; labetalol, caverdilol e nebivolol.
+    &lt;ul&gt;
+      &lt;li&gt;Possuem atividade vasodilatadora;&lt;/li&gt;
+      &lt;li&gt;Labetalol&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O protótipo dos β-bloqueadores é o &lt;strong&gt;propranolol&lt;/strong&gt;, que atua em receptores β1 e β2. Bloqueadores seletivos de receptores β1, como &lt;strong&gt;metoprolol&lt;/strong&gt; e &lt;strong&gt;atenolol&lt;/strong&gt;, estão entre os β-bloqueadores mais comumente prescritos. O &lt;span class=&quot;red&quot;&gt;nebivolol&lt;/span&gt; é um bloqueador seletivo de receptores β1 que &lt;span class=&quot;red&quot;&gt;aumenta também a produção de óxido nítrico&lt;/span&gt;, levando à vasodilatação.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Labetalol&lt;/strong&gt; e &lt;strong&gt;carvedilol&lt;/strong&gt; bloqueiam os receptores α1, β1 e β2. O carvedilol, embora eficaz como anti-hipertensivo, é usado principalmente no tratamento da insuficiência cardíaca. O carvedilol, bem como o succinato de metoprolol e o bisoprolol, revelaram-se capazes de reduzir a morbidade e a mortalidade associadas à insuficiência cardíaca. O &lt;strong&gt;labetalol&lt;/strong&gt; é usado no tratamento da &lt;strong&gt;hipertensão gestacional&lt;/strong&gt; e em emergências hipertensivas.&lt;/p&gt;
 
 &lt;p&gt;Os β-bloqueadores seletivos devem ser administrados cautelosamente em pacientes hipertensos que também têm asma. Os β-bloqueadores não seletivos, como propranolol e nadolol, são contraindicados devido ao bloqueio da broncodilatação mediada por β2. Os β-bloqueadores devem ser usados com cautela no tratamento de pacientes com insuficiência cardíaca aguda ou doença vascular periférica.&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Propanolol:&lt;/strong&gt; 40 a 320 mg em 2-3 tomadas diárias;
+    &lt;ul&gt;
+      &lt;li&gt;Bloqueio β1 e β2.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Atenolol:&lt;/strong&gt; 25 a 200 mg em dose única;
+    &lt;ul&gt;
+      &lt;li&gt;Bloqueio β1.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Metoprolol:&lt;/strong&gt; 50 a 200 mg em dose única;
+    &lt;ul&gt;
+      &lt;li&gt;Bloqueio β1.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Caverdilol:&lt;/strong&gt; 12,5 a 50 mg em 1-2 tomadas;
+    &lt;ul&gt;
+      &lt;li&gt;Faz bloqueio α1, β1 e β2.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nebivolol:&lt;/strong&gt; 5 mg em dose única.
+    &lt;ul&gt;
+      &lt;li&gt;Cardioseletividade (β1) e liberação de NO.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;img src=&quot;/assets/farmaco/acao-bb.jpeg&quot; alt=&quot;BB&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A vantagem terapêutica primária dos BB é observada em pacientes hipertensos com doença cardíaca concomitante, como &lt;span class=&quot;green&quot;&gt;taquiarritmia supraventricular&lt;/span&gt; (p. ex. fibrilação atrial), &lt;span class=&quot;green&quot;&gt;infarto do miocárdico&lt;/span&gt; prévio, &lt;span class=&quot;green&quot;&gt;angina pectoris&lt;/span&gt; e &lt;span class=&quot;green&quot;&gt;insuficiência cardíaca&lt;/span&gt; crônica. As condições que desaconselham o uso de β-bloqueadores incluem doença broncoespástica como asma, bloqueio cardíaco de segundo e terceiro graus e doença vascular periférica grave.&lt;/p&gt;
+&lt;p&gt;A vantagem terapêutica primária dos BB é observada em pacientes hipertensos com doença cardíaca concomitante, como &lt;span class=&quot;green&quot;&gt;taquiarritmia supraventricular&lt;/span&gt; (p. ex. fibrilação atrial), &lt;span class=&quot;green&quot;&gt;infarto do miocárdico&lt;/span&gt; prévio, &lt;span class=&quot;green&quot;&gt;angina pectoris&lt;/span&gt; e &lt;span class=&quot;green&quot;&gt;insuficiência cardíaca&lt;/span&gt; crônica. As condições que desaconselham o uso de β-bloqueadores incluem doença broncoespástica como asma, bloqueio cardíaco de segundo e terceiro graus e doença vascular periférica grave. &lt;strong&gt;Podem demorar várias semanas até desenvolverem seu efeito pleno.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Podem demorar várias semanas até desenvolverem seu efeito pleno.&lt;/p&gt;
-
-&lt;h3 id=&quot;efeitos-adversos&quot;&gt;Efeitos adversos&lt;/h3&gt;
+&lt;h4 id=&quot;efeitos-adversos&quot;&gt;Efeitos adversos&lt;/h4&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Efeitos comuns:&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;Bradicardia;&lt;/li&gt;
+      &lt;li&gt;Bradicardia excessiva (&amp;lt; 50 bpm);&lt;/li&gt;
       &lt;li&gt;Hipotensão;&lt;/li&gt;
-      &lt;li&gt;Efeitos adversos no SNC, como fadiga, letargia e insônia;&lt;/li&gt;
-      &lt;li&gt;Diminuir a libido e causar disfunção erétil;&lt;/li&gt;
+      &lt;li&gt;Efeitos adversos no SNC, como fadiga, letargia, astenia e insônia;&lt;/li&gt;
+      &lt;li&gt;Diminuir a libido e causar disfunção erétil (exceto o nebivolol);&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Alterações nos padrões lipídicos séricos:&lt;/strong&gt; desregular o metabolismo lipídico, diminuindo a lipoproteína de alta densidade (HDL) e aumentando os triglicerídeos;&lt;/li&gt;
+  &lt;li&gt;Broncoespasmo;&lt;/li&gt;
+  &lt;li&gt;Distúrbios da condução AV;&lt;/li&gt;
+  &lt;li&gt;Vasoconstricção periférica (exceto o nebivolol);&lt;/li&gt;
+  &lt;li&gt;Insônia e pesadelos;&lt;/li&gt;
+  &lt;li&gt;Aumento da resistência à insulina (exceto o nebivolol);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dislipidemia&lt;/strong&gt; (diminuindo HDL e aumentando TG);&lt;/li&gt;
+  &lt;li&gt;Isquemia de rebote;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Retirada do fármaco:&lt;/strong&gt; A retirada abrupta dos BBs pode causar angina, infarto do miocárdio e mesmo a morte súbita de pacientes com doença cardíaca isquêmica. Por isso, esses fármacos devem ser reduzidos gradualmente ao longo de algumas semanas em pacientes com hipertensão e doença cardíaca isquêmica.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contraindicações:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;asma e DPOC;&lt;/li&gt;
+  &lt;li&gt;Bloqueios AV;&lt;/li&gt;
+  &lt;li&gt;Doença vascular periférica (fenômeno de Raynaud);&lt;/li&gt;
+  &lt;li&gt;Diabetes mal controlado.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Indicações especiais:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Coronariopatas;&lt;/li&gt;
+  &lt;li&gt;Arritmias;&lt;/li&gt;
+  &lt;li&gt;Síndrome hipercinéticas;&lt;/li&gt;
+  &lt;li&gt;Enxaquecas.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;inibidores-da-enzima-conversora-de-angiotensina&quot;&gt;Inibidores da enzima conversora de angiotensina&lt;/h2&gt;
 
-&lt;p&gt;Os IECAs, como &lt;strong&gt;enalapril&lt;/strong&gt; e &lt;strong&gt;lisinopril&lt;/strong&gt;, são recomendados como tratamento
-de primeira escolha contra hipertensão em pacientes com uma variedade de indicações, incluindo risco alto de doença coronária ou história de diabetes, AVE, insuficiência cardíaca, infarto do miocárdio ou doença renal crônica.&lt;/p&gt;
+&lt;p&gt;Os IECAs, como &lt;strong&gt;enalapril&lt;/strong&gt; e &lt;strong&gt;lisinopril&lt;/strong&gt;, são recomendados como tratamento de primeira escolha contra hipertensão em pacientes com uma variedade de indicações, incluindo risco alto de doença coronária ou história de diabetes, AVE, insuficiência cardíaca, infarto do miocárdio ou doença renal crônica.&lt;/p&gt;
 
-&lt;p&gt;Diminuem a PA reduzindo a RVP sem aumentar reflexamente o DC, a FC ou a contratilidade cardíaca. Esses fármacos bloqueiam a ECA que hidrolisa a angiotensina I para formar o &lt;strong&gt;potente vasoconstritor angiotensina II&lt;/strong&gt;. A ECA também é responsável pela degradação da &lt;strong&gt;bradicinina&lt;/strong&gt;, &lt;span class=&quot;blue&quot;&gt;um peptídeo que aumenta a produção de óxido nítrico e prostaciclinas nos vasos sanguíneos&lt;/span&gt;. Ambos, óxido nítrico e prostaciclinas, são potentes vasodilatadores. Os IECAs diminuem os níveis de angiotensina II e aumentam os de bradicinina. Ocorre vasodilatação de arteríolas e veias como resultado da menor vasoconstrição causada pela redução dos níveis de angiotensina II e maior vasodilatação devido ao aumento da
-bradicinina. Reduzindo os níveis de angiotensina II circulante, os IECAs também &lt;strong&gt;diminuem a secreção de aldosterona&lt;/strong&gt;, resultando em menor retenção de sódio e água. Os IECAs &lt;span class=&quot;blue&quot;&gt;diminuem a pré-carga e a pós-carga&lt;/span&gt; cardíaca, reduzindo, assim, o trabalho cardíaco.&lt;/p&gt;
+&lt;p&gt;Diminuem a PA reduzindo a RVP sem aumentar reflexamente o DC, a FC ou a contratilidade cardíaca. Esses fármacos bloqueiam a ECA que hidrolisa a angiotensina I para formar o &lt;strong&gt;potente vasoconstritor angiotensina II&lt;/strong&gt;. A ECA também é responsável pela degradação da &lt;strong&gt;bradicinina&lt;/strong&gt;, &lt;span class=&quot;blue&quot;&gt;um peptídeo que aumenta a produção de óxido nítrico e prostaciclinas nos vasos sanguíneos&lt;/span&gt;. Ambos, óxido nítrico e prostaciclinas, são potentes vasodilatadores. Os IECAs diminuem os níveis de angiotensina II e aumentam os de bradicinina. Ocorre vasodilatação de arteríolas e veias como resultado da menor vasoconstrição causada pela redução dos níveis de angiotensina II e maior vasodilatação devido ao aumento da bradicinina. Reduzindo os níveis de angiotensina II circulante, os IECAs também &lt;strong&gt;diminuem a secreção de aldosterona&lt;/strong&gt;, resultando em menor retenção de sódio e água (diminuem a volemia). Os IECAs &lt;span class=&quot;blue&quot;&gt;diminuem a pré-carga e a pós-carga&lt;/span&gt; cardíaca, reduzindo, assim, o trabalho cardíaco.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/farmaco/ieca2.jpeg&quot; alt=&quot;BB&quot; /&gt;&lt;/p&gt;
 
@@ -163,6 +339,15 @@ bradicinina. Reduzindo os níveis de angiotensina II circulante, os IECAs també
 
 &lt;p&gt;&lt;strong&gt;São os fármacos de primeira escolha para tratar a insuficiência cardíaca&lt;/strong&gt;, os pacientes hipertensos &lt;strong&gt;com doença renal crônica&lt;/strong&gt; e os pacientes com &lt;strong&gt;risco elevado de doença arterial coronariana&lt;/strong&gt;. Todos os IECAs são igualmente eficazes no
 tratamento da hipertensão, em doses equivalentes.&lt;/p&gt;
+
+&lt;p&gt;Posologias:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Captopril:&lt;/strong&gt; 12,5 a 25 mg de 8/8 horas;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Enalapril:&lt;/strong&gt; 5, 10 e 20 mg, 1 vez ao dia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Lisonipril:&lt;/strong&gt; 5, 10 e 20 mg, 1 vez ao dia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ramipril:&lt;/strong&gt; 2,5 a 5 mg, 1 vez ao dia.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;efeitos-adversos-1&quot;&gt;Efeitos adversos&lt;/h3&gt;
 
@@ -185,15 +370,30 @@ tratamento da hipertensão, em doses equivalentes.&lt;/p&gt;
 
 &lt;p&gt;Os BRAs como &lt;strong&gt;losartana&lt;/strong&gt; e &lt;strong&gt;irbesartana&lt;/strong&gt; são &lt;span class=&quot;blue&quot;&gt;alternativas aos IECAs&lt;/span&gt;. Esses fármacos bloqueiam os receptores AT1, diminuindo a sua ativação pela angiotensina II.&lt;/p&gt;
 
-&lt;p&gt;Seus efeitos farmacológicos são similares aos dos IECAs por
-produzirem dilatação arteriolar e venosa e bloqueio da secreção de aldosterona, reduzindo, assim, a PA e diminuindo a retenção de sal
-e água.&lt;/p&gt;
+&lt;p&gt;Seus efeitos farmacológicos são similares aos dos IECAs por produzirem dilatação arteriolar e venosa e bloqueio da secreção de aldosterona, reduzindo, assim, a PA e diminuindo a retenção de sal e água.&lt;/p&gt;
 
-&lt;p&gt;Os BRAs &lt;strong&gt;não aumentam os níveis de bradicinina&lt;/strong&gt;. Eles podem ser usados como fármacos de primeira escolha para o tratamento da hipertensão, especialmente em pacientes com forte indicação de diabetes, insuficiência cardíaca ou doença renal crônica. Os efeitos adversos são semelhantes aos dos IECAs, embora o risco de tosse e angioedema seja significativamente menor.&lt;/p&gt;
+&lt;p&gt;Os BRAs &lt;strong&gt;não aumentam os níveis de bradicinina&lt;/strong&gt; (e por isso causam menos tosse). Eles podem ser usados como fármacos de primeira escolha para o tratamento da hipertensão, especialmente em pacientes com forte indicação de diabetes, insuficiência cardíaca ou doença renal crônica. Os efeitos adversos são semelhantes aos dos IECAs, embora o risco de tosse e angioedema seja significativamente menor.&lt;/p&gt;
 
-&lt;p&gt;Não devem ser associados com IECA para o tratamento da hipertensão devido à similaridade de mecanismo e de efeitos adversos.&lt;/p&gt;
+&lt;p&gt;Posologia:&lt;/p&gt;
 
-&lt;p&gt;Também são teratogênicos e não devem ser usados em gestantes!!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Losartan (_Cozaar, Aradois, Zarpress): 50 e 100 mg, 1 comp ao dia;&lt;/li&gt;
+  &lt;li&gt;Valsartan (&lt;em&gt;Diovan&lt;/em&gt;): 80, 160 e 320 mg, 1 comp ao dia;&lt;/li&gt;
+  &lt;li&gt;Telmisartan (&lt;em&gt;Micardis&lt;/em&gt;): 40 e 80 mg), 1 comp ao dia;&lt;/li&gt;
+  &lt;li&gt;Candersatan (&lt;em&gt;Atacand&lt;/em&gt;): 8 e 16 mg, 1 comp ao dia;&lt;/li&gt;
+  &lt;li&gt;Ibersatana (&lt;em&gt;Aprovel&lt;/em&gt;): 150 e 300 mg, 1 comp ao dia;&lt;/li&gt;
+  &lt;li&gt;Olmersartan (&lt;em&gt;Benicar&lt;/em&gt;): 20 e 40 mg, 1 comp ao dia.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Efeitos adversos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tonturas;&lt;/li&gt;
+  &lt;li&gt;Reação de hipersensibilidade;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hiperpotassemia&lt;/strong&gt; em pacientes com IRC ou uso de espironolactona.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Não devem ser associados com IECA para o tratamento da hipertensão devido à similaridade de mecanismo e de efeitos adversos. Também são teratogênicos e não devem ser usados em gestantes!!&lt;/p&gt;
 
 &lt;h2 id=&quot;inibidores-da-renina&quot;&gt;Inibidores da renina&lt;/h2&gt;
 
@@ -202,18 +402,32 @@ da hipertensão. Inibe diretamente a renina e, assim, atua mais precocemente no 
 
 &lt;p&gt;O alisquireno não deve ser usado rotineiramente associado com IECA ou BRA. Pode causar diarreia, especialmente em doses altas, e pode causar também tosse e angioedema, mas possivelmente menos do que com IECAs.&lt;/p&gt;
 
-&lt;p&gt;Como os IECAs e os BRAs, o aliquireno é contraindicado durante a gestação. O aliquireno é biotransformado pela CYP3A4 e é sujeito a interações de fármacos.&lt;/p&gt;
+&lt;p&gt;Como os IECAs e os BRAs, o aliquireno é contraindicado durante a gestação. O aliquireno é biotransformado pela CYP3A4 e é sujeito a interações de fárma Considerar características individuais do paciente:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;DIABETES: inibidores da ECA
+2.
+ DOENÇA CORONARIANA: betabloqueadores
+3.
+ RAÇA NEGRA: diuréticos e bloqueadores dos canais do cálcio
+4.
+ INSUFICIÊNCIA CARDÍACA: inibidores da ECA
+5.
+ HAS SISTÓLICA ISOLADA NOS IDOSOS: diuréticos e bloqueadores dos
+canais do cálcio
+cos.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;bloqueadores-dos-canais-de-cálcio&quot;&gt;Bloqueadores dos canais de cálcio&lt;/h2&gt;
 
-&lt;p&gt;Os BCCs são uma opção de tratamento recomendado para hipertensos com diabetes ou angina. Doses elevadas de BCCs de curta duração devem ser evitadas devido ao maior risco de infarto do miocárdio por vasodilatação excessiva e acentuada estimulação cardíaca reflexa.&lt;/p&gt;
+&lt;p&gt;Os BCCs são uma opção de tratamento recomendado para hipertensos com diabetes ou angina. A concentração intracelular de cálcio tem um papel importante na manutenção do tônus da musculatura lisa e na contração do miocárdio. O cálcio entra nas células musculares através de canais de cálcio voltagem-sensíveis. Isso dispara a liberação de cálcio do retículo sarcoplasmático e da mitocôndria, aumentando adicionalmente o nível de cálcio citosólico. Os antagonistas de canais de cálcio bloqueiam a entrada de cálcio por se ligarem aos canais de cálcio do tipo L no coração e nos músculos lisos dos vasos coronarianos e arteriolares periféricos. Isso causa o relaxamento do músculo liso vascular, dilatando principalmente as arteríolas. Os BCCs não dilatam veias.&lt;/p&gt;
+
+&lt;p&gt;Doses elevadas de BCCs de curta duração devem ser evitadas devido ao maior risco de infarto do miocárdio por vasodilatação excessiva e acentuada estimulação cardíaca reflexa.&lt;/p&gt;
 
 &lt;p&gt;Os BCCs são divididos em três classes químicas, cada uma com propriedades farmacocinéticas e indicações clínicas diferentes:&lt;/p&gt;
 
-&lt;h3 id=&quot;difenilalquilaminas&quot;&gt;Difenilalquilaminas&lt;/h3&gt;
+&lt;h3 id=&quot;fenilalquilaminas&quot;&gt;Fenilalquilaminas&lt;/h3&gt;
 
-&lt;p&gt;O &lt;strong&gt;verapamil&lt;/strong&gt; é o único representante dessa classe disponível nos EUA. É o menos seletivo dos BCCs e apresenta efeitos significativos nas células cardíacas e no
-músculo liso vascular. Ele é usado também no tratamento da angina e das taquiarritmias supraventriculares, bem como para prevenir a enxaqueca e a cefaleia em salvas.&lt;/p&gt;
+&lt;p&gt;O &lt;strong&gt;verapamil&lt;/strong&gt; é o único representante dessa classe disponível nos EUA. É o menos seletivo dos BCCs e apresenta efeitos significativos nas células cardíacas e no músculo liso vascular. Ele é usado também no tratamento da angina e das taquiarritmias supraventriculares, bem como para prevenir a enxaqueca e a cefaleia em salvas.&lt;/p&gt;
 
 &lt;h3 id=&quot;benzotiazepínico&quot;&gt;Benzotiazepínico&lt;/h3&gt;
 
@@ -225,14 +439,24 @@ músculo liso vascular. Ele é usado também no tratamento da angina e das taqui
 
 &lt;p&gt;Todas as di-hidropiridinas apresentam muito maior afinidade pelos canais de cálcio vasculares do que pelos canais de cálcio do coração. Elas são, por isso, particularmente benéficas no tratamento da hipertensão. As di-hidropiridinas têm a vantagem de interagir pouco com outros fármacos cardiovasculares, como a digoxina ou a varfarina, que são frequentemente usados em conjunto com BCCs.&lt;/p&gt;
 
-&lt;h3 id=&quot;ações&quot;&gt;Ações&lt;/h3&gt;
-
-&lt;p&gt;A concentração intracelular de cálcio tem um papel importante na manutenção do tônus da musculatura lisa e na contração do miocárdio. O cálcio entra nas células musculares através de canais de cálcio voltagem-sensíveis. Isso dispara a liberação de cálcio do retículo sarcoplasmático e da mitocôndria, aumentando adicionalmente o nível de cálcio citosólico. Os antagonistas de canais de cálcio bloqueiam a entrada de cálcio por se ligarem aos canais de cálcio do tipo L no coração e nos músculos lisos dos vasos coronarianos e arteriolares periféricos. Isso causa o relaxamento do músculo liso vascular, dilatando principalmente as arteríolas. Os BCCs não dilatam veias.&lt;/p&gt;
-
 &lt;h3 id=&quot;usos-terapêuticos-1&quot;&gt;Usos terapêuticos&lt;/h3&gt;
 
 &lt;p&gt;No tratamento da hipertensão, os BCCs podem ser usados como tratamento inicial ou adicional. Eles &lt;strong&gt;são úteis no tratamento de pacientes hipertensos que também têm asma, diabetes e/ou doença vascular periférica&lt;/strong&gt; porque, diferentemente dos BBs, eles não têm potencial de afetar adversamente essas condições. Todos os BCCs são úteis no
 tratamento da angina. Além disso, &lt;strong&gt;diltiazem e verapamil são usados no tratamento da fibrilação atrial&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Posologia:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nifedipina:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;em&gt;Adalat&lt;/em&gt;: 10 mg 1 comp sublingual (fora de uso);&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Adalat retard&lt;/em&gt;: 10 e 20 mg, 1 comp de 12/12 horas (fora de uso);&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Adalat oros&lt;/em&gt;: 30 e 60 mg, 1 comp ao dia.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anlodipino  (&lt;em&gt;Norvasc, Pressat, Anlo, Anlovasc…&lt;/em&gt;): 1 comp ao dia;&lt;/li&gt;
+  &lt;li&gt;Manidipino (&lt;em&gt;Manivasc&lt;/em&gt;): 10 e 20 mg, 1 comp ao dia.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;efeitos-adversos-2&quot;&gt;Efeitos adversos&lt;/h3&gt;
 
@@ -240,53 +464,59 @@ tratamento da angina. Além disso, &lt;strong&gt;diltiazem e verapamil são usad
 
 &lt;p&gt;Tontura, cefaleia e sensação de fadiga causada pela redução da pressão arterial ocorrem mais frequentemente com di-hidropiridinas. &lt;span class=&quot;red&quot;&gt;Edema periférico&lt;/span&gt; é outro efeito adverso comumente registrado desta classe. Nifedipina e outras di-hidropiridinas podem causar hiperplasia gengival.&lt;/p&gt;
 
+&lt;ul&gt;
+  &lt;li&gt;Fenilalquilaminas e benzotiazepinas: depressão miocárdicae bloqueios AV;&lt;/li&gt;
+  &lt;li&gt;Di-hidropiridinas: cefaléia, rubor, edema MMII.&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;p&gt;&lt;img src=&quot;/assets/farmaco/bcc.jpeg&quot; alt=&quot;BCC&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;bloqueadores-dos-adrenorreceptores-α&quot;&gt;Bloqueadores dos adrenorreceptores α&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Prazosina&lt;/strong&gt;, &lt;strong&gt;doxazosina&lt;/strong&gt; e &lt;strong&gt;terazosina&lt;/strong&gt; produzem bloqueio competitivo de
-adrenoceptores α1 . Diminuem a RVP e reduzem a PA, relaxando os músculos lisos de artérias e veias. Causam mudanças mínimas no DC, no fluxo sanguíneo renal e na velocidade de filtração glomerular. Por isso, não ocorre taquicardia no tratamento prolongado, mas sim retenção de sal e água.&lt;/p&gt;
-
-&lt;p&gt;Taquicardia reflexa e hipotensão postural ocorrem com frequência no início do tratamento e com o aumento da dose, exigindo lenta titulação do fármaco em doses divididas. Devido aos resultados fracos e ao perfil de efeitos adversos, os α-bloqueadores &lt;strong&gt;não são recomendados no tratamento inicial da hipertensão&lt;/strong&gt; há muito tempo, mas podem ser &lt;strong&gt;usados para casos refratários&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Outros α 1-bloqueadores, com maior seletividade para o músculo da próstata, são usados no tratamento da hiperplasia prostática benigna.&lt;/p&gt;
-
-&lt;h2 id=&quot;bloqueadores-dos-adrenorreceptores-α-e-β&quot;&gt;Bloqueadores dos adrenorreceptores α e β&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Labetalol&lt;/strong&gt; e &lt;strong&gt;carvedilol&lt;/strong&gt; bloqueiam os receptores α1, β1 e β2. O carvedilol, embora eficaz como anti-hipertensivo, é usado principalmente no tratamento da insuficiência cardíaca. O carvedilol, bem como o succinato de metoprolol e o bisoprolol, revelaram-se capazes de reduzir a morbidade e a mortalidade associadas à insuficiência cardíaca.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;labetalol&lt;/strong&gt; é usado no tratamento da &lt;strong&gt;hipertensão gestacional&lt;/strong&gt; e em emergências hipertensivas.&lt;/p&gt;
-
-&lt;h2 id=&quot;adrenérgicos-de-ação-central&quot;&gt;Adrenérgicos de ação central&lt;/h2&gt;
-
-&lt;h3 id=&quot;clonidina&quot;&gt;Clonidina&lt;/h3&gt;
-
-&lt;p&gt;A clonidina atua centralmente, produzindo inibição dos centros vasomotores simpáticos e diminuindo a estimulação simpática para a periferia. Isso leva à redução da resistência periférica total e à diminuição da PA. A clonidina é &lt;strong&gt;usada primariamente no tratamento da hipertensão que não responde adequadamente ao tratamento com dois ou mais fármacos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A clonidina não reduz o fluxo sanguíneo renal ou a filtração glomerular e, portanto, é útil no tratamento da hipertensão complicada por doença renal. É bem absorvida após administração oral e é excretada pelos rins. Também está disponível como adesivo transcutâneo.&lt;/p&gt;
-
-&lt;p&gt;Os efeitos adversos incluem sedação, boca seca e constipação. Ocorre hipertensão de rebote após interrupção súbita da clonidina. Por isso, se a interrupção for necessária, o fármaco deve ser retirado lentamente.&lt;/p&gt;
-
-&lt;h3 id=&quot;metildopa&quot;&gt;Metildopa&lt;/h3&gt;
-
-&lt;p&gt;Metildopa é um α2-agonista que é convertido em metilnorepinefrina no SNC, causando diminuição do efluxo adrenérgico.&lt;/p&gt;
-
-&lt;p&gt;Os efeitos adversos mais comuns da metildopa são &lt;strong&gt;sedação&lt;/strong&gt; e &lt;strong&gt;sonolência&lt;/strong&gt;. Seu uso é limitado devido aos efeitos adversos e à necessidade de múltiplas dosificações
-diárias. É usada principalmente para o tratamento da &lt;strong&gt;hipertensão na gestação&lt;/strong&gt;, por ter registros de segurança.&lt;/p&gt;
 
 &lt;h2 id=&quot;vasodilatadores&quot;&gt;Vasodilatadores&lt;/h2&gt;
 
-&lt;p&gt;Os relaxantes de músculos lisos de ação direta, como a &lt;strong&gt;hidralazina&lt;/strong&gt; e o &lt;strong&gt;minoxidil&lt;/strong&gt;, &lt;span class=&quot;blue&quot;&gt;não são usados como fármacos primários&lt;/span&gt; no tratamento da hipertensão. Produzem relaxamento do músculo liso vascular, primariamente em artérias e arteríolas. Isso resulta em diminuição da resistência periférica e, por isso, da pressão arterial.&lt;/p&gt;
+&lt;p&gt;Como a &lt;strong&gt;hidralazina&lt;/strong&gt; e o &lt;strong&gt;minoxidil&lt;/strong&gt;, &lt;span class=&quot;blue&quot;&gt;não são usados como fármacos primários&lt;/span&gt; no tratamento da hipertensão. Produzem relaxamento do músculo liso vascular, primariamente em artérias e arteríolas. Isso resulta em &lt;span class=&quot;green&quot;&gt;diminuição da resistência periférica&lt;/span&gt; e, por isso, da PA.&lt;/p&gt;
 
-&lt;p&gt;Esses fármacos produzem estimulação reflexa do coração, resultando em aumentos reflexos da contratilidade miocárdica, da frequência cardíaca e do consumo de oxigê-
-nio. Essas ações &lt;strong&gt;podem causar angina pectoris&lt;/strong&gt;, infarto do miocárdio ou insuficiência cardíaca em indivíduos predispostos.&lt;/p&gt;
+&lt;p&gt;Esses fármacos produzem estimulação reflexa do coração, resultando em aumentos reflexos da contratilidade miocárdica, da frequência cardíaca e do consumo de oxigênio. Essas ações &lt;strong&gt;podem causar angina pectoris&lt;/strong&gt;, infarto do miocárdio ou insuficiência cardíaca em indivíduos predispostos.&lt;/p&gt;
 
-&lt;p&gt;Os vasodilatadores também aumentam a concentração plasmática de renina, causando retenção de sódio e água. Esses efeitos indesejados podem ser bloqueados pelo uso
-concomitante de um diurético e um β-bloqueador. &lt;strong&gt;Por exemplo, a hidralazina é administrada quase sempre em associação com um β-bloqueador&lt;/strong&gt;, como propranolol, metoprolol ou atenolol (&lt;span class=&quot;green&quot;&gt;para compensar a taquicardia reflexa&lt;/span&gt;), &lt;strong&gt;e um diurético&lt;/strong&gt; (&lt;span class=&quot;green&quot;&gt;para reduzir a retenção de sódio&lt;/span&gt;). Juntos, os três fármacos diminuem o débito cardíaco, o volume plasmático e a resistência vascular periférica.&lt;/p&gt;
+&lt;p&gt;Os vasodilatadores também aumentam a concentração plasmática de renina, causando retenção de sódio e água. Esses efeitos indesejados podem ser bloqueados pelo uso concomitante de um diurético e um β-bloqueador. &lt;strong&gt;Por exemplo, a hidralazina é administrada quase sempre em associação com um β-bloqueador&lt;/strong&gt;, como propranolol, metoprolol ou atenolol (&lt;span class=&quot;green&quot;&gt;para compensar a taquicardia reflexa&lt;/span&gt;), &lt;strong&gt;e um diurético&lt;/strong&gt; (&lt;span class=&quot;green&quot;&gt;para reduzir a retenção de sódio&lt;/span&gt;). Juntos, os três fármacos diminuem o débito cardíaco, o volume plasmático e a resistência vascular periférica.&lt;/p&gt;
 
-&lt;p&gt;A hidralazina é uma medicação aceita no controle da hipertensão induzida pela gestação. Os efeitos adversos do tratamento com hidralazina incluem &lt;strong&gt;cefaleia&lt;/strong&gt;, &lt;strong&gt;taquicardia&lt;/strong&gt;, &lt;strong&gt;náusea&lt;/strong&gt;, &lt;strong&gt;sudoração&lt;/strong&gt;, &lt;strong&gt;arritmia&lt;/strong&gt; e &lt;strong&gt;precipitação de angina&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;hidralazina&quot;&gt;Hidralazina&lt;/h3&gt;
 
-&lt;p&gt;Uma síndrome semelhante ao lúpus pode ocorrer com doses elevadas, mas é reversível com a interrupção do uso do fármaco. O tratamento com &lt;strong&gt;minoxidil causa hipertricose&lt;/strong&gt;. Atualmente, esse fármaco é usado topicamente no tratamento da calvície masculina padrão.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Patologias da aorta</title><link href="http://localhost:4000/cardiologia/doencas-da-aorta.html" rel="alternate" type="text/html" title="Patologias da aorta" /><published>2019-10-31T00:00:00-03:00</published><updated>2019-10-31T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/doencas-da-aorta</id><content type="html" xml:base="http://localhost:4000/cardiologia/doencas-da-aorta.html">&lt;ul&gt;
+&lt;p&gt;Tem uso limitado, devido ao aumento da atividade simpática, sendo reservado para casos de HAS grave, geralmente como terceira associação, ou em casos especiais (gestação e emergências hipertensivas).&lt;/p&gt;
+
+&lt;p&gt;Efeitos adversos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cefaleia;&lt;/li&gt;
+  &lt;li&gt;Taquicardia e palpitações;&lt;/li&gt;
+  &lt;li&gt;Náusea;&lt;/li&gt;
+  &lt;li&gt;Sudoração;&lt;/li&gt;
+  &lt;li&gt;Arritmia;&lt;/li&gt;
+  &lt;li&gt;Precipitação de angina;&lt;/li&gt;
+  &lt;li&gt;Parestesias;&lt;/li&gt;
+  &lt;li&gt;Reação lupus-like (reversível com a retirada).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Posologia: 25 a 200 mg/dia divididos em 2-4 tomadas.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;minoxidil&quot;&gt;Minoxidil&lt;/h3&gt;
+
+&lt;p&gt;Rapidamente absorvido por VO, atingindo sua “cpm” após 1 hora. Provoca intensa retenção de NA e água e por isso tem uso restrito a casos graves de HAS resistente, sempre associado a diuréticos.&lt;/p&gt;
+
+&lt;p&gt;Efeitos adversos: hipertricose (usado topicamente no tratamento da calvície).&lt;/p&gt;
+
+&lt;h2 id=&quot;escolha-inicial-do-anti-hipertensivo-aula&quot;&gt;Escolha inicial do anti-hipertensivo (aula)&lt;/h2&gt;
+
+&lt;p&gt;Considerar características individuais do paciente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;DIABETES: IECA;&lt;/li&gt;
+  &lt;li&gt;DOENÇA CORONARIANA: BB;&lt;/li&gt;
+  &lt;li&gt;RAÇA NEGRA: DIU e BCC;&lt;/li&gt;
+  &lt;li&gt;INSUFICIÊNCIA CARDÍACA: IECA;&lt;/li&gt;
+  &lt;li&gt;HAS SISTÓLICA ISOLADA NOS IDOSOS: DIU e BCC.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Patologias da aorta</title><link href="http://localhost:4000/cardiologia/doencas-da-aorta.html" rel="alternate" type="text/html" title="Patologias da aorta" /><published>2019-10-31T00:00:00-03:00</published><updated>2019-10-31T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/doencas-da-aorta</id><content type="html" xml:base="http://localhost:4000/cardiologia/doencas-da-aorta.html">&lt;ul&gt;
   &lt;li&gt;Aneurismas&lt;/li&gt;
   &lt;li&gt;Dissecções&lt;/li&gt;
   &lt;li&gt;Pseudoanerismas&lt;/li&gt;

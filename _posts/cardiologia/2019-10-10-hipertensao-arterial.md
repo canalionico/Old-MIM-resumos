@@ -499,8 +499,7 @@ sinérgica sempre propiciarão resultados melhores.
 Nos casos em que se configure a HA resistente (falta de controle da PA com o uso de pelo menos três medicamentos
 em dosagens máximas toleradas, sendo um deles um DIU), está indicada a associação de espironolactona.
 
-Os simpaticolíticos de ação central (clonidina) ou BB podem ser uma alternativa ao quarto fármaco, ficando o uso de
-vasodilatadores diretos reservado para casos especiais e em associação com DIU e BB.
+Os simpaticolíticos de ação central (clonidina) ou BB podem ser uma alternativa ao quarto fármaco, ficando o uso de vasodilatadores diretos reservado para casos especiais e em associação com DIU e BB.
 
 ![Indicação](/assets/cardiologia/has-drogas.jpeg)
 
