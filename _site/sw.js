@@ -69,7 +69,13 @@ self.addEventListener('install', function (event) {
       
         '/cardiologia/hipertensao-arterial.html',
       
+        '/obstetricia/guia-do-plantonista-na-sala-de-parto.html',
+      
+        '/cardiologia/sca-ssst.html',
+      
         '/cardiologia/fisiologia-cardiovascular.html',
+      
+        '/cardiologia/emergencia-hipertensiva.html',
       
         '/cardiologia/cardiomiopatia-dilatada.html',
       
@@ -384,6 +390,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/classif-icc.jpeg'
       
+        '/assets/cardiologia/classific-eh.jpeg'
+      
         '/assets/cardiologia/coronarias.gif'
       
         '/assets/cardiologia/coronarias2.jpg'
@@ -415,6 +423,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/ecg4.jpeg'
       
         '/assets/cardiologia/ecg5.jpeg'
+      
+        '/assets/cardiologia/eh.jpeg'
       
         '/assets/cardiologia/eixo.jpeg'
       
@@ -1054,9 +1064,21 @@ self.addEventListener('install', function (event) {
       
         '/assets/pneumo/dpp-atb.jpeg'
       
+        '/assets/pneumo/etiologia-pneumonia.jpeg'
+      
+        '/assets/pneumo/fr-pneumonia.jpeg'
+      
         '/assets/pneumo/ira-tab.jpeg'
       
+        '/assets/pneumo/pneumonia.jpg'
+      
+        '/assets/pneumo/rx-pneumonia.jpeg'
+      
+        '/assets/pneumo/tto-amb.jpeg'
+      
         '/assets/pneumo/tto-dpp.jpeg'
+      
+        '/assets/pneumo/tto-pneumonia.jpeg'
       
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       
