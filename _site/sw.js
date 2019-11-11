@@ -31,6 +31,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cardiologia/anti-hipertensivos.html',
+      
         '/cirurgia/tumores-de-mediastino.html',
       
         '/cardiologia/doencas-da-aorta.html',
@@ -67,7 +69,17 @@ self.addEventListener('install', function (event) {
       
         '/cardiologia/hipertensao-arterial.html',
       
+        '/obstetricia/guia-do-plantonista-na-sala-de-parto.html',
+      
+        '/cardiologia/sca-ssst.html',
+      
         '/cardiologia/fisiologia-cardiovascular.html',
+      
+        '/cardiologia/emergencia-hipertensiva.html',
+      
+        '/cardiologia/cardiomiopatia-dilatada.html',
+      
+        '/cardiologia/arritmias.html',
       
         '/mapas/abdome-agudo.html',
       
@@ -346,9 +358,13 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/Wiggers.svg.png'
       
+        '/assets/cardiologia/alca-de-reentrada.jpeg'
+      
         '/assets/cardiologia/aorta.jpeg'
       
         '/assets/cardiologia/arritmia-sinusal.jpeg'
+      
+        '/assets/cardiologia/arritmias-sinusais.jpeg'
       
         '/assets/cardiologia/aterosclerotica.jpeg'
       
@@ -373,6 +389,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/circunferencia-manguito.jpeg'
       
         '/assets/cardiologia/classif-icc.jpeg'
+      
+        '/assets/cardiologia/classific-eh.jpeg'
       
         '/assets/cardiologia/coronarias.gif'
       
@@ -406,6 +424,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/ecg5.jpeg'
       
+        '/assets/cardiologia/eh.jpeg'
+      
         '/assets/cardiologia/eixo.jpeg'
       
         '/assets/cardiologia/eixo10.jpeg'
@@ -430,6 +450,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/ergm.jpeg'
       
+        '/assets/cardiologia/escape-juncional.jpeg'
+      
         '/assets/cardiologia/estratificacao-has.jpeg'
       
         '/assets/cardiologia/etiologia-ic.jpeg'
@@ -437,6 +459,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/flux-erg.jpeg'
       
         '/assets/cardiologia/framingam.jpeg'
+      
+        '/assets/cardiologia/has-drogas.jpeg'
       
         '/assets/cardiologia/hipertrofia-v.jpeg'
       
@@ -498,7 +522,11 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/resposta-ic.jpeg'
       
+        '/assets/cardiologia/resposta-pa.jpeg'
+      
         '/assets/cardiologia/revasc.jpeg'
+      
+        '/assets/cardiologia/ritmo-sinusal.jpeg'
       
         '/assets/cardiologia/rs.jpeg'
       
@@ -523,6 +551,14 @@ self.addEventListener('install', function (event) {
         '/assets/emergencia/abdome-agudo.jpeg'
       
         '/assets/emergencia/abdome-agudo2.jpeg'
+      
+        '/assets/farmaco/acao-bb.jpeg'
+      
+        '/assets/farmaco/bcc.jpeg'
+      
+        '/assets/farmaco/ieca.jpeg'
+      
+        '/assets/farmaco/ieca2.jpeg'
       
         '/assets/favicon.png'
       
@@ -1028,9 +1064,21 @@ self.addEventListener('install', function (event) {
       
         '/assets/pneumo/dpp-atb.jpeg'
       
+        '/assets/pneumo/etiologia-pneumonia.jpeg'
+      
+        '/assets/pneumo/fr-pneumonia.jpeg'
+      
         '/assets/pneumo/ira-tab.jpeg'
       
+        '/assets/pneumo/pneumonia.jpg'
+      
+        '/assets/pneumo/rx-pneumonia.jpeg'
+      
+        '/assets/pneumo/tto-amb.jpeg'
+      
         '/assets/pneumo/tto-dpp.jpeg'
+      
+        '/assets/pneumo/tto-pneumonia.jpeg'
       
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       
