@@ -172,8 +172,6 @@ body {
   padding-left: 2rem;
   margin-left: 1.5rem;
   display: inline-block;
-  background-color: #ebebeb;
-  border-radius: 1rem;
   li a, li { font-size: 15px
   }
   li {
@@ -524,7 +522,7 @@ figure {
 /* Aqui é pra computador */
 @media only screen and (min-width: 800px) {
   #markdown-toc {
-    float: right;
+    float: none;
   }
   .footer-col {
     float: left;
