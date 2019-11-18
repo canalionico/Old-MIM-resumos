@@ -168,7 +168,8 @@ body {
   padding-left: 2rem;
   margin-left: 1.5rem;
   display: inline-block;
-  background-color: #ebebeb;
+  border-color: black;
+  border: 1px solid;
   border-radius: 1rem; }
   #markdown-toc li a, #markdown-toc li {
     font-size: 15px; }
@@ -373,10 +374,6 @@ kbd {
   line-height: 1;
   padding: 2px 4px;
   white-space: nowrap; }
-
-blockquote {
-  border-left: 6px solid #ebebeb;
-  padding-left: 15px; }
 
 img {
   max-width: 90%;

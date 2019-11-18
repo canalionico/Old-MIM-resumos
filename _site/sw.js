@@ -31,6 +31,14 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/infectologia/leptospirose.html',
+      
+        '/cardiologia/taqui.html',
+      
+        '/infectologia/endocardite-infecciosa.html',
+      
+        '/pneumologia/tuberculose.html',
+      
         '/cardiologia/anti-hipertensivos.html',
       
         '/cirurgia/tumores-de-mediastino.html',
@@ -64,6 +72,8 @@ self.addEventListener('install', function (event) {
         '/pneumologia/radiografia-de-torax.html',
       
         '/cardiologia/semiologia-cardiovascular.html',
+      
+        '/cardiologia/insuficiencia-aortica.html',
       
         '/cardiologia/principios-basicos-de-hemodinamica.html',
       
@@ -426,6 +436,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/eh.jpeg'
       
+        '/assets/cardiologia/ei/duke.jpg'
+      
         '/assets/cardiologia/eixo.jpeg'
       
         '/assets/cardiologia/eixo10.jpeg'
@@ -455,6 +467,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/estratificacao-has.jpeg'
       
         '/assets/cardiologia/etiologia-ic.jpeg'
+      
+        '/assets/cardiologia/flutter.webp'
       
         '/assets/cardiologia/flux-erg.jpeg'
       
@@ -778,6 +792,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/dengue/ref2.jpeg'
       
+        '/assets/infectologia/ei/duke.jpg'
+      
         '/assets/infectologia/lcr/ag.jpeg'
       
         '/assets/infectologia/lcr/ag2.jpeg'
@@ -785,6 +801,8 @@ self.addEventListener('install', function (event) {
         '/assets/infectologia/lcr/tab1.jpeg'
       
         '/assets/infectologia/lcr/tab2.jpeg'
+      
+        '/assets/infectologia/leptospira.png'
       
         '/assets/infectologia/ntx/tc.jpeg'
       

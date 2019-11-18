@@ -1,4 +1,502 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-08T19:50:20-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Anti hipertensivos</title><link href="http://localhost:4000/cardiologia/anti-hipertensivos.html" rel="alternate" type="text/html" title="Anti hipertensivos" /><published>2019-11-05T00:00:00-03:00</published><updated>2019-11-05T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/anti-hipertensivos</id><content type="html" xml:base="http://localhost:4000/cardiologia/anti-hipertensivos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-18T14:44:08-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Leptospirose</title><link href="http://localhost:4000/infectologia/leptospirose.html" rel="alternate" type="text/html" title="Leptospirose" /><published>2019-11-16T00:00:00-03:00</published><updated>2019-11-16T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/leptospirose</id><content type="html" xml:base="http://localhost:4000/infectologia/leptospirose.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#síndrome-de-weil&quot; id=&quot;markdown-toc-síndrome-de-weil&quot;&gt;Síndrome de Weil&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
+
+&lt;p&gt;A leptospirose é uma doença febril causa pela infecção pelo &lt;em&gt;Leptospira interrogans&lt;/em&gt;, uma bactéria do filo &lt;a href=&quot;https://pt.wikipedia.org/wiki/Spirochaetes&quot;&gt;espiroqueta&lt;/a&gt;. Se assemelha muito à dengue clássica, mas é considerada a mais importante zoonose.&lt;/p&gt;
+
+&lt;p&gt;Em alguns casos pode se apresentar numa forma grave denominada de síndrome de Weil.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Enchentes em zonas urbanas possuem uma relação com surtos dessa doença.&lt;/p&gt;
+
+&lt;p&gt;Cerca de 60% dos ratos no Brasil possuem urina positiva para Leptospira.&lt;/p&gt;
+
+&lt;p&gt;Os principais surtos de infecção costumam ocorrer nas épocas de maiores chuvas e quando ocorrem maiores enchentes, facilitando o contato com elementos da urina de ratos.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;Estas espiroquetas são micro-organismos aeróbicos obrigatórios, helicoidais, flexíveis e móveis. Podem permanecer viáveis em solo úmido ou na água por semanas a meses, mas precisam de um hospedeiro animal para manter seu ciclo vital. Este pode ser um mamífero, um réptil ou um anfíbio. O hospedeiro clássico e mais conhecido é o rato, o principal reservatório desta bactéria.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/leptospira.png&quot; alt=&quot;Etiologia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Os roedoras não desenvolvem a doença e eliminam as espiroquetas na urina. A leptospira é capaz de penetrar na pele de mamíferos por meio de micro lesões ou abrasões na pele, através de membranas mucosas (oral, faríngea e conjuntiva) ou pela inalação de gotículas microscópicas.&lt;/p&gt;
+
+&lt;p&gt;Os seres humanos acometidos são hospedeiros acidentais, e podem, após se infectar, permanecer assintomáticos ou desenvolver a doença. Os animais infectados, incluindo o Homem, passam então a excretar esse patógeno na urina, dando continuidade ao ciclo de vida.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fase de leptospiremia:&lt;/strong&gt; após penetrar na pele ou na mucosa, as leptospiras chegam à corrente sanguínea e se multiplicam, disseminando-se pelo organismo.&lt;/p&gt;
+
+&lt;p&gt;As leptospira são capazes de produzir hialuronidase, uma enzima que possibilita a difusão e invasão do tecido conjuntivo sem provocar uma exarcevada reação inflamatória. Dessa forma, o patógeno pode atingir o líquor e o humor aquoso.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Capilarite generalizada:&lt;/strong&gt; lesão direta do endotélio provocada pelas leptospiras. Ocorre extravasamento de líquido para o terceiro espaço e fenômenos hemorrágicos,
+característicos da doença, mais especialmente nas formas graves.&lt;/p&gt;
+
+&lt;p&gt;adesão das leptospiras à mem-
+brana das células, determinando lesão ou disfun-
+ção celular, desproporcional aos achados histopa-
+tológicos. Isso quer dizer que podemos ter disfun-
+ção orgânica com pouca ou nenhuma inflamação!&lt;/p&gt;
+
+&lt;p&gt;Síndrome de Weil: os órgãos mais afetados são o fígado, o rim, o pulmão, o coração e o músculo esquelético.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;h3 id=&quot;síndrome-de-weil&quot;&gt;Síndrome de Weil&lt;/h3&gt;
+
+&lt;p&gt;É uma forma grave da doença, caracterizada pela tríade: &lt;strong&gt;icterícia, hemorragias e insuficiência renal aguda&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;MED&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Taquicardias supraventriculares</title><link href="http://localhost:4000/cardiologia/taqui.html" rel="alternate" type="text/html" title="Taquicardias supraventriculares" /><published>2019-11-13T00:00:00-03:00</published><updated>2019-11-13T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/taqui</id><content type="html" xml:base="http://localhost:4000/cardiologia/taqui.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#taquicardias-atriais&quot; id=&quot;markdown-toc-taquicardias-atriais&quot;&gt;Taquicardias atriais&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#flutter-atrial&quot; id=&quot;markdown-toc-flutter-atrial&quot;&gt;Flutter atrial&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#tipo-i-típico&quot; id=&quot;markdown-toc-tipo-i-típico&quot;&gt;Tipo I (típico)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tipo-ii&quot; id=&quot;markdown-toc-tipo-ii&quot;&gt;Tipo II&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fibrilação-atrial&quot; id=&quot;markdown-toc-fibrilação-atrial&quot;&gt;Fibrilação atrial&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;TPSV&lt;/li&gt;
+  &lt;li&gt;Taquicardia atrial&lt;/li&gt;
+  &lt;li&gt;Flutter atrial&lt;/li&gt;
+  &lt;li&gt;Fibrilação atrial&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A extrassístole pode ser de origem ventricular ou supraventricular. As ventriculares possuem morfologia aberrante  enquanto que as supraventriculáres possuem a morfologia normal do QRS.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ponto de Wenckebar:&lt;/strong&gt; a frequencia de estimulo em que o nó AV começa a parar de conduzir o impulso, formando um BAV de 2o grau do tipo 1. Cada pessoa tem um ponto diferente, mas a maioria vai bloquear a condução em torno de 140 a 190 bpm.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;De forma geral os números das frequências podem variar de autor para autor.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A maioria das taquicardias atriais têm  frequência baixa, ou seja, todos os estímulos passam pelo nó AV pois não ultrapassam oponto de Weckenbar.&lt;/p&gt;
+
+&lt;p&gt;Flutter atrial: acima de 240 bpm chamamos de flutter. Este pode ser de tipo I (240-340) ou tipo II (340-433) ou ainda um BAV fixo ou variável.&lt;/p&gt;
+
+&lt;p&gt;Uma fibrilação atrial é caracterizada por frequência maior que 450 bpm.&lt;/p&gt;
+
+&lt;h2 id=&quot;taquicardias-atriais&quot;&gt;Taquicardias atriais&lt;/h2&gt;
+
+&lt;h2 id=&quot;flutter-atrial&quot;&gt;Flutter atrial&lt;/h2&gt;
+
+&lt;h3 id=&quot;tipo-i-típico&quot;&gt;Tipo I (típico)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ondas F tipo dente de serrote&lt;/li&gt;
+  &lt;li&gt;Negativas em D2, D3 e aVF;&lt;/li&gt;
+  &lt;li&gt;Freq de F: 240-340 - bloquieo 2:1 (a cada duas sístoles atriais ocorre uma sístole ventricular);&lt;/li&gt;
+  &lt;li&gt;Interrompida por estimulação elétrica atrial.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tipo-ii&quot;&gt;Tipo II&lt;/h3&gt;
+
+&lt;p&gt;O ECG esofágico pode facilitar a visualização pois o esôfago está muito próximo do átrio e as ondas F ficariam mais evidentes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/flutter.webp&quot; alt=&quot;Flutter&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fibrilação-atrial&quot;&gt;Fibrilação atrial&lt;/h2&gt;
+
+&lt;p&gt;É a arritimia mais irregular que existe. Pode ser identificada apenas com a ausculta. Quando tem frequência alta pode incomodar o paciente e fazê-lo buscar auxílio médico.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Paroxística&lt;/li&gt;
+  &lt;li&gt;Persistente&lt;/li&gt;
+  &lt;li&gt;Permanente: não reversível;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A prevalência é de aproximadamente 0,4% da população e aumenta com a idade. Existem causas de FA sem alteração atrial.&lt;/p&gt;
+
+&lt;p&gt;Aumenta o risco de tromboembolismo.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sintomas “estranhos” do SNC como: “sinto a cabeça aérea’, “sinto a cabeça vazia”;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Hoje a terapia é feita com Warfarina. Porém, é necessário ficar avaliando o INR que deve ser mantido entre 2 e 3.&lt;/p&gt;
+
+&lt;p&gt;Novos anticoagulantes: dabigatrana, rivaroxabana, apixabana, endoxabana.&lt;/p&gt;
+
+&lt;p&gt;Controle da frequência ventricular:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Digital;&lt;/li&gt;
+  &lt;li&gt;Verapamil;&lt;/li&gt;
+  &lt;li&gt;Diltiazem;&lt;/li&gt;
+  &lt;li&gt;Betabloqueador;&lt;/li&gt;
+  &lt;li&gt;Amiodarona.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Endocardite infecciosa</title><link href="http://localhost:4000/infectologia/endocardite-infecciosa.html" rel="alternate" type="text/html" title="Endocardite infecciosa" /><published>2019-11-12T00:00:00-03:00</published><updated>2019-11-12T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/endocardite-infecciosa</id><content type="html" xml:base="http://localhost:4000/infectologia/endocardite-infecciosa.html">&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
+
+&lt;p&gt;Definimos Endocardite Infecciosa (EI) como uma infecção microbiana da superfície endotelial do coração.&lt;/p&gt;
+
+&lt;p&gt;A região mais acometida são as valvas, mas as cordoalhas, áreas de defeitos septais e o próprio endocárdio também pode ser acometido. A valva mitral é a mais acometida, seguida pela valva aórtica.&lt;/p&gt;
+
+&lt;p&gt;Quanto ao tempo de apresentação, ela é diferenciada em &lt;strong&gt;aguda&lt;/strong&gt;, menos de 6 semanas, e &lt;strong&gt;subaguda&lt;/strong&gt;, mais de 6 semanas. Contudo, também costuma-se utilizar a apresentação clínica, apesar do tempo de duração, para diferenciar entre estes dois tipos.&lt;/p&gt;
+
+&lt;p&gt;De forma geral, a EI necessita sempre de intervenção médica ou evoluirá para óbito. Não existem casos de cura espontânea de EI.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Portadores de dispositivos intra-cardíacos;&lt;/li&gt;
+  &lt;li&gt;Doença valvar prévia;&lt;/li&gt;
+  &lt;li&gt;Endocardite associada aos cuidados de saúde: procedimentos invasivos:
+    &lt;ul&gt;
+      &lt;li&gt;Hemodiálise;&lt;/li&gt;
+      &lt;li&gt;Cateterismo venoso profundo;&lt;/li&gt;
+      &lt;li&gt;Implante de devices intracardíacos (marca-passo, CDI);&lt;/li&gt;
+      &lt;li&gt;Cirurgias endourológicas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Valvas protéticas&lt;/li&gt;
+  &lt;li&gt;Doença reumática;&lt;/li&gt;
+  &lt;li&gt;Crianças com cardiopatias congênitas;&lt;/li&gt;
+  &lt;li&gt;Usuários de drogas injetáveis.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nos países desenvolvidos, a doença reumática não tem mais importância como fator predisponente. Nestes, os principais fatores de risco são: transplantes, uso de próteses e agentes virulentos de ambientes hospitalares.&lt;/p&gt;
+
+&lt;p&gt;É muito importante conhecer os fatores de risco pois cada um apresenta um patógeno mais comum de causar a infeccção e isso pode implicar na hora de escolher a antibioticoterapia empírica.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Endocardites infecciosas em valvas protéticas:&lt;/strong&gt; esta classe é subdividida em função do tempo de aparecimento da EI após a cirurgia de troca valvar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Precoce (primeiros 2 meses);&lt;/li&gt;
+  &lt;li&gt;Intermediário (entre 2-12 meses);&lt;/li&gt;
+  &lt;li&gt;Tardio (&amp;gt; 12 meses após a cirurgia).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;p&gt;A microbiologia da endocardite infecciosa varia na dependência dos fatores predisponentes (usuários de drogas IV, prótese valvar) e do quadro clínico (aguda versus subaguda).&lt;/p&gt;
+
+&lt;p&gt;Também pode ser causada por fungos principalmente os do gênero Cândida, Aspergilus e Torulopsis. São mais frequentes em usuários de drogas injetáveis.&lt;/p&gt;
+
+&lt;h3 id=&quot;endocardite-aguda&quot;&gt;Endocardite aguda&lt;/h3&gt;
+
+&lt;h4 id=&quot;valva-nativa&quot;&gt;Valva Nativa&lt;/h4&gt;
+
+&lt;p&gt;O Staphylococcus aureus é o principal agente da endocardite aguda em valva nativa. Geralmente é proveniente da flora cutânea e muitos pacientes apresentam uma infecção de pele ou tecido subcutâneo (como uma furunculose) como porta de entrada.&lt;/p&gt;
+
+&lt;p&gt;Enterococos, Strepto pyogenes, também podem atuar.&lt;/p&gt;
+
+&lt;p&gt;O Streptococcus pneumoniae é responsável por cerca de 1 a 3% dos casos, sendo mais frequente em alcoólatras com pneumonia e meningite e, mais raramente, crianças. Evolui de forma mais grave com comprometimento preferencial da valva aórtica, que tem sua estrutura destruída de maneira precoce, somada à formação de abscessos miocárdicos e insuficiência cardíaca aguda. A mortalidade é de 30-50%. A tríade pneumonia + meningite + endocardite é chamada &lt;strong&gt;síndrome de Austrian&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Em &lt;strong&gt;usuários de droga injetáveis&lt;/strong&gt;, o &lt;em&gt;S. aureus&lt;/em&gt; é a principal etiologia da valva tricúspide, a valva mais comumente afetada nesses pacientes. O material injetado costuma conter partículas e impurezas (como talco) capazes de
+lesar diretamente o endotélio da valva tricúspide, facilitando a infecção estafilocócica desta valva. A metastatização de êmbolos sépticos para os pulmões acarreta a formação de múltiplos abscessos pulmonares bilaterais, sendo tal achado um comemorativo característico da EI de valva tricúspide.&lt;/p&gt;
+
+&lt;h4 id=&quot;valva-protética&quot;&gt;Valva protética&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Início precoce (&amp;lt; 2 meses):&lt;/strong&gt; o &lt;em&gt;Staphylococcus epidermidis&lt;/em&gt; (coagulase-negativo) e o &lt;em&gt;Staphylococcus aureus&lt;/em&gt; são os mais comuns nos primeiros dois meses após a cirurgia de troca valvar. Bacilos gram-negativos, fungos (Candida albicans), enterococos e os difteroides também são agentes importantes neste grupo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Início intermediário (entre 2-12 meses):&lt;/strong&gt; principalmente os Staphylococcus coagulase-negativo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Início tardio (&amp;gt; 1 ano):&lt;/strong&gt; os agentes são semelhantes aos da EI comunitária de valvas nativas, Streptococcus do grupo viridans, S. aureus, enterococo, HACEK.&lt;/p&gt;
+
+&lt;h4 id=&quot;associada-aos-cuidados-de-saúde&quot;&gt;Associada aos cuidados de saúde&lt;/h4&gt;
+
+&lt;p&gt;Principalmente os &lt;em&gt;S. aureus&lt;/em&gt; e &lt;em&gt;Staphylococcus epidermidis&lt;/em&gt; (coagulase-negativo). Também aumenta a frequência dos enterococos, bacilos gram-negativos entéricos e fungos.&lt;/p&gt;
+
+&lt;h4 id=&quot;agentes-raros&quot;&gt;Agentes raros&lt;/h4&gt;
+
+&lt;p&gt;Em 5-15% dos pacientes as hemoculturas são negativas. Em metade desses casos, o motivo é simplesmente o uso prévio de antibióticos. O restante é explicado por germes raros
+que não crescem nos meios de cultura habituais, como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Granulicatella e Abiotrophia (bactérias com necessidades nutricionais especiais);&lt;/li&gt;
+  &lt;li&gt;Membros do grupo HACEK;&lt;/li&gt;
+  &lt;li&gt;Bartonella hanselae ou quintana (endocardite em moradores de rua);&lt;/li&gt;
+  &lt;li&gt;Coxiella burnetti (agente da febre Q);&lt;/li&gt;
+  &lt;li&gt;Brucella (agente da brucelose – mais frequente em países do Oriente Médio) e Trophery- ma whippeli (agente da doença de Whipple).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Todos estes patógenos causam quadros indolentes e, por vezes, &lt;strong&gt;afebris&lt;/strong&gt; de endocardite.&lt;/p&gt;
+
+&lt;h3 id=&quot;endocardite-subaguda&quot;&gt;Endocardite Subaguda&lt;/h3&gt;
+
+&lt;h4 id=&quot;valva-nativa-1&quot;&gt;Valva nativa&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Estreptococos alfa-hemolíticos, conhecidos como &lt;strong&gt;Streptococcus do grupo viridans&lt;/strong&gt; (S. sanguis, S. mutans, S. mitior, S. intermedius)
+    &lt;ul&gt;
+      &lt;li&gt;São as principais etiologias de endocardite comunitária em indivíduos não usuários de drogas injetáveis.&lt;/li&gt;
+      &lt;li&gt;Estes micro-organismos fazem parte da microbiota normal da cavidade oral e, a partir de bacteremias transitórias, colonizam valvas previamente comprometidas por desordens congênitas ou adquiridas (ex.: doença reumática, degeneração senil).&lt;/li&gt;
+      &lt;li&gt;O estreptococo do grupo viridans é a principal causa de endocardite bacteriana subaguda.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os enterococos, cocos Gram-positivos antigamente chamados de “estreptococo do grupo
+D”, constituem o segundo agente causal da endocardite subaguda. Enterococcus faecalis
+e Enterococcus faecium são as principais espécies envolvidas. Estes micro-organismos
+estão associados a bacteremias após instrumentação do trato urinário em homens. Os
+enterococos podem causar endocardite subaguda ou aguda e infectar valvas nativas normais ou defeituosas. São conhecidos pela sua resistência natural a diversos antibióticos.&lt;/p&gt;
+
+&lt;p&gt;A bacteremia pelo &lt;em&gt;Streptococcus bovis&lt;/em&gt; – que também vem sendo chamado de Streptococcus gallolyticus subespécie gallolyticus – associa-se a tumores do TGI, doença de Chron e polipose. É de boa prática pesquisar de tumores de cólon por colonoscopia nestes pacientes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Grupo HACEK&lt;/strong&gt;: (Haemophylus parainfluenzae, Haemophilus aphrophilus, Actinobacillus, Cardiobacterium hominis, Eikenella corrodens e Kingella kingii) são gram-negativos fastidiosos (de crescimento lento e apenas em meios especiais enriquecidos com nutrientes específicos) que raramente ocasionam a doença. Eles fazem parte da microbiota normal do trato respiratório
+superior, causando endocardite subaguda em valvas nativas e valvas protéticas. Podem produzir a enzima betalactamase.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;h3 id=&quot;ei-aguda&quot;&gt;EI Aguda&lt;/h3&gt;
+
+&lt;p&gt;Nas formas agudas, o quadro toxêmico e a gravidade dos achados faz com que o paciente procure o médico de forma mais precoce, com o seu diagnóstico sendo estabelecido durante a internação hospitalar.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Febre alta,&lt;/li&gt;
+  &lt;li&gt;Sinais de toxemia (sepse),&lt;/li&gt;
+  &lt;li&gt;Disfunção cardíaca precoce;&lt;/li&gt;
+  &lt;li&gt;Surgimento de múltiplos focos de infecção metastática à distância.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A EI por &lt;em&gt;S. aureus&lt;/em&gt; costuma cursar com mais eventos embólicos. Também costuma ser mais letal se não reconhecida rapidamente.&lt;/p&gt;
+
+&lt;p&gt;Nos usuários de drogas intravenosas, a valva tricúspide é preferencialmente acometida. Em
+pacientes sem este fator de risco, pode haver comprometimento da valva aórtica.&lt;/p&gt;
+
+&lt;h3 id=&quot;ei-subaguda&quot;&gt;EI Subaguda&lt;/h3&gt;
+
+&lt;p&gt;Representa pelos Streptococcus do grupo viridans e pelos enterococos. Acomete mais comumente as valvas com lesões prévias. Sua apresentação é mais arrastada, cursando com:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Febre baixa&lt;/strong&gt; intermitente (presente em 90% dos casos);&lt;/li&gt;
+  &lt;li&gt;Sudorese noturna;&lt;/li&gt;
+  &lt;li&gt;Perda ponderal;&lt;/li&gt;
+  &lt;li&gt;Fenômenos imunológicos;&lt;/li&gt;
+  &lt;li&gt;Anemia;&lt;/li&gt;
+  &lt;li&gt;Esplenomegalia;&lt;/li&gt;
+  &lt;li&gt;Surgimento ou modificação de sopros já existentes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A disfunção cardíaca pode ou não acontecer e geralmente é gradual. Se não tratada, evolui para óbito num período de tempo bem mais longo (de meses). Mas também podem ocorrer intercorrências agudas potencialmente letais, como fenômenos cardioembólicos (AVC, IAM) ou ruptura de “aneurisma micótico”.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Manchas de Janeway:&lt;/strong&gt; máculas avermelhadas, planas e indolores, mais comum nas palmas das mãos e na planta dos pés;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Manchas de Roth:&lt;/strong&gt; inflamação ocular por microembolizações da arteria retiniana,formando manchas em aspécto algodonoso;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nódulos de Osler:&lt;/strong&gt; nós subcutâneos dolorosos, pequenos e macios que se desenvolvem na polpa dos dedos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
+
+&lt;p&gt;Embolização para pulmões e grandes vasos, abscesso miocárdico, infarto tecidual etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;A “vegetação” é uma lesão composta por plaquetas, fibrina, micro-organismos e células inflamatórias.&lt;/p&gt;
+
+&lt;h3 id=&quot;hemocultura&quot;&gt;Hemocultura&lt;/h3&gt;
+
+&lt;p&gt;Devem ser coletadas 3 culturas sanguíneas antes do início dos antibióticos.&lt;/p&gt;
+
+&lt;p&gt;Deve ser colhida em artéria!!!&lt;/p&gt;
+
+&lt;p&gt;Também pode ser feita a cultura de materiais cirpurgicos, como cateteres e valvas protéticas retiradas. Se possível, sempre enviar estes materiais para a cultura.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;A faculdade de Duke elaborou critérios clássicos para o diagnóstico de endocardite infecciosa:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ei/duke.jpg&quot; alt=&quot;Critérios de Duke&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2 critérios maiores;&lt;/li&gt;
+  &lt;li&gt;1 maior e 3 menores;&lt;/li&gt;
+  &lt;li&gt;5 menores.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/h3&gt;
+
+&lt;p&gt;Endarterite infecciosa: é a infecção da camada endotelial de derivações arteriovenosas, shunts arterioarteriais (como o ducto arterioso patente) e locais de estreitamento da aorta (como a coarctação).&lt;/p&gt;
+
+&lt;p&gt;O lúpus eritematoso sistêmico pode ser um DD com a EI. Devido à semelhança da leucopenia, aniemia, febre e sintomas gerais.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h3 id=&quot;conduta&quot;&gt;Conduta&lt;/h3&gt;
+
+&lt;p&gt;O paciente com EI aguda deve ser adimitido na UTI.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hidratação;&lt;/li&gt;
+  &lt;li&gt;Dieta hiperproteica;&lt;/li&gt;
+  &lt;li&gt;Analgésicos e anti-térmicos;&lt;/li&gt;
+  &lt;li&gt;Colher as 6 hemoculturas antes de iniciar os antibióticos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;antibioticoterapia&quot;&gt;Antibioticoterapia&lt;/h3&gt;
+
+&lt;p&gt;A antibioticoterapia dura em torno de 30 a 40 dias.&lt;/p&gt;
+
+&lt;p&gt;Penicilina cristalina + gentamicina associado ou não à oxacilina por cerca de 4 a 6 semanas. Para alérgicos à penicilina, opta-se pela vancomicina.&lt;/p&gt;
+
+&lt;p&gt;Para S. viridans: penicilinas ou cefalosporinas de 3a geração por 4 semanas. Se associar com gentamicina pode ser reduzido para 2 semanas se não houver comorbidades. Se MIC &amp;gt; 0,6 ugmL deve ser tratada como enterococo.&lt;/p&gt;
+
+&lt;h4 id=&quot;fatores-de-melhora&quot;&gt;Fatores de melhora&lt;/h4&gt;
+
+&lt;p&gt;Após o início da antibioticoterapia, em torno de 75% dos pacientes cessam a febre com semana e 90% em duas semanas. A febre prolongada, ultrapassando 2 semanas durante a antibioticoterapia, está associada àos patógenos S. aureus,
+bacilos Gram-negativos e fungos, ou à presença de complicações.&lt;/p&gt;
+
+&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Sintomas de insuficiência cardíaca na EI é igual a tratamento cirúrgico precoce!&lt;/li&gt;
+  &lt;li&gt;EI fúngica: o tratamento clínico é muito demorado e o paciente pode piorar antes de completá-lo, por isso indica-se logo o tratamento cirúrgico;&lt;/li&gt;
+  &lt;li&gt;Embolização de repetição;&lt;/li&gt;
+  &lt;li&gt;Alterações anatômicas: como abcessos, aneurismas, comunicações de câmaras;&lt;/li&gt;
+  &lt;li&gt;Persistência da febre 7 a 10 dias após início do tratamento clínico;&lt;/li&gt;
+  &lt;li&gt;Qualquer sinal de sepse.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Não se deve hesitar na indicação de cirurgia para a EI.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Introdução</summary></entry><entry><title type="html">Tuberculose</title><link href="http://localhost:4000/pneumologia/tuberculose.html" rel="alternate" type="text/html" title="Tuberculose" /><published>2019-11-11T00:00:00-03:00</published><updated>2019-11-11T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/tuberculose</id><content type="html" xml:base="http://localhost:4000/pneumologia/tuberculose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#transmissão&quot; id=&quot;markdown-toc-transmissão&quot;&gt;Transmissão&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#teste-de-mantoux&quot; id=&quot;markdown-toc-teste-de-mantoux&quot;&gt;Teste de Mantoux&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#igra&quot; id=&quot;markdown-toc-igra&quot;&gt;Igra&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#radiografia&quot; id=&quot;markdown-toc-radiografia&quot;&gt;Radiografia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#tomografia-computadorizada&quot; id=&quot;markdown-toc-tomografia-computadorizada&quot;&gt;Tomografia computadorizada&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#histologia&quot; id=&quot;markdown-toc-histologia&quot;&gt;Histologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#reação-em-cadeia-polimerase&quot; id=&quot;markdown-toc-reação-em-cadeia-polimerase&quot;&gt;Reação em cadeia polimerase&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#vacina-do-bcg&quot; id=&quot;markdown-toc-vacina-do-bcg&quot;&gt;Vacina do BCG&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;População privada de liberdade;&lt;/li&gt;
+  &lt;li&gt;Usuários de drogas;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;p&gt;Mycobacterium tuberculosis&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Multiplicação lenta (é uma doença crônica);&lt;/li&gt;
+  &lt;li&gt;Aerobiose estrita;&lt;/li&gt;
+  &lt;li&gt;Alta proporção de mutantes resistentes;&lt;/li&gt;
+  &lt;li&gt;Álcool-ácido resistente (BAAR).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Baciloscopia: o bacilo aparece corado de vermelho na lâmina.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;A célula principal na infecção pelo bacilo é o linfócito T CD4.&lt;/p&gt;
+
+&lt;h3 id=&quot;transmissão&quot;&gt;Transmissão&lt;/h3&gt;
+
+&lt;p&gt;A chance de contrair o bacilo é proporcional à carga de bacilos e o tempo de exposição. Na tosse, as gotículas carreiam os bacilos pelo ar. Após a inalação do bacilo, quatro situações podem acontecer:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Eliminação do BK pelas defesas do corpo;
+    &lt;ul&gt;
+      &lt;li&gt;A primeira linha de defesa é macrofágica&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;O desenvolvimento de uma infecção latente (primo-infecção);&lt;/li&gt;
+  &lt;li&gt;Desenvolvimento progressivo da tuberculose (tuberculose primária);&lt;/li&gt;
+  &lt;li&gt;Ativação da doença vários anos depois (reativação endógena ou tuberculose pós-primária).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;A infecção latente é assintomática.&lt;/p&gt;
+
+&lt;p&gt;Ambientes com luz solar e ventilação diminuem a chance de contaminação.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tosse por mais de 3 semanas;&lt;/li&gt;
+  &lt;li&gt;Perda de peso;&lt;/li&gt;
+  &lt;li&gt;Astenia&lt;/li&gt;
+  &lt;li&gt;Sudorese noturna&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;teste-de-mantoux&quot;&gt;Teste de Mantoux&lt;/h3&gt;
+
+&lt;p&gt;Injeção de PPA na face anterior do deltoide. Pode haver reação cruzada com a vacina do BCG. Dá o diagnóstico de &lt;strong&gt;tuberculose latente&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;igra&quot;&gt;Igra&lt;/h3&gt;
+
+&lt;h3 id=&quot;radiografia&quot;&gt;Radiografia&lt;/h3&gt;
+
+&lt;p&gt;Infiltrado de lobo superior com cavitação. Pode haver derrame pleural.&lt;/p&gt;
+
+&lt;p&gt;TB miliar: micronódulos.&lt;/p&gt;
+
+&lt;h3 id=&quot;tomografia-computadorizada&quot;&gt;Tomografia computadorizada&lt;/h3&gt;
+
+&lt;p&gt;Árvore em brotamento.&lt;/p&gt;
+
+&lt;h3 id=&quot;histologia&quot;&gt;Histologia&lt;/h3&gt;
+
+&lt;h3 id=&quot;reação-em-cadeia-polimerase&quot;&gt;Reação em cadeia polimerase&lt;/h3&gt;
+
+&lt;p&gt;O &lt;em&gt;gene expert&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h3 id=&quot;vacina-do-bcg&quot;&gt;Vacina do BCG&lt;/h3&gt;
+
+&lt;p&gt;Na verdade, o BCG é a vacina do &lt;em&gt;Mycobacterium bovis&lt;/em&gt;, ela protege contra formas graves de tuberculose, pois o sistema imune já têm alguma informação imunológica sobre o bacilo.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Uma associação de 4 drogas sinérgicas entre si:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rifampicina;&lt;/li&gt;
+  &lt;li&gt;Isonizazia;&lt;/li&gt;
+  &lt;li&gt;pirazinamida;&lt;/li&gt;
+  &lt;li&gt;Etambutol.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A rifampicina diminui a concentração sérica de anticoncepcionais e aumenta a chance de engravidar. Isso devido a sua metabolização hepática pelo citocromo P450.&lt;/p&gt;
+
+&lt;p&gt;Nos primeiros 2 meses usam-se 4 drogas e nos 4 últimos meses usa-se apenas 2 delas.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;2 RHZE&lt;/strong&gt; (150/75/400/275): fase intensiva (2 meses);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;4 RH&lt;/strong&gt; (150/75): fase de manutenção (4 meses).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A tuberculose óssea é tratada por 1 ano.&lt;/p&gt;
+
+&lt;p&gt;O tratamento da TB latente é feito apenas com isoniazida.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Anti hipertensivos</title><link href="http://localhost:4000/cardiologia/anti-hipertensivos.html" rel="alternate" type="text/html" title="Anti hipertensivos" /><published>2019-11-05T00:00:00-03:00</published><updated>2019-11-05T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/anti-hipertensivos</id><content type="html" xml:base="http://localhost:4000/cardiologia/anti-hipertensivos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#sistema-renina-angiotensina-aldosterona&quot; id=&quot;markdown-toc-sistema-renina-angiotensina-aldosterona&quot;&gt;Sistema renina-angiotensina-aldosterona&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#medicamentos&quot; id=&quot;markdown-toc-medicamentos&quot;&gt;Medicamentos&lt;/a&gt;    &lt;ol&gt;
       &lt;li&gt;&lt;a href=&quot;#cuidados-individualizados&quot; id=&quot;markdown-toc-cuidados-individualizados&quot;&gt;Cuidados individualizados&lt;/a&gt;&lt;/li&gt;
@@ -980,1540 +1478,4 @@ câmaras.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ritmo-sinusal.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;arritmias-supraventriculares&quot;&gt;Arritmias supraventriculares&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência respiratória aguda</title><link href="http://localhost:4000/pneumologia/ira.html" rel="alternate" type="text/html" title="Insuficiência respiratória aguda" /><published>2019-10-24T00:00:00-03:00</published><updated>2019-10-24T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/ira</id><content type="html" xml:base="http://localhost:4000/pneumologia/ira.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/ira-tab.jpeg&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG II - Hipertrofia e dilatação</title><link href="http://localhost:4000/cardiologia/ecg2.html" rel="alternate" type="text/html" title="ECG II - Hipertrofia e dilatação" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg2</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg2.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#eixo&quot; id=&quot;markdown-toc-eixo&quot;&gt;Eixo&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#definindo-o-ângulo&quot; id=&quot;markdown-toc-definindo-o-ângulo&quot;&gt;Definindo o ângulo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#desvios-de-eixo&quot; id=&quot;markdown-toc-desvios-de-eixo&quot;&gt;Desvios de eixo&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#aumento-atrial&quot; id=&quot;markdown-toc-aumento-atrial&quot;&gt;Aumento atrial&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#aumento-do-ad&quot; id=&quot;markdown-toc-aumento-do-ad&quot;&gt;Aumento do AD&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#aumento-do-ae&quot; id=&quot;markdown-toc-aumento-do-ae&quot;&gt;Aumento do AE&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hipertrofia-ventricular&quot; id=&quot;markdown-toc-hipertrofia-ventricular&quot;&gt;Hipertrofia ventricular&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#hipertrofia-de-vd&quot; id=&quot;markdown-toc-hipertrofia-de-vd&quot;&gt;Hipertrofia de VD&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#derivações-precordiais&quot; id=&quot;markdown-toc-derivações-precordiais&quot;&gt;Derivações precordiais&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hipertrofia-de-ve&quot; id=&quot;markdown-toc-hipertrofia-de-ve&quot;&gt;Hipertrofia de VE&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#derivações-precordiais-1&quot; id=&quot;markdown-toc-derivações-precordiais-1&quot;&gt;Derivações precordiais&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#derivações-periféricas&quot; id=&quot;markdown-toc-derivações-periféricas&quot;&gt;Derivações periféricas&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hipertrofia-de-ambos-ventrículos&quot; id=&quot;markdown-toc-hipertrofia-de-ambos-ventrículos&quot;&gt;Hipertrofia de ambos ventrículos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular&quot; id=&quot;markdown-toc-anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular&quot;&gt;Anormalidades secundárias da repolarização na hipertrofia ventricular&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O ECG pode revelar se uma câmara cardíaca particular, atrial ou ventricular, está aumentada ou hipertrofiada. Doenças valvulares, hipertensão sustentada e distúrbios musculares cardíacos hereditários ou adquiridos podem afetar o coração dessa forma, e o ECG pode, portanto, ajudar a reconhecer e avaliar esses distúrbios.&lt;/p&gt;
-
-&lt;p&gt;O termo &lt;strong&gt;hipertrofia&lt;/strong&gt; se refere a um aumento na massa muscular. A parede de um ventrículo hipertrofiado é grossa e potente. A maioria das hipertrofias é causada por &lt;strong&gt;sobrecarga de pressão&lt;/strong&gt;, quando o coração é forçado a bombear sangue contra uma resistência aumentada, como nos pacientes com hipertensão sistêmica ou estenose aórtica.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;dilatação&lt;/strong&gt; se refere ao aumento de uma câmara em particular. Um ventrículo aumentado pode conter mais sangue do que um ventrículo normal. A dilatação é causada, em geral, por uma &lt;strong&gt;sobrecarga de volume&lt;/strong&gt;:
-a câmara se dilata para acomodar o volume aumentado de sangue. A dilatação é vista com mais frequência em casos de certas doenças valvulares. A insuficiência aórtica, por exemplo, pode causar dilatação do
-VE, e a insuficiência mitral pode causar dilatação do AE.&lt;/p&gt;
-
-&lt;p&gt;A dilatação e a hipertrofia frequentemente coexistem. Isso não é uma surpresa, porque ambas representam modos pelos quais o coração tenta aumentar o débito cardíaco.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/dilat-hipert.jpeg&quot; alt=&quot;dedifinção&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Três situações podem acontecer com uma onda no ECG quando uma câmara se hipertrofia ou se dilata:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;A câmara pode levar mais tempo para se despolarizar (onda de maior duração);&lt;/li&gt;
-  &lt;li&gt;A câmara pode gerar mais corrente e, assim, uma maior voltagem (onda de maior amplitude);&lt;/li&gt;
-  &lt;li&gt;Uma maior percentagem da corrente elétrica total pode se mover através da câmara expandida. O vetor elétrico médio, ou eixo elétrico, da onda do ECG pode, dessa forma, desviar-se.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;eixo&quot;&gt;Eixo&lt;/h2&gt;
-
-&lt;p&gt;O eixo normal do QRS – a direção desse vetor médio – normal situa-se entre +90° e 0° (a maioria dos  cardiologistas estende a faixa de &lt;strong&gt;normalidade de +90° a -30°&lt;/strong&gt;). É determinado apenas utilizando os planos frontais (verticais).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/eixo.jpeg&quot; alt=&quot;dedifinção&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Podemos determinar se o eixo do QRS em qualquer ECG é normal olhando apenas para as &lt;strong&gt;derivações I e aVF&lt;/strong&gt;. Se o complexo QRS for &lt;strong&gt;positivo nas derivações I e aVF, o eixo do QRS deve ser normal&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/eixo2.jpeg&quot; alt=&quot;eixo&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/eixo3.jpeg&quot; alt=&quot;eixo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Ou seja: se o complexo QRS for predominantemente positivo tanto nas derivações I quanto nas aVF, então o eixo do QRS deve estar no quadrante no qual ambos são positivos, ou seja, entre 0° e 90°. Esse é o eixo normal do QRS.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/eixo4.jpeg&quot; alt=&quot;eixo&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;definindo-o-ângulo&quot;&gt;Definindo o ângulo&lt;/h3&gt;
-
-&lt;p&gt;Tudo que você precisa fazer é procurar a derivação dos membros na qual o complexo QRS é mais próximo de
-ser bifásico, com deflexões positivas e negativas praticamente iguais (às vezes, as deflexões são tão pequenas que a onda aparece achatada ou isoelétrica). &lt;strong&gt;O eixo, então, deve ser orientado de forma perpendicular a essa derivação&lt;/strong&gt; porque um eletrodo orientado perpendicularmente à direção média do fluxo da corrente registra uma onda bifásica.&lt;/p&gt;
-
-&lt;p&gt;Assim, por exemplo, se o complexo QRS na derivação III (orientação +120°) for bifásico, então o eixo deve ser orientado em ângulos retos com esta derivação, em +30° ou -150°. E, se já for de conhecimento que o eixo é normal – ou seja, se o complexo QRS é positivo nas derivações I e aVF –, então o eixo não pode estar em –150°, mas em +30°.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/eixo5.jpeg&quot; alt=&quot;eixo&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;desvios-de-eixo&quot;&gt;Desvios de eixo&lt;/h3&gt;
-
-&lt;p&gt;Se o eixo estiver entre 90° e 180°, há desvio do eixo para a direita. O complexo QRS, nas derivações
-I negativo e em aVF se manterá positivo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/eixo6.jpeg&quot; alt=&quot;eixo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Se o eixo estiver entre 0° e -90°, há desvio do eixo para a esquerda. Nesse caso, o complexo QRS na derivação I será positivo, mas será negativo em aVF.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/eixo7.jpeg&quot; alt=&quot;eixo&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Resumindo:
-&lt;img src=&quot;/assets/cardiologia/eixo8.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/eixo9.jpeg&quot; alt=&quot;eixo&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Eixo da onda P:&lt;/strong&gt; o eixo normal da onda P está entre 0° e 70° em adultos e entre 0° e 90° em crianças.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Eixo da onda T:&lt;/strong&gt; o eixo da onda T é variável, mas deve se aproximar do eixo de QRS, ficando entre 50° e 60° do eixo do QRS.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;aumento-atrial&quot;&gt;Aumento atrial&lt;/h2&gt;
-
-&lt;p&gt;A onda P normal tem uma duração menor do que 0,12 segundo e a maior deflexão, quer seja positiva ou negativa, não deve exceder 2,5 mm. A primeira parte da onda P representa a despolarização atrial direita, e a segunda parte, a despolarização atrial esquerda.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Praticamente todas as informações de que você precisa para avaliar o aumento atrial podem ser encontradas nas derivações II e V1. A derivação II é útil porque é orientada quase paralela ao fluxo de corrente através dos átrios (ou seja, paralela ao vetor médio da onda P). Ela registra, portanto, a maior deflexão positiva e é muito sensível a qualquer perturbação na despolarização atrial. A derivação V1 é útil porque é orientada de forma perpendicular ao fluxo de eletricidade, dessa forma, é bifásica, permitindo a separação fácil dos componentes atrial direito e esquerdo.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aumento-atrial.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;alert aviso-red&quot;&gt;Olhar as derivações II e V1 para procurar por aumento atrial!&lt;/p&gt;
-
-&lt;h3 id=&quot;aumento-do-ad&quot;&gt;Aumento do AD&lt;/h3&gt;
-
-&lt;p&gt;A amplitude da primeira porção da onda P aumenta. A largura não se altera porque o componente terminal da onda P tem origem no átrio esquerdo, e isso permanece inalterado. O vetor de despolarização atrial pode girar para a direita e o eixo da onda P pode se mover, no mesmo sentido, aos +90 ou até além. A onda P mais alta pode não mais aparecer na derivação II,
-mas, sim, em aVF ou na derivação III.&lt;/p&gt;
-
-&lt;p class=&quot;alert aviso-red&quot;&gt;O quadro clássico do aumento atrial direito é ilustrado nas deriva-
-ções II e V1 a seguir e foi chamado de **P pulmonale** porque, com frequência, é causado por doença pulmonar grave.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aumento-atrial2.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;alert aviso-red&quot;&gt;O aumento atrial direito é diagnosticado pela presença das ondas P
-com amplitude acima de 2,5 mm nas derivações inferiores, II, III e aVF.
-&lt;/p&gt;
-
-&lt;h3 id=&quot;aumento-do-ae&quot;&gt;Aumento do AE&lt;/h3&gt;
-
-&lt;p&gt;No aumento atrial esquerdo, a segunda porção da onda P pode aumentar em amplitude. O diagnóstico desse aumento requer que a porção terminal da onda P desça pelo menos &lt;strong&gt;1 mm abaixo da linha isoelétrica na derivação V1&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Contudo, uma alteração mais proeminente na onda P é o &lt;strong&gt;aumento na sua duração&lt;/strong&gt;. Isso ocorre porque a despolarização atrial esquerda representa a porção terminal da onda P, e a despolarização prolongada pode ser vista imediatamente (&lt;strong&gt;no aumento atrial direito, a despolarização prolongada é mascarada pela porção atrial esquerda da onda P&lt;/strong&gt;). O
-diagnóstico de aumento atrial esquerdo, portanto, também requer que a porção terminal da onda P deva ter &lt;strong&gt;pelo menos um quadrado pequeno (0,04 segundos) de largura&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/aumento-ae.jpeg&quot; alt=&quot;esumindo eixos&quot; /&gt;&lt;/p&gt;
-
-&lt;p class=&quot;alert aviso-red&quot;&gt;Ou seja: olhar para II e V1. Aumento de AD: maior amplitude (&amp;gt; 2,5 mm) e duração preservada, eixo pode desviar para a direita; Aumento de AE: componente terminal aumentado (&amp;gt; 1 mm), duração aumentada na porção terminal (&amp;gt; 0,04 s), normalmente não mostra desvio de eixo.&lt;/p&gt;
-
-&lt;h2 id=&quot;hipertrofia-ventricular&quot;&gt;Hipertrofia ventricular&lt;/h2&gt;
-
-&lt;h3 id=&quot;hipertrofia-de-vd&quot;&gt;Hipertrofia de VD&lt;/h3&gt;
-
-&lt;p&gt;A hipertrofia de VD é menos comum e requer uma enorme alteração nas proporções do VD para superar as forças elétricas geradas pelo VE. Ela pode ocorrer, contudo, em casos de DPOC suficientemente grave para produzir &lt;strong&gt;hipertensão arterial pulmonar&lt;/strong&gt; ou de doença cardíaca congênita não corrigida, com profunda sobrecarga de pressão ou de volume do ventrículo direito. Se
-o ventrículo direito se hipertrofia o bastante, isso pode ser detectado no ECG como um &lt;strong&gt;desvio no eixo do QRS para a direita&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-vd.jpeg&quot; alt=&quot;Eixos&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/hipertrofia-vd2.jpeg&quot; alt=&quot;eixos&quot; /&gt;
-&lt;img src=&quot;/assets/cardiologia/hipertrofia-vd3.jpeg&quot; alt=&quot;eixos&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;derivações-precordiais&quot;&gt;Derivações precordiais&lt;/h4&gt;
-
-&lt;p&gt;O padrão normal da progressão da onda R, no qual a amplitude dessa onda aumenta à medida que você progride de V1 até V5, é rompido. Ao invés da amplitude crescente da onda R, à medida que as derivações se movem para mais perto do ventrículo esquerdo, pode ocorrer o inverso.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Pode haver uma grande onda R em V1, que fica sobre o ventrículo direito hipertrofiado, e uma pequena onda R em V5 e V6, que ficam sobre um ventrículo esquerdo normal&lt;/strong&gt;, porém, agora, eletricamente submisso. Domesmo modo, a onda S em V1 é pequena, e a onda S de V6 é grande.
-Esses critérios foram expressos em simples matemática:&lt;/p&gt;
-
-&lt;h3 id=&quot;hipertrofia-de-ve&quot;&gt;Hipertrofia de VE&lt;/h3&gt;
-
-&lt;p&gt;As principais causas são a hipertensão sistêmica e a doença valvular. A HAS severa e sustentada força o VE a trabalhar muito forte por muito tempo, até se hipertrofiar. A sua dominância elétrica sobre o VD, portanto, torna-se ainda mais profunda. O vetor
-elétrico médio é empurrado ainda mais para a esquerda e o resultado é sum &lt;strong&gt;desvio do eixo para a esquerda&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Tanto a hipertrofia ventricular direita quanto a esquerda podem prolongar discretamente o complexo QRS, mas raramente além de 0,1 segundo.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;O desvio do eixo para a esquerda além de –15o é visto com frequência, mas essa não é uma característica diagnóstica muito útil.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;O aumento da onda R nas derivações que ficam sobre o ventrículo esquerdo forma a base para o diagnóstico eletrocardiográfico de hipertrofia ventricular esquerda.&lt;/strong&gt; Deve haver um aumento
-da amplitude da onda R nas derivações sobrejacentes ao ventrículo esquerdo e um aumento da amplitude da onda S nas derivações sobrejacentes ao ventrículo direito.&lt;/p&gt;
-
-&lt;h4 id=&quot;derivações-precordiais-1&quot;&gt;Derivações precordiais&lt;/h4&gt;
-
-&lt;p&gt;As derivações precordiais são mais sensíveis do que as derivações dos membros para o diagnóstico. Os critérios mais úteis são (quanto mais critérios forem positivos, maior a probabilidade):&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;A soma da amplitude da onda R na derivação V5 ou V6 com a amplitude da onda S em V1 ou V2 excede 35 mm&lt;/strong&gt; (este tem o melhor valor preditivo);&lt;/li&gt;
-  &lt;li&gt;A amplitude da onda R em V5 excede 26 mm;&lt;/li&gt;
-  &lt;li&gt;A amplitude da onda R em V6 excede 18 mm;&lt;/li&gt;
-  &lt;li&gt;A amplitude da onda R em V6 excede a amplitude da onda R em V5.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nota: esses critérios têm pouco valor com relação a indivíduos com menos de 35 anos de idade, os quais, com frequência, têm aumento da voltagem devido, em muitos casos, a uma parede torácica fina. Além disso, tais critérios são particularmente não confiáveis em crianças.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-ve.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;derivações-periféricas&quot;&gt;Derivações periféricas&lt;/h4&gt;
-
-&lt;p&gt;Os critérios mais úteis nas derivações dos membros são os seguintes:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;A amplitude da onda R em aVL excede 13 mm&lt;/strong&gt; (maior valor preditivo, mas não muito sensível);&lt;/li&gt;
-  &lt;li&gt;A amplitude da onda R em aVF excede 21 mm;&lt;/li&gt;
-  &lt;li&gt;A amplitude da onda R na derivação I excede 14 mm;&lt;/li&gt;
-  &lt;li&gt;A soma da amplitude da onda R na derivação I com a amplitude da onda S na derivação III excede 25 mm.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-ve2.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;hipertrofia-de-ambos-ventrículos&quot;&gt;Hipertrofia de ambos ventrículos&lt;/h3&gt;
-
-&lt;p&gt;Pode haver uma combinação de características (p. ex., os critérios de hipertrofia ventricular esquerda nas derivações precordiais com desvio do eixo para a direita nas derivações dos membros), mas, na maioria dos casos, os efeitos do ventrículo esquerdo, geralmente dominante, obscurecem aqueles do
-ventrículo direito.&lt;/p&gt;
-
-&lt;h2 id=&quot;anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular&quot;&gt;Anormalidades secundárias da repolarização na hipertrofia ventricular&lt;/h2&gt;
-
-&lt;p&gt;São mais evidentes nas derivações com ondas R altas (porque essas derivações estão sobre o ventrículo hipertrofiado). As anormalidades da repolarização do VD serão vistas nas derivações V1 e V2, e as do VE (muito mais comuns do que as VD) serão mais evidentes nas derivações I, aVL, V5 e V6. Não se sabe ainda o mecanismo. Incluem o seguinte:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;depressão do segmento ST com inclinação para baixo;&lt;/li&gt;
-  &lt;li&gt;inversão da onda T (ou seja, a onda T altera o seu eixo de modo que ela não mais se alinha com o eixo do QRS).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/hipertrofia-v.jpeg&quot; alt=&quot;Eixos&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca</title><link href="http://localhost:4000/cardiologia/ic.html" rel="alternate" type="text/html" title="Insuficiência cardíaca" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#remodelamento-cardíaco&quot; id=&quot;markdown-toc-remodelamento-cardíaco&quot;&gt;Remodelamento cardíaco&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#o-aumento-dos-ventrículos-também-pode-causar-insuficiência-das-válvulas-que-também-são-alongadas-com-o-aumento-das-câmaras-por-exemplo-pode-ocorrer-uma-insuficiência-mitral-as-valvas-distendidas-se-fecham-com-mais-dificuldade-além-desse-fatotr-também-pode-correr-alargamento-das-cordoalhos-tendíneas-dificultando-o-fechamento-completo-das-valvas&quot; id=&quot;markdown-toc-o-aumento-dos-ventrículos-também-pode-causar-insuficiência-das-válvulas-que-também-são-alongadas-com-o-aumento-das-câmaras-por-exemplo-pode-ocorrer-uma-insuficiência-mitral-as-valvas-distendidas-se-fecham-com-mais-dificuldade-além-desse-fatotr-também-pode-correr-alargamento-das-cordoalhos-tendíneas-dificultando-o-fechamento-completo-das-valvas&quot;&gt;O aumento dos ventrículos também pode causar insuficiência das válvulas que também são alongadas com o aumento das câmaras. Por exemplo, pode ocorrer uma insuficiência mitral. As valvas distendidas se fecham com mais dificuldade. Além desse fatotr, também pode correr alargamento das cordoalhos tendíneas dificultando o fechamento completo das valvas.&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#conceitos&quot; id=&quot;markdown-toc-conceitos&quot;&gt;Conceitos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#icc&quot; id=&quot;markdown-toc-icc&quot;&gt;ICC&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ic-esquerda&quot; id=&quot;markdown-toc-ic-esquerda&quot;&gt;IC esquerda&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ic-direita&quot; id=&quot;markdown-toc-ic-direita&quot;&gt;IC direita&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ic-biventricular&quot; id=&quot;markdown-toc-ic-biventricular&quot;&gt;IC biventricular&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ic-sistólica&quot; id=&quot;markdown-toc-ic-sistólica&quot;&gt;IC sistólica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ic-diastólica&quot; id=&quot;markdown-toc-ic-diastólica&quot;&gt;IC diastólica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quanto-ao-dc&quot; id=&quot;markdown-toc-quanto-ao-dc&quot;&gt;Quanto ao DC&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#insuficiência-cardíaca-de-baixo-débito&quot; id=&quot;markdown-toc-insuficiência-cardíaca-de-baixo-débito&quot;&gt;Insuficiência Cardíaca de Baixo Débito&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#insuficiência-cardíaca-de-alto-débito&quot; id=&quot;markdown-toc-insuficiência-cardíaca-de-alto-débito&quot;&gt;Insuficiência Cardíaca de Alto Débito&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#mecanismos-compensatórios&quot; id=&quot;markdown-toc-mecanismos-compensatórios&quot;&gt;Mecanismos compensatórios&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#remodelamento-cardíaco-1&quot; id=&quot;markdown-toc-remodelamento-cardíaco-1&quot;&gt;Remodelamento cardíaco&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#pós-carga&quot; id=&quot;markdown-toc-pós-carga&quot;&gt;Pós-carga&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#sistólica&quot; id=&quot;markdown-toc-sistólica&quot;&gt;Sistólica&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#diastólica&quot; id=&quot;markdown-toc-diastólica&quot;&gt;Diastólica&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#ic-aguda&quot; id=&quot;markdown-toc-ic-aguda&quot;&gt;IC Aguda&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#pulso-arterial&quot; id=&quot;markdown-toc-pulso-arterial&quot;&gt;Pulso Arterial&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#pulso-venoso-e-turgência-jugular&quot; id=&quot;markdown-toc-pulso-venoso-e-turgência-jugular&quot;&gt;Pulso Venoso e Turgência Jugular&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#precórdio&quot; id=&quot;markdown-toc-precórdio&quot;&gt;Precórdio&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#ausculta&quot; id=&quot;markdown-toc-ausculta&quot;&gt;Ausculta&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#perfil-hemodinâmico&quot; id=&quot;markdown-toc-perfil-hemodinâmico&quot;&gt;Perfil hemodinâmico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#classe-funcional&quot; id=&quot;markdown-toc-classe-funcional&quot;&gt;Classe funcional&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#classificação-evolutiva&quot; id=&quot;markdown-toc-classificação-evolutiva&quot;&gt;Classificação evolutiva&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#fração-de-ejeção&quot; id=&quot;markdown-toc-fração-de-ejeção&quot;&gt;Fração de ejeção&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#disfunção-diastólica-associada&quot; id=&quot;markdown-toc-disfunção-diastólica-associada&quot;&gt;Disfunção Diastólica Associada&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#marcadores-neuro-humorais&quot; id=&quot;markdown-toc-marcadores-neuro-humorais&quot;&gt;Marcadores Neuro-Humorais&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#laboratório&quot; id=&quot;markdown-toc-laboratório&quot;&gt;Laboratório&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#ecocardiograma&quot; id=&quot;markdown-toc-ecocardiograma&quot;&gt;Ecocardiograma&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#radiografia-de-tórax&quot; id=&quot;markdown-toc-radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#eletrocardiograma&quot; id=&quot;markdown-toc-eletrocardiograma&quot;&gt;Eletrocardiograma&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#ressonância-magnética-cardíaca&quot; id=&quot;markdown-toc-ressonância-magnética-cardíaca&quot;&gt;Ressonância magnética cardíaca&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#holter&quot; id=&quot;markdown-toc-holter&quot;&gt;Holter&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#hábitos-de-vida&quot; id=&quot;markdown-toc-hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-medicamentoso-da-ic-sistólica&quot; id=&quot;markdown-toc-tratamento-medicamentoso-da-ic-sistólica&quot;&gt;Tratamento medicamentoso da IC sistólica&lt;/a&gt;            &lt;ol&gt;
-              &lt;li&gt;&lt;a href=&quot;#ieca&quot; id=&quot;markdown-toc-ieca&quot;&gt;IECA&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#betabloqueadores&quot; id=&quot;markdown-toc-betabloqueadores&quot;&gt;Betabloqueadores&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#antagonistas-da-aldosterona&quot; id=&quot;markdown-toc-antagonistas-da-aldosterona&quot;&gt;Antagonistas da Aldosterona&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#antagonista-at1-da-angiotensina-ii&quot; id=&quot;markdown-toc-antagonista-at1-da-angiotensina-ii&quot;&gt;Antagonista AT1 da angiotensina II&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#hidralazina-e-nitrato&quot; id=&quot;markdown-toc-hidralazina-e-nitrato&quot;&gt;Hidralazina e Nitrato&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#ivabradina&quot; id=&quot;markdown-toc-ivabradina&quot;&gt;Ivabradina&lt;/a&gt;&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#sintomáticos&quot; id=&quot;markdown-toc-sintomáticos&quot;&gt;Sintomáticos&lt;/a&gt;            &lt;ol&gt;
-              &lt;li&gt;&lt;a href=&quot;#diuréticos-de-alça&quot; id=&quot;markdown-toc-diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#tiazídicos&quot; id=&quot;markdown-toc-tiazídicos&quot;&gt;Tiazídicos&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#digitálicos&quot; id=&quot;markdown-toc-digitálicos&quot;&gt;Digitálicos&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#bloqueadores-do-canal-de-cálcio&quot; id=&quot;markdown-toc-bloqueadores-do-canal-de-cálcio&quot;&gt;Bloqueadores do canal de cálcio&lt;/a&gt;&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#anticoagulaão-e-antiplaquetários&quot; id=&quot;markdown-toc-anticoagulaão-e-antiplaquetários&quot;&gt;Anticoagulaão e antiplaquetários&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#cardiodesfibrilador-implantável-cdi&quot; id=&quot;markdown-toc-cardiodesfibrilador-implantável-cdi&quot;&gt;Cardiodesfibrilador Implantável (CDI)&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-da-ic-diastolica&quot; id=&quot;markdown-toc-tratamento-da-ic-diastolica&quot;&gt;Tratamento da IC diastolica&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tratamento-cirúrgico&quot; id=&quot;markdown-toc-tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/a&gt;            &lt;ol&gt;
-              &lt;li&gt;&lt;a href=&quot;#transplante-cardíaco&quot; id=&quot;markdown-toc-transplante-cardíaco&quot;&gt;Transplante cardíaco&lt;/a&gt;&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#angiorressonância&quot; id=&quot;markdown-toc-angiorressonância&quot;&gt;Angiorressonância&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#farmacológico&quot; id=&quot;markdown-toc-farmacológico&quot;&gt;Farmacológico&lt;/a&gt;            &lt;ol&gt;
-              &lt;li&gt;&lt;a href=&quot;#digitálicos-1&quot; id=&quot;markdown-toc-digitálicos-1&quot;&gt;Digitálicos&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#diuréticos&quot; id=&quot;markdown-toc-diuréticos&quot;&gt;Diuréticos&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#vasodilatadores&quot; id=&quot;markdown-toc-vasodilatadores&quot;&gt;Vasodilatadores&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#iecas&quot; id=&quot;markdown-toc-iecas&quot;&gt;IECAs&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#betabloqueadores-1&quot; id=&quot;markdown-toc-betabloqueadores-1&quot;&gt;Betabloqueadores&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#anticoagulantes&quot; id=&quot;markdown-toc-anticoagulantes&quot;&gt;Anticoagulantes&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#antiarrítmicos&quot; id=&quot;markdown-toc-antiarrítmicos&quot;&gt;Antiarrítmicos&lt;/a&gt;&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#cirúrgico&quot; id=&quot;markdown-toc-cirúrgico&quot;&gt;Cirúrgico&lt;/a&gt;            &lt;ol&gt;
-              &lt;li&gt;&lt;a href=&quot;#revascularização-do-miocárdio&quot; id=&quot;markdown-toc-revascularização-do-miocárdio&quot;&gt;Revascularização do miocárdio&lt;/a&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;a href=&quot;#transplante&quot; id=&quot;markdown-toc-transplante&quot;&gt;Transplante&lt;/a&gt;&lt;/li&gt;
-            &lt;/ol&gt;
-          &lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#tromboembolismo&quot; id=&quot;markdown-toc-tromboembolismo&quot;&gt;Tromboembolismo&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#arritmias&quot; id=&quot;markdown-toc-arritmias&quot;&gt;Arritmias&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#causas-de-morte&quot; id=&quot;markdown-toc-causas-de-morte&quot;&gt;Causas de morte&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;É uma condição em que o coração não consegue bombear o sangue de
-acordo com a demanda tecidual, ou só o faz à custa de aumentos na pressão de enchimento (pressão diastólica final). Tais fenômenos se
-acompanham de sintomas correlatos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Aumento na pressão de enchimento do VE = síndrome congestiva pulmonar;&lt;/li&gt;
-  &lt;li&gt;Baixo débito = exaustão, síncope ou mesmo choque cardiogênico&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A insuficiência cardíaca, em poucas palavras,
-é caracterizada por uma inabilidade dos ven-
-trículos se encherem e se esvaziarem de
-sangue adequadamente (isto é, com pressões
-intraventriculares normais).&lt;/p&gt;
-
-&lt;p&gt;Sempre lembrar que: &lt;strong&gt;DC = FC x Volume sistólico&lt;/strong&gt;. Sendo que VS é diretamente proporcional à pré-carga e à contratilidade e inversamente proporcional à pós-carga.&lt;/p&gt;
-
-&lt;p&gt;É um síndrome clínica na qual o coração falha na sua função de bomba em atender a demanda metabólica do organismo devido ao baixo débito cardiaco, resultando em défict na perfusão tecidual e congestão pulmonar e/ou sistêmica. É uma doença crônica e progressiva.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;0,4 a 2% da população geral. Sua prevalencia aumenta com o envelhecimento.&lt;/p&gt;
-
-&lt;p&gt;Ver o registro Breathe de 2014 no Brasil: As principais etiologias são isquêmica (30%), hipertensiva (20%), dilatação idiopática, valvar e doença de Chagas.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;Pode ser vista como uma doença progressiva iniciada após um evento inicial, que produz um dano no músculo cardíaco com consequente perda dos cardiomiócitos funcionantes, ou, alternativamente, interrupção da capacidade do miocárdio de gerar força, impedindo, assim, a contração normal do coração. Este evento índice pode começar de modo abrupto, como no caso do infarto agudo do miocárdio (IAM); pode ter início gradual ou insidioso, como na sobrecarga de pressão ou de volume; ou ser hereditário, conforme acontece em várias cardiomiopatias genéticas.&lt;/p&gt;
-
-&lt;p&gt;A ativação mantida dos sistemas neuro-hormonais e das citocinas leva a uma série de alterações de estruturas importantes dentro do miocárdio, denominadas coletivamente de remodelamento do VE e pode levar um paciente assintomático a começar a desenvolver sintomas.&lt;/p&gt;
-
-&lt;p&gt;Disfunção miocárdica: pode ser sistólica ou diastólica.&lt;/p&gt;
-
-&lt;p&gt;«««&amp;lt; HEAD&lt;/p&gt;
-&lt;h3 id=&quot;remodelamento-cardíaco&quot;&gt;Remodelamento cardíaco&lt;/h3&gt;
-
-&lt;p&gt;Alterações estruturais de massa e volume do miocardio.&lt;/p&gt;
-
-&lt;h1 id=&quot;o-aumento-dos-ventrículos-também-pode-causar-insuficiência-das-válvulas-que-também-são-alongadas-com-o-aumento-das-câmaras-por-exemplo-pode-ocorrer-uma-insuficiência-mitral-as-valvas-distendidas-se-fecham-com-mais-dificuldade-além-desse-fatotr-também-pode-correr-alargamento-das-cordoalhos-tendíneas-dificultando-o-fechamento-completo-das-valvas&quot;&gt;O aumento dos ventrículos também pode causar insuficiência das válvulas que também são alongadas com o aumento das câmaras. Por exemplo, pode ocorrer uma insuficiência mitral. As valvas distendidas se fecham com mais dificuldade. Além desse fatotr, também pode correr alargamento das cordoalhos tendíneas dificultando o fechamento completo das valvas.&lt;/h1&gt;
-&lt;p&gt;A maioria dos casos é devida à perda de massa miocárdica, cursando com dilatação e/ou hipertrofia compensatória do VE. Essa resposta compensatória envolve &lt;strong&gt;ativação neuro-hormonal&lt;/strong&gt; (sistema
-adrenérgico, sistema renina-angiotensina-aldosterona), e é justamente a hiperatividade neuro-hormonal a responsável direta pelas alterações deletérias observadas no cardiomiócito (isto é, há
-cardiotoxicidade de mediadores como epinefrina, angiotensina II e aldosterona).&lt;/p&gt;
-
-&lt;h3 id=&quot;conceitos&quot;&gt;Conceitos&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Diástole:&lt;/strong&gt; fase de enchimento ventricular;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sístole:&lt;/strong&gt; fase de ejeção;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Função Sistólica:&lt;/strong&gt; é a capacidade que o ventrículo possui de ejetar o sangue nas grandes artérias;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Função Diastólica:&lt;/strong&gt; é a capacidade que o ventrículo possui de se encher com o sangue proveniente das grandes veias, sem aumentar significativamente sua pressão intracavitária.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Atenção!! O processo da função diastólica não é passivo, e sim dependente de energia, justificando a disfunção diastólica encontrada em situações como a isquemia (onde ocorre depleção do ATP).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Pré carga:&lt;/strong&gt; pressão ou volume no final da diástole - VDF (até 12 mmHg no VE e até 5 mmHg no VD);
-    &lt;ul&gt;
-      &lt;li&gt;Depende exclusivamente do retorno venoso ao coração;&lt;/li&gt;
-      &lt;li&gt;O retorno venoso, por sua vez, depende da volemia e do tônus do leito venoso (na venocontricção ele aumenta, na venodilatação ele diminui).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pós-carga:&lt;/strong&gt; é a força que o ventriculo deve superar para promover a contração.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Um ventrículo normal contém cerca de 80-150 ml de sangue no final da diástole – &lt;strong&gt;Volume Diastólico Final (VDF)&lt;/strong&gt;. Deste total, aproximadamente 40-100 ml são ejetados a cada batimento – é o &lt;strong&gt;Débito Sistólico (DS)&lt;/strong&gt;. Após ejetar o sangue, o que sobra na cavidade (em torno de 30-60 ml) é o &lt;strong&gt;Volume Sistólico Final (VSF)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O fluxo total gerado pelo coração na unidade de tempo é o &lt;strong&gt;Débito Cardíaco (DC)&lt;/strong&gt;, determinado pelo &lt;em&gt;produto do débito sistólico com a  Frequência Cardíaca (FC)&lt;/em&gt; (DC = DS x FC). O valor normal é de 4,5-6,5 L/min.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;Índice Cardíaco (IC)&lt;/strong&gt; é o DC corrigido pela área de superfície corporal. O valor normal do índice cardíaco é de 2,8-4,2 L/min/m².&lt;/p&gt;
-
-&lt;p&gt;A função sistólica pode ser estimada pela &lt;strong&gt;Fração de Ejeção (FE)&lt;/strong&gt;, definida como o &lt;em&gt;percentual do volume diastólico final que é ejetado&lt;/em&gt;, ou seja: FE = DS/VDF x 100. &lt;strong&gt;Normal = 50-70%&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Em corações normais, a &lt;strong&gt;pressão diastólica final&lt;/strong&gt; ou
-pressão de enchimento ventricular (ou PD2) varia na faixa de 8-12 mmHg. Como a medida das pressões de enchimento exige métodos invasivos, na prática ambulatorial podemos aferir a função
-diastólica de forma indireta pelo ecocardiograma-Doppler, ao medir a velocidade de fluxo através da valva mitral.&lt;/p&gt;
-
-&lt;h3 id=&quot;icc&quot;&gt;ICC&lt;/h3&gt;
-
-&lt;p&gt;A principal consequência clínica da insuficiência cardíaca é o fenômeno da congestão venocapilar. Como o coração não bombeia
-o sangue adequadamente, uma parte fica estagnada na circulação venosa (incluindo a rede capilar). O consequente aumento na pressão venocapilar provoca extravasamento de líquido para o interstício, determinando seu acúmulo (&lt;strong&gt;edema ou “congestão”&lt;/strong&gt;).&lt;/p&gt;
-
-&lt;h3 id=&quot;ic-esquerda&quot;&gt;IC esquerda&lt;/h3&gt;
-
-&lt;p&gt;A maioria dos casos e cursam com congestão pulmonar. As principais etiologias são: IAM, cardiopatia hipertensiva (por “sobrecarga” ventricular), miocardiopatia idiopática, doença valvar (ex: estenose mitral com aumento da pressão no AE, sem alterações na pressão do VE).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Dispneia,&lt;/li&gt;
-  &lt;li&gt;Ortopneia,&lt;/li&gt;
-  &lt;li&gt;Dispneia paroxística noturna&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ic-direita&quot;&gt;IC direita&lt;/h3&gt;
-
-&lt;p&gt;Cursa com congestão sistêmica. São exemplos: cor pulmonale (relacionado à DPOC, obesidade mórbida, pneumopatias, TEP ou HAP primária), infarto do VD e miocardiopatias.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Turgência jugular patológica,&lt;/li&gt;
-  &lt;li&gt;Hepatomegalia,&lt;/li&gt;
-  &lt;li&gt;Ascite,&lt;/li&gt;
-  &lt;li&gt;Edema de MMII.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ic-biventricular&quot;&gt;IC biventricular&lt;/h3&gt;
-
-&lt;p&gt;Há tanto disfunção “esquerda” quanto “direita”. Cursa com congestão pulmonar e sistêmica. A maioria das cardiopatias que levam à insuficiência cardíaca inicia-se como IVE e posteriormente
-evolui com comprometimento do VD. Por isso &lt;strong&gt;se diz que a causa mais comum de IVD é a própria IVE.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ic-sistólica&quot;&gt;IC sistólica&lt;/h3&gt;
-
-&lt;p&gt;Constitui 50-60% dos casos. O problema está na &lt;strong&gt;perda da capacidade contrátil do miocárdio&lt;/strong&gt;. Na maioria das vezes, a disfunção sistólica provoca &lt;strong&gt;dilatação ventricular&lt;/strong&gt; (cardiopatia dilatada) e tem como marco laboratorial uma &lt;strong&gt;redução significativa da fração de ejeção (≤ 50%)&lt;/strong&gt;. Existem duas
-consequências principais:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Baixo débito cardíaco;&lt;/li&gt;
-  &lt;li&gt;Aumento do volume de enchimento (VDF) e, portanto, da pressão de enchimento ventricular, a qual será transmitida aos átrios e sistema venocapilar (congestão).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O IAM, a isquemia miocárdica, a fase dilatada da cardiopatia hipertensiva e a miocardiomiopatia dilatada idiopática são exemplos comuns.&lt;/p&gt;
-
-&lt;h3 id=&quot;ic-diastólica&quot;&gt;IC diastólica&lt;/h3&gt;
-
-&lt;p&gt;Constitui 40-50% dos casos. A &lt;strong&gt;contração miocárdica está normal (com FE &amp;gt; 50%)&lt;/strong&gt;, mas existe restrição patológica ao enchimento diastólico, causando elevação nas pressões de enchimento e, consequentemente, aumento da pressão venocapilar (congestão).&lt;/p&gt;
-
-&lt;p&gt;O mecanismo pode ser uma alteração no relaxamento muscular e/ou uma redução na complacência ventricular (“ventrículo duro” por excesso de tecido conjuntivo). Na maioria das vezes existe &lt;strong&gt;hipertrofia muscular concêntrica&lt;/strong&gt;, com redução da cavidade. A fase hipertrófica da cardiopatia hipertensiva e a cardiomiopatia hipertrófica são os principais exemplos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/CVS_heart_failure_pt.gif&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;quanto-ao-dc&quot;&gt;Quanto ao DC&lt;/h3&gt;
-
-&lt;h4 id=&quot;insuficiência-cardíaca-de-baixo-débito&quot;&gt;Insuficiência Cardíaca de Baixo Débito&lt;/h4&gt;
-
-&lt;p&gt;Constitui a maioria dos casos. A disfunção sistólica do VE reduz o Débito Cardíaco (DC), causando hipoperfusão tecidual. Nas fases iniciais o DC pode se manter normal no estado de repouso, mas durante esforço físico
-o aumento fisiológico do DC não acontece. Na fase avançada, por sua vez, o DC estará reduzido mesmo em repouso&lt;/p&gt;
-
-&lt;p&gt;Já na IC diastólica também se observa uma limitação do
-DC, especialmente durante a atividade física.&lt;/p&gt;
-
-&lt;h4 id=&quot;insuficiência-cardíaca-de-alto-débito&quot;&gt;Insuficiência Cardíaca de Alto Débito&lt;/h4&gt;
-
-&lt;p&gt;Ocorre nas condições que exigem um maior trabalho cardíaco, seja para atender a demanda metabólica (tireotoxicose, anemia grave) ou pelo desvio de sangue do leito arterial para o venoso, através de fístulas arteriovenosas (beribéri, sepse, cirrose, doença de Paget óssea, hemangiomas). Em todos esses casos, apesar do débito cardíaco estar alto, ele está abaixo do desejado em face da alta requisição da função cardíaca.&lt;/p&gt;
-
-&lt;h3 id=&quot;mecanismos-compensatórios&quot;&gt;Mecanismos compensatórios&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Lei de Frank-Starling:&lt;/strong&gt; quanto maior for o Volume Diastólico Final (VDF ou &lt;em&gt;pré-carga&lt;/em&gt;), maior será o débito sistólico e a fração de ejeção!&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Um maior volume diastólico distende mais os sarcômeros, permitindo aos filamentos de actina e miosina um maior potencial para interação bioquímica e gasto energético. Por esse motivo, o &lt;strong&gt;ventrículo dilata, aumentando o VDF e, com isso, evitando a queda do DC&lt;/strong&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Contudo, um aumento excessivo do VDF acabará dificultando a performance ventricular, com desestruturação da mecânica das fibras, levando ao aumento das pressões de enchimento e à redução do débito sistólico. A tendência é a evolução para a ICC.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contratilidade dos Miócitos Remanescentes:&lt;/strong&gt; os miócitos restantes são ativados pelo sistema nervoso simpático (adrenérgico) e “sobrecarregados” para manter o débito cardíaco.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hipertrofia Ventricular Esquerda:&lt;/strong&gt; o principal mecanismo compensatório inicial nos casos de sobrecarga de pressão ou volume ventriculares. Além de aumentar o número de sarcômeros e, portanto, a capacidade contrátil total, também reduz a tensão ou estresse da parede ventricular, melhorando a performance cardíaca.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Quando o processo inicial é a perda de miócitos, a hipertrofia compensatória pode ocorrer nos miócitos remanescentes.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Na &lt;strong&gt;sobrecarga de pressão&lt;/strong&gt; (hipertensão arterial, estenose aórtica), ocorre uma &lt;strong&gt;hipertrofia concêntrica&lt;/strong&gt;, isto é, aumento da espessura da parede ventricular, sem aumentar a cavidade.&lt;/li&gt;
-  &lt;li&gt;Na &lt;strong&gt;sobrecarga de volume&lt;/strong&gt; (regurgitações valvares), ocorre &lt;strong&gt;hipertrofia excêntrica&lt;/strong&gt;, isto é, aumento da cavidade predominando sobre o aumento da espessura da parede ventricular.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A angiotensina II é um dos principais agentes indutores de hipertrofia ventricular na insuficiência cardíaca! Embora seja um mecanismo compensatório, a HVE traz sérios problemas: arritmogênese, piora da função diastólica, além de ser um fator de risco independente para eventos cardiovasculares.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aumento da Frequência Cardíaca:&lt;/strong&gt; o que não pode ser compensado pelo aumento do débito sistólico em si pode ser alcançado pelo aumento da frequência cardíaca, mantendo, assim, o DC estável. O sistema adrenérgico se encarrega de aumentar o cronotropismo, agindo sobre os &lt;em&gt;receptores beta-1 no nódulo sinusal&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/resposta-ic.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;remodelamento-cardíaco-1&quot;&gt;Remodelamento cardíaco&lt;/h3&gt;
-
-&lt;p&gt;Os mesmos mediadores neuro-humorais que inicialmente mantêm o
-paciente compensado (sistema adrenérgico, sistema renina-angiotensina-aldosterona - SRAA) passam a exercer efeito deletério sobre a própria função miocárdica. A parede ventricular
-será alongada, e sua espessura será reduzida. A forma elipsoide da cavidade é substituída por um formato esférico, prejudicando a funçao verntrícular.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;A queda no DC é percebida pelos barorreceptores periféricos que estimulam um aumento no tônus adrenérgico;
-    &lt;ul&gt;
-      &lt;li&gt;A noradrenalina, além de seus efeitos cardiotrópicos, estimula diretamente a liberação renal de renina;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A hipoperfusão renal ativa o SRAA devido à diminuição do sódio filtrado que alcança a mácula densa e à hipodistensão da arteríola aferente glomerular;&lt;/li&gt;
-  &lt;li&gt;A angiotensina e a aldosterona, também possuem o efeito de estimular a produção (ou inibir a recaptação) de noradrenalina.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Noradrenalina:&lt;/strong&gt; age sobre receptores beta-1 e beta-2 e desencadeia a injúria do miócito (efeito “miocardiotóxico” das catecolaminas). O miócito se torna alongado e hipofuncionante,
-podendo evoluir com apoptose. Como uma espécie de “defesa”, o número de receptores beta-adrenérgicos é reduzido na IC cardíaca avançada (downregulation).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Angiotensina II:&lt;/strong&gt; age sobre os receptores AT1, promove os seguintes efeitos danosos: apoptose do miócito, proliferação de fibroblastos, liberação local de noradrenalina e da própria
-angiotensina. A ação pelos receptores AT2 ainda é desconhecida.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aldosterona:&lt;/strong&gt; agindo sobre receptores citoplasmáticos leva à hiperproliferação de fibroblastos.&lt;/p&gt;
-
-&lt;h3 id=&quot;pós-carga&quot;&gt;Pós-carga&lt;/h3&gt;
-
-&lt;p&gt;É a “dificuldade” imposta ao esvaziamento ventricular. Se expressa na tensão da parede miocárdica durante a sístole. O aumento da pós-carga reduz o débito sistólico, e eleva o consumo miocárdico de oxigênio. Ou seja, tudo que dificulta a ejeção ventricular faz
-parte da pós-carga.&lt;/p&gt;
-
-&lt;p&gt;O principal fator é o tônus arteriolar periférico. A vasoconstrição arteriolar aumenta a pós-carga, enquanto a vasodilatação
-a reduz.&lt;/p&gt;
-
-&lt;p&gt;O aumento na impedância aórtica (por calcificação) e a estenose da valva aórtica são outros possíveis mecanismos de aumento da pós-carga. Finalmente, o fator relacionado à própria geometria ventricular tem um papel de extrema importância, através da lei de Laplace.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lei de Laplace:&lt;/strong&gt; o “estresse” na parede ventricular (E) é diretamente proporcional ao raio cavitário (R) e à pressão intracavitária (P), sendo inversamente proporcional à espessura da parede (h). Está representada da seguinte forma: E = P x R/h.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ou seja: um ventrículo que apresenta diâmetro cavitário muito grande e parede fina precisa fazer um esforço muito maior para ejetar o sangue do que um ventrículo de cavidade menor e maior espessura de parede! Se precisa fazer um esforço maior, é porque sua pós-carga é maior.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Na fase sintomática da insuficiência cardíaca
-o ventrículo trabalha com uma pós-carga elevada, devido a três fatores: (1) vasoconstrição arteriolar periférica; (2) retenção hídrica, levando ao aumento do volume diastólico ventricular; (3) remodelamento cardíaco – maior relação R/h. A redução medicamentosa da pós-carga exerce efeito benéfico sobre a performance cardíaca!&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;blockquote&gt;
-    &lt;blockquote&gt;
-      &lt;blockquote&gt;
-        &lt;blockquote&gt;
-          &lt;blockquote&gt;
-            &lt;blockquote&gt;
-              &lt;p&gt;56b293c60e2d43add2c5f11d95397420aec9abfa&lt;/p&gt;
-            &lt;/blockquote&gt;
-          &lt;/blockquote&gt;
-        &lt;/blockquote&gt;
-      &lt;/blockquote&gt;
-    &lt;/blockquote&gt;
-  &lt;/blockquote&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;h3 id=&quot;sistólica&quot;&gt;Sistólica&lt;/h3&gt;
-
-&lt;p&gt;Cardiopatia dilatada: HAS, doença isquêmica, cardiomiopatia (dilatada idiopática, alcoólica e chagásica), valvopatias.&lt;/p&gt;
-
-&lt;p&gt;As três valvopatias que levam à sobrecarga ventricular esquerda são: estenose aórtica, insuficiência aórtica e insuficiência mitral.&lt;/p&gt;
-
-&lt;p&gt;A estenose mitral não sobrecarrega o VE (pelo contrário, costuma poupá-lo). Mas é uma causa muito importante de HAP secundária
-e que pode evoluir futuramente para Insuficiência Ventricular Direita (IVD).&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Hipertensão arterial – cardiopatia hipertensiva.&lt;/li&gt;
-  &lt;li&gt;Doença coronariana – infarto (fibrose) ou isquemia (“miocárdio hibernante”).&lt;/li&gt;
-  &lt;li&gt;Valvopatias.&lt;/li&gt;
-  &lt;li&gt;Cardiomiopatia dilatada idiopática.&lt;/li&gt;
-  &lt;li&gt;Cardiomiopatia alcoólica.&lt;/li&gt;
-  &lt;li&gt;Doença de Chagas (nas áreas endêmicas).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;diastólica&quot;&gt;Diastólica&lt;/h3&gt;
-
-&lt;p&gt;A HAS e a fibrose (sequela de IAM) aparecem como causas importantes. O próprio envelhecimento é considerado uma causa de IC diastólica. Também existe uma miocardiopatia primária que deve ser lembrada: a miocardiopatia hipertrófica. Outras causas incluem:
-desordens infiltrativas (sarcoidose, amiloidose) e a hemocromatose, que perfazem o grupo das cardiopatias “restritivas”.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cardiopatia hipertensiva – fase hipertrófica (principal!).&lt;/li&gt;
-  &lt;li&gt;Fibrose isquêmica.&lt;/li&gt;
-  &lt;li&gt;Cardiomiopatia hipertrófica hereditária.&lt;/li&gt;
-  &lt;li&gt;Cardiomiopatias restritivas.&lt;/li&gt;
-  &lt;li&gt;Desordens do endomiocárdio.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ic-aguda&quot;&gt;IC Aguda&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Infarto agudo do miocárdio – principal!!&lt;/li&gt;
-  &lt;li&gt;Miocardite aguda (viral, reumática, etc.).&lt;/li&gt;
-  &lt;li&gt;Endocardite infecciosa.&lt;/li&gt;
-  &lt;li&gt;Rotura de cordoália.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/etiologia-ic.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;No início os pacientes ficam assintomáticos por vários anos justamente por causa dos mecanismos de compensação que mantêm o DC.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Síndrome Congestiva Pulmonar:&lt;/strong&gt; na maioria das vezes a IC começa com o comprometimento do VE. O que gera uma congestão pulmonar com  acúmulo de líquido intersticial e intra-alveolar. Inicialmente surge a dispnéia aos esforços.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dispnéia&lt;/strong&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ortopneia&lt;/strong&gt; (redistribuição de líquido da circulação esplâncnica e dos MMII para a circulação central);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dispneia paroxística noturna:&lt;/strong&gt; acordar no meio da noite por uma crise de franca dispneia, que melhora após alguns minutos em ortostatismo;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tosse seca:&lt;/strong&gt; mais noturna, por congestão da mucosa brônquica;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Asma cardíaca:&lt;/strong&gt; a congestão brônquica mais acentuada pode levar a um quadro semelhante ao broncoespasmo;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Edema Agudo de Pulmão:&lt;/strong&gt; o extremo da congestão pulmonar. O paciente apresenta intensa crise de taquidispneia e ortopneia, associada à insuficiência respiratória, às vezes com cianose central (hipoxemia grave). Por vezes o paciente &lt;strong&gt;expectora um líquido róseo&lt;/strong&gt;, proveniente do edema alveolar abundante. O exame físico revela estertoração pulmonar audível acima da metade inferior dos hemitórax. Pode haver sibilos difusos (“asma cardíaca”). Se não tratado, o quadro leva a óbito.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O EAP costuma ocorrer quando a pressão capilar pulmonar ultrapassa 25 mmHg (normal = até 12 mmHg). A radiografia de tórax mostra dilatação vascular nos ápices e infiltrado bilateral em “asa de borboleta” ou “de morcego”.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/eap.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Síndrome Congestiva Sistêmica:&lt;/strong&gt; com o avançar da disfunção de VE, há surgimento progressivo de hipertensão arterial pulmonar secundária. Com o tempo, o VD sobrecarregado acaba entrando em falência, instalando-se o quadro da insuficiência biventricular.&lt;/p&gt;
-
-&lt;p&gt;Ou, a própria doença primária já pode começar a acometer diretamente o VD.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Edema de MMII,&lt;/li&gt;
-  &lt;li&gt;Edema de bolsa escrotal,&lt;/li&gt;
-  &lt;li&gt;Aumento do volume abdominal (ascite),&lt;/li&gt;
-  &lt;li&gt;Dispneia por derrame pleural,&lt;/li&gt;
-  &lt;li&gt;Dor abdominal em hipocôndrio direito devido à hepatomegalia congestiva.&lt;/li&gt;
-  &lt;li&gt;Congestão da mucosa intestinal: pode levar à saciedade precoce, dor abdominal difusa, náuseas, diarreia e, em raros casos, enteropatia perdedora de proteína.&lt;/li&gt;
-  &lt;li&gt;Fadiga e fraqueza&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Síndrome de Baixo Débito:&lt;/strong&gt; é mais comum e mais acentuada na IC sistólica. Aparece inicialmente aos esforços, devido à incapacidade do coração em aumentar o débito durante o esforço ou qualquer situação de estresse. A maioria dos sintomas é secundária à inadequada perfusão muscular durante o esforço físico e se confundem com os de uma síndrome “geral”:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fadiga muscular,&lt;/li&gt;
-  &lt;li&gt;Indisposição, mialgia, cansaço,&lt;/li&gt;
-  &lt;li&gt;Lipotímia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Emagrecimento e “Caquexia Cardíaca”:&lt;/strong&gt; o paciente com IC tende a perder massa muscular, pois há um desbalanço entre o DC e
-a demanda metabólica da musculatura esquelética. Além do mais, pode haver redução na absorção intestinal de nutrientes (congestão mucosa).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Choque Cardiogênico:&lt;/strong&gt; é o extremo da insuficiência cardíaca, manifestação comum nas formas agudas graves (ex.: IAM anterior extenso) ou como fenômeno terminal da forma crônica de ICC. É definido clinicamente pelo estado de choque (hipoperfusão orgânica generalizada), associado à hipotensão grave (PA sistólica &amp;lt; 80
-mmHg) que não responde à reposição volêmica.&lt;/p&gt;
-
-&lt;p&gt;Uma hipertensão pulmonar pode acometer apenas o VD e gerar uma &lt;em&gt;cor pulmonale&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
-
-&lt;p&gt;Pesquisar sinais de aumento da pressão venosa jugular (o sinal mais fidedigno para detectar a presença de retenção de volume é a turgência de jugular). Avaliar presença de B3 na ausculta cardíaca.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Anasarca:&lt;/strong&gt; nas fases avançadas, com IC biventricular, o paciente apresenta edema generalizado, com predomínio nas regiões dependentes
-de gravidade – membros inferiores, bolsa escrotal.&lt;/p&gt;
-
-&lt;p&gt;O edema crônico dos MMII leva a alterações de pele e fâneros, como hiperpigmentação, perda de pelos e ictiose. Não é comum o edema peripalpebral (como no edema nefrogênico). Todas as serosas podem
-estar comprometidas: ascite, derrame pleural e derrame pericárdico.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hepatopatia Congestiva&lt;/strong&gt;: a hepatomegalia congestiva é muito comum, frequentemente &lt;strong&gt;dolorosa, pela distensão aguda da cápsula hepática&lt;/strong&gt;. Casos muito agudos descompensados de IVD, porém, podem levar à congestão hepática grave, manifestando-se como uma hepatite aguda:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Icterícia;&lt;/li&gt;
-  &lt;li&gt;Hiperbilirrubinemia;&lt;/li&gt;
-  &lt;li&gt;Aumento das transaminases;&lt;/li&gt;
-  &lt;li&gt;Insuficiência hepática.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;pulso-arterial&quot;&gt;Pulso Arterial&lt;/h3&gt;
-
-&lt;p&gt;No início do processo o pulso arterial é normal. Em fases avançadas pode ser de baixa amplitude, devido ao baixo DC.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Pulso alternans:&lt;/strong&gt; alternância de um pulso forte com um pulso fraco. É um sinal de débito sistólico extremamente baixo que reflete péssimo prognóstico!
-    &lt;ul&gt;
-      &lt;li&gt;Após uma contração eficaz o miocárdio doente demora para se recuperar, logo, o próximo batimento será fraco.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pulso total alternans:&lt;/strong&gt; quando o fenômeno é extremo. Só percebemos o pulso mais forte, o que reduz falsamente a FC para a metade, quando contada no pulso arterial.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;pulso-venoso-e-turgência-jugular&quot;&gt;Pulso Venoso e Turgência Jugular&lt;/h3&gt;
-
-&lt;p&gt;Um dado fundamental. &lt;em&gt;A turgência jugular patológica a 45° (TJP) é um sinal fidedigno e precoce de IVD&lt;/em&gt;. O pulso venoso pode apresentar alterações em seu aspecto: aumento da onda A, devido às elevadas pressões de enchimento no VD, ou a presença da onda V gigante, consequente à insuficiência tricúspide secundária à dilatação do VD. Uma manobra muito importante no diagnóstico da congestão sistêmica é a pesquisa do &lt;strong&gt;refluxo hepatojugular&lt;/strong&gt;, muitas vezes presente antes mesmo da TJP. Nessa manobra faz-se pressão sobre o QSD do abdome observando se haverá aumento na altura do pulso jugular &amp;gt; 1 cm. Se houver, diz-se que o refluxo hepatojugular está presente.&lt;/p&gt;
-
-&lt;p&gt;Avaliar também se há cianoe e o enchimento capilar.&lt;/p&gt;
-
-&lt;h3 id=&quot;precórdio&quot;&gt;Precórdio&lt;/h3&gt;
-
-&lt;p&gt;O exame do precórdio depende do tipo de cardiopatia, se dilatada, hipertrófica ou restritiva.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Cardiopatia dilatada:&lt;/strong&gt; o ictus de VE costuma ser difuso (mais de duas polpas digitais) e fraco e, algumas vezes, desviado para a esquerda (lateral à linha hemiclavicular) e para baixo (inferior ao 5º EIC).
-    &lt;ul&gt;
-      &lt;li&gt;O ictus de VD pode ser palpável e proeminente.&lt;/li&gt;
-      &lt;li&gt;A relação entre os ictus de VE e VD depende de qual ventrículo está mais acometido.&lt;/li&gt;
-      &lt;li&gt;Um batimento protodiastólico e/ou um pré-sistólico podem ser palpáveis e até visíveis no ápex (corresponde à B3 e B4, respectivamente).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cardiopatia hipertrófica:&lt;/strong&gt; o ictus de VE costuma estar localizado em posição normal, porém é “sustentado” (pico sistólico “forte” e duradouro).&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cardiopatia restritiva:&lt;/strong&gt; o ictus de VE geralmente não se altera.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;ausculta&quot;&gt;Ausculta&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;B1 pode ser hipofonética (hipocontratilidade do VE),&lt;/li&gt;
-  &lt;li&gt;B2 pode ser hiperfonética (hipertensão arterial pulmonar);&lt;/li&gt;
-  &lt;li&gt;B3 audível pela desaceleração do fluxo de sangue no final da fase de enchimento rápido da diástole;&lt;/li&gt;
-  &lt;li&gt;B4 é mais comum na doença isquêmica e na cardiopatia hipertensiva;&lt;/li&gt;
-  &lt;li&gt;Sopro sistólico pode ser audível no foco mitral, irradiando-se para a axila, causado por &lt;em&gt;insuficiência mitral&lt;/em&gt; secundária à dilatação do VE.
-    &lt;ul&gt;
-      &lt;li&gt;dilatação do VD também pode causar insuficiência tricúspide secundária – o sopro sistólico é mais audível no foco tricúspide e aumenta à inspiração profunda (manobra de Rivero-Carvalho).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Estertores pulmonares nos terços inferiores dos hemitórax, predominando geralmente à direita, devido à congestão e edema pulmonar;&lt;/li&gt;
-  &lt;li&gt;Sibilos podem ser encontrados na “asma cardíaca”;&lt;/li&gt;
-  &lt;li&gt;Derrame pleural (geralmente do lado direito) é frequente na IVE e na IC biventricular, pois a drenagem pleural é dependente do sistema venoso pulmonar e sistêmico.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Respiração de Cheynes-Stokes:&lt;/strong&gt; períodos de apneia alternando-se com períodos de hiperpneia.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/framingam.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
-
-&lt;h3 id=&quot;perfil-hemodinâmico&quot;&gt;Perfil hemodinâmico&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ic-hemod.png&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;classe-funcional&quot;&gt;Classe funcional&lt;/h3&gt;
-
-&lt;p&gt;Segundo a New York Heart Association (NYHA), classifica o grau de comprometimento das atividades diárias do paciente.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/NYHA-Classification.jpg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A sobrevida média em cinco anos do grupo placebo (sem tratamento) pode ser estimada com base nessa cassificação:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Classe I – 85%;&lt;/li&gt;
-  &lt;li&gt;Classe II – 75%;&lt;/li&gt;
-  &lt;li&gt;Classe III –50%;&lt;/li&gt;
-  &lt;li&gt;Classe IV – 50% em 1 ano.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Já em tratamento, a mortalidade anual é:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Classes I e II: 2-5%;&lt;/li&gt;
-  &lt;li&gt;Classe II e e III: 5-15%;&lt;/li&gt;
-  &lt;li&gt;Classe III e IV: 15-25%;&lt;/li&gt;
-  &lt;li&gt;Classe IV refratária: maior que 25%.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;classificação-evolutiva&quot;&gt;Classificação evolutiva&lt;/h3&gt;
-
-&lt;p&gt;Proposta pela AHA/ACC de acordo com alterações estruturais.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/classif-icc.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;fração-de-ejeção&quot;&gt;Fração de ejeção&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;FE &amp;lt; 35%:&lt;/strong&gt; Disfunção sistólica grave, sobrevida média em 5 anos de 15-35%, na classe funcional III ou IV, ou em torno de 60%, na classe funcional I ou II.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;FE &amp;gt; 35%:&lt;/strong&gt; sobrevida em 5 anos de 70%, se em classe funcional III ou IV, e em torno de 80%, se em classe funcional I ou II.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;disfunção-diastólica-associada&quot;&gt;Disfunção Diastólica Associada&lt;/h3&gt;
-
-&lt;p&gt;Na insuficiência cardíaca sistólica, geralmente há disfunção diastólica associada, que pode ser estimada pelo ecocardiograma. A presença de disfunção diastólica grave (padrão restritivo) relaciona-se com maior morbimortalidade!&lt;/p&gt;
-
-&lt;h3 id=&quot;marcadores-neuro-humorais&quot;&gt;Marcadores Neuro-Humorais&lt;/h3&gt;
-
-&lt;p&gt;Quanto mais grave for a insuficiência cardíaca,
-menor o débito cardíaco e menor o fluxo arterial orgânico. A resposta neuro-humoral será, portanto, mais proeminente.&lt;/p&gt;
-
-&lt;p&gt;A mortalidade é proporcional aos níveis séricos de &lt;strong&gt;noradrenalina&lt;/strong&gt;, &lt;strong&gt;ADH&lt;/strong&gt;, &lt;strong&gt;endotelina-1&lt;/strong&gt; e &lt;strong&gt;BNP&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/New-York-Heart-Association-NYHA-Heart-Failure-Symptom-Classification-System.png&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;Vão ajudar na confirmação do diagnóstico, na busca pela etiologia, na avaliação prognóstica e na avaliação funcional.&lt;/p&gt;
-
-&lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;O BNP e/ou NT-proBNP pode ajudar a diferenciar dispnéia de origem cardíaca (valores aumentados) de pulmonar (valores normais).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;BNP:&lt;/strong&gt; o peptídeo natriurético cerebral é produzido pelo miocárdio dos ventrículos, sempre em resposta ao estiramento miocárdico. Sua liberação está ligada ao aumento das pressões de enchimento ventricular. Um valor &amp;gt; 100 pg/ml foi diagnóstico de insuficiência cardíaca, com sensibilidade, especificidade e acurácia de 90%, 76% e 83%, respectivamente. Ou seja, é útil para diferenciar se a dispńeia é ou não de origem cardíaca.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;NT-proBNP:&lt;/strong&gt; N-terminal pró-BNP, é uma forma mais sensível de BNP.&lt;/p&gt;
-
-&lt;p&gt;Anemia, hiponatremia e azotemia são importantes preditores prognósticos na ICC. A anemia, em
-particular, pode ser causa, agravante ou con-
-sequência da ICC! Alterações da função renal costumam ser multifatoriais: etiologias em comum
-(diabetes, HAS etc.), débito cardíaco reduzido
-pela cardiopatia e/ou paraefeito dos diuréticos.&lt;/p&gt;
-
-&lt;h3 id=&quot;ecocardiograma&quot;&gt;Ecocardiograma&lt;/h3&gt;
-
-&lt;p&gt;O método mais útil para a confirmação diagnóstica, avaliação da etiologia, do perfil hemodinâmico e do
-prognóstico.&lt;/p&gt;
-
-&lt;p&gt;É capaz de dividir a IC em sistólica e diastólica e medir a fração de ejeção. &lt;strong&gt;FE &amp;lt; 50% indica disfunção sistólica&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Também permite estimar os volumes da câmaras e espessura das paredes, além do diâmetro das valvas.&lt;/p&gt;
-
-&lt;p&gt;O método é operador dependente e também depende de uma boa “janela” de visualização.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fração de ejeção:&lt;/strong&gt; é o percentual de sangue que o ventrículo ejeta para a aorta na sístole. Assim, Se no final da diástole o ventrículo tem 100 mL de sangue e no final da sístole tem 40 mL, subentende-se que 60mL de sangue foram ejetados para a aorta. 60mL de 100 mL – 60% de fração de ejeção.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;IC com FE preservada (&amp;gt; 50%)&lt;/li&gt;
-  &lt;li&gt;FE intermediária (40 a 49%)&lt;/li&gt;
-  &lt;li&gt;FE reduzida (&amp;lt; 40%)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Cardiomegalia:&lt;/strong&gt; (índice cardiotorácico &amp;gt; 50%) é um achado comum na cardiopatia dilatada, sendo critério MAJOR de Framingham. Um RX normal não é capaz de descartar miocardiopatia dilatada.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sinais de VE aumentado:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Na incidência PA, quando o coração “mergulha” no diafragma;&lt;/li&gt;
-      &lt;li&gt;Incidência em perfil, distanciamento da borda cardíaca posterior do ponto de entrada da veia cava inferior (&amp;gt; 2 cm);&lt;/li&gt;
-      &lt;li&gt;O crescimento de VE roda o arco aórtico e pode escondê-lo da radiografia.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sinais de VD aumentado:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Quando a ponta do coração se eleva (aspecto “em bota”);&lt;/li&gt;
-      &lt;li&gt;Em perfil, aumento da borda anterior cardíaca, ocupando &amp;gt; 1/3 do espaço retroesternal.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Aumento dos átrios também pode ser visto;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sinais de congestão pulmonar:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Inversão do padrão vascular, isto é, as veias ficam mais proeminentes nos ápices pulmonares do que nos lobos inferiores (pois o edema intersticial, maior nos lobos inferiores, as comprime);&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Linhas B de Kerley&lt;/strong&gt; (ingurgitamento linfático), linhas paralelas ao diafragma, visualizadas nas regiões laterais dos hemitórax inferiores, na incidência PA.&lt;/li&gt;
-      &lt;li&gt;Infiltrados intersticiais bi ou unilaterais (em geral peri-hilares), devido ao edema intersticial, ou até infiltrado alveolar (no EAP);&lt;/li&gt;
-      &lt;li&gt;Derrame pleural e “tumor fantasma”: o derrame geralmente é bilateral, predominando à direita (pior drenagem linfática).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;eletrocardiograma&quot;&gt;Eletrocardiograma&lt;/h3&gt;
-
-&lt;p&gt;As alterações são inespecíficas e dependem da doença subjacente (ex.: coronariopatia, HAS).
-Um ECG normal possui valor preditivo negativo &amp;gt; 90% para excluir disfunção sistólica, o que torna o diagnóstico de IC improvável!&lt;/p&gt;
-
-&lt;p&gt;Qualquer cardiopatia pode alterar o ECG, produzindo sinais de sobrecarga de VE, VD, átrios, alterações secundárias da repolarização (ondas T negativas, desnivelamento do ST), bloqueios de ramo de graus variáveis, hemibloqueios e arritmias cardíacas (bradi ou taquiarritmias). O BRE de 3º grau é quase sempre um sinal ominoso.&lt;/p&gt;
-
-&lt;h3 id=&quot;ressonância-magnética-cardíaca&quot;&gt;Ressonância magnética cardíaca&lt;/h3&gt;
-
-&lt;p&gt;Possui excelente acurácia e reprodutibilidade na quantificação dos volumes, massa e função, tanto do
-VE como do VD. A viabilidade miocárdica
-também pode ser estimada pela técnica de realce tardio (a ocorrência de hipercaptação em
-áreas discinéticas indica perda da viabilidade).&lt;/p&gt;
-
-&lt;h3 id=&quot;holter&quot;&gt;Holter&lt;/h3&gt;
-
-&lt;p&gt;Pode ser utilizado para documentação
-de arritmias ventriculares em pacientes com
-queixas de palpitação, lipotímia ou síncope.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;hábitos-de-vida&quot;&gt;Hábitos de vida&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Dieta:&lt;/strong&gt; ingestão de 2 a 3 g de sódio por dia;
-    &lt;ul&gt;
-      &lt;li&gt;No entanto, consumos muito baixos de sal, principalmente no paciente que está tomando diuréticos, podem baixar em excesso a volemia, precipitando sintomas de baixo débito cardíaco.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Restrição líquida&lt;/strong&gt; (1-1,5 L por dia): apenas nos pacientes com hiponatremia (&amp;lt; 130 mEq/L) ou com retenção de líquido não responsiva ao uso de diuréticos e restrição da ingesta de sal;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Suplementos calóricos:&lt;/strong&gt; para os pacientes com caquexia cardíaca e nos casos de IC avançada;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Repouso:&lt;/strong&gt; o paciente muito sintomático (classe funcional III ou IV) ou descompensado da IC deve ficar de repouso o máximo possível;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Atividade física:&lt;/strong&gt; pacientes com IC compensada&lt;/li&gt;
-  &lt;li&gt;Reabilitação cardiovascular multiprofissional.&lt;/li&gt;
-  &lt;li&gt;Interromper o &lt;strong&gt;tabagismo&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Realizar as &lt;strong&gt;vacinações&lt;/strong&gt;, principalmente a anti-influenza e anti-pneumocócica.&lt;/li&gt;
-  &lt;li&gt;Evitar AINES: aumentam a retenção hidrossalina  e elevam a PA;
-    &lt;ul&gt;
-      &lt;li&gt;Hipoglicemiantes como o &lt;em&gt;tiazolidinedionas&lt;/em&gt; também estão relacionados à descompensação da IC.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Profilaxia para trombose venosa quando fizer grandes viagens.
-    &lt;ul&gt;
-      &lt;li&gt;Meia elástica de média compressão, independente da classe funcional;&lt;/li&gt;
-      &lt;li&gt;Avaliar o uso de heparina subcutânea.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tratamento-medicamentoso-da-ic-sistólica&quot;&gt;Tratamento medicamentoso da IC sistólica&lt;/h3&gt;
-
-&lt;p&gt;O tratamento visa justamente o bloqueio da ativação neuro-hormonal. As classes de drogras que aumentam a sobrevida de portadores de IC com FE reduzida são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Inibidores da enzima conversora de angiotensinogênio (IECA);&lt;/li&gt;
-  &lt;li&gt;Betabloqueadores (BB);&lt;/li&gt;
-  &lt;li&gt;Antagonistas do receptor AT1 de angiotensina II (BRA);&lt;/li&gt;
-  &lt;li&gt;Hidralazina + nitrato;&lt;/li&gt;
-  &lt;li&gt;Antagonistas da aldosterona.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/tto-nyha.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;ieca&quot;&gt;IECA&lt;/h4&gt;
-
-&lt;p&gt;Além do efeito sobre a mortalidade, essas drogas reduziram a progressão da cardiopatia e da disfunção ventricular. Além disso, quando usados em pacientes oligo/assintomáticos (Classe NYHA I) com disfunção moderada ou grave (FE &amp;lt; 40%),
-reduzem a progressão da doença.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Hoje assume-se que o benefício é inerente à classe e não a uma droga específica.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Estão indicadas em todos os casos de IC sistólica, assintomáticos ou sintomáticos (salvo contraindicações).&lt;/p&gt;
-
-&lt;p&gt;Em geral o tratamento é iniciado com doses reduzidas (ex.: captopril 6,25 mg 2x/dia), com aumento a cada duas semanas, observando-se os níveis séricos de K+ e creatinina. Devem ser suspensos se houver aumento da creatinina sérica superior a 30-35% em relação ao basal e/ou franca hipercalemia (K+ &amp;gt; 5,5 mEq/l).&lt;/p&gt;
-
-&lt;p&gt;Exemplos de doses “otimizadas” de IECA na IC sistólica são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Captopril&lt;/strong&gt; 50 mg 3x/dia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Enalapril&lt;/strong&gt; 10 mg 2x/dia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ramipril&lt;/strong&gt; 10 mg/dia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lisinopril&lt;/strong&gt; 20 mg/dia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;ao inibirem a formação da angiotensina II, promovem &lt;strong&gt;arteriolodilatação&lt;/strong&gt; (reduzindo a pós-carga), &lt;strong&gt;venodilatação&lt;/strong&gt; (reduzindo a pré-carga) e &lt;strong&gt;redução dos efeitos diretos da angiotensina II sobre o miocárdio&lt;/strong&gt;. Também aumentam os níveis de &lt;strong&gt;bradicinina&lt;/strong&gt;, uma substância vasodilatadora endógena. Ocorre ainda um acúmulo de prostaglandinas, além de uma maior produção de &lt;strong&gt;óxido nítrico&lt;/strong&gt; (vasodilatador endógeno).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Devido a todos esses efeitos, os IECAs são melhores que os BRAs.&lt;/p&gt;
-
-&lt;p&gt;Seu principal efeito colateral é a &lt;strong&gt;tosse seca&lt;/strong&gt; (em 5% dos casos) justamente pela ação da &lt;strong&gt;bradicinina&lt;/strong&gt;. Também deve-se tomar cuidado com a hipercalemia, principalmente quando associa-se um diurético poupador de potássio.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Ao longo do tempo, alguns usuários de IECA apresentam o chamado escape neuro-hormonal da angiotensina II, condição em que os níveis de angiotensina II retornam aos valores pré-tratamento com IECA. Tal fenômeno provavelmente é secundário a um aumento na síntese do hormônio por sistemas independentes da ECA. Mas viu-se que os IECA mantêm seus benefícios mesmo quando o escape neuro-hormonal acontece!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Na realidade, parte da eficácia dos IECA deriva do fato de que aumentam os níveis de bradicinina e outras substâncias vasodilatadoras. O efeito benéfico vai além da mera redução nos níveis de angiotensina II, o que faz com essas drogas sejam sempre preferenciais aos BRA no tratamento da IC com FE reduzida.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;betabloqueadores&quot;&gt;Betabloqueadores&lt;/h4&gt;
-
-&lt;p&gt;Possuem um efeito inotrópico negativo, bloqueando o efeito negativo das catecolaminas de ação beta sobre o miocardio.&lt;/p&gt;
-
-&lt;p&gt;Eles reduzem não apenas a mortalidade mas também a incidência de morte súbita e reinfarto, principalmente nos pacientes com IVE.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Antes da década de 90, seria considerado um grande absurdo utilizar um betabloqueador em qualquer paciente com insuficiência cardíaca sistólica!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Um pouco diferente dos IECA, são três BBs específicos que estão relacionados a maior redução da mortalidade: caverdilol, bisoprolol e metoprolol.&lt;/p&gt;
-
-&lt;p&gt;Cerca de 30% dos pacientes não irão tolerar os BBs (descompensam a IC). Mas estes devem ser tentados até nos pacientes NYHA IV, começando com doses mínimas e aumentando a cada 2-4 semanas. As “doses-alvo” são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Carvedilol&lt;/strong&gt; 25-50 mg 2x/dia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Metoprolol&lt;/strong&gt; 200 mg/dia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bisoprolol&lt;/strong&gt; 10 mg/dia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hoje sabemos que, em pacientes internados por
-IC descompensada, não se deve suspender os
-BB de uso prévio, exceto na presença de choque cardiogênico, bloqueio atrioventricular ou sinoatrial avançado, ou bradicardia sintomática.&lt;/p&gt;
-
-&lt;p&gt;Em pacientes com PAS &amp;lt; 85 mmHg ou com sinais de hipoperfusão periférica podemos tentar reduzir a posologia em 50% e reavaliar: em muitos casos a hemodinâmica estabiliza, sendo desnecessário suspender a medicação. Não devem ser iniciados nos pacientes descompensados.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Contraindicações formais:&lt;/strong&gt; asma e bradiarritmia.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;nebivolol&lt;/strong&gt; é outro BB que se mostrou efetivo em aumentar a sobrevida em idosos &amp;gt; 70 anos, porém com magnitude inferior aos já citados. Como ele é mais beta-1 seletivo, pode ser uma opção em pacienetes asmáticos (confirmar essa informação!).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Mecanismo de ação: bloqueio da ação tóxica da noradrenalina sobre os miócitos cardíacos e a redução da liberação de noradrenalina nas sinapses cardíacas. Por isso, o efeito pleno é tardio (3-6 meses). Também reduzem o consumo miocárdico de oxigênio, reduzindo a isquemia; redução da frequência cardíaca, facilitando a mecânica diastólica.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Então, os BBs estão indicados em:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Todos os pacientes com IC sistólica, independente da classe;&lt;/li&gt;
-  &lt;li&gt;Doença isquêmica do miocárdio;&lt;/li&gt;
-  &lt;li&gt;Cardiomiopatia hipertrófica hereditária sintomática.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;antagonistas-da-aldosterona&quot;&gt;Antagonistas da Aldosterona&lt;/h4&gt;
-
-&lt;p&gt;São a espironolactona e a eplerenona. Diuréticos poupadores de potássio antagonistas da aldosterona. A eplerenona é mais específica, atua apenas no túbulo renal e tem menos efeitos colaterais como a ginecomastia.&lt;/p&gt;
-
-&lt;p&gt;Um estudo demonstrou redução adicional na mortalidade (30%) com o uso de &lt;strong&gt;25 mg/dia de espironolactona&lt;/strong&gt; em pacientes com insuficiência cardíaca classe III e IV já tratados com IECA, sem haver aumento significativo da calemia nesses pacientes. Seu uso tambem reduziu internamentos por descompensação.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Mecanismo de ação:&lt;/strong&gt; inibição do efeito da aldosterona sobre o miocárdio; reduzindo, assim, a degeneração de fibras, a apoptose e a fibrose intersticial (prevenindo o remodelamento ventricular). Outro possível efeito benéfico é a prevenção da hipocalemia pelos diuréticos de alça ou tiazídicos, com isso, reduzindo a chance de arritmias ventriculares e morte súbita.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A &lt;strong&gt;indicação&lt;/strong&gt; de antagonistas da aldosterona na IC é para a IC sistólica &lt;strong&gt;“sintomática”&lt;/strong&gt; (NYHA II a IV). A &lt;strong&gt;contraindicação&lt;/strong&gt; formal é K &amp;gt; 5,5 mEq/L.&lt;/p&gt;
-
-&lt;h4 id=&quot;antagonista-at1-da-angiotensina-ii&quot;&gt;Antagonista AT1 da angiotensina II&lt;/h4&gt;
-
-&lt;p&gt;Não possuem o mesmo inconveniente dos IECA de perderem o efeito a longo prazo. São capazes de
-contornar o escape neuro-hormonal, bloqueando diretamente o receptor de angio II, seja qual
-for a origem do hormônio! Contudo, ainda são inferiores aos IECA na magnitude da sobrevida e redução do remodelamento cardíaco.&lt;/p&gt;
-
-&lt;p&gt;Recomendados no tratamento da IC com FE reduzida como substitutos dos IECA para pacientes que não toleram os IECA.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Mas atenção:&lt;/strong&gt; se a intolerância aos IECA for devida ao surgimento de &lt;strong&gt;IRA e/ou hipercalemia&lt;/strong&gt;, BRA também estarão contraindicados, pois se tratam de paraefeitos inerentes ao bloqueio do SRAA igualmente esperados com estes últimos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Não se recomenda a associação de BRA com IECA&lt;/strong&gt;, pois não traz benefícios e potencializa os efeitos colaterais, aumentando a morbi-mortalidade (como arritmias malignas por hipercalemia).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Mecanismo de ação:&lt;/strong&gt; inibem a ação da angiotensina II sobre os receptores AT1 presentes na musculatura lisa vascular (daí o efeito vasodilatador), na suprarrenal (daí a redução dos níveis de aldosterona) e no miocárdio.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A principal vantagem sobre os inibidores da ECA é a ausência de tosse como efeito adverso, uma vez que este efeito é dependente da elevação da bradicinina pelos IECA.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Indicação de uso dos BRA:&lt;/strong&gt; pacientes com indicação de IECA, mas que não toleram o medicamento devido à tosse.&lt;/p&gt;
-
-&lt;h4 id=&quot;hidralazina-e-nitrato&quot;&gt;Hidralazina e Nitrato&lt;/h4&gt;
-
-&lt;p&gt;Em pacientes negros parece haver maior benefício na sobrevida com a associação hidralazina + dinitrato comparado ao enalapril! Mas também usa-se para brancos, adicionando à terapia já otimizada com IECA + BB + espironolactona.&lt;/p&gt;
-
-&lt;p&gt;A “dose-alvo” é de &lt;strong&gt;75 mg de hidralazina + 40 mg de dinitrato de isossorbida 3x dia&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Mecanismo de ação:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Hidralazina:&lt;/strong&gt; é um vasodilatador arteriolar direto, cujo mecanismo farmacodinâmico é desconhecido. Ao dilatar as arteríolas, reduz a pós-carga e, portanto, melhora a performance ventricular.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Dinitrato de isossorbida:&lt;/strong&gt; tem um importante efeito venodilatador, reduzindo assim a pré-carga e facilitando o trabalho ventricular. A redução da mortalidade pela associação hidralazina + dinitrato comprova o grande benefício do efeito vasodilatador geral (arterial e venoso) nos pacientes com IC sistólica moderada.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt; a taquicardia reflexa, comum nos hipertensos sem IC, não parece ser um efeito adverso importante nos pacientes com IC. Porém outros efeitos adversos incômodos (cefaleia, tonteira, lúpus farmacoinduzido) podem ocorrer,
-especialmente nas doses mais altas.&lt;/p&gt;
-
-&lt;p&gt;Indicação da associação hidralazina + dinitrato:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Pacientes negros com IC, já em uso de IECA e BB, nas classes II-IV;&lt;/li&gt;
-  &lt;li&gt;Alternativa aos pacientes brancos com intolerância aos IECA e aos BRA;&lt;/li&gt;
-  &lt;li&gt;Todo o paciente que permaneça sintomático apesar da terapia padrão.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;ivabradina&quot;&gt;Ivabradina&lt;/h4&gt;
-
-&lt;p&gt;Da classe dos &lt;strong&gt;inibidores específicos da corrente If&lt;/strong&gt;, responsável pelo mecanismo de despolarização automático do nó sinoatrial.&lt;/p&gt;
-
-&lt;p&gt;A ivabradina (5 mg VO 12/12h, podendo-se chegar a 7,5 mg VO 12/12h) consegue reduzir a FC no repouso e no exercício, e já existem evidências de que seu emprego na IC (em associação à terapia otimizada) consegue reduzir ainda mais a morbimortalidade, em
-particular se a etiologia for isquêmica.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Indicações da ivabradina:&lt;/strong&gt; pacientes com NYHA II-IV da com disfunção sistólica e terapia otimizada (&lt;strong&gt;IECA ou BRA + BB&lt;/strong&gt;), &lt;strong&gt;desde que a FC seja maior ou igual a 70 bpm e o ritmo seja sinusal&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;sintomáticos&quot;&gt;Sintomáticos&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Diuréticos de alça;&lt;/li&gt;
-  &lt;li&gt;Tiazídicos;&lt;/li&gt;
-  &lt;li&gt;Digitálicos;&lt;/li&gt;
-  &lt;li&gt;Aminas inotrópicas (dobutamina);&lt;/li&gt;
-  &lt;li&gt;Inibidores da fosfodiesterease (milrinona).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Apesar de não aumentarem a sobrevida dos pacientes com IC, esses medicamentos podem ser fundamentais para manter os pacientes no estado compensado.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Não existe remédio melhor do que a furosemida venosa para compensar um paciente com IC congestiva!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/h4&gt;
-
-&lt;p&gt;Combater os sinais e sintomas da congestão e do edema. São eficazes tanto na IC sistólica quanto na IC diastólica!&lt;/p&gt;
-
-&lt;p&gt;Aumentam a excreção renal de sódio e água, reduzindo a volemia.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Mesmo a hipervolemia sendo um mecanismo copensatório para manter o DC (lei de Frank-Starling), se exagerada pode descompensar a IC. Se aumentar demais a pré-carga o DC pode diminuir.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Logo, não podemos fazer doses excessivas de diuréticos, de modo a baixar muito a volemia. Senao, o DC se reduzirá demais e induzirá uma síndrome de baixo débito. A dose ideal de diuréticos varia para cada paciente.&lt;/p&gt;
-
-&lt;p&gt;Os pacientes com IC classe III ou IV, em sua maioria, necessitam do emprego dos diuréticos de alça ou dos tiazídicos para manterem-se compensados.&lt;/p&gt;
-
-&lt;p&gt;Os pacientes descompensados necessitam da
-administração &lt;strong&gt;parenteral&lt;/strong&gt; de diuréticos de alça,
-especificamente a &lt;strong&gt;furosemida&lt;/strong&gt;, pois a absorção
-dos diuréticos por via oral está muito prejudicada pela congestão da mucosa intestinal.&lt;/p&gt;
-
-&lt;p&gt;Efeitos adversos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ototoxicidade;&lt;/li&gt;
-  &lt;li&gt;Hipovolemia;&lt;/li&gt;
-  &lt;li&gt;Insuficiência pré-renal;&lt;/li&gt;
-  &lt;li&gt;Hiperuricemia, hiperglicemia, hiperlipidemia, hipercalciúria (litíase renal);&lt;/li&gt;
-  &lt;li&gt;Hipomagnesemia, hipocalemia, hipocalcemia;&lt;/li&gt;
-  &lt;li&gt;Nefrite intersticial alérgica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A monitorização dos eletrólitos é obrigatória nas primeiras três semanas do início da terapia diurética.&lt;/p&gt;
-
-&lt;h4 id=&quot;tiazídicos&quot;&gt;Tiazídicos&lt;/h4&gt;
-
-&lt;p&gt;São menos potentes que os de diuréticos de alça. Aumentam a excreção de sódio em apenas 5-10%,
-os diuréticos de alça a elevam em 20-25%.&lt;/p&gt;
-
-&lt;p&gt;Os tiazídicos podem ser associados à furosemida nos
-pacientes que persistem com retenção hidrossalina a despeito de altas doses de furosemida.&lt;/p&gt;
-
-&lt;p&gt;Efeitos adversos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hiponatremia;&lt;/li&gt;
-  &lt;li&gt;Hipercalcemia;&lt;/li&gt;
-  &lt;li&gt;Hipovolemia;&lt;/li&gt;
-  &lt;li&gt;Insuficiência pré-renal;&lt;/li&gt;
-  &lt;li&gt;Hipocalemia, hiperuricemia, hiperglicemia, hiperlipidemia;&lt;/li&gt;
-  &lt;li&gt;Hipomagnesemia;&lt;/li&gt;
-  &lt;li&gt;Nefrite intersticial alérgica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;digitálicos&quot;&gt;Digitálicos&lt;/h4&gt;
-
-&lt;p&gt;São chamados também de glicosídeos cardíacos. São três os seus efeitos cardíacos:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Efeito Inotrópico Positivo:&lt;/strong&gt; sua principal ação farmacológica é a inibição da Na/K ATPase.
-    &lt;ul&gt;
-      &lt;li&gt;O transporte transmembrana de Ca++ está ligado ao de Na +. Existe uma proteína de membrana trocadora de Na+ por Ca ++ (trocador Na/Ca).&lt;/li&gt;
-      &lt;li&gt;Se a Na/K ATPase é inibida, o Na+ intracelular começa a se acumular, aumentando o seu efluxo pelo trocador Na/Ca, em troca da entrada Ca++ no miócito.&lt;/li&gt;
-      &lt;li&gt;A consequência final é o aumento do Ca++ citossólico, principal determinante do inotropismo cardíaco.&lt;/li&gt;
-      &lt;li&gt;Este íon é armazenado no retículo sarcoplasmático da célula miocárdica, aumentando a sua disponibilidade para a contração muscular na sístole, garantindo, assim, maior força contrátil (melhora da função sistólica).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ação Colinérgica:&lt;/strong&gt; o aumento do tônus vagal reduz o automatismo do nódulo sinusal, aumenta a refratariedade e diminui a velocidade de condução do nódulo AV.
-    &lt;ul&gt;
-      &lt;li&gt;Este efeito justifica o uso dos digitais nas taquiarritmias supraventriculares, pois reduzem a resposta ventricular na fibrilação atrial e no flutter atrial.&lt;/li&gt;
-      &lt;li&gt;Também justifica o seu potencial bradiarrítmico na toxicidade.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ação Arritmogênica:&lt;/strong&gt; o acúmulo intracelular
-de cálcio predispõe à ativação de uma corrente de sódio capaz de precipitar pós-potenciais tardios e desencadear extrassístoles ou taquiarritmias automáticas por atividade deflagrada, no miocárdio atrial ou ventricular.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Reduzem o número de internações&lt;/strong&gt; por descompensação cardíaca desses pacientes, &lt;strong&gt;apesar de não haver alteração da mortalidade&lt;/strong&gt;. A suspensão dos digitais em pacientes com IC com FE reduzida pode levar à descompensação do quadro.&lt;/p&gt;
-
-&lt;p&gt;O grande representante é a &lt;strong&gt;digoxina&lt;/strong&gt; na
-dose de &lt;strong&gt;0,125-0,375 mg VO/dia&lt;/strong&gt;. A &lt;strong&gt;digitoxina&lt;/strong&gt;, pouco usada em nosso meio, é dada na dose 0,10 mg VO/dia. O digital venoso mais
-usado em nosso meio é o &lt;strong&gt;deslanosídeo&lt;/strong&gt; (cedilanide), na dose 0,4-0,12 mg IV/dia (em duas tomadas).&lt;/p&gt;
-
-&lt;p&gt;Indicações dos digitálicos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;IC sintomática classe III-IV, em pacientes que não compensaram apesar do uso de IECA, BB e diurético;&lt;/li&gt;
-  &lt;li&gt;IC com fibrilação atrial de alta resposta ventricular (não controlados com uso de BB).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Contra-indicações (podem piorar a função diastólica ou a isquemia):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;IC diastólica pura;&lt;/li&gt;
-  &lt;li&gt;Cardiomiopatia hipertrófica;&lt;/li&gt;
-  &lt;li&gt;Doença isquêmica do miocárdio sem IC sistólica;&lt;/li&gt;
-  &lt;li&gt;Bloqueio AV de 2° grau Mobitz II e 3° grau;&lt;/li&gt;
-  &lt;li&gt;Doença do nó sinusal sem proteção de marca -passo;&lt;/li&gt;
-  &lt;li&gt;Síndromes de pré-excitação.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Farmacocinética:&lt;/strong&gt; para que seu efeito seja máximo, deve ocorrer uma impregnação do organismo
-pela droga. Esse fenômeno pode ser alcançado de duas formas: utilizando-se doses de ataque ou aguardando 7 dias com o uso da dose convencional. Diversas drogas podem interagir com os níveis séricos da digoxina; importantes exemplos são a amiodarona, o verapamil e a propafenona, que promovem um aumento em seus níveis.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Intoxicação digitálica:&lt;/strong&gt; se caracteriza pelos
-seguintes componentes do quadro:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Náuseas, vômitos e hiporexia;&lt;/li&gt;
-  &lt;li&gt;Alterações visuais, com escotomas coloridos, vertigem, insônia, confusão mental;&lt;/li&gt;
-  &lt;li&gt;Arritmias cardíacas, principalmente:
-    &lt;ul&gt;
-      &lt;li&gt;Extrassístoles ventriculares múltiplas (mais comum);&lt;/li&gt;
-      &lt;li&gt;Bradiarritmias do tipo BAV;&lt;/li&gt;
-      &lt;li&gt;Taquicardia atrial com bloqueio;&lt;/li&gt;
-      &lt;li&gt;Taquicardia juncional não paroxística;&lt;/li&gt;
-      &lt;li&gt;Taquicardia ventricular (incluindo a TV bidirecional).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Fatores que aumentam a sensibilidade efeito digitálico podendo precipitar a intoxicação: hipocalemia, hipomagnesemia.&lt;/p&gt;
-
-&lt;p&gt;Ainda tem muito mais coisa de digitálicos para estudar, como o tratamento da intoxicação pelo seu uso!!!&lt;/p&gt;
-
-&lt;h4 id=&quot;bloqueadores-do-canal-de-cálcio&quot;&gt;Bloqueadores do canal de cálcio&lt;/h4&gt;
-
-&lt;p&gt;Os BCC do tipo &lt;strong&gt;nifedipina&lt;/strong&gt; e &lt;strong&gt;verapamil&lt;/strong&gt; não devem ser usados em pacientes com IC sistólica e cardiopatia dilatada. Estas drogas podem piorar o quadro clínico do paciente (provavelmente pelo efeito inotrópico negativo), além de possivelmente aumentarem a mortalidade.&lt;/p&gt;
-
-&lt;p&gt;Apesar de segura na IC, a &lt;strong&gt;amlodipina&lt;/strong&gt; não apresenta benefícios em termos de mortalidade geral. Seu uso é reservado aos casos acompanhados por HAS resistente, como droga crucial para um melhor controle pressórico.&lt;/p&gt;
-
-&lt;h3 id=&quot;anticoagulaão-e-antiplaquetários&quot;&gt;Anticoagulaão e antiplaquetários&lt;/h3&gt;
-
-&lt;p&gt;Pacientes com IC têm um risco aumentado de
-eventos tromboembólicos devido à estase sanguínea nas câmaras cardíacas dilatadas e em vasos periféricos. No entanto, em
-estudos multicêntricos, o risco aferido tem sido
-de 1 a 3% ao ano, mesmo naqueles com baixa
-fração de ejeção e evidências ecocardiográficas
-de trombos intracardíacos!&lt;/p&gt;
-
-&lt;p&gt;As diretrizes da AHA/ACC e da Sociedade Brasileira de Cardiologia apontam para as seguintes condições
-nas quais a anticoagulação deve ser considerada:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;História de evento embólico;&lt;/li&gt;
-  &lt;li&gt;Fibrilação atrial paroxística ou persistente;&lt;/li&gt;
-  &lt;li&gt;Amiloidose (risco aumentado de tromboembolismo);&lt;/li&gt;
-  &lt;li&gt;Cardiomiopatia dilatada familiar;&lt;/li&gt;
-  &lt;li&gt;História de tromboembolismo em parentes de primeiro grau.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A droga mais usada é o &lt;strong&gt;warfarin&lt;/strong&gt; (antagonista de vit. K).&lt;/p&gt;
-
-&lt;p&gt;O uso rotineiro de &lt;strong&gt;antiplaquetários&lt;/strong&gt; não está
-indicado na IC. A &lt;strong&gt;aspirina&lt;/strong&gt;, todavia, é largamente empregada nos casos de doença coronária concomitante. Nestes pacientes, é recomendável utilizar as menores doses possíveis de aspirina (75-100 mg).&lt;/p&gt;
-
-&lt;p&gt;Profilaxia de fenômenos tromboembólicos
-em pacientes hospitalizados com IC: está indicado o uso de heparina subcutânea em doses profiláticas
-em todos os pacientes com IC que se encontrem hospitalizados!&lt;/p&gt;
-
-&lt;h3 id=&quot;cardiodesfibrilador-implantável-cdi&quot;&gt;Cardiodesfibrilador Implantável (CDI)&lt;/h3&gt;
-
-&lt;p&gt;Aproximadamente metade dos pacientes com
-IC morre subitamente, a maioria devido a uma
-arritmia ventricular.&lt;/p&gt;
-
-&lt;p&gt;O CDI é recomendado para
-a prevenção secundária de pacientes que tiveram
-morte súbita abortada e para a prevenção primária em pacientes pós-IAM ou não isquêmicos, com disfunção de VE com FE &amp;lt; 35% em NYHA II ou III, na vigência de drogas otimizadas.&lt;/p&gt;
-
-&lt;p&gt;Para ambas as indicações, os pacientes devem apre-
-sentar uma razoável expectativa de vida. O uso
-de antiarrítmicos não mostrou uma melhora na
-sobrevida dos pacientes com IC.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-da-ic-diastolica&quot;&gt;Tratamento da IC diastolica&lt;/h3&gt;
-
-&lt;p&gt;No caso da IC com FE preservada, nenhum tratamento demonstrou aumentar a sobrevida.&lt;/p&gt;
-
-&lt;p&gt;O diagnóstico de Insuficiência Cardíaca com
-Fração de Ejeção Preservada (ICFEP) requer
-a presença simultânea de três condições:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Sinais ou sintomas de IC congestiva;&lt;/li&gt;
-  &lt;li&gt;FE normal ou discretamente reduzida;&lt;/li&gt;
-  &lt;li&gt;Evidências objetivas de disfunção diastólica do VE:
-    &lt;ul&gt;
-      &lt;li&gt;Relaxamento e enchimento anormais;&lt;/li&gt;
-      &lt;li&gt;Distensibilidade diastólica reduzida;&lt;/li&gt;
-      &lt;li&gt;“Rigidez” diastólica.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Bloqueadores dos canais de cálcio não di-hidropiridínicos (como o verapamil e o diltiazem), os betabloqueadores, os IECA e talvez até os antagonistas da AT podem ser utilizados, associados a diuréticos em baixas doses na presença de congestão.&lt;/p&gt;
-
-&lt;p&gt;Uma medida fundamental é controlar
-agressivamente a hipertensão arterial, com
-drogas que reduzem comprovadamente a hipertrofia ventricular (inibidores da ECA – principal –, antagonistas AT1, diuréticos, betablo-
-queadores, verapamil, diltiazem ou amlodipina).&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Revascularização Miocárdica:&lt;/strong&gt; nos pacientes
-com IC sistólica por cardiomiopatia isquêmica, a cirurgia de escolha é a revascularização miocárdica. Geralmente, estes pacientes têm lesão &amp;gt; 50% no tronco da coronária esquerda ou têm
-doença obstrutiva multivascular. Os resultados
-têm sido promissores, mesmo em pacientes
-com FE &amp;lt; 20%.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ventriculectomia Parcial (cirurgia de Handas Batista):&lt;/strong&gt; é uma cirurgia desenvolvida
-por um brasileiro, em que é ressecada uma porção de músculo miocárdico, de modo a reduzir o tamanho da cavidade ventricular. O princípio dessa cirurgia baseia-se na lei de Laplace. Se reduzirmos a relação R/h, reduzimos o “estresse”,
-que, na verdade, representa a pós-carga.&lt;/p&gt;
-
-&lt;h4 id=&quot;transplante-cardíaco&quot;&gt;Transplante cardíaco&lt;/h4&gt;
-
-&lt;p&gt;Terapia imunossupressora: atualmente feita com ciclosporina, prednisona e azatioprina.&lt;/p&gt;
-
-&lt;p&gt;Os pacientes candidatos a transplante são
-aqueles com:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Doença avançada, classe funcional IV permanente, ou III/IV intermitente;&lt;/li&gt;
-  &lt;li&gt;Com sintomas severos e incapacitantes;&lt;/li&gt;
-  &lt;li&gt;Sem alternativa de tratamento;&lt;/li&gt;
-  &lt;li&gt;Com alta mortalidade em um ano.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A FE isoladamente não serve como critério de indicação de transplante (antes a indicação era FE &amp;lt; 20%).&lt;/p&gt;
-
-&lt;p&gt;Contraindicações ao transplante:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Idade avançada (&amp;gt; 70 anos);&lt;/li&gt;
-  &lt;li&gt;Infecção ativa (incluindo CMV, hepatites virais e HIV);&lt;/li&gt;
-  &lt;li&gt;Hepatopatia, nefropatia ou pneumopatia severa (como HAP) e irreversível (pode-se optar pelo transplante desses órgãos, junto ao transplante cardíaco);&lt;/li&gt;
-  &lt;li&gt;Doença psiquiátrica, cerebral ou cerebrovascular avançada;&lt;/li&gt;
-  &lt;li&gt;Doença vascular periférica acentuada (aterosclerose avançada);&lt;/li&gt;
-  &lt;li&gt;Câncer incurável ou de estadiamento incerto;&lt;/li&gt;
-  &lt;li&gt;Obesidade mórbida;&lt;/li&gt;
-  &lt;li&gt;Doença sistêmica grave limitante;&lt;/li&gt;
-  &lt;li&gt;Resistência Vascular Pulmonar (RVP) alta: &amp;gt; 5 unidades Wood, após vasodilatadores.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;angiorressonância&quot;&gt;Angiorressonância&lt;/h3&gt;
-
-&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
-
-&lt;p&gt;Escore de Adhere para avaliação da mortalidade intra-hospitalar&lt;/p&gt;
-
-&lt;p&gt;«««&amp;lt; HEAD&lt;/p&gt;
-&lt;h2 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Primeiro identificar a etiologia. Em seguida eliminar fatores agravantes. Incentivas o exercício físico e a vacinação para o vírus da gripe (diminui a mortalidade).&lt;/p&gt;
-
-&lt;h3 id=&quot;farmacológico&quot;&gt;Farmacológico&lt;/h3&gt;
-
-&lt;h4 id=&quot;digitálicos-1&quot;&gt;Digitálicos&lt;/h4&gt;
-
-&lt;p&gt;Como a digoxina.&lt;/p&gt;
-
-&lt;h4 id=&quot;diuréticos&quot;&gt;Diuréticos&lt;/h4&gt;
-
-&lt;h4 id=&quot;vasodilatadores&quot;&gt;Vasodilatadores&lt;/h4&gt;
-
-&lt;h4 id=&quot;iecas&quot;&gt;IECAs&lt;/h4&gt;
-
-&lt;p&gt;Os inibidores da enzima conversora de angiotensina II.&lt;/p&gt;
-
-&lt;h4 id=&quot;betabloqueadores-1&quot;&gt;Betabloqueadores&lt;/h4&gt;
-
-&lt;p&gt;Os receptores beta-adrenérgicos cardíacos são principalmente o subtipo beta1; já a maior parte dos
-receptores não cardíacos é beta 2 . Os receptores beta2 constituem aproximadamente 20% do total da
-população de receptores beta no ventrículo esquerdo.&lt;/p&gt;
-
-&lt;h4 id=&quot;anticoagulantes&quot;&gt;Anticoagulantes&lt;/h4&gt;
-
-&lt;h4 id=&quot;antiarrítmicos&quot;&gt;Antiarrítmicos&lt;/h4&gt;
-
-&lt;p&gt;Digoxina???&lt;/p&gt;
-
-&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
-
-&lt;p&gt;Geralmente reservado para os pacientes classe funcional IV e IC refratária, como uma última opção de tratamento.&lt;/p&gt;
-
-&lt;h4 id=&quot;revascularização-do-miocárdio&quot;&gt;Revascularização do miocárdio&lt;/h4&gt;
-
-&lt;p&gt;Visa reperfundir áreas isquêmicas (áreas de miocárdio hibernante). Também visa prevenir futuros episódios isquêmicos. arritmias e infartos.&lt;/p&gt;
-
-&lt;h4 id=&quot;transplante&quot;&gt;Transplante&lt;/h4&gt;
-&lt;p&gt;O padrão ouro.&lt;/p&gt;
-
-&lt;p&gt;=======&lt;/p&gt;
-&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/descompensacao-ic.jpeg&quot; alt=&quot;IC&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tromboembolismo&quot;&gt;Tromboembolismo&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Tromboembolismo Pulmonar:&lt;/strong&gt; devido à formação de trombo nas veias ileofemorais e pélvicas, facilitada pela estase venosa, ou então
-no átrio e ventrículo direitos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tromboembolismo Sistêmico:&lt;/strong&gt; devido à formação de trombos murais, isto é, no interior dos átrios ou ventrículos, aderidos ou não às suas
-paredes, facilitada pela estase sanguínea e lesão
-endocárdica. Os principais fatores de risco são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;FE &amp;lt; 30%,&lt;/li&gt;
-  &lt;li&gt;Fibrilação atrial,&lt;/li&gt;
-  &lt;li&gt;Acinesia apical.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A anticoagulação na IC crônica
-está indicada sempre nos casos de fibrilação
-atrial, trombo mural e acinesia apical. Nos pacientes com ritmo sinusal e disfunção grave de
-VE (FE &amp;lt; 30%), o uso de anticoagulante também é preconizado por alguns autores.&lt;/p&gt;
-
-&lt;h3 id=&quot;arritmias&quot;&gt;Arritmias&lt;/h3&gt;
-
-&lt;p&gt;Taquiarritmias e bradiarritmias podem ocorrer. Além das extrassístoles ventriculares destacam-se o flutter e fibrilação atriais, a taquicardia ventricular (não sustentada ou sustentada) e o bloqueio AV.&lt;/p&gt;
-
-&lt;p&gt;Uma TV sustentada pode se degenerar em fibrilação
-ventricular, causando morte súbita. O bloqueio
-AV total também pode levar à morte súbita.&lt;/p&gt;
-
-&lt;h3 id=&quot;causas-de-morte&quot;&gt;Causas de morte&lt;/h3&gt;
-
-&lt;p&gt;50-60% dos pacientes com ICC, principalmente aqueles com IC sistólica, morrem subitamente, provavelmente por fibrilação ventricular (ou bradiarritmia/assistolia)&lt;/p&gt;
-
-&lt;p&gt;O restante dos pacientes morre de falência ventricular progressiva, evoluindo para choque cardiogênico ou edema agudo refratário. Uma minoria
-pode morrer de outras eventualidades, como
-tromboembolismo pulmonar ou sistêmico,
-sepse, etc.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;blockquote&gt;
-    &lt;blockquote&gt;
-      &lt;blockquote&gt;
-        &lt;blockquote&gt;
-          &lt;blockquote&gt;
-            &lt;blockquote&gt;
-              &lt;p&gt;56b293c60e2d43add2c5f11d95397420aec9abfa&lt;/p&gt;
-            &lt;/blockquote&gt;
-          &lt;/blockquote&gt;
-        &lt;/blockquote&gt;
-      &lt;/blockquote&gt;
-    &lt;/blockquote&gt;
-  &lt;/blockquote&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;https://cardiopapers.com.br/curso-basico-de-eco-como-estimar-a-fracao-de-ejecao-do-ventriculo-esquerdo/&lt;/li&gt;
-  &lt;li&gt;Aula
-«««&amp;lt; HEAD
-=======&lt;/li&gt;
-  &lt;li&gt;Medcurso Cardio 2 de 2018
-    &lt;blockquote&gt;
-      &lt;blockquote&gt;
-        &lt;blockquote&gt;
-          &lt;blockquote&gt;
-            &lt;blockquote&gt;
-              &lt;blockquote&gt;
-                &lt;blockquote&gt;
-                  &lt;p&gt;56b293c60e2d43add2c5f11d95397420aec9abfa&lt;/p&gt;
-                &lt;/blockquote&gt;
-              &lt;/blockquote&gt;
-            &lt;/blockquote&gt;
-          &lt;/blockquote&gt;
-        &lt;/blockquote&gt;
-      &lt;/blockquote&gt;
-    &lt;/blockquote&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Itrs</title><link href="http://localhost:4000/itrs.html" rel="alternate" type="text/html" title="Itrs" /><published>2019-10-23T00:00:00-03:00</published><updated>2019-10-23T00:00:00-03:00</updated><id>http://localhost:4000/itrs</id><content type="html" xml:base="http://localhost:4000/itrs.html">&lt;p&gt;As celulas que chegam primeiro no sítio da lesão são os PMN, iniciando a inflamação. Depois chegam os linfócitos e os monócitos formando o infiltrado linfomononuclear que caracteriza a inflamação crônica (em torno de 3 meses).&lt;/p&gt;
-
-&lt;p&gt;No trato respiratório superior a mucosa acometida é a mucosa respirtatória. Essa mucosa troca gases e também secreta uma secreção musoca.&lt;/p&gt;
-
-&lt;p&gt;Se os alvéolos fecharem, será criado um gradiente negativo pois a aborsão ocorre com mais facilidade que a difusão dos gases. O próprio vácuo criado pode agredir a mucosa.&lt;/p&gt;
-
-&lt;p&gt;No nariz, o movimento ciliar se faz de cima para baixo. Na traqueia e bronquios, se faz de baixo para cima. Ou seja, o movimento se faz na direção da boca para que as particulas estranhas possam ser deglutidas.&lt;/p&gt;
-
-&lt;p&gt;As conchas nasais são importantes para aquecer, umidificar e filtrar o ar. Sua superfície irregular promove um turbilhonamento do ar que entra e facilita a deposição de partículas.&lt;/p&gt;
-
-&lt;p&gt;Inflamação da mucosa nasossinusal (nariz e seios da face) —&amp;gt; Rinossinusites&lt;/p&gt;
-
-&lt;p&gt;Podem ser agudas ou crônicas&lt;/p&gt;
-
-&lt;p&gt;O agente agressor pode ser:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Físico
-    &lt;ul&gt;
-      &lt;li&gt;Temperatura&lt;/li&gt;
-      &lt;li&gt;Umidade&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Quimico
-    &lt;ul&gt;
-      &lt;li&gt;poluentes&lt;/li&gt;
-      &lt;li&gt;drogas&lt;/li&gt;
-      &lt;li&gt;medicamentos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Biologico
-    &lt;ul&gt;
-      &lt;li&gt;Pelos&lt;/li&gt;
-      &lt;li&gt;FIbras&lt;/li&gt;
-      &lt;li&gt;Virus&lt;/li&gt;
-      &lt;li&gt;Fungos&lt;/li&gt;
-      &lt;li&gt;Bacterias&lt;/li&gt;
-      &lt;li&gt;Acaro&lt;/li&gt;
-      &lt;li&gt;Etc&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A agressão gera um edema da mucosa, uma congestão das conchas e um aumento da secreção. Essa estase secretiva e congestão cria um ambiente propício para infecções. Ou seja, a infecção tanto pode ser causa de uma rinossinusite como também consequência. Na prática clínica essa diferença é muito importante, por exemplo, na decisão de uso ou não de antibióticos.&lt;/p&gt;
-
-&lt;p&gt;Sintomas: obstrução nasal, dor na face, sensação de pressão na face, rinorreia (saída de secreção pelo nariz), cefaléia, febre ou não.&lt;/p&gt;
-
-&lt;p&gt;Geralmente a rinossunisite crônica acontece quando há o binômio: hiperreatividade mais o fato desencadeante. Sendo promovida por uma agressão crônica, um contato contínuo com o mecanismo agressor. Um exemplo é a rinite alérgica.&lt;/p&gt;
-
-&lt;p&gt;Peculiaridade: sinusite odontogênica ocorre de forma interna, pela intimidade entre os dentes superiores e os seios nasais. Sempre que nos deparamos com uma sinusite maxilar unilateral, devemos descartar doença dentária.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;Exames radiográficos normalmente são desnecessários para o diagnóstico. Além disso, os achados dos exames dificilmente mudarão a conduta tomada com base apenas na história clínica.&lt;/p&gt;
-
-&lt;p&gt;A tomografia computadorizada é muito sensível para sinusite, tanto em valor preditivo positivo como negativo. É o melhor exame, o de escolha.&lt;/p&gt;
-
-&lt;p&gt;Indicações do exame radiológico:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Falha do tratamento clínico&lt;/li&gt;
-  &lt;li&gt;Planejamento cirúrgico&lt;/li&gt;
-  &lt;li&gt;Complicações&lt;/li&gt;
-  &lt;li&gt;Casos atípicos&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;aguda&quot;&gt;Aguda&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Analgésico&lt;/li&gt;
-  &lt;li&gt;Descongestionante&lt;/li&gt;
-  &lt;li&gt;Antibióticos&lt;/li&gt;
-  &lt;li&gt;Cirurgia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;crônica&quot;&gt;Crônica&lt;/h3&gt;
-
-&lt;p&gt;Não tem um tratamento definitivo. Pois a maioria dos pacientes apresentam o fator hiperreatividade intrínseco. Podemos reduzir ou controlar as manifestações.&lt;/p&gt;
-
-&lt;p&gt;A lavasagem nasal contínua com soro fisiológico pode ser o fator mais importante para o controle da rinossinusite crônica.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Controle ambiental&lt;/li&gt;
-  &lt;li&gt;Lavagem nasal&lt;/li&gt;
-  &lt;li&gt;Corticóide tópico (não fazer o oral para evitar o efeito sistêmico)&lt;/li&gt;
-  &lt;li&gt;Antialérgicos&lt;/li&gt;
-  &lt;li&gt;Cirurgia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Quando suspeitar de etiologia bacteriana? Na realidade não da pra afirmar se é ou não bacteriana. Conseguimos ter uma leve estimativa com base na intensidade dos sintomas, na duração do quadro.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Síndrome coronariana aguda</title><link href="http://localhost:4000/cardiologia/sca.html" rel="alternate" type="text/html" title="Síndrome coronariana aguda" /><published>2019-10-21T00:00:00-03:00</published><updated>2019-10-21T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/sca</id><content type="html" xml:base="http://localhost:4000/cardiologia/sca.html">&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/revasc.jpeg&quot; alt=&quot;Revasc&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;h2 id=&quot;arritmias-supraventriculares&quot;&gt;Arritmias supraventriculares&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência respiratória aguda</title><link href="http://localhost:4000/pneumologia/ira.html" rel="alternate" type="text/html" title="Insuficiência respiratória aguda" /><published>2019-10-24T00:00:00-03:00</published><updated>2019-10-24T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/ira</id><content type="html" xml:base="http://localhost:4000/pneumologia/ira.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/ira-tab.jpeg&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
