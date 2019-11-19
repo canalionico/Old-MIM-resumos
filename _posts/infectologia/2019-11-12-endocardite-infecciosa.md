@@ -3,17 +3,28 @@ title: Endocardite infecciosa
 categories: infectologia
 ---
 
+* Sumário
+{:toc}
+
 ## Introdução
 
-Definimos Endocardite Infecciosa (EI) como uma infecção microbiana da superfície endotelial do coração.
+Definimos endocardite infecciosa (EI) como uma infecção microbiana da superfície endotelial do coração.
 
-A região mais acometida são as valvas, mas as cordoalhas, áreas de defeitos septais e o próprio endocárdio também pode ser acometido. A valva mitral é a mais acometida, seguida pela valva aórtica.
+A lesão protótipo da EI é a "vegetação". Esta é formada por plaquetas, microorganismos, fibrina e células inflamatórias. Geralmente ela acomete as valvas cardíacas, principalmente a valva mitral, seguida pela aórtica. Mas outras regiões como as cordoalhas, áreas de defeitos septais e o próprio endocárdio também podem ser afetados.[^Harrison]
 
-Quanto ao tempo de apresentação, ela é diferenciada em **aguda**, menos de 6 semanas, e **subaguda**, mais de 6 semanas. Contudo, também costuma-se utilizar a apresentação clínica, apesar do tempo de duração, para diferenciar entre estes dois tipos.
+A **endarterite infecciosa** é um processo semelhante porém acometendo *shunts* arteriovenosos, *shunts* arterio-arteriais e coarctação de aorta.
+
+A EI pode ser classificada de acordo com o tempo de evolução (aguda e crônica), o sítio de infecção, a etiologia e/ou de acordo com os fatores de riscos (uso de drogas injetáveis, associação com os cuidados de saúde).[^Harrison]
+
+Quanto ao tempo de apresentação, ela é diferenciada em **aguda**, menos de 6 semanas, e **subaguda**, mais de 6 semanas. Contudo, também costuma-se utilizar a apresentação clínica, apesar do tempo de duração, para diferenciar entre estes dois tipos. A EI aguda é doença doença febril de rápida progressão de injúria cardíaca que pode levar à morte em semanas. Já a forma subaguda é mais arrastada e o dano cardíaco é mais lento, contudo, pode ser agravada agudamente por complicações como embolizações ou rupturas de aneurismas.[^Harrison]
 
 De forma geral, a EI necessita sempre de intervenção médica ou evoluirá para óbito. Não existem casos de cura espontânea de EI.
 
 ## Epidemiologia
+
+Nos países desenvolvidos acomete em torno de 4-7 a cada 100 mil indivíduos por ano. Nesses países, o principal fator predisponente deixou de ser a doença reumática e passou a ser: cardiopatias congênitas, uso de  drogas injetáveis, doença degenerativas valvares e dispositivos intracardíacos (incluindo valvas prostéticas). 
+
+Já nos países em desenvolvimento, a doença reumática ainda é o principal fator de risco.
 
 ### Fatores de risco
 
@@ -29,8 +40,6 @@ De forma geral, a EI necessita sempre de intervenção médica ou evoluirá para
 * Crianças com cardiopatias congênitas;
 * Usuários de drogas injetáveis.
 
-Nos países desenvolvidos, a doença reumática não tem mais importância como fator predisponente. Nestes, os principais fatores de risco são: transplantes, uso de próteses e agentes virulentos de ambientes hospitalares.
-
 É muito importante conhecer os fatores de risco pois cada um apresenta um patógeno mais comum de causar a infeccção e isso pode implicar na hora de escolher a antibioticoterapia empírica.
 
 **Endocardites infecciosas em valvas protéticas:** esta classe é subdividida em função do tempo de aparecimento da EI após a cirurgia de troca valvar:
@@ -41,9 +50,15 @@ Nos países desenvolvidos, a doença reumática não tem mais importância como 
 
 ## Etiologia
 
-A microbiologia da endocardite infecciosa varia na dependência dos fatores predisponentes (usuários de drogas IV, prótese valvar) e do quadro clínico (aguda versus subaguda). 
+A etiologia vai variar de acordo com os fatores predisponentes, principalmente em usuários de drogas IV e portadores de prótese valvar, e do quadro clínico (aguda ou subaguda). 
 
-Também pode ser causada por fungos principalmente os do gênero Cândida, Aspergilus e Torulopsis. São mais frequentes em usuários de drogas injetáveis. 
+O cardápio de microorganismos pode ser bastante vasto, variando de bactérias a fungos. Contudo, existem alguns patógenos que estão mais frequentemente associados à EI. A boca, a pele e o trato respiratório superior podem funcionar como porta de entrada para estafilococos, estreptococos e bactérias do grupo HACEK.
+
+A bacteremia pelo *Streptococcus bovis* (também chamado de *S. gallolyticus* subespécie *gallolyticus*) está associado a tumores do TGI, doença de Chron e polipose. É de boa prática pesquisar de tumores de cólon por colonoscopia nestes pacientes. O *S. bovis* originário do TGI atinge a corrente sanguínea através das lesões existentes.
+
+Já os enterococos, podem atingir a corrente sanguínea pelo trato genitourinário.
+
+Os fungos, principalmente os do gênero *Cândida*, *Aspergilus* e *Torulopsis*, são mais frequentes em usuários de drogas injetáveis. 
 
 ### Endocardite aguda
 
@@ -98,9 +113,17 @@ e Enterococcus faecium são as principais espécies envolvidas. Estes micro-orga
 estão associados a bacteremias após instrumentação do trato urinário em homens. Os
 enterococos podem causar endocardite subaguda ou aguda e infectar valvas nativas normais ou defeituosas. São conhecidos pela sua resistência natural a diversos antibióticos.
 
-A bacteremia pelo *Streptococcus bovis* – que também vem sendo chamado de Streptococcus gallolyticus subespécie gallolyticus – associa-se a tumores do TGI, doença de Chron e polipose. É de boa prática pesquisar de tumores de cólon por colonoscopia nestes pacientes.
+**Grupo HACEK**: são bactérias gram-negativas que crescem  apenas em meios especiais enriquecidos com nutrientes específicos (fastidiosas).
 
-**Grupo HACEK**: (Haemophylus parainfluenzae, Haemophilus aphrophilus, Actinobacillus, Cardiobacterium hominis, Eikenella corrodens e Kingella kingii) são gram-negativos fastidiosos (de crescimento lento e apenas em meios especiais enriquecidos com nutrientes específicos) que raramente ocasionam a doença. Eles fazem parte da microbiota normal do trato respiratório
+* *Haemophilus sp*;
+* *Aggregatibacter sp*;
+* *Cardiobacterium hominis*;
+* *Eikenella corrodens*;
+* *Kingella kingae*.
+ 
+
+
+ (Haemophylus parainfluenzae, Haemophilus aphrophilus, Actinobacillus, Cardiobacterium hominis, Eikenella corrodens e Kingella kingii) são gram-negativos fastidiosos (de crescimento lento e apenas em meios especiais enriquecidos com nutrientes específicos) que raramente ocasionam a doença. Eles fazem parte da microbiota normal do trato respiratório
 superior, causando endocardite subaguda em valvas nativas e valvas protéticas. Podem produzir a enzima betalactamase.
 
 ## Quadro clínico
@@ -206,6 +229,10 @@ bacilos Gram-negativos e fungos, ou à presença de complicações.
 
 Não se deve hesitar na indicação de cirurgia para a EI.
 
+## Bibliografia
 
+1. Jameson JL, ed. Harrison’s Principles of Internal Medicine. Twentieth edition. New York: McGraw-Hill Education; 2018.
 
 ## Referências
+
+[^Harrison]: Jameson JL, ed. Harrison’s Principles of Internal Medicine. Twentieth edition. New York: McGraw-Hill Education; 2018.

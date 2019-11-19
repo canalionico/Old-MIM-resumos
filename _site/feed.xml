@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-18T14:44:08-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Leptospirose</title><link href="http://localhost:4000/infectologia/leptospirose.html" rel="alternate" type="text/html" title="Leptospirose" /><published>2019-11-16T00:00:00-03:00</published><updated>2019-11-16T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/leptospirose</id><content type="html" xml:base="http://localhost:4000/infectologia/leptospirose.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-18T22:09:33-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Insuficiência cardíaca aguda</title><link href="http://localhost:4000/cardiologia/ic-aguda.html" rel="alternate" type="text/html" title="Insuficiência cardíaca aguda" /><published>2019-11-18T00:00:00-03:00</published><updated>2019-11-18T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic-aguda</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic-aguda.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fatores-de-descompensação&quot; id=&quot;markdown-toc-fatores-de-descompensação&quot;&gt;Fatores de descompensação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#perfil-hemodinâmico&quot; id=&quot;markdown-toc-perfil-hemodinâmico&quot;&gt;Perfil hemodinâmico&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Aqui eu estou supondo que você já estudou e/ou revisou o artigo sobre &lt;a href=&quot;/cardiologia/ic.html&quot;&gt;insuficiência cardíaca&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;fatores-de-descompensação&quot;&gt;Fatores de descompensação&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Má adesão ao tratamento farmacológico;&lt;/li&gt;
+  &lt;li&gt;Má adesão às mudanças de estilo de vida;&lt;/li&gt;
+  &lt;li&gt;Outros&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;perfil-hemodinâmico&quot;&gt;Perfil hemodinâmico&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ic-perfil.gif&quot; alt=&quot;Perfil hemodinâmico&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Perfil C: fazer drogas;&lt;/li&gt;
+  &lt;li&gt;Perfil L: fazer Líquidos!&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Leptospirose</title><link href="http://localhost:4000/infectologia/leptospirose.html" rel="alternate" type="text/html" title="Leptospirose" /><published>2019-11-16T00:00:00-03:00</published><updated>2019-11-16T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/leptospirose</id><content type="html" xml:base="http://localhost:4000/infectologia/leptospirose.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
@@ -141,17 +163,72 @@ tológicos. Isso quer dizer que podemos ter disfun-
   &lt;li&gt;Diltiazem;&lt;/li&gt;
   &lt;li&gt;Betabloqueador;&lt;/li&gt;
   &lt;li&gt;Amiodarona.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Endocardite infecciosa</title><link href="http://localhost:4000/infectologia/endocardite-infecciosa.html" rel="alternate" type="text/html" title="Endocardite infecciosa" /><published>2019-11-12T00:00:00-03:00</published><updated>2019-11-12T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/endocardite-infecciosa</id><content type="html" xml:base="http://localhost:4000/infectologia/endocardite-infecciosa.html">&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Endocardite infecciosa</title><link href="http://localhost:4000/infectologia/endocardite-infecciosa.html" rel="alternate" type="text/html" title="Endocardite infecciosa" /><published>2019-11-12T00:00:00-03:00</published><updated>2019-11-12T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/endocardite-infecciosa</id><content type="html" xml:base="http://localhost:4000/infectologia/endocardite-infecciosa.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#endocardite-aguda&quot; id=&quot;markdown-toc-endocardite-aguda&quot;&gt;Endocardite aguda&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#valva-nativa&quot; id=&quot;markdown-toc-valva-nativa&quot;&gt;Valva Nativa&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#valva-protética&quot; id=&quot;markdown-toc-valva-protética&quot;&gt;Valva protética&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#associada-aos-cuidados-de-saúde&quot; id=&quot;markdown-toc-associada-aos-cuidados-de-saúde&quot;&gt;Associada aos cuidados de saúde&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;#agentes-raros&quot; id=&quot;markdown-toc-agentes-raros&quot;&gt;Agentes raros&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#endocardite-subaguda&quot; id=&quot;markdown-toc-endocardite-subaguda&quot;&gt;Endocardite Subaguda&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#valva-nativa-1&quot; id=&quot;markdown-toc-valva-nativa-1&quot;&gt;Valva nativa&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#ei-aguda&quot; id=&quot;markdown-toc-ei-aguda&quot;&gt;EI Aguda&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ei-subaguda&quot; id=&quot;markdown-toc-ei-subaguda&quot;&gt;EI Subaguda&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#hemocultura&quot; id=&quot;markdown-toc-hemocultura&quot;&gt;Hemocultura&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#diagnóstico-diferencial&quot; id=&quot;markdown-toc-diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#antibioticoterapia&quot; id=&quot;markdown-toc-antibioticoterapia&quot;&gt;Antibioticoterapia&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#fatores-de-melhora&quot; id=&quot;markdown-toc-fatores-de-melhora&quot;&gt;Fatores de melhora&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cirúrgico&quot; id=&quot;markdown-toc-cirúrgico&quot;&gt;Cirúrgico&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bibliografia&quot; id=&quot;markdown-toc-bibliografia&quot;&gt;Bibliografia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Definimos Endocardite Infecciosa (EI) como uma infecção microbiana da superfície endotelial do coração.&lt;/p&gt;
+&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
 
-&lt;p&gt;A região mais acometida são as valvas, mas as cordoalhas, áreas de defeitos septais e o próprio endocárdio também pode ser acometido. A valva mitral é a mais acometida, seguida pela valva aórtica.&lt;/p&gt;
+&lt;p&gt;Definimos endocardite infecciosa (EI) como uma infecção microbiana da superfície endotelial do coração.&lt;/p&gt;
 
-&lt;p&gt;Quanto ao tempo de apresentação, ela é diferenciada em &lt;strong&gt;aguda&lt;/strong&gt;, menos de 6 semanas, e &lt;strong&gt;subaguda&lt;/strong&gt;, mais de 6 semanas. Contudo, também costuma-se utilizar a apresentação clínica, apesar do tempo de duração, para diferenciar entre estes dois tipos.&lt;/p&gt;
+&lt;p&gt;A lesão protótipo da EI é a “vegetação”. Esta é formada por plaquetas, microorganismos, fibrina e células inflamatórias. Geralmente ela acomete as valvas cardíacas, principalmente a valva mitral, seguida pela aórtica. Mas outras regiões como as cordoalhas, áreas de defeitos septais e o próprio endocárdio também podem ser afetados.&lt;sup id=&quot;fnref:Harrison&quot;&gt;&lt;a href=&quot;#fn:Harrison&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;endarterite infecciosa&lt;/strong&gt; é um processo semelhante porém acometendo &lt;em&gt;shunts&lt;/em&gt; arteriovenosos, &lt;em&gt;shunts&lt;/em&gt; arterio-arteriais e coarctação de aorta.&lt;/p&gt;
+
+&lt;p&gt;A EI pode ser classificada de acordo com o tempo de evolução (aguda e crônica), o sítio de infecção, a etiologia e/ou de acordo com os fatores de riscos (uso de drogas injetáveis, associação com os cuidados de saúde).&lt;sup id=&quot;fnref:Harrison:1&quot;&gt;&lt;a href=&quot;#fn:Harrison&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Quanto ao tempo de apresentação, ela é diferenciada em &lt;strong&gt;aguda&lt;/strong&gt;, menos de 6 semanas, e &lt;strong&gt;subaguda&lt;/strong&gt;, mais de 6 semanas. Contudo, também costuma-se utilizar a apresentação clínica, apesar do tempo de duração, para diferenciar entre estes dois tipos. A EI aguda é doença doença febril de rápida progressão de injúria cardíaca que pode levar à morte em semanas. Já a forma subaguda é mais arrastada e o dano cardíaco é mais lento, contudo, pode ser agravada agudamente por complicações como embolizações ou rupturas de aneurismas.&lt;sup id=&quot;fnref:Harrison:2&quot;&gt;&lt;a href=&quot;#fn:Harrison&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;De forma geral, a EI necessita sempre de intervenção médica ou evoluirá para óbito. Não existem casos de cura espontânea de EI.&lt;/p&gt;
 
 &lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Nos países desenvolvidos acomete em torno de 4-7 a cada 100 mil indivíduos por ano. Nesses países, o principal fator predisponente deixou de ser a doença reumática e passou a ser: cardiopatias congênitas, uso de  drogas injetáveis, doença degenerativas valvares e dispositivos intracardíacos (incluindo valvas prostéticas).&lt;/p&gt;
+
+&lt;p&gt;Já nos países em desenvolvimento, a doença reumática ainda é o principal fator de risco.&lt;/p&gt;
 
 &lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
 
@@ -172,8 +249,6 @@ tológicos. Isso quer dizer que podemos ter disfun-
   &lt;li&gt;Usuários de drogas injetáveis.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Nos países desenvolvidos, a doença reumática não tem mais importância como fator predisponente. Nestes, os principais fatores de risco são: transplantes, uso de próteses e agentes virulentos de ambientes hospitalares.&lt;/p&gt;
-
 &lt;p&gt;É muito importante conhecer os fatores de risco pois cada um apresenta um patógeno mais comum de causar a infeccção e isso pode implicar na hora de escolher a antibioticoterapia empírica.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Endocardites infecciosas em valvas protéticas:&lt;/strong&gt; esta classe é subdividida em função do tempo de aparecimento da EI após a cirurgia de troca valvar:&lt;/p&gt;
@@ -186,9 +261,15 @@ tológicos. Isso quer dizer que podemos ter disfun-
 
 &lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
 
-&lt;p&gt;A microbiologia da endocardite infecciosa varia na dependência dos fatores predisponentes (usuários de drogas IV, prótese valvar) e do quadro clínico (aguda versus subaguda).&lt;/p&gt;
+&lt;p&gt;A etiologia vai variar de acordo com os fatores predisponentes, principalmente em usuários de drogas IV e portadores de prótese valvar, e do quadro clínico (aguda ou subaguda).&lt;/p&gt;
 
-&lt;p&gt;Também pode ser causada por fungos principalmente os do gênero Cândida, Aspergilus e Torulopsis. São mais frequentes em usuários de drogas injetáveis.&lt;/p&gt;
+&lt;p&gt;O cardápio de microorganismos pode ser bastante vasto, variando de bactérias a fungos. Contudo, existem alguns patógenos que estão mais frequentemente associados à EI. A boca, a pele e o trato respiratório superior podem funcionar como porta de entrada para estafilococos, estreptococos e bactérias do grupo HACEK.&lt;/p&gt;
+
+&lt;p&gt;A bacteremia pelo &lt;em&gt;Streptococcus bovis&lt;/em&gt; (também chamado de &lt;em&gt;S. gallolyticus&lt;/em&gt; subespécie &lt;em&gt;gallolyticus&lt;/em&gt;) está associado a tumores do TGI, doença de Chron e polipose. É de boa prática pesquisar de tumores de cólon por colonoscopia nestes pacientes. O &lt;em&gt;S. bovis&lt;/em&gt; originário do TGI atinge a corrente sanguínea através das lesões existentes.&lt;/p&gt;
+
+&lt;p&gt;Já os enterococos, podem atingir a corrente sanguínea pelo trato genitourinário.&lt;/p&gt;
+
+&lt;p&gt;Os fungos, principalmente os do gênero &lt;em&gt;Cândida&lt;/em&gt;, &lt;em&gt;Aspergilus&lt;/em&gt; e &lt;em&gt;Torulopsis&lt;/em&gt;, são mais frequentes em usuários de drogas injetáveis.&lt;/p&gt;
 
 &lt;h3 id=&quot;endocardite-aguda&quot;&gt;Endocardite aguda&lt;/h3&gt;
 
@@ -250,9 +331,17 @@ e Enterococcus faecium são as principais espécies envolvidas. Estes micro-orga
 estão associados a bacteremias após instrumentação do trato urinário em homens. Os
 enterococos podem causar endocardite subaguda ou aguda e infectar valvas nativas normais ou defeituosas. São conhecidos pela sua resistência natural a diversos antibióticos.&lt;/p&gt;
 
-&lt;p&gt;A bacteremia pelo &lt;em&gt;Streptococcus bovis&lt;/em&gt; – que também vem sendo chamado de Streptococcus gallolyticus subespécie gallolyticus – associa-se a tumores do TGI, doença de Chron e polipose. É de boa prática pesquisar de tumores de cólon por colonoscopia nestes pacientes.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grupo HACEK&lt;/strong&gt;: são bactérias gram-negativas que crescem  apenas em meios especiais enriquecidos com nutrientes específicos (fastidiosas).&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Grupo HACEK&lt;/strong&gt;: (Haemophylus parainfluenzae, Haemophilus aphrophilus, Actinobacillus, Cardiobacterium hominis, Eikenella corrodens e Kingella kingii) são gram-negativos fastidiosos (de crescimento lento e apenas em meios especiais enriquecidos com nutrientes específicos) que raramente ocasionam a doença. Eles fazem parte da microbiota normal do trato respiratório
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Haemophilus sp&lt;/em&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Aggregatibacter sp&lt;/em&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Cardiobacterium hominis&lt;/em&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Eikenella corrodens&lt;/em&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Kingella kingae&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Haemophylus parainfluenzae, Haemophilus aphrophilus, Actinobacillus, Cardiobacterium hominis, Eikenella corrodens e Kingella kingii) são gram-negativos fastidiosos (de crescimento lento e apenas em meios especiais enriquecidos com nutrientes específicos) que raramente ocasionam a doença. Eles fazem parte da microbiota normal do trato respiratório
 superior, causando endocardite subaguda em valvas nativas e valvas protéticas. Podem produzir a enzima betalactamase.&lt;/p&gt;
 
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
@@ -368,7 +457,21 @@ bacilos Gram-negativos e fungos, ou à presença de complicações.&lt;/p&gt;
 
 &lt;p&gt;Não se deve hesitar na indicação de cirurgia para a EI.&lt;/p&gt;
 
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Introdução</summary></entry><entry><title type="html">Tuberculose</title><link href="http://localhost:4000/pneumologia/tuberculose.html" rel="alternate" type="text/html" title="Tuberculose" /><published>2019-11-11T00:00:00-03:00</published><updated>2019-11-11T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/tuberculose</id><content type="html" xml:base="http://localhost:4000/pneumologia/tuberculose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Jameson JL, ed. Harrison’s Principles of Internal Medicine. Twentieth edition. New York: McGraw-Hill Education; 2018.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Harrison&quot;&gt;
+      &lt;p&gt;Jameson JL, ed. Harrison’s Principles of Internal Medicine. Twentieth edition. New York: McGraw-Hill Education; 2018. &lt;a href=&quot;#fnref:Harrison&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Harrison:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:Harrison:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tuberculose</title><link href="http://localhost:4000/pneumologia/tuberculose.html" rel="alternate" type="text/html" title="Tuberculose" /><published>2019-11-11T00:00:00-03:00</published><updated>2019-11-11T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/tuberculose</id><content type="html" xml:base="http://localhost:4000/pneumologia/tuberculose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
@@ -1478,4 +1581,4 @@ câmaras.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ritmo-sinusal.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;arritmias-supraventriculares&quot;&gt;Arritmias supraventriculares&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência respiratória aguda</title><link href="http://localhost:4000/pneumologia/ira.html" rel="alternate" type="text/html" title="Insuficiência respiratória aguda" /><published>2019-10-24T00:00:00-03:00</published><updated>2019-10-24T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/ira</id><content type="html" xml:base="http://localhost:4000/pneumologia/ira.html">&lt;p&gt;&lt;img src=&quot;/assets/pneumo/ira-tab.jpeg&quot; alt=&quot;Imagem&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;h2 id=&quot;arritmias-supraventriculares&quot;&gt;Arritmias supraventriculares&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

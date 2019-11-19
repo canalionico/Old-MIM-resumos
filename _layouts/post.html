@@ -6,7 +6,10 @@ layout: default
 <div class="wrapper">
   <div class="main">
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-page-info">{{ page.date | date_to_string }} - <a href="https://twitter.com/{{ page.author }}">{{ page.author }}</a></p>
+    <p class="post-page-info">
+      <em>por</em> <a href="https://twitter.com/{{ page.author }}">Filipe Mosca</a><br>
+      {{ page.date | date_to_string }} <br>
+      filipemosca@disroot.org</p>
     <article>
       {{ content }}
       <a id="myBtn" href="#markdown-toc"><i class="fa fa-sort-amount-up"></i>Sumário</a>

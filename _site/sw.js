@@ -31,6 +31,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cardiologia/ic-aguda.html',
+      
         '/infectologia/leptospirose.html',
       
         '/cardiologia/taqui.html',
@@ -491,6 +493,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/hipertrofia.jpeg'
       
         '/assets/cardiologia/ic-hemod.png'
+      
+        '/assets/cardiologia/ic-perfil.gif'
       
         '/assets/cardiologia/ic.png'
       
