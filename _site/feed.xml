@@ -1,4 +1,273 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-18T22:09:33-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Insuficiência cardíaca aguda</title><link href="http://localhost:4000/cardiologia/ic-aguda.html" rel="alternate" type="text/html" title="Insuficiência cardíaca aguda" /><published>2019-11-18T00:00:00-03:00</published><updated>2019-11-18T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic-aguda</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic-aguda.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-23T08:25:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Valvopatia mitral</title><link href="http://localhost:4000/cardiologia/valvopatia-mitral.html" rel="alternate" type="text/html" title="Valvopatia  mitral" /><published>2019-11-23T00:00:00-03:00</published><updated>2019-11-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/valvopatia-mitral</id><content type="html" xml:base="http://localhost:4000/cardiologia/valvopatia-mitral.html">&lt;p&gt;As valvopatias mitrais são as mais comuns em prevalência, seguida  pelas da valva aórtica e depois da valva tricúspide.&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;p&gt;A principal causa de insuficiência mitral é a degeneração sênil. Já a estenose mitral, a principal causa é a doença reumática.&lt;/p&gt;
+
+&lt;p&gt;IM: a principal causa é a degeneração sênil, seguida pela doença reumática e depois por doença isquêmica, endocardite e congênito.&lt;/p&gt;
+
+&lt;p&gt;EM: a principal causa é a doença reumática, seguida pela  degeneração sênil. Outras causas são muito incomuns.&lt;/p&gt;
+
+&lt;h1 id=&quot;estenose-mitral&quot;&gt;Estenose Mitral&lt;/h1&gt;
+
+&lt;p&gt;É a doença valvar mais importante nos países subdesenvolvidos. A doença reumática responde por mais de 60% dos casos (a prevalência no sexo feminino é duas vezes a masculina), seguida pela etiologia congênita. O acometimento do folhheto anterior é mais comum. Um mixoma também pode levar a EM.&lt;/p&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: right&quot;&gt; &lt;/th&gt;
+      &lt;th&gt;PAP (mmHg)&lt;/th&gt;
+      &lt;th&gt;Gradiente medio (mmHg)&lt;/th&gt;
+      &lt;th&gt;Area valvar (cm2)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Leve&lt;/td&gt;
+      &lt;td&gt;&amp;lt; 30&lt;/td&gt;
+      &lt;td&gt;&amp;lt; 5&lt;/td&gt;
+      &lt;td&gt;&amp;gt; 1,5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Moderada&lt;/td&gt;
+      &lt;td&gt;30-50&lt;/td&gt;
+      &lt;td&gt;5-10&lt;/td&gt;
+      &lt;td&gt;1-1,5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: right&quot;&gt;Grave&lt;/td&gt;
+      &lt;td&gt;&amp;gt; 50&lt;/td&gt;
+      &lt;td&gt;&amp;gt; 10&lt;/td&gt;
+      &lt;td&gt;&amp;lt; 1&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Diretriz brasileira de valvopatias&lt;/li&gt;
+  &lt;li&gt;Guidelines on the management of valvular heart disease. Europe Heart Journal. 2007. escardio.org&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html">As valvopatias mitrais são as mais comuns em prevalência, seguida pelas da valva aórtica e depois da valva tricúspide.</summary></entry><entry><title type="html">Cirurgia de revascularização miocárida</title><link href="http://localhost:4000/cardiologia/crm.html" rel="alternate" type="text/html" title="Cirurgia de revascularização miocárida" /><published>2019-11-21T00:00:00-03:00</published><updated>2019-11-21T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/crm</id><content type="html" xml:base="http://localhost:4000/cardiologia/crm.html">&lt;p&gt;Prognóstico&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Disfunção do VE&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Extensão da DAC&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Extensão da isquemia miocárdica&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;Arritmias severas;&lt;/li&gt;
+  &lt;li&gt;Fatores de risco clássico:
+    &lt;ul&gt;
+      &lt;li&gt;DM&lt;/li&gt;
+      &lt;li&gt;HAS&lt;/li&gt;
+      &lt;li&gt;Tabagismo&lt;/li&gt;
+      &lt;li&gt;Dislipidemia&lt;/li&gt;
+      &lt;li&gt;Antecedentes familiares de DAC.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Preditores de mortalidade&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Idade avançada;&lt;/li&gt;
+  &lt;li&gt;Cirurgia cardíaca prévia (risco de morte três vezes maior);&lt;/li&gt;
+  &lt;li&gt;Cirurgência de urgência ou emergência;&lt;/li&gt;
+  &lt;li&gt;Sexo feminino (o risco de morte é duas vezes maior);&lt;/li&gt;
+  &lt;li&gt;FEVE baixa;&lt;/li&gt;
+  &lt;li&gt;Lesão no tronco da coronária esquerda;&lt;/li&gt;
+  &lt;li&gt;DAC murtiarterial.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As duas últimas são devido à maior área isquêmica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Outros preditores&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Prognóstico</summary></entry><entry><title type="html">Asma</title><link href="http://localhost:4000/pneumologia/asma.html" rel="alternate" type="text/html" title="Asma" /><published>2019-11-21T00:00:00-03:00</published><updated>2019-11-21T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/asma</id><content type="html" xml:base="http://localhost:4000/pneumologia/asma.html">&lt;p&gt;É uma patologia global que acomete em média 10-12% da população urbana.&lt;/p&gt;
+
+&lt;p&gt;É um processo inflamatório inraronquico que se caracteriza por uma hiper-reatividade bronquica com infiltração celular predominantemente eosinofílica e se externa do ponto de vista clínico pela simbilância, dispnéia, tosse e mucorréia.&lt;/p&gt;
+
+&lt;p&gt;Uma mutação no cromossomo 21 fez que com que alguns hominídeos desenvolvessem uma hiper-reatividade a alguns antígenos.&lt;/p&gt;
+
+&lt;p&gt;Ou seja, para que o indivíduo desenolva asma, é necessário o fatoe genético e o fato ambiental, a exposição ao antígeno.&lt;/p&gt;
+
+&lt;p&gt;A acetilcolina é broncocontrictora.&lt;/p&gt;
+
+&lt;p&gt;Atitude de iguana: pessoas que em situação de estresse libram acetilcolina ao invés de noradrenalina.&lt;/p&gt;
+
+&lt;p&gt;Algumas drogas podem predispor ou mesmo causar o broncoespasmo. O grande exemplo são os betabloqueadores. Outro exemplo de medicação são os IECA.&lt;/p&gt;
+
+&lt;p&gt;Alça colinérgica entre a mucosa esofágica e o calíbre bronquico. É por isso que pacientes com DRGE estão predispostos a ter broncoespasmos. Outro mecanismo de predisposição é o próprio refluxo levando a aspiração.&lt;/p&gt;
+
+&lt;p&gt;Varios grânulos intra-citoplasmáticos corados pela eosina.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Trombose venose profunda</title><link href="http://localhost:4000/cardiologia/tvp.html" rel="alternate" type="text/html" title="Trombose venose profunda" /><published>2019-11-20T00:00:00-03:00</published><updated>2019-11-20T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/tvp</id><content type="html" xml:base="http://localhost:4000/cardiologia/tvp.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#doppler-venoso&quot; id=&quot;markdown-toc-doppler-venoso&quot;&gt;Doppler venoso&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#flebografia&quot; id=&quot;markdown-toc-flebografia&quot;&gt;Flebografia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#rnm-ou-tc&quot; id=&quot;markdown-toc-rnm-ou-tc&quot;&gt;RNM ou TC&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prevenção&quot; id=&quot;markdown-toc-prevenção&quot;&gt;Prevenção&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento-clínico&quot; id=&quot;markdown-toc-tratamento-clínico&quot;&gt;Tratamento clínico&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#fibrinólise&quot; id=&quot;markdown-toc-fibrinólise&quot;&gt;Fibrinólise&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento-cirúrgico&quot; id=&quot;markdown-toc-tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#seguimento&quot; id=&quot;markdown-toc-seguimento&quot;&gt;Seguimento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bibliografia&quot; id=&quot;markdown-toc-bibliografia&quot;&gt;Bibliografia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As principais formas de trombose venosa são a TVP (trombose venosa profunda) e o TEP (tromboembolismo pulmonar).&lt;/p&gt;
+
+&lt;p&gt;Tríade de Virchow: os pilares básicos da fisiopatologia da trombose venosa e arterial.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Estase venosa&lt;/li&gt;
+  &lt;li&gt;Hipercoagulabilidade&lt;/li&gt;
+  &lt;li&gt;Lesão endotelial&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Um dos grandes problemas da TVP é a embolia pulmonar.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Nos Estados Unidos (Atherosclerosis Risk in Communities - ARIC - study), o risco de fatalidade com 28 dias de TVP é de 9% e de 15% para TEP. A incidência é semelhante entre os sexos e aumenta com o avanço da idade.&lt;sup id=&quot;fnref:Harrison&quot;&gt;&lt;a href=&quot;#fn:Harrison&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
+
+&lt;p&gt;Dentre os fatores de risco para TEV, podemos citar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hipercoagulabilidade (genética ou adquirida)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Idade;&lt;/li&gt;
+  &lt;li&gt;Imobilidade prolongada;&lt;/li&gt;
+  &lt;li&gt;Grandes cirúrgias;&lt;/li&gt;
+  &lt;li&gt;Neoplasias;&lt;/li&gt;
+  &lt;li&gt;Doenças graves;&lt;/li&gt;
+  &lt;li&gt;Passado familiar de TEV e trombofilia;&lt;/li&gt;
+  &lt;li&gt;Uso de drogas;&lt;/li&gt;
+  &lt;li&gt;Varizes;&lt;/li&gt;
+  &lt;li&gt;Anticoncepção hormonal oral ou terapia de reposição hormonal;&lt;/li&gt;
+  &lt;li&gt;Disordens mieloproliferativas;&lt;/li&gt;
+  &lt;li&gt;Policitemia;&lt;/li&gt;
+  &lt;li&gt;Síndrome antifosfolípide;&lt;/li&gt;
+  &lt;li&gt;Obesidade;&lt;/li&gt;
+  &lt;li&gt;Infecção;&lt;/li&gt;
+  &lt;li&gt;Trauma;&lt;/li&gt;
+  &lt;li&gt;Gravidez e puerpério;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Interessante nortarmos que o tabagismo não é um fator de risco para o tromboembolismo venoso.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;É sempre importante investigar a causa base do TEV.&lt;/p&gt;
+
+&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
+
+&lt;p&gt;As principais complicações são o embolismo pulmonar e a síndrome pós-trombótica.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;Pode ser clínico, com a anamnese e exame físico associado à história de fatores de risco. Edema, dor, congestão de veias superficiais e cianose cutânea devem ser pesquisados.&lt;/p&gt;
+
+&lt;p&gt;O teste de trombofilia está indicado em  pacientes com menos de 50 anos sem neoplasias com história familiar de TEV…&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;doppler-venoso&quot;&gt;Doppler venoso&lt;/h3&gt;
+
+&lt;h3 id=&quot;flebografia&quot;&gt;Flebografia&lt;/h3&gt;
+
+&lt;h3 id=&quot;rnm-ou-tc&quot;&gt;RNM ou TC&lt;/h3&gt;
+
+&lt;p&gt;No caso a angiotomografia. São exames que não são empregados de forma rotineira.&lt;/p&gt;
+
+&lt;h2 id=&quot;prevenção&quot;&gt;Prevenção&lt;/h2&gt;
+
+&lt;p&gt;Medidas físicas como deambulação precoce e estimulação da musculatura.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento-clínico&quot;&gt;Tratamento clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Heparinas
+    &lt;ul&gt;
+      &lt;li&gt;Não fracionada&lt;/li&gt;
+      &lt;li&gt;De baixo peso molecular (enoxaparina)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cumarínicos (anti-vitamina K): seu efeito terapêutico é demorado.&lt;/li&gt;
+  &lt;li&gt;Fibrinolíticos (ativadores de plasminogênio)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fibrinólise&quot;&gt;Fibrinólise&lt;/h3&gt;
+
+&lt;h2 id=&quot;tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Trombectomias venosas (Phlegmasias);&lt;/li&gt;
+  &lt;li&gt;Ligaduras venosas: TEP de repetição;&lt;/li&gt;
+  &lt;li&gt;Implantes de filtros de cava: indicado para a TEP de repetição.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;seguimento&quot;&gt;Seguimento&lt;/h2&gt;
+
+&lt;p&gt;Se a varfarina estiver causando muito sangramento, com um INR muito alto, deve-se internar o paciente e começar a administrar vitamina K (mas esta demora muito a atuar, logo, não contêm sangramento em situações de emergência).&lt;/p&gt;
+
+&lt;p&gt;No comércio existe um fármaco concentrado com os quatro fatores de coagulação (II, VII, IX e VIII) de rápida ação.&lt;/p&gt;
+
+&lt;p&gt;Em caso de sangramento pelo uso de heparina, deve-se usar o antídoto protamina.&lt;/p&gt;
+
+&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Jameson JL, ed. Harrison’s Principles of Internal Medicine. Twentieth edition. New York: McGraw-Hill Education; 2018.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Harrison&quot;&gt;
+      &lt;p&gt;Jameson JL, ed. Harrison’s Principles of Internal Medicine. Twentieth edition. New York: McGraw-Hill Education; 2018. &lt;a href=&quot;#fnref:Harrison&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Varizes de membros inferiores</title><link href="http://localhost:4000/cardiologia/varizes-de-mmii.html" rel="alternate" type="text/html" title="Varizes de membros inferiores" /><published>2019-11-20T00:00:00-03:00</published><updated>2019-11-20T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/varizes-de-mmii</id><content type="html" xml:base="http://localhost:4000/cardiologia/varizes-de-mmii.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;São veias dilatadas e tortuosas que fazem relevo na superfície cutânea ou mucosa.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Fatores predisponentes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hereditariedade;&lt;/li&gt;
+  &lt;li&gt;Gravidez;&lt;/li&gt;
+  &lt;li&gt;Uso de estrógenos (ACO, TRH);&lt;/li&gt;
+  &lt;li&gt;Obesidade;&lt;/li&gt;
+  &lt;li&gt;Atividade profissional.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Coração periférico:&lt;/strong&gt; termo usado para descrever a função da musculatura esquelética periférica de colaborar com o retorno venoso durante a contração e relaxamento.&lt;/p&gt;
+
+&lt;p&gt;Válvulas do sistema profundo e do sistema superficial.&lt;/p&gt;
+
+&lt;p&gt;Incompetência valvular&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência cardíaca aguda</title><link href="http://localhost:4000/cardiologia/ic-aguda.html" rel="alternate" type="text/html" title="Insuficiência cardíaca aguda" /><published>2019-11-18T00:00:00-03:00</published><updated>2019-11-18T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ic-aguda</id><content type="html" xml:base="http://localhost:4000/cardiologia/ic-aguda.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fatores-de-descompensação&quot; id=&quot;markdown-toc-fatores-de-descompensação&quot;&gt;Fatores de descompensação&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#perfil-hemodinâmico&quot; id=&quot;markdown-toc-perfil-hemodinâmico&quot;&gt;Perfil hemodinâmico&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -599,986 +868,4 @@ bacilos Gram-negativos e fungos, ou à presença de complicações.&lt;/p&gt;
 
 &lt;p&gt;A tuberculose óssea é tratada por 1 ano.&lt;/p&gt;
 
-&lt;p&gt;O tratamento da TB latente é feito apenas com isoniazida.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Anti hipertensivos</title><link href="http://localhost:4000/cardiologia/anti-hipertensivos.html" rel="alternate" type="text/html" title="Anti hipertensivos" /><published>2019-11-05T00:00:00-03:00</published><updated>2019-11-05T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/anti-hipertensivos</id><content type="html" xml:base="http://localhost:4000/cardiologia/anti-hipertensivos.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#sistema-renina-angiotensina-aldosterona&quot; id=&quot;markdown-toc-sistema-renina-angiotensina-aldosterona&quot;&gt;Sistema renina-angiotensina-aldosterona&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#medicamentos&quot; id=&quot;markdown-toc-medicamentos&quot;&gt;Medicamentos&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#cuidados-individualizados&quot; id=&quot;markdown-toc-cuidados-individualizados&quot;&gt;Cuidados individualizados&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diuréticos&quot; id=&quot;markdown-toc-diuréticos&quot;&gt;Diuréticos&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tiazídicos&quot; id=&quot;markdown-toc-tiazídicos&quot;&gt;Tiazídicos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diuréticos-de-alça&quot; id=&quot;markdown-toc-diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#poupadores-de-potássio&quot; id=&quot;markdown-toc-poupadores-de-potássio&quot;&gt;Poupadores de potássio&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#simpaticolíticos&quot; id=&quot;markdown-toc-simpaticolíticos&quot;&gt;Simpaticolíticos&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#alfa-adrenérgicos-de-ação-central&quot; id=&quot;markdown-toc-alfa-adrenérgicos-de-ação-central&quot;&gt;Alfa-adrenérgicos de ação central&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#metildopa&quot; id=&quot;markdown-toc-metildopa&quot;&gt;Metildopa&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#clonidina&quot; id=&quot;markdown-toc-clonidina&quot;&gt;Clonidina&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#alfabloqueadores-periféricos&quot; id=&quot;markdown-toc-alfabloqueadores-periféricos&quot;&gt;Alfabloqueadores periféricos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#β-bloqueadores&quot; id=&quot;markdown-toc-β-bloqueadores&quot;&gt;β-bloqueadores&lt;/a&gt;        &lt;ol&gt;
-          &lt;li&gt;&lt;a href=&quot;#efeitos-adversos&quot; id=&quot;markdown-toc-efeitos-adversos&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
-        &lt;/ol&gt;
-      &lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#inibidores-da-enzima-conversora-de-angiotensina&quot; id=&quot;markdown-toc-inibidores-da-enzima-conversora-de-angiotensina&quot;&gt;Inibidores da enzima conversora de angiotensina&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#usos-terapêuticos&quot; id=&quot;markdown-toc-usos-terapêuticos&quot;&gt;Usos terapêuticos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#efeitos-adversos-1&quot; id=&quot;markdown-toc-efeitos-adversos-1&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#bloqueadores-do-receptor-at1-da-angiotensina-ii&quot; id=&quot;markdown-toc-bloqueadores-do-receptor-at1-da-angiotensina-ii&quot;&gt;Bloqueadores do receptor AT1 da angiotensina II&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#inibidores-da-renina&quot; id=&quot;markdown-toc-inibidores-da-renina&quot;&gt;Inibidores da renina&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#bloqueadores-dos-canais-de-cálcio&quot; id=&quot;markdown-toc-bloqueadores-dos-canais-de-cálcio&quot;&gt;Bloqueadores dos canais de cálcio&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#fenilalquilaminas&quot; id=&quot;markdown-toc-fenilalquilaminas&quot;&gt;Fenilalquilaminas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#benzotiazepínico&quot; id=&quot;markdown-toc-benzotiazepínico&quot;&gt;Benzotiazepínico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#di-hidropiridinas&quot; id=&quot;markdown-toc-di-hidropiridinas&quot;&gt;Di-hidropiridinas&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#usos-terapêuticos-1&quot; id=&quot;markdown-toc-usos-terapêuticos-1&quot;&gt;Usos terapêuticos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#efeitos-adversos-2&quot; id=&quot;markdown-toc-efeitos-adversos-2&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#vasodilatadores&quot; id=&quot;markdown-toc-vasodilatadores&quot;&gt;Vasodilatadores&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#hidralazina&quot; id=&quot;markdown-toc-hidralazina&quot;&gt;Hidralazina&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#minoxidil&quot; id=&quot;markdown-toc-minoxidil&quot;&gt;Minoxidil&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#escolha-inicial-do-anti-hipertensivo-aula&quot; id=&quot;markdown-toc-escolha-inicial-do-anti-hipertensivo-aula&quot;&gt;Escolha inicial do anti-hipertensivo (aula)&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A pressão arterial é regulada dentro de uma faixa estreita para prover perfusão adequada aos tecidos sem causar lesões ao sistema vascular, particularmente à túnica íntima arterial (endotélio). Ela é diretamente proporcional ao débito cardíaco e à resistência vascular periférica. O débito cardíaco e a resistência periférica são controlados principalmente por dois mecanismos sobrepostos de controle: os barorreflexos e o sistema renina-angiotensina-aldosterona. A maioria dos anti-hipertensivos diminui a pressão arterial, reduzindo o débito cardíaco e/ou diminuindo a resistência periférica.&lt;/p&gt;
-
-&lt;p&gt;O objetivo do tratamento anti-hipertensivo é reduzir a morbidade cardiovascular e renal e a mortalidade.&lt;/p&gt;
-
-&lt;h2 id=&quot;sistema-renina-angiotensina-aldosterona&quot;&gt;Sistema renina-angiotensina-aldosterona&lt;/h2&gt;
-
-&lt;p&gt;Os rins são responsáveis pelo controle da PA ajustando o volume sanguíneo. Os barorreceptores nos rins respondem à pressão arterial reduzida (e à estimulação simpática de adrenoceptores β1), liberando a enzima &lt;strong&gt;renina&lt;/strong&gt;. Ingestão baixa de sódio e aumento da perda de sódio também tornam maior a liberação de renina. Essa peptidase &lt;strong&gt;converte angiotensinogênio em angiotensina I&lt;/strong&gt;, que é convertida, por sua vez, em &lt;strong&gt;angiotensina II&lt;/strong&gt; na presença da &lt;strong&gt;enzima conversora de angiotensina&lt;/strong&gt; (ECA). A &lt;strong&gt;angiotensina II é um vasoconstritor&lt;/strong&gt; circulante potente, que contrai arteríolas e veias, resultando no aumento da pressão arterial. A angiotensina II exerce ação vasoconstritora preferencial nas arteríolas eferentes do glomérulo renal, aumentando a filtração glomerular. Além disso, a angiotensina II estimula a secreção de &lt;strong&gt;aldosterona&lt;/strong&gt;, levando ao aumento da reabsorção renal de sódio e ao aumento do volume sanguíneo, o que contribui para o aumento adicional da pressão arterial. Esses efeitos são mediados pela estimulação dos &lt;strong&gt;receptores da angiotensina II tipo 1&lt;/strong&gt; (AT1).&lt;/p&gt;
-
-&lt;h2 id=&quot;medicamentos&quot;&gt;Medicamentos&lt;/h2&gt;
-
-&lt;p&gt;As recomendações atuais são de iniciar o tratamento com diurético tiazídico, IECA, bloqueador do receptor de angiotensina (BRA) ou bloqueador dos canais de cálcio (BCC).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/resposta-pa.jpeg&quot; alt=&quot;DRC&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;cuidados-individualizados&quot;&gt;Cuidados individualizados&lt;/h3&gt;
-
-&lt;p&gt;A hipertensão pode coexistir com outras doenças que podem ser agravadas por alguns anti-hipertensivos ou que podem se beneficiar com eles, independentemente do controle da pressão arterial. Nesses casos, é importante encontrar o melhor fármaco anti-hipertensivo para cada paciente em particular.&lt;/p&gt;
-
-&lt;h2 id=&quot;diuréticos&quot;&gt;Diuréticos&lt;/h2&gt;
-
-&lt;p&gt;Independentemente da classe, o mecanismo de ação inicial dos diuréticos é baseado na &lt;strong&gt;redução do volume&lt;/strong&gt;, o que leva à diminuição da pressão arterial. O tratamento com doses baixas de diuréticos é seguro, barato e eficaz na prevenção de derrame, infarto do miocárdio e insuficiência cardíaca. Devem-se &lt;strong&gt;monitorar os eletrólitos&lt;/strong&gt; séricos rotineiramente em todos os pacientes que recebem diuréticos.&lt;/p&gt;
-
-&lt;h3 id=&quot;tiazídicos&quot;&gt;Tiazídicos&lt;/h3&gt;
-
-&lt;p&gt;Os tiazídicos podem ser usados como tratamento farmacológico inicial contra a hipertensão, a menos que alguma razão obrigue a escolha de outro fármaco.&lt;/p&gt;
-
-&lt;p&gt;Os diuréticos tiazídicos, como a &lt;strong&gt;hidroclorotiazida&lt;/strong&gt; (&lt;em&gt;Clorana&lt;/em&gt;), &lt;strong&gt;indapamida&lt;/strong&gt; (&lt;em&gt;Idapen&lt;/em&gt;) e a &lt;strong&gt;clortalidona&lt;/strong&gt; (&lt;em&gt;Higroton&lt;/em&gt;), diminuem a pressão arterial inicialmente por &lt;strong&gt;aumentar a excreção de sódio e água&lt;/strong&gt;. Isso causa uma redução do volume extracelular, resultando em diminuição do débito cardíaco e do fluxo sanguíneo renal.&lt;/p&gt;
-
-&lt;p&gt;Atuam na porção mais distal da alça de Henle com a porção proximal do túbulo distal, inibindo a reabsorção de Na/K/Cl.&lt;/p&gt;
-
-&lt;p&gt;Com o tratamento prolongado, o volume de plasma volta ao normal, mas persiste o efeito hipotensor relacionado com a diminuição da resistência periférica. Os tiazídicos são úteis no tratamento combinado com uma variedade de outros anti-hipertensivos, incluindo BBs, IECAs, BRAs e diuréticos poupadores de potássio.&lt;/p&gt;
-
-&lt;p&gt;Com exceção da &lt;strong&gt;metolazona&lt;/strong&gt;, os diuréticos tiazídicos não são eficazes em pacientes com função renal inadequada (velocidade de filtração glomerular estimada menor que 30
-mL/min/m2). Nesses pacientes, podem ser necessários diuréticos de alça.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hipopotassemia;&lt;/li&gt;
-  &lt;li&gt;Hiperuricemia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hipocalemia&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hiponatremia&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Alterações do perfil metabólico&lt;/strong&gt; (Glic, CT, Ac. Úrico)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;diuréticos-de-alça&quot;&gt;Diuréticos de alça&lt;/h3&gt;
-
-&lt;p&gt;Agem na porção ascendente da alça de Henle e inibem a reabsorção de Na/K/Cl (maior excreção desses eletrólitos e, consequentemente, de água).&lt;/p&gt;
-
-&lt;p&gt;Os principais são: &lt;strong&gt;furosemida&lt;/strong&gt; (&lt;em&gt;Lasix&lt;/em&gt;), &lt;strong&gt;torsemida&lt;/strong&gt;, bumetanida (&lt;em&gt;Burinax&lt;/em&gt;) e ácido etacrínico. Atuam rapidamente, &lt;strong&gt;bloqueando a reabsorção de sódio e cloreto nos rins&lt;/strong&gt;, mesmo em pacientes com má função renal ou naqueles que não responderam ao diurético tiazídico. Os diuréticos de alça causam diminuição da resistência vascular renal e aumento do fluxo sanguíneo renal.&lt;/p&gt;
-
-&lt;p&gt;Como os tiazídicos, eles podem causar hipopotassemia. Contudo, diferentemente dos tiazídicos, os diuréticos de alça &lt;strong&gt;aumentam o conteúdo de Ca++ na urina&lt;/strong&gt;, ao passo que os tiazídicos diminuem.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hipocalemia&lt;/li&gt;
-  &lt;li&gt;Hipovolemia&lt;/li&gt;
-  &lt;li&gt;Hiponatremia&lt;/li&gt;
-  &lt;li&gt;Alterações do perfil metabólico (Glic, CT, Ac. Úrico)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os diuréticos e alça raramente são usados isoladamente para tratar a hipertensão, mas são comumente usados para tratar sintomas de insuficiência
-cardíaca e edema.&lt;/p&gt;
-
-&lt;h3 id=&quot;poupadores-de-potássio&quot;&gt;Poupadores de potássio&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Amilorida&lt;/strong&gt; e &lt;strong&gt;triantereno&lt;/strong&gt; (inibidores do transporte de sódio epitelial nos
-ductos distais e coletores), bem como &lt;strong&gt;espironolactona&lt;/strong&gt; (&lt;em&gt;Aldactone&lt;/em&gt;) e &lt;strong&gt;eplerenona&lt;/strong&gt; (antagonistas de receptor da aldosterona), reduzem a perda de potássio na urina. A aldosterona tem a vantagem adicional de diminuir a remodelação cardíaca que ocorre na insuficiência cardíaca.&lt;/p&gt;
-
-&lt;p&gt;São antagonistas da aldosterona (espironolactona) ou inibidores diretos da secreção de potássio (amilorida e triantereno), inibindo a reabsorção de Na e água nos túbulos distais e coletor.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hipercalemia&lt;/li&gt;
-  &lt;li&gt;Hiponatremia&lt;/li&gt;
-  &lt;li&gt;Ginecomastia (a espironolactona)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os diuréticos poupadores de potássio são usados algumas vezes associados aos diuréticos de alça e aos tiazídicos para reduzir a espoliação do potássio causada por esses diuréticos.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Moduretic&lt;/em&gt;: amilorida associada a hidroclorotiazida;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Diurana&lt;/em&gt;: triantereno associadoa furosemia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;simpaticolíticos&quot;&gt;Simpaticolíticos&lt;/h2&gt;
-
-&lt;h3 id=&quot;alfa-adrenérgicos-de-ação-central&quot;&gt;Alfa-adrenérgicos de ação central&lt;/h3&gt;
-
-&lt;p&gt;Os alfa-agonistas de ação central. Estimulam os alfa-2 receptores adrenérgicos pré-sinápticos, em nível de SNC, reduzindo o tônus simpático e provocando uma vasodilatação.&lt;/p&gt;
-
-&lt;h4 id=&quot;metildopa&quot;&gt;Metildopa&lt;/h4&gt;
-
-&lt;p&gt;Metildopa (&lt;em&gt;Aldomet&lt;/em&gt;) é um α2-agonista que é convertido em metilnorepinefrina no SNC, causando diminuição do efluxo adrenérgico. É usada principalmente para o tratamento da &lt;strong&gt;hipertensão na gestação&lt;/strong&gt;, por ter registros de segurança.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Posologia:&lt;/strong&gt; 250 a 2.000 mg, em 1 a 2 tomadas diárias.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sedação&lt;/strong&gt; e &lt;strong&gt;sonolência&lt;/strong&gt;;&lt;/li&gt;
-  &lt;li&gt;Hipotensão postural;&lt;/li&gt;
-  &lt;li&gt;Boca seca;&lt;/li&gt;
-  &lt;li&gt;Fadiga e disfunção sexual;&lt;/li&gt;
-  &lt;li&gt;Galactorréia;&lt;/li&gt;
-  &lt;li&gt;Anemia hemolítica;&lt;/li&gt;
-  &lt;li&gt;Lesão hepática.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id=&quot;clonidina&quot;&gt;Clonidina&lt;/h4&gt;
-
-&lt;p&gt;A clonidina (&lt;em&gt;Atensina&lt;/em&gt;) atua centralmente, produzindo inibição dos centros vasomotores simpáticos e diminuindo a estimulação simpática para a periferia. Isso leva à redução da resistência periférica total e à diminuição da PA. A clonidina é &lt;strong&gt;usada primariamente no tratamento da hipertensão que não responde adequadamente ao tratamento com dois ou mais fármacos&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A clonidina não reduz o fluxo sanguíneo renal ou a filtração glomerular e, portanto, é útil no tratamento da hipertensão complicada por doença renal. É bem absorvida após administração oral e é excretada pelos rins. Também está disponível como adesivo transcutâneo.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;Posologia:&lt;/strong&gt; 0,1 a 0,6 mg, em 2 a 3 tomadas diárias.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sedação e sonolência;&lt;/li&gt;
-  &lt;li&gt;Boca seca;&lt;/li&gt;
-  &lt;li&gt;Fadga e disfunção sexual;&lt;/li&gt;
-  &lt;li&gt;Constipação;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Hipertensão de rebote&lt;/em&gt; após interrupção súbita da clonidina. Por isso, se a interrupção for necessária, o fármaco deve ser retirado lentamente.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;alfabloqueadores-periféricos&quot;&gt;Alfabloqueadores periféricos&lt;/h3&gt;
-
-&lt;p&gt;São bloqueadores dos adrenorreceptores-α-1 periféricos (pós-sinápticos), reduzindo o tônus simpático e provocando vasodilatação.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Prazosina&lt;/strong&gt;, &lt;strong&gt;doxazosina&lt;/strong&gt; e &lt;strong&gt;terazosina&lt;/strong&gt; produzem bloqueio competitivo de
-adrenoceptores α1 . Diminuem a RVP e reduzem a PA, relaxando os músculos lisos de artérias e veias. Causam mudanças mínimas no DC, no fluxo sanguíneo renal e na velocidade de filtração glomerular. Por isso, não ocorre taquicardia no tratamento prolongado, mas sim retenção de sal e água.&lt;/p&gt;
-
-&lt;p&gt;Taquicardia reflexa e hipotensão postural ocorrem com frequência no início do tratamento e com o aumento da dose, exigindo lenta titulação do fármaco em doses divididas. Devido aos resultados fracos e ao perfil de efeitos adversos, os α-bloqueadores &lt;strong&gt;não são recomendados no tratamento inicial da hipertensão&lt;/strong&gt; há muito tempo, mas podem ser &lt;strong&gt;usados para casos refratários&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Outros α1-bloqueadores, com maior seletividade para o músculo da próstata, são usados no tratamento da hiperplasia prostática benigna.&lt;/p&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Prazosina (Minipress):&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;p&gt;&lt;strong&gt;Posologia:&lt;/strong&gt; 2 a 12 mg em 2 a 3 tomadas diárias.&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Palpitações;&lt;/li&gt;
-    &lt;li&gt;Hipotensão postural;&lt;/li&gt;
-    &lt;li&gt;Astenia;&lt;/li&gt;
-    &lt;li&gt;Fenômeno da primeira dose.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;p class=&quot;caixa-title&quot;&gt;Doxasozina (Carduran):&lt;/p&gt;
-&lt;div class=&quot;caixa&quot;&gt;
-  &lt;p&gt;&lt;strong&gt;Posologia:&lt;/strong&gt; 4 a 12 mg em dose única.&lt;/p&gt;
-
-  &lt;p&gt;Indicado no tratamento da HPB. Importante saber se homens com HPB estão em uso deste medicamento para não somar seu efeito ao de novos anti-hipertensivos!&lt;/p&gt;
-
-  &lt;p&gt;&lt;strong&gt;Efeitos adversos:&lt;/strong&gt;&lt;/p&gt;
-
-  &lt;ul&gt;
-    &lt;li&gt;Palpitações;&lt;/li&gt;
-    &lt;li&gt;Hipotensão postural;&lt;/li&gt;
-    &lt;li&gt;Astenia;&lt;/li&gt;
-    &lt;li&gt;Fenômeno da primeira dose.&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;β-bloqueadores&quot;&gt;β-bloqueadores&lt;/h3&gt;
-
-&lt;p&gt;Reduzem a PA primariamente &lt;span class=&quot;orange&quot;&gt;diminuindo o DC&lt;/span&gt; (inotropismo e cronotropismo negativo). Eles também podem diminuir o efluxo simpático do sistema nervoso central (SNC) e &lt;span class=&quot;blue&quot;&gt;inibir a liberação de renina&lt;/span&gt; dos rins, reduzindo, assim, a formação de angiotensina II e a secreção de aldosterona.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Primeira geração:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;propanolol, nadolol, timolol e sotalol.&lt;/li&gt;
-      &lt;li&gt;Não são cardioseletivos;&lt;/li&gt;
-      &lt;li&gt;Bloqueiam β1 e β2.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Segunda geração:&lt;/strong&gt; atenolol, metoprolol e bisoprolol.
-    &lt;ul&gt;
-      &lt;li&gt;São cardioseletivos;&lt;/li&gt;
-      &lt;li&gt;Bloqueiam apenas β1.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Terceira geração:&lt;/strong&gt; labetalol, caverdilol e nebivolol.
-    &lt;ul&gt;
-      &lt;li&gt;Possuem atividade vasodilatadora;&lt;/li&gt;
-      &lt;li&gt;Labetalol&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O protótipo dos β-bloqueadores é o &lt;strong&gt;propranolol&lt;/strong&gt;, que atua em receptores β1 e β2. Bloqueadores seletivos de receptores β1, como &lt;strong&gt;metoprolol&lt;/strong&gt; e &lt;strong&gt;atenolol&lt;/strong&gt;, estão entre os β-bloqueadores mais comumente prescritos. O &lt;span class=&quot;red&quot;&gt;nebivolol&lt;/span&gt; é um bloqueador seletivo de receptores β1 que &lt;span class=&quot;red&quot;&gt;aumenta também a produção de óxido nítrico&lt;/span&gt;, levando à vasodilatação.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Labetalol&lt;/strong&gt; e &lt;strong&gt;carvedilol&lt;/strong&gt; bloqueiam os receptores α1, β1 e β2. O carvedilol, embora eficaz como anti-hipertensivo, é usado principalmente no tratamento da insuficiência cardíaca. O carvedilol, bem como o succinato de metoprolol e o bisoprolol, revelaram-se capazes de reduzir a morbidade e a mortalidade associadas à insuficiência cardíaca. O &lt;strong&gt;labetalol&lt;/strong&gt; é usado no tratamento da &lt;strong&gt;hipertensão gestacional&lt;/strong&gt; e em emergências hipertensivas.&lt;/p&gt;
-
-&lt;p&gt;Os β-bloqueadores seletivos devem ser administrados cautelosamente em pacientes hipertensos que também têm asma. Os β-bloqueadores não seletivos, como propranolol e nadolol, são contraindicados devido ao bloqueio da broncodilatação mediada por β2. Os β-bloqueadores devem ser usados com cautela no tratamento de pacientes com insuficiência cardíaca aguda ou doença vascular periférica.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Propanolol:&lt;/strong&gt; 40 a 320 mg em 2-3 tomadas diárias;
-    &lt;ul&gt;
-      &lt;li&gt;Bloqueio β1 e β2.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Atenolol:&lt;/strong&gt; 25 a 200 mg em dose única;
-    &lt;ul&gt;
-      &lt;li&gt;Bloqueio β1.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Metoprolol:&lt;/strong&gt; 50 a 200 mg em dose única;
-    &lt;ul&gt;
-      &lt;li&gt;Bloqueio β1.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Caverdilol:&lt;/strong&gt; 12,5 a 50 mg em 1-2 tomadas;
-    &lt;ul&gt;
-      &lt;li&gt;Faz bloqueio α1, β1 e β2.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nebivolol:&lt;/strong&gt; 5 mg em dose única.
-    &lt;ul&gt;
-      &lt;li&gt;Cardioseletividade (β1) e liberação de NO.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/farmaco/acao-bb.jpeg&quot; alt=&quot;BB&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A vantagem terapêutica primária dos BB é observada em pacientes hipertensos com doença cardíaca concomitante, como &lt;span class=&quot;green&quot;&gt;taquiarritmia supraventricular&lt;/span&gt; (p. ex. fibrilação atrial), &lt;span class=&quot;green&quot;&gt;infarto do miocárdico&lt;/span&gt; prévio, &lt;span class=&quot;green&quot;&gt;angina pectoris&lt;/span&gt; e &lt;span class=&quot;green&quot;&gt;insuficiência cardíaca&lt;/span&gt; crônica. As condições que desaconselham o uso de β-bloqueadores incluem doença broncoespástica como asma, bloqueio cardíaco de segundo e terceiro graus e doença vascular periférica grave. &lt;strong&gt;Podem demorar várias semanas até desenvolverem seu efeito pleno.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;efeitos-adversos&quot;&gt;Efeitos adversos&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Efeitos comuns:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Bradicardia excessiva (&amp;lt; 50 bpm);&lt;/li&gt;
-      &lt;li&gt;Hipotensão;&lt;/li&gt;
-      &lt;li&gt;Efeitos adversos no SNC, como fadiga, letargia, astenia e insônia;&lt;/li&gt;
-      &lt;li&gt;Diminuir a libido e causar disfunção erétil (exceto o nebivolol);&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Broncoespasmo;&lt;/li&gt;
-  &lt;li&gt;Distúrbios da condução AV;&lt;/li&gt;
-  &lt;li&gt;Vasoconstricção periférica (exceto o nebivolol);&lt;/li&gt;
-  &lt;li&gt;Insônia e pesadelos;&lt;/li&gt;
-  &lt;li&gt;Aumento da resistência à insulina (exceto o nebivolol);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Dislipidemia&lt;/strong&gt; (diminuindo HDL e aumentando TG);&lt;/li&gt;
-  &lt;li&gt;Isquemia de rebote;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Retirada do fármaco:&lt;/strong&gt; A retirada abrupta dos BBs pode causar angina, infarto do miocárdio e mesmo a morte súbita de pacientes com doença cardíaca isquêmica. Por isso, esses fármacos devem ser reduzidos gradualmente ao longo de algumas semanas em pacientes com hipertensão e doença cardíaca isquêmica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Contraindicações:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;asma e DPOC;&lt;/li&gt;
-  &lt;li&gt;Bloqueios AV;&lt;/li&gt;
-  &lt;li&gt;Doença vascular periférica (fenômeno de Raynaud);&lt;/li&gt;
-  &lt;li&gt;Diabetes mal controlado.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Indicações especiais:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Coronariopatas;&lt;/li&gt;
-  &lt;li&gt;Arritmias;&lt;/li&gt;
-  &lt;li&gt;Síndrome hipercinéticas;&lt;/li&gt;
-  &lt;li&gt;Enxaquecas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;inibidores-da-enzima-conversora-de-angiotensina&quot;&gt;Inibidores da enzima conversora de angiotensina&lt;/h2&gt;
-
-&lt;p&gt;Os IECAs, como &lt;strong&gt;enalapril&lt;/strong&gt; e &lt;strong&gt;lisinopril&lt;/strong&gt;, são recomendados como tratamento de primeira escolha contra hipertensão em pacientes com uma variedade de indicações, incluindo risco alto de doença coronária ou história de diabetes, AVE, insuficiência cardíaca, infarto do miocárdio ou doença renal crônica.&lt;/p&gt;
-
-&lt;p&gt;Diminuem a PA reduzindo a RVP sem aumentar reflexamente o DC, a FC ou a contratilidade cardíaca. Esses fármacos bloqueiam a ECA que hidrolisa a angiotensina I para formar o &lt;strong&gt;potente vasoconstritor angiotensina II&lt;/strong&gt;. A ECA também é responsável pela degradação da &lt;strong&gt;bradicinina&lt;/strong&gt;, &lt;span class=&quot;blue&quot;&gt;um peptídeo que aumenta a produção de óxido nítrico e prostaciclinas nos vasos sanguíneos&lt;/span&gt;. Ambos, óxido nítrico e prostaciclinas, são potentes vasodilatadores. Os IECAs diminuem os níveis de angiotensina II e aumentam os de bradicinina. Ocorre vasodilatação de arteríolas e veias como resultado da menor vasoconstrição causada pela redução dos níveis de angiotensina II e maior vasodilatação devido ao aumento da bradicinina. Reduzindo os níveis de angiotensina II circulante, os IECAs também &lt;strong&gt;diminuem a secreção de aldosterona&lt;/strong&gt;, resultando em menor retenção de sódio e água (diminuem a volemia). Os IECAs &lt;span class=&quot;blue&quot;&gt;diminuem a pré-carga e a pós-carga&lt;/span&gt; cardíaca, reduzindo, assim, o trabalho cardíaco.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/farmaco/ieca2.jpeg&quot; alt=&quot;BB&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;usos-terapêuticos&quot;&gt;Usos terapêuticos&lt;/h3&gt;
-
-&lt;p&gt;Como os BRAs, os IECAs retardam a progressão da nefropatia diabética e diminuem a albuminúria. Por isso, são &lt;strong&gt;fortemente indicados para uso em pacientes com nefropatia diabética&lt;/strong&gt;. Os efeitos benéficos na função renal podem resultar da diminuição da pressão intraglomerular devido à vasodilatação da arteríola eferente.&lt;/p&gt;
-
-&lt;p&gt;Os IECAs são usados no cuidado de pacientes após infarto do miocárdio e são fármacos de primeira escolha no tratamento de pacientes com disfunções sistólicas. O tratamento crônico com IECAs obtém redução sustentada da pressão arterial, regressão da hipertrofia ventricular esquerda e &lt;strong&gt;prevenção do remodelamento ventricular&lt;/strong&gt;, após infarto do miocárdio.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;São os fármacos de primeira escolha para tratar a insuficiência cardíaca&lt;/strong&gt;, os pacientes hipertensos &lt;strong&gt;com doença renal crônica&lt;/strong&gt; e os pacientes com &lt;strong&gt;risco elevado de doença arterial coronariana&lt;/strong&gt;. Todos os IECAs são igualmente eficazes no
-tratamento da hipertensão, em doses equivalentes.&lt;/p&gt;
-
-&lt;p&gt;Posologias:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Captopril:&lt;/strong&gt; 12,5 a 25 mg de 8/8 horas;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Enalapril:&lt;/strong&gt; 5, 10 e 20 mg, 1 vez ao dia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lisonipril:&lt;/strong&gt; 5, 10 e 20 mg, 1 vez ao dia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ramipril:&lt;/strong&gt; 2,5 a 5 mg, 1 vez ao dia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;efeitos-adversos-1&quot;&gt;Efeitos adversos&lt;/h3&gt;
-
-&lt;p&gt;Os efeitos adversos comuns incluem:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Tosse seca:&lt;/strong&gt; em cerca de 10% dos pacientes, parece ser decorrente do aumento dos níveis de bradicinina e substância P na árvore pulmonar e melhora dentro de poucos dias após a interrupção;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Exantema&lt;/strong&gt;;&lt;/li&gt;
-  &lt;li&gt;Febre;&lt;/li&gt;
-  &lt;li&gt;Alteração do paladar;&lt;/li&gt;
-  &lt;li&gt;Hipotensão (em estados hipovolêmicos);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hiperpotassemia:&lt;/strong&gt; monitorar os niveis de potássio!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Podem induzir malformações fetais e não devem ser usados em gestantes!!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/farmaco/ieca.jpeg&quot; alt=&quot;BB&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;bloqueadores-do-receptor-at1-da-angiotensina-ii&quot;&gt;Bloqueadores do receptor AT1 da angiotensina II&lt;/h2&gt;
-
-&lt;p&gt;Os BRAs como &lt;strong&gt;losartana&lt;/strong&gt; e &lt;strong&gt;irbesartana&lt;/strong&gt; são &lt;span class=&quot;blue&quot;&gt;alternativas aos IECAs&lt;/span&gt;. Esses fármacos bloqueiam os receptores AT1, diminuindo a sua ativação pela angiotensina II.&lt;/p&gt;
-
-&lt;p&gt;Seus efeitos farmacológicos são similares aos dos IECAs por produzirem dilatação arteriolar e venosa e bloqueio da secreção de aldosterona, reduzindo, assim, a PA e diminuindo a retenção de sal e água.&lt;/p&gt;
-
-&lt;p&gt;Os BRAs &lt;strong&gt;não aumentam os níveis de bradicinina&lt;/strong&gt; (e por isso causam menos tosse). Eles podem ser usados como fármacos de primeira escolha para o tratamento da hipertensão, especialmente em pacientes com forte indicação de diabetes, insuficiência cardíaca ou doença renal crônica. Os efeitos adversos são semelhantes aos dos IECAs, embora o risco de tosse e angioedema seja significativamente menor.&lt;/p&gt;
-
-&lt;p&gt;Posologia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Losartan (_Cozaar, Aradois, Zarpress): 50 e 100 mg, 1 comp ao dia;&lt;/li&gt;
-  &lt;li&gt;Valsartan (&lt;em&gt;Diovan&lt;/em&gt;): 80, 160 e 320 mg, 1 comp ao dia;&lt;/li&gt;
-  &lt;li&gt;Telmisartan (&lt;em&gt;Micardis&lt;/em&gt;): 40 e 80 mg), 1 comp ao dia;&lt;/li&gt;
-  &lt;li&gt;Candersatan (&lt;em&gt;Atacand&lt;/em&gt;): 8 e 16 mg, 1 comp ao dia;&lt;/li&gt;
-  &lt;li&gt;Ibersatana (&lt;em&gt;Aprovel&lt;/em&gt;): 150 e 300 mg, 1 comp ao dia;&lt;/li&gt;
-  &lt;li&gt;Olmersartan (&lt;em&gt;Benicar&lt;/em&gt;): 20 e 40 mg, 1 comp ao dia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Efeitos adversos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tonturas;&lt;/li&gt;
-  &lt;li&gt;Reação de hipersensibilidade;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hiperpotassemia&lt;/strong&gt; em pacientes com IRC ou uso de espironolactona.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Não devem ser associados com IECA para o tratamento da hipertensão devido à similaridade de mecanismo e de efeitos adversos. Também são teratogênicos e não devem ser usados em gestantes!!&lt;/p&gt;
-
-&lt;h2 id=&quot;inibidores-da-renina&quot;&gt;Inibidores da renina&lt;/h2&gt;
-
-&lt;p&gt;O inibidor seletivo da renina, &lt;strong&gt;alisquireno&lt;/strong&gt;, está disponível para o tratamento
-da hipertensão. Inibe diretamente a renina e, assim, atua mais precocemente no sistema renina-angiotensina-aldosterona do que os IECAs ou os BRAs. Ele reduz a PA com eficácia similar à dos BRAs, IECAs e tiazídicos.&lt;/p&gt;
-
-&lt;p&gt;O alisquireno não deve ser usado rotineiramente associado com IECA ou BRA. Pode causar diarreia, especialmente em doses altas, e pode causar também tosse e angioedema, mas possivelmente menos do que com IECAs.&lt;/p&gt;
-
-&lt;p&gt;Como os IECAs e os BRAs, o aliquireno é contraindicado durante a gestação. O aliquireno é biotransformado pela CYP3A4 e é sujeito a interações de fárma Considerar características individuais do paciente:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;DIABETES: inibidores da ECA
-2.
- DOENÇA CORONARIANA: betabloqueadores
-3.
- RAÇA NEGRA: diuréticos e bloqueadores dos canais do cálcio
-4.
- INSUFICIÊNCIA CARDÍACA: inibidores da ECA
-5.
- HAS SISTÓLICA ISOLADA NOS IDOSOS: diuréticos e bloqueadores dos
-canais do cálcio
-cos.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;bloqueadores-dos-canais-de-cálcio&quot;&gt;Bloqueadores dos canais de cálcio&lt;/h2&gt;
-
-&lt;p&gt;Os BCCs são uma opção de tratamento recomendado para hipertensos com diabetes ou angina. A concentração intracelular de cálcio tem um papel importante na manutenção do tônus da musculatura lisa e na contração do miocárdio. O cálcio entra nas células musculares através de canais de cálcio voltagem-sensíveis. Isso dispara a liberação de cálcio do retículo sarcoplasmático e da mitocôndria, aumentando adicionalmente o nível de cálcio citosólico. Os antagonistas de canais de cálcio bloqueiam a entrada de cálcio por se ligarem aos canais de cálcio do tipo L no coração e nos músculos lisos dos vasos coronarianos e arteriolares periféricos. Isso causa o relaxamento do músculo liso vascular, dilatando principalmente as arteríolas. Os BCCs não dilatam veias.&lt;/p&gt;
-
-&lt;p&gt;Doses elevadas de BCCs de curta duração devem ser evitadas devido ao maior risco de infarto do miocárdio por vasodilatação excessiva e acentuada estimulação cardíaca reflexa.&lt;/p&gt;
-
-&lt;p&gt;Os BCCs são divididos em três classes químicas, cada uma com propriedades farmacocinéticas e indicações clínicas diferentes:&lt;/p&gt;
-
-&lt;h3 id=&quot;fenilalquilaminas&quot;&gt;Fenilalquilaminas&lt;/h3&gt;
-
-&lt;p&gt;O &lt;strong&gt;verapamil&lt;/strong&gt; é o único representante dessa classe disponível nos EUA. É o menos seletivo dos BCCs e apresenta efeitos significativos nas células cardíacas e no músculo liso vascular. Ele é usado também no tratamento da angina e das taquiarritmias supraventriculares, bem como para prevenir a enxaqueca e a cefaleia em salvas.&lt;/p&gt;
-
-&lt;h3 id=&quot;benzotiazepínico&quot;&gt;Benzotiazepínico&lt;/h3&gt;
-
-&lt;p&gt;O &lt;strong&gt;diltiazem&lt;/strong&gt; é o único membro dessa classe que está aprovado nos EUA atualmente. Como o verapamil, o diltiazem afeta tanto as células cardíacas quanto as do músculo liso vascular, mas apresenta efeito inotrópico cardíaco negativo menos pronunciado comparado ao efeito do verapamil. O diltiazem apresenta um perfil de efeitos adversos favorável.&lt;/p&gt;
-
-&lt;h3 id=&quot;di-hidropiridinas&quot;&gt;Di-hidropiridinas&lt;/h3&gt;
-
-&lt;p&gt;Esta classe de BCCs inclui &lt;strong&gt;nifedipino&lt;/strong&gt; (o protótipo), &lt;strong&gt;anlodipino&lt;/strong&gt;, felodipino, isradipino, nicardipino e nisoldipino. Esses fármacos diferem na farmacocinética, nos usos aprovados e nas interações farmacológicas.&lt;/p&gt;
-
-&lt;p&gt;Todas as di-hidropiridinas apresentam muito maior afinidade pelos canais de cálcio vasculares do que pelos canais de cálcio do coração. Elas são, por isso, particularmente benéficas no tratamento da hipertensão. As di-hidropiridinas têm a vantagem de interagir pouco com outros fármacos cardiovasculares, como a digoxina ou a varfarina, que são frequentemente usados em conjunto com BCCs.&lt;/p&gt;
-
-&lt;h3 id=&quot;usos-terapêuticos-1&quot;&gt;Usos terapêuticos&lt;/h3&gt;
-
-&lt;p&gt;No tratamento da hipertensão, os BCCs podem ser usados como tratamento inicial ou adicional. Eles &lt;strong&gt;são úteis no tratamento de pacientes hipertensos que também têm asma, diabetes e/ou doença vascular periférica&lt;/strong&gt; porque, diferentemente dos BBs, eles não têm potencial de afetar adversamente essas condições. Todos os BCCs são úteis no
-tratamento da angina. Além disso, &lt;strong&gt;diltiazem e verapamil são usados no tratamento da fibrilação atrial&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Posologia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Nifedipina:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Adalat&lt;/em&gt;: 10 mg 1 comp sublingual (fora de uso);&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Adalat retard&lt;/em&gt;: 10 e 20 mg, 1 comp de 12/12 horas (fora de uso);&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Adalat oros&lt;/em&gt;: 30 e 60 mg, 1 comp ao dia.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Anlodipino  (&lt;em&gt;Norvasc, Pressat, Anlo, Anlovasc…&lt;/em&gt;): 1 comp ao dia;&lt;/li&gt;
-  &lt;li&gt;Manidipino (&lt;em&gt;Manivasc&lt;/em&gt;): 10 e 20 mg, 1 comp ao dia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;efeitos-adversos-2&quot;&gt;Efeitos adversos&lt;/h3&gt;
-
-&lt;p&gt;Bloqueio atrioventricular de primeiro grau e constipação são efeitos adversos dose-dependentes do verapamil. Verapamil e diltiazem devem ser evitados em pacientes com insuficiência cardíaca congestiva ou com bloqueio atrioventricular, devido aos efeitos inotrópicos (força de contração do músculo cardíaco) e dromotrópicos (velocidade de condução) negativos.&lt;/p&gt;
-
-&lt;p&gt;Tontura, cefaleia e sensação de fadiga causada pela redução da pressão arterial ocorrem mais frequentemente com di-hidropiridinas. &lt;span class=&quot;red&quot;&gt;Edema periférico&lt;/span&gt; é outro efeito adverso comumente registrado desta classe. Nifedipina e outras di-hidropiridinas podem causar hiperplasia gengival.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fenilalquilaminas e benzotiazepinas: depressão miocárdicae bloqueios AV;&lt;/li&gt;
-  &lt;li&gt;Di-hidropiridinas: cefaléia, rubor, edema MMII.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/farmaco/bcc.jpeg&quot; alt=&quot;BCC&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;vasodilatadores&quot;&gt;Vasodilatadores&lt;/h2&gt;
-
-&lt;p&gt;Como a &lt;strong&gt;hidralazina&lt;/strong&gt; e o &lt;strong&gt;minoxidil&lt;/strong&gt;, &lt;span class=&quot;blue&quot;&gt;não são usados como fármacos primários&lt;/span&gt; no tratamento da hipertensão. Produzem relaxamento do músculo liso vascular, primariamente em artérias e arteríolas. Isso resulta em &lt;span class=&quot;green&quot;&gt;diminuição da resistência periférica&lt;/span&gt; e, por isso, da PA.&lt;/p&gt;
-
-&lt;p&gt;Esses fármacos produzem estimulação reflexa do coração, resultando em aumentos reflexos da contratilidade miocárdica, da frequência cardíaca e do consumo de oxigênio. Essas ações &lt;strong&gt;podem causar angina pectoris&lt;/strong&gt;, infarto do miocárdio ou insuficiência cardíaca em indivíduos predispostos.&lt;/p&gt;
-
-&lt;p&gt;Os vasodilatadores também aumentam a concentração plasmática de renina, causando retenção de sódio e água. Esses efeitos indesejados podem ser bloqueados pelo uso concomitante de um diurético e um β-bloqueador. &lt;strong&gt;Por exemplo, a hidralazina é administrada quase sempre em associação com um β-bloqueador&lt;/strong&gt;, como propranolol, metoprolol ou atenolol (&lt;span class=&quot;green&quot;&gt;para compensar a taquicardia reflexa&lt;/span&gt;), &lt;strong&gt;e um diurético&lt;/strong&gt; (&lt;span class=&quot;green&quot;&gt;para reduzir a retenção de sódio&lt;/span&gt;). Juntos, os três fármacos diminuem o débito cardíaco, o volume plasmático e a resistência vascular periférica.&lt;/p&gt;
-
-&lt;h3 id=&quot;hidralazina&quot;&gt;Hidralazina&lt;/h3&gt;
-
-&lt;p&gt;Tem uso limitado, devido ao aumento da atividade simpática, sendo reservado para casos de HAS grave, geralmente como terceira associação, ou em casos especiais (gestação e emergências hipertensivas).&lt;/p&gt;
-
-&lt;p&gt;Efeitos adversos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cefaleia;&lt;/li&gt;
-  &lt;li&gt;Taquicardia e palpitações;&lt;/li&gt;
-  &lt;li&gt;Náusea;&lt;/li&gt;
-  &lt;li&gt;Sudoração;&lt;/li&gt;
-  &lt;li&gt;Arritmia;&lt;/li&gt;
-  &lt;li&gt;Precipitação de angina;&lt;/li&gt;
-  &lt;li&gt;Parestesias;&lt;/li&gt;
-  &lt;li&gt;Reação lupus-like (reversível com a retirada).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Posologia: 25 a 200 mg/dia divididos em 2-4 tomadas.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;minoxidil&quot;&gt;Minoxidil&lt;/h3&gt;
-
-&lt;p&gt;Rapidamente absorvido por VO, atingindo sua “cpm” após 1 hora. Provoca intensa retenção de NA e água e por isso tem uso restrito a casos graves de HAS resistente, sempre associado a diuréticos.&lt;/p&gt;
-
-&lt;p&gt;Efeitos adversos: hipertricose (usado topicamente no tratamento da calvície).&lt;/p&gt;
-
-&lt;h2 id=&quot;escolha-inicial-do-anti-hipertensivo-aula&quot;&gt;Escolha inicial do anti-hipertensivo (aula)&lt;/h2&gt;
-
-&lt;p&gt;Considerar características individuais do paciente:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;DIABETES: IECA;&lt;/li&gt;
-  &lt;li&gt;DOENÇA CORONARIANA: BB;&lt;/li&gt;
-  &lt;li&gt;RAÇA NEGRA: DIU e BCC;&lt;/li&gt;
-  &lt;li&gt;INSUFICIÊNCIA CARDÍACA: IECA;&lt;/li&gt;
-  &lt;li&gt;HAS SISTÓLICA ISOLADA NOS IDOSOS: DIU e BCC.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Patologias da aorta</title><link href="http://localhost:4000/cardiologia/doencas-da-aorta.html" rel="alternate" type="text/html" title="Patologias da aorta" /><published>2019-10-31T00:00:00-03:00</published><updated>2019-10-31T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/doencas-da-aorta</id><content type="html" xml:base="http://localhost:4000/cardiologia/doencas-da-aorta.html">&lt;ul&gt;
-  &lt;li&gt;Aneurismas&lt;/li&gt;
-  &lt;li&gt;Dissecções&lt;/li&gt;
-  &lt;li&gt;Pseudoanerismas&lt;/li&gt;
-  &lt;li&gt;Úlcera penetrante&lt;/li&gt;
-  &lt;li&gt;Hematoma intramural&lt;/li&gt;
-  &lt;li&gt;Ateromatose&lt;/li&gt;
-  &lt;li&gt;Carctação&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;aneurisma-de-aorta&quot;&gt;Aneurisma de aorta&lt;/h1&gt;
-
-&lt;p&gt;Dilatação do diametro superior a 50% do diametro original. Dilatações abaixo desse percentual são chamados de ectasias (lesões pré-aneurismáticas). Surge devido à constante tensão hidrodinâmica na parede da aorta enfraquecida. O aneurisma verdadeiro é quando acometece todas as camadas da artéria.&lt;/p&gt;
-
-&lt;p&gt;Um dos fatores de risco são pacientes com hipertensão arterial sistêmica (assim como para a dissecção). Doenças de deficiência do metabolismo do colágeno também são fatores de risco, como síndrome de Marfan, Ehlers-Danlos, etc. Doenças infecciosas sistêmicas também são fatores de risco, como a sífilis que pode formar o aneurisma sifilítico.&lt;/p&gt;
-
-&lt;p&gt;Tabagismo é o principal fator de risco!&lt;/p&gt;
-
-&lt;p&gt;Etiologia:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Congenita: Marfan, Ehlers-Danlos;&lt;/li&gt;
-  &lt;li&gt;Degenerativa: ateroscloerose, necrose cística da intima;&lt;/li&gt;
-  &lt;li&gt;Inflamatória: Takayassu, Behcet, Kawasaki, arterite de células gigantes;&lt;/li&gt;
-  &lt;li&gt;Infecciosa: arterite fungica/bactteriana (aortite sifilítica)&lt;/li&gt;
-  &lt;li&gt;Pós-traumática;&lt;/li&gt;
-  &lt;li&gt;Pós-cirurgia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A forma pode ser fusiforme ou sacular.&lt;/p&gt;
-
-&lt;p&gt;É sempre importante determinar a localização e a topografia. Vai diferenciar a conduta a ser adotada.&lt;/p&gt;
-
-&lt;p&gt;Apresentação clínica:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Assintomáticos: na maioria das vezes&lt;/li&gt;
-  &lt;li&gt;Achado incidental&lt;/li&gt;
-  &lt;li&gt;Complicações
-    &lt;ul&gt;
-      &lt;li&gt;Dissecção: dor aguda extrema&lt;/li&gt;
-      &lt;li&gt;Rotura&lt;/li&gt;
-      &lt;li&gt;Embolização&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Depende da localização:
-    &lt;ul&gt;
-      &lt;li&gt;Sintomas compressivos: rouquidão, disfagia, tosse e pnuemonias de repetição (compressão do brônquio), desconforto abdominal;&lt;/li&gt;
-      &lt;li&gt;Acometimento de estruturas adjacentes (valva aórtica como IAo, compressão nervosa)&lt;/li&gt;
-      &lt;li&gt;Massa palpavel pulsatil (abdominal)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Exames complementares:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Angiotomografia é o padrão ouro, com maior especificidade e sensibilidade;&lt;/li&gt;
-  &lt;li&gt;Aortografia: muito usada no passado, menor especificidade e sensibilidade que a angio-TC, além de ser de mais difícil realização;&lt;/li&gt;
-  &lt;li&gt;Ecocardiograma: também muito bom, mas é operador dependente e de mais difícil acesso;&lt;/li&gt;
-  &lt;li&gt;RNM: muito boa, também.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Rastreio: só é feito pensando mais no aneurisma de aorta abdominal. Faz-se com ultrassonografia abdominal.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Idade &amp;gt; 60 anos&lt;/li&gt;
-  &lt;li&gt;HAS&lt;/li&gt;
-  &lt;li&gt;DLP&lt;/li&gt;
-  &lt;li&gt;Tabagismo&lt;/li&gt;
-  &lt;li&gt;DM&lt;/li&gt;
-  &lt;li&gt;4-6% da população&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;conduta&quot;&gt;Conduta:&lt;/h2&gt;
-
-&lt;h3 id=&quot;ascendente&quot;&gt;Ascendente&lt;/h3&gt;
-
-&lt;p&gt;Diâmetro acima de 5,5 cm já se indica a cirúrgia.&lt;/p&gt;
-
-&lt;p&gt;Conservador: diametro &amp;lt; 5,5 (5,0 para pacientes com Marfan ou Ehlers-Danlos)
-Consiste no controle pressórico, controle de FC, controle do perfil lipídico e acompanhamento anual. Se a velocidade de crescimento for maior que 1 cm por ano então está indicada a cirurgia (maior risco de rotura).&lt;/p&gt;
-
-&lt;p&gt;Cirúrgico:&lt;/p&gt;
-
-&lt;p&gt;diâmetro &amp;gt; 5,5 cm (&amp;gt; 5,0 com Marfan ou Ehlers-Danlos), IAo ou complicações.
-Se a valva estiver acometida é necessário, também, troca-lá.&lt;/p&gt;
-
-&lt;h3 id=&quot;arco&quot;&gt;Arco&lt;/h3&gt;
-
-&lt;h3 id=&quot;descendente&quot;&gt;Descendente&lt;/h3&gt;
-
-&lt;p&gt;Também pode-se optar por uma endoprótese por via endovascular.&lt;/p&gt;
-
-&lt;h3 id=&quot;toraco-abdmonal&quot;&gt;Toraco-abdmonal&lt;/h3&gt;
-
-&lt;p&gt;O procecimento mais complexo&lt;/p&gt;
-
-&lt;h3 id=&quot;infra-renal&quot;&gt;Infra-renal&lt;/h3&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Aneurismas Dissecções Pseudoanerismas Úlcera penetrante Hematoma intramural Ateromatose Carctação</summary></entry><entry><title type="html">Tumores de mediastino</title><link href="http://localhost:4000/cirurgia/tumores-de-mediastino.html" rel="alternate" type="text/html" title="Tumores de mediastino" /><published>2019-10-31T00:00:00-03:00</published><updated>2019-10-31T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/tumores-de-mediastino</id><content type="html" xml:base="http://localhost:4000/cirurgia/tumores-de-mediastino.html">&lt;p&gt;Na maioria dos casos é no mediastino antero-superior.&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologias&quot;&gt;Etiologias&lt;/h2&gt;
-
-&lt;h3 id=&quot;mediastino-antero-superior&quot;&gt;Mediastino antero-superior&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Timoma:&lt;/strong&gt; o mais comum (50%) e mesmo assim é incomum. A incidência aumento a partir dos 40 anos, não tem predileção por sexo e dificilmente causa sintomas.
-    &lt;ul&gt;
-      &lt;li&gt;Existe uma relação entre &lt;em&gt;miastenia gravis&lt;/em&gt; e o timoma (30-65%);&lt;/li&gt;
-      &lt;li&gt;10% dos pacientes com miastenia gravis vão ter timoma;&lt;/li&gt;
-      &lt;li&gt;Crescimento lento mas muito invasivo&lt;/li&gt;
-      &lt;li&gt;Tumor maligno&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Terrível linfoma:&lt;/strong&gt; é um grupo muito heterogêneo e de muitas apresentações clínicas e de diferentes prognósticos.
-    &lt;ul&gt;
-      &lt;li&gt;50% são de Hodgkin (o subtipo esclerose nodular é o mais comum)&lt;/li&gt;
-      &lt;li&gt;20% são não-Hodgkin&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Teratoma:&lt;/strong&gt; a ressecção é curativa! Um tumor benigno encapsulado.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Seminoma:&lt;/strong&gt; é um tumor homogêneo, geralmente com b-HCG e a-FP negativos ou moderadamente elevados. É um tumor altamente quimio e radio-sensível. Ou seja, o tratamento inicial não é cirúrgico! A cirurgia fica reservada aos casos de doença residual pós neoadjuvância.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Não-seminomatosos:&lt;/strong&gt; b-HCG e a-FP bem elevados. Parecem com os seminomas mas são mais heterogêneos e não respondem bem à quimio e radio. O tratamento é a ressecção sequida por quimio e radio.&lt;/p&gt;
-
-&lt;h3 id=&quot;mediastino-médio&quot;&gt;Mediastino médio&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cistos mediastinais: crianças são mais sintomáticas que os adultos. O tratamento é sempre cirúrgico.
-    &lt;ul&gt;
-      &lt;li&gt;Cistos broncogênicos&lt;/li&gt;
-      &lt;li&gt;Cistosentéricos&lt;/li&gt;
-      &lt;li&gt;Cistos pericárdicos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Linfangioma: associação com quilotórax&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;mediastino-posterior&quot;&gt;Mediastino posterior&lt;/h3&gt;
-
-&lt;p&gt;Maioria são assintomáticos&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tumores neurogênicos: em adultos a grande maioria são benignos, mas nas crianças tendem a ser mais malignos.
-    &lt;ul&gt;
-      &lt;li&gt;Tumores de baínha nervosa: neurilemoma (Schwannomas), neurofibromas&lt;/li&gt;
-      &lt;li&gt;Tumores do gânglio autonômico: ganglioneuroma (o tumor mediastinal benigno mais comum em crianças), ganglioneuroblastoma (comportamento intermediário entre o ganglioneuroma e o neuroblastoma, acomete mais crianças abaixo de 3 anos, a maioria é um achado acidental)&lt;/li&gt;
-      &lt;li&gt;Feocromocitoma&lt;/li&gt;
-      &lt;li&gt;Tumor de Askin&lt;/li&gt;
-      &lt;li&gt;Tumores originários dos nervos&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Goteira costovertebral&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;Geralmente são assintomáticos mas, quando se manifestam, são relacionados à localização:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Via aérea: dispnéia, tosse&lt;/li&gt;
-  &lt;li&gt;Parece torácica: dor torácica&lt;/li&gt;
-  &lt;li&gt;Esôfago: disfagia, regurgitação&lt;/li&gt;
-  &lt;li&gt;Veia cava: sindrome da veia cava superior&lt;/li&gt;
-  &lt;li&gt;Nervo frênico: paralisia diafragmática&lt;/li&gt;
-  &lt;li&gt;Nervo laríngeo recorrente: disfonia&lt;/li&gt;
-  &lt;li&gt;Gânglio estrelado: sindrome de Claude-Bernard-Horner.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;A tomografia com constraste é o exame padrão ouro.&lt;/p&gt;
-
-&lt;h3 id=&quot;laboratório&quot;&gt;Laboratório&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;AFP e Beta-HCG: marcadores de tumores de células germinativas&lt;/li&gt;
-  &lt;li&gt;PTH: na investigação por tumores da paratireóide (podendo ser ectópico).&lt;/li&gt;
-  &lt;li&gt;Catecolaminas plasmáticase urinárias: feocromocitoma&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;biópsia&quot;&gt;Biópsia&lt;/h3&gt;
-
-&lt;p&gt;É o exame que vai confirmar o diagnóstico. Pode ser feita por broncoscopia, EBUS (um USG no broncoscópio), EUS, punção percutânea transtorácica, mediastinoscopia, videotoracoscopia (o melhor). Nos dias de hoje, uma toracotomia para biópsia é inaceitável.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Normalmente a conduta é a ressecção. Os linfomas e os tumores seminomatosos são exceções à escolha inicial de ressecção.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Na maioria dos casos é no mediastino antero-superior.</summary></entry><entry><title type="html">Cia</title><link href="http://localhost:4000/cia.html" rel="alternate" type="text/html" title="Cia" /><published>2019-10-30T00:00:00-03:00</published><updated>2019-10-30T00:00:00-03:00</updated><id>http://localhost:4000/cia</id><content type="html" xml:base="http://localhost:4000/cia.html">&lt;p&gt;Sopro sistólico em foco pulmonar com desdobramento fixo de B2&lt;/p&gt;
-
-&lt;p&gt;Ocorre por causa do shunt do sangue do átrio esquerdo (maior pressão) pro átrio direito (menor pressão). O maior débio sanguíneo do VD vai causar o desdobramento fixo de B2 e uma hipertrofia do VD.&lt;/p&gt;
-
-&lt;p&gt;Com o tempo, a hipertrofia do VD vai aumentar a força dessa câmera, mas com o tempo ele começa a dilatar pois chega na sua limitação de hipertrofia (o VD é mais fino). Isso vai aumentar muito a pressão no AD o que pode provocar uma inversão do fluxo da CIA que passa a ser do AD para o AE. Uma &lt;strong&gt;inversão do shunt&lt;/strong&gt; interatrial.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;eco-te&quot;&gt;ECO TE&lt;/h3&gt;
-
-&lt;p&gt;O eco trans-torácico é melhor para ver a CIA pois o transdutor está separado dos átrios apenas pela parede esofágica e pelas paredes dos átrios. É possível ver o canal da comunicação e dar o diagnóstico.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;clínico&quot;&gt;Clínico&lt;/h3&gt;
-
-&lt;p&gt;Indicado quando a cirúrgia não pode ser feita. Por exemplo, quando a pressão arterial pulmonar está muito alta. Se a cirurgia for feita nessa situação, o coração não terá força para vencer a pressão arterial pulmonar e terá congestão sistêmica constante.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">ECG III - Arritmias</title><link href="http://localhost:4000/cardiologia/ecg3.html" rel="alternate" type="text/html" title="ECG III - Arritmias" /><published>2019-10-29T00:00:00-03:00</published><updated>2019-10-29T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/ecg3</id><content type="html" xml:base="http://localhost:4000/cardiologia/ecg3.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#registro-de-rítmo&quot; id=&quot;markdown-toc-registro-de-rítmo&quot;&gt;Registro de rítmo&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#holter&quot; id=&quot;markdown-toc-holter&quot;&gt;Holter&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#frequência-cardíaca&quot; id=&quot;markdown-toc-frequência-cardíaca&quot;&gt;Frequência cardíaca&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#método-bizu&quot; id=&quot;markdown-toc-método-bizu&quot;&gt;Método bizu&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tipos-de-arritmia&quot; id=&quot;markdown-toc-tipos-de-arritmia&quot;&gt;Tipos de arritmia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#arritmias-de-origem-sinusal&quot; id=&quot;markdown-toc-arritmias-de-origem-sinusal&quot;&gt;Arritmias de origem sinusal&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#taquicardia-e-bradicardia-sinusal&quot; id=&quot;markdown-toc-taquicardia-e-bradicardia-sinusal&quot;&gt;Taquicardia e Bradicardia sinusal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#arritmia-sinusal&quot; id=&quot;markdown-toc-arritmia-sinusal&quot;&gt;Arritmia sinusal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#parada-sinusal-assistolia-e-batimentos-de-escape&quot; id=&quot;markdown-toc-parada-sinusal-assistolia-e-batimentos-de-escape&quot;&gt;Parada sinusal, assistolia e batimentos de escape&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#marca-passos-não-sinusais&quot; id=&quot;markdown-toc-marca-passos-não-sinusais&quot;&gt;Marca-passos não sinusais&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#parada-sinusal-versus-bloqueio-de-saída-sinusal&quot; id=&quot;markdown-toc-parada-sinusal-versus-bloqueio-de-saída-sinusal&quot;&gt;Parada sinusal versus bloqueio de saída sinusal&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ritmos-ectópicos&quot; id=&quot;markdown-toc-ritmos-ectópicos&quot;&gt;Ritmos ectópicos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ritmos-reentrantes&quot; id=&quot;markdown-toc-ritmos-reentrantes&quot;&gt;Ritmos reentrantes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#pausa-para-um-conceito&quot; id=&quot;markdown-toc-pausa-para-um-conceito&quot;&gt;Pausa para um conceito&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#arritmias-supraventriculares&quot; id=&quot;markdown-toc-arritmias-supraventriculares&quot;&gt;Arritmias supraventriculares&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;O coração em repouso bate com um ritmo regular, de &lt;strong&gt;60 a 100 vezes&lt;/strong&gt;
-por minuto. Como cada batimento se origina da despolarização do nó
-sinoatrial (SA), o ritmo cardíaco habitual do dia a dia é chamado ritmo
-sinusal normal. Qualquer outra ocorrência é chamada de &lt;strong&gt;arritmia&lt;/strong&gt; (ou,
-mais acuradamente, &lt;strong&gt;disritmia&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O termo arritmia se refere a qualquer distúrbio na &lt;strong&gt;frequência&lt;/strong&gt;, na &lt;strong&gt;regularidade&lt;/strong&gt;, no &lt;strong&gt;local&lt;/strong&gt; de origem ou na &lt;strong&gt;condução&lt;/strong&gt; do impulso elétrico cardíaco. Pode ser um único batimento aberrante (ou mesmo uma pausa prolongada entre batimentos) ou um distúrbio de ritmo sustentado que pode persistir por toda a
-vida do paciente.&lt;/p&gt;
-
-&lt;p&gt;Nem toda arritmia é anormal ou perigosa. Por exemplo, frequências cardíacas de 35 a 40 batimentos por minuto são comuns e bastante normais em atletas bem treinados. &lt;strong&gt;Batimentos anormais isolados, que se originam em qualquer outra parte do coração que não o nó SA, frequentemente ocorrem na maioria dos indivíduos saudáveis.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;Muitas arritmias passam despercebidas pelo paciente e são descobertas acidentalmente em um exame físico ou ECG de rotina.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Palpitações (acelerações e/ou desacelerações)&lt;/li&gt;
-  &lt;li&gt;Sintomas de baixo débito cardíaco (quando a arritmia compromete a função cardíaca);
-    &lt;ul&gt;
-      &lt;li&gt;Tontura&lt;/li&gt;
-      &lt;li&gt;Síncope&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Angina (arritmias rápidas podem aumentar as demandas de oxigênio do miocárdio e causar angina (dor torácica);&lt;/li&gt;
-  &lt;li&gt;Morte súbita&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O ECG tem se tornado cada vez mais útil para identificar condições que predispõem a arritmias malignas e morte súbita e permite, assim, o início de intervenções salvadoras antes do evento catastrófico. Essas condições podem ser herdadas ou adquiridas. Mais comuns entre elas são as anormalidades de repolarização que prolongam o intervalo QT, um substrato perigoso para arritmias potencialmente fatais (mais detalhes adiante).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;p&gt;O mnemônico &lt;strong&gt;HIS DEBE&lt;/strong&gt; deve lhe ajudar a lembrar dos fatores arritmogênicos que devem ser considerados sempre que se encontra um paciente com arritmia.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;H – Hipoxia:&lt;/strong&gt; um miocárdio privado de oxigênio é um miocárdio irritável. Distúrbios pulmonares, seja doença pulmonar crônica grave ou uma embolia pulmonar aguda, são fatores precipitantes importantes de arritmias cardíacas.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;I – Isquemia e irritabilidade:&lt;/strong&gt; a angina, mesmo sem a morte de células miocárdicas associada ao infarto, também é um fator precipitante importante. Ocasionalmente, miocardite, uma inflamação do músculo cardíaco geralmente causada por uma infecção viral, pode causar arritmias.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;S – Estimulação simpática:&lt;/strong&gt; o aumento do tônus simpático, por qualquer causa (hipertireoidismo, insuficiência cardíaca congestiva, nervosismo, exercício, etc.), pode produzir arritmias.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;D – Fármacos:&lt;/strong&gt; ironicamente, os próprios fármacos antiarrítmicos, como a quinidina, estão entre os principais culpados.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;E – Eletrólitos (distúrbios dos):&lt;/strong&gt; a hipocalemia e desequilíbrios do Ca e Mg podem induzir arritmias.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;B – Bradicardia:&lt;/strong&gt; uma FC muito lenta parece predispor a arritmias. Também é possível incluir a síndrome bradi-taqui (também chamada de síndrome do nó SA) nessa categoria.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;E – Estiramento:&lt;/strong&gt; a dilatação e a hipertrofia dos átrios e ventrículos podem produzir arritmias. Esse é um modo pelo qual a ICC e a doença valvular podem causar arritmias.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;registro-de-rítmo&quot;&gt;Registro de rítmo&lt;/h2&gt;
-
-&lt;p&gt;Um longo traçado de uma única derivação ou de múltiplas derivações. Qualquer derivação
-pode ser escolhida, mas, obviamente, faz sentido escolher a derivação
-que lhe fornece a maior quantidade de informações. O registro de ritmo
-torna muito mais fácil identificar qualquer irregularidade ou surtos intermitentes de atividade elétrica incomum.&lt;/p&gt;
-
-&lt;h3 id=&quot;holter&quot;&gt;Holter&lt;/h3&gt;
-
-&lt;p&gt;O paciente a usa por 24 a 48 horas e, durante esse período, é armazenado um registro completo
-do ritmo cardíaco do paciente. Este registro, posteriormente, é analisado para a presença de qualquer atividade arrítmica. O monitor pode usar uma ou, mais frequentemente, duas derivações (uma derivação
-precordial e uma dos membros). Claramente, quanto mais tempo durar a monitoração do paciente, maior a chance de detecção da arritmia. O diário do paciente pode, então, ser comparado com o registro do
-Holter para determinar se há uma correlação entre os sintomas do paciente e qualquer arritmia cardíaca subjacente.&lt;/p&gt;
-
-&lt;h2 id=&quot;frequência-cardíaca&quot;&gt;Frequência cardíaca&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Um quadrado pequeno (1 mm) = 0,04 s;&lt;/li&gt;
-  &lt;li&gt;Um quadrado grande (5 mm) = 0,2 s;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Cinco quadrados grandes, portanto, constituem 1 segundo.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;método-bizu&quot;&gt;Método bizu&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Encontre uma onda R que caia sobre, ou quase sobre, uma das linhas escuras.&lt;/li&gt;
-  &lt;li&gt;Conte o número de quadrados grandes até a próxima onda R.&lt;/li&gt;
-  &lt;li&gt;Determine a frequência em batimentos por minuto da seguinte maneira:
-    &lt;ul&gt;
-      &lt;li&gt;Se houver um quadrado grande entre ondas R sucessivas, então cada onda R é separada por 0,2 segundo. Portanto, no curso de 1 segundo, haverá cinco ciclos de atividade cardíaca (1 segundo dividido por 0,2 segundo) e em 1 minuto, 300 ciclos;&lt;/li&gt;
-      &lt;li&gt;Se houver dois quadrados grandes entre ondas R sucessivas, então cada onda R é separada por 0,4 segundo. Portanto, no curso de 1 segundo, haverá 2,5 ciclos de atividade cardíaca (1 segundo dividido por 0,4 segundo) e em 1 minuto, 150 ciclos;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Por inferência lógica:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Três quadrados grandes = 100 bpm;&lt;/li&gt;
-  &lt;li&gt;Quatro quadrados grandes = 75 bpm;&lt;/li&gt;
-  &lt;li&gt;Cinco quadrados grandes = 60 bpm;&lt;/li&gt;
-  &lt;li&gt;Seis quadrados grandes = 50 bpm.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Você pode obter as mesmas respostas dividindo 300 pelo  número de quadrados grandes entre as ondas R (p. ex., 300/4 = 75).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Uma acurácia ainda maior pode ser obtida contando o número total de quadrados pequenos entre as ondas R e dividindo 1.500 por este total.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tipos-de-arritmia&quot;&gt;Tipos de arritmia&lt;/h2&gt;
-
-&lt;p&gt;O coração é capaz apenas de cinco tipos básicos de distúrbio de ritmo:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Origem sinusal:&lt;/strong&gt; a atividade elétrica segue as vias de condução usuais que já foram delineadas, mas é muito rápida, muito lenta ou irregular;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ritmos ectópicos:&lt;/strong&gt; a atividade elétrica se origina de um foco que não o nó SA;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Arritmias reentrantes:&lt;/strong&gt; a atividade elétrica é aprisionada dentro de um circuito elétrico cuja forma e limites são determinados por várias características miocárdicas elétricas e anatômicas;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bloqueios de condução:&lt;/strong&gt; a atividade elétrica se origina no nó SA e segue a via habitual, mas encontra bloqueios e retardos inesperados;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Síndrome de pré-excitação:&lt;/strong&gt; a atividade elétrica segue vias de condução acessórias que contornam as vias normais, fornecendo um atalho elétrico ou um curto-circuito.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;arritmias-de-origem-sinusal&quot;&gt;Arritmias de origem sinusal&lt;/h2&gt;
-
-&lt;h3 id=&quot;taquicardia-e-bradicardia-sinusal&quot;&gt;Taquicardia e Bradicardia sinusal&lt;/h3&gt;
-
-&lt;p&gt;O ritmo sinusal normal é o ritmo normal do coração. A despolarização se origina espontaneamente dentro do nó SA. A frequência é regular e entre 60 e 100 batimentos por minuto (bpm). Se o ritmo se acelera
-além de 100 bpm, ele é chamado de &lt;strong&gt;taquicardia sinusal&lt;/strong&gt;; se ele fica abaixo de 60 bpm, é chamado de &lt;strong&gt;bradicardia sinusal&lt;/strong&gt;. Estas podem ser normais (como execício intenso ou atletas em repouso) ou patológicas.&lt;/p&gt;
-
-&lt;p&gt;A taquicardia sinusal pode ocorrer em pacientes com ICC ou doença pulmonar grave, ou pode ser o único sinal de hipertireoidismo. A bradicardia sinusal é o distúrbio de ritmo mais comum visto nos estágios iniciais do IAM; em indivíduos saudáveis, em outros aspectos, ela pode ser o resultado de um aumento do tônus vagal e pode causar desmaios.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/arritmia-sinusal.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;arritmia-sinusal&quot;&gt;Arritmia sinusal&lt;/h3&gt;
-
-&lt;p&gt;ECG irá revelar um compasso que parece, em todos os aspectos, ser um ritmo sinusal normal, exceto por ser discretamente irregular. Frequentemente, é um fenômeno normal, refletindo a variação na frequência cardíaca com a inspiração e a expiração. &lt;strong&gt;A inspiração acelera a frequência cardíaca e a expiração a reduz.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/insp.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;parada-sinusal-assistolia-e-batimentos-de-escape&quot;&gt;Parada sinusal, assistolia e batimentos de escape&lt;/h3&gt;
-
-&lt;p&gt;Ocorre quando o nó SA para de estimular o coração. Se nada mais acontecer, o ECG irá mostrar uma linha isoelétrica sem qualquer atividade elétrica, e o paciente morrerá. A inatividade elétrica prolongada é chamada &lt;strong&gt;assistolia&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Felizmente, a maioria das células miocárdicas têm a capacidade de se comportar como marca-passo cardíaco. O nó SA suprime as outras células de marca-passo por fornecer a sua onda de despolarização para o miocárdio antes que seus potenciais competidores possam completar a sua despolarização, de forma mais moderada, espontânea. Na parada sinusal, contudo, esses outros marca-passos podem entrar em ação como uma missão de resgate. Esses batimentos de resgate, que se originam fora do nó SA, são chamados &lt;strong&gt;batimentos de escape&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/batimento-de-escape.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;marca-passos-não-sinusais&quot;&gt;Marca-passos não sinusais&lt;/h3&gt;
-
-&lt;p&gt;Assim como o nó SA, que geralmente dispara entre 60 e 100 vezes por minuto, estas outras células de marca-passo potenciais têm o seu próprio ritmo intrínseco.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/marca-passos-não-sinusais.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cada um desses marca-passos não sinusais pode resgatar um nó SA
-inadequado fornecendo apenas um batimento de escape ou uma série
-contínua desses batimentos. De todos os mecanismos de escape disponíveis, o &lt;strong&gt;escape juncional&lt;/strong&gt; é, sem dúvida, o mais comum.&lt;/p&gt;
-
-&lt;p&gt;No escape juncional, a despolarização se origina próximo ao nó AV, e o padrão habitual de despolarização atrial não ocorre. Como resultado, não é vista uma onda P normal. Mais frequentemente, não há nenhuma onda P. Às vezes, contudo, pode ser vista uma onda P retrógrada, representando a despolarização atrial se movendo para trás, a partir do nó AV e para dentro dos átrios.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/escape-juncional.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;
-Uma observação especial para os encantados eletricamente: há uma forma
-pela qual a parada sinusal transitória e o bloqueio de saída sinusal podem,
-às vezes, ser distinguidos no ECG. Na parada sinusal, o reinício da atividade
-elétrica sinusal ocorre em qualquer momento aleatoriamente (o nó SA sim-
-plesmente recomeça a disparar). Contudo, no bloqueio de saída sinusal, o
-nó SA continua a disparar silenciosamente. Logo, quando o bloqueio cessa, o
-nó SA retoma a despolarização dos átrios após uma pausa que é um múltiplo
-inteiro do ciclo normal (exatamente uma onda P perdida, ou exatamente duas
-ondas P perdidas, ou mais).&lt;/p&gt;
-
-&lt;h3 id=&quot;parada-sinusal-versus-bloqueio-de-saída-sinusal&quot;&gt;Parada sinusal versus bloqueio de saída sinusal&lt;/h3&gt;
-
-&lt;p&gt;Como a despolarização do nó SA não é registrada no ECG, é impossível determinar se uma pausa sinusal prolongada é devida à parada sinusal ou à falha na transmissão da despolarização sinusal para fora do nó e para os átrios, uma situação chamada bloqueio de saída sinusal.&lt;/p&gt;
-
-&lt;p&gt;Você pode ouvir esses diferentes termos alternados de tempos em tempos,
-mas, para todos os propósitos, parada sinusal e bloqueio de saída sinusal
-significam a mesma coisa: há uma falha no mecanismo sinusal em fornecer a sua corrente para os tecidos adjacentes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/arritmias-sinusais.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Uma observação especial para os encantados eletricamente: há uma forma pela qual a parada sinusal transitória e o bloqueio de saída sinusal podem, às vezes, ser distinguidos no ECG. Na parada sinusal, o reinício da atividade elétrica sinusal ocorre em qualquer momento aleatoriamente (o nó SA simplesmente recomeça a disparar). Contudo, no bloqueio de saída sinusal, o nó SA continua a disparar silenciosamente. Logo, quando o bloqueio cessa, o nó SA retoma a despolarização dos átrios após uma pausa que é um múltiplo inteiro do ciclo normal (exatamente uma onda P perdida, ou exatamente duas ondas P perdidas, ou mais).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;ritmos-ectópicos&quot;&gt;Ritmos ectópicos&lt;/h2&gt;
-
-&lt;p&gt;Os ritmos ectópicos são ritmos anormais que se originam de outro lugar que não o nó SA. Desse modo, eles lembram batimentos de escape, mas, aqui, a abordagem é sobre ritmos sustentados, não apenas um ou alguns batimentos. Ritmos ectópicos podem ser causados por qualquer um dos fatores precipitantes descritos.&lt;/p&gt;
-
-&lt;p&gt;Em circunstâncias anormais, qualquer um dos outros marca-passos espalhados pelo coração pode ser acelerado, ou seja, estimulado para despolarizar cada vez mais rápido até que possa superar o mecanismo sinusal normal e estabelecer o seu próprio ritmo ectópico transitório ou sustentado.&lt;/p&gt;
-
-&lt;p&gt;Entre as causas mais comuns de aumento da automaticidade estão a intoxicação &lt;strong&gt;digitálica&lt;/strong&gt; e a &lt;strong&gt;estimulação beta-adrenérgica por terapias inalatórias&lt;/strong&gt; usadas para tratar asma e DPOC.&lt;/p&gt;
-
-&lt;h2 id=&quot;ritmos-reentrantes&quot;&gt;Ritmos reentrantes&lt;/h2&gt;
-
-&lt;p&gt;A segunda maior causa de arritmias não sinusais é chamada de reentrada. Representa um distúrbio da transmissão do impulso. O resultado é a criação de um foco de atividade elétrica anormal.&lt;/p&gt;
-
-&lt;p&gt;Normalmente, a condução passando por duas vias distintas deve ocorrer simultâneamente, na mesma velocidade. Contudo, se uma via for mais lenta que a outra (p. ex. danificada por doença isquêmica ou fibrose), a onda de despolarização será acelerada pela via rápida mas retida pela via lenta. E, quando o impulso chegar na via lenta, se ela já estiver repolarizada, pode ocorrer uma nova despolarização nos dois sentidos dessa via lenta.&lt;/p&gt;
-
-&lt;p&gt;À medida que o impulso elétrico gira por essa alça, ondas de despolarização são enviadas em todas as direções. Isso é chamado de &lt;strong&gt;alça de reentrada&lt;/strong&gt;, e ela se comporta como um circuito elétrico, fornecendo uma fonte de ativação elétrica que pode suprimir o mecanismo sinusal e comandar o coração.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/alca-de-reentrada.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Uma alça de reentrada pode variar significativamente em tamanho. Pode ser limitada em uma alça pequena dentro de um único local anatômico (p. ex., o nó AV), pode fazer uma alça por toda a câmara (o átrio ou o ventrículo) ou pode até mesmo envolver um átrio e um ventrículo se houver uma via acessória de condução conectando as duas
-câmaras.&lt;/p&gt;
-
-&lt;h2 id=&quot;pausa-para-um-conceito&quot;&gt;Pausa para um conceito&lt;/h2&gt;
-
-&lt;p&gt;Todas as arritmias não sinusais clinicamente importantes são de origem ectópica ou reentrante. Para avaliar qualquer distúrbio de ritmo em um ECG, você apenas precisa responder a quatro perguntas:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Há ondas P normais?&lt;/li&gt;
-  &lt;li&gt;Os complexos QRS são estreitos ou largos?&lt;/li&gt;
-  &lt;li&gt;Qual é a relação entre as ondas P e os complexos QRS?&lt;/li&gt;
-  &lt;li&gt;O ritmo é regular ou irregular?&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Para o ECG normal (ritmo sinusal normal), as respostas são fáceis:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Sim, há ondas P normais.&lt;/li&gt;
-  &lt;li&gt;Os complexos QRS são estreitos.&lt;/li&gt;
-  &lt;li&gt;Há uma onda P para cada complexo QRS.&lt;/li&gt;
-  &lt;li&gt;O ritmo é essencialmente regular.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Pois:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Há ondas P normais presentes?&lt;/strong&gt; Se a resposta é “sim”, se há ondas P de aspecto normal com um eixo da onda P normal, então a origem da arritmia é, quase certamente, dentro dos átrios.
-    &lt;ul&gt;
-      &lt;li&gt;Se não houver ondas P, então o ritmo deve se originar abaixo dos átrios, no nó AV ou nos ventrículos.&lt;/li&gt;
-      &lt;li&gt;A presença das ondas P com um eixo anormal pode refletir uma ativação retrógrada dos átrios por impulsos que se originam abaixo dos átrios, no nó AV ou nos ventrículos, ou seja, do fluxo de corrente de volta para os átrios através do nó AV ou de uma via acessória.&lt;/li&gt;
-      &lt;li&gt;Um eixo anormal da onda P não garante que a origem do ritmo esteja localizada abaixo dos átrios, enquanto um eixo normal da onda P é uma boa garantia de que o ritmo se origine acima do nó AV.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Os complexos QRS são estreitos (menos de 0,12 segundo de duração) ou largos (mais de 0,12 segundo de duração)?&lt;/strong&gt; Um complexo QRS estreito normal implica que a despolarização ventricular está progredindo ao longo das vias usuais (nó AV para o feixe de His, dele para os ramos e destes para as células de Purkinje).
-    &lt;ul&gt;
-      &lt;li&gt;Esse é o meio mais eficiente de condução, requerendo a menor quantidade de tempo. Dessa forma, o complexo QRS resultante tem curta duração (estreito). Um complexo QRS estreito, portanto, indica que a origem do ritmo deve ser no nó AV ou acima dele.&lt;/li&gt;
-      &lt;li&gt;Um complexo QRS amplo geralmente implica que a origem da despolarização ventricular está dentro dos próprios ventrículos. A despolarização é iniciada dentro do miocárdio ventricular, não do sistema de condução, e, assim,espalha-se muito mais lentamente.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Qual é a relação entre as ondas P e os complexos QRS?&lt;/strong&gt; Se as ondas P e os complexos QRS se correlacionam da forma normal um para um, com uma única onda P precedendo cada complexo QRS, então, quase certamente, o ritmo tem uma origem sinusal ou atrial.
-    &lt;ul&gt;
-      &lt;li&gt;Às vezes, contudo, os átrios e os ventrículos se despolarizam e contraem independentemente um do outro. Isso se manifestará no ECG por uma falta de correlação entre as ondas P e os complexos QRS: uma situação chamada dissociação AV.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;O ritmo é regular ou irregular?&lt;/strong&gt; Essa é, frequentemente, a característica mais imediatamente óbvia de um ritmo particular e é, às vezes, a mais crítica.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ritmo-sinusal.jpeg&quot; alt=&quot;Arritmia sinusal&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;arritmias-supraventriculares&quot;&gt;Arritmias supraventriculares&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;O tratamento da TB latente é feito apenas com isoniazida.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

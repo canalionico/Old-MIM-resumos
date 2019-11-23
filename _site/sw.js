@@ -31,6 +31,16 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/cardiologia/valvopatia-mitral.html',
+      
+        '/pneumologia/asma.html',
+      
+        '/cardiologia/crm.html',
+      
+        '/cardiologia/varizes-de-mmii.html',
+      
+        '/cardiologia/tvp.html',
+      
         '/cardiologia/ic-aguda.html',
       
         '/infectologia/leptospirose.html',
