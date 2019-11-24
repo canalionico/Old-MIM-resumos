@@ -17,6 +17,7 @@ body {
   margin: 0 0 0 0;
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
   text-align: left;
+  font-size: 1.2em;
 }
 
 .alert {
@@ -163,27 +164,18 @@ body {
 #markdown-toc::before {
     content: "Sumário";
     font-weight: bold;
-    font-family: 'Roboto', sans-serif;
+    font-size: 1.2rem;
 }
-// Using numbers instead of bullets for listing
 #markdown-toc {
   max-width: 300px;
   padding: 1.5em;
   padding-left: 2rem;
   margin-left: 1.5rem;
   display: inline-block;
-  background-color: #ebebeb;
+  border-color: black;
+  border: 1px solid;
   border-radius: 1rem;
-  li a, li { font-size: 15px
-  }
-  li {
-    list-style-type: disc;
-    line-height: 1.2em;
-      a {
-    text-decoration: none;
-    color: blue;
-    }
-  }
+  font-size: 1rem;
   a:hover {
     color: #686868;
   }
@@ -238,23 +230,14 @@ a {
 }
 table {
   border-collapse: collapse;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
 }
-td, th {
-  border: 0px solid #d1d1d1;
+th, td {
+  padding: 8px;
   text-align: left;
-  padding: 3px;
+  border-bottom: 1px solid #ddd;
 }
-th{
-  background-color: white;
-}
-tr:nth-child(even) {
-  background-color: #d1d1d1;
-}
-tr:nth-child(odd) {
-  background-color: #e0e0e0;
-}
+tr:hover {background-color:#f5f5f5;}
 .box {
   background-color: #ebebeb;
   padding: 1px 10px 1px 10px;
@@ -371,8 +354,7 @@ kbd {
   white-space: nowrap;
 }
 blockquote {
-  border-left: 6px solid #ebebeb;
-  padding-left: 15px;
+
 }
 img {
   max-width: 90%;
@@ -418,6 +400,18 @@ figure {
   border-top-left-radius: 1rem;
   margin-bottom: 0;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.footnote {
+  color: #0000EE;
+  :visited {
+    color: #551A8B;
+  }
+}
+a.footnote:before {   
+  content: "[";
+ }
+a.footnote:after {
+  content: "]";
 }
 
 
