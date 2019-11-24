@@ -525,6 +525,10 @@
 <lastmod>2019-10-10T00:00:00-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/cardiologia/insuficiencia-aortica.html</loc>
+<lastmod>2019-10-11T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/cardiologia/semiologia-cardiovascular.html</loc>
 <lastmod>2019-10-14T00:00:00-03:00</lastmod>
 </url>
@@ -597,6 +601,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/mapas/Abdome-agudo.pdf</loc>
-<lastmod>2019-10-05T17:52:32-03:00</lastmod>
+<lastmod>2019-10-19T22:36:56-03:00</lastmod>
 </url>
 </urlset>

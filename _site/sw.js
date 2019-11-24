@@ -65,6 +65,8 @@ self.addEventListener('install', function (event) {
       
         '/cardiologia/semiologia-cardiovascular.html',
       
+        '/cardiologia/insuficiencia-aortica.html',
+      
         '/cardiologia/principios-basicos-de-hemodinamica.html',
       
         '/cardiologia/hipertensao-arterial.html',
