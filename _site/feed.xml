@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-24T00:50:17-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Insuficiência mitral</title><link href="http://localhost:4000/cardiologia/insuficiencia-mitral.html" rel="alternate" type="text/html" title="Insuficiência mitral" /><published>2019-11-24T00:00:00-03:00</published><updated>2019-11-24T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/insuficiencia-mitral</id><content type="html" xml:base="http://localhost:4000/cardiologia/insuficiencia-mitral.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-24T17:52:45-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cardiopatia reumática</title><link href="http://localhost:4000/cardiologia/cardiopatia-reumatica.html" rel="alternate" type="text/html" title="Cardiopatia reumática" /><published>2019-11-24T00:00:00-03:00</published><updated>2019-11-24T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/cardiopatia-reumatica</id><content type="html" xml:base="http://localhost:4000/cardiologia/cardiopatia-reumatica.html">&lt;p&gt;Corrigir o texto do MED abaixo:&lt;/p&gt;
+
+&lt;p&gt;É importante compreender que a lesão mitral
+reumática mais comum no Brasil é a dupla
+disfunção não balanceada, isto é, estenose e
+insuficiência mitral em estágios diferentes de
+evolução. O que acontece é que na fase aguda
+da cardite reumática predomina o componente
+de insuficiência, enquanto na fase crônica pre-
+domina a estenose. Assim, boa parte dos por-
+tadores de estenose mitral reumática crônica
+possui algum grau de insuficiência mitral as-
+sociada (“a valva não abre direito, mas também
+não fecha direito”). Cerca de 2/3 dos pacientes
+são do sexo feminino.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Insuficiência mitral</title><link href="http://localhost:4000/cardiologia/insuficiencia-mitral.html" rel="alternate" type="text/html" title="Insuficiência mitral" /><published>2019-11-24T00:00:00-03:00</published><updated>2019-11-24T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/insuficiencia-mitral</id><content type="html" xml:base="http://localhost:4000/cardiologia/insuficiencia-mitral.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#bibliografia&quot; id=&quot;markdown-toc-bibliografia&quot;&gt;Bibliografia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -11,7 +25,14 @@ the anterolateral papillary muscle is usually supplied by
 both the left anterior descending artery and left circumflex
 artery.&lt;sup id=&quot;fnref:Harb2019&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
+&lt;p&gt;a principal causa é a degeneração sênil, seguida pela doença reumática e depois por doença isquêmica, endocardite e congênito.&lt;/p&gt;
+
 &lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Tarasoutchi F, Montera M, Grinberg M, et al. Diretriz brasileira de valvopatias - sbc 2011/ i diretriz interamericana de valvopatias - siac 2011. Arq Bras Cardiol. 2011;97(5):01-67. doi:10.1590/S0066-782X2011002000001.&lt;/li&gt;
+  &lt;li&gt;Baumgartner H, Falk V, Bax JJ, et al. 2017 ESC/EACTS Guidelines for the management of valvular heart disease. European Heart Journal. 2017;38(36):2739-2791. doi:10.1093/eurheartj/ehx391.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 
@@ -22,12 +43,19 @@ artery.&lt;sup id=&quot;fnref:Harb2019&quot;&gt;&lt;a href=&quot;#fn:Harb2019&qu
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Estenose mitral</title><link href="http://localhost:4000/cardiologia/estenose-mitral.html" rel="alternate" type="text/html" title="Estenose  mitral" /><published>2019-11-23T00:00:00-03:00</published><updated>2019-11-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/estenose-mitral</id><content type="html" xml:base="http://localhost:4000/cardiologia/estenose-mitral.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#anatomia&quot; id=&quot;markdown-toc-anatomia&quot;&gt;Anatomia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#patologia&quot; id=&quot;markdown-toc-patologia&quot;&gt;Patologia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#eletrocardiograma&quot; id=&quot;markdown-toc-eletrocardiograma&quot;&gt;Eletrocardiograma&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ecocardiograma&quot; id=&quot;markdown-toc-ecocardiograma&quot;&gt;Ecocardiograma&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#radiografia-de-tórax&quot; id=&quot;markdown-toc-radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ecocardiograma&quot; id=&quot;markdown-toc-ecocardiograma&quot;&gt;Ecocardiograma&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#teste-ergométrico&quot; id=&quot;markdown-toc-teste-ergométrico&quot;&gt;Teste ergométrico&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#cateterismo&quot; id=&quot;markdown-toc-cateterismo&quot;&gt;Cateterismo&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
@@ -36,8 +64,8 @@ artery.&lt;sup id=&quot;fnref:Harb2019&quot;&gt;&lt;a href=&quot;#fn:Harb2019&qu
   &lt;li&gt;&lt;a href=&quot;#tratamento-clínico&quot; id=&quot;markdown-toc-tratamento-clínico&quot;&gt;Tratamento clínico&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#diuréticos&quot; id=&quot;markdown-toc-diuréticos&quot;&gt;Diuréticos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#digitálicos&quot; id=&quot;markdown-toc-digitálicos&quot;&gt;Digitálicos&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#betabloqueadores&quot; id=&quot;markdown-toc-betabloqueadores&quot;&gt;Betabloqueadores&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#digitálicos&quot; id=&quot;markdown-toc-digitálicos&quot;&gt;Digitálicos&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#anticoagulação&quot; id=&quot;markdown-toc-anticoagulação&quot;&gt;Anticoagulação&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -52,34 +80,56 @@ artery.&lt;sup id=&quot;fnref:Harb2019&quot;&gt;&lt;a href=&quot;#fn:Harb2019&qu
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;A estenose mitral (EM) caracteriza-se pela resistência ao fluxo sanguíneo transmitral em razão do espessamento e da imobilidade dos folhetos valvares. É a doença valvar mais importante nos países subdesenvolvidos, em que a doença reumática responde por mais de 90% dos casos&lt;sup id=&quot;fnref:diretriz2017&quot;&gt;&lt;a href=&quot;#fn:diretriz2017&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, seguida pela etiologia congênita. O acometimento do folheto anterior é mais comum. Um mixoma também pode levar à EM.&lt;/p&gt;
+&lt;p&gt;A estenose mitral (EM) caracteriza-se pela resistência ao fluxo sanguíneo transmitral em razão do espessamento e da imobilidade dos folhetos valvares. É a doença valvar mais importante nos países subdesenvolvidos, em que a doença reumática responde por mais de 90% dos casos&lt;sup id=&quot;fnref:diretriz2017&quot;&gt;&lt;a href=&quot;#fn:diretriz2017&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, seguida pela etiologia congênita. O acometimento do folheto anterior é mais comum.&lt;/p&gt;
+
+&lt;p&gt;&lt;span class=&quot;revisado&quot;&gt;Revisado em 24/11/19&lt;/span&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
 
-&lt;p&gt;O aparelho da valva mitral é uma estrutura complexa que consiste em um anel, dois folhetos, três tipos de cordas tendíneas e dois músculos papilares dominantes.&lt;sup id=&quot;fnref:Harb2019&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&quot;anatomia&quot;&gt;Anatomia&lt;/h3&gt;
 
-&lt;p&gt;O acometimento valvar pela doença reumática cardíaca ocorre devido a uma resposta imune exagerada iniciada por reatividade cruzada entre um antígeno estreptocócico do grupo A e o tecido valvar. Apesar de qualquer valva poder ser lesada, a mitral é a mais acometida.&lt;sup id=&quot;fnref:Carapetis2005&quot;&gt;&lt;a href=&quot;#fn:Carapetis2005&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;O aparelho da valva mitral é uma estrutura complexa que consiste em um anel, dois folhetos, três tipos de cordas tendíneas e dois músculos papilares dominantes.&lt;sup id=&quot;fnref:Harb2019&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Localiza-se entre o átrio e o ventrículo esquerdos, se abrindo na diástole para permitir o enchimento ventricular e se fechando na sístole, impedindo o refluxo para o AE. Também na sístole, os músculos papilares se contraem, tensindo as cordoalhas e impedindo o prolapso da valva mitral para o interior do AE.&lt;/p&gt;
+
+&lt;p&gt;A área normal da valva mitral é em torno de 4 a 6 cm&lt;sup&gt;2&lt;/sup&gt;.&lt;sup id=&quot;fnref:Harb2019:1&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Em condições normais praticamente não há gradiente pressórico entre o AE e o VE (resistência desprezível ao fluxo sanguíneo), o coração esquerdo funciona como uma câmara única em termos de pressão no seu interior.&lt;/p&gt;
+
+&lt;p&gt;Quando a estenose é menor que 2,5 a 4 cm, um gradiente de diferença de pressão entre as duas câmaras esquerdas (AE-VE) começa a se formar. Antes desse diâmetro de estenose praticamente não há repercussão hemodinâmica.&lt;/p&gt;
+
+&lt;h3 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h3&gt;
+
+&lt;p&gt;O acometimento valvar pela cardiopatia reumática crônica ocorre devido a uma resposta imune exagerada iniciada por reatividade cruzada entre um antígeno estreptocócico do grupo A e o tecido valvar. Apesar de qualquer valva poder ser lesada, a mitral é a mais acometida.&lt;sup id=&quot;fnref:Carapetis2005&quot;&gt;&lt;a href=&quot;#fn:Carapetis2005&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Enquanto no Brasil e demais países em desenvolvimento a principal causa da estenose mitral (EM) é a febre reumática, nos países desenvolvidos observa-se aumento da incidência de EM degenerativa, associada à calcificação do anel mitral e que se desenvolve em pacientes idosos.&lt;sup id=&quot;fnref:diretriz2017:1&quot;&gt;&lt;a href=&quot;#fn:diretriz2017&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Outras possíveis causas são a congênita, as doenças infiltrativas (mucopolissacaridoses), endocardite infeccioa, lúpus eritematoso sistêmico, artrite reumatoide, estados serotoninérgicos (síndrome carcinoide), grande mixoma atrial, valvulite por radiação (10 a 20 anos radioterapia mediastinal).&lt;sup id=&quot;fnref:diretriz2007&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Harb2019:1&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Outras possíveis causas são a congênita, as doenças infiltrativas (mucopolissacaridoses), endocardite infeccioa, lúpus eritematoso sistêmico, artrite reumatoide, estados serotoninérgicos (síndrome carcinoide), grande mixoma atrial, valvulite por radiação (10 a 20 anos radioterapia mediastinal).&lt;sup id=&quot;fnref:diretriz2007&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Harb2019:2&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;A área normal da valva mitral é em torno de 4 a 6 cm&lt;sup&gt;2&lt;/sup&gt;.&lt;sup id=&quot;fnref:Harb2019:2&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Os principais achados anatomopatológicos da EM consistem no espessamento dos folhetos valvares, áreas de calcificação, fusão comissural e encurtamento de cordoalhas. A estenose é progressiva e a velocidade de evolução é proporcional à gravidade e número de insultos da cardite reumática.&lt;/p&gt;
+&lt;h3 id=&quot;patologia&quot;&gt;Patologia&lt;/h3&gt;
 
-&lt;p&gt;A taquicardia é prejudicial pois reduz o tempo de enchimento diastólico, levando a um aumento no gradiente transmral. O aumento do AE eleva o risco de fibrilação atrial e de tromboembolismo sistêmico. Também ocorre aumento da pressão pulmonar com formação de edema e hipertensão pulmonar. Com o tempo pode levar à falência do VD e insuficiência tricúspide por consequência. O deficiente enchimento do VE mantêm o organismo num estado de baixo débito.&lt;sup id=&quot;fnref:Harb2019:3&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Os principais achados anatomopatológicos da EM consistem no espessamento dos folhetos valvares, áreas de calcificação, fusão comissural e encurtamento de cordoalhas. A estenose é progressiva e a velocidade de evolução é proporcional à gravidade e número de insultos da cardite reumática. A  valva estenosada assume um aspécto de abertura em fenda descrita como “&lt;em&gt;boca de peixe&lt;/em&gt;”.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/cardiologia/heart.png&quot; alt=&quot;Coração&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;A obstrução ao deflúvio atrial gera um gradiente pressórico entre o átrio e o ventrículo esquerdos. A
-elevação da pressão atrial esquerda transmite-se de maneira retrógrada ao &lt;strong&gt;leito vascular pulmonar&lt;/strong&gt;, determinando &lt;strong&gt;congestão passiva local&lt;/strong&gt;, edema intersticial, hipertensão pulmonar e desenvolvimento progressivo de sintomas.&lt;sup id=&quot;fnref:diretriz2007:1&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A obstrução ao deflúvio atrial gera um gradiente pressórico entre o átrio e o ventrículo esquerdos. &lt;strong&gt;A elevação da pressão atrial esquerda transmite-se de maneira retrógrada ao leito vascular pulmonar&lt;/strong&gt;, determinando &lt;strong&gt;congestão passiva local&lt;/strong&gt;, edema intersticial, hipertensão pulmonar e desenvolvimento progressivo de sintomas.&lt;sup id=&quot;fnref:diretriz2007:1&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; A pressão venocapilar normal é de até 12 mmHg.&lt;/p&gt;
+
+&lt;p&gt;O aumento do AE eleva o risco de fibrilação atrial e de tromboembolismo sistêmico. Também ocorre aumento da pressão pulmonar com formação de edema e hipertensão pulmonar. A taquicardia é prejudicial pois reduz o tempo de enchimento diastólico, dificultando o esvaziamento atrial pela valva estenosada e levando a um aumento no gradiente transmural. Ou seja, uma fibrilação atrial de alta resposta ventrícular piora muito o quadro clínico de congestão. Se a FA se instalar de forma aguda, pode até mesmo provocar um edema agudo de pulmão!&lt;/p&gt;
+
+&lt;p&gt;A HAP causa o ingurgitamento das veias e capilares brônquicos, que ficam mais tensas e mais sujeitas à rotura. Esse é o mecanismo para explicar a presença de hemoptise em pacientes com EM. A HAP também provoca distensão do tronco a artéria pulmonar que causa dor torácica de caráter anginoso mas que não está relacionada a isquemia.&lt;/p&gt;
+
+&lt;p&gt;Ao longo dos anos, a HAP crônica se torna irreversível, em virtude da hipertrofiando e processo
+fibrodegenerativo das arteríolas pulmonares. A HAP começa a exigir mais esfoço do ventrículo direito, que hipertrofia e progride para falência e insuficiência, somando uma congestão sistêmica ao quadro já estabelecido de congestão pulmonar. Até mesmo uma insuficiência tricúspide pode começar a se estabelecer, secundária à dilatação do VD. O resultado final é uma congestão sistêmica de baixo débito.&lt;sup id=&quot;fnref:Harb2019:3&quot;&gt;&lt;a href=&quot;#fn:Harb2019&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;O aumento do AE pode comprimir o N. laríngeo recorrente esquerdo contra o bronco fonte esquerdo e causar rouquidão (síndrome de Ortne’s) e/ou pode comprimir o esôfago e provocar disfagia.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ou seja, a EM começa como uma síndrome de congestão pulmonar que pode evoluir para congestão sistêmica e síndrome de baixo débito. O VE é poupado na EM!&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
 
 &lt;p&gt;A apresentação da EM varia bastante, dependendo da extensão do estreitamento valvar e da presença de hipertensão pulmonar. Os pacientes geralmente são assintomáticos por décadas, mas os sintomas progridem continuamente por um período de 2 a 3 anos após o início da dispnéia ou tosse com esforço.&lt;sup id=&quot;fnref:Pollack2019&quot;&gt;&lt;a href=&quot;#fn:Pollack2019&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;Os sintomas envolvem principalmente a congestão pulmonar. A dispneia é o principal sintoma e inicialmente é precipitada por eventos que aumentam a pressão venocapilar pulmonar (esforço físico, fibrilação atrial e gestação). Pode ser acompanhada por palpitações, hemoptise, disfonia, disfagia e tosse; e/ou por eventos embólicos (cerebrais, mesentéricos e de extremidades).&lt;sup id=&quot;fnref:diretriz2017:2&quot;&gt;&lt;a href=&quot;#fn:diretriz2017&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Pollack2019:1&quot;&gt;&lt;a href=&quot;#fn:Pollack2019&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Os sintomas envolvem principalmente a congestão pulmonar, compondo um quadro de IC esquerda diastólica. A dispneia é o principal sintoma e inicialmente é precipitada por eventos que aumentam a pressão venocapilar pulmonar (esforço físico, fibrilação atrial e gestação). Pode ser acompanhada por palpitações, hemoptise, disfonia, disfagia e tosse; e/ou por eventos embólicos (cerebrais, mesentéricos e de extremidades).&lt;sup id=&quot;fnref:diretriz2017:2&quot;&gt;&lt;a href=&quot;#fn:diretriz2017&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; &lt;sup id=&quot;fnref:Pollack2019:1&quot;&gt;&lt;a href=&quot;#fn:Pollack2019&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;A apresentação &lt;em&gt;típica&lt;/em&gt; inclui:&lt;/p&gt;
 
@@ -87,34 +137,74 @@ elevação da pressão atrial esquerda transmite-se de maneira retrógrada ao &l
   &lt;li&gt;&lt;strong&gt;Dispnéia&lt;/strong&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Dispnéia paroxística noturna e ortopnéia&lt;/strong&gt;;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Dor torácica&lt;/strong&gt; (não é de origem isquêmica, é pela hipertensão pulmonar);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hemoptise&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hemoptise&lt;/strong&gt; (tosse);&lt;/li&gt;
   &lt;li&gt;EAP;&lt;/li&gt;
   &lt;li&gt;Rouquidão (síndrome de Ortne’s).&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Pacientes com EM avançada podem apresentar sinais de IC direita, como edema dependente grave, congestão hepática e ascite. A rouquidão pode se desenvolver a partir da compressão do nervo laríngeo recorrente esquerdo pelo átrio esquerdo aumentado, à medida que se hipertrofia para superar o gradiente de pressão na válvula mitral estenótica. Os folhetos valvares danificado aumentam em risco de vegetações bacterianas e endocardite.&lt;sup id=&quot;fnref:Pollack2019:2&quot;&gt;&lt;a href=&quot;#fn:Pollack2019&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
-&lt;p&gt;No exame físico, pode estar evidente:&lt;/p&gt;
+&lt;p&gt;Em pacientes com um quadro avançado, pode-se observas sintomas da síndrome de baixo débito, como:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Fadiga;&lt;/li&gt;
+  &lt;li&gt;Cansaço;&lt;/li&gt;
+  &lt;li&gt;Lipotímia (tontura).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Facies mitralis (manchas arroxeadas nas bochechas);&lt;/li&gt;
-  &lt;li&gt;Estalido de abertura precoce;&lt;/li&gt;
-  &lt;li&gt;B1 hiperfonética;&lt;/li&gt;
-  &lt;li&gt;B2 hiperfonética;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sopro diastólico em ruflar&lt;/strong&gt;, com reforço pré-sistólico se o paciente estiver em ritmo sinusal;&lt;/li&gt;
-  &lt;li&gt;Sinais de congestão pulmonar e insuficiência cardíaca direita:
+  &lt;li&gt;Estalido de abertura precoce (folhetos tensos se abrem, ocorre logo após B2);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;B1 hiperfonética&lt;/strong&gt; (a estenose mitral aumenta a tensão nos seus folhetos, que então “vibram mais” ao se fecharem);&lt;/li&gt;
+  &lt;li&gt;B2 hiperfonética devido à P2 (primeiro sinal de HAP);&lt;/li&gt;
+  &lt;li&gt;Ictus de VE fraco ou impalpável;&lt;/li&gt;
+  &lt;li&gt;Ictus de VD palpável;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sopro diastólico em ruflar&lt;/strong&gt;, com reforço pré-sistólico se o paciente estiver em ritmo sinusal;
+    &lt;ul&gt;
+      &lt;li&gt;Mais audível com a campânula (som grave);&lt;/li&gt;
+      &lt;li&gt;Foco mitral;&lt;/li&gt;
+      &lt;li&gt;Aumenta no DLE;&lt;/li&gt;
+      &lt;li&gt;Pode irradiar para a axila e foco tricúspide;&lt;/li&gt;
+      &lt;li&gt;Diminui com a inspiração e com a manobra de Valsalva e aumenta com o exercício físico.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;B3 ou B4 de VD;
+    &lt;ul&gt;
+      &lt;li&gt;Aumentam com a inspiração profunda (manobra de Rivero-Carvalho).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sinais de congestão pulmonar;&lt;/li&gt;
+  &lt;li&gt;Sinais insuficiência cardíaca direita (quadro avançado):
     &lt;ul&gt;
       &lt;li&gt;Edema de MMII;&lt;/li&gt;
       &lt;li&gt;Turgência jugular;&lt;/li&gt;
-      &lt;li&gt;Asciten.&lt;/li&gt;
+      &lt;li&gt;Ascite.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Presença de insuficiência tricúspide.&lt;/li&gt;
+  &lt;li&gt;Presença de insuficiência tricúspide:
+    &lt;ul&gt;
+      &lt;li&gt;Sopro sistólico no foco tricúspide.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;A hipertensão pulmonar é caracterizada por uma pressão sistólica da artéria pulmonar ≥ 50 mmHg em repouso ou ≥ 60 mmHg ao esforço (teste ergométrico ou ecocardiografia com estresse farmacológico).&lt;sup id=&quot;fnref:diretriz2017:3&quot;&gt;&lt;a href=&quot;#fn:diretriz2017&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+  &lt;p&gt;&lt;strong&gt;Tríade clássica da ausculta na EM:&lt;/strong&gt; ruflar diastólico, estalido de abertura e hiperfonese de B1.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;p&gt;A hipertensão pulmonar é caracterizada por uma pressão sistólica da artéria pulmonar ≥ 50 mmHg em repouso ou ≥ 60 mmHg ao esforço (teste ergométrico ou ecocardiografia com estresse farmacológico).&lt;sup id=&quot;fnref:diretriz2017:3&quot;&gt;&lt;a href=&quot;#fn:diretriz2017&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A estenose mitral é a valvopatia menos tolerada durante a gestação!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
+
+&lt;p&gt;A fibrilação atrial…&lt;/p&gt;
+
+&lt;p&gt;O tromboembolismo é uma complicação comum devido ào aumento atrial e à presença de FA, facilitando a formação de trombos dentro da câmara por estase sanguínea. O AVE isquêmico é o evento embólico mais comum.&lt;/p&gt;
 
 &lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
 
@@ -122,23 +212,19 @@ elevação da pressão atrial esquerda transmite-se de maneira retrógrada ao &l
 
 &lt;ul&gt;
   &lt;li&gt;Pode ser vista fibrilação atrial;&lt;/li&gt;
-  &lt;li&gt;Sobrecarda de AE;&lt;/li&gt;
-  &lt;li&gt;Sobrecarga de câmaras direitas.&lt;/li&gt;
+  &lt;li&gt;Sobrecarda de AE;
+    &lt;ul&gt;
+      &lt;li&gt;Onda P larga e bífida em D2 (“&lt;em&gt;P mitrale&lt;/em&gt;”);&lt;/li&gt;
+      &lt;li&gt;Índice de Morris em V1 (porção negativa de P aumentada, com área maior que 1 quadrado pequeno).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Sobrecarga de câmaras direitas.
+    &lt;ul&gt;
+      &lt;li&gt;Desvio do eixo para a direita;&lt;/li&gt;
+      &lt;li&gt;Ondas S amplas em V5, V6 e ondas R amplas em V1, V2.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;h3 id=&quot;ecocardiograma&quot;&gt;Ecocardiograma&lt;/h3&gt;
-
-&lt;p&gt;A ecocardiografia com Doppler colorido é um exame complementar importante para o diagnóstico e avaliação da gravidade anatômica e funcional da EM. Pode aferir dados como a área valvar mitral, o gradiente diastólico transvalvar, o escore valvar de Wilkins, a PSAP, trombos atriais esquerdos e a presença de IT.&lt;/p&gt;
-
-&lt;p&gt;Utilizando os valores de &lt;strong&gt;área valvar&lt;/strong&gt; e &lt;strong&gt;gradiente pressórico médio&lt;/strong&gt; &lt;a href=&quot;#classificacao&quot;&gt;é possível graduar a EM em discreta, moderada e importante&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;A estenose pode ser vista no modo “M” do ecocardiograma. O ECG poderá mostrar sobrecarga atrial esquerda nos casos com lesão moderada a importante. Em presença de HP, poderá haver desvio do eixo
-elétrico cardíaco para a direita e sinais de aumento das câmaras direitas. Nesta última situação, é frequente a presença de FA.&lt;/p&gt;
-
-&lt;p&gt;Pode fazer o escore de Wilkins para avaliar mobilidade dos folhetos, espessamento valvar, grau de calcificação e acometimento do aparato subvalvar. Uma graduação de 1 a 4 pontos para cada
-item resulta num escore que pode variar de 4 a 16 pontos.&lt;sup id=&quot;fnref:diretriz2007:2&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/wilkins.jpeg&quot; alt=&quot;Wilkins&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/h3&gt;
 
@@ -149,7 +235,8 @@ item resulta num escore que pode variar de 4 a 16 pontos.&lt;sup id=&quot;fnref:
   &lt;li&gt;&lt;strong&gt;Sinais de aumento de AE&lt;/strong&gt;:
     &lt;ul&gt;
       &lt;li&gt;Elevação do brônquio fonte esquerdo (“sinal da bailarina”);&lt;/li&gt;
-      &lt;li&gt;Duplo contorno atrial à direita;&lt;/li&gt;
+      &lt;li&gt;Sinal do duplo contorno atrial à direita;&lt;/li&gt;
+      &lt;li&gt;Abaulamento do 3º arco cardíaco esquerdo;&lt;/li&gt;
       &lt;li&gt;Quarto arco na silhueta cardíaca à esquerda.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -157,10 +244,28 @@ item resulta num escore que pode variar de 4 a 16 pontos.&lt;sup id=&quot;fnref:
     &lt;ul&gt;
       &lt;li&gt;Linhas B de Kerley;&lt;/li&gt;
       &lt;li&gt;Dilatação da A. pulmonar;&lt;/li&gt;
+      &lt;li&gt;Inversão do padrão da trama vascular (dilatação das veias pulmonares apicais);&lt;/li&gt;
+      &lt;li&gt;Edema intersticial.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;Dilatação de VD e AD.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Na RX em perfil, com o esôfago contrastado, é possível ver AE deslocando posteriormente o esôfago, caracterizando o aumento da câmara.&lt;/p&gt;
+
+&lt;h3 id=&quot;ecocardiograma&quot;&gt;Ecocardiograma&lt;/h3&gt;
+
+&lt;p&gt;A ecocardiografia com Doppler colorido é um exame complementar importante para o diagnóstico e avaliação da gravidade anatômica e funcional da EM. Pode aferir dados como a área valvar mitral, o gradiente diastólico transvalvar, o escore valvar de Wilkins, a PSAP, trombos atriais esquerdos e a presença de IT.&lt;/p&gt;
+
+&lt;p&gt;Utilizando os valores de &lt;strong&gt;área valvar&lt;/strong&gt; e &lt;strong&gt;gradiente pressórico médio&lt;/strong&gt; &lt;a href=&quot;#classificacao&quot;&gt;é possível graduar a EM em discreta, moderada e importante&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A estenose pode ser vista no modo “M” (unidimensional) do ecocardiograma. O ECG poderá mostrar sobrecarga atrial esquerda nos casos com lesão moderada a importante. Em presença de HP, poderá haver desvio do eixo
+elétrico cardíaco para a direita e sinais de aumento das câmaras direitas. Nesta última situação, é frequente a presença de FA.&lt;/p&gt;
+
+&lt;p&gt;Pode fazer o escore de Wilkins (ou de Block) para avaliar mobilidade dos folhetos, espessamento valvar, grau de calcificação e acometimento do aparato subvalvar. Uma graduação de 1 a 4 pontos para cada
+item resulta num escore que pode variar de 4 a 16 pontos.&lt;sup id=&quot;fnref:diretriz2007:2&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/wilkins.jpeg&quot; alt=&quot;Wilkins&quot; /&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;teste-ergométrico&quot;&gt;Teste ergométrico&lt;/h3&gt;
 
@@ -174,7 +279,13 @@ item resulta num escore que pode variar de 4 a 16 pontos.&lt;sup id=&quot;fnref:
 o gradiente diastólico através da valva mitral, que consiste
 na expressão fundamental da gravidade da EM. Pressões pulmonares e resistência vascular pulmonar também podem ser aferidas, contribuindo para avaliação da repercussão da valvopatia na circulação pulmonar.&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;??????A coronariografia deve ser realizada de rotina em homens &amp;gt; 40 e mulheres &amp;gt; 45 anos, ou pacientes de ambos os sexos com idade &amp;gt; 35 anos e presença de fatores de risco para coronariopatia, que serão submetidos à cirurgia valvar aberta????????&lt;/p&gt;
+&lt;/blockquote&gt;
+
 &lt;h2 id=&quot;classificacao&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;p&gt;De acordo com a diretriz de 2007.&lt;sup id=&quot;fnref:diretriz2007:3&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
@@ -235,16 +346,9 @@ farmacológico, reservando-se intervenção para casos refratários.&lt;sup id=&
 &lt;p&gt;O uso de diuréticos (especialmente os de alça) associado à restrição hidrossalina é recomendado
 quando manifestações de congestão pulmonar estiverem presentes. Nos estágios evolutivos finais
 da EM surgem sinais de IC direita (edema periférico, hepatomegalia, ascite), determinando hipovolemia
-relativa devido ao sequestro hídrico pelo terceiro espaço.&lt;/p&gt;
+relativa devido ao sequestro hídrico pelo terceiro espaço. Entretanto, devem ser administrados com cautéla para não desencadear a síndrome do baixo débito.&lt;/p&gt;
 
 &lt;p&gt;Essas alterações hemodinâmicas promovem ativação do sistema renina-angiotensina-aldosterona, resultando em hiperaldosteronismo secundário. Nessas situações, os antagonistas da aldosterona, como a espironolactona, podem ser valiosos adjuvantes à terapia diurética habitual.&lt;/p&gt;
-
-&lt;h3 id=&quot;digitálicos&quot;&gt;Digitálicos&lt;/h3&gt;
-
-&lt;p&gt;Os sintomas de IC esquerda devem-se às altas pressões encontradas no átrio esquerdo e no leito capilar pulmonar, consequentes à obstrução mecânica ao fluxo transmitral. Como tal perturbação hemodinâmica
-encontra-se à montante do Ventrículo Esquerdo (VE), esse apresenta sua função contrátil íntegra. Sendo assim, o uso de digitálicos não é justificado nos pacientes com função contrátil normal e em ritmo sinusal.&lt;/p&gt;
-
-&lt;p&gt;Entretanto, nas situações em que a EM associa-se à FA, os digitálicos representam uma alternativa complementar para controle da frequência ventricular.&lt;sup id=&quot;fnref:diretriz2007:3&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;betabloqueadores&quot;&gt;Betabloqueadores&lt;/h3&gt;
 
@@ -252,15 +356,23 @@ encontra-se à montante do Ventrículo Esquerdo (VE), esse apresenta sua funçã
 ventricular. Caso esse tempo seja diminuído pela metade, o gradiente pressórico transmitral irá quadruplicar, acarretando elevação da pressão venosa pulmonar.&lt;/p&gt;
 
 &lt;p&gt;Os betabloqueadores, ao controlar a FC em repouso, são capazes de reduzir os gradientes e as pressões
-desenvolvidas pelo átrio esquerdo.Adicionalmente, essa classe de agentes também possui a propriedade de
-estabilizar a FC durante a atividade física, atenuando o incremento fisiológico no gradiente pressórico mitral nessas circunstâncias.&lt;sup id=&quot;fnref:diretriz2007:4&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+desenvolvidas pelo átrio esquerdo. Adicionalmente, essa classe de agentes também possui a propriedade de estabilizar a FC durante a atividade física, atenuando o incremento fisiológico no gradiente pressórico mitral nessas circunstâncias.&lt;sup id=&quot;fnref:diretriz2007:4&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Quando houver contraindicação aos BBs, pode-se recorrer aos BCC, como o verapamil e diltiazem.&lt;/p&gt;
+
+&lt;h3 id=&quot;digitálicos&quot;&gt;Digitálicos&lt;/h3&gt;
+
+&lt;p&gt;Os sintomas de IC esquerda devem-se às altas pressões encontradas no átrio esquerdo e no leito capilar pulmonar, consequentes à obstrução mecânica ao fluxo transmitral. Como tal perturbação hemodinâmica
+encontra-se à montante do Ventrículo Esquerdo (VE), esse apresenta sua função contrátil íntegra. Sendo assim, o uso de digitálicos não é justificado nos pacientes com função contrátil normal e em ritmo sinusal.&lt;/p&gt;
+
+&lt;p&gt;Entretanto, nas situações em que a EM associa-se à FA, os digitálicos representam uma alternativa complementar para controle da frequência ventricular.&lt;sup id=&quot;fnref:diretriz2007:5&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; Não trazem benefícios para os pacientes com ritmo sinusal.&lt;/p&gt;
 
 &lt;h3 id=&quot;anticoagulação&quot;&gt;Anticoagulação&lt;/h3&gt;
 
 &lt;p&gt;Eventos embólicos sistêmicos representam uma grave complicação da EM, ocorrendo em 13% a 26% dos
-pacientes e fortemente associados à idade e à presença de FA.A anticoagulação oral plena (com INR-alvo entre 2,0 e 3,0) é recomendada na EM associada a evento embólico prévio, trombo atrial esquerdo ou FA.&lt;/p&gt;
+pacientes e fortemente associados à idade e à presença de FA. A anticoagulação oral plena com varfarina(com INR-alvo entre 2,0 e 3,0) é recomendada na EM associada a evento embólico prévio, trombo atrial esquerdo ou FA.&lt;/p&gt;
 
-&lt;p&gt;O acréscimo de aspirina em baixas doses (50 a 100 mg/dia) é sugerido quando houver ocorrência de evento embólico ou documentação de trombo atrial esquerdo em pacientes adequadamente anticoagulados.&lt;sup id=&quot;fnref:diretriz2007:5&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;O acréscimo de aspirina em baixas doses (50 a 100 mg/dia) é sugerido quando houver ocorrência de evento embólico ou documentação de trombo atrial esquerdo em pacientes adequadamente anticoagulados.&lt;sup id=&quot;fnref:diretriz2007:6&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;tratamento-intervencionista&quot;&gt;Tratamento intervencionista&lt;/h2&gt;
 
@@ -283,7 +395,7 @@ realizado em um número limitado de casos. Para a sua ampla indicação e realiz
 
 &lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
 
-&lt;p&gt;Os principais marcadores de mau prognóstico são o desenvolvimento de sintomas, a presença de FA e a evolução para HP. Uma vez atingidos níveis muito elevados de Pressão Sistólica de Artéria Pulmonar (PSAP – acima de 80mmHg), a sobrevida média reduz-se para 2,4 anos.&lt;sup id=&quot;fnref:diretriz2007:6&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Os principais marcadores de mau prognóstico são o desenvolvimento de sintomas, a presença de FA e a evolução para HP. Uma vez atingidos níveis muito elevados de Pressão Sistólica de Artéria Pulmonar (PSAP – acima de 80mmHg), a sobrevida média reduz-se para 2,4 anos.&lt;sup id=&quot;fnref:diretriz2007:7&quot;&gt;&lt;a href=&quot;#fn:diretriz2007&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
 
@@ -308,7 +420,7 @@ realizado em um número limitado de casos. Para a sua ampla indicação e realiz
       &lt;p&gt;Carapetis JR, McDonald M, Wilson NJ. Acute rheumatic fever. The Lancet. 2005;366(9480):155-168. doi:10.1016/S0140-6736(05)66874-2. &lt;a href=&quot;#fnref:Carapetis2005&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:diretriz2007&quot;&gt;
-      &lt;p&gt;Tarasoutchi F, Montera M, Grinberg M, et al. Diretriz brasileira de valvopatias - sbc 2011/ i diretriz interamericana de valvopatias - siac 2011. Arq Bras Cardiol. 2011;97(5):01-67. doi:10.1590/S0066-782X2011002000001. &lt;a href=&quot;#fnref:diretriz2007&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Tarasoutchi F, Montera M, Grinberg M, et al. Diretriz brasileira de valvopatias - sbc 2011/ i diretriz interamericana de valvopatias - siac 2011. Arq Bras Cardiol. 2011;97(5):01-67. doi:10.1590/S0066-782X2011002000001. &lt;a href=&quot;#fnref:diretriz2007&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:diretriz2007:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:Pollack2019&quot;&gt;
       &lt;p&gt;Pollack CV, ed. Differential Diagnosis of Cardiopulmonary Disease: A Handbook. Cham: Springer International Publishing; 2019. doi:10.1007/978-3-319-63895-9. &lt;a href=&quot;#fnref:Pollack2019&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Pollack2019:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:Pollack2019:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
@@ -361,7 +473,7 @@ realizado em um número limitado de casos. Para a sua ampla indicação e realiz
 
 &lt;p&gt;A principal causa de insuficiência mitral é a degeneração sênil. Já a estenose mitral, a principal causa é a doença reumática.&lt;/p&gt;
 
-&lt;p&gt;IM: a principal causa é a degeneração sênil, seguida pela doença reumática e depois por doença isquêmica, endocardite e congênito.&lt;/p&gt;
+&lt;p&gt;IM:&lt;/p&gt;
 
 &lt;h1 id=&quot;estenose-mitral&quot;&gt;Estenose Mitral&lt;/h1&gt;
 
@@ -819,84 +931,4 @@ tológicos. Isso quer dizer que podemos ter disfun-
 
 &lt;ol&gt;
   &lt;li&gt;MED&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Taquicardias supraventriculares</title><link href="http://localhost:4000/cardiologia/taqui.html" rel="alternate" type="text/html" title="Taquicardias supraventriculares" /><published>2019-11-13T00:00:00-03:00</published><updated>2019-11-13T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/taqui</id><content type="html" xml:base="http://localhost:4000/cardiologia/taqui.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#taquicardias-atriais&quot; id=&quot;markdown-toc-taquicardias-atriais&quot;&gt;Taquicardias atriais&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#flutter-atrial&quot; id=&quot;markdown-toc-flutter-atrial&quot;&gt;Flutter atrial&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tipo-i-típico&quot; id=&quot;markdown-toc-tipo-i-típico&quot;&gt;Tipo I (típico)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tipo-ii&quot; id=&quot;markdown-toc-tipo-ii&quot;&gt;Tipo II&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fibrilação-atrial&quot; id=&quot;markdown-toc-fibrilação-atrial&quot;&gt;Fibrilação atrial&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;TPSV&lt;/li&gt;
-  &lt;li&gt;Taquicardia atrial&lt;/li&gt;
-  &lt;li&gt;Flutter atrial&lt;/li&gt;
-  &lt;li&gt;Fibrilação atrial&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A extrassístole pode ser de origem ventricular ou supraventricular. As ventriculares possuem morfologia aberrante  enquanto que as supraventriculáres possuem a morfologia normal do QRS.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ponto de Wenckebar:&lt;/strong&gt; a frequencia de estimulo em que o nó AV começa a parar de conduzir o impulso, formando um BAV de 2o grau do tipo 1. Cada pessoa tem um ponto diferente, mas a maioria vai bloquear a condução em torno de 140 a 190 bpm.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;De forma geral os números das frequências podem variar de autor para autor.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A maioria das taquicardias atriais têm  frequência baixa, ou seja, todos os estímulos passam pelo nó AV pois não ultrapassam oponto de Weckenbar.&lt;/p&gt;
-
-&lt;p&gt;Flutter atrial: acima de 240 bpm chamamos de flutter. Este pode ser de tipo I (240-340) ou tipo II (340-433) ou ainda um BAV fixo ou variável.&lt;/p&gt;
-
-&lt;p&gt;Uma fibrilação atrial é caracterizada por frequência maior que 450 bpm.&lt;/p&gt;
-
-&lt;h2 id=&quot;taquicardias-atriais&quot;&gt;Taquicardias atriais&lt;/h2&gt;
-
-&lt;h2 id=&quot;flutter-atrial&quot;&gt;Flutter atrial&lt;/h2&gt;
-
-&lt;h3 id=&quot;tipo-i-típico&quot;&gt;Tipo I (típico)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ondas F tipo dente de serrote&lt;/li&gt;
-  &lt;li&gt;Negativas em D2, D3 e aVF;&lt;/li&gt;
-  &lt;li&gt;Freq de F: 240-340 - bloquieo 2:1 (a cada duas sístoles atriais ocorre uma sístole ventricular);&lt;/li&gt;
-  &lt;li&gt;Interrompida por estimulação elétrica atrial.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tipo-ii&quot;&gt;Tipo II&lt;/h3&gt;
-
-&lt;p&gt;O ECG esofágico pode facilitar a visualização pois o esôfago está muito próximo do átrio e as ondas F ficariam mais evidentes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/flutter.webp&quot; alt=&quot;Flutter&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;fibrilação-atrial&quot;&gt;Fibrilação atrial&lt;/h2&gt;
-
-&lt;p&gt;É a arritimia mais irregular que existe. Pode ser identificada apenas com a ausculta. Quando tem frequência alta pode incomodar o paciente e fazê-lo buscar auxílio médico.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Paroxística&lt;/li&gt;
-  &lt;li&gt;Persistente&lt;/li&gt;
-  &lt;li&gt;Permanente: não reversível;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A prevalência é de aproximadamente 0,4% da população e aumenta com a idade. Existem causas de FA sem alteração atrial.&lt;/p&gt;
-
-&lt;p&gt;Aumenta o risco de tromboembolismo.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sintomas “estranhos” do SNC como: “sinto a cabeça aérea’, “sinto a cabeça vazia”;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hoje a terapia é feita com Warfarina. Porém, é necessário ficar avaliando o INR que deve ser mantido entre 2 e 3.&lt;/p&gt;
-
-&lt;p&gt;Novos anticoagulantes: dabigatrana, rivaroxabana, apixabana, endoxabana.&lt;/p&gt;
-
-&lt;p&gt;Controle da frequência ventricular:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Digital;&lt;/li&gt;
-  &lt;li&gt;Verapamil;&lt;/li&gt;
-  &lt;li&gt;Diltiazem;&lt;/li&gt;
-  &lt;li&gt;Betabloqueador;&lt;/li&gt;
-  &lt;li&gt;Amiodarona.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

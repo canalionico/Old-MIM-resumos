@@ -12,7 +12,7 @@ As valvopatias mitrais são as mais comuns em prevalência, seguida  pelas da va
 
 A principal causa de insuficiência mitral é a degeneração sênil. Já a estenose mitral, a principal causa é a doença reumática.
 
-IM: a principal causa é a degeneração sênil, seguida pela doença reumática e depois por doença isquêmica, endocardite e congênito.
+IM: 
 
 # Estenose Mitral
 

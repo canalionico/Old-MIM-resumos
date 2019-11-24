@@ -33,6 +33,8 @@ self.addEventListener('install', function (event) {
       
         '/cardiologia/insuficiencia-mitral.html',
       
+        '/cardiologia/cardiopatia-reumatica.html',
+      
         '/cardiologia/valvopatia-mitral.html',
       
         '/cardiologia/estenose-mitral.html',

@@ -25,6 +25,14 @@ body {
   border-left: 6px solid red;
   background-color: #eee;
 }
+.revisado {
+  background-color: yellow;
+  border-radius: 1rem;
+  padding: 5px;
+  text-align: center;
+  display: inline;
+  margin: 0 auto;
+}
 
 .aviso-red {border-color: red;}
 .aviso-yellow {border-color: yellow}
@@ -205,6 +213,7 @@ body {
   }
 }
 h1 {
+  font-size: 300%;
   text-align: center;
 }
 .post-title {
@@ -261,16 +270,19 @@ tr:hover {background-color:#f5f5f5;}
     margin: 0 0 0 0;
   }
   li h2 {
-    font-size: 18px;
+    font-size: 120%;
     margin: 5px 0 0 0;
+    margin-bottom: 15px;
   }
   li h2 a {
     text-decoration: none;
-    font-size: 18px;
-    color: blue;
+    color: black;
   }
   li h2 a:hover {
-    color: black;
+    color: blue;
+  }
+  li h2 a:hover:visited {
+    color: purple;
   }
 }
 .post-list-li {

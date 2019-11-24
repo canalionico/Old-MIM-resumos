@@ -1,7 +1,7 @@
 {
     "name": "Resumos",
     "short_name": "Resumos",
-    "start_url": "/?utm_source=homescreen",
+    "start_url": "/",
     "theme_color": "#008000",
     "scope": "/",
     "icons": [
