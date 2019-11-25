@@ -263,7 +263,8 @@ tr:hover {
 .post-list li h2 {
   font-size: 120%;
   margin: 5px 0 0 0;
-  margin-bottom: 15px; }
+  margin-bottom: 15px;
+  line-height: 1.6rem; }
 .post-list li h2 a {
   text-decoration: none;
   color: black; }
