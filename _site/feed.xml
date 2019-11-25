@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-24T17:52:45-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cardiopatia reumática</title><link href="http://localhost:4000/cardiologia/cardiopatia-reumatica.html" rel="alternate" type="text/html" title="Cardiopatia reumática" /><published>2019-11-24T00:00:00-03:00</published><updated>2019-11-24T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/cardiopatia-reumatica</id><content type="html" xml:base="http://localhost:4000/cardiologia/cardiopatia-reumatica.html">&lt;p&gt;Corrigir o texto do MED abaixo:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-24T23:49:32-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Cardiopatia reumática</title><link href="http://localhost:4000/cardiologia/cardiopatia-reumatica.html" rel="alternate" type="text/html" title="Cardiopatia reumática" /><published>2019-11-24T00:00:00-03:00</published><updated>2019-11-24T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/cardiopatia-reumatica</id><content type="html" xml:base="http://localhost:4000/cardiologia/cardiopatia-reumatica.html">&lt;p&gt;Corrigir o texto do MED abaixo:&lt;/p&gt;
 
 &lt;p&gt;É importante compreender que a lesão mitral
 reumática mais comum no Brasil é a dupla
@@ -42,6 +42,61 @@ artery.&lt;sup id=&quot;fnref:Harb2019&quot;&gt;&lt;a href=&quot;#fn:Harb2019&qu
       &lt;p&gt;Harb SC, Griffin BP. Mitral valve disease: a comprehensive review. Curr Cardiol Rep. 2017;19(8):73. doi:10.1007/s11886-017-0883-5. &lt;a href=&quot;#fnref:Harb2019&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Lactente sibilante</title><link href="http://localhost:4000/pediatria/lactente-sibilante.html" rel="alternate" type="text/html" title="Lactente sibilante" /><published>2019-11-24T00:00:00-03:00</published><updated>2019-11-24T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/lactente-sibilante</id><content type="html" xml:base="http://localhost:4000/pediatria/lactente-sibilante.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bibliografia&quot; id=&quot;markdown-toc-bibliografia&quot;&gt;Bibliografia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A asma é a doença crônica mais comum na infância, uma doença heterogênea geralmente caracterizada por inflamação crônica das vias aéreas. É definida pela história de sintomas respiratórios tais como sibilância, respiração
+rápida e curta, aperto no peito e tosse que variam com o tempo e a intensidade, associados à variação do fluxo expiratório.&lt;sup id=&quot;fnref:Chong2018&quot;&gt;&lt;a href=&quot;#fn:Chong2018&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Em geral, a asma inicia-se nos primeiros anos de vida, e pode ser confundida com
+outras doenças que também cursam com os sintomas acima descritos, o que retarda a instituição de tratamento adequado. A expressão “sibilância recorrente”, ou seja, mais de três episódios de sibilância por ano, tem sido por considerada como sinômino de asma. Nessa fase da vida é importante identificar os principais agentes desencadeantes de episódios de sibilancia.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;O parto vaginal, o aleitamento materno, as exposições ambientais durante as primeiras horas de vida e o ambiente em que vive a criança em torno dos primeiros 100 dias parecem definir a formação da microbiota respiratória com potencial de garantir condições de saúde respiratória ao longo da vida. Logo, são situações que influênciam nas respostas imunológicas inatas e adaptativas das crianças.&lt;sup id=&quot;fnref:Chong2018:1&quot;&gt;&lt;a href=&quot;#fn:Chong2018&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Nariz: há predomínio de actinobactérias associadas à pele;&lt;/li&gt;
+  &lt;li&gt;Orofaringe: membros dos filos &lt;em&gt;Firmicutes&lt;/em&gt; e &lt;em&gt;Proteobacteria&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Incursões transitórias
+de &lt;em&gt;Streptococcus&lt;/em&gt;, &lt;em&gt;Moraxella&lt;/em&gt; ou &lt;em&gt;Haemophilus&lt;/em&gt;, características do microbioma da nasofaringe parecem ser determinantes na propagação de infecção para
+as vias aéreas inferiores, na gravidade dos sintomas
+relativos ao processo inflamatório e no risco futuro
+de desenvolvimento da asma. A colonização as sintomática precoce (em menores de um ano) com &lt;em&gt;Streptococcus&lt;/em&gt; foi um forte preditor para sensibilização
+alérgica, aos dois anos, e sibilância de repetição/asma entre os cinco e dez anos de idade.&lt;sup id=&quot;fnref:Chong2018:2&quot;&gt;&lt;a href=&quot;#fn:Chong2018&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Pacientes com asma não controlada e/ou corticorresistente são predominantemente colonizados
+por microrganismos patogênicos como a Moraxella
+catarrhalis e membros do gênero Haemophilus ou
+Streptococcus.&lt;/p&gt;
+
+&lt;p&gt;Muitos autores têm estudado a relação entre
+a infecção viral, notadamente pelo Vírus Sincicial
+Respiratório (VSR) e o posterior desenvolvimento de
+asma. Avalia-se o fato de certos indivíduos apresentarem uma predisposição genética para a sibilância
+induzida por vírus e o desenvolvimento da asma.&lt;/p&gt;
+
+&lt;p&gt;O sistema respiratório tem o seu crescimento e desenvolvimento completados ao redor dos oito anos de de idade.&lt;/p&gt;
+
+&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Chong Neto HJ, Solé D, Camargos P, et al. Diretrizes da Associação Brasileira de Alergia e Imunologia e Sociedade Brasileira de Pediatria para sibilância e asma no pré-escolar. Arquivos de Asma, Alergia e Imunologia. 2018;2(2).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Chong2018&quot;&gt;
+      &lt;p&gt;Chong Neto HJ, Solé D, Camargos P, et al. Diretrizes da Associação Brasileira de Alergia e Imunologia e Sociedade Brasileira de Pediatria para sibilância e asma no pré-escolar. Arquivos de Asma, Alergia e Imunologia. 2018;2(2). &lt;a href=&quot;#fnref:Chong2018&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Chong2018:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:Chong2018:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Estenose mitral</title><link href="http://localhost:4000/cardiologia/estenose-mitral.html" rel="alternate" type="text/html" title="Estenose  mitral" /><published>2019-11-23T00:00:00-03:00</published><updated>2019-11-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/estenose-mitral</id><content type="html" xml:base="http://localhost:4000/cardiologia/estenose-mitral.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#anatomia&quot; id=&quot;markdown-toc-anatomia&quot;&gt;Anatomia&lt;/a&gt;&lt;/li&gt;
@@ -81,8 +136,6 @@ artery.&lt;sup id=&quot;fnref:Harb2019&quot;&gt;&lt;a href=&quot;#fn:Harb2019&qu
 &lt;/ul&gt;
 
 &lt;p&gt;A estenose mitral (EM) caracteriza-se pela resistência ao fluxo sanguíneo transmitral em razão do espessamento e da imobilidade dos folhetos valvares. É a doença valvar mais importante nos países subdesenvolvidos, em que a doença reumática responde por mais de 90% dos casos&lt;sup id=&quot;fnref:diretriz2017&quot;&gt;&lt;a href=&quot;#fn:diretriz2017&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, seguida pela etiologia congênita. O acometimento do folheto anterior é mais comum.&lt;/p&gt;
-
-&lt;p&gt;&lt;span class=&quot;revisado&quot;&gt;Revisado em 24/11/19&lt;/span&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
 
@@ -155,7 +208,7 @@ fibrodegenerativo das arteríolas pulmonares. A HAP começa a exigir mais esfoç
 &lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Facies mitralis (manchas arroxeadas nas bochechas);&lt;/li&gt;
+  &lt;li&gt;Facies &lt;em&gt;mitralis&lt;/em&gt; (manchas arroxeadas nas bochechas);&lt;/li&gt;
   &lt;li&gt;Estalido de abertura precoce (folhetos tensos se abrem, ocorre logo após B2);&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;B1 hiperfonética&lt;/strong&gt; (a estenose mitral aumenta a tensão nos seus folhetos, que então “vibram mais” ao se fecharem);&lt;/li&gt;
   &lt;li&gt;B2 hiperfonética devido à P2 (primeiro sinal de HAP);&lt;/li&gt;
@@ -868,67 +921,4 @@ elevação da pressão atrial esquerda transmite-se de maneira retrógrada ao &l
 &lt;ul&gt;
   &lt;li&gt;Perfil C: fazer drogas;&lt;/li&gt;
   &lt;li&gt;Perfil L: fazer Líquidos!&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Leptospirose</title><link href="http://localhost:4000/infectologia/leptospirose.html" rel="alternate" type="text/html" title="Leptospirose" /><published>2019-11-16T00:00:00-03:00</published><updated>2019-11-16T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/leptospirose</id><content type="html" xml:base="http://localhost:4000/infectologia/leptospirose.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#síndrome-de-weil&quot; id=&quot;markdown-toc-síndrome-de-weil&quot;&gt;Síndrome de Weil&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
-
-&lt;p&gt;A leptospirose é uma doença febril causa pela infecção pelo &lt;em&gt;Leptospira interrogans&lt;/em&gt;, uma bactéria do filo &lt;a href=&quot;https://pt.wikipedia.org/wiki/Spirochaetes&quot;&gt;espiroqueta&lt;/a&gt;. Se assemelha muito à dengue clássica, mas é considerada a mais importante zoonose.&lt;/p&gt;
-
-&lt;p&gt;Em alguns casos pode se apresentar numa forma grave denominada de síndrome de Weil.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;Enchentes em zonas urbanas possuem uma relação com surtos dessa doença.&lt;/p&gt;
-
-&lt;p&gt;Cerca de 60% dos ratos no Brasil possuem urina positiva para Leptospira.&lt;/p&gt;
-
-&lt;p&gt;Os principais surtos de infecção costumam ocorrer nas épocas de maiores chuvas e quando ocorrem maiores enchentes, facilitando o contato com elementos da urina de ratos.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;Estas espiroquetas são micro-organismos aeróbicos obrigatórios, helicoidais, flexíveis e móveis. Podem permanecer viáveis em solo úmido ou na água por semanas a meses, mas precisam de um hospedeiro animal para manter seu ciclo vital. Este pode ser um mamífero, um réptil ou um anfíbio. O hospedeiro clássico e mais conhecido é o rato, o principal reservatório desta bactéria.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/leptospira.png&quot; alt=&quot;Etiologia&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Os roedoras não desenvolvem a doença e eliminam as espiroquetas na urina. A leptospira é capaz de penetrar na pele de mamíferos por meio de micro lesões ou abrasões na pele, através de membranas mucosas (oral, faríngea e conjuntiva) ou pela inalação de gotículas microscópicas.&lt;/p&gt;
-
-&lt;p&gt;Os seres humanos acometidos são hospedeiros acidentais, e podem, após se infectar, permanecer assintomáticos ou desenvolver a doença. Os animais infectados, incluindo o Homem, passam então a excretar esse patógeno na urina, dando continuidade ao ciclo de vida.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fase de leptospiremia:&lt;/strong&gt; após penetrar na pele ou na mucosa, as leptospiras chegam à corrente sanguínea e se multiplicam, disseminando-se pelo organismo.&lt;/p&gt;
-
-&lt;p&gt;As leptospira são capazes de produzir hialuronidase, uma enzima que possibilita a difusão e invasão do tecido conjuntivo sem provocar uma exarcevada reação inflamatória. Dessa forma, o patógeno pode atingir o líquor e o humor aquoso.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Capilarite generalizada:&lt;/strong&gt; lesão direta do endotélio provocada pelas leptospiras. Ocorre extravasamento de líquido para o terceiro espaço e fenômenos hemorrágicos,
-característicos da doença, mais especialmente nas formas graves.&lt;/p&gt;
-
-&lt;p&gt;adesão das leptospiras à mem-
-brana das células, determinando lesão ou disfun-
-ção celular, desproporcional aos achados histopa-
-tológicos. Isso quer dizer que podemos ter disfun-
-ção orgânica com pouca ou nenhuma inflamação!&lt;/p&gt;
-
-&lt;p&gt;Síndrome de Weil: os órgãos mais afetados são o fígado, o rim, o pulmão, o coração e o músculo esquelético.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;h3 id=&quot;síndrome-de-weil&quot;&gt;Síndrome de Weil&lt;/h3&gt;
-
-&lt;p&gt;É uma forma grave da doença, caracterizada pela tríade: &lt;strong&gt;icterícia, hemorragias e insuficiência renal aguda&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;MED&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

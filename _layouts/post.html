@@ -7,9 +7,10 @@ layout: default
   <div class="main">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-page-info">
-      <em>por</em> <a href="https://twitter.com/{{ page.author }}">Filipe Mosca</a><br>
+      <em>por <a href="https://twitter.com/{{ page.author }}">Filipe Mosca</a><br>
       Publicado em {{ page.date | date_to_string }} <br>
-      filipemosca@disroot.org</p>
+      Última revisão: {{ page.revisado }} <br>
+      filipemosca@disroot.org</p></em>
     <article>
       {{ content }}
       <a id="myBtn" href="#markdown-toc"><i class="fa fa-sort-amount-up"></i>Sumário</a>

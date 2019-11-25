@@ -31,6 +31,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/pediatria/lactente-sibilante.html',
+      
         '/cardiologia/insuficiencia-mitral.html',
       
         '/cardiologia/cardiopatia-reumatica.html',
@@ -1129,6 +1131,22 @@ self.addEventListener('install', function (event) {
         '/assets/urologia/tu-testiculos/lab.jpeg'
       
         '/browserconfig.xml'
+      
+        '/cmunbi.otf'
+      
+        '/cmunbi.ttf'
+      
+        '/cmunbx.otf'
+      
+        '/cmunbx.ttf'
+      
+        '/cmunit.otf'
+      
+        '/cmunrm.otf'
+      
+        '/cmunrm.ttf'
+      
+        '/cmunti.ttf'
       
         '/favicon-16x16.png'
       

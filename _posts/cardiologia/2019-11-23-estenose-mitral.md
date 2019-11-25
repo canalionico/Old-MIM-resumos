@@ -1,14 +1,13 @@
 ---
 title: Estenose  mitral
 categories: cardiologia
+revisado: "24 Nov 2019"
 ---
 
 * Sumário
 {:toc}
 
 A estenose mitral (EM) caracteriza-se pela resistência ao fluxo sanguíneo transmitral em razão do espessamento e da imobilidade dos folhetos valvares. É a doença valvar mais importante nos países subdesenvolvidos, em que a doença reumática responde por mais de 90% dos casos[^diretriz2017], seguida pela etiologia congênita. O acometimento do folheto anterior é mais comum.
-
-<span class="revisado">Revisado em 24/11/19</span>
 
 ## Fisiopatologia
 
@@ -72,7 +71,7 @@ Em pacientes com um quadro avançado, pode-se observas sintomas da síndrome de 
 
 ## Exame físico
 
-* Facies mitralis (manchas arroxeadas nas bochechas);
+* Facies *mitralis* (manchas arroxeadas nas bochechas);
 * Estalido de abertura precoce (folhetos tensos se abrem, ocorre logo após B2);
 * **B1 hiperfonética** (a estenose mitral aumenta a tensão nos seus folhetos, que então “vibram mais” ao se fecharem);
 * B2 hiperfonética devido à P2 (primeiro sinal de HAP);

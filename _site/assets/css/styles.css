@@ -16,22 +16,21 @@
 
 body {
   margin: 0 0 0 0;
-  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-family: "Computer Modern", 'Baskervville', serif;
+  font-size: 1.2rem;
   text-align: left;
-  font-size: 1.2em; }
+  text-rendering: optimizeLegibility;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important; }
 
+@font-face {
+  font-family: "Computer Modern";
+  src: url("/cmunrm.ttf"); }
 .alert {
   padding: 5px 5px 5px 10px;
   border-left: 6px solid red;
   background-color: #eee; }
-
-.revisado {
-  background-color: yellow;
-  border-radius: 1rem;
-  padding: 5px;
-  text-align: center;
-  display: inline;
-  margin: 0 auto; }
 
 .aviso-red {
   border-color: red; }
@@ -202,14 +201,9 @@ body {
   color: gray;
   margin: 5px auto;
   width: 100%;
-  max-width: 320px;
-  text-align: center; }
+  max-width: 320px; }
   .post-info a, .post-page-info a {
     font-size: 16px; }
-
-h1 {
-  font-size: 300%;
-  text-align: center; }
 
 .post-title {
   margin-bottom: 0; }
@@ -219,7 +213,10 @@ p, li {
 
 a {
   word-break: break-word;
-  text-decoration: none; }
+  text-decoration: none;
+  color: blue; }
+  a :visited {
+    color: purple; }
 
 ::selection {
   background: yellow;
@@ -443,8 +440,6 @@ a.footnote:after {
   margin-bottom: 0; }
   .coisas p {
     margin-bottom: 0; }
-  .coisas a {
-    color: #2a7ae2; }
 
 .license {
   margin-bottom: 1px; }
@@ -455,8 +450,7 @@ a.footnote:after {
     margin-top: 5px;
     color: gray; }
     .license p a {
-      font-size: 14px;
-      color: #2a7ae2; }
+      font-size: 14px; }
 
 #licenca {
   margin-top: 0;
@@ -488,19 +482,6 @@ a.footnote:after {
 
 /* Para tablet */
 @media screen and (min-width: 600px) {
-  .footer-col {
-    float: left; }
-
-  .footer-col1, .footer-col2 {
-    width: calc(50% - (30px / 2)); }
-
-  .footer-col3 {
-    width: calc(100% - (30px / 2)); }
-
-  .featured-image {
-    float: left;
-    margin: 5px 15px 5px; }
-
   .post-info, .post-page-info {
     font-size: 16px;
     color: gray;
