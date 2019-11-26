@@ -15,7 +15,7 @@
 }
 body {
   margin: 0 0 0 0;
-  font-family: "Computer Modern", 'Baskervville', serif;
+  font-family: "LS", "Computer Modern", 'Baskervville', serif;
   font-size: 1.2rem;
   text-align: left;
   text-rendering: optimizeLegibility;
@@ -26,6 +26,10 @@ body {
 @font-face {
   font-family: "Computer Modern";
   src: url('/cmunrm.ttf');
+}
+@font-face {
+  font-family: "LS";
+  src: url('/assets/liberation_serif/lsregular.ttf');
 }
 
 

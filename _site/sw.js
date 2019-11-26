@@ -842,6 +842,26 @@ self.addEventListener('install', function (event) {
       
         '/assets/left-pointing-arrow.svg'
       
+        '/assets/liberation_serif.zip'
+      
+        '/assets/liberation_serif/AUTHORS'
+      
+        '/assets/liberation_serif/COPYING'
+      
+        '/assets/liberation_serif/ChangeLog'
+      
+        '/assets/liberation_serif/License.txt'
+      
+        '/assets/liberation_serif/README'
+      
+        '/assets/liberation_serif/lsbold.ttf'
+      
+        '/assets/liberation_serif/lsbolditalic.ttf'
+      
+        '/assets/liberation_serif/lsitalic.ttf'
+      
+        '/assets/liberation_serif/lsregular.ttf'
+      
         '/assets/logo-canal-ionico.png'
       
         '/assets/logo-resumos.png'
