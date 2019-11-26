@@ -91,14 +91,16 @@ body {
   .nav-posts a {
     text-decoration: none;
     font-size: 16px;
-    background-color: #727272;
+    border: 1px solid black;
+    border-top: none;
     padding: 4px 6px 2px 6px;
     border-radius: 0 0 0.5rem 0.5rem;
-    color: white;
+    color: blue;
     display: inline-block;
     margin-bottom: 0; }
   .nav-posts a:hover {
-    background-color: #008000; }
+    background-color: black;
+    color: white; }
 
 .current {
   background-color: #008000; }
@@ -477,7 +479,7 @@ a.footnote:after {
   fill: #828282; }
 
 .svg-nav {
-  fill: white;
+  fill: blue;
   padding-right: 5px;
   height: 12px; }
 

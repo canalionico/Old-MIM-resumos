@@ -31,7 +31,6 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
-<<<<<<< HEAD
         '/pneumologia/tep.html',
       
         '/pneumologia/ca-pulmao.html',
@@ -39,13 +38,12 @@ self.addEventListener('install', function (event) {
         '/pediatria/doencas-resp.html',
       
         '/cirurgia/remit.html',
-=======
+      
         '/pediatria/lactente-sibilante.html',
       
         '/cardiologia/insuficiencia-mitral.html',
       
         '/cardiologia/cardiopatia-reumatica.html',
->>>>>>> refs/remotes/origin/master
       
         '/cardiologia/valvopatia-mitral.html',
       
