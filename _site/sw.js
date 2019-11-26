@@ -31,6 +31,14 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/pneumologia/tep.html',
+      
+        '/pneumologia/ca-pulmao.html',
+      
+        '/pediatria/doencas-resp.html',
+      
+        '/cirurgia/remit.html',
+      
         '/cardiologia/valvopatia-mitral.html',
       
         '/pneumologia/asma.html',

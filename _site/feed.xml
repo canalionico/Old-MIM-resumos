@@ -1,4 +1,303 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-23T08:25:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Valvopatia mitral</title><link href="http://localhost:4000/cardiologia/valvopatia-mitral.html" rel="alternate" type="text/html" title="Valvopatia  mitral" /><published>2019-11-23T00:00:00-03:00</published><updated>2019-11-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/valvopatia-mitral</id><content type="html" xml:base="http://localhost:4000/cardiologia/valvopatia-mitral.html">&lt;p&gt;As valvopatias mitrais são as mais comuns em prevalência, seguida  pelas da valva aórtica e depois da valva tricúspide.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2019-11-25T20:57:20-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Restaposta metabólica ao trauma</title><link href="http://localhost:4000/cirurgia/remit.html" rel="alternate" type="text/html" title="Restaposta metabólica ao trauma" /><published>2019-11-25T00:00:00-03:00</published><updated>2019-11-25T00:00:00-03:00</updated><id>http://localhost:4000/cirurgia/remit</id><content type="html" xml:base="http://localhost:4000/cirurgia/remit.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#como-modular-a-resposta-metabólica-ao-trauma&quot; id=&quot;markdown-toc-como-modular-a-resposta-metabólica-ao-trauma&quot;&gt;Como modular a resposta metabólica ao trauma?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Descrito pela primeira vez em 1930. Na verdade o termo em inglês seria &lt;em&gt;“resposta metabólica à injúria”&lt;/em&gt;, mas a tradução acabou ficando como &lt;em&gt;trauma&lt;/em&gt;. Lembrando sempre que a própria cirúrgia já é uma modalidade de trauma.&lt;/p&gt;
+
+&lt;p&gt;A REMT é uma sequência de alterações orgânicas complexas e integradas, que tem como objetivo primário a manutenção da homeostase e a cicatrização de feridas. De forma fisiológica é uma reação bem coordenada e autolimitada. Contudo, se o insulto for contínuo, novas respostas se somam, prolongando o processo.&lt;/p&gt;
+
+&lt;p&gt;Hoje em dia o termo mais adequado seria &lt;em&gt;“resposta fisiológica ao trauma”&lt;/em&gt;, pois envolve outros aspéctos orgânicos, como inflamação, imunologia, endocrinologia, etc.&lt;/p&gt;
+
+&lt;p&gt;O estado de hiperglicemia é necessário pois as células de alto &lt;em&gt;turn-over&lt;/em&gt; dependem muito de seu metabolismo energético. Por exemplo, o tecido nervoso, linfócitos e hemácias. Dessa forma, na REMT ocorre diminuição da concentração de insulina e aumento da liberação dos hormônios contra-insulínicos, como glucagon, cortisol e noradrenalina. Logo, após uma cirurgia, por exemplo, é esperado que o paciente faça uma maior glicemia. Uma hipoglicemia nesses pacientes pode ser um indicador de que há algo errado no metabolismo do paciente.&lt;/p&gt;
+
+&lt;p&gt;Três citocinas fundamentais são liberadas na REMT: &lt;strong&gt;TNF&lt;/strong&gt;, &lt;strong&gt;IL-1&lt;/strong&gt; e &lt;strong&gt;IL-6&lt;/strong&gt;. Essas citocinas, inclusive, são marcadores de mau progóstico quando muito elevadas, indicando a presença de uma forte resposta inflamatória. Por exemplo, num quadro de pancreatite aguda.&lt;/p&gt;
+
+&lt;p&gt;Aumento da síntese de proteínas de fase aguda, como a proteína C reativa (PCR), fibrinogênio e proteínas do complemento.&lt;/p&gt;
+
+&lt;p&gt;Logo após uma cirurgia, a liberação de ADH e cortisol promove a retenção hidrossalina no paciente. Ou seja, no pós operatório o paciente ganha peso às custas de reteção hídrica. Contudo, 3 a 5 dias depois o peso começa a cair, com o paciente retornando à diurese do pré-operatório.&lt;/p&gt;
+
+&lt;p&gt;SIRS: síndrome da resposta inflamatória sistêmica.&lt;/p&gt;
+
+&lt;p&gt;“Estado hiperosmolar pós transplante de fígado”.&lt;/p&gt;
+
+&lt;p&gt;A REMT é dividida em duas fases: 1) “Ebb” e 2) “Flow”.&lt;/p&gt;
+
+&lt;p&gt;A “moda” de fazer glutamina no pós ou intra-operatório. O metabolismo dos aminoáciodos gera a glutamina que também serve de substrato energético para as células de alto &lt;em&gt;turn-over&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Pós-operatório:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hipercalemia;&lt;/li&gt;
+  &lt;li&gt;Hiponatremia dilucional;&lt;/li&gt;
+  &lt;li&gt;Acidose metabólica;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Síndrome da resposta inflamatória e imunossupressão, descrita por Lory Gentile em 2012, observando paciente com uma permanência muito prolongada na UTI (mais de 10 dias). Um “estesse pós terápia intensiva”.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;REMT&lt;/li&gt;
+  &lt;li&gt;CARS: síndrome da resposta contra-reguladora.&lt;/li&gt;
+  &lt;li&gt;SICS&lt;/li&gt;
+  &lt;li&gt;MOF&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;PICS?&lt;/p&gt;
+
+&lt;h2 id=&quot;como-modular-a-resposta-metabólica-ao-trauma&quot;&gt;Como modular a resposta metabólica ao trauma?&lt;/h2&gt;
+
+&lt;p&gt;Projeto ERAS mundial (ACERTO no Brasil) sobre a mudança de paradigmas no pré e pós operatório. Por exemplo, dar maltodextrina nos pacientes que estão fazendo jejum pré-operatório para impedir a depleção acentuada das reservas de glicogênio sem provocar um enchimento gástrico, pois a maltodextrina é absorvida muito rápida. Dessa forma, o paciente é melhor almentado sem o maior risco de broncoaspiração no intraoperatório.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Doenças resíratórias da infância</title><link href="http://localhost:4000/pediatria/doencas-resp.html" rel="alternate" type="text/html" title="Doenças resíratórias da infância" /><published>2019-11-25T00:00:00-03:00</published><updated>2019-11-25T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/doencas-resp</id><content type="html" xml:base="http://localhost:4000/pediatria/doencas-resp.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#bacteriana&quot; id=&quot;markdown-toc-bacteriana&quot;&gt;Bacteriana&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sibilância-re&quot; id=&quot;markdown-toc-sibilância-re&quot;&gt;Sibilância re&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Estreptococos beta hemolítico do grupo A são os primeiros na suspeita por etiologia bacteriana da faringoamigdalite.&lt;/p&gt;
+
+&lt;p&gt;A amigdalite pode ser aguda ou crônica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hiperplasia amigdaliana: roncos, apnéia obstrutiva do sono, disfagia e voz hipernasal. Na presença de quadro agudo associado, pode evoluir com IRpA.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A etiologia viral responde por 75% das faringoamigdalites agudas, principalmente rinovirus, cronavirus, adenovirus, herpes simples, influenza, parainfluenza, coxsackie (síndrome mão-pé-boca).&lt;/p&gt;
+
+&lt;p&gt;O quadro clínico é dor na garganta, disfagia, mialgia, febre baixa, tosse, coriza. A dor abdominal está associada à linfadenite abdmonial (plascas de Payer).&lt;/p&gt;
+
+&lt;p&gt;Alguns vírus fazem uma faringoamigdalite específica.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Coxsackie: pequenas úlceras e vesículas nopalato mole, pilares da amígdala, dor abdominal.&lt;/li&gt;
+  &lt;li&gt;Herpes simplex:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bacteriana&quot;&gt;Bacteriana&lt;/h2&gt;
+
+&lt;p&gt;Coorresponde a 20 a 40% dos casos. O agente etiológico mais comum é o S. pneumoniae, seguido pelo H. influenzae, S. aureus, Corynebacterium diphteriae, Clamydia, Mycoplasma.&lt;/p&gt;
+
+&lt;p&gt;Critérios de centor modificado.&lt;/p&gt;
+
+&lt;p&gt;Uma das complicações não supurativas da infecção por estrotococos é a &lt;strong&gt;escarlatina&lt;/strong&gt;: sinal de filatov, sinal de pastia, língua em framboesa. Outras são a febre reumática, a glomerulonefrite difusa aguda e a síndrome do choque tóxico estreptocócico.&lt;/p&gt;
+
+&lt;p&gt;As complicações supurativas são: abcesso tonsilar, abcesso periamigdaliano, abcesso parafaríngeo, infecções do espaço retrofaríngeo.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Na infecção viral o tratamento é sintomático. Na bacteriana o tratamento é a antibioticoterapia com penicilina benzatina em dose única. Mas como dói acaba-se fazendo bastante a amoxacilina, porém é de 8/8 h por 10 dias.&lt;/p&gt;
+
+&lt;h1 id=&quot;sibilância-re&quot;&gt;Sibilância re&lt;/h1&gt;
+
+&lt;p&gt;EISL estudo internacional de sibilância em lactentes 2005.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Câncer de pulmão</title><link href="http://localhost:4000/pneumologia/ca-pulmao.html" rel="alternate" type="text/html" title="Câncer de pulmão" /><published>2019-11-25T00:00:00-03:00</published><updated>2019-11-25T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/ca-pulmao</id><content type="html" xml:base="http://localhost:4000/pneumologia/ca-pulmao.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#histologia&quot; id=&quot;markdown-toc-histologia&quot;&gt;Histologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;É a principal causa de morte por câncer no mundo, apesar de a mortalida vir reduzindo.&lt;/p&gt;
+
+&lt;p&gt;Mais prevalente em homens. 90% dos casos ocorrem em pacientes fumantes, representando um risco 8 a 20 vezes maior de acometimento.&lt;/p&gt;
+
+&lt;p&gt;25 cigarros por dia por 20 anos: 30x
+40 cigarros por dia por 20 anos: 70x&lt;/p&gt;
+
+&lt;p&gt;Fatores de risco:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tabagismo&lt;/li&gt;
+  &lt;li&gt;Poluição ambiental&lt;/li&gt;
+  &lt;li&gt;Fatores ocupacionais (asbesto, urânio, níquel, crômio, carvão, fornos, tintas de impressão)&lt;/li&gt;
+  &lt;li&gt;Cicatrizes e doenças pulmonares&lt;/li&gt;
+  &lt;li&gt;História familiar&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;histologia&quot;&gt;Histologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CPC: carcinoma de células pequenas. Alto grau de recidiva e metástases hematogênicas precoces. Nem se recomenda a cirpurgia nesse tipo. &lt;em&gt;Oat cells&lt;/em&gt;. Nem tem estadiamento, é dividido apenas em precoce e tardio.&lt;/li&gt;
+  &lt;li&gt;CNPC: carcinoma de células não pequenas. Possui melhor prognóstico.
+    &lt;ul&gt;
+      &lt;li&gt;Carcinoma espinocelular: o tipos mais comum, tumores mais centrais que podem necrosar e formar abcessos.&lt;/li&gt;
+      &lt;li&gt;Adenocarcinoma: são mais perifericos. O adenocarcinoma lepídico é uma variação.&lt;/li&gt;
+      &lt;li&gt;Carcinoma de células gigantes.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Sintomas sistêmicos: fraqueza, mal estar, astenia, perda de peso, febre.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tosse;&lt;/li&gt;
+  &lt;li&gt;Dispnéia;&lt;/li&gt;
+  &lt;li&gt;Escarro hemático;&lt;/li&gt;
+  &lt;li&gt;Hemoptise;&lt;/li&gt;
+  &lt;li&gt;Pneumonia de repetição no mesmo local.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Invasão de estruturas contíguas: dor torácica, derrame pleural ou pericárdico, rouquidão ou disfonia, paralisia do nervo frênico, síndrome de compressão da veia cava superior, síndrome de Pancoast e de Claude Bernard-Homer.&lt;/p&gt;
+
+&lt;p&gt;Síndrome da veia cava superior: edema, pletora, turgência venosa, cianose local, cefaleia, tontura, vertigem, síncope.&lt;/p&gt;
+
+&lt;p&gt;Metástases:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linfonodos no mediastino - 80%&lt;/li&gt;
+  &lt;li&gt;Hepáticas&lt;/li&gt;
+  &lt;li&gt;Ósseas&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tromboembolismo pulmonar</title><link href="http://localhost:4000/pneumologia/tep.html" rel="alternate" type="text/html" title="Tromboembolismo pulmonar" /><published>2019-11-25T00:00:00-03:00</published><updated>2019-11-25T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/tep</id><content type="html" xml:base="http://localhost:4000/pneumologia/tep.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exame-físico&quot; id=&quot;markdown-toc-exame-físico&quot;&gt;Exame físico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#bibliografia&quot; id=&quot;markdown-toc-bibliografia&quot;&gt;Bibliografia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Obstrução por trombos em ramos do leito arterial pulmonar com consequente alterações hemodinâmicas e respiratórias.&lt;/p&gt;
+
+&lt;p&gt;O trombo se forma na circulação venosa sistêmica, principalmente nos MMII, precipitados pela estase sanguínea e menor contratilidade da musculatura ao redor das veias.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;É uma condição de alta mortalidade. É a complicação mais comum em pacientes internados.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;A etiopatogenia é explicada pela clássica tríade de Virchow.&lt;/p&gt;
+
+&lt;p&gt;Trombofilia congênita. Fatore V de Leiden, hiper-homocisteinemia, anticoagulante lúpico ou Ac antifosfolípide.&lt;/p&gt;
+
+&lt;p&gt;Oligoemia no pulmão.&lt;/p&gt;
+
+&lt;p&gt;Transudação hemorrágica.&lt;/p&gt;
+
+&lt;p&gt;A repercussão hemodinâmica vai depender da extensão da área vascular acometida, da capacidade do VD de aguentar a pós-carga, da intensidade da bronco e vasoconstricção (liberação de serotonina e tromboxano A2).&lt;/p&gt;
+
+&lt;p&gt;Se o trombo for central, as alterações hemodinâmicas são muito evidentes, mas não têm hemorragia alveolar e, consequentemente, hemoptise.&lt;/p&gt;
+
+&lt;p&gt;Se o trombo for periférico, não haverão alterações hemodinâmicas mas haverá hemoptise ou hemorragia alveolar.&lt;/p&gt;
+
+&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;O principal fator de risco é a história prévia de TEP.&lt;/li&gt;
+  &lt;li&gt;Grande cirúrgia&lt;/li&gt;
+  &lt;li&gt;Prótese de quadril e joelho&lt;/li&gt;
+  &lt;li&gt;PO em UTI&lt;/li&gt;
+  &lt;li&gt;Final de gravidez ou puerpério&lt;/li&gt;
+  &lt;li&gt;Fraturas de MMII&lt;/li&gt;
+  &lt;li&gt;Varizes&lt;/li&gt;
+  &lt;li&gt;Neoplasias&lt;/li&gt;
+  &lt;li&gt;Imobilização&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fatores menores:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ACO e TRH&lt;/li&gt;
+  &lt;li&gt;DPOC&lt;/li&gt;
+  &lt;li&gt;ICC&lt;/li&gt;
+  &lt;li&gt;HAS&lt;/li&gt;
+  &lt;li&gt;TV superficial&lt;/li&gt;
+  &lt;li&gt;Cateter venoso central&lt;/li&gt;
+  &lt;li&gt;Obesidade&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dispnéia;&lt;/li&gt;
+  &lt;li&gt;Dor pleurítica;&lt;/li&gt;
+  &lt;li&gt;Tosse;&lt;/li&gt;
+  &lt;li&gt;Hemoptise;&lt;/li&gt;
+  &lt;li&gt;Palpitações e angina (hipoxemia)&lt;/li&gt;
+  &lt;li&gt;Síncope&lt;/li&gt;
+  &lt;li&gt;Fatigabilidade&lt;/li&gt;
+  &lt;li&gt;Febre&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Taquipnéia&lt;/li&gt;
+  &lt;li&gt;Taquicardia&lt;/li&gt;
+  &lt;li&gt;Diminuição dos MV&lt;/li&gt;
+  &lt;li&gt;Estertores&lt;/li&gt;
+  &lt;li&gt;Hipotensão&lt;/li&gt;
+  &lt;li&gt;Estase jugular&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;A radiografia de tórax é normal em 16% a 34% dos casos. Os achados são inespecíficos e sua aplicação é mais devido àos possíveis diagnósticos de exclusão.&lt;/p&gt;
+
+&lt;p&gt;D-dímero&lt;/p&gt;
+
+&lt;p&gt;Tomografia computadorizada de múltiplos slides. Angiotomografia computadorizada com protocolo para TEP.&lt;/p&gt;
+
+&lt;p&gt;Mapeamento V/Q&lt;/p&gt;
+
+&lt;p&gt;S1Q3T3&lt;/p&gt;
+
+&lt;p&gt;O ecocardiograma é importante para avaliar choque obstrutivo, avaliar a função do VD.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;A TEP deve ser altamente suspeitada durante a clínica.&lt;/p&gt;
+
+&lt;p&gt;Escore de Wells: um escore de probabilidade e risco de TEP.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;O tratamento é a anticoagulação plena.&lt;/p&gt;
+
+&lt;p&gt;Início imediato heparina + anticoagulante oral.&lt;/p&gt;
+
+&lt;p&gt;Heparina 5 a 7 dias. HNF ou HBPM (mais usada). 1 mg/kd de 12/12 h.&lt;/p&gt;
+
+&lt;p&gt;Varfarin: anticoagulante oral anti-vitamina K. Como ela é protrombótica nos primeiros dias, não pode ser usada no início do tratamento.&lt;/p&gt;
+
+&lt;p&gt;Novos anticoagulantes: atuam diretamente na fase final. Podem ser usados na fase aguda desde que o TEP não seja maciço. Rivaeoxaban, dabigatrana, apixabana, edoxabana.&lt;/p&gt;
+
+&lt;p&gt;TEP maciço: se PAS &amp;lt; 90 ou houver uma queda da PAS maior ou igual que 40 mmHg, deve-se usar o trombolítico (rt-PA).&lt;/p&gt;
+
+&lt;p&gt;Filtro de veia cava.&lt;/p&gt;
+
+&lt;p&gt;Tromboembolectomia: pode ser cirúrgica ou por cateter.&lt;/p&gt;
+
+&lt;h3 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h3&gt;
+
+&lt;p&gt;Deve ser realizada em todos os pacientes com risco para TEP, cirúrgicos ou clínicos.&lt;/p&gt;
+
+&lt;p&gt;Heparina SC: enoxaparina, deltaparina, HNF.&lt;/p&gt;
+
+&lt;p&gt;Expansores plasmáticos, compressão pneumática nos MMII, meias elásticas de compressão graduada.&lt;/p&gt;
+
+&lt;p&gt;Fondaparinux, dabigatrana, rivaroxaban.&lt;/p&gt;
+
+&lt;p&gt;Warfarin: TPAE, manter INR entre 2 e 3 ou 1,5 a 2.&lt;/p&gt;
+
+&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Konstantinides SV, Meyer G, Becattini C, et al. 2019 ESC Guidelines for the diagnosis and management of acute pulmonary embolism developed in collaboration with the European Respiratory Society (Ers)The Task Force for the diagnosis and management of acute pulmonary embolism of the European Society of Cardiology (Esc). Eur Heart J. doi:10.1093/eurheartj/ehz405&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Valvopatia mitral</title><link href="http://localhost:4000/cardiologia/valvopatia-mitral.html" rel="alternate" type="text/html" title="Valvopatia  mitral" /><published>2019-11-23T00:00:00-03:00</published><updated>2019-11-23T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/valvopatia-mitral</id><content type="html" xml:base="http://localhost:4000/cardiologia/valvopatia-mitral.html">&lt;p&gt;As valvopatias mitrais são as mais comuns em prevalência, seguida  pelas da valva aórtica e depois da valva tricúspide.&lt;/p&gt;
 
 &lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
 
@@ -12,12 +311,52 @@
 
 &lt;p&gt;É a doença valvar mais importante nos países subdesenvolvidos. A doença reumática responde por mais de 60% dos casos (a prevalência no sexo feminino é duas vezes a masculina), seguida pela etiologia congênita. O acometimento do folhheto anterior é mais comum. Um mixoma também pode levar a EM.&lt;/p&gt;
 
+&lt;p&gt;A estenose é progressiva e a velocidade de evolução é proporcional à gravidade e número de insultos da cardite reumática.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Os sintomas envolvem principalmente a congestão pulmonar&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Dispnéia&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dispnéia paroxística noturna e ortopnéia&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dor torácica&lt;/strong&gt; (não é de origem isquêmica, é pela hipertensão pulmonar);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Hemoptise&lt;/strong&gt;;&lt;/li&gt;
+  &lt;li&gt;EAP;&lt;/li&gt;
+  &lt;li&gt;Rouquidão (síndrome de Ortne’s).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;eletrocardiograma&quot;&gt;Eletrocardiograma&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Pode ser vista fibrilação atrial;&lt;/li&gt;
+  &lt;li&gt;Sobrecarda de AE;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;radiografia-de-tórax&quot;&gt;Radiografia de tórax&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Linhas B de Kerley;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ecocardiograma&quot;&gt;Ecocardiograma&lt;/h3&gt;
+
+&lt;p&gt;A estenose pode ser vista no modo “M” do ecocardiograma.&lt;/p&gt;
+
+&lt;p&gt;Pode fazer o escore de Block para avaliar mobilidade, calcificação e espessamento.&lt;/p&gt;
+
+&lt;h3 id=&quot;cateterismo&quot;&gt;Cateterismo&lt;/h3&gt;
+
+&lt;p&gt;Dificilmente o cateterismo é indicado para a EM. Apenas se o paciente tiver doença isquêmica.&lt;/p&gt;
+
 &lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
 
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th style=&quot;text-align: right&quot;&gt; &lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt; &lt;/th&gt;
       &lt;th&gt;PAP (mmHg)&lt;/th&gt;
       &lt;th&gt;Gradiente medio (mmHg)&lt;/th&gt;
       &lt;th&gt;Area valvar (cm2)&lt;/th&gt;
@@ -25,25 +364,78 @@
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Leve&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Leve&lt;/td&gt;
       &lt;td&gt;&amp;lt; 30&lt;/td&gt;
       &lt;td&gt;&amp;lt; 5&lt;/td&gt;
       &lt;td&gt;&amp;gt; 1,5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Moderada&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Moderada&lt;/td&gt;
       &lt;td&gt;30-50&lt;/td&gt;
       &lt;td&gt;5-10&lt;/td&gt;
       &lt;td&gt;1-1,5&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td style=&quot;text-align: right&quot;&gt;Grave&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Grave&lt;/td&gt;
       &lt;td&gt;&amp;gt; 50&lt;/td&gt;
       &lt;td&gt;&amp;gt; 10&lt;/td&gt;
       &lt;td&gt;&amp;lt; 1&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
+
+&lt;h2 id=&quot;tratamento-clínico&quot;&gt;Tratamento clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Limitar a atividade física&lt;/li&gt;
+  &lt;li&gt;Dieta hipossódica;&lt;/li&gt;
+  &lt;li&gt;Diuréticos;&lt;/li&gt;
+  &lt;li&gt;BBs;&lt;/li&gt;
+  &lt;li&gt;Antiarrítmicos (Digital, BB, Amiodarona);&lt;/li&gt;
+  &lt;li&gt;Cardioversão elétrica;&lt;/li&gt;
+  &lt;li&gt;Anticoagulação.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Os BBs, digitálicos e BCC previnem as arritmias.&lt;/p&gt;
+
+&lt;h3 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h3&gt;
+
+&lt;h3 id=&quot;betabloqueadores&quot;&gt;Betabloqueadores&lt;/h3&gt;
+
+&lt;h3 id=&quot;digitais&quot;&gt;Digitais&lt;/h3&gt;
+
+&lt;h3 id=&quot;anticoagulação&quot;&gt;Anticoagulação&lt;/h3&gt;
+
+&lt;h2 id=&quot;tratamento-cirúrgico&quot;&gt;Tratamento cirúrgico&lt;/h2&gt;
+
+&lt;h3 id=&quot;valvuloplastia-com-balão&quot;&gt;Valvuloplastia com balão&lt;/h3&gt;
+
+&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
+
+&lt;h1 id=&quot;insuficiência-mitral&quot;&gt;Insuficiência mitral&lt;/h1&gt;
+
+&lt;p&gt;O prolapso da valva mitral é relativamente comum e pode causar uma insuficiência mitral leve. Não ocasiona muitas repercusões e nem aumenta a morbimortalidade dos pacientes. A causa são doenças do tecido conjuntivo, como a degeneração mixomatosa. Está muito associada à síndrome de Marfan.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico-1&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Dispnéia&lt;/li&gt;
+  &lt;li&gt;Fadiga (ICC)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Na IM aguda os sintomas surgem de forma aguda. O quadro mais clássico é o edema agudo de pulmão. As principais causas são o IAM e a rotura de cordoalha.&lt;/p&gt;
+
+&lt;h2 id=&quot;exame-físico&quot;&gt;Exame físico&lt;/h2&gt;
+
+&lt;p&gt;O mais importante é o surgimento do sopro &lt;strong&gt;holossistólico em foco mitral com irradiação para a axila&lt;/strong&gt;. As vezes o sopro pode irradiar para a aorta, se a lesão for no folheto anterior, e se confundir com um sopro de valvopatia aórtica.&lt;/p&gt;
+
+&lt;p&gt;Um achado frequente na IM é a terceira bulha.&lt;/p&gt;
+
+&lt;h2 id=&quot;exames-complementares-1&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;ecocardiograma-1&quot;&gt;Ecocardiograma&lt;/h3&gt;
+
+&lt;h2 id=&quot;tratamento-cirúrgico-1&quot;&gt;Tratamento cirúrgico&lt;/h2&gt;
 
 &lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
 
@@ -289,583 +681,4 @@
 &lt;ul&gt;
   &lt;li&gt;Perfil C: fazer drogas;&lt;/li&gt;
   &lt;li&gt;Perfil L: fazer Líquidos!&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Leptospirose</title><link href="http://localhost:4000/infectologia/leptospirose.html" rel="alternate" type="text/html" title="Leptospirose" /><published>2019-11-16T00:00:00-03:00</published><updated>2019-11-16T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/leptospirose</id><content type="html" xml:base="http://localhost:4000/infectologia/leptospirose.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#síndrome-de-weil&quot; id=&quot;markdown-toc-síndrome-de-weil&quot;&gt;Síndrome de Weil&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
-
-&lt;p&gt;A leptospirose é uma doença febril causa pela infecção pelo &lt;em&gt;Leptospira interrogans&lt;/em&gt;, uma bactéria do filo &lt;a href=&quot;https://pt.wikipedia.org/wiki/Spirochaetes&quot;&gt;espiroqueta&lt;/a&gt;. Se assemelha muito à dengue clássica, mas é considerada a mais importante zoonose.&lt;/p&gt;
-
-&lt;p&gt;Em alguns casos pode se apresentar numa forma grave denominada de síndrome de Weil.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;Enchentes em zonas urbanas possuem uma relação com surtos dessa doença.&lt;/p&gt;
-
-&lt;p&gt;Cerca de 60% dos ratos no Brasil possuem urina positiva para Leptospira.&lt;/p&gt;
-
-&lt;p&gt;Os principais surtos de infecção costumam ocorrer nas épocas de maiores chuvas e quando ocorrem maiores enchentes, facilitando o contato com elementos da urina de ratos.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;Estas espiroquetas são micro-organismos aeróbicos obrigatórios, helicoidais, flexíveis e móveis. Podem permanecer viáveis em solo úmido ou na água por semanas a meses, mas precisam de um hospedeiro animal para manter seu ciclo vital. Este pode ser um mamífero, um réptil ou um anfíbio. O hospedeiro clássico e mais conhecido é o rato, o principal reservatório desta bactéria.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/leptospira.png&quot; alt=&quot;Etiologia&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Os roedoras não desenvolvem a doença e eliminam as espiroquetas na urina. A leptospira é capaz de penetrar na pele de mamíferos por meio de micro lesões ou abrasões na pele, através de membranas mucosas (oral, faríngea e conjuntiva) ou pela inalação de gotículas microscópicas.&lt;/p&gt;
-
-&lt;p&gt;Os seres humanos acometidos são hospedeiros acidentais, e podem, após se infectar, permanecer assintomáticos ou desenvolver a doença. Os animais infectados, incluindo o Homem, passam então a excretar esse patógeno na urina, dando continuidade ao ciclo de vida.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fase de leptospiremia:&lt;/strong&gt; após penetrar na pele ou na mucosa, as leptospiras chegam à corrente sanguínea e se multiplicam, disseminando-se pelo organismo.&lt;/p&gt;
-
-&lt;p&gt;As leptospira são capazes de produzir hialuronidase, uma enzima que possibilita a difusão e invasão do tecido conjuntivo sem provocar uma exarcevada reação inflamatória. Dessa forma, o patógeno pode atingir o líquor e o humor aquoso.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Capilarite generalizada:&lt;/strong&gt; lesão direta do endotélio provocada pelas leptospiras. Ocorre extravasamento de líquido para o terceiro espaço e fenômenos hemorrágicos,
-característicos da doença, mais especialmente nas formas graves.&lt;/p&gt;
-
-&lt;p&gt;adesão das leptospiras à mem-
-brana das células, determinando lesão ou disfun-
-ção celular, desproporcional aos achados histopa-
-tológicos. Isso quer dizer que podemos ter disfun-
-ção orgânica com pouca ou nenhuma inflamação!&lt;/p&gt;
-
-&lt;p&gt;Síndrome de Weil: os órgãos mais afetados são o fígado, o rim, o pulmão, o coração e o músculo esquelético.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;h3 id=&quot;síndrome-de-weil&quot;&gt;Síndrome de Weil&lt;/h3&gt;
-
-&lt;p&gt;É uma forma grave da doença, caracterizada pela tríade: &lt;strong&gt;icterícia, hemorragias e insuficiência renal aguda&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;MED&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Taquicardias supraventriculares</title><link href="http://localhost:4000/cardiologia/taqui.html" rel="alternate" type="text/html" title="Taquicardias supraventriculares" /><published>2019-11-13T00:00:00-03:00</published><updated>2019-11-13T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/taqui</id><content type="html" xml:base="http://localhost:4000/cardiologia/taqui.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#taquicardias-atriais&quot; id=&quot;markdown-toc-taquicardias-atriais&quot;&gt;Taquicardias atriais&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#flutter-atrial&quot; id=&quot;markdown-toc-flutter-atrial&quot;&gt;Flutter atrial&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#tipo-i-típico&quot; id=&quot;markdown-toc-tipo-i-típico&quot;&gt;Tipo I (típico)&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tipo-ii&quot; id=&quot;markdown-toc-tipo-ii&quot;&gt;Tipo II&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fibrilação-atrial&quot; id=&quot;markdown-toc-fibrilação-atrial&quot;&gt;Fibrilação atrial&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;TPSV&lt;/li&gt;
-  &lt;li&gt;Taquicardia atrial&lt;/li&gt;
-  &lt;li&gt;Flutter atrial&lt;/li&gt;
-  &lt;li&gt;Fibrilação atrial&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A extrassístole pode ser de origem ventricular ou supraventricular. As ventriculares possuem morfologia aberrante  enquanto que as supraventriculáres possuem a morfologia normal do QRS.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Ponto de Wenckebar:&lt;/strong&gt; a frequencia de estimulo em que o nó AV começa a parar de conduzir o impulso, formando um BAV de 2o grau do tipo 1. Cada pessoa tem um ponto diferente, mas a maioria vai bloquear a condução em torno de 140 a 190 bpm.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;De forma geral os números das frequências podem variar de autor para autor.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A maioria das taquicardias atriais têm  frequência baixa, ou seja, todos os estímulos passam pelo nó AV pois não ultrapassam oponto de Weckenbar.&lt;/p&gt;
-
-&lt;p&gt;Flutter atrial: acima de 240 bpm chamamos de flutter. Este pode ser de tipo I (240-340) ou tipo II (340-433) ou ainda um BAV fixo ou variável.&lt;/p&gt;
-
-&lt;p&gt;Uma fibrilação atrial é caracterizada por frequência maior que 450 bpm.&lt;/p&gt;
-
-&lt;h2 id=&quot;taquicardias-atriais&quot;&gt;Taquicardias atriais&lt;/h2&gt;
-
-&lt;h2 id=&quot;flutter-atrial&quot;&gt;Flutter atrial&lt;/h2&gt;
-
-&lt;h3 id=&quot;tipo-i-típico&quot;&gt;Tipo I (típico)&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ondas F tipo dente de serrote&lt;/li&gt;
-  &lt;li&gt;Negativas em D2, D3 e aVF;&lt;/li&gt;
-  &lt;li&gt;Freq de F: 240-340 - bloquieo 2:1 (a cada duas sístoles atriais ocorre uma sístole ventricular);&lt;/li&gt;
-  &lt;li&gt;Interrompida por estimulação elétrica atrial.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tipo-ii&quot;&gt;Tipo II&lt;/h3&gt;
-
-&lt;p&gt;O ECG esofágico pode facilitar a visualização pois o esôfago está muito próximo do átrio e as ondas F ficariam mais evidentes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/flutter.webp&quot; alt=&quot;Flutter&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;fibrilação-atrial&quot;&gt;Fibrilação atrial&lt;/h2&gt;
-
-&lt;p&gt;É a arritimia mais irregular que existe. Pode ser identificada apenas com a ausculta. Quando tem frequência alta pode incomodar o paciente e fazê-lo buscar auxílio médico.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Paroxística&lt;/li&gt;
-  &lt;li&gt;Persistente&lt;/li&gt;
-  &lt;li&gt;Permanente: não reversível;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A prevalência é de aproximadamente 0,4% da população e aumenta com a idade. Existem causas de FA sem alteração atrial.&lt;/p&gt;
-
-&lt;p&gt;Aumenta o risco de tromboembolismo.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sintomas “estranhos” do SNC como: “sinto a cabeça aérea’, “sinto a cabeça vazia”;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Hoje a terapia é feita com Warfarina. Porém, é necessário ficar avaliando o INR que deve ser mantido entre 2 e 3.&lt;/p&gt;
-
-&lt;p&gt;Novos anticoagulantes: dabigatrana, rivaroxabana, apixabana, endoxabana.&lt;/p&gt;
-
-&lt;p&gt;Controle da frequência ventricular:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Digital;&lt;/li&gt;
-  &lt;li&gt;Verapamil;&lt;/li&gt;
-  &lt;li&gt;Diltiazem;&lt;/li&gt;
-  &lt;li&gt;Betabloqueador;&lt;/li&gt;
-  &lt;li&gt;Amiodarona.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Endocardite infecciosa</title><link href="http://localhost:4000/infectologia/endocardite-infecciosa.html" rel="alternate" type="text/html" title="Endocardite infecciosa" /><published>2019-11-12T00:00:00-03:00</published><updated>2019-11-12T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/endocardite-infecciosa</id><content type="html" xml:base="http://localhost:4000/infectologia/endocardite-infecciosa.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#fatores-de-risco&quot; id=&quot;markdown-toc-fatores-de-risco&quot;&gt;Fatores de risco&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#endocardite-aguda&quot; id=&quot;markdown-toc-endocardite-aguda&quot;&gt;Endocardite aguda&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#valva-nativa&quot; id=&quot;markdown-toc-valva-nativa&quot;&gt;Valva Nativa&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#valva-protética&quot; id=&quot;markdown-toc-valva-protética&quot;&gt;Valva protética&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#associada-aos-cuidados-de-saúde&quot; id=&quot;markdown-toc-associada-aos-cuidados-de-saúde&quot;&gt;Associada aos cuidados de saúde&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#agentes-raros&quot; id=&quot;markdown-toc-agentes-raros&quot;&gt;Agentes raros&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#endocardite-subaguda&quot; id=&quot;markdown-toc-endocardite-subaguda&quot;&gt;Endocardite Subaguda&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#valva-nativa-1&quot; id=&quot;markdown-toc-valva-nativa-1&quot;&gt;Valva nativa&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#ei-aguda&quot; id=&quot;markdown-toc-ei-aguda&quot;&gt;EI Aguda&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ei-subaguda&quot; id=&quot;markdown-toc-ei-subaguda&quot;&gt;EI Subaguda&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#complicações&quot; id=&quot;markdown-toc-complicações&quot;&gt;Complicações&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#hemocultura&quot; id=&quot;markdown-toc-hemocultura&quot;&gt;Hemocultura&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-diferencial&quot; id=&quot;markdown-toc-diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#conduta&quot; id=&quot;markdown-toc-conduta&quot;&gt;Conduta&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#antibioticoterapia&quot; id=&quot;markdown-toc-antibioticoterapia&quot;&gt;Antibioticoterapia&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#fatores-de-melhora&quot; id=&quot;markdown-toc-fatores-de-melhora&quot;&gt;Fatores de melhora&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cirúrgico&quot; id=&quot;markdown-toc-cirúrgico&quot;&gt;Cirúrgico&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#bibliografia&quot; id=&quot;markdown-toc-bibliografia&quot;&gt;Bibliografia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
-
-&lt;p&gt;Definimos endocardite infecciosa (EI) como uma infecção microbiana da superfície endotelial do coração.&lt;/p&gt;
-
-&lt;p&gt;A lesão protótipo da EI é a “vegetação”. Esta é formada por plaquetas, microorganismos, fibrina e células inflamatórias. Geralmente ela acomete as valvas cardíacas, principalmente a valva mitral, seguida pela aórtica. Mas outras regiões como as cordoalhas, áreas de defeitos septais e o próprio endocárdio também podem ser afetados.&lt;sup id=&quot;fnref:Harrison&quot;&gt;&lt;a href=&quot;#fn:Harrison&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;endarterite infecciosa&lt;/strong&gt; é um processo semelhante porém acometendo &lt;em&gt;shunts&lt;/em&gt; arteriovenosos, &lt;em&gt;shunts&lt;/em&gt; arterio-arteriais e coarctação de aorta.&lt;/p&gt;
-
-&lt;p&gt;A EI pode ser classificada de acordo com o tempo de evolução (aguda e crônica), o sítio de infecção, a etiologia e/ou de acordo com os fatores de riscos (uso de drogas injetáveis, associação com os cuidados de saúde).&lt;sup id=&quot;fnref:Harrison:1&quot;&gt;&lt;a href=&quot;#fn:Harrison&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Quanto ao tempo de apresentação, ela é diferenciada em &lt;strong&gt;aguda&lt;/strong&gt;, menos de 6 semanas, e &lt;strong&gt;subaguda&lt;/strong&gt;, mais de 6 semanas. Contudo, também costuma-se utilizar a apresentação clínica, apesar do tempo de duração, para diferenciar entre estes dois tipos. A EI aguda é doença doença febril de rápida progressão de injúria cardíaca que pode levar à morte em semanas. Já a forma subaguda é mais arrastada e o dano cardíaco é mais lento, contudo, pode ser agravada agudamente por complicações como embolizações ou rupturas de aneurismas.&lt;sup id=&quot;fnref:Harrison:2&quot;&gt;&lt;a href=&quot;#fn:Harrison&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;De forma geral, a EI necessita sempre de intervenção médica ou evoluirá para óbito. Não existem casos de cura espontânea de EI.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;Nos países desenvolvidos acomete em torno de 4-7 a cada 100 mil indivíduos por ano. Nesses países, o principal fator predisponente deixou de ser a doença reumática e passou a ser: cardiopatias congênitas, uso de  drogas injetáveis, doença degenerativas valvares e dispositivos intracardíacos (incluindo valvas prostéticas).&lt;/p&gt;
-
-&lt;p&gt;Já nos países em desenvolvimento, a doença reumática ainda é o principal fator de risco.&lt;/p&gt;
-
-&lt;h3 id=&quot;fatores-de-risco&quot;&gt;Fatores de risco&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Portadores de dispositivos intra-cardíacos;&lt;/li&gt;
-  &lt;li&gt;Doença valvar prévia;&lt;/li&gt;
-  &lt;li&gt;Endocardite associada aos cuidados de saúde: procedimentos invasivos:
-    &lt;ul&gt;
-      &lt;li&gt;Hemodiálise;&lt;/li&gt;
-      &lt;li&gt;Cateterismo venoso profundo;&lt;/li&gt;
-      &lt;li&gt;Implante de devices intracardíacos (marca-passo, CDI);&lt;/li&gt;
-      &lt;li&gt;Cirurgias endourológicas.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Valvas protéticas&lt;/li&gt;
-  &lt;li&gt;Doença reumática;&lt;/li&gt;
-  &lt;li&gt;Crianças com cardiopatias congênitas;&lt;/li&gt;
-  &lt;li&gt;Usuários de drogas injetáveis.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;É muito importante conhecer os fatores de risco pois cada um apresenta um patógeno mais comum de causar a infeccção e isso pode implicar na hora de escolher a antibioticoterapia empírica.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Endocardites infecciosas em valvas protéticas:&lt;/strong&gt; esta classe é subdividida em função do tempo de aparecimento da EI após a cirurgia de troca valvar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Precoce (primeiros 2 meses);&lt;/li&gt;
-  &lt;li&gt;Intermediário (entre 2-12 meses);&lt;/li&gt;
-  &lt;li&gt;Tardio (&amp;gt; 12 meses após a cirurgia).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;p&gt;A etiologia vai variar de acordo com os fatores predisponentes, principalmente em usuários de drogas IV e portadores de prótese valvar, e do quadro clínico (aguda ou subaguda).&lt;/p&gt;
-
-&lt;p&gt;O cardápio de microorganismos pode ser bastante vasto, variando de bactérias a fungos. Contudo, existem alguns patógenos que estão mais frequentemente associados à EI. A boca, a pele e o trato respiratório superior podem funcionar como porta de entrada para estafilococos, estreptococos e bactérias do grupo HACEK.&lt;/p&gt;
-
-&lt;p&gt;A bacteremia pelo &lt;em&gt;Streptococcus bovis&lt;/em&gt; (também chamado de &lt;em&gt;S. gallolyticus&lt;/em&gt; subespécie &lt;em&gt;gallolyticus&lt;/em&gt;) está associado a tumores do TGI, doença de Chron e polipose. É de boa prática pesquisar de tumores de cólon por colonoscopia nestes pacientes. O &lt;em&gt;S. bovis&lt;/em&gt; originário do TGI atinge a corrente sanguínea através das lesões existentes.&lt;/p&gt;
-
-&lt;p&gt;Já os enterococos, podem atingir a corrente sanguínea pelo trato genitourinário.&lt;/p&gt;
-
-&lt;p&gt;Os fungos, principalmente os do gênero &lt;em&gt;Cândida&lt;/em&gt;, &lt;em&gt;Aspergilus&lt;/em&gt; e &lt;em&gt;Torulopsis&lt;/em&gt;, são mais frequentes em usuários de drogas injetáveis.&lt;/p&gt;
-
-&lt;h3 id=&quot;endocardite-aguda&quot;&gt;Endocardite aguda&lt;/h3&gt;
-
-&lt;h4 id=&quot;valva-nativa&quot;&gt;Valva Nativa&lt;/h4&gt;
-
-&lt;p&gt;O Staphylococcus aureus é o principal agente da endocardite aguda em valva nativa. Geralmente é proveniente da flora cutânea e muitos pacientes apresentam uma infecção de pele ou tecido subcutâneo (como uma furunculose) como porta de entrada.&lt;/p&gt;
-
-&lt;p&gt;Enterococos, Strepto pyogenes, também podem atuar.&lt;/p&gt;
-
-&lt;p&gt;O Streptococcus pneumoniae é responsável por cerca de 1 a 3% dos casos, sendo mais frequente em alcoólatras com pneumonia e meningite e, mais raramente, crianças. Evolui de forma mais grave com comprometimento preferencial da valva aórtica, que tem sua estrutura destruída de maneira precoce, somada à formação de abscessos miocárdicos e insuficiência cardíaca aguda. A mortalidade é de 30-50%. A tríade pneumonia + meningite + endocardite é chamada &lt;strong&gt;síndrome de Austrian&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Em &lt;strong&gt;usuários de droga injetáveis&lt;/strong&gt;, o &lt;em&gt;S. aureus&lt;/em&gt; é a principal etiologia da valva tricúspide, a valva mais comumente afetada nesses pacientes. O material injetado costuma conter partículas e impurezas (como talco) capazes de
-lesar diretamente o endotélio da valva tricúspide, facilitando a infecção estafilocócica desta valva. A metastatização de êmbolos sépticos para os pulmões acarreta a formação de múltiplos abscessos pulmonares bilaterais, sendo tal achado um comemorativo característico da EI de valva tricúspide.&lt;/p&gt;
-
-&lt;h4 id=&quot;valva-protética&quot;&gt;Valva protética&lt;/h4&gt;
-
-&lt;p&gt;&lt;strong&gt;Início precoce (&amp;lt; 2 meses):&lt;/strong&gt; o &lt;em&gt;Staphylococcus epidermidis&lt;/em&gt; (coagulase-negativo) e o &lt;em&gt;Staphylococcus aureus&lt;/em&gt; são os mais comuns nos primeiros dois meses após a cirurgia de troca valvar. Bacilos gram-negativos, fungos (Candida albicans), enterococos e os difteroides também são agentes importantes neste grupo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Início intermediário (entre 2-12 meses):&lt;/strong&gt; principalmente os Staphylococcus coagulase-negativo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Início tardio (&amp;gt; 1 ano):&lt;/strong&gt; os agentes são semelhantes aos da EI comunitária de valvas nativas, Streptococcus do grupo viridans, S. aureus, enterococo, HACEK.&lt;/p&gt;
-
-&lt;h4 id=&quot;associada-aos-cuidados-de-saúde&quot;&gt;Associada aos cuidados de saúde&lt;/h4&gt;
-
-&lt;p&gt;Principalmente os &lt;em&gt;S. aureus&lt;/em&gt; e &lt;em&gt;Staphylococcus epidermidis&lt;/em&gt; (coagulase-negativo). Também aumenta a frequência dos enterococos, bacilos gram-negativos entéricos e fungos.&lt;/p&gt;
-
-&lt;h4 id=&quot;agentes-raros&quot;&gt;Agentes raros&lt;/h4&gt;
-
-&lt;p&gt;Em 5-15% dos pacientes as hemoculturas são negativas. Em metade desses casos, o motivo é simplesmente o uso prévio de antibióticos. O restante é explicado por germes raros
-que não crescem nos meios de cultura habituais, como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Granulicatella e Abiotrophia (bactérias com necessidades nutricionais especiais);&lt;/li&gt;
-  &lt;li&gt;Membros do grupo HACEK;&lt;/li&gt;
-  &lt;li&gt;Bartonella hanselae ou quintana (endocardite em moradores de rua);&lt;/li&gt;
-  &lt;li&gt;Coxiella burnetti (agente da febre Q);&lt;/li&gt;
-  &lt;li&gt;Brucella (agente da brucelose – mais frequente em países do Oriente Médio) e Trophery- ma whippeli (agente da doença de Whipple).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Todos estes patógenos causam quadros indolentes e, por vezes, &lt;strong&gt;afebris&lt;/strong&gt; de endocardite.&lt;/p&gt;
-
-&lt;h3 id=&quot;endocardite-subaguda&quot;&gt;Endocardite Subaguda&lt;/h3&gt;
-
-&lt;h4 id=&quot;valva-nativa-1&quot;&gt;Valva nativa&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Estreptococos alfa-hemolíticos, conhecidos como &lt;strong&gt;Streptococcus do grupo viridans&lt;/strong&gt; (S. sanguis, S. mutans, S. mitior, S. intermedius)
-    &lt;ul&gt;
-      &lt;li&gt;São as principais etiologias de endocardite comunitária em indivíduos não usuários de drogas injetáveis.&lt;/li&gt;
-      &lt;li&gt;Estes micro-organismos fazem parte da microbiota normal da cavidade oral e, a partir de bacteremias transitórias, colonizam valvas previamente comprometidas por desordens congênitas ou adquiridas (ex.: doença reumática, degeneração senil).&lt;/li&gt;
-      &lt;li&gt;O estreptococo do grupo viridans é a principal causa de endocardite bacteriana subaguda.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os enterococos, cocos Gram-positivos antigamente chamados de “estreptococo do grupo
-D”, constituem o segundo agente causal da endocardite subaguda. Enterococcus faecalis
-e Enterococcus faecium são as principais espécies envolvidas. Estes micro-organismos
-estão associados a bacteremias após instrumentação do trato urinário em homens. Os
-enterococos podem causar endocardite subaguda ou aguda e infectar valvas nativas normais ou defeituosas. São conhecidos pela sua resistência natural a diversos antibióticos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Grupo HACEK&lt;/strong&gt;: são bactérias gram-negativas que crescem  apenas em meios especiais enriquecidos com nutrientes específicos (fastidiosas).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Haemophilus sp&lt;/em&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Aggregatibacter sp&lt;/em&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Cardiobacterium hominis&lt;/em&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Eikenella corrodens&lt;/em&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Kingella kingae&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;(Haemophylus parainfluenzae, Haemophilus aphrophilus, Actinobacillus, Cardiobacterium hominis, Eikenella corrodens e Kingella kingii) são gram-negativos fastidiosos (de crescimento lento e apenas em meios especiais enriquecidos com nutrientes específicos) que raramente ocasionam a doença. Eles fazem parte da microbiota normal do trato respiratório
-superior, causando endocardite subaguda em valvas nativas e valvas protéticas. Podem produzir a enzima betalactamase.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;h3 id=&quot;ei-aguda&quot;&gt;EI Aguda&lt;/h3&gt;
-
-&lt;p&gt;Nas formas agudas, o quadro toxêmico e a gravidade dos achados faz com que o paciente procure o médico de forma mais precoce, com o seu diagnóstico sendo estabelecido durante a internação hospitalar.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Febre alta,&lt;/li&gt;
-  &lt;li&gt;Sinais de toxemia (sepse),&lt;/li&gt;
-  &lt;li&gt;Disfunção cardíaca precoce;&lt;/li&gt;
-  &lt;li&gt;Surgimento de múltiplos focos de infecção metastática à distância.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A EI por &lt;em&gt;S. aureus&lt;/em&gt; costuma cursar com mais eventos embólicos. Também costuma ser mais letal se não reconhecida rapidamente.&lt;/p&gt;
-
-&lt;p&gt;Nos usuários de drogas intravenosas, a valva tricúspide é preferencialmente acometida. Em
-pacientes sem este fator de risco, pode haver comprometimento da valva aórtica.&lt;/p&gt;
-
-&lt;h3 id=&quot;ei-subaguda&quot;&gt;EI Subaguda&lt;/h3&gt;
-
-&lt;p&gt;Representa pelos Streptococcus do grupo viridans e pelos enterococos. Acomete mais comumente as valvas com lesões prévias. Sua apresentação é mais arrastada, cursando com:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Febre baixa&lt;/strong&gt; intermitente (presente em 90% dos casos);&lt;/li&gt;
-  &lt;li&gt;Sudorese noturna;&lt;/li&gt;
-  &lt;li&gt;Perda ponderal;&lt;/li&gt;
-  &lt;li&gt;Fenômenos imunológicos;&lt;/li&gt;
-  &lt;li&gt;Anemia;&lt;/li&gt;
-  &lt;li&gt;Esplenomegalia;&lt;/li&gt;
-  &lt;li&gt;Surgimento ou modificação de sopros já existentes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A disfunção cardíaca pode ou não acontecer e geralmente é gradual. Se não tratada, evolui para óbito num período de tempo bem mais longo (de meses). Mas também podem ocorrer intercorrências agudas potencialmente letais, como fenômenos cardioembólicos (AVC, IAM) ou ruptura de “aneurisma micótico”.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Manchas de Janeway:&lt;/strong&gt; máculas avermelhadas, planas e indolores, mais comum nas palmas das mãos e na planta dos pés;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Manchas de Roth:&lt;/strong&gt; inflamação ocular por microembolizações da arteria retiniana,formando manchas em aspécto algodonoso;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Nódulos de Osler:&lt;/strong&gt; nós subcutâneos dolorosos, pequenos e macios que se desenvolvem na polpa dos dedos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;complicações&quot;&gt;Complicações&lt;/h2&gt;
-
-&lt;p&gt;Embolização para pulmões e grandes vasos, abscesso miocárdico, infarto tecidual etc.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;A “vegetação” é uma lesão composta por plaquetas, fibrina, micro-organismos e células inflamatórias.&lt;/p&gt;
-
-&lt;h3 id=&quot;hemocultura&quot;&gt;Hemocultura&lt;/h3&gt;
-
-&lt;p&gt;Devem ser coletadas 3 culturas sanguíneas antes do início dos antibióticos.&lt;/p&gt;
-
-&lt;p&gt;Deve ser colhida em artéria!!!&lt;/p&gt;
-
-&lt;p&gt;Também pode ser feita a cultura de materiais cirpurgicos, como cateteres e valvas protéticas retiradas. Se possível, sempre enviar estes materiais para a cultura.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;A faculdade de Duke elaborou critérios clássicos para o diagnóstico de endocardite infecciosa:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/cardiologia/ei/duke.jpg&quot; alt=&quot;Critérios de Duke&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;2 critérios maiores;&lt;/li&gt;
-  &lt;li&gt;1 maior e 3 menores;&lt;/li&gt;
-  &lt;li&gt;5 menores.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/h3&gt;
-
-&lt;p&gt;Endarterite infecciosa: é a infecção da camada endotelial de derivações arteriovenosas, shunts arterioarteriais (como o ducto arterioso patente) e locais de estreitamento da aorta (como a coarctação).&lt;/p&gt;
-
-&lt;p&gt;O lúpus eritematoso sistêmico pode ser um DD com a EI. Devido à semelhança da leucopenia, aniemia, febre e sintomas gerais.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;conduta&quot;&gt;Conduta&lt;/h3&gt;
-
-&lt;p&gt;O paciente com EI aguda deve ser adimitido na UTI.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hidratação;&lt;/li&gt;
-  &lt;li&gt;Dieta hiperproteica;&lt;/li&gt;
-  &lt;li&gt;Analgésicos e anti-térmicos;&lt;/li&gt;
-  &lt;li&gt;Colher as 6 hemoculturas antes de iniciar os antibióticos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;antibioticoterapia&quot;&gt;Antibioticoterapia&lt;/h3&gt;
-
-&lt;p&gt;A antibioticoterapia dura em torno de 30 a 40 dias.&lt;/p&gt;
-
-&lt;p&gt;Penicilina cristalina + gentamicina associado ou não à oxacilina por cerca de 4 a 6 semanas. Para alérgicos à penicilina, opta-se pela vancomicina.&lt;/p&gt;
-
-&lt;p&gt;Para S. viridans: penicilinas ou cefalosporinas de 3a geração por 4 semanas. Se associar com gentamicina pode ser reduzido para 2 semanas se não houver comorbidades. Se MIC &amp;gt; 0,6 ugmL deve ser tratada como enterococo.&lt;/p&gt;
-
-&lt;h4 id=&quot;fatores-de-melhora&quot;&gt;Fatores de melhora&lt;/h4&gt;
-
-&lt;p&gt;Após o início da antibioticoterapia, em torno de 75% dos pacientes cessam a febre com semana e 90% em duas semanas. A febre prolongada, ultrapassando 2 semanas durante a antibioticoterapia, está associada àos patógenos S. aureus,
-bacilos Gram-negativos e fungos, ou à presença de complicações.&lt;/p&gt;
-
-&lt;h3 id=&quot;cirúrgico&quot;&gt;Cirúrgico&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sintomas de insuficiência cardíaca na EI é igual a tratamento cirúrgico precoce!&lt;/li&gt;
-  &lt;li&gt;EI fúngica: o tratamento clínico é muito demorado e o paciente pode piorar antes de completá-lo, por isso indica-se logo o tratamento cirúrgico;&lt;/li&gt;
-  &lt;li&gt;Embolização de repetição;&lt;/li&gt;
-  &lt;li&gt;Alterações anatômicas: como abcessos, aneurismas, comunicações de câmaras;&lt;/li&gt;
-  &lt;li&gt;Persistência da febre 7 a 10 dias após início do tratamento clínico;&lt;/li&gt;
-  &lt;li&gt;Qualquer sinal de sepse.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Não se deve hesitar na indicação de cirurgia para a EI.&lt;/p&gt;
-
-&lt;h2 id=&quot;bibliografia&quot;&gt;Bibliografia&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Jameson JL, ed. Harrison’s Principles of Internal Medicine. Twentieth edition. New York: McGraw-Hill Education; 2018.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:Harrison&quot;&gt;
-      &lt;p&gt;Jameson JL, ed. Harrison’s Principles of Internal Medicine. Twentieth edition. New York: McGraw-Hill Education; 2018. &lt;a href=&quot;#fnref:Harrison&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Harrison:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:Harrison:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Tuberculose</title><link href="http://localhost:4000/pneumologia/tuberculose.html" rel="alternate" type="text/html" title="Tuberculose" /><published>2019-11-11T00:00:00-03:00</published><updated>2019-11-11T00:00:00-03:00</updated><id>http://localhost:4000/pneumologia/tuberculose</id><content type="html" xml:base="http://localhost:4000/pneumologia/tuberculose.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#introdução&quot; id=&quot;markdown-toc-introdução&quot;&gt;Introdução&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#transmissão&quot; id=&quot;markdown-toc-transmissão&quot;&gt;Transmissão&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#teste-de-mantoux&quot; id=&quot;markdown-toc-teste-de-mantoux&quot;&gt;Teste de Mantoux&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#igra&quot; id=&quot;markdown-toc-igra&quot;&gt;Igra&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#radiografia&quot; id=&quot;markdown-toc-radiografia&quot;&gt;Radiografia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tomografia-computadorizada&quot; id=&quot;markdown-toc-tomografia-computadorizada&quot;&gt;Tomografia computadorizada&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#histologia&quot; id=&quot;markdown-toc-histologia&quot;&gt;Histologia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#reação-em-cadeia-polimerase&quot; id=&quot;markdown-toc-reação-em-cadeia-polimerase&quot;&gt;Reação em cadeia polimerase&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#vacina-do-bcg&quot; id=&quot;markdown-toc-vacina-do-bcg&quot;&gt;Vacina do BCG&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;introdução&quot;&gt;Introdução&lt;/h2&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;População privada de liberdade;&lt;/li&gt;
-  &lt;li&gt;Usuários de drogas;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;p&gt;Mycobacterium tuberculosis&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Multiplicação lenta (é uma doença crônica);&lt;/li&gt;
-  &lt;li&gt;Aerobiose estrita;&lt;/li&gt;
-  &lt;li&gt;Alta proporção de mutantes resistentes;&lt;/li&gt;
-  &lt;li&gt;Álcool-ácido resistente (BAAR).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Baciloscopia: o bacilo aparece corado de vermelho na lâmina.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;A célula principal na infecção pelo bacilo é o linfócito T CD4.&lt;/p&gt;
-
-&lt;h3 id=&quot;transmissão&quot;&gt;Transmissão&lt;/h3&gt;
-
-&lt;p&gt;A chance de contrair o bacilo é proporcional à carga de bacilos e o tempo de exposição. Na tosse, as gotículas carreiam os bacilos pelo ar. Após a inalação do bacilo, quatro situações podem acontecer:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Eliminação do BK pelas defesas do corpo;
-    &lt;ul&gt;
-      &lt;li&gt;A primeira linha de defesa é macrofágica&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;O desenvolvimento de uma infecção latente (primo-infecção);&lt;/li&gt;
-  &lt;li&gt;Desenvolvimento progressivo da tuberculose (tuberculose primária);&lt;/li&gt;
-  &lt;li&gt;Ativação da doença vários anos depois (reativação endógena ou tuberculose pós-primária).&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;A infecção latente é assintomática.&lt;/p&gt;
-
-&lt;p&gt;Ambientes com luz solar e ventilação diminuem a chance de contaminação.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tosse por mais de 3 semanas;&lt;/li&gt;
-  &lt;li&gt;Perda de peso;&lt;/li&gt;
-  &lt;li&gt;Astenia&lt;/li&gt;
-  &lt;li&gt;Sudorese noturna&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;teste-de-mantoux&quot;&gt;Teste de Mantoux&lt;/h3&gt;
-
-&lt;p&gt;Injeção de PPA na face anterior do deltoide. Pode haver reação cruzada com a vacina do BCG. Dá o diagnóstico de &lt;strong&gt;tuberculose latente&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;igra&quot;&gt;Igra&lt;/h3&gt;
-
-&lt;h3 id=&quot;radiografia&quot;&gt;Radiografia&lt;/h3&gt;
-
-&lt;p&gt;Infiltrado de lobo superior com cavitação. Pode haver derrame pleural.&lt;/p&gt;
-
-&lt;p&gt;TB miliar: micronódulos.&lt;/p&gt;
-
-&lt;h3 id=&quot;tomografia-computadorizada&quot;&gt;Tomografia computadorizada&lt;/h3&gt;
-
-&lt;p&gt;Árvore em brotamento.&lt;/p&gt;
-
-&lt;h3 id=&quot;histologia&quot;&gt;Histologia&lt;/h3&gt;
-
-&lt;h3 id=&quot;reação-em-cadeia-polimerase&quot;&gt;Reação em cadeia polimerase&lt;/h3&gt;
-
-&lt;p&gt;O &lt;em&gt;gene expert&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;vacina-do-bcg&quot;&gt;Vacina do BCG&lt;/h3&gt;
-
-&lt;p&gt;Na verdade, o BCG é a vacina do &lt;em&gt;Mycobacterium bovis&lt;/em&gt;, ela protege contra formas graves de tuberculose, pois o sistema imune já têm alguma informação imunológica sobre o bacilo.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Uma associação de 4 drogas sinérgicas entre si:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rifampicina;&lt;/li&gt;
-  &lt;li&gt;Isonizazia;&lt;/li&gt;
-  &lt;li&gt;pirazinamida;&lt;/li&gt;
-  &lt;li&gt;Etambutol.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A rifampicina diminui a concentração sérica de anticoncepcionais e aumenta a chance de engravidar. Isso devido a sua metabolização hepática pelo citocromo P450.&lt;/p&gt;
-
-&lt;p&gt;Nos primeiros 2 meses usam-se 4 drogas e nos 4 últimos meses usa-se apenas 2 delas.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;2 RHZE&lt;/strong&gt; (150/75/400/275): fase intensiva (2 meses);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;4 RH&lt;/strong&gt; (150/75): fase de manutenção (4 meses).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A tuberculose óssea é tratada por 1 ano.&lt;/p&gt;
-
-&lt;p&gt;O tratamento da TB latente é feito apenas com isoniazida.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
