@@ -31,6 +31,7 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+<<<<<<< HEAD
         '/pneumologia/tep.html',
       
         '/pneumologia/ca-pulmao.html',
@@ -38,8 +39,17 @@ self.addEventListener('install', function (event) {
         '/pediatria/doencas-resp.html',
       
         '/cirurgia/remit.html',
+=======
+        '/pediatria/lactente-sibilante.html',
+      
+        '/cardiologia/insuficiencia-mitral.html',
+      
+        '/cardiologia/cardiopatia-reumatica.html',
+>>>>>>> refs/remotes/origin/master
       
         '/cardiologia/valvopatia-mitral.html',
+      
+        '/cardiologia/estenose-mitral.html',
       
         '/pneumologia/asma.html',
       
@@ -496,6 +506,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/has-drogas.jpeg'
       
+        '/assets/cardiologia/heart.png'
+      
         '/assets/cardiologia/hipertrofia-v.jpeg'
       
         '/assets/cardiologia/hipertrofia-vd.jpeg'
@@ -579,6 +591,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/valvulas.jpeg'
       
         '/assets/cardiologia/vetores.jpg'
+      
+        '/assets/cardiologia/wilkins.jpeg'
       
         '/assets/cruz-web.svg'
       
@@ -1127,6 +1141,22 @@ self.addEventListener('install', function (event) {
         '/assets/urologia/tu-testiculos/lab.jpeg'
       
         '/browserconfig.xml'
+      
+        '/cmunbi.otf'
+      
+        '/cmunbi.ttf'
+      
+        '/cmunbx.otf'
+      
+        '/cmunbx.ttf'
+      
+        '/cmunit.otf'
+      
+        '/cmunrm.otf'
+      
+        '/cmunrm.ttf'
+      
+        '/cmunti.ttf'
       
         '/favicon-16x16.png'
       

@@ -3,22 +3,29 @@ title: Valvopatia  mitral
 categories: cardiologia
 ---
 
+* Sumário
+{:toc}
+
 As valvopatias mitrais são as mais comuns em prevalência, seguida  pelas da valva aórtica e depois da valva tricúspide.
 
 ## Etiologia
 
 A principal causa de insuficiência mitral é a degeneração sênil. Já a estenose mitral, a principal causa é a doença reumática.
 
-IM: a principal causa é a degeneração sênil, seguida pela doença reumática e depois por doença isquêmica, endocardite e congênito.
-
-EM: a principal causa é a doença reumática, seguida pela  degeneração sênil. Outras causas são muito incomuns.
-
+IM: 
 
 # Estenose Mitral
 
-É a doença valvar mais importante nos países subdesenvolvidos. A doença reumática responde por mais de 60% dos casos (a prevalência no sexo feminino é duas vezes a masculina), seguida pela etiologia congênita. O acometimento do folhheto anterior é mais comum. Um mixoma também pode levar a EM.
+A estenose mitral (EM) caracteriza-se pela resistência ao fluxo sanguíneo transmitral em razão do espessamento e da imobilidade dos folhetos valvares. É a doença valvar mais importante nos países subdesenvolvidos, em que a doença reumática responde por mais de 60% dos casos, seguida pela etiologia congênita. O acometimento do folheto anterior é mais comum. Um mixoma também pode levar a EM.
 
-A estenose é progressiva e a velocidade de evolução é proporcional à gravidade e número de insultos da cardite reumática.
+Outras possíveis causas são a congênita, as doenças infiltrativas (mucopolissacaridoses), EI, lúpus eritematoso sistêmico, artrite reumatoide, estados serotoninérgicos (síndrome carcinoide), mixoma.[^diretriz2007]
+
+## Fisiopatologia
+
+Os principais achados anatomopatológicos da EM consistem no espessamento dos folhetos valvares, áreas de calcificação, fusão comissural e encurtamento de cordoalhas. A estenose é progressiva e a velocidade de evolução é proporcional à gravidade e número de insultos da cardite reumática.
+
+A obstrução ao deflúvio atrial gera um gradiente pressórico entre o átrio e o ventrículo esquerdos. A
+elevação da pressão atrial esquerda transmite-se de maneira retrógrada ao **leito vascular pulmonar**, determinando **congestão passiva local**, edema intersticial, hipertensão pulmonar e desenvolvimento progressivo de sintomas.[^diretriz2007]
 
 ## Quadro clínico
 
@@ -55,7 +62,7 @@ Dificilmente o cateterismo é indicado para a EM. Apenas se o paciente tiver doe
 ## Classificação
 
 |   | PAP (mmHg) | Gradiente medio (mmHg) | Area valvar (cm2) |
-|:----:|
+|:----:|:----:|:----:|:----:|
 | Leve | < 30 | < 5 | > 1,5 |
 |  Moderada | 30-50 | 5-10 | 1-1,5 |
 | Grave | > 50 | > 10 | < 1 |
@@ -86,6 +93,8 @@ Os BBs, digitálicos e BCC previnem as arritmias.
 
 ## Prognóstico
 
+Os principais marcadores de mau prognóstico são o desenvolvimento de sintomas, a presença de FA e a evolução para HP. Uma vez atingidos níveis muito elevados de Pressão Sistólica de Artéria Pulmonar (PSAP – acima de 80mmHg), a sobrevida média reduz-se para 2,4 anos.[^diretriz2007]
+
 # Insuficiência mitral
 
 O prolapso da valva mitral é relativamente comum e pode causar uma insuficiência mitral leve. Não ocasiona muitas repercusões e nem aumenta a morbimortalidade dos pacientes. A causa são doenças do tecido conjuntivo, como a degeneração mixomatosa. Está muito associada à síndrome de Marfan.
@@ -113,5 +122,9 @@ Um achado frequente na IM é a terceira bulha.
 
 ## Bibliografia
 
-1. Diretriz brasileira de valvopatias
-2. Guidelines on the management of valvular heart disease. Europe Heart Journal. 2007. escardio.org
+1. Tarasoutchi F, Montera M, Grinberg M, et al. Diretriz brasileira de valvopatias - sbc 2011/ i diretriz interamericana de valvopatias - siac 2011. Arq Bras Cardiol. 2011;97(5):01-67. doi:10.1590/S0066-782X2011002000001.
+2. Baumgartner H, Falk V, Bax JJ, et al. 2017 ESC/EACTS Guidelines for the management of valvular heart disease. European Heart Journal. 2017;38(36):2739-2791. doi:10.1093/eurheartj/ehx391.
+
+## Referências
+
+[^diretriz2007]: Tarasoutchi F, Montera M, Grinberg M, et al. Diretriz brasileira de valvopatias - sbc 2011/ i diretriz interamericana de valvopatias - siac 2011. Arq Bras Cardiol. 2011;97(5):01-67. doi:10.1590/S0066-782X2011002000001.

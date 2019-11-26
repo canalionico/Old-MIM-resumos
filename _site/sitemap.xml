@@ -633,10 +633,15 @@
 <lastmod>2019-11-21T00:00:00-03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/cardiologia/estenose-mitral.html</loc>
+<lastmod>2019-11-23T00:00:00-03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/cardiologia/valvopatia-mitral.html</loc>
 <lastmod>2019-11-23T00:00:00-03:00</lastmod>
 </url>
 <url>
+<<<<<<< HEAD
 <loc>http://localhost:4000/cirurgia/remit.html</loc>
 <lastmod>2019-11-25T00:00:00-03:00</lastmod>
 </url>
@@ -651,12 +656,24 @@
 <url>
 <loc>http://localhost:4000/pneumologia/tep.html</loc>
 <lastmod>2019-11-25T00:00:00-03:00</lastmod>
+=======
+<loc>http://localhost:4000/cardiologia/cardiopatia-reumatica.html</loc>
+<lastmod>2019-11-24T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/cardiologia/insuficiencia-mitral.html</loc>
+<lastmod>2019-11-24T00:00:00-03:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/pediatria/lactente-sibilante.html</loc>
+<lastmod>2019-11-24T00:00:00-03:00</lastmod>
+>>>>>>> refs/remotes/origin/master
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/assets/mapas/Abdome-agudo.pdf</loc>
-<lastmod>2019-11-10T13:29:35-03:00</lastmod>
+<lastmod>2019-10-19T22:36:56-03:00</lastmod>
 </url>
 </urlset>
