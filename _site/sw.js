@@ -1130,6 +1130,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/pediatria/diarreia2.jpeg'
       
+        '/assets/pneumo/asma/640px-An_Asthma_patient_taking_medication_using_an_inhaler.png'
+      
+        '/assets/pneumo/asma/Asthma_attack-illustration_NIH.jpg'
+      
         '/assets/pneumo/derrame.jpeg'
       
         '/assets/pneumo/dpoc-risk.jpeg'
