@@ -1134,6 +1134,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/pneumo/asma/Asthma_attack-illustration_NIH.jpg'
       
+        '/assets/pneumo/asma/criterios-diag.jpeg'
+      
+        '/assets/pneumo/asma/diag-chart.jpeg'
+      
         '/assets/pneumo/derrame.jpeg'
       
         '/assets/pneumo/dpoc-risk.jpeg'
