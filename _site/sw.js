@@ -18,7 +18,21 @@ self.addEventListener('install', function (event) {
       
         '/404.html',
       
+        '/sumario/cardiologia.html',
+      
+        '/sumario/ginecologia.html',
+      
+        '/sumario/hematologia.html',
+      
         '/',
+      
+        '/sumario/infectologia.html',
+      
+        '/sumario/mastologia.html',
+      
+        '/sumario/neonatologia.html',
+      
+        '/sumario/obstetricia.html',
       
         '/assets/css/styles.css',
       
@@ -30,6 +44,44 @@ self.addEventListener('install', function (event) {
       
         '/sitemap.xml',
       
+      
+        '/neonatologia/sifilis-congenita.html',
+      
+        '/neonatologia/sepse-neonatal.html',
+      
+        '/neonatologia/aspectos-gerais.html',
+      
+        '/neonatologia/asfixia-perinatal.html',
+      
+        '/neonatologia/reanima%C3%A7%C3%A3o-neonatal.html',
+      
+        '/neonatologia/aleitamento-materno.html',
+      
+        '/infectologia/meningite.html',
+      
+        '/pediatria/ivas.html',
+      
+        '/pediatria/rinite.html',
+      
+        '/pediatria/pac.html',
+      
+        '/cardiologia/estenose-aortica.html',
+      
+        '/cardiologia/angina-estavel.html',
+      
+        '/pneumologia/hap.html',
+      
+        '/pneumologia/apneia-sono.html',
+      
+        '/pediatria/tuberculose-infancia.html',
+      
+        '/pneumologia/infectologia/tuberculose.html',
+      
+        '/cardiologia/embriologia.html',
+      
+        '/cardiologia/cardiopatias-congenitas.html',
+      
+        '/vascular/tvp.html',
       
         '/pneumologia/tep.html',
       
@@ -87,7 +139,7 @@ self.addEventListener('install', function (event) {
       
         '/pneumologia/pneumonia.html',
       
-        '/cardiologia/sca.html',
+        '/cardiologia/scassst.html',
       
         '/pneumologia/dpoc.html',
       
@@ -109,7 +161,7 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/guia-do-plantonista-na-sala-de-parto.html',
       
-        '/cardiologia/sca-ssst.html',
+        '/cardiologia/scacsst.html',
       
         '/cardiologia/fisiologia-cardiovascular.html',
       
@@ -321,10 +373,6 @@ self.addEventListener('install', function (event) {
       
         '/mastologia/derrame-papilar.html',
       
-        '/obstetricia/pelviologia.html',
-      
-        '/obstetricia/estatica-fetal.html',
-      
         '/mastologia/semiologia-mastologica.html',
       
         '/mastologia/exames-de-imagem-mastologia.html',
@@ -345,13 +393,17 @@ self.addEventListener('install', function (event) {
       
         '/ginecologia/corrimento-vaginal.html',
       
+        '/obstetricia/mecanismo-do-parto.html',
+      
         '/ginecologia/semiologia-ginecologica.html',
       
         '/urologia/hiperplasia-prostatica.html',
       
         '/urologia/cancer-de-prostata.html',
       
-        '/obstetricia/mecanismo-do-parto.html',
+        '/obstetricia/pelviologia.html',
+      
+        '/obstetricia/estatica-fetal.html',
       
         '/obstetricia/pre-natal-de-baixo-risco.html',
       
@@ -359,14 +411,14 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/diagn%C3%B3stico-da-gravidez.html',
       
-        '/obstetricia/semiologia-obstetrica.html',
-      
         '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno.html',
       
         '/obstetricia/endocrinologia-obstetrica.html',
       
+        '/obstetricia/semiologia-obstetrica.html',
       
-        '/CNAME'
+        '/hematologia/leucemia-linfoide-aguda-crianca.html',
+      
       
         '/LICENSE.md'
       
@@ -387,6 +439,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/CG_Heart.gif'
       
         '/assets/cardiologia/CVS_heart_failure_pt.gif'
+      
+        '/assets/cardiologia/Coronary_arteries_pt.svg'
       
         '/assets/cardiologia/Diagram_of_the_human_heart.svg'
       
@@ -429,6 +483,8 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/classif-icc.jpeg'
       
         '/assets/cardiologia/classific-eh.jpeg'
+      
+        '/assets/cardiologia/congenitas/800px-Heart_tetralogy_fallot.svg.png'
       
         '/assets/cardiologia/coronarias.gif'
       
@@ -578,6 +634,32 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/rxtorax.jpeg'
       
+        '/assets/cardiologia/sca/algoritmo-ae.jpeg'
+      
+        '/assets/cardiologia/sca/braun.jpeg'
+      
+        '/assets/cardiologia/sca/braun2.jpeg'
+      
+        '/assets/cardiologia/sca/ccs.jpeg'
+      
+        '/assets/cardiologia/sca/ccs2.jpeg'
+      
+        '/assets/cardiologia/sca/dd.jpeg'
+      
+        '/assets/cardiologia/sca/espelho.jpeg'
+      
+        '/assets/cardiologia/sca/ex-fisico.jpeg'
+      
+        '/assets/cardiologia/sca/fr-aterosclerose.jpeg'
+      
+        '/assets/cardiologia/sca/killip.jpeg'
+      
+        '/assets/cardiologia/sca/timi-iamcsst.jpeg'
+      
+        '/assets/cardiologia/sca/timi-ssst.jpeg'
+      
+        '/assets/cardiologia/sca/tipo-dor.jpeg'
+      
         '/assets/cardiologia/sm.jpeg'
       
         '/assets/cardiologia/tab8.jpeg'
@@ -592,10 +674,6 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/wilkins.jpeg'
       
-        '/assets/cruz-web.svg'
-      
-        '/assets/cruz.svg'
-      
         '/assets/emergencia/abdome-agudo.jpeg'
       
         '/assets/emergencia/abdome-agudo2.jpeg'
@@ -609,6 +687,24 @@ self.addEventListener('install', function (event) {
         '/assets/farmaco/ieca2.jpeg'
       
         '/assets/favicon.png'
+      
+        '/assets/fonts/liberation_serif/AUTHORS'
+      
+        '/assets/fonts/liberation_serif/COPYING'
+      
+        '/assets/fonts/liberation_serif/ChangeLog'
+      
+        '/assets/fonts/liberation_serif/License.txt'
+      
+        '/assets/fonts/liberation_serif/README'
+      
+        '/assets/fonts/liberation_serif/lsbold.ttf'
+      
+        '/assets/fonts/liberation_serif/lsbolditalic.ttf'
+      
+        '/assets/fonts/liberation_serif/lsitalic.ttf'
+      
+        '/assets/fonts/liberation_serif/lsregular.ttf'
       
         '/assets/gastro/balthazar.jpg'
       
@@ -696,9 +792,49 @@ self.addEventListener('install', function (event) {
       
         '/assets/ginecologia/sua/tab.jpeg'
       
+        '/assets/hematologia/Hematopoiesis_(human)_diagram_pt.svg'
+      
         '/assets/imagens/ca-prostata/estadiamento.png'
       
         '/assets/imagens/ca-prostata/risco.png'
+      
+        '/assets/imagens/cardiologia/congenitas/1475-925X-6-16-S1.wav'
+      
+        '/assets/imagens/cardiologia/congenitas/1475-925X-6-16-S6.wav'
+      
+        '/assets/imagens/cardiologia/congenitas/T1213MalformacionesFallot_i.gif'
+      
+        '/assets/imagens/cardiologia/congenitas/T1214MalformacionesConductoArterioso_i.gif'
+      
+        '/assets/imagens/cardiologia/congenitas/T1305_CambiosNacimiento_i_after.gif'
+      
+        '/assets/imagens/cardiologia/congenitas/T1305_CambiosNacimiento_i_at_birth.gif'
+      
+        '/assets/imagens/cardiologia/congenitas/T1305_CambiosNacimiento_i_before.gif'
+      
+        '/assets/imagens/cardiologia/coronarias.svg'
+      
+        '/assets/imagens/cardiologia/sca/ae-crm.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/ae-crm2.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/angiografia-dac.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/braun.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/braun2.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/braun3.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/diag-dac.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/dor-toracica.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/grace.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/timi.jpeg'
+      
+        '/assets/imagens/cardiologia/sca/tto-ae.jpeg'
       
         '/assets/imagens/cesarea/tecnica.png'
       
@@ -802,11 +938,21 @@ self.addEventListener('install', function (event) {
       
         '/assets/imagens/mecanismo-parto/rotacao.png'
       
+        '/assets/imagens/pediatria/ivas/tto-oma.jpeg'
+      
+        '/assets/imagens/pediatria/tb/investigacao-iltb.jpeg'
+      
+        '/assets/imagens/pediatria/tb/pontos.jpeg'
+      
+        '/assets/imagens/pediatria/tb/pontos2.jpeg'
+      
         '/assets/imagens/pelviologia/e.png'
       
         '/assets/imagens/pelviologia/estreitos.jpg'
       
         '/assets/imagens/pelviologia/h.png'
+      
+        '/assets/imagens/pneumologia/1808-8694-bjorl-84-01-0003-gf01-pt.jpg'
       
         '/assets/imagens/semiologia-ginecologica/litotomia.jpg'
       
@@ -820,6 +966,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/imagens/ulceras-genitais/ulcera-tto2.png'
       
+        '/assets/infectologia/atb-meningite.jpeg'
+      
+        '/assets/infectologia/atb-meningite2.jpeg'
+      
         '/assets/infectologia/dengue/dd.jpeg'
       
         '/assets/infectologia/dengue/ref1.jpeg'
@@ -827,6 +977,8 @@ self.addEventListener('install', function (event) {
         '/assets/infectologia/dengue/ref2.jpeg'
       
         '/assets/infectologia/ei/duke.jpg'
+      
+        '/assets/infectologia/lcr.jpeg'
       
         '/assets/infectologia/lcr/ag.jpeg'
       
@@ -836,31 +988,11 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/lcr/tab2.jpeg'
       
+        '/assets/infectologia/lcr2.jpeg'
+      
         '/assets/infectologia/leptospira.png'
       
         '/assets/infectologia/ntx/tc.jpeg'
-      
-        '/assets/left-pointing-arrow.svg'
-      
-        '/assets/liberation_serif.zip'
-      
-        '/assets/liberation_serif/AUTHORS'
-      
-        '/assets/liberation_serif/COPYING'
-      
-        '/assets/liberation_serif/ChangeLog'
-      
-        '/assets/liberation_serif/License.txt'
-      
-        '/assets/liberation_serif/README'
-      
-        '/assets/liberation_serif/lsbold.ttf'
-      
-        '/assets/liberation_serif/lsbolditalic.ttf'
-      
-        '/assets/liberation_serif/lsitalic.ttf'
-      
-        '/assets/liberation_serif/lsregular.ttf'
       
         '/assets/logo-canal-ionico.png'
       
@@ -896,6 +1028,26 @@ self.addEventListener('install', function (event) {
       
         '/assets/nefrologia/nd/tto.jpeg'
       
+        '/assets/neonatologia/apgar.jpeg'
+      
+        '/assets/neonatologia/ballard.jpeg'
+      
+        '/assets/neonatologia/ballard2.jpeg'
+      
+        '/assets/neonatologia/ballard3.jpeg'
+      
+        '/assets/neonatologia/capurro.jpeg'
+      
+        '/assets/neonatologia/capurro2.jpeg'
+      
+        '/assets/neonatologia/causas-apneia.jpeg'
+      
+        '/assets/neonatologia/causas-comuns-reanimacao.jpeg'
+      
+        '/assets/neonatologia/causas-resp.jpeg'
+      
+        '/assets/neonatologia/classificacao.jpeg'
+      
         '/assets/neonatologia/disp-cir/eso.jpeg'
       
         '/assets/neonatologia/disp-cir/img.jpg'
@@ -918,6 +1070,12 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/dr/sam.jpeg'
       
+        '/assets/neonatologia/epidemio.jpeg'
+      
+        '/assets/neonatologia/estagios-pulmao.jpeg'
+      
+        '/assets/neonatologia/flux-reanimação.jpeg'
+      
         '/assets/neonatologia/infeccoes-cong/img.jpeg'
       
         '/assets/neonatologia/infeccoes-cong/img2.jpeg'
@@ -930,11 +1088,35 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/infeccoes-cong/tto.jpeg'
       
+        '/assets/neonatologia/leite1.jpeg'
+      
+        '/assets/neonatologia/leite2.jpeg'
+      
+        '/assets/neonatologia/mamas.jpeg'
+      
+        '/assets/neonatologia/material-parto.jpeg'
+      
         '/assets/neonatologia/obst-intest/img.jpeg'
+      
+        '/assets/neonatologia/periodo.jpeg'
+      
+        '/assets/neonatologia/radio-sam.jpeg'
+      
+        '/assets/neonatologia/radio-ttrn.jpeg'
+      
+        '/assets/neonatologia/rx-dmh.jpeg'
+      
+        '/assets/neonatologia/sepse.jpeg'
+      
+        '/assets/neonatologia/sifilis.jpeg'
+      
+        '/assets/neonatologia/termos.jpeg'
       
         '/assets/neonatologia/vitalidade-fetal/img.jpeg'
       
         '/assets/obstetricia/PA.jpeg'
+      
+        '/assets/obstetricia/afu-linhas.jpeg'
       
         '/assets/obstetricia/afu.jpeg'
       
@@ -949,6 +1131,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/anestesia.jpeg'
       
         '/assets/obstetricia/apgar.jpeg'
+      
+        '/assets/obstetricia/apresentacao-cefalica.jpeg'
       
         '/assets/obstetricia/bcf.jpeg'
       
@@ -998,6 +1182,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/exames7.jpeg'
       
+        '/assets/obstetricia/flux-hcg.jpeg'
+      
         '/assets/obstetricia/forceps2.jpeg'
       
         '/assets/obstetricia/forceps3.jpeg'
@@ -1024,6 +1210,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/obstetricia/histerotomias.jpeg'
       
+        '/assets/obstetricia/hormonios.jpeg'
+      
         '/assets/obstetricia/hpp/tab.png'
       
         '/assets/obstetricia/imc-graf.jpeg'
@@ -1047,6 +1235,8 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/leopold3.jpeg'
       
         '/assets/obstetricia/ligadura.jpeg'
+      
+        '/assets/obstetricia/nom.jpeg'
       
         '/assets/obstetricia/ombro.jpeg'
       
@@ -1130,6 +1320,38 @@ self.addEventListener('install', function (event) {
       
         '/assets/pediatria/diarreia2.jpeg'
       
+        '/assets/pediatria/tuberculose/tb-pontos.jpeg'
+      
+        '/assets/picol/LICENSE'
+      
+        '/assets/picol/README.md'
+      
+        '/assets/picol/bower.json'
+      
+        '/assets/picol/config.json'
+      
+        '/assets/picol/css/animation.css'
+      
+        '/assets/picol/css/picol-codes.css'
+      
+        '/assets/picol/css/picol-embedded.css'
+      
+        '/assets/picol/css/picol-ie7-codes.css'
+      
+        '/assets/picol/css/picol-ie7.css'
+      
+        '/assets/picol/css/picol.css'
+      
+        '/assets/picol/demo.html'
+      
+        '/assets/picol/font/picol.eot'
+      
+        '/assets/picol/font/picol.svg'
+      
+        '/assets/picol/font/picol.ttf'
+      
+        '/assets/picol/font/picol.woff'
+      
         '/assets/pneumo/asma/640px-An_Asthma_patient_taking_medication_using_an_inhaler.png'
       
         '/assets/pneumo/asma/Asthma_attack-illustration_NIH.jpg'
@@ -1141,6 +1363,8 @@ self.addEventListener('install', function (event) {
         '/assets/pneumo/asma/criterios-diag.jpeg'
       
         '/assets/pneumo/asma/diag-chart.jpeg'
+      
+        '/assets/pneumo/ca-pulm/TNM-ca-pulmao.jpeg'
       
         '/assets/pneumo/derrame.jpeg'
       
@@ -1158,6 +1382,20 @@ self.addEventListener('install', function (event) {
       
         '/assets/pneumo/rx-pneumonia.jpeg'
       
+        '/assets/pneumo/tb/diag-tb-vulnerabilidade.jpeg'
+      
+        '/assets/pneumo/tb/diag-tb.jpeg'
+      
+        '/assets/pneumo/tb/granuloma.jpg'
+      
+        '/assets/pneumo/tb/tb.jpeg'
+      
+        '/assets/pneumo/tb/tto-iltb.jpeg'
+      
+        '/assets/pneumo/tep/genebra.jpeg'
+      
+        '/assets/pneumo/tep/wells.jpeg'
+      
         '/assets/pneumo/tto-amb.jpeg'
       
         '/assets/pneumo/tto-dpp.jpeg'
@@ -1172,22 +1410,6 @@ self.addEventListener('install', function (event) {
       
         '/browserconfig.xml'
       
-        '/cmunbi.otf'
-      
-        '/cmunbi.ttf'
-      
-        '/cmunbx.otf'
-      
-        '/cmunbx.ttf'
-      
-        '/cmunit.otf'
-      
-        '/cmunrm.otf'
-      
-        '/cmunrm.ttf'
-      
-        '/cmunti.ttf'
-      
         '/favicon-16x16.png'
       
         '/favicon-32x32.png'
@@ -1197,6 +1419,8 @@ self.addEventListener('install', function (event) {
         '/favicon.ico'
       
         '/favicon.png'
+      
+        '/favicon2.png'
       
         '/gpl-3.0.md'
       

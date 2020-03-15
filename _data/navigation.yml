@@ -1,9 +1,6 @@
-- name: Canal Iônico
-  link: https://canalionico.com.br
-  icon: home
-- name: Resumos
-  link: /
-  icon: align-left
-- name: Radical
-  link: https://radical.canalionico.com.br
-  icon: bolt
+- name: Blog
+  link: https://mosquildo.com.br
+  icon: picol_website
+- name: Eu
+  link: https://mosquildo.com.br/eu.html
+  icon: picol_avatar

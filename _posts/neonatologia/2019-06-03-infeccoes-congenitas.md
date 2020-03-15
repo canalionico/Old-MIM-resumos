@@ -7,6 +7,7 @@ layout: post
 {:toc}
 
 ## Toxoplasmose congênita
+
 * Ag. etiológico: _Toxoplasma gondii_
 * Parasita intracelular obrigatório
 * Zoonose que tem como hospedeiro definitivo o gato
@@ -17,6 +18,7 @@ A infecção congênita pode ocorrer como consequência de infecção materna pr
 Mães com imunodepressão podem reativar uma infecção toxoplásmica latente a apresentar nova parasitemia, podendo infectar o feto.
 
 ### Patogenia
+
 * Após a replicação na placenta o parasita atinge o SNC e as túnicas oculares fetais.
 * No cérebro encontram-se áreas de necrose que podem  sofrer calcificações precoces.
 * Áras similares podem ser observadas no fígado, nos pulmões, no miocardio, nos MM esqueléticos, no baço e em outros órgãos, acompanhadas de processos inflamatórios múltiplos.

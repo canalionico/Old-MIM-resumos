@@ -30,3 +30,7 @@ me congestiva pulmonar, cujo sintoma principal
 é a dispneia e a ortopneia. A síndrome de baixo
 débito (fadiga, tonteira) é comum nesse estágio,
 pois o débito sistólico efetivo está baixo.
+
+## Quadro clínico
+
+Pulso em “martelo d`água” (Pulso de Corrigan)

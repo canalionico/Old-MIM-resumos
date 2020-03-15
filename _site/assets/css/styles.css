@@ -29,7 +29,7 @@ body {
   src: url("/cmunrm.ttf"); }
 @font-face {
   font-family: "LS";
-  src: url("/assets/liberation_serif/lsregular.ttf"); }
+  src: url("/assets/fonts/liberation_serif/lsregular.ttf"); }
 .alert {
   padding: 5px 5px 5px 10px;
   border-left: 6px solid red;
@@ -67,6 +67,15 @@ body {
   padding-top: 20px;
   display: block; }
 
+.abertura {
+  display: block; }
+
+.intro, .logo {
+  flex: 1; }
+
+.intro {
+  text-align: right; }
+
 /* Barra de navegaçao */
 .nav-site {
   line-height: 1em;
@@ -90,23 +99,25 @@ body {
   padding-top: 0px;
   margin: 0 auto;
   text-align: left;
-  width: 100%; }
+  width: 100%;
+  display: inline-block; }
   .nav-posts a {
     text-decoration: none;
     font-size: 16px;
     border: 1px solid black;
     border-top: none;
-    padding: 4px 6px 2px 6px;
+    padding: 4px 6px 4px 6px;
     border-radius: 0 0 0.5rem 0.5rem;
     color: blue;
     display: inline-block;
-    margin-bottom: 0; }
+    margin-bottom: 10px; }
   .nav-posts a:hover {
-    background-color: black;
-    color: white; }
+    padding-bottom: 10px;
+    margin-bottom: 0px; }
 
 .current {
-  background-color: #008000; }
+  padding-bottom: 10px;
+  margin-bottom: 0px; }
 
 .meu-svg {
   padding-right: 5px; }
@@ -127,6 +138,24 @@ body {
 .botao:active {
   position: relative;
   top: 1px; }
+
+.sumario a {
+  background-color: #777;
+  display: inline-block;
+  color: white;
+  padding: 4px;
+  width: 100%;
+  border-radius: 0.5rem;
+  text-align: left;
+  outline: none;
+  font-size: 26px;
+  padding: 2px;
+  padding-left: 5px;
+  margin-top: 5px;
+  box-shadow: 1px 2px #888888; }
+
+.sumario a:hover {
+  box-shadow: 1px 2px black; }
 
 .collapsible {
   background-color: #777;
@@ -308,40 +337,46 @@ tr:hover {
     background-color: #727272 !important; }
 
 #obstetricia {
-  background-image: linear-gradient(-90deg, purple, DarkMagenta); }
+  background-color: #8d008d; }
 
 #ginecologia {
-  background-image: linear-gradient(-90deg, Magenta, MediumVioletRed); }
+  background-color: #e000e0; }
 
 #mastologia {
-  background-image: linear-gradient(-90deg, Darkorchid, Darkviolet); }
+  background-color: Darkorchid; }
 
 #neonatologia {
   background-color: green; }
 
+#cirurgia {
+  background-color: darkgreen; }
+
 #urologia {
-  background-color: orange; }
+  background-color: #eb7100; }
+
+#traumatologia {
+  background-color: #d37f00; }
 
 #nefrologia {
   background-color: goldenrod; }
 
-#infectologia {
-  background-color: mediumblue; }
-
 #gastroenterologia {
   background-color: brown; }
 
-#traumatologia {
-  background-color: gray; }
+#infectologia {
+  background-color: #3030a5; }
 
 #pediatria {
   background-color: blue; }
 
-#cirurgia {
-  background-color: darkgreen; }
+#pneumologia {
+  background-color: #0084ff; }
 
 #cardiologia {
-  background-color: darkred; }
+  background-color: #5c0101; }
+
+#hematologia {
+  background-color: #af0000; }
 
 pre {
   padding: 8px 12px;
@@ -497,4 +532,7 @@ a.footnote:after {
 /* Aqui é pra computador */
 @media only screen and (min-width: 800px) {
   #markdown-toc {
-    float: right; } }
+    float: right; }
+
+  .abertura {
+    display: flex; } }

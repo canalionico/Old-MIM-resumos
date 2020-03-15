@@ -29,10 +29,8 @@ body {
 }
 @font-face {
   font-family: "LS";
-  src: url('/assets/liberation_serif/lsregular.ttf');
+  src: url('/assets/fonts/liberation_serif/lsregular.ttf');
 }
-
-
 
 .alert {
   padding: 5px 5px 5px 10px;
@@ -59,6 +57,16 @@ body {
   margin: 0 auto;
   padding-top: 20px;
   display: block;
+}
+
+.abertura {
+  display: block;
+}
+.intro, .logo {
+  flex: 1;
+}
+.intro {
+  text-align: right;
 }
 
 
@@ -88,24 +96,26 @@ body {
   margin: 0 auto;
   text-align: left;
   width: 100%;
+  display: inline-block;
   a {
     text-decoration: none;
     font-size: 16px;
     border: 1px solid black;
     border-top: none;
-    padding: 4px 6px 2px 6px;
+    padding: 4px 6px 4px 6px;
     border-radius: 0 0 0.5rem 0.5rem;
     color: blue;
     display: inline-block;
-    margin-bottom: 0;
+    margin-bottom: 10px;
   }
   a:hover {
-    background-color: black;
-    color: white;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
   }
 }
 .current {
-  background-color: #008000;
+  padding-bottom: 10px;
+  margin-bottom: 0px;
 }
 .meu-svg {
   padding-right: 5px;
@@ -129,6 +139,26 @@ body {
 .botao:active {
 	position:relative;
 	top: 1px;
+}
+
+// Sumário
+.sumario a {
+  background-color: #777;
+  display: inline-block;
+  color: white;
+  padding: 4px;
+  width: 100%;
+  border-radius: 0.5rem;
+  text-align: left;
+  outline: none;
+  font-size: 26px;
+  padding: 2px;
+  padding-left: 5px;
+  margin-top: 5px;
+  box-shadow: 1px 2px #888888;
+}
+.sumario a:hover {
+  box-shadow: 1px 2px black;
 }
 
 // collapsible
@@ -329,18 +359,23 @@ tr:hover {background-color:#f5f5f5;}
     background-color: #727272 !important;
   }
 }
-#obstetricia {background-image: linear-gradient(-90deg, purple, DarkMagenta);}
-#ginecologia {background-image: linear-gradient(-90deg, Magenta, MediumVioletRed);}
-#mastologia {background-image: linear-gradient(-90deg, Darkorchid, Darkviolet);}
+#obstetricia {background-color: rgb(141, 0, 141)}
+#ginecologia {background-color: rgb(224, 0, 224)}
+#mastologia {background-color: Darkorchid}
 #neonatologia {background-color:green}
-#urologia {background-color:orange}
-#nefrologia {background-color:goldenrod}
-#infectologia {background-color:mediumblue}
-#gastroenterologia {background-color:brown}
-#traumatologia {background-color:gray}
-#pediatria {background-color:blue}
 #cirurgia {background-color:darkgreen}
-#cardiologia {background-color:darkred}
+#urologia {background-color:rgb(235, 113, 0)}
+#traumatologia {background-color:rgb(211, 127, 0)}
+#nefrologia {background-color:goldenrod}
+
+#gastroenterologia {background-color:brown}
+#infectologia {background-color:rgb(48, 48, 165)}
+#pediatria {background-color:blue}
+#pneumologia {background-color:rgb(0, 132, 255)}
+
+#cardiologia {background-color:rgb(92, 1, 1)}
+
+#hematologia {background-color:rgb(175, 0, 0)}
 
 pre {
   padding: 8px 12px;
@@ -514,5 +549,8 @@ a.footnote:after {
 @media only screen and (min-width: 800px) {
   #markdown-toc {
     float: right;
+  }
+  .abertura {
+    display: flex;
   }
 }

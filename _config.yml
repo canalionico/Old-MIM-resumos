@@ -16,9 +16,10 @@
 title: Resumos
 email: filipemosca@canalionico.com.br
 description: "Um site destinado para publicar resumos de assunto da área de saúde"
-url: "https://resumos.canalionico.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mosquildo.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: moscafilipe
 github_username:  canalionico
+baseurl: "/"
 
 # Build settings
 markdown: kramdown
@@ -52,7 +53,7 @@ defaults:
     values:
       layout: "post"
       author: "@moscafilipe"
-      permalink: /:categories/:title:output_ext
+      permalink: "/:categories/:title:output_ext"
 #defaults para todo o resto
   - scope:
       path: ""
