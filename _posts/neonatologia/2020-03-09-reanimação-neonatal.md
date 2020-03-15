@@ -200,3 +200,13 @@ A via endotraqueal, apesar de mais acessível, apresenta absorção variável e 
 ## Referências
 
 1. IMIP 4ª edição
+
+
+## Deslocado
+
+Conjuntivite química: o nitrato de prata 1% pode causar uma conjuntivite química em até 20% dos
+casos, geralmente, com sinais e sintomas
+iniciados ainda nas 12 primeiras horas de
+vida e resolução completa em 48 horas. Portanto, TODA CONJUNTIVITE QUE SE
+INICIA APÓS 48 HORAS, deve ser avaliada para a possibilidade de infecção. Deve-se colher swab conjuntival com coloração por
+Gram e Giemsa bem como para cultura.

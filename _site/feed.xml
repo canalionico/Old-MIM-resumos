@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-03-15T13:23:30-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sífilis congênita</title><link href="http://localhost:4000/neonatologia/sifilis-congenita.html" rel="alternate" type="text/html" title="Sífilis congênita" /><published>2020-03-15T00:00:00-03:00</published><updated>2020-03-15T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/sifilis-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/sifilis-congenita.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-03-15T17:31:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sífilis congênita</title><link href="http://localhost:4000/neonatologia/sifilis-congenita.html" rel="alternate" type="text/html" title="Sífilis congênita" /><published>2020-03-15T00:00:00-03:00</published><updated>2020-03-15T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/sifilis-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/sifilis-congenita.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#precoce&quot; id=&quot;markdown-toc-precoce&quot;&gt;Precoce&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#tardia&quot; id=&quot;markdown-toc-tardia&quot;&gt;Tardia&lt;/a&gt;&lt;/li&gt;
@@ -279,7 +279,227 @@ e teste não treponêmico quantitativo;
       &lt;p&gt;Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância, Prevenção e Controle das Doenças Sexualmente Transmissíveis, Aids e Hepatites Virais. Manual Técnico para Diagnóstico da Sífilis / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Vigilância, Prevenção e Controle das Doenças Sexualmente Transmissíveis, Aids e Hepatites Virais. – Brasília: Ministério da Saúde, 2016. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:3:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:3:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Sepse neonatal</title><link href="http://localhost:4000/neonatologia/sepse-neonatal.html" rel="alternate" type="text/html" title="Sepse neonatal" /><published>2020-03-14T00:00:00-03:00</published><updated>2020-03-14T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/sepse-neonatal</id><content type="html" xml:base="http://localhost:4000/neonatologia/sepse-neonatal.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Toxoplasmose cogênita</title><link href="http://localhost:4000/neonatologia/toxoplasmose-congenita.html" rel="alternate" type="text/html" title="Toxoplasmose cogênita" /><published>2020-03-15T00:00:00-03:00</published><updated>2020-03-15T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/toxoplasmose-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/toxoplasmose-congenita.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#patogenia&quot; id=&quot;markdown-toc-patogenia&quot;&gt;Patogenia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#forma-neurológica&quot; id=&quot;markdown-toc-forma-neurológica&quot;&gt;Forma neurológica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#forma-generalizada&quot; id=&quot;markdown-toc-forma-generalizada&quot;&gt;Forma generalizada&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sequelas-tardias&quot; id=&quot;markdown-toc-sequelas-tardias&quot;&gt;Sequelas tardias&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#na-gestante&quot; id=&quot;markdown-toc-na-gestante&quot;&gt;Na gestante&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#no-neonato&quot; id=&quot;markdown-toc-no-neonato&quot;&gt;No neonato&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prevenção&quot; id=&quot;markdown-toc-prevenção&quot;&gt;Prevenção&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ag. etiológico: &lt;em&gt;Toxoplasma gondii&lt;/em&gt;;&lt;/li&gt;
+  &lt;li&gt;Parasita intracelular obrigatório;&lt;/li&gt;
+  &lt;li&gt;Zoonose que tem como hospedeiro definitivo o gato;&lt;/li&gt;
+  &lt;li&gt;Prevalência da soropositividade no Brasil varia de 50-90%.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A infecção congênita pode ocorrer como consequência de infecção materna primária adquirida durante a gestação ou como consequência de recrudescência local ou sistêmica devido à parasitemia recorrente.&lt;/p&gt;
+
+&lt;p&gt;Mães com imunodepressão podem reativar uma infecção toxoplásmica latente a apresentar nova parasitemia, podendo infectar o feto.&lt;/p&gt;
+
+&lt;h2 id=&quot;patogenia&quot;&gt;Patogenia&lt;/h2&gt;
+
+&lt;p&gt;Ao adquirir a infecção primária, a mãe infecta o seu feto em 17-65% das vezes pela via transplacentária (risco de transmissão médio de 40%). &lt;strong&gt;Quanto mais precoce a idade gestacional, menor é a probabilidade de transmissão&lt;/strong&gt;, porém mais grave é a infecção. O contrário ocorre no final da gestação, quando há uma maior probabilidade da infecção, porém de forma menos grave.&lt;/p&gt;
+
+&lt;p&gt;Cerca de 50% dos bebês cuja mãe se infecta durante a gravidez, não apresentarão manifestação clínica. Cerca de 10% apresentará uma forma clínica grave e 34% manifestações leves.&lt;/p&gt;
+
+&lt;p&gt;Depois de replicar-se ativamente na placenta, a parasitemia atinge praticamente todos os sistemas orgânicos do feto, com exceção da hemácia. Os locais mais acometidos são as túnicas oculares e o Sistema Nervoso Central (SNC). No cérebro, encontramos áreas de necrose, acompanhadas de processos inflamatórios perivasculares, que sofrem calcificação precoce.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Após a replicação na placenta o parasita atinge o SNC e as túnicas oculares fetais;&lt;/li&gt;
+  &lt;li&gt;No cérebro encontram-se áreas de necrose que podem  sofrer calcificações precoces;&lt;/li&gt;
+  &lt;li&gt;Áras similares podem ser observadas no fígado, nos pulmões, no miocárdio, nos MM esqueléticos, no baço e em outros órgãos, acompanhadas de processos inflamatórios múltiplos;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Risco de infecção fetal:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1ºT: 20%&lt;/li&gt;
+      &lt;li&gt;2ºT: 50%&lt;/li&gt;
+      &lt;li&gt;3ºT: 80%&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;A &lt;strong&gt;gravidade&lt;/strong&gt; das lesões é &lt;strong&gt;inversamente proporcional à idade gestacional&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Gestantes:&lt;/strong&gt; a grávida pode ser assintomática ou apresentar sinais inespecíficos como febre, mialgia, linfadenopatia, odinofagia, exantema maculopapular e hepatoesplenomegalia (síndrome de &lt;em&gt;mononucleose like&lt;/em&gt;). A linfadenomegalia pode ser de apenas um linfonodo.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Recém-nascido:&lt;/strong&gt; cerca de 80 a 90% dos RN infectados são assintomáticos. As manifestações clínicas no recém-nascido, se presentes, são em sua grande maioria &lt;strong&gt;viscerais&lt;/strong&gt;, &lt;strong&gt;neurológicas&lt;/strong&gt; ou &lt;strong&gt;oftalmológicas&lt;/strong&gt;. Podemos dividir didaticamente as formas graves de toxoplasmose congênita em duas categorias: forma neurológica e forma generalizada.&lt;/p&gt;
+
+&lt;h3 id=&quot;forma-neurológica&quot;&gt;Forma neurológica&lt;/h3&gt;
+
+&lt;p&gt;Geralmente é resultante de uma infecção nas fases iniciais da gestação. Caracteriza-se por alterações liquóricas, &lt;strong&gt;calcificações intracranianas&lt;/strong&gt;, &lt;strong&gt;hidrocefalia&lt;/strong&gt;, &lt;strong&gt;convulsões&lt;/strong&gt;, &lt;strong&gt;microcefalia&lt;/strong&gt; e
+&lt;strong&gt;retinocoroidite&lt;/strong&gt;. A hidrocefalia tipo obstrutiva
+é considerada a manifestação neurológica clássica mais comumente encontrada na toxoplasmose congênita. As crises convulsivas podem fazer parte da clínica destes pacientes, podendo também ocorrer &lt;strong&gt;retardo do crescimento&lt;/strong&gt;, &lt;strong&gt;opistótono&lt;/strong&gt;, dificuldade de deglutição, e &lt;strong&gt;paralisia&lt;/strong&gt; de membros.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/img2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;forma-generalizada&quot;&gt;Forma generalizada&lt;/h3&gt;
+
+&lt;p&gt;Pode ocorrer após a infecção em fases mais tardias da gestação. Os bebês podem se apresentar com &lt;strong&gt;retinocoroidite&lt;/strong&gt;, alterações liquóricas, &lt;strong&gt;hepatoesplenomegalia&lt;/strong&gt;, &lt;strong&gt;linfadenopatia&lt;/strong&gt;, &lt;strong&gt;icterícia&lt;/strong&gt;, &lt;strong&gt;trombocitopenia&lt;/strong&gt;, &lt;strong&gt;anemia&lt;/strong&gt;, &lt;strong&gt;pneumonite&lt;/strong&gt;, &lt;strong&gt;miocardite&lt;/strong&gt;, &lt;strong&gt;síndrome nefrótica&lt;/strong&gt; e alterações &lt;strong&gt;ósseas&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;tétrade de Sabin&lt;/strong&gt; é caracterizada por:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Coriorretinite;&lt;/li&gt;
+  &lt;li&gt;Calcificações intracranianas difusas;&lt;/li&gt;
+  &lt;li&gt;Hidrocefalia ou microcefalia;&lt;/li&gt;
+  &lt;li&gt;Retardo mental.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sequelas-tardias&quot;&gt;Sequelas tardias&lt;/h3&gt;
+
+&lt;p&gt;Além destas formas precoces descritas, muitos bebês apresentarão sequelas tardias da doença, principalmente as oftalmológicas. As lesões são localizadas na retina e na coroide, podendo complicar com iridociclite, catarata, glaucoma, estrabismo, nistagmo e descolamento de retina.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;coriorretinite&lt;/strong&gt; (retinocoroidite) é o comprometimento clássico mais frequente na toxoplasmose congênita, sendo bilateral em 60 a 80% dos casos.&lt;/p&gt;
+
+&lt;p&gt;Manifestações oftalmológicas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Retinocoroidite&lt;/strong&gt; (60-80%): a mais frequente, bilateral em 60-80% dos casos. Pode aparecer mais tardiamente após semanas ou meses.
+    &lt;ul&gt;
+      &lt;li&gt;As lesões retinianas podem curar-se com ou sem tratamento por volta de 4 semanas a alguns meses, deixando cicatrizes (retinocoroidite residual).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Uveíte (21%)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Microftalmia&lt;/strong&gt; (22%): uma das alterações oculares mais graves. Frequentemente associada à uveíte, catarata ou total total disrupção do globo ocular.&lt;/li&gt;
+  &lt;li&gt;Iridocilite (7%)&lt;/li&gt;
+  &lt;li&gt;Catarata (8%)&lt;/li&gt;
+  &lt;li&gt;Glaucoma (22%)&lt;/li&gt;
+  &lt;li&gt;Estrabismo (30%)&lt;/li&gt;
+  &lt;li&gt;Nistagmo (22%)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Radiografia simples de crânio:&lt;/strong&gt; as calcificações intracranianas difusas, sem localização característica, constituem-se em um achado característico da toxoplasmose congênita. Essas calcificações aparecem a partir do 3º mês de vida em aproximadamente 30% dos pacientes, sendo a maior parte diagnosticada até os dois anos de vida.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tomografia computadorizada de crânio e ultrassonografia:&lt;/strong&gt; são importantes para um diagnóstico mais preciso das lesões. Evidenciam melhor a atrofia cortical e as dilatações ventriculares, além de revelarem calcificações
+não diagnosticadas na radiografia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nódulos calcificados&lt;/strong&gt; poderão ser localizados em &lt;strong&gt;vísceras&lt;/strong&gt; como fígado e baço. As alterações de ossos longos são inespecíficas (zonas transversais e/ou estrias transversais radiotransparentes nas metáfises e irregularidades na linha de calcificação provisória). Assim como na sífilis congênita, pode ser encontrado &lt;strong&gt;placentomegalia&lt;/strong&gt; à ultrassonografia.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;h3 id=&quot;na-gestante&quot;&gt;Na gestante&lt;/h3&gt;
+
+&lt;p&gt;Na primeira consulta de pré-natal, deve-se realizar a sorologia materna, tanto &lt;strong&gt;IgG&lt;/strong&gt; quanto &lt;strong&gt;IgM&lt;/strong&gt; pelos métodos ELISA, imunofluorescência indireta ou teste imunoenzimático de micropartículas (MEIA).&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;IgM:&lt;/strong&gt; se eleva após uma ou duas semanas da infecção aguda, permanecendo positivo por dois a três meses;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IgG:&lt;/strong&gt; também se eleva uma ou duas semanas após a infecção aguda, atingindo um pico em três a seis meses, seguindo queda lenta, mas sempre &lt;strong&gt;positiva pelo resto da vida&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Contudo, resultados IgM falso-positivos são frequentes. Para confirmar o momento da infecção aguda, sugere-­se o &lt;strong&gt;teste da avidez do IgG&lt;/strong&gt;. Quando a &lt;strong&gt;avidez é elevada&lt;/strong&gt;, ou seja, &lt;strong&gt;acima de 60%&lt;/strong&gt;, afirma-se que a &lt;strong&gt;infecção ocorreu há mais de três ou quatro meses&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/diag-toxo-mae.jpeg&quot; alt=&quot;Diagnóstico na mãe&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As gestantes agudamente infectadas deverão
+realizar a investigação da doença fetal através
+dos seguintes exames:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ultrassonografia fetal:&lt;/strong&gt; os sinais mais sugestivos de infecção fetal são: alargamento dos ventrículos cerebrais, calcificações intracranianas, calcificações de plexo coroide, aumento da espessura da placenta, ascite e hepatoesplenomegalia;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Amniocentese e PCR:&lt;/strong&gt; a amniocentese deverá ser realizada a partir das 18 semanas de gravidez com envio da amostra do líquido para detecção do DNA do toxoplasma pelo método de PCR. O método tem alta sensibilidade e valor preditivo negativo, ou seja,
+se PCR positivo a chance de infecção fetal é muito alta. Contudo, o teste tem baixa especificidade e valor preditivo positivo, ou seja, um PCR negativo, não exclui infecção fetal, tornando necessário o acompanhamento da criança e investigação complementar após o nascimento.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;no-neonato&quot;&gt;No neonato&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Hemograma:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Linfocitose com eosinofilia (até 20%);&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Anemia&lt;/strong&gt;;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Plaquetopenia&lt;/strong&gt;;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Reticulocitose&lt;/strong&gt;;&lt;/li&gt;
+      &lt;li&gt;Leucocitose e eosinofilia também podem estar presente.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Elevação de bilirrubina direta;&lt;/li&gt;
+  &lt;li&gt;As proteínas totais e albumina são mais baixas que os valores de referência.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;LCR:&lt;/strong&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Xantocrômico&lt;/li&gt;
+      &lt;li&gt;Redução da glicose&lt;/li&gt;
+      &lt;li&gt;Elevação de proteínas: achado característico e indicador de prognóstico&lt;/li&gt;
+      &lt;li&gt;A citometria revela &lt;strong&gt;pleocitose&lt;/strong&gt; à custa de células &lt;strong&gt;linfomonocitárias&lt;/strong&gt;, além de elevada contagem de eosinófilos.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Gestantes soronegativas devem realizar o sorológico mensalmente&lt;/li&gt;
+  &lt;li&gt;Pesquisa do &lt;em&gt;T. gondii&lt;/em&gt; em fluidos corporais do RN&lt;/li&gt;
+  &lt;li&gt;Encontro de IgM específicos&lt;/li&gt;
+  &lt;li&gt;Persistência de IgG no soro do RN quando comparado ao soro materno&lt;/li&gt;
+  &lt;li&gt;Sorológicos
+    &lt;ul&gt;
+      &lt;li&gt;IgG&lt;/li&gt;
+      &lt;li&gt;IgM&lt;/li&gt;
+      &lt;li&gt;PCR&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Western-blot&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Radiologia
+    &lt;ul&gt;
+      &lt;li&gt;Rx simples de crânio: calcificações intracranianas são detectáveis nos 3 primeiros meses de vida em 30% das crianças e em 80% até os 2 anos. Aumento no número e tamanho das calcificações.&lt;/li&gt;
+      &lt;li&gt;TC encefálica: detectar microcalcificações intracranianas e lesão do parenquima cerebral.&lt;/li&gt;
+      &lt;li&gt;Rx de ossos longos: estrias longitudinais na epífise dos ossos longos, bem como radioluscência óssea.&lt;/li&gt;
+      &lt;li&gt;Rx de tórax: avaliar comprometimento pulmonar e diagnosticar a pneumonite intersticial toxoplásmica.&lt;/li&gt;
+      &lt;li&gt;USG cerebral&lt;/li&gt;
+      &lt;li&gt;Exame fundoscópico&lt;/li&gt;
+      &lt;li&gt;EEG&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Oftalmoscopia:&lt;/strong&gt; o exame de fundo de olho é essencial na pesquisa de coriorretinite e neurites. Na presença de toxoplasmose congênita confirmada, o exame oftalmológico deverá ser feito a cada 6 meses até a idade escolar, e depois anualmente, pois lesões ativas novas e reativação de focos latentes podem surgir a qualquer momento.&lt;/p&gt;
+
+&lt;p&gt;O toxoplasma pode ser encontrado em sedimento de liquor, sangue periférico ou do cordão umbilical e urina. Esse micro-organismo pode ser recuperado após inoculação em peritônio de camundongos. Esses métodos são extremamente trabalhosos e podem não trazer os resultados esperados. Dessa forma, devemos solicitar uma &lt;strong&gt;avaliação sorológica&lt;/strong&gt;, medida que se
+toma normalmente na prática clínica.&lt;/p&gt;
+
+&lt;p&gt;Exames Sorológicos:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Reação de Sabin e Feldman;&lt;/li&gt;
+  &lt;li&gt;Teste de imunofluorescência indireta IgG (IF-IgG) e IgM (IF-IgM);&lt;/li&gt;
+  &lt;li&gt;DS-IgM ELISA;&lt;/li&gt;
+  &lt;li&gt;Ensaio imunoenzimático tipo duplo sanduíche IgM (DS IgM ELISA);&lt;/li&gt;
+  &lt;li&gt;Reação de aglutinação por imunoabsorção IgM-ISAGA.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A confirmação de toxoplasmose congênita é realizada através da presença de &lt;strong&gt;IgM&lt;/strong&gt; (pelo método ELISA, que tem sensibilidade de 75%) ou &lt;strong&gt;IgA&lt;/strong&gt; nos primeiros 6 meses de vida, &lt;strong&gt;persistência de IgG após os 12 meses&lt;/strong&gt; ou demonstração de &lt;strong&gt;aumento da afinidade de IgG&lt;/strong&gt; no teste de avidez nos primeiros meses de vida. A técnica de PCR também pode ser empregada no sangue periférico, sendo o resultado positivo indicativo de infecção. Um resultado de IgG negativa com um ano de idade exclui o diagnóstico de infecção congênita.&lt;/p&gt;
+
+&lt;p&gt;Além da avaliação neurológica (ex.: liquor, USG, radiografia e TC de crânio) já mencionada, estes bebês também deverão realizar avaliação audiométrica e oftalmológica.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;O melhor tratamento até o momento é a associação de &lt;strong&gt;sulfadiazina&lt;/strong&gt; e &lt;strong&gt;pirimetamina&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Como a pirimetamina tem efeito antifólico, o tratamento deve ser acompanhado de hemograma, contagem de plaquetas e de reticulócitos, semanalmente.&lt;/p&gt;
+
+&lt;p&gt;Deve-se instituir o tratamento precoce com espiramicina e/ou tratamento alternativo com pirimetamina, sulfadiazina e ácido folínico após 16ª e a 18ª semana de IG sempre que o feto estiver infectado.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tto.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;prevenção&quot;&gt;Prevenção&lt;/h2&gt;
+
+&lt;p&gt;Realizar o pré-natal adequado, com o acompanhamento sorológico. Evitar consumo de carnes cruas durante a gestação, bem como contato com animais vetores.&lt;/p&gt;
+
+&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
+
+&lt;p&gt;Os casos do tipo “encefalítico” tem sobrevida mais ou menos longa, porém evoluem com retardo neuropsicomotor grave. Nas formas predominantemente viscerais, o prognóstico é melhor, com regressão do quadro clínico em até 1 ano.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Sepse neonatal</title><link href="http://localhost:4000/neonatologia/sepse-neonatal.html" rel="alternate" type="text/html" title="Sepse neonatal" /><published>2020-03-14T00:00:00-03:00</published><updated>2020-03-14T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/sepse-neonatal</id><content type="html" xml:base="http://localhost:4000/neonatologia/sepse-neonatal.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#profilaxia-primária&quot; id=&quot;markdown-toc-profilaxia-primária&quot;&gt;Profilaxia primária&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#profilaxia-secundária&quot; id=&quot;markdown-toc-profilaxia-secundária&quot;&gt;Profilaxia secundária&lt;/a&gt;&lt;/li&gt;
@@ -1081,6 +1301,7 @@ graves, fissuras ou não ocorrer melhora após 24 horas da instalação do trata
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#deslocado&quot; id=&quot;markdown-toc-deslocado&quot;&gt;Deslocado&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Estima-se que 5% a 10% dos RNs necessitam de alguma intervenção ao nascimento, sendo
@@ -1281,7 +1502,16 @@ de uma das mãos.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;IMIP 4ª edição&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Meningite</title><link href="http://localhost:4000/infectologia/meningite.html" rel="alternate" type="text/html" title="Meningite" /><published>2020-03-08T00:00:00-03:00</published><updated>2020-03-08T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/meningite</id><content type="html" xml:base="http://localhost:4000/infectologia/meningite.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;deslocado&quot;&gt;Deslocado&lt;/h2&gt;
+
+&lt;p&gt;Conjuntivite química: o nitrato de prata 1% pode causar uma conjuntivite química em até 20% dos
+casos, geralmente, com sinais e sintomas
+iniciados ainda nas 12 primeiras horas de
+vida e resolução completa em 48 horas. Portanto, TODA CONJUNTIVITE QUE SE
+INICIA APÓS 48 HORAS, deve ser avaliada para a possibilidade de infecção. Deve-se colher swab conjuntival com coloração por
+Gram e Giemsa bem como para cultura.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Meningite</title><link href="http://localhost:4000/infectologia/meningite.html" rel="alternate" type="text/html" title="Meningite" /><published>2020-03-08T00:00:00-03:00</published><updated>2020-03-08T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/meningite</id><content type="html" xml:base="http://localhost:4000/infectologia/meningite.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#transmissão&quot; id=&quot;markdown-toc-transmissão&quot;&gt;Transmissão&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
@@ -1686,33 +1916,4 @@ fisiopatológica é a disfunção da trompa de Eustáquio (obstrução) com esta
   &lt;li&gt;SOPRO SISTÓLICO DE EJEÇÃO: em área aórtica, áspero e com irradiação para ambas as carótidas (às vezes para o FM);&lt;/li&gt;
   &lt;li&gt;CLICK SISTÓLICO DE EJEÇÃO: em área aórtica, protossistólico (abertura da VAo);&lt;/li&gt;
   &lt;li&gt;DESDOBRAMENTO PARADOXAL DA B2 (EAO grave).&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Pulso parvus (amplitude diminuída) e tardus (maior tempo de duração).</summary></entry><entry><title type="html">Pneumonia adquirida na comunidade</title><link href="http://localhost:4000/pediatria/pac.html" rel="alternate" type="text/html" title="Pneumonia adquirida na comunidade" /><published>2019-12-06T00:00:00-03:00</published><updated>2019-12-06T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/pac</id><content type="html" xml:base="http://localhost:4000/pediatria/pac.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;É uma doença inflamatória aguda do parênquima pulmonar de natureza infecciosa caracterizada pela presença de sintomas respiratórios agudos que acometem os indivíduos fora do ambiente hospitalar ou que surge &lt;strong&gt;até 48 horas após a admissão&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;É a principal causa de morte em crianças menores que 5 anos no mundo (18% de todas as mortes). Portanto, é uma doença grave e potencialmente letal.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;O edema intersticial pulmonar vai aumentar a barreira avéolocapilar que vai prejudicar as trocas gasosas (alteração na ventilação/perfusão - V/Q) se instalando a &lt;strong&gt;hipoxemia&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Para compensar o corpo aumenta a frequência respiratória e começa a utilizar mais a musculatura acessória, fazendo tiragem subcostal. O batimento da asa do nariz ocorre na tentativa de aumentar o tamanho da cavidade.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Leucocitose com desvio para a esquerda:&lt;/strong&gt; predomínio de células jovens no sangue periférico. Mas também pode haver leucopenia que é ainda mais grave.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;Na pediatria o diagnóstico de pneumonia é essencialmente clínico. A radiografia não deve ser rotina em crianças sem sinais de gravidade.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Se a radiografia vem com padrão intersticial, devemos pensar em germes atípicos como o Mycoplasma e fazer um macrolídeo.[ler o livro de penumologia]&lt;/p&gt;
-
-&lt;p&gt;Sempre que se suspeitar de S. aureus, devemos internar o paciente.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Pulso parvus (amplitude diminuída) e tardus (maior tempo de duração).</summary></entry></feed>

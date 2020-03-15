@@ -45,6 +45,8 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/neonatologia/toxoplasmose-congenita.html',
+      
         '/neonatologia/sifilis-congenita.html',
       
         '/neonatologia/sepse-neonatal.html',
@@ -387,7 +389,7 @@ self.addEventListener('install', function (event) {
       
         '/neonatologia/recem-nascido.html',
       
-        '/neonatologia/infeccao-congenita-hiv-sifilis.html',
+        '/neonatologia/infeccao-congenita-hiv.html',
       
         '/ginecologia/dipa.html',
       
@@ -1047,6 +1049,8 @@ self.addEventListener('install', function (event) {
         '/assets/neonatologia/causas-resp.jpeg'
       
         '/assets/neonatologia/classificacao.jpeg'
+      
+        '/assets/neonatologia/diag-toxo-mae.jpeg'
       
         '/assets/neonatologia/disp-cir/eso.jpeg'
       
