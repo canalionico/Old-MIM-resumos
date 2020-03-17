@@ -45,6 +45,12 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/neonatologia/rubeola-congenita.html',
+      
+        '/neonatologia/disturbios-do-metabolismo.html',
+      
+        '/neonatologia/citomegalovirose-congenita.html',
+      
         '/neonatologia/toxoplasmose-congenita.html',
       
         '/neonatologia/sifilis-congenita.html',
@@ -279,8 +285,6 @@ self.addEventListener('install', function (event) {
       
         '/tocoliticos.html',
       
-        '/neonatologia/infeccoes-congenitas.html',
-      
         '/refs-rapidas/hemograma.html',
       
         '/obstetricia/parto-prematuro.html',
@@ -421,6 +425,8 @@ self.addEventListener('install', function (event) {
       
         '/hematologia/leucemia-linfoide-aguda-crianca.html',
       
+      
+        '/CNAME'
       
         '/LICENSE.md'
       

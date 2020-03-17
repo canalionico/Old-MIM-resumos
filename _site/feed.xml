@@ -1,4 +1,237 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-03-15T17:31:00-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Sífilis congênita</title><link href="http://localhost:4000/neonatologia/sifilis-congenita.html" rel="alternate" type="text/html" title="Sífilis congênita" /><published>2020-03-15T00:00:00-03:00</published><updated>2020-03-15T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/sifilis-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/sifilis-congenita.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-03-16T21:01:12-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Citomegalovirose congênita</title><link href="http://localhost:4000/neonatologia/citomegalovirose-congenita.html" rel="alternate" type="text/html" title="Citomegalovirose congênita" /><published>2020-03-16T00:00:00-03:00</published><updated>2020-03-16T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/citomegalovirose-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/citomegalovirose-congenita.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#na-gestante&quot; id=&quot;markdown-toc-na-gestante&quot;&gt;Na gestante&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#no-neonato&quot; id=&quot;markdown-toc-no-neonato&quot;&gt;No neonato&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;É a infecção congênita mais frequente nos EUA. O Citomegalovírus (CMV) pertence a um gênero da família &lt;em&gt;Herpesviridae&lt;/em&gt; e é membro do grupo herpes-­vírus, do qual fazem parte o vírus herpes-simples 1 e 2; o vírus Epstein-Barr; varicela-zóster e herpes­-vírus humano tipo 6 e 7.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;A infecção congênita ocorre mais frequentemente quando a mãe se infecta pela primeira vez durante a gestação e, mais raramente, é resultado de reativação de um processo latente.&lt;/p&gt;
+
+&lt;p&gt;As formas de transmissão do CMV são bastante variadas:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Transfusões de sangue e derivados ou transplantes de órgãos;&lt;/li&gt;
+  &lt;li&gt;Infecção materna e transmissão vertical hematogênica;&lt;/li&gt;
+  &lt;li&gt;Infecção perinatal (leite materno ou secreções vaginais);&lt;/li&gt;
+  &lt;li&gt;Entre crianças nos berçários ou creches;&lt;/li&gt;
+  &lt;li&gt;Contato com pessoas que possuem o CMV nas secreções (sexual ou não).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se a mãe desenvolve a infecção primária na gestação, ela transmite o vírus em 30% dos casos. Entre os RN afetados, somente 10% nascem com infecção sintomática; 90% desses apresentam sequelas e aproximadamente 10% evoluem para óbito.&lt;/p&gt;
+
+&lt;p&gt;A maior gravidade da infecção sobre o feto ocorre quando a transmissão ocorre em &lt;strong&gt;fases iniciais&lt;/strong&gt; da gestação, ao passo que a maior probabilidade de contaminação se dá no último trimestre.&lt;/p&gt;
+
+&lt;p&gt;A transmissão vertical encontra-se associada à eliminação do vírus pelo RN em sua urina, saliva e secreções da nasofaringe durante vários meses. O concepto que adquire a infecção durante o nascimento não apresenta virúria em seus primeiros dias de vida.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Dentre as manifestações clínicas possíveis, podemos destacar:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Prematuridade;&lt;/li&gt;
+  &lt;li&gt;CIUR;&lt;/li&gt;
+  &lt;li&gt;Hepatoesplenomegalia, hepatite e icterícia;&lt;/li&gt;
+  &lt;li&gt;Pneumonia;&lt;/li&gt;
+  &lt;li&gt;Trombocitopenia, anemia;&lt;/li&gt;
+  &lt;li&gt;SNC: microcefalia, calcificações intracranianas periventriculares, coriorretinite, perda auditiva neurossensorial.
+    &lt;ul&gt;
+      &lt;li&gt;A surdez é uma sequela bastante comum. A infecção congênita por CMV é a principal causa de surdez neurossensorial de causa viral na infância.&lt;/li&gt;
+      &lt;li&gt;Pode haver atrofia óptica.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A forma mais grave da infecção (cerca de 1 a 2% dos RN infectados) chama-se &lt;strong&gt;doença de inclusão citomegálica&lt;/strong&gt; e se caracteriza por icterícia, hepatoesplenomegalia, petéquias, microcefalia, coriorretinite e calcificações cerebrais periventriculares.&lt;/p&gt;
+
+&lt;p&gt;Algumas vezes, a &lt;strong&gt;pneumonite intersticial&lt;/strong&gt; e &lt;strong&gt;anemia hemolítica&lt;/strong&gt; também podem se desenvolver. São estas crianças que também desenvolvem as &lt;strong&gt;sequelas mais graves&lt;/strong&gt;, como surdez, cegueira, retardo mental e tetraparesia espástica. Laboratorialmente, há aumento das enzimas hepáticas, hiperbilirrubinemia direta. As outras formas de apresentação clínica exibem um espectro variado de gravidade. Uma combinação de icterícia + hepatoesplenomegalia + petéquias constitui-se no modo mais comum de apresentação ao nascimento.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;h3 id=&quot;na-gestante&quot;&gt;Na gestante&lt;/h3&gt;
+
+&lt;p&gt;A infecção pelo CMV &lt;strong&gt;na gestante&lt;/strong&gt; é muitas vezes &lt;strong&gt;assintomática&lt;/strong&gt;, e, via de regra, o diagnóstico é feito através da detecção de &lt;strong&gt;IgM positivo&lt;/strong&gt; para CMV, ou suspeito quando se observam alterações como CIUR, ventriculomegalia cerebral, ascite, calcificações intracranianas e oligoidrâmnia pela ultrassonografia pré-natal.&lt;/p&gt;
+
+&lt;p&gt;A presença de IgG e IgM reagentes pode ser considerada infecção primária materna durante a gravidez ou como se a mesma tivesse ocorrido algumas semanas ou meses antes da concepção.&lt;/p&gt;
+
+&lt;p&gt;Outra forma de se avaliar uma possível infecção aguda na gestação é realizar o teste de &lt;strong&gt;avidez para IgG&lt;/strong&gt;, já que a baixa avidez é encontrada nas 8-12 primeiras semanas após a primoinfecção.&lt;/p&gt;
+
+&lt;p&gt;As gestantes com possível infecção aguda podem ser encaminhadas para coleta de líquido amniótico e realização de PCR ou técnicas de isolamento viral para detecção da infecção fetal.&lt;/p&gt;
+
+&lt;h3 id=&quot;no-neonato&quot;&gt;No neonato&lt;/h3&gt;
+
+&lt;p&gt;Feito através do isolamento do vírus ou detecção do seu DNA (PCR) na urina dos bebês suspeitos, pois a excreção viral é prolongada podendo durar meses a anos. Na infecção congênita é necessário que esta detecção seja feita nas 2 a 3 primeiras semanas de vida, pois após este período, os bebês que tiveram infecção perinatal (ex.: canal de parto) também
+passam a excretar o vírus.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;O isolamento do vírus&lt;/strong&gt; em &lt;strong&gt;urina&lt;/strong&gt; e &lt;strong&gt;saliva&lt;/strong&gt; constitui-se no método mais específico e sensível para o diagnóstico na criança sintomática ou não.&lt;/p&gt;
+
+&lt;p&gt;A &lt;strong&gt;sorologia&lt;/strong&gt; tem um &lt;strong&gt;papel limitado&lt;/strong&gt; no diagnóstico de infecção congênita por CMV. É impossível distinguir entre infecções congênitas, perinatal e pós-natal com base em títulos seriados de anticorpos IgG no lactente. Os testes de IgM carecem de sensibilidade e especificidade para diagnóstico.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Há controvérsias na literatura quanto à indicação e validade do tratamento da infecção congênita pelo CMV, haja vista a necessidade de terapia por tempo prolongado e os efeitos tóxicos da droga.&lt;/p&gt;
+
+&lt;p&gt;Entretanto, alguns estudos randomizados e controlados mostraram que o uso do &lt;strong&gt;ganciclovir&lt;/strong&gt; (dose de 12 mg/kg/dia EV) durante 6 semanas mostrou reduzir a progressão da doença neurológica e auditiva em RN com a forma grave da doença. O principal efeito adverso associado ao ganciclovir é a neutropenia, que ocorre em até 30% dos casos. Em princípio, os casos de infecção congênita leve pelo CMV e as formas assintomáticas não teriam indicação de usar a medicação.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ganciclovir&lt;/strong&gt;: incidado para o tratamento do RN sintomático (microcefalia, calcificações e défict auditivo) em dose de &lt;strong&gt;6 mg/kg de 12/12h EV por 6 semanas&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Valganciclovir&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Cidofovir&lt;/li&gt;
+  &lt;li&gt;Foscarnet&lt;/li&gt;
+  &lt;li&gt;Contra-indicações: neutropenia, plaquetopenia, anemias graves, sepse, insuficiência hepática e insuficiência renal.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Deve-se acompanhar com hemogramas e plaquetas semanais. Em caso de neutropenia deve-se suspender a droga e dar medicamento estimular de colônias, a Filgrastina 5 ug/kg/dia 1xdia SC. E reiniciar o Ganciclovir após normalização do número de neutrófilos (&amp;gt; 3.000/mm³).&lt;/p&gt;
+
+&lt;p&gt;Deve-se isolar os RNs infectados para evitar a contaminação de outros. Em virtude da excreção viral prolongada.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A eliminação do CMV no leite materno não contraindica o aleitamento materno nos RN a termo saudáveis, mas essa conduta é controversa no caso de RN prematuros.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
+
+&lt;p&gt;A &lt;strong&gt;mortalidade não é alta na forma congênita subclínica&lt;/strong&gt;, mas a &lt;strong&gt;forma clássica é potencialmente fatal&lt;/strong&gt;. Mesmo nos casos subclínicos o prognóstico neurológico é ruim, com &lt;strong&gt;retardo no desenvolvimento neuropsicomotor e perda da acuidade visual e auditiva&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;IMIP 4ª edição;&lt;/li&gt;
+  &lt;li&gt;Medcurso.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Distúrbios do metabolismo</title><link href="http://localhost:4000/neonatologia/disturbios-do-metabolismo.html" rel="alternate" type="text/html" title="Distúrbios do metabolismo" /><published>2020-03-16T00:00:00-03:00</published><updated>2020-03-16T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/disturbios-do-metabolismo</id><content type="html" xml:base="http://localhost:4000/neonatologia/disturbios-do-metabolismo.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Medcurso&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Rubéola congênita</title><link href="http://localhost:4000/neonatologia/rubeola-congenita.html" rel="alternate" type="text/html" title="Rubéola congênita" /><published>2020-03-16T00:00:00-03:00</published><updated>2020-03-16T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/rubeola-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/rubeola-congenita.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#patogenia&quot; id=&quot;markdown-toc-patogenia&quot;&gt;Patogenia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#laboratorial&quot; id=&quot;markdown-toc-laboratorial&quot;&gt;Laboratorial&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O ser humano é o único hospedeiro conhecido do vírus da rubéola. O risco de defeitos congênitos é maior quando a grávida adquire infecção primária durante o &lt;strong&gt;1º trimestre&lt;/strong&gt;. Ocorrem defeitos congênitos em 90% dos RN infectados durante as primeiras 11 semanas de gestação. Quanto mais precoce a contaminação materna, maior a probabilidade de defeitos congênitos&lt;/p&gt;
+
+&lt;p&gt;É uma doença crônica e progressiva, muitas vezes de evolução silenciosa. Contudo, em alguns casos a infecção é tão grave que resulta em morte intrauterina ou pós-natal.&lt;/p&gt;
+
+&lt;p&gt;A viremia materna é seguida de infecção placentária e posterior viremia fetal. A infecção adquirida após o 4º mês de gestação, em geral, não se encontra associada a malformações fetais, nem à persistência do vírus.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Na presença de infecção fetal, o vírus pode ser excretado pela urina do RN até 1 ano de idade ou mais, necessitando de isolamento para evitar contaminação na maternidade.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Trasmitido por via transplacentária, com infecção logo após a viremia materna;&lt;/li&gt;
+  &lt;li&gt;Principalmente após infecção materna primária;&lt;/li&gt;
+  &lt;li&gt;A taxa de infecção é maior no 1ºT até as 8 primeiras semanas, a partir daí começa a decair no 2ºT e começa a aumentar no 3ºT;&lt;/li&gt;
+  &lt;li&gt;Cerca de 80% dos fetos infectadas nas 8 primeiras semanas possuem malformações detectadas nos 4 primeiros anos de vida;&lt;/li&gt;
+  &lt;li&gt;O RN se torna um reservátorio do vírus, já que a transmissão contínua por 18-24 meses após o nascimento;
+    &lt;ul&gt;
+      &lt;li&gt;Principalmente nos casos de RNs assintomáticos;&lt;/li&gt;
+      &lt;li&gt;Um perigo se tiverem contato com outras gestantes.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;patogenia&quot;&gt;Patogenia&lt;/h2&gt;
+
+&lt;p&gt;Após a viremia materna, a invasão do concepto pelo vírus pode resultar em:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Infecção placentária sem infecção fetal&lt;/li&gt;
+  &lt;li&gt;Morte e reabsorção do embrião&lt;/li&gt;
+  &lt;li&gt;Abortamento espontâneo&lt;/li&gt;
+  &lt;li&gt;Natimorto&lt;/li&gt;
+  &lt;li&gt;RN com anomalias congênitas&lt;/li&gt;
+  &lt;li&gt;RN que manifestará doença após o nascimento&lt;/li&gt;
+  &lt;li&gt;Infecção subclínica&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RN pode nascer PIG&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Mais de &lt;strong&gt;50&lt;/strong&gt;% dos RN infectados são &lt;strong&gt;assintomáticos&lt;/strong&gt;. As principais manifestações clínicas da rubéola congênita são, em ordem decrescente de frequência:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Deficiência auditiva&lt;/strong&gt; (80-90%): é a manifestação mais comum da síndrome da rubéola congênita e é provocada por alterações degenerativas da cóclea e do órgão de Corti (neurossensorial), clinicamente ocorrendo em graus variáveis e geralmente bilateral;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Retardo do crescimento intrauterino&lt;/strong&gt; (50-85%): é a infecção congênita mais associada ao CIUR e baixo peso ao nascer;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Manifestações cardíacas&lt;/strong&gt; (30-40%): as principais cardiopatias congênitas associadassão a persistência de canal arterial e estenose pulmonar;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Malformações oculares:&lt;/strong&gt; são mais frequentes as lesões que afetam a acuidade e a área macular. Catarata geralmente bilateral, glaucoma (precoce ou tardio), retinopatia e microftalmia podem estar presentes;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SNC:&lt;/strong&gt; microcefalia, meningoencefalite, tetraplegia espástica, retardo do desenvolvimento psicomotor;&lt;/li&gt;
+  &lt;li&gt;Outras (&lt;strong&gt;viscerais&lt;/strong&gt;): hepatomegalia e icterícia,
+esplenomegalia, púrpura trombocitopênica, pneumonite intersticial e lesões ósseas (franjeamento da metáfise: lesão em talo de aipo).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Também podem ser divididas em precoces e tardias:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Precoce&lt;/strong&gt;: já presentes no nascimento ou surgem no 1º ano de vida (podem ser transitórias ou permanentes);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tardio&lt;/strong&gt;: associado com a persistência e reativação do vírus, bem como mecanismos autoimunes. Podem ser evidenciadas desde o 2º ano de vida até a idade escolar.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tab1.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tab2.jpeg&quot; alt=&quot;img&quot; /&gt;
+&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tab3.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
+
+&lt;p&gt;O diagnóstico da infecção materna requer a demonstração de anticorpos antirrubéola no sangue. Dentre as técnicas empregadas, a inibição da hemaglutinação é o método de referência. Devemos ter em mente que a infecção primária apresenta títulos detectáveis e em elevação de anticorpo &lt;strong&gt;IgM&lt;/strong&gt;, seguido, após um período variável, por anticorpos da classe &lt;strong&gt;IgG&lt;/strong&gt;. Não há possibilidade de prevenção pós-contato. A vacina é ineficaz. Pode ser tentada a gamaglobulina intravenosa (20 a 25 ml em dois dias), entretanto os resultados não garantem a proteção fetal.&lt;/p&gt;
+
+&lt;p&gt;O diagnóstico clínico de rubéola congênita geralmente só é confirmado no concepto após o seu nascimento, quando as malformações já se encontram estabelecidas&lt;/p&gt;
+
+&lt;p&gt;O diagnóstico diferencial pode ser feito com: toxoplasmose, citomegalovirose, sífilis, septicemia, eritroblastose fetal e infecções herpéticas.&lt;/p&gt;
+
+&lt;h3 id=&quot;laboratorial&quot;&gt;Laboratorial&lt;/h3&gt;
+
+&lt;p&gt;Deve ser coletada logo após o nascimento. A presença de &lt;strong&gt;IgM positivo, confirma o caso&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Se houver um resultado com &lt;strong&gt;IgM negativo&lt;/strong&gt; e &lt;strong&gt;IgG positivo&lt;/strong&gt;, recomenda-se a &lt;strong&gt;repetição do IgG após 3 meses&lt;/strong&gt;; nesta segunda amostra, se houve manutenção do resultado positivo, confirma-se o diagnóstico de rubéola congênita; um segundo resultado de IgG negativo descarta a infecção.&lt;/p&gt;
+
+&lt;p&gt;O teste IgM pelo método de captura do ELISA apresenta elevada sensibilidade principalmente nos dois primeiros meses de vida, podendo ser utilizado até um ano de vida.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Persistência dos níveis de IgG no RN (lembrando que o IgG materno passa pela placenta), não desaparecendo por volta do 6º mês de vida;&lt;/li&gt;
+  &lt;li&gt;IgG do RN aumentando;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;IgM +&lt;/strong&gt; (não passa a placenta) &lt;strong&gt;no RN&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O vírus da rubéola permanece nos tecidos fetais até o nascimento, sendo encontrado, por vários meses após o nascimento, na orofaringe, urina e diversos órgãos. Todos os RN com suspeita de rubéola congênita deverão realizar hemograma, radiografia de ossos longos, ecocardiografia, exame de imagem do sistema nervoso central e avaliação audiométrica (emissões otoacústicas e BERA).&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Não há tratamento específico. A conduta é o manejo sintomático de acordo com os acometimentos, como a insuficiência cardíaca, anemia e trombocitopenia.&lt;/p&gt;
+
+&lt;h2 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h2&gt;
+
+&lt;p&gt;Utiliza-se a vacina &lt;strong&gt;tríplice viral&lt;/strong&gt; com &lt;strong&gt;12 meses&lt;/strong&gt; de idade. A imunidade conferida pela vacina
+costuma ser duradoura. As mulheres em idade fértil com a pesquisa de anticorpos negativa (sorologia negativa) pela inibição da hemaglutinação devem ser vacinadas. Elas &lt;strong&gt;não devem engravidar pelos próximos 30 dias&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;IMIP 4ª edição;&lt;/li&gt;
+  &lt;li&gt;Medcurso.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Sífilis congênita</title><link href="http://localhost:4000/neonatologia/sifilis-congenita.html" rel="alternate" type="text/html" title="Sífilis congênita" /><published>2020-03-15T00:00:00-03:00</published><updated>2020-03-15T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/sifilis-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/sifilis-congenita.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#precoce&quot; id=&quot;markdown-toc-precoce&quot;&gt;Precoce&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#tardia&quot; id=&quot;markdown-toc-tardia&quot;&gt;Tardia&lt;/a&gt;&lt;/li&gt;
@@ -485,13 +718,32 @@ toma normalmente na prática clínica.&lt;/p&gt;
 
 &lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
 
+&lt;p&gt;Todos os neonatos com toxoplasmose congênita confirmada ou nos filhos de mães com toxoplasmose comprovada ou provável deverão receber tratamento por &lt;strong&gt;12 meses&lt;/strong&gt;, &lt;strong&gt;independente de apresentarem ou não sinais/sintomas&lt;/strong&gt; da doença.&lt;/p&gt;
+
 &lt;p&gt;O melhor tratamento até o momento é a associação de &lt;strong&gt;sulfadiazina&lt;/strong&gt; e &lt;strong&gt;pirimetamina&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Pirimetamina:&lt;/strong&gt; 1 mg/kg/dia em uma dose diária, durante 2 a 6 meses, dependendo da intensidade do acometimento. A seguir, 1 mg/kg 3 vezes por semana, até completar 1 ano de utilização do medicamento.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Sulfadiazina&lt;/strong&gt; ou &lt;strong&gt;Trissulfapiridinas&lt;/strong&gt;: 100 mg/kg/dia via oral, duas vezes ao dia.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Glicocorticoide:&lt;/strong&gt; prednisona ou metilprednisolona, 1 mg/kg/dia. Pode ser utilizado até o processo inflamatório diminuir. Indicado na presença de retinocoroidite em atividade ou proteinorraquia &amp;gt; 1.000 mg/dl.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ácido folínico:&lt;/strong&gt; sempre deve ser utilizado durante o uso de pirimetamina, para diminuir a toxicidade (neutropenia/anemia);
+    &lt;ul&gt;
+      &lt;li&gt;10 mg administrados três vezes por semana.&lt;/li&gt;
+      &lt;li&gt;Na ocorrência de neutropenia: se &amp;lt; 1000 neutrófilos/mm3, aumentar a dose para 20 mg diários; se &amp;lt; 500 neutrófilos/mm3, suspender a pirimetamina até que ocorra recuperação. Manter por mais uma semana após interrupção do uso da pirimetamina;&lt;/li&gt;
+      &lt;li&gt;Atenção: o ácido fólico não deve ser utilizado em substituição ao ácido folínico.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Como a pirimetamina tem efeito antifólico, o tratamento deve ser acompanhado de hemograma, contagem de plaquetas e de reticulócitos, semanalmente.&lt;/p&gt;
 
 &lt;p&gt;Deve-se instituir o tratamento precoce com espiramicina e/ou tratamento alternativo com pirimetamina, sulfadiazina e ácido folínico após 16ª e a 18ª semana de IG sempre que o feto estiver infectado.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tto.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As crianças adequadamente tratadas são aquelas que têm &lt;strong&gt;negativação do título de IgG ou queda&lt;/strong&gt; comprovada &lt;strong&gt;após seis meses&lt;/strong&gt; da suspensão dos medicamentos.&lt;/p&gt;
+
+&lt;p&gt;Os neonatos assintomáticos, filhas de mães com diagnóstico possível ou inconclusivo, deve­rão realizar sorologias a cada 2 meses, com fundo de olho, USG de fontanela e hemograma.&lt;/p&gt;
 
 &lt;h2 id=&quot;prevenção&quot;&gt;Prevenção&lt;/h2&gt;
 
@@ -1511,409 +1763,4 @@ casos, geralmente, com sinais e sintomas
 iniciados ainda nas 12 primeiras horas de
 vida e resolução completa em 48 horas. Portanto, TODA CONJUNTIVITE QUE SE
 INICIA APÓS 48 HORAS, deve ser avaliada para a possibilidade de infecção. Deve-se colher swab conjuntival com coloração por
-Gram e Giemsa bem como para cultura.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Meningite</title><link href="http://localhost:4000/infectologia/meningite.html" rel="alternate" type="text/html" title="Meningite" /><published>2020-03-08T00:00:00-03:00</published><updated>2020-03-08T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/meningite</id><content type="html" xml:base="http://localhost:4000/infectologia/meningite.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#transmissão&quot; id=&quot;markdown-toc-transmissão&quot;&gt;Transmissão&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#síndrome-toxêmica&quot; id=&quot;markdown-toc-síndrome-toxêmica&quot;&gt;Síndrome toxêmica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#síndrome-de-irritação-meníngea&quot; id=&quot;markdown-toc-síndrome-de-irritação-meníngea&quot;&gt;Síndrome de irritação meníngea&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#síndrome-de-hipertensão-intracraniana&quot; id=&quot;markdown-toc-síndrome-de-hipertensão-intracraniana&quot;&gt;Síndrome de hipertensão intracraniana&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#lcr&quot; id=&quot;markdown-toc-lcr&quot;&gt;LCR&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#neuroimagem&quot; id=&quot;markdown-toc-neuroimagem&quot;&gt;Neuroimagem&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hemocultura-e-biópsia-de-lesões-cutâneas&quot; id=&quot;markdown-toc-hemocultura-e-biópsia-de-lesões-cutâneas&quot;&gt;Hemocultura e biópsia de lesões cutâneas&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#glicocorticoides&quot; id=&quot;markdown-toc-glicocorticoides&quot;&gt;Glicocorticoides&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;É a infecção das meninges e do espaço subaracnoide. Esta condição está relacionada a uma intensa reação inflamatória no sistema nervoso
-central, que se manifesta como rebaixamento
-do nível de consciência, convulsões, aumento da Pressão Intracraniana (PIC) e eventos isquêmicos.&lt;/p&gt;
-
-&lt;p&gt;Quando ocorre envolvimento do parênquima cerebral, chamamos de meningoencefalite.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;As crianças (1 mês de vida até os 5 anos) respondem por 90% dos casos.&lt;/p&gt;
-
-&lt;h2 id=&quot;transmissão&quot;&gt;Transmissão&lt;/h2&gt;
-
-&lt;p&gt;Na meningite bacteriana, a transmissão ocorre pelas vias aéreas. Quando os micro-organismos alcançam o plexo coroide, invadem o espaço subaracnoide e se multiplicam no liquor.&lt;/p&gt;
-
-&lt;p&gt;Na criança é incomum a disseminação pela via sanguínea a partir de focos como endocardite infecciosa, pneumonia e tromboflebite. Menos frequente ainda é o comprometimento das meninges por extensão direta de focos infecciosos.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;O liquor, por apresentar baixa concentração de imunoglobulinas e complemento, é um sítio favorável à multiplicação de bactérias! Se sabe que é a reação imune do hospedeiro à infecção, e não a própria bactéria em si, a grande
-responsável pelas manifestações  neurológicas e complicações da meningite bacteriana!&lt;/p&gt;
-
-&lt;p&gt;A lise bacteriana e a posterior liberação de elementos de sua parede celular, como o lipopolissacarídeo (bactérias Gram-negativas) e ácido teicoico e peptidioglicano (bactérias Gram-positivas), induzem inflamação intensa das
-meninges devido à produção de citocinas, principalmente o Fator de Necrose Tumoral-alfa (TNF-α) e Interleucina-1 (IL-1). As células envolvidas na síntese destes mediadores são:
-leucócitos (presentes no liquor), células da micróglia, astrócitos e células endoteliais da microvasculatura.&lt;/p&gt;
-
-&lt;p&gt;As citocinas levam a um aumento da permeabilidade capilar, alterando as propriedades da barreira hematoencefálica. Este fenômeno favorece
-o aparecimento de edema cerebral do tipo vasogênico e permite o extravasamento de proteínas e leucócitos para o liquor, elementos que determinam a formação de um espesso exsudato.&lt;/p&gt;
-
-&lt;p&gt;O exsudato pode &lt;strong&gt;bloquear a reabsorção liquórica&lt;/strong&gt; pelas granulações aracnoideas, o que leva à &lt;strong&gt;hidrocefalia&lt;/strong&gt; e ao &lt;strong&gt;edema cerebral do tipo intersticial&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O exsudato pode bloquear a reabsorção liquórica pelas granulações aracnoideas, o que leva à hidrocefalia e ao edema cerebral do tipo intersticial. falo. A perda da autorregulação cerebrovascular
-traz, portanto, graves consequências. Caso ocorra hipotensão durante o episódio de meningite (o que é comum, sobretudo na meningocócica), o hipofluxo cerebral pode determinar alterações isquêmicos. Por outro lado, o aumento da PAM é transmitido com facilidade para o encéfalo, o que pode agravar o edema cerebral.&lt;/p&gt;
-
-&lt;p&gt;Por fim, o processo inflamatório no espaço
-subaracnoide pode acometer vasos sanguíneos por contiguidade (vasculite – principalmente nos vasos da base do crânio), ocasionando trombose e infarto cerebral isquêmico (a isquemia do SNC ocasiona edema do tipo citotóxico)
-ou então favorecendo a disseminação do processo infeccioso para o encéfalo, determinando o aparecimento de abscessos cerebrais.&lt;/p&gt;
-
-&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
-
-&lt;p&gt;A meningite no &lt;strong&gt;recém-nascido&lt;/strong&gt; e no &lt;strong&gt;lactente&lt;/strong&gt; de até três meses é ocasionada mais frequentemente pelos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Streptococcus agalactiae&lt;/em&gt; (estreptococo do grupo B);&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Listeria monocytogenes&lt;/em&gt;;&lt;/li&gt;
-  &lt;li&gt;Gram-negativas entéricas:
-    &lt;ul&gt;
-      &lt;li&gt;Escherichia coli (principal);&lt;/li&gt;
-      &lt;li&gt;Enterobacter spp.;&lt;/li&gt;
-      &lt;li&gt;Klebsiella pneumoniae;&lt;/li&gt;
-      &lt;li&gt;Salmonella enteritidis.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A aquisição dessas bactérias se dá no momento do parto, devido à colonização da mucosa vaginal.&lt;/p&gt;
-
-&lt;p&gt;Dos &lt;strong&gt;3 meses aos 18 anos&lt;/strong&gt;, os micro-organismos mais frequentes passam a ser:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Neisseria Meningitidis (meningococo);&lt;/li&gt;
-  &lt;li&gt;Streptococcus pneumoniae (pneumococo);&lt;/li&gt;
-  &lt;li&gt;Haemophilus influenzae tipo b (Hib)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;No passado era descrito um predomínio do Hib sobre o meningococo, porém, devido à vacinação anti-Hib, a meningite por este agente teve sua incidência bastante diminuída.&lt;/p&gt;
-
-&lt;p&gt;Dos &lt;strong&gt;18 aos 50 anos&lt;/strong&gt;, o pneumococo se torna mais frequente que o meningococo (que assume a segunda posição no ranking), permanecendo o Hib como o menos frequente dos três.&lt;/p&gt;
-
-&lt;p&gt;Em &lt;strong&gt;indivíduos &amp;gt; 50 anos&lt;/strong&gt;, o pneumococo também é o principal agente etiológico de meningite bacteriana, seguido agora pela &lt;strong&gt;Listeria&lt;/strong&gt; e pelos bacilos &lt;strong&gt;Gram-negativos entéricos&lt;/strong&gt;, que voltam a ter importância estatística.&lt;/p&gt;
-
-&lt;p&gt;A meningite pelo Streptococcus pneumoniae
-determina os quadros clínicos de maior gravidade (letalidade 15-30%) geralmente deixando mais sequelas entre os sobreviventes. O fator de risco mais significativo é a pneumonia, presente em até 25% dos pacientes.&lt;/p&gt;
-
-&lt;p&gt;A meningite por meningoco e por Hib possuem letalidade de 15%. Enquanto a do meningococo quase não causa sequelas, a Hib causa com maior frequência.&lt;/p&gt;
-
-&lt;p&gt;Outras condições que aumentam o risco de meningite pneumocócica incluem sinusite/otite média aguda ou crônica, alcoolismo, diabetes, esplenectomia, hipogamaglobulinemia, trauma cranioencefálico com fratura de base de crânio e fístula liquórica (rinorreia de liquor), anemia falciforme e deficiência de complemento.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;Staphylococcus aureus&lt;/strong&gt; e o &lt;strong&gt;Staphylococcus epidermidis&lt;/strong&gt;, principalmente o último, são os micro-organismos mais envolvidos em meningite após procedimentos neurocirúrgicos, como derivação ventriculoperitoneal para o tratamento de
-hidrocefalia e instalação de dispositivos subcutâneos para realização de quimioterapia intratecal.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;A meningite engloba três síndromes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Síndrome toxêmica;&lt;/li&gt;
-  &lt;li&gt;Síndrome de irritação meníngea;&lt;/li&gt;
-  &lt;li&gt;Síndrome de hipertensão intracraniana.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em crianças pequenas, em particular nos lactentes, os sinais e sintomas de irritação meníngea podem estar ausentes em até 50% dos casos. Apresentando apenas manifestações inespecíficas, como choro e irritabilidade. Sob qualquer suspeita devemos puncionar o LCR.&lt;/p&gt;
-
-&lt;h3 id=&quot;síndrome-toxêmica&quot;&gt;Síndrome toxêmica&lt;/h3&gt;
-
-&lt;p&gt;Febre alta, mal-estar geral, prostração e,
-eventualmente, agitação psicomotora.&lt;/p&gt;
-
-&lt;p&gt;Sinal de Faget: uma dissociação entre o pulso e a temperatura, isto é, “muita febre para pouca taquicardia”. É relativamente comum.&lt;/p&gt;
-
-&lt;p&gt;Em 40-60% das meningites meningocócicas, um rash cutâneo hemorrágico, marcado pelo surgimento de petéquias e equimoses disseminadas, pode ser encontrado (dano endotelial nos capilares da derme pela “semeadura” local do meningococo).&lt;/p&gt;
-
-&lt;h3 id=&quot;síndrome-de-irritação-meníngea&quot;&gt;Síndrome de irritação meníngea&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Rigidez de nuca:&lt;/strong&gt; paciente em decúbito dorsal com dificuldade para fletir seu pescoço (devido à contratura reflexa da musculatura cervical posterior);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sinal de Kernig:&lt;/strong&gt; com o paciente em decúbito dorsal eleva-se o tronco, fletindo-o sobre a bacia. Ocorre flexão da perna sobre a coxa, e desta sobre a bacia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sinal de Brudzinski:&lt;/strong&gt; flexão involuntária da perna sobre a coxa e desta sobre a bacia ao se tentar fletir a cabeça;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sinal do desconforto lombar:&lt;/strong&gt; o paciente em decúbito dorsal flexiona um joelho. O examinador coloca sua mão na região plantar ipsilateral, exercendo resistência, e pede ao paciente que empurre com força. O sinal é positivo quando o paciente refere uma sensação de
-“choque elétrico” na região lombar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;síndrome-de-hipertensão-intracraniana&quot;&gt;Síndrome de hipertensão intracraniana&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Cefaleia holocraniana intensa;&lt;/li&gt;
-  &lt;li&gt;Náuseas, vômitos;&lt;/li&gt;
-  &lt;li&gt;Fotofobia;&lt;/li&gt;
-  &lt;li&gt;Confusão mental.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Em geral os vômitos são precedidos por náuseas, mas, classicamente, podem ocorrer &lt;strong&gt;vômitos “em jato”&lt;/strong&gt; sem náuseas
-antecedentes.&lt;/p&gt;
-
-&lt;p&gt;Crises convulsivas podem aparecer em 30-40% dos casos de meningite bacteriana. Quando focais, podem indicar a ocorrência de lesões vasculares (vasculite) complicadas por trombose e infarto isquêmico do parênquima cerebral.&lt;/p&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;h3 id=&quot;lcr&quot;&gt;LCR&lt;/h3&gt;
-
-&lt;p&gt;O diagnóstico deve ser confirmado por uma punção lombar. A primeira dose do antibiótico intravenoso deve ser ministrada antes do transporte para a radiologia, e após coleta de hemoculturas.&lt;/p&gt;
-
-&lt;p&gt;Na presença de rebaixamento do nível de consciência, com deficit focais novos e/ou papiledema, muitos autores recomendam um exame de neuroimagem antes da punção. A única contraindicação absoluta à punção
-liquórica é a presença de &lt;strong&gt;infecção no local da punção&lt;/strong&gt; (piodermite).&lt;/p&gt;
-
-&lt;p&gt;Em pacientes com &lt;strong&gt;nível de consciência&lt;/strong&gt; normal, sem &lt;strong&gt;papiledema&lt;/strong&gt; ou &lt;strong&gt;deficit focais&lt;/strong&gt;, a punção liquórica é realizada na região lombar, entre L1 e S1, sendo mais indicados os espaços &lt;strong&gt;L3-L4&lt;/strong&gt;, &lt;strong&gt;L4-L5&lt;/strong&gt; ou &lt;strong&gt;L5-S1&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/lcr.jpeg&quot; alt=&quot;LCR&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Pressão de Abertura&lt;/strong&gt; (Opening Pressure): deve ser medida com o paciente em decúbito lateral. Em adultos a pressão normal situa-se abaixo de 18 cmH2O. Na meningite bacteriana, os valores estão &lt;strong&gt;acima de 18 cmH2O&lt;/strong&gt; em 90% dos casos;&lt;/li&gt;
-  &lt;li&gt;Coloração: o liquor normal é límpido e incolor como “água de rocha”. O aumento de elementos figurados (células) causa a turvação no LCR. Os neutrófilos degenerados geralmente o tornam turvo e de aspecto purulento;
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Xantocromia:&lt;/strong&gt; é uma coloração derivada, primariamente, dos pigmentos de bilirrubina. Xantocromia verdadeira (sem mistura de sangue durante a punção) encontra-se associada à hemorragia subaracnoidea.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Contagem de Células:&lt;/strong&gt; o liquor normal apresenta até 4 células/mm3, sendo constituído de linfócitos e monócitos. Em casos de meningite bacteriana, a contagem celular é &lt;strong&gt;maior do que 500 células&lt;/strong&gt;, com &lt;strong&gt;predomínio de neutrófilos&lt;/strong&gt; (&amp;gt; 70%);
-    &lt;ul&gt;
-      &lt;li&gt;Os linfócitos e eosinófilos predominam nos casos subagudos e crônicos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Bioquímico:&lt;/strong&gt; dosagem de glicose, proteínas, cloretos, ureia etc.
-    &lt;ul&gt;
-      &lt;li&gt;O valor da glicose no LCR é maior do que 2/3 do valor do sangue. Em meningites bacterianas ocorre hipoglicorraquia, representada por glicose inferior a 40 mg/dl ou por uma relação inferior a 0,40.&lt;/li&gt;
-      &lt;li&gt;Proteínas: em meningites bacterianas as proteínas &lt;strong&gt;excedem o valor de 45 mg/dl&lt;/strong&gt; (normal até 30 mg/dl).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/lcr2.jpeg&quot; alt=&quot;LCR&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Aglutinação pelo látex:&lt;/strong&gt; A pesquisa de antígenos bacterianos poderá ser processada pela técnica de aglutinação pelo látex ou contraimunoeletroforese. O látex apresenta especificidade de 95
-a 100% na meningite por pneumococo e meningococo. Sendo assim, um resultado positivo confirma o agente infeccioso. Infelizmente a sensibilidade do exame já não é tão elevada, sendo de 33 a 70% na meningite meningocócica e 70 a 95% na pneumocócica.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Exame microbiológico:&lt;/strong&gt; os mais utilizados são a bacterioscopia pelo
-&lt;strong&gt;Gram&lt;/strong&gt; e a &lt;strong&gt;cultura&lt;/strong&gt;. Se o paciente recebeu antibióticos antes da punção
-lombar, o Gram e a cultura podem não revelar a presença de bactérias, porém a PCR ainda pode firmar o diagnóstico.&lt;/p&gt;
-
-&lt;h3 id=&quot;neuroimagem&quot;&gt;Neuroimagem&lt;/h3&gt;
-
-&lt;p&gt;Evidenciam com clareza áreas de &lt;strong&gt;edema e/ou isquemia&lt;/strong&gt;. A ressonância nuclear magnética é preferida sobre a tomografia de crânio.&lt;/p&gt;
-
-&lt;h3 id=&quot;hemocultura-e-biópsia-de-lesões-cutâneas&quot;&gt;Hemocultura e biópsia de lesões cutâneas&lt;/h3&gt;
-
-&lt;p&gt;Em casos de meningite associada à &lt;strong&gt;meningococcemia&lt;/strong&gt;, as hemoculturas costumam ser positivas e a &lt;strong&gt;biópsia de lesões petequiais&lt;/strong&gt; costuma revelar o micro-organismo, inclusive de forma
-rápida pelo método de Gram.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;A Meningite Bacteriana Aguda (MBA) é uma
-emergência infecciosa e, como tal, deve ser tratada sem demora. Dessa forma, quando houver suspeita de MBA e por algum motivo não for possível realizar uma punção lombar diagnóstica, seja por falta de condições técnicas, seja pelo fato do doente estar muito grave (ou mesmo na presença de contraindicações ao
-procedimento), impõe-se o início imediato
-do antibiótico, escolhido empiricamente de
-acordo com a faixa etária e outros
-dados clínicos e epidemiológicos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/atb-meningite.jpeg&quot; alt=&quot;Tto&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;glicocorticoides&quot;&gt;Glicocorticoides&lt;/h3&gt;
-
-&lt;p&gt;Preconiza-se o uso sistemático de GC em todas as formas de meningite bacteriana aguda, visando reduzir a inflamação no SNC e, desse modo, a chance de óbito e sequelas neurológicas.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/infectologia/atb-meningite2.jpeg&quot; alt=&quot;Tto&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Infecção de vias aéreas superiores</title><link href="http://localhost:4000/pediatria/ivas.html" rel="alternate" type="text/html" title="Infecção de vias aéreas superiores" /><published>2019-12-07T00:00:00-03:00</published><updated>2019-12-07T00:00:00-03:00</updated><id>http://localhost:4000/pediatria/ivas</id><content type="html" xml:base="http://localhost:4000/pediatria/ivas.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#rinofaringite-viral&quot; id=&quot;markdown-toc-rinofaringite-viral&quot;&gt;Rinofaringite viral&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#faringoamigdalites&quot; id=&quot;markdown-toc-faringoamigdalites&quot;&gt;Faringoamigdalites&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#otite-média-aguda&quot; id=&quot;markdown-toc-otite-média-aguda&quot;&gt;Otite média aguda&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#rinossinusite&quot; id=&quot;markdown-toc-rinossinusite&quot;&gt;Rinossinusite&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-1&quot; id=&quot;markdown-toc-tratamento-1&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Envolvem as estruturas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fossas nasais;&lt;/li&gt;
-  &lt;li&gt;Faringe (nasofaringe, orofaringe e hipofaringe);&lt;/li&gt;
-  &lt;li&gt;Seios paranasais;&lt;/li&gt;
-  &lt;li&gt;Laringe;&lt;/li&gt;
-  &lt;li&gt;Traqueia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As principais síndromes clínicas das vias aéreas superiores são: resfriado comum, faringite, otites e sinusites; laringites, epiglotites e traqueítes.&lt;/p&gt;
-
-&lt;h2 id=&quot;rinofaringite-viral&quot;&gt;Rinofaringite viral&lt;/h2&gt;
-
-&lt;p&gt;A rinofaringite viral ou resfriado comum é a desordem infecciosa mais comum da infância, de natureza benigna e autolimitada.&lt;/p&gt;
-
-&lt;p&gt;O Ministério da Saúde recomenda para tratamento da febre:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Parace­tamol (200 mg/ml) na dose de 1 gota/kg/dose 6/6 horas;&lt;/li&gt;
-  &lt;li&gt;Dipirona (500 mg/ml) na dose de 1 gota/2kg/dose 6/6 horas;&lt;/li&gt;
-  &lt;li&gt;Ibuprofeno (50 mg/ml) 2 gotas/kg/dose, 8/8h.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Instilação de soluções salinas isotônicas nas narinas, uso de vaporizadores e uma boa hidratação são medidas úteis para fluidificar as secreções.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O Ministério da Saúde não recomenda o uso de anti-histamínicos e descongestionantes nasais de administração tópica e/ou oral para crianças menores de dois anos.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A principal forma de prevenção é a lavagem constante das mãos!&lt;/p&gt;
-
-&lt;p&gt;Vacina influenza: crianças de 6 meses a menores de 5 anos,&lt;/p&gt;
-
-&lt;h2 id=&quot;faringoamigdalites&quot;&gt;Faringoamigdalites&lt;/h2&gt;
-
-&lt;p&gt;Entre os agentes bacterianos, o estreptococo-beta-hemolítico do grupo A de Lancefield (&lt;em&gt;Streptococcus pyogenes&lt;/em&gt;) é o agente mais importante na gênese da doença, principalmente na faixa etária compreendida entre 5-15 anos (15-20% dos casos de faringoamigdalite). Mas crianças menores de 3 anos raramente apresentam doença bacteriana.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A escarlatina é uma síndrome clínica que congrega faringoamigdalite exsudativa e um exantema com aspecto de lixa, provocada pela produção de toxinas eritrogênicas estreptocócicas dos tipos A, B e C.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A faringoamigdalite estreptocócica evolui quase sempre com resolução espontânea após 4-5 dias em média, mesmo sem o uso de antibióticos. Entretanto, a condição não é considerada benigna pelo risco, em torno de 3%, das complicações já citadas e grande transmissibilidade quando não tratada.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Associada ao resfriado comum:&lt;/strong&gt; secreção nasal, tosse, anorexia e adenopatia cervical;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Adenovírus:&lt;/strong&gt; mialgia, cefaleia e conjuntivite – febre faringoconjuntival;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Coxsackie:&lt;/strong&gt; pequenas úlceras e vesículas no palato mole e pilares da amígdala. Dor abdominal – herpangina;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Herpes-simplex:&lt;/strong&gt; múltiplas úlceras no palato, adenopatia cervical dolorosa com ou sem gengivoestomatite;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Epstein-Barr:&lt;/strong&gt; adenopatia cervical, eventualmente generalizada, esplenomegalia e exantema após uso de ampicilina – mononucleose infecciosa.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O swab de orofaringe, seguido de cultura em ágar sangue, possui uma elevada especificidade e sensibilidade na identificação do Streptococcus pyogenes.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;A maioria das faringites agudas é provocada
-por vírus e não necessita de terapia específica,
-à exceção da faringite por herpes-simplex em
-pacientes imunossuprimidos, para os quais o
-aciclovir parenteral deve ser prescrito.&lt;/p&gt;
-
-&lt;p&gt;A antibioticoterapia deve ser utilizada na angina estreptocócica. Mesmo iniciada dentro dos
-primeiros nove dias após início da faringite, o
-uso de antibióticos é capaz de prevenir o surgimento de febre reumática.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Na prática, muitos pediatras e clínicos iniciam antibiótico com base no aspecto das amígdalas, isto é, presença de exsudato purulento, somado a outros dados clínicos como febre alta e petéquias em palato. Muitas vezes, o simples passado de febre reumática é informação suficiente para, nos casos de dúvida, favorecer a prescrição.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Penicilina benzatina (droga de escolha) dose única, IM, de 600.000 UI (crianças com peso &amp;lt; 20 kg ou &amp;lt; 27 kg) a 1.200.000 UI (crianças com peso &amp;gt; 20 kg ou 27 kg);&lt;/li&gt;
-  &lt;li&gt;Alternativas orais são:
-    &lt;ul&gt;
-      &lt;li&gt;Amoxicilina (50 mg/kg/dia, 10 dias);&lt;/li&gt;
-      &lt;li&gt;Macrolídeos (eritromicina ou azitromicina).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Espera-se deferves­cência dentro das primeiras 24 horas. Se inciada dentro dos 9 primeiros dias de infecção, reduz a chance de febre reumática por &lt;em&gt;S. pyogenes&lt;/em&gt;. Contudo, não reduz a chance de glomerulonefrite difusa aguda pós-estreptocócica.&lt;/p&gt;
-
-&lt;p&gt;Crianças que fazem faringotonsilites de repetição (&amp;gt; 7 episódios no último ano; &amp;gt; 5 episódios/ano nos últimos dois anos; ou &amp;gt; 3 episódios/ano nos últimos três anos) podem ser candidatas à
-realização de tonsilectomia/adenoidectomia.&lt;/p&gt;
-
-&lt;h2 id=&quot;otite-média-aguda&quot;&gt;Otite média aguda&lt;/h2&gt;
-
-&lt;p&gt;A maior prevalência ocorre durante os 2 primeiros anos de vida. Cerca de 80% das crianças abaixo de três anos terão pelo ao menos um episódio de OMA.&lt;/p&gt;
-
-&lt;p&gt;Os agentes etiológicos frequentemente identificados nos casos de otite média aguda são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;S. pneumoniae&lt;/em&gt; (mais frequentes nos EUA);&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;H. influenza&lt;/em&gt; não tipável (mais frequentes no Brasil);&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;Moraxella catarrhalis&lt;/em&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A maioria dos episódios são complicações de IVAS. A base
-fisiopatológica é a disfunção da trompa de Eustáquio (obstrução) com estase do muco, propiciando um meio de cultura ideal para a proliferação de bactérias.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Otalgia&lt;/strong&gt;;&lt;/li&gt;
-  &lt;li&gt;Perfuração timpânica (como uma forma de tentar drenar o pus) com &lt;strong&gt;otorreia&lt;/strong&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Abaulamento&lt;/strong&gt; do timpâno;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Febre&lt;/strong&gt; alta ou baixa;&lt;/li&gt;
-  &lt;li&gt;Episódio prévio de &lt;strong&gt;rinofaringite viral&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Otoscopia:&lt;/strong&gt; revela uma membrana timpânica hiperemiada, convexa e &lt;strong&gt;abaulada&lt;/strong&gt;, de coloração alterada (hiperemia difusa, opacificação e pontos esbranquiçados) e com perda da mobilidade.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/pediatria/ivas/tto-oma.jpeg&quot; alt=&quot;Conduta para a OMA&quot; /&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Primeira opção de antibiótico: &lt;strong&gt;amoxicilina&lt;/strong&gt; 50 a 90 mg/kgo por 10 dias;&lt;/li&gt;
-  &lt;li&gt;Segunda opção: &lt;strong&gt;amoxicilina com clavulanato&lt;/strong&gt; 50 mg/kg/dia por 10 dias;&lt;/li&gt;
-  &lt;li&gt;Se não melhorar: ceftriaxona 50mg/kg/dia por 3 dias&lt;/li&gt;
-  &lt;li&gt;Se ainda sim não melhorar: timpanocentese para pesquisar a bactéria.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;rinossinusite&quot;&gt;Rinossinusite&lt;/h2&gt;
-
-&lt;p&gt;Classificada como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Viral autolimitada;&lt;/li&gt;
-  &lt;li&gt;Bacteriana aguda: &amp;lt; 30 dias e resolução completa dos sintomas;&lt;/li&gt;
-  &lt;li&gt;Bacteriana subaguda: &amp;gt; 30 dias e &amp;lt; 3 meses;&lt;/li&gt;
-  &lt;li&gt;Crônica: &amp;gt; 3 meses.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A causa mais comum de rinossinusite é uma infecção viral das vias aéreas superiores, geradora de edema e inflamação da mucosa com produção de muco espesso, que obstrui os seios paranasais e permite proliferação bacteriana secundária.&lt;/p&gt;
-
-&lt;p&gt;O mecanismo é essencialmente o mesmo da OMA. Ocorre maior produção de muco e obstrução da drenagem, criando um meio de cultura propício para o desenvolvimento de bactérias.&lt;/p&gt;
-
-&lt;p&gt;Aproximadamente 0,5 a 2% dos resfriados comuns complicam com sinusite bacteriana aguda.&lt;/p&gt;
-
-&lt;p&gt;Os agentes que mais comumente causam rinossinusite bacteriana aguda são o &lt;em&gt;S. pneumoniae&lt;/em&gt;, o &lt;em&gt;H. influenzae&lt;/em&gt; não tipável e a &lt;em&gt;M. catarrhalis&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;A criança menor (&amp;lt; 5 anos) não manifesta dor facial, cefaleia, edema e sensibilidade à percussão da face.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;O pediatra deve pensar na existência de sinusite, quando uma infecção da via aérea superior não melhora e, eventualmente, piora cerca de dez dias após seu início.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As complicações da rinossinusite bacteriana incluem celulites periorbitária e orbitária, trombose de seio cavernoso, meningite, abscessos epidural e subdural e osteomielite.&lt;/p&gt;
-
-&lt;p&gt;Em crianças menores de cinco anos, os exames radiológicos não são indicados. Achados radiológicos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Espessamento mucoso (&amp;gt; 4 mm);&lt;/li&gt;
-  &lt;li&gt;Opacificação (velamento) do seio (comparar com o seio contralateral);&lt;/li&gt;
-  &lt;li&gt;Nível hidroaéreo.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A aspiração dos seios paranasais para identificação microbiológica é recomendada em crianças imunossuprimidas, na presença de complicações e na infecção não responsiva à antibioticoterapia.&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-1&quot;&gt;Tratamento&lt;/h3&gt;
-
-&lt;p&gt;Recomenda-se o tratamento antimicrobiano das rinossinusites agudas da infância para evitar complicações supurativas, embora se saiba que 50-60% delas se resolveriam espontaneamente.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sinusite bacteriana não complicada: amoxicilina 50 mg/kg/dia por 10 dias;&lt;/li&gt;
-  &lt;li&gt;Doença grave ou tratamento anterior: amoxicilina com clavulanato 50 mg/kg/dia por 10 dias;&lt;/li&gt;
-  &lt;li&gt;Crianças c/ vômito: ceftriaxone 50mg porque dose única diária.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Complicações:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Celulite periorbitária: indicada internação hospitalar e antibioticoterapia venosa;&lt;/li&gt;
-  &lt;li&gt;Celulite orbitária: grave e temida da sinusite etmoidal. Prop­tose e oftalmoplegia. Internação hospitalar imediata e antibioticoterapia venosa. A drenagem do seio etmoidal pode estar indicada;&lt;/li&gt;
-  &lt;li&gt;Infecção no SNC: meningite, abscesso (epidural, subdural, cerebral parenquimatoso), trombose do seio cavernoso.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Estenose aórtica</title><link href="http://localhost:4000/cardiologia/estenose-aortica.html" rel="alternate" type="text/html" title="Estenose aórtica" /><published>2019-12-06T00:00:00-03:00</published><updated>2019-12-06T00:00:00-03:00</updated><id>http://localhost:4000/cardiologia/estenose-aortica</id><content type="html" xml:base="http://localhost:4000/cardiologia/estenose-aortica.html">&lt;p&gt;Pulso &lt;em&gt;parvus&lt;/em&gt; (amplitude diminuída) e &lt;em&gt;tardus&lt;/em&gt; (maior tempo de duração).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;SOPRO SISTÓLICO DE EJEÇÃO: em área aórtica, áspero e com irradiação para ambas as carótidas (às vezes para o FM);&lt;/li&gt;
-  &lt;li&gt;CLICK SISTÓLICO DE EJEÇÃO: em área aórtica, protossistólico (abertura da VAo);&lt;/li&gt;
-  &lt;li&gt;DESDOBRAMENTO PARADOXAL DA B2 (EAO grave).&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html">Pulso parvus (amplitude diminuída) e tardus (maior tempo de duração).</summary></entry></feed>
+Gram e Giemsa bem como para cultura.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry></feed>

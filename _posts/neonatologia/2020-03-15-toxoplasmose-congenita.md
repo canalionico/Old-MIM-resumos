@@ -164,13 +164,27 @@ Além da avaliação neurológica (ex.: liquor, USG, radiografia e TC de crânio
 
 ## Tratamento
 
+Todos os neonatos com toxoplasmose congênita confirmada ou nos filhos de mães com toxoplasmose comprovada ou provável deverão receber tratamento por **12 meses**, **independente de apresentarem ou não sinais/sintomas** da doença.
+
 O melhor tratamento até o momento é a associação de **sulfadiazina** e **pirimetamina**.
+
+* **Pirimetamina:** 1 mg/kg/dia em uma dose diária, durante 2 a 6 meses, dependendo da intensidade do acometimento. A seguir, 1 mg/kg 3 vezes por semana, até completar 1 ano de utilização do medicamento.
+* **Sulfadiazina** ou **Trissulfapiridinas**: 100 mg/kg/dia via oral, duas vezes ao dia.
+* **Glicocorticoide:** prednisona ou metilprednisolona, 1 mg/kg/dia. Pode ser utilizado até o processo inflamatório diminuir. Indicado na presença de retinocoroidite em atividade ou proteinorraquia > 1.000 mg/dl.
+* **Ácido folínico:** sempre deve ser utilizado durante o uso de pirimetamina, para diminuir a toxicidade (neutropenia/anemia);
+  * 10 mg administrados três vezes por semana.
+  * Na ocorrência de neutropenia: se < 1000 neutrófilos/mm3, aumentar a dose para 20 mg diários; se < 500 neutrófilos/mm3, suspender a pirimetamina até que ocorra recuperação. Manter por mais uma semana após interrupção do uso da pirimetamina;
+  * Atenção: o ácido fólico não deve ser utilizado em substituição ao ácido folínico.
 
 Como a pirimetamina tem efeito antifólico, o tratamento deve ser acompanhado de hemograma, contagem de plaquetas e de reticulócitos, semanalmente.
 
 Deve-se instituir o tratamento precoce com espiramicina e/ou tratamento alternativo com pirimetamina, sulfadiazina e ácido folínico após 16ª e a 18ª semana de IG sempre que o feto estiver infectado.
 
 ![img](/assets/neonatologia/infeccoes-cong/tto.jpeg)
+
+As crianças adequadamente tratadas são aquelas que têm **negativação do título de IgG ou queda** comprovada **após seis meses** da suspensão dos medicamentos.
+
+Os neonatos assintomáticos, filhas de mães com diagnóstico possível ou inconclusivo, deve­rão realizar sorologias a cada 2 meses, com fundo de olho, USG de fontanela e hemograma.
 
 ## Prevenção
 
