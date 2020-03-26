@@ -20,6 +20,10 @@ self.addEventListener('install', function (event) {
       
         '/sumario/cardiologia.html',
       
+        '/sumario/cirurgia.html',
+      
+        '/sumario/gastroenterologia.html',
+      
         '/sumario/ginecologia.html',
       
         '/sumario/hematologia.html',
@@ -30,13 +34,23 @@ self.addEventListener('install', function (event) {
       
         '/sumario/mastologia.html',
       
+        '/sumario/nefrologia.html',
+      
         '/sumario/neonatologia.html',
       
         '/sumario/obstetricia.html',
       
+        '/sumario/pediatria.html',
+      
+        '/sumario/pneumologia.html',
+      
         '/assets/css/styles.css',
       
         '/sw.js',
+      
+        '/sumario/traumatologia.html',
+      
+        '/sumario/urologia.html',
       
         '/assets/main.css',
       
@@ -255,7 +269,7 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/assistencia-ao-parto-e-partograma.html',
       
-        '/trauma/atendimento-inicial.html',
+        '/traumatologia/atendimento-inicial.html',
       
         '/mastologia/tumores-especiais.html',
       

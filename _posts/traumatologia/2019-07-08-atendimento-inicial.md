@@ -1,6 +1,6 @@
 ---
 title: Atendimento inicial
-categories: trauma
+categories: traumatologia
 layout: post
 ---
 
