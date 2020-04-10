@@ -59,6 +59,20 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/infectologia/neutropenia-febril.html',
+      
+        '/infectologia/sars.html',
+      
+        '/infectologia/resfriado-comum.html',
+      
+        '/infectologia/infeccoes-virais.html',
+      
+        '/hematologia/leucemia-linfoide-aguda-crianca.html',
+      
+        '/hematologia/hemograma.html',
+      
+        '/hematologia/hematopoiese.html',
+      
         '/neonatologia/rubeola-congenita.html',
       
         '/neonatologia/disturbios-do-metabolismo.html',
@@ -80,6 +94,8 @@ self.addEventListener('install', function (event) {
         '/neonatologia/aleitamento-materno.html',
       
         '/infectologia/meningite.html',
+      
+        '/infectologia/coronavirus.html',
       
         '/pediatria/ivas.html',
       
@@ -436,8 +452,6 @@ self.addEventListener('install', function (event) {
         '/obstetricia/endocrinologia-obstetrica.html',
       
         '/obstetricia/semiologia-obstetrica.html',
-      
-        '/hematologia/leucemia-linfoide-aguda-crianca.html',
       
       
         '/CNAME'
@@ -1014,7 +1028,25 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/leptospira.png'
       
+        '/assets/infectologia/neutropenia-febril/atb.jpeg'
+      
+        '/assets/infectologia/neutropenia-febril/atbs.jpeg'
+      
+        '/assets/infectologia/neutropenia-febril/cisne.jpeg'
+      
+        '/assets/infectologia/neutropenia-febril/fluxo.jpeg'
+      
+        '/assets/infectologia/neutropenia-febril/mascc-score.jpeg'
+      
+        '/assets/infectologia/neutropenia-febril/mascc.jpeg'
+      
+        '/assets/infectologia/neutropenia-febril/sitios-investigacao.jpeg'
+      
         '/assets/infectologia/ntx/tc.jpeg'
+      
+        '/assets/infectologia/virus/teste.jpeg'
+      
+        '/assets/infectologia/virus/virus.jpeg'
       
         '/assets/logo-canal-ionico.png'
       
@@ -1445,8 +1477,6 @@ self.addEventListener('install', function (event) {
         '/favicon.png'
       
         '/favicon2.png'
-      
-        '/gpl-3.0.md'
       
         '/manifest.json'
       

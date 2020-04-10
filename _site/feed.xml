@@ -1,4 +1,378 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-03-26T09:14:02-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Citomegalovirose congênita</title><link href="http://localhost:4000/neonatologia/citomegalovirose-congenita.html" rel="alternate" type="text/html" title="Citomegalovirose congênita" /><published>2020-03-16T00:00:00-03:00</published><updated>2020-03-16T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/citomegalovirose-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/citomegalovirose-congenita.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-04-10T19:51:22-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Neutropenia febril</title><link href="http://localhost:4000/infectologia/neutropenia-febril.html" rel="alternate" type="text/html" title="Neutropenia febril" /><published>2020-04-06T00:00:00-03:00</published><updated>2020-04-06T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/neutropenia-febril</id><content type="html" xml:base="http://localhost:4000/infectologia/neutropenia-febril.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#estratificação-de-risco&quot; id=&quot;markdown-toc-estratificação-de-risco&quot;&gt;Estratificação de risco&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#alto-risco&quot; id=&quot;markdown-toc-alto-risco&quot;&gt;Alto risco&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#baixo-risco&quot; id=&quot;markdown-toc-baixo-risco&quot;&gt;Baixo risco&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#baixo-risco-1&quot; id=&quot;markdown-toc-baixo-risco-1&quot;&gt;Baixo risco&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#alto-risco-1&quot; id=&quot;markdown-toc-alto-risco-1&quot;&gt;Alto risco&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#citações&quot; id=&quot;markdown-toc-citações&quot;&gt;Citações&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A neutropenia febril (NF) é uma complicação frequente e potencialmente fatal nos pacientes em tratamento quimioterápico. Entendemos hoje que a neutropenia febril é considerada uma emergência clínica e que a administração de antibióticos de amplo espectro diminui drasticamente a mortalidade.&lt;sup id=&quot;fnref:bellesso&quot;&gt;&lt;a href=&quot;#fn:bellesso&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;É definida pela ocorrência de &lt;strong&gt;febre em pacientes com contagem absoluta de neutrófilos menor que 500&lt;/strong&gt; células/mm&lt;sup&gt;3&lt;/sup&gt; ou com &amp;lt; 1.000 cel/mm&lt;sup&gt;3&lt;/sup&gt; e expectativa de decréscimo abaixo de 500 células/mm&lt;sup&gt;3&lt;/sup&gt; nas próximas 48 horas (tendência ao nadir).&lt;sup id=&quot;fnref:usp&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Essa situação aumenta drasticamente a predisposição a infecções por &lt;strong&gt;bactérias&lt;/strong&gt; e &lt;strong&gt;fungos&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Há também evidências de que pacientes com uma contagem de granulócitos entre 500 e 1000 células/mm&lt;sup&gt;3&lt;/sup&gt;, principalmente se estiverem diminuindo rapidamente, também apresentam alto risco de complicações infecciosas porque a neutropenia não é um conceito estático, mas sim dinâmico.&lt;sup id=&quot;fnref:mandell&quot;&gt;&lt;a href=&quot;#fn:mandell&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A definição de &lt;strong&gt;febre&lt;/strong&gt; é temperatura oral ≥ 38,3°C (ou temperatura axilar ≥ 37,8°C), ou persistência de temperatura &amp;gt; 38°C por mais de 1 hora.&lt;/p&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;A incidência também varia conforme o tipo de tumor. Durante um ciclo de quimioterapia associada a neutropenia, febre pode ocorrer em 10-50% dos pacientes com tumores sólidos, enquanto acomete mais de 80% daqueles com neoplasias hematológicas. Somente 20-30% dos casos apresentam sítio de infecção clinicamente documentada, dos quais se destacam trato gastrointestinal, pele, trato respiratório, urinário e corrente sanguínea. Este último apresenta eleva importância, sobretudo em neutropenia profunda, por representar 20% das infecções associadas a tumores sólidos e 35% em neoplasias hematológicas.&lt;sup id=&quot;fnref:usp:1&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Pacientes com leucemia mielóide aguda, adultos e crianças, apresentam a maior frequência de febre, bacteremia e doenças fúngicas invasivas, especialmente durante a primeira indução da remissão e na leucemia recidivante, quando a intensidade da quimioterapia é maior.&lt;sup id=&quot;fnref:mandell:1&quot;&gt;&lt;a href=&quot;#fn:mandell&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;etiologia&quot;&gt;Etiologia&lt;/h2&gt;
+
+&lt;p&gt;Em termos do agente etiológico, 85-90% são bacterianos, dos quais 80%, estima-se, são oriundos da flora endógena. Historicamente, a maioria dos casos era causada por bacilos Gram-negativos, porém a incidência de cocos Gram-positívos cresceu, possivelmente associado, acredita-se, ao uso profilático de quinolonas e de dispositivos invasivos de longa permanência (cateteres).&lt;sup id=&quot;fnref:usp:2&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Dentre os fungos, &lt;em&gt;Aspergillus spp.&lt;/em&gt; e &lt;em&gt;Candida spp&lt;/em&gt; são os mais frequentes. Outros são &lt;em&gt;P. jirovecii&lt;/em&gt;, criptococos, etc.&lt;sup id=&quot;fnref:mandell:2&quot;&gt;&lt;a href=&quot;#fn:mandell&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Os vírus respiratórios adquiridos na comunidade, como vírus sincicial respiratório (RSV), vírus influenza e parainfluenza, adenovírus, rinovírus e coronavírus, são uma causa frequente de doença respiratória em pacientes com câncer e provavelmente são subestimados como causa de febre. Também pode ocorrer reativação da infecção pelo herpes simples vírus.&lt;sup id=&quot;fnref:mandell:3&quot;&gt;&lt;a href=&quot;#fn:mandell&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;A patogênese da neutropenia febril é complexa. A microbiota do hospedeiro possui papel ainda pouco compreendido. Acredita-se que a flora comensal possa atuar de maneira oportunista no contexto de imunossupressão. O uso de antimicrobianos profiláticos ou terapêuticos pode facilitar o supercrescimento de bactérias patogênicas devido à pressão seletiva.&lt;sup id=&quot;fnref:usp:3&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;A quimioterapia citotóxica deprime a imunidade e predispõe à infecção de diversas maneiras:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A neutropenia compromete sensivelmente a resposta imune inata, uma vez que prejudica a fagocitose e a produção de mediadores inflamatórios;&lt;/li&gt;
+  &lt;li&gt;Lesão à barreira mucosa gastrointestinal:
+    &lt;ul&gt;
+      &lt;li&gt;Dano a células epiteliais altera a produção de peptídeos antimicrobianos que regulam a flora local;&lt;/li&gt;
+      &lt;li&gt;Comprometimento do tecido linfoide associado à mucosa (placas de Peyer, células dendríticas, linfócitos);&lt;/li&gt;
+      &lt;li&gt;Alterações na composição da flora, o que contribui para processos inflamatórios e consequente vantagem evolutiva a determinados patógenos (&lt;em&gt;Enterobacteriaceae&lt;/em&gt;);&lt;/li&gt;
+      &lt;li&gt;Comprometimento da integridade da barreira mucosa por apoptose.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Quebra de barreira cutânea secundária à frequente necessidade de cateteres de longa permanência.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;p&gt;Durante a &lt;strong&gt;anamnese&lt;/strong&gt; deve-se questionar o tipo de neoplasia e o tipo de quimioterapia em andamento, o tempo desde a última sessão, associação com outras drogas imunossupressoras, histórico de contagem de neutrófilos. Pesquisar história de infecções passadas que possam reativar (como tuberculose ou herpes), uso recente de antimicrobianos, exposição a contactantes e animais doentes, além de viagens recentes.&lt;sup id=&quot;fnref:usp:4&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Pacientes entre o &lt;strong&gt;10º e o 20º dias pós-quimioterapia&lt;/strong&gt; estão sob maior risco de neutropenia febril. Caso haja previsão maior que 30 minutos para resultado do hemograma, a condução deve ser como neutropenia febril até que o diagnóstico seja excluído.&lt;sup id=&quot;fnref:usp:5&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;A febre durante a neutropenia sempre foi considerada uma emergência médica e deve sempre ser considerada como causada por infecção, a menos que se prove o contrário.&lt;/p&gt;
+
+&lt;p&gt;No &lt;strong&gt;exame físico&lt;/strong&gt;, deve-se prestar um exame cuidadoso
+da &lt;strong&gt;pele&lt;/strong&gt;, de sítios prévios de &lt;strong&gt;inserção de cateter&lt;/strong&gt;, da &lt;strong&gt;orofaringe&lt;/strong&gt;, dos &lt;strong&gt;pulmões&lt;/strong&gt; e da &lt;strong&gt;região perineal&lt;/strong&gt; (buscando por abcesso perirretal, evitando o toque retal para não translocar bactérias) pode fornecer informações reveladoras. O &lt;strong&gt;abdome&lt;/strong&gt; pode se apresentar com distensão,dor no QID sugestiva de &lt;strong&gt;enterocolite neutropênica&lt;/strong&gt;, defesa e descompressão brusca positiva.&lt;sup id=&quot;fnref:usp:6&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;A presença de &lt;strong&gt;mucosite&lt;/strong&gt;, injúria na barreira mucosa, é um importante fator predisponente de infecção sanguínea por bactérias e candida.&lt;sup id=&quot;fnref:mandell:4&quot;&gt;&lt;a href=&quot;#fn:mandell&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;A resposta inflamatória é pouco exuberante, portanto, não são incomuns pacientes &lt;strong&gt;sépticos sem alterações clínicas sugestivas de resposta inflamatória sistêmica&lt;/strong&gt; (taquicardia, taquipneia). Assim, piora do
+estado geral, alteração do nível e conteúdo da consciência e outros sinais inespecíficos podem ser as
+únicas manifestações observadas.&lt;sup id=&quot;fnref:usp:7&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; Dessa forma, também é muito importante se atentar para os sinais de infecção mesmo na ausência de febre.&lt;/p&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;p&gt;Nesta base, as complicações febris em pacientes com câncer neutropênico são classificadas como:&lt;sup id=&quot;fnref:mandell:5&quot;&gt;&lt;a href=&quot;#fn:mandell&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Infecções &lt;strong&gt;microbiologicamente&lt;/strong&gt; documentadas com bacteremia (isolamento de um patógeno significativo de uma ou mais hemoculturas);&lt;/li&gt;
+  &lt;li&gt;Infecções &lt;strong&gt;microbiologicamente&lt;/strong&gt; documentadas sem bacteremia (isolamento de um patógeno significativo de um local bem definido de infecção (urina, secreções respiratórias obtidas com procedimentos estéreis ou coleta de líquidos);&lt;/li&gt;
+  &lt;li&gt;Infecções &lt;strong&gt;clinicamente&lt;/strong&gt; documentadas, ou seja, na presença de um quadro clínico de natureza clara e objetiva infecciosa, mas sem prova microbiológica (como sepse, meningite, pneumonia ou enterocolite neutropênica)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Febre inexplicável&lt;/strong&gt; ou febre de origem desconhecida, quando falta a prova clínica e microbiológica e o curso clínico é meramente compatível com uma infecção.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;p&gt;São considerados exames iniciais:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Hemograma;&lt;/li&gt;
+  &lt;li&gt;Eletrólitos, enzimas hepáticas, bilirrubina total e frações;&lt;/li&gt;
+  &lt;li&gt;Hemoculturas (periférica e de cateter venoso central caso presente, colhidas antes da administração de antibióticos);&lt;/li&gt;
+  &lt;li&gt;Função renal;&lt;/li&gt;
+  &lt;li&gt;Urocultura ou cultura de outros sítios suspeitos de infecção;&lt;/li&gt;
+  &lt;li&gt;Radiografia de tórax (é fato que infecções pulmonares podem estar presentes mesmo na ausência de infiltrados identificáveis à radiografia);&lt;/li&gt;
+  &lt;li&gt;Testes adicionais conforme suspeita clínica:
+    &lt;ul&gt;
+      &lt;li&gt;TC de tórax se raio X não conclusivo;&lt;/li&gt;
+      &lt;li&gt;&lt;em&gt;Swab&lt;/em&gt; nasal para pesquisa de viroses respi  ratórias comuns (influenza A e B, parainfluenza, adenovírus, vírus sincicial respiratório, metapneumovírus);&lt;/li&gt;
+      &lt;li&gt;Testes para &lt;em&gt;Clostridium difficile&lt;/em&gt; se diarreia.
+Outros patógenos entéricos se história com  patível com exposição podem ser pesquisados, como rotavírus, &lt;em&gt;Cryptosporidium&lt;/em&gt; e &lt;em&gt;Microsporidium&lt;/em&gt;;&lt;/li&gt;
+      &lt;li&gt;Culturas virais para Herpes simplex e Varicella zoster se lesões ulcerativas ou vesículas;&lt;/li&gt;
+      &lt;li&gt;Biópsia e aspiração de lesões cutâneas, com testes microbiológicos e histopatológicos;&lt;/li&gt;
+      &lt;li&gt;Análise do liquor se suspeita de infecção do SNC (como suspeita de meningite).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Marcadores séricos inflamatórios, como proteína C-reativa e procalcitonina não são obrigatórios;&lt;/li&gt;
+  &lt;li&gt;Pesquisa individualizada de marcadores de infecção fúngica, como galactomanana e 1,3-beta-D-glucana.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/sitios-investigacao.jpeg&quot; alt=&quot;Sítios de investigação&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Galactomanana sérica:&lt;/strong&gt; é um carboidrato componente da parede celular de &lt;em&gt;Aspergillus&lt;/em&gt; liberado pelo crescimento das hifas. É um biomarcador de aspergilose invasiva detectável no sangue e no lavado broncoalveolar, muitas vezes antes da ocorrência dos sinais clínicos da doença.&lt;sup id=&quot;fnref:usp:8&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;1,3-beta-D-glucana&lt;/strong&gt; (1,3-BDG): é um carboidrato componente de paredes celulares de diversos fungos, liberado na circulação e em tecidos na vigência de infecção. Logo, se trata de um biomarcador inespecífico de infecção fúngica (&lt;em&gt;Candida&lt;/em&gt;, &lt;em&gt;Aspergillus&lt;/em&gt;, &lt;em&gt;Fusarium&lt;/em&gt;, &lt;em&gt;Scedosporium&lt;/em&gt;, &lt;em&gt;Trichosporon&lt;/em&gt; e &lt;em&gt;Pneumocystis jiroveci&lt;/em&gt;).&lt;sup id=&quot;fnref:usp:9&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;estratificação-de-risco&quot;&gt;Estratificação de risco&lt;/h2&gt;
+
+&lt;h3 id=&quot;alto-risco&quot;&gt;Alto risco&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Critérios clínicos:&lt;sup id=&quot;fnref:usp:10&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Neutropenia prolongada predita (&amp;gt; 7 dias de duração) e profunda (neutrófilos ≤ 100 células/mm&lt;sup&gt;3&lt;/sup&gt;) após quimioterapia citotóxica;&lt;/li&gt;
+      &lt;li&gt;Condições clínicas exuberantes, como hipotensão, pneumonia, dor abdominal nova ou alterações neurológicas;&lt;/li&gt;
+      &lt;li&gt;Alterações hepáticas ou disfunção renal.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Escore &lt;strong&gt;MASCC&lt;/strong&gt; (&lt;em&gt;Multinational Association for Supportive Care in Cancer&lt;/em&gt;) &amp;lt; 21 pontos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;baixo-risco&quot;&gt;Baixo risco&lt;/h3&gt;
+
+&lt;p&gt;Pacientes de baixo risco, por exclusão, são os seguintes (todas as condições abaixo):&lt;sup id=&quot;fnref:usp:11&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Critérios clínicos:
+    &lt;ul&gt;
+      &lt;li&gt;Neutropenia breve predita(≤ 7 dias);&lt;/li&gt;
+      &lt;li&gt;Sem alterações clínicas importantes;&lt;/li&gt;
+      &lt;li&gt;Função hepática e renal adequadas e estáveis.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Escore &lt;strong&gt;MASCC&lt;/strong&gt; ≥ 21 pontos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Uma pontuação ≥ 21 correlacionou-se com baixo risco, com sensibilidade de 71%, especificidade de 68%, valor preditivo positivo de 91% e valor preditivo negativo de 36%.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/mascc.jpeg&quot; alt=&quot;MSCC&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/cisne.jpeg&quot; alt=&quot;CISNE&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/atb.jpeg&quot; alt=&quot;Profilaxia&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;p&gt;Sem dúvida, o que mais preocupa é o efeito de uma infecção sem cobertura antimicrobiana em indivíduos sem defesa imunológica adequada. Precisamos ser rápidos e solicitar exames de forma coerente.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/fluxo.jpeg&quot; alt=&quot;Fluxograma&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A pontuação da Associação Multinacional de Cuidados de Suporte em Câncer (MASCC) mostrou-se adequada para identificar pacientes com baixa probabilidade de neutropenia febril complicada. Uma pontuação no índice de risco superior a 21 identificou pacientes de baixo risco, com valores preditivos positivos e negativos de 91% e 36%, respectivamente.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/mascc-score.jpeg&quot; alt=&quot;Score de risco&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;baixo-risco-1&quot;&gt;Baixo risco&lt;/h3&gt;
+
+&lt;p&gt;As opções de antibióticos para terapia oral na ausência de fatores de risco para patógenos resistentes incluem combinação de ciprofloxacina e amoxicilina-clavulanato, monoterapia com moxifloxacina ou antibióticos intravenosos como ceftriaxona e amicacina uma vez ao dia.&lt;/p&gt;
+
+&lt;h3 id=&quot;alto-risco-1&quot;&gt;Alto risco&lt;/h3&gt;
+
+&lt;p&gt;Os principais momentos para o gerenciamento do paciente neutropênico de alto risco com febre e infecção são o dia 0, quando o paciente é avaliado, as culturas são desenhadas e a antibioticoterapia é iniciada, e os dias 3 ou 4, quando os resultados retornam do laboratório e o paciente é reavaliado.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/atbs.jpeg&quot; alt=&quot;Antibioticoterapia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alguns critérios indicam a necessidade de incluir
+a vancomicina no esquema empírico inicial: instabilidade hemodinâmica, suspeita de infecção associada a cateter, pele e partes moles , colonização por germe sens ível somente a vancomicina, entre outros.&lt;sup id=&quot;fnref:usp:12&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Considera-se a associação de terapia antifúngica
+se persistência de febre após 4-7 dias em pacientes com expectativa de neutropenía &amp;gt; 7 dias, cuja reavaliação não tenha identificado a causa.&lt;sup id=&quot;fnref:usp:13&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;J. Larry Jameson, Anthony S. Fauci, Dennis L. Kasper, Stephen L. Hauser, Dan L. Longo, Joseph Loscalzo. &lt;strong&gt;Harrison’s Principles of Internal Medicine&lt;/strong&gt;. 20th edition, 2018.&lt;/li&gt;
+  &lt;li&gt;Bellesso Marcelo, Costa Silvia Figueiredo, Chamone Dalton Alencar Fischer, Llacer Pedro Enrique Dorlhiac. &lt;strong&gt;Triagem para o tratamento ambulatorial da neutropenia febril&lt;/strong&gt;. Rev. Bras. Hematol. Hemoter. [Internet]. 2010 [cited 2020 Apr 08];32(5):402-408. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S1516-84842010000500014&amp;amp;lng=en. https://doi.org/10.1590/S1516-84842010000500014.&lt;/li&gt;
+  &lt;li&gt;Freifeld AG, Bow EJ, Sepkowitz KA, et al. &lt;strong&gt;Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the infectious diseases society of america&lt;/strong&gt;. Clin Infect Dis. 2011;52(4):e56–e93. doi:10.1093/cid/cir073&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mandell, Douglas, and Bennett’s principles and practice of infectious diseases&lt;/strong&gt;. Edited by John E. Bennett, Raphael Dolin, Martin J. Blaser. 8º edition, 2015.&lt;/li&gt;
+  &lt;li&gt;Bodey GP, Buckley M, Sathe YS, Freireich EJ. Quantitative relationships between circulating leukocytes and infection in patients with acute leukemia. Ann Intern Med. 1966;64(2):328–340. doi:10.7326/0003-4819-64-2-328&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Medicina de emergência: abordagem prática&lt;/strong&gt;. professor titular e coordenador Iríneu Tadeu Velasco; editor chefe Rodrigo Antonio Brandão Neto; editores Heraldo Possolo de Souza, et al. 13ª edição. Barueri [SP]: Manole, 2019.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:bellesso&quot;&gt;
+      &lt;p&gt;Bellesso Marcelo, Costa Silvia Figueiredo, Chamone Dalton Alencar Fischer, Llacer Pedro Enrique Dorlhiac. &lt;strong&gt;Triagem para o tratamento ambulatorial da neutropenia febril&lt;/strong&gt;. Rev. Bras. Hematol. Hemoter. [Internet]. 2010 [cited 2020 Apr 08];32(5):402-408. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S1516-84842010000500014&amp;amp;lng=en. https://doi.org/10.1590/S1516-84842010000500014. &lt;a href=&quot;#fnref:bellesso&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:usp&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Medicina de emergência: abordagem prática&lt;/strong&gt;. professor titular e coordenador Iríneu Tadeu Velasco; editor chefe Rodrigo Antonio Brandão Neto; editores Heraldo Possolo de Souza, et al. 13ª edição. Barueri [SP]: Manole, 2019. &lt;a href=&quot;#fnref:usp&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;9&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;10&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;11&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;12&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;13&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:13&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;14&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:mandell&quot;&gt;
+      &lt;p&gt;&lt;strong&gt;Mandell, Douglas, and Bennett’s principles and practice of infectious diseases&lt;/strong&gt;. Edited by John E. Bennett, Raphael Dolin, Martin J. Blaser. 8º edition, 2015. &lt;a href=&quot;#fnref:mandell&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Infecções virais</title><link href="http://localhost:4000/infectologia/infeccoes-virais.html" rel="alternate" type="text/html" title="Infecções virais" /><published>2020-03-27T00:00:00-03:00</published><updated>2020-03-27T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/infeccoes-virais</id><content type="html" xml:base="http://localhost:4000/infectologia/infeccoes-virais.html">&lt;p&gt;&lt;img src=&quot;/assets/infectologia/virus/virus.jpeg&quot; alt=&quot;Vírus&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Resfriado comum</title><link href="http://localhost:4000/infectologia/resfriado-comum.html" rel="alternate" type="text/html" title="Resfriado comum" /><published>2020-03-27T00:00:00-03:00</published><updated>2020-03-27T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/resfriado-comum</id><content type="html" xml:base="http://localhost:4000/infectologia/resfriado-comum.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Harrison 20ª ed.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">SARS</title><link href="http://localhost:4000/infectologia/sars.html" rel="alternate" type="text/html" title="SARS" /><published>2020-03-27T00:00:00-03:00</published><updated>2020-03-27T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/sars</id><content type="html" xml:base="http://localhost:4000/infectologia/sars.html"></content><author><name>@moscafilipe</name></author></entry><entry><title type="html">Hematopoiese</title><link href="http://localhost:4000/hematologia/hematopoiese.html" rel="alternate" type="text/html" title="Hematopoiese" /><published>2020-03-20T00:00:00-03:00</published><updated>2020-03-20T00:00:00-03:00</updated><id>http://localhost:4000/hematologia/hematopoiese</id><content type="html" xml:base="http://localhost:4000/hematologia/hematopoiese.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#eritrócitos&quot; id=&quot;markdown-toc-eritrócitos&quot;&gt;Eritrócitos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O sangue periférico é constituído por 3 diferentes linhagens celulares:  eritrócitos, leucócitos e plaquetas.&lt;/p&gt;
+
+&lt;h2 id=&quot;eritrócitos&quot;&gt;Eritrócitos&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Eritrócitos:&lt;/strong&gt; embora em humanos as hemácias sejam células anucleadas, constituídas apenas por membrana plasmática e citoplasma, elas são bastante complexas. Originam-se na
+medula óssea pela proliferação e maturação dos &lt;strong&gt;eritroblastos&lt;/strong&gt;, fenômeno chamado &lt;em&gt;eritropoese&lt;/em&gt;, e perdem o núcleo antes de entrar em circulação. O processo de &lt;em&gt;turn-over&lt;/em&gt; das hemácias é finamente regulado, sendo a &lt;strong&gt;eritropoetina&lt;/strong&gt; o principal e mais bem conhecido fator de crescimento envolvido. A hemácia originada deste fenômeno ainda contém grande quantidade de RNA em seu citoplasma, preservando a capacidade de síntese proteica e é chamada de &lt;strong&gt;reticulócito&lt;/strong&gt;, que sai da medula óssea e é liberado para a corrente sanguínea. Geralmente, é uma célula maior que a hemácia madura e o seu volume é de cerca de 20% maior que o da hemácia.&lt;/p&gt;
+
+&lt;p&gt;Apresenta também uma basofilia difusa no citoplasma, que o distingue em colorações de &lt;em&gt;Romanowsky&lt;/em&gt; ou um precipitado quando corado com corantes supravitais. No sangue periférico, o reticulócito pode ainda ser sequestrado pelo baço e lá permanecer por um ou dois dias, até ser definitivamente devolvido à circulação.&lt;/p&gt;
+
+&lt;p&gt;Uma vez que o reticulócito amadurece completamente e perde o seu conteúdo de RNA, transforma-se em uma &lt;strong&gt;hemácia madura incapaz de sintetizar hemoglobina&lt;/strong&gt;, cuja vida em circulação é de aproximadamente 120 dias.&lt;/p&gt;
+
+&lt;p&gt;As funções primordiais dos glóbulos vermelhos são as de transportar oxigênio dos pulmões aos tecidos, mantendo a perfusão tissular adequada, e transportar CO2 dos tecidos aos pulmões. A hemoglobina, que constitui 95% das proteínas das hemácias, é a responsável por essas funções.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Leucócitos: são células completas (com citoplasma e núcleo);&lt;/li&gt;
+  &lt;li&gt;Plaquetas: são fragmentos citoplasmáticos de células da medula óssea, os megacariócitos.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Hemograma</title><link href="http://localhost:4000/hematologia/hemograma.html" rel="alternate" type="text/html" title="Hemograma" /><published>2020-03-20T00:00:00-03:00</published><updated>2020-03-20T00:00:00-03:00</updated><id>http://localhost:4000/hematologia/hemograma</id><content type="html" xml:base="http://localhost:4000/hematologia/hemograma.html">&lt;p&gt;O exame hematológico e a avaliação do esfregaço do sangue periférico (humana ou
+automatizada) permitem as análises quantitativa e qualitativa dessas linhagens, respectivamente.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Leucemia linfoide aguda na criança</title><link href="http://localhost:4000/hematologia/leucemia-linfoide-aguda-crianca.html" rel="alternate" type="text/html" title="Leucemia linfoide aguda na criança" /><published>2020-03-20T00:00:00-03:00</published><updated>2020-03-20T00:00:00-03:00</updated><id>http://localhost:4000/hematologia/leucemia-linfoide-aguda-crianca</id><content type="html" xml:base="http://localhost:4000/hematologia/leucemia-linfoide-aguda-crianca.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#hemograma&quot; id=&quot;markdown-toc-hemograma&quot;&gt;Hemograma&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#radiografia-de-toráx&quot; id=&quot;markdown-toc-radiografia-de-toráx&quot;&gt;Radiografia de toráx&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#lcr&quot; id=&quot;markdown-toc-lcr&quot;&gt;LCR&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#mielograma&quot; id=&quot;markdown-toc-mielograma&quot;&gt;Mielograma&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diagnóstico-diferencial&quot; id=&quot;markdown-toc-diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
+
+&lt;p&gt;Incidência de aproximadamente 3 casos para cada 100 mil indivíduos de até 15 anos. Representa por 80% de todos os casos de Leucemia. Mas responde por apenas 1% de todas as doenças malignas do adulto e 20% de todas as leucemias.&lt;sup id=&quot;fnref:zago&quot;&gt;&lt;a href=&quot;#fn:zago&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Infecções virais podem predispor uma neoplasia linfoide, com vírus como o EBV.&lt;/p&gt;
+
+&lt;p&gt;Fatores de risco:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Predisposição genética (como mutações no gene TP53, a síndrome de Li-Fraumeni);&lt;/li&gt;
+  &lt;li&gt;Infecções virais;&lt;/li&gt;
+  &lt;li&gt;Neutropenias congênitas;&lt;/li&gt;
+  &lt;li&gt;Síndrome de Down;&lt;/li&gt;
+  &lt;li&gt;Síndrome de Klinefelter;&lt;/li&gt;
+  &lt;li&gt;Exposição a radiação ionizante, benzeno, etc;&lt;/li&gt;
+  &lt;li&gt;Consumo de álcool na gestação.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Se um gêmeo univitelino desenvolve leucemia, o outro tem 25% de risco.&lt;/p&gt;
+
+&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
+
+&lt;p&gt;A leucemia é causada por uma anormalidade em células progenitoras do sistema linfo-hematopoiético.&lt;/p&gt;
+
+&lt;p&gt;As células que se proliferam indiscriminadamente começam a superar as demais, resultando em &lt;strong&gt;anemia&lt;/strong&gt;, &lt;strong&gt;trombocitopenia&lt;/strong&gt;, e &lt;strong&gt;leucopenia&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;O acúmulo das células leucêmicas vai acarretar aumento do fígado, baço e linfonodos.&lt;/p&gt;
+
+&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Palidez&lt;/strong&gt;, cansaço e sonolência (em decorrência da anemia);&lt;/li&gt;
+  &lt;li&gt;Hematomas, petéquias e &lt;strong&gt;sangramentos&lt;/strong&gt; prolongados (plaquetopenia);&lt;/li&gt;
+  &lt;li&gt;Infecções constantes (leucopenia);&lt;/li&gt;
+  &lt;li&gt;Febre (produção de citocinas leucêmicas);&lt;/li&gt;
+  &lt;li&gt;Linfonodos e baço aumentados (os linfoblastos se acumulam no sistema linfático);&lt;/li&gt;
+  &lt;li&gt;Cefaléia e vômito (infiltração das células doentes no LCR);&lt;/li&gt;
+  &lt;li&gt;Dores ósseas e nas juntas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Febre&lt;/strong&gt;, &lt;strong&gt;dor óssea&lt;/strong&gt; e &lt;strong&gt;palidez&lt;/strong&gt; são os sintomas mais comuns na criança com leucemia aguda.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;5% dos pacientes vão ter acometimendo do SNC. Mas raramente com sintomas como HIC ou paralisia de pares cranianos. Me­nos de 1% dos meninos podem apresentar envolvimento testicular, caracterizado pelo aumento indolor de um ou dos dois testículos. Raramente a síndrome da cava superior e a dificuldade respiratória, re­
+sultantes de infiltração leucêmica do mediastino, podem dominar o quadro clínico inicial.&lt;/p&gt;
+
+&lt;p&gt;De modo geral, não é possível distinguir clinicamente a LMA da LLA.&lt;/p&gt;
+
+&lt;p&gt;Outras formas menos comuns de apresentação
+inicial da LLA em crianças incluem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Infiltração cutânea;&lt;/li&gt;
+  &lt;li&gt;Linfonodomegalia unilateral isolada;&lt;/li&gt;
+  &lt;li&gt;Paralisia de nervo craniano;&lt;/li&gt;
+  &lt;li&gt;Priapismo devido a leucoestase;&lt;/li&gt;
+  &lt;li&gt;Paraplegia devido à compressão medular;&lt;/li&gt;
+  &lt;li&gt;Dor abdominal devido à infiltração do apêndice ou linfonodos mesentéricos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
+
+&lt;h3 id=&quot;hemograma&quot;&gt;Hemograma&lt;/h3&gt;
+
+&lt;p&gt;Demonstra quase sempre uma &lt;strong&gt;anemia&lt;/strong&gt;, &lt;strong&gt;trombocitopenia&lt;/strong&gt; e presença de &lt;strong&gt;blastos&lt;/strong&gt; na contagem diferencial dos leucócitos.&lt;/p&gt;
+
+&lt;p&gt;É comum elevação da &lt;strong&gt;DHL&lt;/strong&gt; e do &lt;strong&gt;ácido úrico&lt;/strong&gt;, indicativos de rápida destruição e regeneração celular.&lt;/p&gt;
+
+&lt;h3 id=&quot;radiografia-de-toráx&quot;&gt;Radiografia de toráx&lt;/h3&gt;
+
+&lt;p&gt;Geralmente é normal, mas pode demonstrar a presença de &lt;strong&gt;alargamento do mediastino&lt;/strong&gt;, que ocorre em aproximadamente 50% dos casos de LLA do tipo T.&lt;/p&gt;
+
+&lt;h3 id=&quot;lcr&quot;&gt;LCR&lt;/h3&gt;
+
+&lt;p&gt;Nos casos de comprometimento do SNC, o exame do LCR irá mostrar &lt;strong&gt;pleocítose&lt;/strong&gt; e &lt;strong&gt;células leucêmicas&lt;/strong&gt; no exame do sedimentado cítológico.&lt;/p&gt;
+
+&lt;h3 id=&quot;mielograma&quot;&gt;Mielograma&lt;/h3&gt;
+
+&lt;p&gt;Dá o diagnóstico definitivo, evidenciando a infiltração das células leucêmicas.&lt;/p&gt;
+
+&lt;h2 id=&quot;diagnóstico-diferencial&quot;&gt;Diagnóstico diferencial&lt;/h2&gt;
+
+&lt;p&gt;A doença que é mais comumente confundida
+com a leucemia é a &lt;strong&gt;artrite reumatoide juvenil&lt;/strong&gt;. Leucemia com manifestações “reumatológicas” pode ocorrer entre 1
+a 2% dos casos de LLA. Tipicamente,  febre, dor óssea e articular são as manifestações clínicas mais proeminentes.  O pediatra deve estar alerta para essa apresentação da leucemia e evitar o uso de corticosteroides, muitas vezes prescritos para esses pacientes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Púrpura trombocitopênica idiopática&lt;/strong&gt; (PTI) é também comumente a primeira consideração diagnostica de crianças com leucémia. Nos ca­sos de PTI o hemograma é absolutamente normal, exceto pelas alterações plaquetárias, enquanto na leucemia o exa­me cuidadoso do hemograma revela outras alterações além da plaquetopenia, como neutropenia, por exemplo.&lt;/p&gt;
+
+&lt;p&gt;Menos frequentemente, os sinais de leucemia aguda são interpre­tados como parte de &lt;strong&gt;mononucleose infecciosa&lt;/strong&gt;. Pacientes com leucemia que se apresentam com linfonodomegalia cervical, febre, hepatoesplenomegalia e linfocitose são os
+que têm maior probabilidade de receber um diagnóstico incorreto de infecção virai. Mononucleose infecciosa ou citomegalovirose raramente comprometem outras linha­ gens hematopoéticas, de forma que a presença de anemia e trombocitopenia deve alertar para o diagnóstico de leu­cemia.&lt;/p&gt;
+
+&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
+
+&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
+
+&lt;p&gt;A LLA já foi a principal causa de morte infantil por câncer. Hoje, 90% das crianças tratadas apresentam sobrevida de pelo menos 10 anos.&lt;/p&gt;
+
+&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:zago&quot;&gt;
+      &lt;p&gt;Zago 2013 &lt;a href=&quot;#fnref:zago&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Citomegalovirose congênita</title><link href="http://localhost:4000/neonatologia/citomegalovirose-congenita.html" rel="alternate" type="text/html" title="Citomegalovirose congênita" /><published>2020-03-16T00:00:00-03:00</published><updated>2020-03-16T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/citomegalovirose-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/citomegalovirose-congenita.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
@@ -231,1536 +605,4 @@ costuma ser duradoura. As mulheres em idade fértil com a pesquisa de anticorpos
 &lt;ol&gt;
   &lt;li&gt;IMIP 4ª edição;&lt;/li&gt;
   &lt;li&gt;Medcurso.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Sífilis congênita</title><link href="http://localhost:4000/neonatologia/sifilis-congenita.html" rel="alternate" type="text/html" title="Sífilis congênita" /><published>2020-03-15T00:00:00-03:00</published><updated>2020-03-15T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/sifilis-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/sifilis-congenita.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#precoce&quot; id=&quot;markdown-toc-precoce&quot;&gt;Precoce&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#tardia&quot; id=&quot;markdown-toc-tardia&quot;&gt;Tardia&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quadro-clínico-na-gestante&quot; id=&quot;markdown-toc-quadro-clínico-na-gestante&quot;&gt;Quadro clínico na gestante&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#pesquisa-direta-do-treponema&quot; id=&quot;markdown-toc-pesquisa-direta-do-treponema&quot;&gt;Pesquisa direta do Treponema&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#reações-sorológicas&quot; id=&quot;markdown-toc-reações-sorológicas&quot;&gt;Reações sorológicas&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#testes-treponêmicos&quot; id=&quot;markdown-toc-testes-treponêmicos&quot;&gt;Testes treponêmicos&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#testes-não-treponêmicos&quot; id=&quot;markdown-toc-testes-não-treponêmicos&quot;&gt;Testes não treponêmicos&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#outros&quot; id=&quot;markdown-toc-outros&quot;&gt;Outros&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#diagnóstico-na-gestação&quot; id=&quot;markdown-toc-diagnóstico-na-gestação&quot;&gt;Diagnóstico na gestação&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#tratamento-na-gestante&quot; id=&quot;markdown-toc-tratamento-na-gestante&quot;&gt;Tratamento na gestante&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#monitorização-da-resposta-ao-tratamento&quot; id=&quot;markdown-toc-monitorização-da-resposta-ao-tratamento&quot;&gt;Monitorização da resposta ao tratamento&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#na-gestante&quot; id=&quot;markdown-toc-na-gestante&quot;&gt;Na gestante&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#no-neonato&quot; id=&quot;markdown-toc-no-neonato&quot;&gt;No neonato&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A sífilis é uma IST de caráter sistêmico, curável e exclusiva do ser humano. É causada pelo &lt;em&gt;Treponema pallidum&lt;/em&gt; e transmitida predominantemente por via sexual e vertical. O risco dessa IST está diretamente relacionado à presença de lesões sifilíticas mucocutâneas, mais comuns no primeiro ano de infecção (fases primária e secundária).&lt;/p&gt;
-
-&lt;p&gt;A transmissão vertical da sífilis ocorre predominantemente &lt;strong&gt;intraútero&lt;/strong&gt;, mas também pode ocorrer durante a passagem do feto pela vagina, se houver a lesão ativa. O estágio em que a sífilis se encontra vai influenciar na probabilidade de infecção (70-100% nas fases primária e secundária, sem tratamento, devido à maior parasitemia).&lt;/p&gt;
-
-&lt;p&gt;Cerca de 1,6% das gestantes brasileiras têm
-VDRL positivo. A grávida infectada transmite
-o micro-organismo para o feto quanto mais precocemente tiver adquirido a doença.&lt;/p&gt;
-
-&lt;p&gt;A transmissão fetal pode ocorrer ao longo de toda a gravidez, mas as chances são menores até o 4º mês e aumentam em direção ao termo, já que o fluxo placentário aumenta progressivamente até o 3º trimestre.&lt;/p&gt;
-
-&lt;p&gt;No feto, ele acomete inicialmente o &lt;strong&gt;fígado&lt;/strong&gt;, para depois se disseminar para &lt;strong&gt;pele&lt;/strong&gt; e &lt;strong&gt;mucosas&lt;/strong&gt;, &lt;strong&gt;esqueleto&lt;/strong&gt;, &lt;strong&gt;pulmões&lt;/strong&gt; e &lt;strong&gt;sistema nervoso central&lt;/strong&gt;. A pneumonia alba, uma lesão pulmonar que surge ainda no período fetal, é incompatível com
-a vida. Cerca de 40% dos casos de sífilis não tratada na gestação terminam em óbito fetal (abortamento espontâneo, natimorto) ou morte
-neonatal precoce.&lt;/p&gt;
-
-&lt;p&gt;Durante o aleitamento, ocorrerá transmissão apenas se houver lesão mamária por sífilis.&lt;/p&gt;
-
-&lt;p&gt;É passível de prevenção quando a gestante infectada por sífilis é tratada adequadamente. A sífilis na gestação pode implicar consequências como aborto, natimorto, parto prematuro, morte neonatal e manifestações congênitas precoces ou tardias.&lt;/p&gt;
-
-&lt;p&gt;No Brasil a sífilis congênita é uma doença de notificação compulsória desde a divulgação da Portaria nº 542/1986 sendo considerada evento sentinela da qualidade da assistência pré-natal.&lt;/p&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;A sífilis congênita é dividida em:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Precoce:&lt;/strong&gt; após o nascimento até os 2 primeiros anos de vida;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tardia:&lt;/strong&gt; quando os sinais e sintomas ocorrem a partir dos 2 anos de vida em diante.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;precoce&quot;&gt;Precoce&lt;/h3&gt;
-
-&lt;p&gt;A maioria das crianças com sífilis congênita precoce (definida como sífilis diagnosticada até o segundo ano de vida) é assintomática ao nascer. A &lt;strong&gt;hepatomegalia&lt;/strong&gt; e &lt;strong&gt;esplenomegalia&lt;/strong&gt; estão presentes na maioria dos casos, podendo ser acompanhadas por &lt;strong&gt;anemia&lt;/strong&gt;, &lt;strong&gt;púrpura&lt;/strong&gt; e &lt;strong&gt;icterícia&lt;/strong&gt; com grande aumento de transaminases.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/cong.jpg&quot; alt=&quot;Principais manifestações da sífilis congênita&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Até o segundo ano de vida. Além da prematuridade e do baixo peso ao nascimento, as principais manifestações clínicas são (lembrar que pode ser assintomática):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hepatoesplenomegalia&lt;/strong&gt;;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lesões cutâneas&lt;/strong&gt; (rash/roséola sifilítica, condiloma plano, pênfigo palmo-plantar);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Obstrução nasal&lt;/strong&gt;, &lt;strong&gt;pneumonia alba&lt;/strong&gt; e rinite sero-sanguinolenta;&lt;/li&gt;
-  &lt;li&gt;Sofrimento respiratório com ou sem pneumonia;&lt;/li&gt;
-  &lt;li&gt;Icterícia;&lt;/li&gt;
-  &lt;li&gt;Pseudoparalisias;&lt;/li&gt;
-  &lt;li&gt;Periostite ou osteocondrite;&lt;/li&gt;
-  &lt;li&gt;Edema (secundário a síndrome nefrótica e/ou desnutrição);&lt;/li&gt;
-  &lt;li&gt;Outras características clínicas incluem petéquias, púrpura, fissura peribucal, hidropsia, hipertensão pulmonar, pan-hipopituitarismo transitório, convulsão e meningite.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;tardia&quot;&gt;Tardia&lt;/h3&gt;
-
-&lt;p&gt;Após o segundo ano de vida. O estigmas clássicos são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ceratite intersticial;&lt;/li&gt;
-  &lt;li&gt;Periostite, osteíte ou osteocondrite (com alterações características ao estudo radiológico);&lt;/li&gt;
-  &lt;li&gt;Surdez neurológica;&lt;/li&gt;
-  &lt;li&gt;Anormalidades dentárias (dentes incisivos medianos superiores deformados – dentes de Hutchinson, molares em “amora”);&lt;/li&gt;
-  &lt;li&gt;Desenvolvimento pobre da maxila, palato em ogiva;&lt;/li&gt;
-  &lt;li&gt;Nariz em sela;&lt;/li&gt;
-  &lt;li&gt;“Fronte olímpica”;&lt;/li&gt;
-  &lt;li&gt;São sinais menos frequentes: tíbia em sabre, rágades (fissuras periorais e perinasais), retardo mental, hidrocefalia, escápula em clarão e articulações de Clutton (efusão dos joelhos).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/sifilis.jpeg&quot; alt=&quot;Sífilis congênita&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;quadro-clínico-na-gestante&quot;&gt;Quadro clínico na gestante&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/sifilis.jpg&quot; alt=&quot;Quadro com os estágios da sífilis&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Diante de uma gestante com diagnóstico
-confirmado, em que não é possível inferir a duração da infecção (sífilis de duração ignorada), classifica-se e trata-se o caso como sífilis
-latente tardia.&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;h3 id=&quot;pesquisa-direta-do-treponema&quot;&gt;Pesquisa direta do Treponema&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Microscopia de campo escuro:&lt;/strong&gt; visualização do treponema em material fresco obtido de lesões cutâneas ou de mucosa nasal.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Imuno-histoquímica:&lt;/strong&gt; visualização do treponema a partir de material obtido por biópsia ou necrópsia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/sif-diag1.jpg&quot; alt=&quot;Exames diretos da sífilis&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;reações-sorológicas&quot;&gt;Reações sorológicas&lt;/h3&gt;
-
-&lt;p&gt;Esses testes têm como base a demonstração de anticorpos contra o treponema. Podem ser divididos em dois grandes grupos:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/imuno.jpg&quot; alt=&quot;Testes imunológicos para sífilis&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;testes-treponêmicos&quot;&gt;Testes treponêmicos&lt;/h4&gt;
-
-&lt;p&gt;São testes que detectam anticorpos &lt;strong&gt;específicos&lt;/strong&gt; produzidos contra os antígenos do &lt;em&gt;Treponema pallidum&lt;/em&gt;, mas de uso limitado em RN, em decorrência das imunoglobulinas do tipo &lt;strong&gt;IgG maternas&lt;/strong&gt; que ultrapassam a barreira placentária. Uma vez positivos, permanecem assim por toda a vida e,
-por isso, não auxiliam no monitoramento de
-tratamento.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Após 18 meses&lt;/strong&gt;, um resultado reagente de teste treponêmico sugere infecção, pois não há mais IgG materno circulando. Detecção por IgM possui baixa sensibilidade.&lt;/p&gt;
-
-&lt;h4 id=&quot;testes-não-treponêmicos&quot;&gt;Testes não treponêmicos&lt;/h4&gt;
-
-&lt;p&gt;Detectam anticorpos não específicos anticardiolipina, lipídio liberado pelas células danificadas durante a infecção. Seus resultados são expressos em titulação (ex.: 1:4; 1:16; 1:64), e servem para auxiliar o diagnóstico e monitorar a resposta ao tratamento.&lt;/p&gt;
-
-&lt;p&gt;Mesmo que haja transferência passiva dos anticorpos (IgG) não treponêmicos da mãe para o RN, a titulação dos anticorpos permite presumir se são exclusivamente maternos ou se também foram produzidos pelo organismo da criança.&lt;/p&gt;
-
-&lt;p&gt;Um resultado &lt;strong&gt;reagente&lt;/strong&gt; no teste não treponêmico em crianças com &lt;strong&gt;&amp;lt; 18m&lt;/strong&gt; só tem significado clínico quando o &lt;strong&gt;título encontrado for maior do que o título materno em pelo menos duas diluições&lt;/strong&gt;, e deve ser confirmado com uma segunda amostra coletada na criança.&lt;/p&gt;
-
-&lt;p&gt;Em RN que apresente resultado não reagente nos testes não treponêmicos, se persistir a suspeita epidemiológica de ocorrência de sífilis, o teste não treponêmico deve ser repetido com 1 mês, 3, 6, 12 e 18 meses de idade, devido à possibilidade de ainda ocorrer a soroconversão, interrompendo o seguimento após dois exames não treponêmicos consecutivos não reagentes. Na dúvida ou impossibilidade de seguimento, o RN deve ser tratado. Evitar uso de sangue do cordão umbilical.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/diag-cong.png&quot; alt=&quot;Resumo de recomendações de testes diagnósticos para sífilis congênita&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para o diagnóstico da sífilis, deve ser realizado um teste treponêmico mais um teste não treponêmico. Considerando a sensibilidade dos fluxos diagnósticos, recomenda-se, sempre que possível, iniciar a investigação por um teste treponêmico (teste rápido, FTA-Abs, ELISA etc.).&lt;sup id=&quot;fnref:1:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Toda criança com menos de 13 anos de idade com pelo menos uma das seguintes situações:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Manifestação clínica, alteração LCR ou RX de SC  E VDRL reagente&lt;/li&gt;
-  &lt;li&gt;VDRL lactente &amp;gt; VDRL materno (pelo menos duas diluições)&lt;/li&gt;
-  &lt;li&gt;VDRL ascendentes em pelo menos duas diluições&lt;/li&gt;
-  &lt;li&gt;VDRL ainda reagente 6m&lt;/li&gt;
-  &lt;li&gt;Teste treponemico + após 18m sem diagnóstico prévio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;outros&quot;&gt;Outros&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Radiografia de ossos longos (metáfises e diáfises de tíbia, fêmur e úmero);&lt;/li&gt;
-  &lt;li&gt;Líquido cefalorraquidiano (VDRL, celularidade e proteinorraquia);&lt;/li&gt;
-  &lt;li&gt;As alterações liquóricas sugestivas de neurossífilis congênita são &amp;gt; 25 células/mm3, &amp;gt; 150 mg/dl e VDRL reagente;&lt;/li&gt;
-  &lt;li&gt;Exames de sangue: hemograma, perfil hepático e eletrólitos;&lt;/li&gt;
-  &lt;li&gt;Avaliação audiológica e oftalmológica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;diagnóstico-na-gestação&quot;&gt;Diagnóstico na gestação&lt;/h3&gt;
-
-&lt;p&gt;Toda gestante deve ser testada duas vezes para sífilis durante o pré-natal e mais uma vez durante o parto:&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Na na primeira consulta do pré-natal;&lt;/li&gt;
-  &lt;li&gt;No início do terceiro trimestre (28 semana);&lt;/li&gt;
-  &lt;li&gt;No momento do parto;&lt;/li&gt;
-  &lt;li&gt;Em caso de aborto ou exposição a risco.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/flux-sif.jpg&quot; alt=&quot;Fluxuograma manejo da sífilis&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Para o diagnóstico de sífilis em gestante, podem ser utilizados os testes treponêmicos rápidos ou os testes treponêmicos convencionais (Elisa, FTA-Abs, TPHA, dentre outros) e os não treponêmicos (VDRL, RPR, TRUST, dentre outros).&lt;sup id=&quot;fnref:3:1&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Resultados reagentes em testes realizados em amostras de criança com idade inferior a 18 meses devem ser sempre analisados juntamente com os resultados dos testes executados em amostra da mãe, pois é necessário considerar a possibilidade de transferência de anticorpos IgG maternos ao feto.&lt;sup id=&quot;fnref:3:2&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Embora existam testes treponêmicos específicos capazes de detectar IgM no recém-nato, esses testes possuem baixa sensibilidade. Por isso, quando utilizados, deve-se ter em mente que um resultado negativo não exclui o diagnóstico de sífilis congênita.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Um resultado reagente no teste não treponêmico em crianças com &lt;strong&gt;menos de 18 meses&lt;/strong&gt; de idade só tem significado clínico se o título encontrado aumentar em duas diluições quando comparado ao título encontrado na amostra da mãe, e deve ser confirmado com uma segunda amostra que deverá ser coletada na criança.&lt;/p&gt;
-
-&lt;p&gt;Todo teste deve ser realizado com o sangue do neonato, não sendo, portanto, indicada
-a utilização de amostra de sangue obtido do cordão umbilical, pois esse tipo de amostra contém uma mistura do sangue da criança e da mãe e, portanto, anticorpos de ambos.&lt;sup id=&quot;fnref:3:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Vai depender da idade do neonato:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Período neonatal (até os 28 dias de vida)&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Para crianças expostas à sífilis em que a neurossífilis tenha sido afastada, a &lt;strong&gt;penicilina procaína&lt;/strong&gt; poder ser considerada como droga de escolha.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Período pós-neonatal (após 28 dias de vida)&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/tto-cong1.png&quot; alt=&quot;Tratamento de sífilis congênita&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/tto-cong2.png&quot; alt=&quot;Tratamento de sífilis congênita&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/flux-tto.png&quot; alt=&quot;Fluxuograma tratamento de sífilis congênita&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;tratamento-na-gestante&quot;&gt;Tratamento na gestante&lt;/h3&gt;
-
-&lt;p&gt;O tratamento &lt;strong&gt;deve ser iniciado com apenas um teste reagente&lt;/strong&gt;, treponênico ou não treponêmico, sem aguardar o resultado do segundo teste.&lt;sup id=&quot;fnref:1:2&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; A &lt;strong&gt;penicilina benzatina&lt;/strong&gt; é a única opção segura e eficaz para tratamento adequado
-das gestantes.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/tto-sif.jpg&quot; alt=&quot;Esquemas para tratamento da sífilis&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Após a primeira dose de penicilina, a pessoa pode apresentar exacerbação das lesões cutâneas com eritema, dor ou prurido, as quais regridem espontaneamente após 12 a 24 horas, sem a necessidade da descontinuidade do tratamento. Tipicamente, vêm acompanhadas de febre, artralgia e mal-estar. Não é alergia à penicilina&lt;sup id=&quot;fnref:1:3&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As parcerias sexuais de gestantes com sífilis podem estar infectadas, mesmo apresentando testes imunológicos não reagentes; portanto, devem ser tratadas presumivelmente com apenas uma dose de penicilina benzatina IM (2.400.000 UI). No caso de teste reagente para sífilis, seguir as recomendações de tratamento da sífilis adquirida no adulto, de acordo com o estágio clínico da infecção, utilizando preferencialmente penicilina benzatina.&lt;/p&gt;
-
-&lt;h2 id=&quot;monitorização-da-resposta-ao-tratamento&quot;&gt;Monitorização da resposta ao tratamento&lt;/h2&gt;
-
-&lt;h3 id=&quot;na-gestante&quot;&gt;Na gestante&lt;/h3&gt;
-
-&lt;p&gt;Levar em consideração tanto os sinais e
-os sintomas clínicos quanto o monitoramento laboratorial da resposta ao tratamento.&lt;/p&gt;
-
-&lt;p&gt;Os testes não treponêmicos (VDRL, RPR, TRUST, por exemplo) devem ser realizados
-&lt;strong&gt;mensalmente&lt;/strong&gt; nas gestantes, utilizando preferencialmente sempre o mesmo teste, para que seja possível comparação entre eles.&lt;/p&gt;
-
-&lt;p&gt;A quantificação do título de teste não treponêmico deve ser obtida no início do tratamento (idealmente, no primeiro dia de tratamento), uma vez que os títulos podem aumentar significativamente após alguns dias entre o diagnóstico de sífilis e o início de tratamento. Isso é importante para documentação da real queda da titulação, evitando a necessidade de retratamento.&lt;/p&gt;
-
-&lt;p&gt;É indicação de sucesso de tratamento a ocorrência de &lt;strong&gt;diminuição da titulação em 2 diluições dos testes não treponêmicos em 3 meses&lt;/strong&gt;, ou de &lt;strong&gt;4 diluições em 6 meses&lt;/strong&gt; após a conclusão do tratamento (ex.: pré-tratamento 1:64 e em três meses 1:16, ou em seis meses 1:4).&lt;/p&gt;
-
-&lt;p&gt;A persistência de resultados reagentes em testes não treponêmicos com títulos baixos (1:1 a 1:4) durante um ano após o tratamento, quando descartada nova exposição de risco durante o período analisado, é chamada de “cicatriz sorológica” e não caracteriza falha terapêutica.&lt;/p&gt;
-
-&lt;p&gt;Para fins clínicos e assistenciais, alguns fatores são considerados para o tratamento adequado da GESTANTE com sífilis, como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Administração de penicilina benzatina;&lt;/li&gt;
-  &lt;li&gt;Início do tratamento até 30 dias antes do parto;&lt;/li&gt;
-  &lt;li&gt;Esquema terapêutico de acordo com o estágio clínico;&lt;/li&gt;
-  &lt;li&gt;Respeito ao intervalo recomendado de doses;&lt;/li&gt;
-  &lt;li&gt;Avaliação quanto ao risco de reinfecção;&lt;/li&gt;
-  &lt;li&gt;Documentação de queda do título do teste não treponêmico em pelo menos 2 diluições em 3 meses, ou de 4 diluições em 6 meses após a conclusão do tratamento – resposta imunológica adequada.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;no-neonato&quot;&gt;No neonato&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/imagens/infeccao-congenita/acomp.png&quot; alt=&quot;Acompanhamento do tratamento de sífilis congênita&quot; /&gt;&lt;/p&gt;
-
-&lt;!--
-
-
-
-#### Neurossífilis
-
-![Valores de LCR com suspeita para neurossífilis](/assets/imagens/infeccao-congenita/neurosif.png)
-
-#### Exames complementares
-
-- Amostra de sangue: hemograma, perfil hepático e eletrólitos;
-- Avaliação neurológica, incluindo punção liquórica: celularidade, proteinorraquia
-e teste não treponêmico quantitativo;
-- RX de ossos longos;
-- Avaliação oftalmológica e audiológica.
-
---&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;div class=&quot;footnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Prevenção e Controle das Infecções Sexualmente Transmissíveis, do HIV/Aids e das Hepatites Virais. Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Vigilância. Ministério da Saúde, 2018 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:1:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância, Prevenção e Controle das Doenças Sexualmente Transmissíveis, Aids e Hepatites Virais. Manual Técnico para Diagnóstico da Sífilis / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento de Vigilância, Prevenção e Controle das Doenças Sexualmente Transmissíveis, Aids e Hepatites Virais. – Brasília: Ministério da Saúde, 2016. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:3:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:3:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:3:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Toxoplasmose cogênita</title><link href="http://localhost:4000/neonatologia/toxoplasmose-congenita.html" rel="alternate" type="text/html" title="Toxoplasmose cogênita" /><published>2020-03-15T00:00:00-03:00</published><updated>2020-03-15T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/toxoplasmose-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/toxoplasmose-congenita.html">&lt;ol id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#patogenia&quot; id=&quot;markdown-toc-patogenia&quot;&gt;Patogenia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#forma-neurológica&quot; id=&quot;markdown-toc-forma-neurológica&quot;&gt;Forma neurológica&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#forma-generalizada&quot; id=&quot;markdown-toc-forma-generalizada&quot;&gt;Forma generalizada&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#sequelas-tardias&quot; id=&quot;markdown-toc-sequelas-tardias&quot;&gt;Sequelas tardias&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#exames-complementares&quot; id=&quot;markdown-toc-exames-complementares&quot;&gt;Exames complementares&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ol&gt;
-      &lt;li&gt;&lt;a href=&quot;#na-gestante&quot; id=&quot;markdown-toc-na-gestante&quot;&gt;Na gestante&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#no-neonato&quot; id=&quot;markdown-toc-no-neonato&quot;&gt;No neonato&lt;/a&gt;&lt;/li&gt;
-    &lt;/ol&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#prevenção&quot; id=&quot;markdown-toc-prevenção&quot;&gt;Prevenção&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ag. etiológico: &lt;em&gt;Toxoplasma gondii&lt;/em&gt;;&lt;/li&gt;
-  &lt;li&gt;Parasita intracelular obrigatório;&lt;/li&gt;
-  &lt;li&gt;Zoonose que tem como hospedeiro definitivo o gato;&lt;/li&gt;
-  &lt;li&gt;Prevalência da soropositividade no Brasil varia de 50-90%.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A infecção congênita pode ocorrer como consequência de infecção materna primária adquirida durante a gestação ou como consequência de recrudescência local ou sistêmica devido à parasitemia recorrente.&lt;/p&gt;
-
-&lt;p&gt;Mães com imunodepressão podem reativar uma infecção toxoplásmica latente a apresentar nova parasitemia, podendo infectar o feto.&lt;/p&gt;
-
-&lt;h2 id=&quot;patogenia&quot;&gt;Patogenia&lt;/h2&gt;
-
-&lt;p&gt;Ao adquirir a infecção primária, a mãe infecta o seu feto em 17-65% das vezes pela via transplacentária (risco de transmissão médio de 40%). &lt;strong&gt;Quanto mais precoce a idade gestacional, menor é a probabilidade de transmissão&lt;/strong&gt;, porém mais grave é a infecção. O contrário ocorre no final da gestação, quando há uma maior probabilidade da infecção, porém de forma menos grave.&lt;/p&gt;
-
-&lt;p&gt;Cerca de 50% dos bebês cuja mãe se infecta durante a gravidez, não apresentarão manifestação clínica. Cerca de 10% apresentará uma forma clínica grave e 34% manifestações leves.&lt;/p&gt;
-
-&lt;p&gt;Depois de replicar-se ativamente na placenta, a parasitemia atinge praticamente todos os sistemas orgânicos do feto, com exceção da hemácia. Os locais mais acometidos são as túnicas oculares e o Sistema Nervoso Central (SNC). No cérebro, encontramos áreas de necrose, acompanhadas de processos inflamatórios perivasculares, que sofrem calcificação precoce.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Após a replicação na placenta o parasita atinge o SNC e as túnicas oculares fetais;&lt;/li&gt;
-  &lt;li&gt;No cérebro encontram-se áreas de necrose que podem  sofrer calcificações precoces;&lt;/li&gt;
-  &lt;li&gt;Áras similares podem ser observadas no fígado, nos pulmões, no miocárdio, nos MM esqueléticos, no baço e em outros órgãos, acompanhadas de processos inflamatórios múltiplos;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Risco de infecção fetal:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;1ºT: 20%&lt;/li&gt;
-      &lt;li&gt;2ºT: 50%&lt;/li&gt;
-      &lt;li&gt;3ºT: 80%&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;A &lt;strong&gt;gravidade&lt;/strong&gt; das lesões é &lt;strong&gt;inversamente proporcional à idade gestacional&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Gestantes:&lt;/strong&gt; a grávida pode ser assintomática ou apresentar sinais inespecíficos como febre, mialgia, linfadenopatia, odinofagia, exantema maculopapular e hepatoesplenomegalia (síndrome de &lt;em&gt;mononucleose like&lt;/em&gt;). A linfadenomegalia pode ser de apenas um linfonodo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Recém-nascido:&lt;/strong&gt; cerca de 80 a 90% dos RN infectados são assintomáticos. As manifestações clínicas no recém-nascido, se presentes, são em sua grande maioria &lt;strong&gt;viscerais&lt;/strong&gt;, &lt;strong&gt;neurológicas&lt;/strong&gt; ou &lt;strong&gt;oftalmológicas&lt;/strong&gt;. Podemos dividir didaticamente as formas graves de toxoplasmose congênita em duas categorias: forma neurológica e forma generalizada.&lt;/p&gt;
-
-&lt;h3 id=&quot;forma-neurológica&quot;&gt;Forma neurológica&lt;/h3&gt;
-
-&lt;p&gt;Geralmente é resultante de uma infecção nas fases iniciais da gestação. Caracteriza-se por alterações liquóricas, &lt;strong&gt;calcificações intracranianas&lt;/strong&gt;, &lt;strong&gt;hidrocefalia&lt;/strong&gt;, &lt;strong&gt;convulsões&lt;/strong&gt;, &lt;strong&gt;microcefalia&lt;/strong&gt; e
-&lt;strong&gt;retinocoroidite&lt;/strong&gt;. A hidrocefalia tipo obstrutiva
-é considerada a manifestação neurológica clássica mais comumente encontrada na toxoplasmose congênita. As crises convulsivas podem fazer parte da clínica destes pacientes, podendo também ocorrer &lt;strong&gt;retardo do crescimento&lt;/strong&gt;, &lt;strong&gt;opistótono&lt;/strong&gt;, dificuldade de deglutição, e &lt;strong&gt;paralisia&lt;/strong&gt; de membros.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/img2.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;forma-generalizada&quot;&gt;Forma generalizada&lt;/h3&gt;
-
-&lt;p&gt;Pode ocorrer após a infecção em fases mais tardias da gestação. Os bebês podem se apresentar com &lt;strong&gt;retinocoroidite&lt;/strong&gt;, alterações liquóricas, &lt;strong&gt;hepatoesplenomegalia&lt;/strong&gt;, &lt;strong&gt;linfadenopatia&lt;/strong&gt;, &lt;strong&gt;icterícia&lt;/strong&gt;, &lt;strong&gt;trombocitopenia&lt;/strong&gt;, &lt;strong&gt;anemia&lt;/strong&gt;, &lt;strong&gt;pneumonite&lt;/strong&gt;, &lt;strong&gt;miocardite&lt;/strong&gt;, &lt;strong&gt;síndrome nefrótica&lt;/strong&gt; e alterações &lt;strong&gt;ósseas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;tétrade de Sabin&lt;/strong&gt; é caracterizada por:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Coriorretinite;&lt;/li&gt;
-  &lt;li&gt;Calcificações intracranianas difusas;&lt;/li&gt;
-  &lt;li&gt;Hidrocefalia ou microcefalia;&lt;/li&gt;
-  &lt;li&gt;Retardo mental.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/img.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;sequelas-tardias&quot;&gt;Sequelas tardias&lt;/h3&gt;
-
-&lt;p&gt;Além destas formas precoces descritas, muitos bebês apresentarão sequelas tardias da doença, principalmente as oftalmológicas. As lesões são localizadas na retina e na coroide, podendo complicar com iridociclite, catarata, glaucoma, estrabismo, nistagmo e descolamento de retina.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;coriorretinite&lt;/strong&gt; (retinocoroidite) é o comprometimento clássico mais frequente na toxoplasmose congênita, sendo bilateral em 60 a 80% dos casos.&lt;/p&gt;
-
-&lt;p&gt;Manifestações oftalmológicas:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Retinocoroidite&lt;/strong&gt; (60-80%): a mais frequente, bilateral em 60-80% dos casos. Pode aparecer mais tardiamente após semanas ou meses.
-    &lt;ul&gt;
-      &lt;li&gt;As lesões retinianas podem curar-se com ou sem tratamento por volta de 4 semanas a alguns meses, deixando cicatrizes (retinocoroidite residual).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Uveíte (21%)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Microftalmia&lt;/strong&gt; (22%): uma das alterações oculares mais graves. Frequentemente associada à uveíte, catarata ou total total disrupção do globo ocular.&lt;/li&gt;
-  &lt;li&gt;Iridocilite (7%)&lt;/li&gt;
-  &lt;li&gt;Catarata (8%)&lt;/li&gt;
-  &lt;li&gt;Glaucoma (22%)&lt;/li&gt;
-  &lt;li&gt;Estrabismo (30%)&lt;/li&gt;
-  &lt;li&gt;Nistagmo (22%)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;exames-complementares&quot;&gt;Exames complementares&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Radiografia simples de crânio:&lt;/strong&gt; as calcificações intracranianas difusas, sem localização característica, constituem-se em um achado característico da toxoplasmose congênita. Essas calcificações aparecem a partir do 3º mês de vida em aproximadamente 30% dos pacientes, sendo a maior parte diagnosticada até os dois anos de vida.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tomografia computadorizada de crânio e ultrassonografia:&lt;/strong&gt; são importantes para um diagnóstico mais preciso das lesões. Evidenciam melhor a atrofia cortical e as dilatações ventriculares, além de revelarem calcificações
-não diagnosticadas na radiografia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Nódulos calcificados&lt;/strong&gt; poderão ser localizados em &lt;strong&gt;vísceras&lt;/strong&gt; como fígado e baço. As alterações de ossos longos são inespecíficas (zonas transversais e/ou estrias transversais radiotransparentes nas metáfises e irregularidades na linha de calcificação provisória). Assim como na sífilis congênita, pode ser encontrado &lt;strong&gt;placentomegalia&lt;/strong&gt; à ultrassonografia.&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;h3 id=&quot;na-gestante&quot;&gt;Na gestante&lt;/h3&gt;
-
-&lt;p&gt;Na primeira consulta de pré-natal, deve-se realizar a sorologia materna, tanto &lt;strong&gt;IgG&lt;/strong&gt; quanto &lt;strong&gt;IgM&lt;/strong&gt; pelos métodos ELISA, imunofluorescência indireta ou teste imunoenzimático de micropartículas (MEIA).&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;IgM:&lt;/strong&gt; se eleva após uma ou duas semanas da infecção aguda, permanecendo positivo por dois a três meses;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IgG:&lt;/strong&gt; também se eleva uma ou duas semanas após a infecção aguda, atingindo um pico em três a seis meses, seguindo queda lenta, mas sempre &lt;strong&gt;positiva pelo resto da vida&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Contudo, resultados IgM falso-positivos são frequentes. Para confirmar o momento da infecção aguda, sugere-­se o &lt;strong&gt;teste da avidez do IgG&lt;/strong&gt;. Quando a &lt;strong&gt;avidez é elevada&lt;/strong&gt;, ou seja, &lt;strong&gt;acima de 60%&lt;/strong&gt;, afirma-se que a &lt;strong&gt;infecção ocorreu há mais de três ou quatro meses&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/diag-toxo-mae.jpeg&quot; alt=&quot;Diagnóstico na mãe&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As gestantes agudamente infectadas deverão
-realizar a investigação da doença fetal através
-dos seguintes exames:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Ultrassonografia fetal:&lt;/strong&gt; os sinais mais sugestivos de infecção fetal são: alargamento dos ventrículos cerebrais, calcificações intracranianas, calcificações de plexo coroide, aumento da espessura da placenta, ascite e hepatoesplenomegalia;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Amniocentese e PCR:&lt;/strong&gt; a amniocentese deverá ser realizada a partir das 18 semanas de gravidez com envio da amostra do líquido para detecção do DNA do toxoplasma pelo método de PCR. O método tem alta sensibilidade e valor preditivo negativo, ou seja,
-se PCR positivo a chance de infecção fetal é muito alta. Contudo, o teste tem baixa especificidade e valor preditivo positivo, ou seja, um PCR negativo, não exclui infecção fetal, tornando necessário o acompanhamento da criança e investigação complementar após o nascimento.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;no-neonato&quot;&gt;No neonato&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Hemograma:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Linfocitose com eosinofilia (até 20%);&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Anemia&lt;/strong&gt;;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Plaquetopenia&lt;/strong&gt;;&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Reticulocitose&lt;/strong&gt;;&lt;/li&gt;
-      &lt;li&gt;Leucocitose e eosinofilia também podem estar presente.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Elevação de bilirrubina direta;&lt;/li&gt;
-  &lt;li&gt;As proteínas totais e albumina são mais baixas que os valores de referência.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;LCR:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Xantocrômico&lt;/li&gt;
-      &lt;li&gt;Redução da glicose&lt;/li&gt;
-      &lt;li&gt;Elevação de proteínas: achado característico e indicador de prognóstico&lt;/li&gt;
-      &lt;li&gt;A citometria revela &lt;strong&gt;pleocitose&lt;/strong&gt; à custa de células &lt;strong&gt;linfomonocitárias&lt;/strong&gt;, além de elevada contagem de eosinófilos.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Gestantes soronegativas devem realizar o sorológico mensalmente&lt;/li&gt;
-  &lt;li&gt;Pesquisa do &lt;em&gt;T. gondii&lt;/em&gt; em fluidos corporais do RN&lt;/li&gt;
-  &lt;li&gt;Encontro de IgM específicos&lt;/li&gt;
-  &lt;li&gt;Persistência de IgG no soro do RN quando comparado ao soro materno&lt;/li&gt;
-  &lt;li&gt;Sorológicos
-    &lt;ul&gt;
-      &lt;li&gt;IgG&lt;/li&gt;
-      &lt;li&gt;IgM&lt;/li&gt;
-      &lt;li&gt;PCR&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Western-blot&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Radiologia
-    &lt;ul&gt;
-      &lt;li&gt;Rx simples de crânio: calcificações intracranianas são detectáveis nos 3 primeiros meses de vida em 30% das crianças e em 80% até os 2 anos. Aumento no número e tamanho das calcificações.&lt;/li&gt;
-      &lt;li&gt;TC encefálica: detectar microcalcificações intracranianas e lesão do parenquima cerebral.&lt;/li&gt;
-      &lt;li&gt;Rx de ossos longos: estrias longitudinais na epífise dos ossos longos, bem como radioluscência óssea.&lt;/li&gt;
-      &lt;li&gt;Rx de tórax: avaliar comprometimento pulmonar e diagnosticar a pneumonite intersticial toxoplásmica.&lt;/li&gt;
-      &lt;li&gt;USG cerebral&lt;/li&gt;
-      &lt;li&gt;Exame fundoscópico&lt;/li&gt;
-      &lt;li&gt;EEG&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Oftalmoscopia:&lt;/strong&gt; o exame de fundo de olho é essencial na pesquisa de coriorretinite e neurites. Na presença de toxoplasmose congênita confirmada, o exame oftalmológico deverá ser feito a cada 6 meses até a idade escolar, e depois anualmente, pois lesões ativas novas e reativação de focos latentes podem surgir a qualquer momento.&lt;/p&gt;
-
-&lt;p&gt;O toxoplasma pode ser encontrado em sedimento de liquor, sangue periférico ou do cordão umbilical e urina. Esse micro-organismo pode ser recuperado após inoculação em peritônio de camundongos. Esses métodos são extremamente trabalhosos e podem não trazer os resultados esperados. Dessa forma, devemos solicitar uma &lt;strong&gt;avaliação sorológica&lt;/strong&gt;, medida que se
-toma normalmente na prática clínica.&lt;/p&gt;
-
-&lt;p&gt;Exames Sorológicos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Reação de Sabin e Feldman;&lt;/li&gt;
-  &lt;li&gt;Teste de imunofluorescência indireta IgG (IF-IgG) e IgM (IF-IgM);&lt;/li&gt;
-  &lt;li&gt;DS-IgM ELISA;&lt;/li&gt;
-  &lt;li&gt;Ensaio imunoenzimático tipo duplo sanduíche IgM (DS IgM ELISA);&lt;/li&gt;
-  &lt;li&gt;Reação de aglutinação por imunoabsorção IgM-ISAGA.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A confirmação de toxoplasmose congênita é realizada através da presença de &lt;strong&gt;IgM&lt;/strong&gt; (pelo método ELISA, que tem sensibilidade de 75%) ou &lt;strong&gt;IgA&lt;/strong&gt; nos primeiros 6 meses de vida, &lt;strong&gt;persistência de IgG após os 12 meses&lt;/strong&gt; ou demonstração de &lt;strong&gt;aumento da afinidade de IgG&lt;/strong&gt; no teste de avidez nos primeiros meses de vida. A técnica de PCR também pode ser empregada no sangue periférico, sendo o resultado positivo indicativo de infecção. Um resultado de IgG negativa com um ano de idade exclui o diagnóstico de infecção congênita.&lt;/p&gt;
-
-&lt;p&gt;Além da avaliação neurológica (ex.: liquor, USG, radiografia e TC de crânio) já mencionada, estes bebês também deverão realizar avaliação audiométrica e oftalmológica.&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Todos os neonatos com toxoplasmose congênita confirmada ou nos filhos de mães com toxoplasmose comprovada ou provável deverão receber tratamento por &lt;strong&gt;12 meses&lt;/strong&gt;, &lt;strong&gt;independente de apresentarem ou não sinais/sintomas&lt;/strong&gt; da doença.&lt;/p&gt;
-
-&lt;p&gt;O melhor tratamento até o momento é a associação de &lt;strong&gt;sulfadiazina&lt;/strong&gt; e &lt;strong&gt;pirimetamina&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Pirimetamina:&lt;/strong&gt; 1 mg/kg/dia em uma dose diária, durante 2 a 6 meses, dependendo da intensidade do acometimento. A seguir, 1 mg/kg 3 vezes por semana, até completar 1 ano de utilização do medicamento.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sulfadiazina&lt;/strong&gt; ou &lt;strong&gt;Trissulfapiridinas&lt;/strong&gt;: 100 mg/kg/dia via oral, duas vezes ao dia.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Glicocorticoide:&lt;/strong&gt; prednisona ou metilprednisolona, 1 mg/kg/dia. Pode ser utilizado até o processo inflamatório diminuir. Indicado na presença de retinocoroidite em atividade ou proteinorraquia &amp;gt; 1.000 mg/dl.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ácido folínico:&lt;/strong&gt; sempre deve ser utilizado durante o uso de pirimetamina, para diminuir a toxicidade (neutropenia/anemia);
-    &lt;ul&gt;
-      &lt;li&gt;10 mg administrados três vezes por semana.&lt;/li&gt;
-      &lt;li&gt;Na ocorrência de neutropenia: se &amp;lt; 1000 neutrófilos/mm3, aumentar a dose para 20 mg diários; se &amp;lt; 500 neutrófilos/mm3, suspender a pirimetamina até que ocorra recuperação. Manter por mais uma semana após interrupção do uso da pirimetamina;&lt;/li&gt;
-      &lt;li&gt;Atenção: o ácido fólico não deve ser utilizado em substituição ao ácido folínico.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Como a pirimetamina tem efeito antifólico, o tratamento deve ser acompanhado de hemograma, contagem de plaquetas e de reticulócitos, semanalmente.&lt;/p&gt;
-
-&lt;p&gt;Deve-se instituir o tratamento precoce com espiramicina e/ou tratamento alternativo com pirimetamina, sulfadiazina e ácido folínico após 16ª e a 18ª semana de IG sempre que o feto estiver infectado.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tto.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;As crianças adequadamente tratadas são aquelas que têm &lt;strong&gt;negativação do título de IgG ou queda&lt;/strong&gt; comprovada &lt;strong&gt;após seis meses&lt;/strong&gt; da suspensão dos medicamentos.&lt;/p&gt;
-
-&lt;p&gt;Os neonatos assintomáticos, filhas de mães com diagnóstico possível ou inconclusivo, deve­rão realizar sorologias a cada 2 meses, com fundo de olho, USG de fontanela e hemograma.&lt;/p&gt;
-
-&lt;h2 id=&quot;prevenção&quot;&gt;Prevenção&lt;/h2&gt;
-
-&lt;p&gt;Realizar o pré-natal adequado, com o acompanhamento sorológico. Evitar consumo de carnes cruas durante a gestação, bem como contato com animais vetores.&lt;/p&gt;
-
-&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
-
-&lt;p&gt;Os casos do tipo “encefalítico” tem sobrevida mais ou menos longa, porém evoluem com retardo neuropsicomotor grave. Nas formas predominantemente viscerais, o prognóstico é melhor, com regressão do quadro clínico em até 1 ano.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Sepse neonatal</title><link href="http://localhost:4000/neonatologia/sepse-neonatal.html" rel="alternate" type="text/html" title="Sepse neonatal" /><published>2020-03-14T00:00:00-03:00</published><updated>2020-03-14T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/sepse-neonatal</id><content type="html" xml:base="http://localhost:4000/neonatologia/sepse-neonatal.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#profilaxia-primária&quot; id=&quot;markdown-toc-profilaxia-primária&quot;&gt;Profilaxia primária&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#profilaxia-secundária&quot; id=&quot;markdown-toc-profilaxia-secundária&quot;&gt;Profilaxia secundária&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Sepse neonatal precoce&lt;/strong&gt; (&amp;lt; 48 horas de vida): provocada por patógenos do trato genital materno, como Streptococcus agalactiae, E. coli e L. monocytogenes;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Sepse neonatal tardia&lt;/strong&gt; (&amp;gt; 48 horas de vida): provocada por patógenos do ambiente hospitalar, tais como: Gram-negativos, S. aureus, estafilococos coagulase negativo e fungos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A infecção precoce tem como agentes etiológicos o &lt;strong&gt;estreptococo beta hemolítico do grupo B&lt;/strong&gt; (que evolui com sepse em 50% dos RN.&lt;/p&gt;
-
-&lt;p&gt;A pneumonia tem aspecto radiológico indistinguível do da membrana hialina), Escherichia coli e outras enterobactérias (Klebsiella, Pseudomonas, Haemophilus e Enterobacter), anaeróbios (B. fragilis) e menos comumente por Listeria monocytogenes e Citrobacter.&lt;/p&gt;
-
-&lt;p&gt;Os critérios diagnósticos que definem esta resposta inflamatória sistêmica no RN são a presença de dois ou mais dos seguintes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Instabilidade de temperatura&lt;/strong&gt; (&amp;lt; 35 ou &amp;gt; 38,5);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Disfunção respiratória:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Taquipneia (mais de dois desvios padrões da média para idade);&lt;/li&gt;
-      &lt;li&gt;Hipoxemia (PaO2 &amp;lt; 70 mmHg em ar ambiente).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Disfunção cardíaca:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Taquicardia (mais de dois desvios padrões da média para a idade);&lt;/li&gt;
-      &lt;li&gt;Enchimento capilar periférico &amp;gt; 3 segundos;&lt;/li&gt;
-      &lt;li&gt;Hipotensão (mais de dois desvios padrões da média para a idade).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Anormalidade de perfusão:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Oligúria (débito urinário &amp;lt; 0,5 ml/kg/hora);&lt;/li&gt;
-      &lt;li&gt;Acidose láctica (lactato sérico elevado ou pH &amp;lt; 7,25);&lt;/li&gt;
-      &lt;li&gt;Estado mental alterado.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;As manifestações clínicas incluem desconforto respiratório, taquipneia, apneia, taquicardia, choque, instabilidade de temperatura (hipotermia é o mais comum em prematuros), resíduo gástrico aumentado, sintomas gastrointestinais (distensão abdominal e vômitos). Os sinais neurológicos (convulsões, alterações da consciência) podem indicar disseminação do processo infeccioso para o SNC. A presença de petéquias, púrpuras e sangramentos em geral representam coagulação intravascular disseminada complicando a sepse.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/sepse.jpeg&quot; alt=&quot;Sepse&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Na infecção precoce empregamos a ampicilina e aminoglicosídeos (gentamicina) por aproximadamente 7-10 dias como esquema empírico de primeira escolha.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;De acordo com o Ministério da Saúde, admite-se como esquema empírico para sepse neonatal precoce a associação de ampicilina 200 mg/kg/dia (cobertura de S. agalactiae e L. monocytogenes) e gentamicina 5 mg/kg/dia (cobertura sinérgica do S. agalactiae, L. monocytogenes e Gram-negativos entéricos).&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nas formas tardias, o tratamento depende da prevalência de micro-organismos da unidade e de seu padrão de sensibilidade bacteriana.&lt;/p&gt;
-
-&lt;p&gt;Nas unidades com elevada prevalência de estafilococos coagulase-negativo e resistentes à
-oxacilina, a &lt;strong&gt;vancomicina&lt;/strong&gt; deve ser empregada
-substituindo a ampicilina. Uma droga com largo espectro para Gram-negativos, como a &lt;strong&gt;cefepime&lt;/strong&gt;, em geral é utilizada no tratamento inicial. As cefalosporinas de terceira geração não têm sido mais utilizadas devido ao risco de indução de resistência bacteriana.&lt;/p&gt;
-
-&lt;h2 id=&quot;profilaxia-primária&quot;&gt;Profilaxia primária&lt;/h2&gt;
-
-&lt;p&gt;O estreptococo do grupo B (GBS) é o principal
-agente etiológico da sepse neonatal precoce e da
-pneumonia neonatal, e portanto, a colonização
-do trato geniturinário/gastrointestinal materno é
-o principal fator de risco para esta doença.&lt;/p&gt;
-
-&lt;p&gt;Todas as gestantes devem ser rastreadas para colonização por &lt;strong&gt;GBS&lt;/strong&gt; através de &lt;em&gt;swab&lt;/em&gt; retal e vaginal e cultura durante a 35ª à 37ª semana de gestação.&lt;/p&gt;
-
-&lt;p&gt;Quando indicar a profilaxia antibiótica intraparto?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;História de sepse precoce em neonato anterior;&lt;/li&gt;
-  &lt;li&gt;Cultura retovaginal positiva para GBS no teste de triagem com 35-37 semanas de gestação;&lt;/li&gt;
-  &lt;li&gt;Bacteriúria por GBS em qualquer trimestre gestacional&lt;/li&gt;
-  &lt;li&gt;Gestante com status desconhecido para GBS (cultura não realizada ou sem resultado) na presença de qualquer um dos critérios abaixo:
-    &lt;ul&gt;
-      &lt;li&gt;Trabalho de parto prematuro &amp;lt; 37 semanas;&lt;/li&gt;
-      &lt;li&gt;Ruptura prolongada de membranas ≥ 18 horas;&lt;/li&gt;
-      &lt;li&gt;Temperatura materna intraparto ≥ 38C;&lt;/li&gt;
-      &lt;li&gt;Teste intraparto para GBS (NAAT – Teste de Aplicação de Ácido Nucleico) positivo.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Se a gestante não tiver entrado em trabalho de parto, ainda com membranas íntegras, e for procedido o parto cesárea, não haverá necessidade de quimioprofilaxia.&lt;/p&gt;
-
-&lt;p&gt;Como realizar a profilaxia antibiótica intra-
-parto?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Penicilina G Cristalina:&lt;/strong&gt; 5 milhões IV dose ataque, seguido de 2,5 a 3 milhões IV a cada quatro horas até o parto OU&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Ampicilina:&lt;/strong&gt; 2 g IV dose ataque, seguido de 1 g IV a cada quatro horas;&lt;/li&gt;
-  &lt;li&gt;Gestantes com alergia grave (anafilaxia, angioedema, insuficiência respiratória, urticária): &lt;strong&gt;clindamicina/eritromicina&lt;/strong&gt; ou &lt;strong&gt;vancomicina&lt;/strong&gt; (cepas resistentes).&lt;/li&gt;
-  &lt;li&gt;Gestantes com alergia não grave: &lt;strong&gt;cefazolina&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;profilaxia-secundária&quot;&gt;Profilaxia secundária&lt;/h2&gt;
-
-&lt;p&gt;Na presença de sinais clínicos de sepse neonatal (nenonato sintomático):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Colher todos os exames: hemoculturas, hemograma completo com leucometria e diferencial, radiografia de tórax e punção lombar;&lt;/li&gt;
-  &lt;li&gt;Iniciar antibioticoterapia terapêutica com &lt;strong&gt;ampicilina&lt;/strong&gt; + &lt;strong&gt;gentamicina&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Na ausência de sinais clínicos de sepse neonatal (neonato assintomático):&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Na presença de corioamnionite materna:
-    &lt;ul&gt;
-      &lt;li&gt;Colher exames: hemocultura e hemogramas completos com leucometria diferencial ao nascimento e com 6-12 horas de vida;&lt;/li&gt;
-      &lt;li&gt;Iniciar antibioticoterapia terapêutica com ampicilina + gentamicina.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Na ausência de corioamnionite materna:
-    &lt;ul&gt;
-      &lt;li&gt;Mãe que recebeu quimioprofilaxia primária ≥ 4 horas durante o trabalho de parto: observação do bebê por 48 horas;&lt;/li&gt;
-      &lt;li&gt;Mãe que não recebeu quimioprofilaxia: observação por 48 horas e hemograma completo com leucometria diferencial (ao nascimento e com 6-12 horas de vida) para aqueles prematuros (&amp;lt; 37 semanas) ou se houver tempo de bolsa rota ≥ 18 horas.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Medcurso&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Aspectos gerais</title><link href="http://localhost:4000/neonatologia/aspectos-gerais.html" rel="alternate" type="text/html" title="Aspectos gerais" /><published>2020-03-13T00:00:00-03:00</published><updated>2020-03-13T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/aspectos-gerais</id><content type="html" xml:base="http://localhost:4000/neonatologia/aspectos-gerais.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#avaliação-do-crescimento-intrauterino&quot; id=&quot;markdown-toc-avaliação-do-crescimento-intrauterino&quot;&gt;Avaliação do crescimento intrauterino&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#pig&quot; id=&quot;markdown-toc-pig&quot;&gt;PIG&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ciur&quot; id=&quot;markdown-toc-ciur&quot;&gt;CIUR&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#tipo-i--simétrico&quot; id=&quot;markdown-toc-tipo-i--simétrico&quot;&gt;Tipo I – Simétrico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tipo-ii--assimétrico&quot; id=&quot;markdown-toc-tipo-ii--assimétrico&quot;&gt;Tipo II – Assimétrico&lt;/a&gt;&lt;/li&gt;
-          &lt;li&gt;&lt;a href=&quot;#tipo-intermediário&quot; id=&quot;markdown-toc-tipo-intermediário&quot;&gt;Tipo Intermediário&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#idade-gestacional&quot; id=&quot;markdown-toc-idade-gestacional&quot;&gt;Idade gestacional&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#método-de-capurro&quot; id=&quot;markdown-toc-método-de-capurro&quot;&gt;Método de Capurro&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#método-de-new-ballard&quot; id=&quot;markdown-toc-método-de-new-ballard&quot;&gt;Método de New Ballard&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/epidemio.jpeg&quot; alt=&quot;Epidemio&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/termos.jpeg&quot; alt=&quot;Termos&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/classificacao.jpeg&quot; alt=&quot;Classificação&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/periodo.jpeg&quot; alt=&quot;Período&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;avaliação-do-crescimento-intrauterino&quot;&gt;Avaliação do crescimento intrauterino&lt;/h2&gt;
-
-&lt;p&gt;A curva de crescimento não é uniforme durante todo o período da gestação, e a velocidade de ganho ponderal apresenta quatro períodos, que são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Fase inicial até 16ª semana: &lt;strong&gt;fase de crescimento lento&lt;/strong&gt;, com uma média de ganho ponderal de 10 g/semana;&lt;/li&gt;
-  &lt;li&gt;17ª até a 27ª semana: fase de &lt;strong&gt;crescimento acelerado&lt;/strong&gt;, com uma média de ganho ponderal de 85 g/semana;&lt;/li&gt;
-  &lt;li&gt;28ª até 37ª semana: fase de &lt;strong&gt;crescimento máximo&lt;/strong&gt;, alcançado uma média de 200 g/semana;&lt;/li&gt;
-  &lt;li&gt;A partir da 37ª semana: fase de &lt;strong&gt;desaceleração&lt;/strong&gt; com um ganho ponderal reduzido para 70 g/semana.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A faixa de normalidade é definida como o peso entre os percentis 10 e 90 de determinada curva. Os RN com peso entre os percentis 10 e 90 são considerados Adequados para a Idade Gestacional (AIG); aqueles abaixo do percentil 10 são Pequenos para a Idade Gestacional (PIG); e os acima do percentil 90 são grandes (GIG).&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Hoje utilizam-se as curvas de Fenton.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;pig&quot;&gt;PIG&lt;/h3&gt;
-
-&lt;p&gt;Frequentemente os termos CIUR e PIG são usados como sinônimos, mas esta prática é incorreta, pois apesar da proximidade do sentido geral, suas respectivas definições são bastante diferentes.&lt;/p&gt;
-
-&lt;p&gt;O termo PIG (pequeno para idade gestacional) indica que o recém-nascido está com o peso abaixo do percentil 10.&lt;/p&gt;
-
-&lt;p&gt;É uma medida estática que leva em consideração apenas o peso para uma
-determinada idade gestacional após o nascimento. Existem muitas etiologias que determinam o nascimento de um RN PIG.&lt;/p&gt;
-
-&lt;h3 id=&quot;ciur&quot;&gt;CIUR&lt;/h3&gt;
-
-&lt;p&gt;Feto ou RN com CIUR, significa que ele apresenta uma curva de peso abaixo do percentil 10 decorrente de um processo patológico intraútero. É, portanto, uma medida evolutiva e necessariamente secundária a um processo de doença que prejudica o ganho ponderal fetal, seja de origem materna (ex.: doença hipertensiva específica da gravidez), placentária (ex.: placenta prévia) ou do próprio feto (ex.: anomalias cromossômicas).&lt;/p&gt;
-
-&lt;p&gt;Os neonatos com CIUR apresentam maior in-
-cidência de problemas fetais, como:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Morte fetal:&lt;/strong&gt; causada por hipóxia prolongada, acidose metabólica, infecção ou anomalias congênitas;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Asfixia perinatal:&lt;/strong&gt; a hipóxia crônica ligada à redução do fluxo uteroplacentário no momento do parto predispõe à síndrome de aspiração meconial e à asfixia perinatal;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hipoglicemia:&lt;/strong&gt; os fetos com CIUR possuem estoques reduzidos de glicogênio, reduzida gliconeogênese, hiperinsulinismo e aumento do consumo tissular de glicose pela hipóxia crônica, todos fatores que predispõe à ocorrência de hipoglicemia no pós-parto;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Policitemia – hiperviscosidade:&lt;/strong&gt; a hipóxia prolongada leva ao aumento dos níveis de eritropoetina, que por sua vez estimula a proliferação do setor eritroide da medula óssea;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Hipotermia:&lt;/strong&gt; os neonatos com CIUR têm menor gordura subcutânea, fato que associado à hipoglicemia e à hipóxia predispõe à hipotermia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O CIUR pode ser classificado de acordo
-com a etiopatogenia em três grupos:&lt;/p&gt;
-
-&lt;h4 id=&quot;tipo-i--simétrico&quot;&gt;Tipo I – Simétrico&lt;/h4&gt;
-
-&lt;p&gt;É aquele em que o processo de doença atua sobre o feto &lt;strong&gt;desde o início da gravidez&lt;/strong&gt;. Geralmente o agente agressor está intrinsecamente relacionado ao bebê, interferindo sobre ele desde a embriogênese. A multiplicação celular (hiperplasia) fica comprometida, resultando em um feto que &lt;strong&gt;cresce proporcionalmente pouco&lt;/strong&gt; desde o início da gestação, com peso, comprimento e perímetro cefálico abaixo do percentil
-1.&lt;/p&gt;
-
-&lt;p&gt;As principais causas são as síndromes genéticas, malformações, infecções congênitas, radiação e drogas. O CIUR tipo simétrico responde por 10% a 20% dos casos e geralmente tem prognóstico ruim pela alta incidência de malformações associadas.&lt;/p&gt;
-
-&lt;h4 id=&quot;tipo-ii--assimétrico&quot;&gt;Tipo II – Assimétrico&lt;/h4&gt;
-
-&lt;p&gt;É aquele em que o processo de doença &lt;strong&gt;atua a partir do 3º trimestre de gravidez&lt;/strong&gt;, na fase de aumento de volume celular (hipertrofia). Resulta em fetos que apresentam uma &lt;strong&gt;restrição desproporcionada&lt;/strong&gt; do crescimento, com a &lt;strong&gt;cabeça e os membros relativamente poupados&lt;/strong&gt; (acima do percentil 10) e &lt;strong&gt;tronco de tamanho comprometi&lt;/strong&gt;do (abaixo do percentil 10).&lt;/p&gt;
-
-&lt;p&gt;As principais causas são as doenças que
-cursam com insuficiência placentária (ex.: cardiopatia, nefropatia, pneumopatia maternas, hipertensão, colagenoses, diabetes, tabagismo, cocaína) e, em menor grau, doenças intrínsecas fetais. É o tipo mais frequente de CIUR, sendo responsável por mais de 75% dos casos. Possui um prognóstico melhor que o tipo anterior.&lt;/p&gt;
-
-&lt;h4 id=&quot;tipo-intermediário&quot;&gt;Tipo Intermediário&lt;/h4&gt;
-
-&lt;p&gt;É aquele em que o agente agressor age no 2º trimestre de gravidez, afetando tanto a fase de hiperplasia quanto de hipertrofia. Assim, produz-se um feto com tamanho desproporcionado, mas de modo menos marcante que no tipo I.&lt;/p&gt;
-
-&lt;p&gt;Sua identificação clínica é bastante difícil. As principais causas são o álcool, tabagismo e determinados fármacos. O tipo intermediário  corresponde a 10% de todos os casos.&lt;/p&gt;
-
-&lt;h2 id=&quot;idade-gestacional&quot;&gt;Idade gestacional&lt;/h2&gt;
-
-&lt;h3 id=&quot;método-de-capurro&quot;&gt;Método de Capurro&lt;/h3&gt;
-
-&lt;p&gt;Capurro e colaboradores criaram um método a partir da simplificação do método de Dubowitz, utilizando para isso apenas cinco (Capurro Somático) ou seis características clínicas (Capurro Somatoneurológico) que deveriam ser analisadas idealmente nas &lt;strong&gt;4-6 primeiras horas de vida&lt;/strong&gt; em neonatos a partir de 29 semanas de vida.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/capurro.jpeg&quot; alt=&quot;Capurro&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/capurro2.jpeg&quot; alt=&quot;Capurro neurológico&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;método-de-new-ballard&quot;&gt;Método de New Ballard&lt;/h3&gt;
-
-&lt;p&gt;O Ballard tem boa precisão e apresenta um grau de simplicidade intermediário. O New Ballard é bastante preciso quando aplicado &lt;strong&gt;até 12-20 horas após o nascimento&lt;/strong&gt;, pode ser aplicado em prematuro extremo, requer pouca manipulação e sofre pouca influência por depressão neurológica. Atualmente, é o escore de avaliação de idade gestacional mais utilizado em prematuros e neonatos a termo.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/ballard.jpeg&quot; alt=&quot;Ballard&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/ballard2.jpeg&quot; alt=&quot;Ballard&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/ballard3.jpeg&quot; alt=&quot;Ballard&quot; /&gt;&lt;/p&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Asfixia perinatal</title><link href="http://localhost:4000/neonatologia/asfixia-perinatal.html" rel="alternate" type="text/html" title="Asfixia perinatal" /><published>2020-03-12T00:00:00-03:00</published><updated>2020-03-12T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/asfixia-perinatal</id><content type="html" xml:base="http://localhost:4000/neonatologia/asfixia-perinatal.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quado-clínico&quot; id=&quot;markdown-toc-quado-clínico&quot;&gt;Quado clínico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#respiratório&quot; id=&quot;markdown-toc-respiratório&quot;&gt;Respiratório&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cardiovascular&quot; id=&quot;markdown-toc-cardiovascular&quot;&gt;Cardiovascular&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#renal&quot; id=&quot;markdown-toc-renal&quot;&gt;Renal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#gastrointestinal&quot; id=&quot;markdown-toc-gastrointestinal&quot;&gt;Gastrointestinal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#hematológico&quot; id=&quot;markdown-toc-hematológico&quot;&gt;Hematológico&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#distúrbios-metabólicos-e-hidroeletrolíticos&quot; id=&quot;markdown-toc-distúrbios-metabólicos-e-hidroeletrolíticos&quot;&gt;Distúrbios metabólicos e hidroeletrolíticos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#snc&quot; id=&quot;markdown-toc-snc&quot;&gt;SNC&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#marcadores&quot; id=&quot;markdown-toc-marcadores&quot;&gt;Marcadores&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#marcadores-pré-natais&quot; id=&quot;markdown-toc-marcadores-pré-natais&quot;&gt;Marcadores pré-natais&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#marcadores-intraparto&quot; id=&quot;markdown-toc-marcadores-intraparto&quot;&gt;Marcadores intraparto&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#marcadores-pós-parto&quot; id=&quot;markdown-toc-marcadores-pós-parto&quot;&gt;Marcadores pós-parto&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A asfixia perinatal é uma das principais causas de morbimortalidade e doença neurológica no período neonatal. Caracteriza-se por interrupção na troca gasosa placentária e pulmonar (aporte diminuído de O2, e remoção insuficiente de CO2), causando hipoxemia progressiva, acidose respiratória e  metabólica, e determinando redução ou isquemia aos
-diversos tecidos.&lt;/p&gt;
-
-&lt;p&gt;Ao nascerem, os RN são em geral vigorosos e, quase que imediatamente após o clampeamento do cordão, iniciam &lt;strong&gt;respiração espontânea&lt;/strong&gt;, chorando. Nesse momento, a frequência cardíaca
-estabiliza-se em &lt;strong&gt;120 a 160 bpm&lt;/strong&gt; e a cianose &lt;strong&gt;central inicial desaparece&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Entretanto, alguns RNs apresentam-se deprimidas ao nascer, com &lt;strong&gt;hipotonia&lt;/strong&gt;, &lt;strong&gt;dificuldade para respirar&lt;/strong&gt; e/ou
-&lt;strong&gt;bradicardia&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;p&gt;Afeta aproximadamente 2 a 4 em cada 1.000 nascidos vivos, com incidência maior em pré-termos. Dos RNs afetados, 20% a 50% podem apresentar &lt;strong&gt;encefalopatia hipóxico-isquêmica&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Dos sobreviventes, cerca de 25% evoluem com sequelas neurológicas permanentes, com ou sem retardo mental, distúrbios do aprendizado, crises convulsivas e paralisia cerebral.&lt;/p&gt;
-
-&lt;p&gt;A taxa de mortalidade dos RNs asfixiados que desenvolveram encefalopatia varia de 15% a 25%.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiopatologia&quot;&gt;Fisiopatologia&lt;/h2&gt;
-
-&lt;p&gt;Cerca de 90% dos casos de asfixia são causados por problemas pré-natais e natais e, em apenas 10% dos casos, por problemas pós-natais. Os principais fatores de risco para a asfixia perinatal são:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Fatores pré-natais:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Doença hipertensiva da gestação;&lt;/li&gt;
-      &lt;li&gt;Diabetes;&lt;/li&gt;
-      &lt;li&gt;Cardíaca grave;&lt;/li&gt;
-      &lt;li&gt;Hemoglobinopatias graves;&lt;/li&gt;
-      &lt;li&gt;Descolamento prematuro de placenta;&lt;/li&gt;
-      &lt;li&gt;Implantações anormais da placenta;&lt;/li&gt;
-      &lt;li&gt;Retardo de crescimento intrauterino;&lt;/li&gt;
-      &lt;li&gt;Uso de drogas (narcóticos, barbitúricos e tranquilizantes).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fatores natais:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Apresentações anômalas;&lt;/li&gt;
-      &lt;li&gt;Prolapso e compressão do cordão;&lt;/li&gt;
-      &lt;li&gt;Parto prolongado e uso de fórceps.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fatores pós-natais:&lt;/strong&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Doença pulmonar grave (síndrome de desconforto respiratório do RN, pneumonia, pneumotórax);&lt;/li&gt;
-      &lt;li&gt;Cardiopatias congênitas;&lt;/li&gt;
-      &lt;li&gt;Imaturidade do SNC;&lt;/li&gt;
-      &lt;li&gt;Convulsões;&lt;/li&gt;
-      &lt;li&gt;Choque e sepse.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Os mecanismos fisiopatológicos envolvidos na &lt;strong&gt;lesão hipóxico-isquêmica&lt;/strong&gt; e na &lt;strong&gt;reperfusão cerebral&lt;/strong&gt; são múltiplos e complexos e não estão totalmente esclarecidos. Levam à morte da célula nervosa por necrose ou por apoptose.&lt;/p&gt;
-
-&lt;p&gt;As regiões mais acometidas são o córtex cerebral, o hipocampo, o gânglio basal, o tálamo e a substância branca subcortical e periventricular.&lt;/p&gt;
-
-&lt;h2 id=&quot;quado-clínico&quot;&gt;Quado clínico&lt;/h2&gt;
-
-&lt;p&gt;O quadro clínico do RN com asfixia perinatal depende não só do momento em que a lesão ocorreu, mas também da gravidade e duração do agravo e da maturidade do recém-nascido, tendo como consequência lesões cerebrais e complicações em vários sistemas.&lt;/p&gt;
-
-&lt;p&gt;Quando o feto ou o RN sofre privação de oxigênio, no período inicial, nota-se a presença de movimentos respiratórios rápidos. Se a asfixia persiste, cessam os movimentos respiratórios, a frequência cardíaca começa a cair, o tônus muscular diminui progressivamente e o RN entra
-em um período de apneia (apneia primária).&lt;/p&gt;
-
-&lt;p&gt;A administração de oxigênio suplementar e o estímulo tátil, durante a apneia primária, levam ao reinício da respiração espontânea.&lt;/p&gt;
-
-&lt;p&gt;Se a asfixia persistir, o RN desenvolve movimentos respiratórios profundos, semelhantes a suspiros (&lt;em&gt;gasping&lt;/em&gt;), a frequência cardíaca continua a cair e o paciente torna-se flácido. Os movimentos respiratórios tornam-se cada vez mais
-fracos, até o último suspiro, quando o RN entra em um novo período de apneia, agora apneia secundária. Nesta fase, o RN não responde à estimulação tátil e não reinicia a respiração espontaneamente. A reanimação com ventilação assistida deve ser iniciada imediatamente.&lt;/p&gt;
-
-&lt;p&gt;Existe grande probabilidade da presença de asfixia ao nascimento, quando se observam quatro ou mais das
-seguintes características:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Evidência de estresse fetal;&lt;/li&gt;
-  &lt;li&gt;Depressão do escore de Apgar (&amp;lt; 5 no 5º minuto);&lt;/li&gt;
-  &lt;li&gt;Retardo da estabilização da respiração (&amp;gt; 5 minutos);&lt;/li&gt;
-  &lt;li&gt;Acidose metabólica precoce (pH &amp;lt; 7,05);&lt;/li&gt;
-  &lt;li&gt;Encefalopatia hipóxico-isquêmica&lt;/li&gt;
-  &lt;li&gt;Envolvimento de múltiplos órgãos.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A presença de acrocianose (cianose de extremidades) não é indicativa de hipóxia, podendo ser resultado apenas da exposição ao ar frio. Portanto, nenhuma medida de reanimação é necessária, nem mesmo oxigênio inalatório.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;respiratório&quot;&gt;Respiratório&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Hipertensão pulmonar persistente: ocorre necrose dos músculos papilares da válvula tricúspide, causando regurgitação valvar tricúspide e aumento da pressão do átrio direito e redistribuição do fluxo sanguíneo no organismo e acidose metabólica, aumentando a resistência vascular pulmonar;&lt;/li&gt;
-  &lt;li&gt;Síndrome de aspiração meconial.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;cardiovascular&quot;&gt;Cardiovascular&lt;/h3&gt;
-
-&lt;p&gt;Ocorre alteração na contratilidade miocárdica com redução do débito cardíaco, hipotensão e comprometimento do fluxo cerebral e perfusão de outros órgãos.&lt;/p&gt;
-
-&lt;p&gt;Disfunção miocárdica ocorre em 28% a 40% dos RNs que sofreram asfixia. Outros
-achados são: dilatação cardíaca aguda com regurgitação funcional da válvula tricúspide, isquemia miocárdica e necrose isquêmica dos músculos papilares.&lt;/p&gt;
-
-&lt;h3 id=&quot;renal&quot;&gt;Renal&lt;/h3&gt;
-
-&lt;p&gt;Alteração renal pode ser encontrada em 23%
-a 70% dos casos. Insuficiência renal aguda foi observada em 19% dos RNs asfixiados com idade gestacional acima de 33 semanas. Além disso, podem ser encontradas necrose tubular aguda, necrose corticomedular e secreção inapropriada do hormônio antidiurético.&lt;/p&gt;
-
-&lt;h3 id=&quot;gastrointestinal&quot;&gt;Gastrointestinal&lt;/h3&gt;
-
-&lt;p&gt;Elevação das enzimas hepáticas ocorre em 80% dos RNs asfixiados. Mais raramente se
-encontra lesão hepática irreversível.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Enterocolite necrosante&lt;/strong&gt;, por isquemia das alças intestinais, ocorre, principalmente, em prematuros.&lt;/p&gt;
-
-&lt;h3 id=&quot;hematológico&quot;&gt;Hematológico&lt;/h3&gt;
-
-&lt;p&gt;Distúrbios da coagulação por &lt;strong&gt;plaquetopenia&lt;/strong&gt; ou &lt;strong&gt;coagulação intravascular disseminada&lt;/strong&gt; são relativamente frequentes após um insulto isquêmico.&lt;/p&gt;
-
-&lt;h3 id=&quot;distúrbios-metabólicos-e-hidroeletrolíticos&quot;&gt;Distúrbios metabólicos e hidroeletrolíticos&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Hiperglicemia&lt;/strong&gt; e &lt;strong&gt;hipoglicernia&lt;/strong&gt;, &lt;strong&gt;hipocalcemia&lt;/strong&gt;, &lt;strong&gt;acidose metabólica&lt;/strong&gt;, &lt;strong&gt;hiponatrernia&lt;/strong&gt; e &lt;strong&gt;hipercalemia&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;snc&quot;&gt;SNC&lt;/h3&gt;
-
-&lt;p&gt;A &lt;strong&gt;encefalopatia hipóxico-isquêmica&lt;/strong&gt; é a situação &lt;strong&gt;mais grave&lt;/strong&gt; da asfixia perinatal, pois pode lesar o cérebro em três zonas diferentes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Na matriz germinativa subependimária, que se correlaciona com a presença de hemorragia periventricular, observada no RNPT;&lt;/li&gt;
-  &lt;li&gt;Na substância branca periventricular, que se correlaciona com a presença da leucomalácia periventricular, observada, com muita frequência, nos prematuros e, às vezes, no RNT; c)&lt;/li&gt;
-  &lt;li&gt;Pelo acometimento da substância cortical e subcortical, própria do RNT, e que caracteriza o quadro anatomoclínico da encefalopatia hipóxico-isquêmica.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Classificação de Arniel-Tison e Ellison (1986), que distingue três formas de lesão hipóxico-isquêmica que ocorrem entre a 12º e a 72º horas de vida em:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Forma leve&lt;/strong&gt; - Maior expressividade dos sintomas durante. as primeiras horas após o parto. Caracteriza-se pela presença de &lt;strong&gt;estado de alerta&lt;/strong&gt;, &lt;strong&gt;hipotonia&lt;/strong&gt; de distribuição predominantemente proximal superior e/ ou hiperexcitabilidade (maior resposta dos reflexos musculares profundos, clônus e tremor).
-    &lt;ul&gt;
-      &lt;li&gt;Há aumento da atividade simpática com taquicardia, tendência à &lt;strong&gt;midríase&lt;/strong&gt; e diminuição das secreções bronquiais e salivares, possivelmente  devido ao excesso de liberação de adrenalina.&lt;/li&gt;
-      &lt;li&gt;Normalmente, esse quadro clínico resolve-se de forma espontânea no transcurso dos primeiros dias e não precisa de tratamento específico.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Forma moderada&lt;/strong&gt; - Ocorre até 12 horas após o parto com maior comprometimento cerebral; o RN pode apresentar um grau variável de &lt;strong&gt;letargia&lt;/strong&gt;, &lt;strong&gt;hipoatividade&lt;/strong&gt; e &lt;strong&gt;diminuição dos reflexos&lt;/strong&gt; arcaicos.
-    &lt;ul&gt;
-      &lt;li&gt;Nessa fase são frequentes as manifestações críticas secundárias ao processo anóxico.&lt;/li&gt;
-      &lt;li&gt;Há hiperatividade parassimpática com bradicardia, miose, aumento das secreções bronquiais e salivares e da motilidade gastrointestinal.&lt;/li&gt;
-      &lt;li&gt;A maioria desses pacientes permanece letárgica durante 2 a 3 dias, quando inicia uma recuperação ou tende a deteriorar, levando a um quadro de estupor e coma.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Forma grave&lt;/strong&gt; - O RN entra em estado de coma ou estupor profundo que pode ser acompanhado de sinais de disfunção do tronco cerebral.
-    &lt;ul&gt;
-      &lt;li&gt;O tônus muscular diminui, e a motilidade é pobre.&lt;/li&gt;
-      &lt;li&gt;São frequentes os movimentos de sucção e mastigação intermitentes, e aparecem crises convulsivas tônicas.&lt;/li&gt;
-      &lt;li&gt;Entre 24 e 72 horas observa-se deterioração do nível de consciência, com estupor mais frequente ou coma.&lt;/li&gt;
-      &lt;li&gt;Posteriormente, os sobreviventes melhoram de forma paulatina com persistência de importantes deficiências neurológicas.&lt;/li&gt;
-      &lt;li&gt;Alguns vão a óbito durante o 1º ano de vida.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;marcadores&quot;&gt;Marcadores&lt;/h2&gt;
-
-&lt;p&gt;Os marcadores da asfixia perinatal são utilizados para correlacionar o dano neurológico determinado pelo processo asfíxico. São divididos em marcadores pré-natais, natais e pós-natais.&lt;/p&gt;
-
-&lt;h3 id=&quot;marcadores-pré-natais&quot;&gt;Marcadores pré-natais&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Cardiotocografia:&lt;/strong&gt; as anormalidades da cardiotocografia têm baixa sensibilidade na avaliação da asfixia, pois apresentam elevado percentual de falso-positivo. No entanto, quando a cardiotocografia é normal, apresenta alta especificidade, indicando que o feto não sofreu asfixia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Líquido amniótico mecanizado:&lt;/strong&gt; a presença de mecônio no líq1údo amniótico é um marcador de estresse fetal. Alguns autores mostram que, nesses casos, há aumento concomitante de catecolaminas no sangue fetal.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Alterações do equilíbrio acidobásico fetal:&lt;/strong&gt; a gravidade da acidose metabólica pode refletir a duração ou intensidade do evento asfíxico. A acidemia fetal patológica, definida pela presença de &lt;strong&gt;pH &amp;lt; 7&lt;/strong&gt;, é um marcador sensível para a morbidade e a mortalidade neonatal.&lt;/p&gt;
-
-&lt;h3 id=&quot;marcadores-intraparto&quot;&gt;Marcadores intraparto&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Teste de Apgar:&lt;/strong&gt; o boletim de Apgar constitui um método simples, rápido e preciso no diagnóstico de asfixia, podendo indicar a gravidade, mas não a duração. Um escore baixo de Apgar poderá estar presente em outras situações, como infecções, anomalias congênitas, traumas obstétricos, prematuridade e depressão
-anestésica. A aplicação do escore de Apgar no RNPT extremo tem sido questionada, uma vez que a irritabilidade reflexa, o tônus muscular e o esforço respiratório são menos pronunciados nessas crianças, dificultando, assim, uma resposta precisa. O boletim
-de Apgar, realizado no 1º minuto, é importante para medidas de reanimação, enquanto o do 5º minuto está relacionado com a morbimortalidade do RN.&lt;/p&gt;
-
-&lt;p&gt;Segundo Nelson &amp;amp; Ellenberg (1981), quando um RN apresenta um valor da Apgar de 0-3 no 1º minuto, ocorre mortalidade de 5% a 10%. Essa taxa aumenta para 53%, quando esse valor permanece baixo aos 20
-minutos. Caso esse RN mantenha um Apgar de 0-3 no 5º minuto, a incidência de paralisia cerebral é de 1 %, aumentando para 57% quando persiste baixa nos 20
-minutos subsequentes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Determinação do pH da artéria umbilical:&lt;/strong&gt; a acidemia fetal patológica ocorre quando o pH da artéria umbilical é menor do que 7, sendo uma variável importante de morbidade neonatal, quando associada ao componente metabólico.&lt;/p&gt;
-
-&lt;h3 id=&quot;marcadores-pós-parto&quot;&gt;Marcadores pós-parto&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Marcadores bioquímicos
-    &lt;ul&gt;
-      &lt;li&gt;Creatinofosfoquinase cerebral (CK-BB): é uma enzima produzida pelos astrócitos e neurônios, que se eleva no sangue por ocasião do insulto hipóxico-isquêmico. Uma elevação nas 1ªs horas de vida tem sido correlacionada com pior prognóstico neurológico.&lt;/li&gt;
-      &lt;li&gt;Interleucínas: as interleucinas 1-P e o TNF-a estão aumentados durante o processo hipóxico-isquêmico. A elevação IL-12 está relacionada com pior prognóstico neurológico.&lt;/li&gt;
-      &lt;li&gt;Alteração de outras enzimas: a elevação dos níveis de AST, da DHL e da amônia é observada na presença do dano cerebral.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Monitoração da pressão intracraniana&lt;/li&gt;
-  &lt;li&gt;Medida da velocidade do fluxo sanguíneo cerebral&lt;/li&gt;
-  &lt;li&gt;Diagnóstico por imagem
-    &lt;ul&gt;
-      &lt;li&gt;Ultrassonografia: as alterações observadas são vistas como áreas de aumento da ecogenicidade, principalmente na região periventricular e, dependendo da sua intensidade, refletem edema, infarto isquêmico ou hemorrágico.&lt;/li&gt;
-      &lt;li&gt;Tomografia computadorizada: quando realizado entre o 2º e o 4º dias de vida, após o insulto hipóxico-isquêmico, pode mostrar áreas focais ou difusas de hipodensidade das estruturas da substância branca   e cinzenta do córtex cerebral, refletindo, assim, áreas de infarto isquêmico ou edema. No entanto, a presença de áreas de hiperdensidade sugere infartos hemorrágicos.&lt;/li&gt;
-      &lt;li&gt;Ressonância magnética: pode também ser utilizada na caracterização da presença e extensão do dano cerebral; seu custo, porém, é mais elevado.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Eletroencefalografia&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Os princípios gerais do tratamento são: manutenção da oxigenação, do equilíbrio acidobásico, da temperatura corpórea; correção dos distúrbios  hidroeletrolíticos; manutenção do volume sanguíneo e da homeostase; e tratamento das infecções, além de medidas para evitar ou diminuir o edema cerebral e o tratamento das convulsões.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Assistência ventilatória:&lt;/strong&gt; deve-se fazer uma monitoração adequada dos gases sanguíneos para manter o pH &amp;gt; 7,25; a PaO2, entre 50 e 70 mmHg e umá PaCO2, entre 35 e 45 nunHg, prevenindo-se, dessa forma, a hipo ou hiperóxia e a hipo ou hipercapnia.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Monitoração não invasiva da pressão arterial:&lt;/strong&gt; deve-se manter a pressão arterial média em tomo de 50mmHg,
-para o RNT, e entre 35 e 45 mmHg para o RNPT, evitando, desse modo, a hipotensão sistêmica, que pode causar isquemia ou a hipertensão e levar a complicações hemorrágicas.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Controle hidroeletrolítico e metabólico:&lt;/strong&gt; a administração
-de líquidos deve ser cuidadosa para evitar a hiper-hidratação, com consequente piora do edema cerebral, ou hipo-hidratação, com aumento da viscosidade. Deve-se manter o RN em restrição hídrica, na presença da síndrome inapropriada do hormônio antidiurético e necrose tubular aguda.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Monitoração e tratamento dos distúrbios metabólicos/eletrolíticos:&lt;/strong&gt; deve-se manter a glicemia em tomo de 50 a 80mg/ dL. Tanto a hipo como a hiperglicemia são fatores agravantes para o dano cerebral.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Temperatura corpórea:&lt;/strong&gt; atualmente, tem sido discutida a hipotermia corpórea ou seletiva com o intúito de diminuir a perda energética, a liberação de glutamato e a proteção dos neurônios apoptóticos.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Corticoides e manitol:&lt;/strong&gt; não há evidências científicas de efeito benéfico na asfixia neonatal.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Drogas vasoativas:&lt;/strong&gt; Comprometimento miocárdico - Dopamina, 5 a 10 mcg/kg/min e/ou dobutamina, 5 a 10 mcg/kg/ min.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Tratamento das crises convulsivas:&lt;/strong&gt; com fenobarbital, fentoína ou benzodiazepínicos.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;IMIP 4ª edição.&lt;/li&gt;
-  &lt;li&gt;Medcurso&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Aleitamento materno</title><link href="http://localhost:4000/neonatologia/aleitamento-materno.html" rel="alternate" type="text/html" title="Aleitamento materno" /><published>2020-03-09T00:00:00-03:00</published><updated>2020-03-09T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/aleitamento-materno</id><content type="html" xml:base="http://localhost:4000/neonatologia/aleitamento-materno.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#10-passos-para-o-sucesso-do-aleitamento-materno&quot; id=&quot;markdown-toc-10-passos-para-o-sucesso-do-aleitamento-materno&quot;&gt;10 passos para o sucesso do aleitamento materno&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#vantagens-do-leite-materno&quot; id=&quot;markdown-toc-vantagens-do-leite-materno&quot;&gt;Vantagens do leite materno&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#para-a-mulher&quot; id=&quot;markdown-toc-para-a-mulher&quot;&gt;Para a mulher&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#para-o-bebê&quot; id=&quot;markdown-toc-para-o-bebê&quot;&gt;Para o bebê&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#anatomia-das-mamas&quot; id=&quot;markdown-toc-anatomia-das-mamas&quot;&gt;Anatomia das mamas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiologia&quot; id=&quot;markdown-toc-fisiologia&quot;&gt;Fisiologia&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#volume-produzido&quot; id=&quot;markdown-toc-volume-produzido&quot;&gt;Volume produzido&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#composição&quot; id=&quot;markdown-toc-composição&quot;&gt;Composição&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#colostro&quot; id=&quot;markdown-toc-colostro&quot;&gt;Colostro&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#orientação-para-a-amamentação&quot; id=&quot;markdown-toc-orientação-para-a-amamentação&quot;&gt;Orientação para a amamentação&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#patologias-da-amamentação&quot; id=&quot;markdown-toc-patologias-da-amamentação&quot;&gt;Patologias da amamentação&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#ingurgitamento-mamário&quot; id=&quot;markdown-toc-ingurgitamento-mamário&quot;&gt;Ingurgitamento mamário&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#dor-mamilar-e-fissura&quot; id=&quot;markdown-toc-dor-mamilar-e-fissura&quot;&gt;Dor mamilar e fissura&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#obstrução-de-ductos-mastite-e-abscesso&quot; id=&quot;markdown-toc-obstrução-de-ductos-mastite-e-abscesso&quot;&gt;Obstrução de ductos, mastite e abscesso&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#contra-indicações-ao-aleitamento&quot; id=&quot;markdown-toc-contra-indicações-ao-aleitamento&quot;&gt;Contra-indicações ao aleitamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A recomendação é que o aleitamento materno exclusivo seja feito até os 6 meses e para a mantido por 2 anos ou mais, com introdução de alimentos complementares. Entretanto, essa realidade ainda é distante no Brasil.&lt;/p&gt;
-
-&lt;p&gt;Mesmo em países ricos, as crianças aleitadas no peito estão menos sujeitas a gastroenterites e a infecções respiratórias, inclusive a internações em razão dessas afecções.&lt;/p&gt;
-
-&lt;p&gt;A obesidade é cada vez mais associada a crianças aleitadas artificialmente, e há graves implicações desse distúrbio no
-futuro dessas crianças, pois várias  doenças do adulto têm suas raízes na infância.&lt;/p&gt;
-
-&lt;p&gt;O ideal é que a amamentação já seja iniciada na primeira hora após o nascimento.&lt;/p&gt;
-
-&lt;h2 id=&quot;10-passos-para-o-sucesso-do-aleitamento-materno&quot;&gt;10 passos para o sucesso do aleitamento materno&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Ter uma política escrita sobre aleitamento que deveria ser rotineiramente transmitida a toda a equipe de cuidados de saúde.&lt;/li&gt;
-  &lt;li&gt;Treinar toda a equipe de cuidados de saúde, capacitando-a para implementar essa política.&lt;/li&gt;
-  &lt;li&gt;Informar todas as gestantes sobre as vantagens e o manejo do aleitamento.&lt;/li&gt;
-  &lt;li&gt;Ajudar as mães a iniciarem o aleitamento na 1ª hora após o nascimento (colocar os bebês em contato pele a pele
-com suas mães &lt;strong&gt;imediatamente após o parto durante pelo menos 1 hora&lt;/strong&gt; e encorajar as mães a reconhecerem quando seus bebês estão prontos para mamar, oferecendo ajuda, se necessário).&lt;/li&gt;
-  &lt;li&gt;Mostrar às mães como amamentar e como manter a lactação, mesmo se vierem a ser separadas de seus filhos.&lt;/li&gt;
-  &lt;li&gt;Não dar a recém-nascidos nenhum outro alimento ou bebida além do leite matemo, a não ser que tal procedimento seja indicado pelo médico.&lt;/li&gt;
-  &lt;li&gt;Praticar o alojamento conjunto, permitir que as mães e os bebês permaneçam juntos, 24 horas por dia.&lt;/li&gt;
-  &lt;li&gt;Encorajar o aleitamento sob livre demanda.&lt;/li&gt;
-  &lt;li&gt;Não dar bicos artificiais ou chupetas a crianças amamentadas ao seio.&lt;/li&gt;
-  &lt;li&gt;Encorajar o estabelecimento de grupo de apoio ao aleitamento, para onde as mães deverão ser encaminhadas por ocasião da alta do hospital ou ambulatório.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;vantagens-do-leite-materno&quot;&gt;Vantagens do leite materno&lt;/h2&gt;
-
-&lt;p&gt;O leite humano é ideal para suprir as necessidades dos recém-nascidos e lactentes da espécie humana.&lt;/p&gt;
-
-&lt;h3 id=&quot;para-a-mulher&quot;&gt;Para a mulher&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Maior vínculo mãe/filho;&lt;/li&gt;
-  &lt;li&gt;Traz economia para a família; é prático, fácil;&lt;/li&gt;
-  &lt;li&gt;Diminui as chances de contaminação secundária;&lt;/li&gt;
-  &lt;li&gt;Pode diminuir a chance de câncer de mama: e ovário;&lt;/li&gt;
-  &lt;li&gt;É método de espaçamento entre gestações, se o lactente tiver menos de 6 meses, se o aleitamento for exclusivo e a mulher se encontrar em amenorreia;&lt;/li&gt;
-  &lt;li&gt;Diminui o tempo de sangramento no pós-parto, reduzindo o risco de anemias;&lt;/li&gt;
-  &lt;li&gt;Ajuda ao retomo do volume uterino mais precocemente.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;para-o-bebê&quot;&gt;Para o bebê&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Protege o RN e o lactente contra várias doenças e infecções, principalmente as diarreias, otites e outras infecções respiratórias;&lt;/li&gt;
-  &lt;li&gt;Permite um ótimo desenvolvimento neuropsicomotor, inclusive com diferenças estatisticamente significantes com relação ao coeficiente de inteligência das crianças amamentadas com leite artificial;&lt;/li&gt;
-  &lt;li&gt;Favorece o crescimento adequado, pois é o alimento ideal sob os pontos de vista nutricional e digestivo, incluindo a biodisponibilidade de vários elementos nutricionais;&lt;/li&gt;
-  &lt;li&gt;Facilita a eliminação de mecônio, diminuindo o risco de icterícia;&lt;/li&gt;
-  &lt;li&gt;É fator de proteção dos problemas fonoaudiológicos, ortopédicos e ortodônticos do aparelho motor oral;&lt;/li&gt;
-  &lt;li&gt;Reduz o risco de alergias;&lt;/li&gt;
-  &lt;li&gt;Tem efeito a longo prazo em algumas doenças, tais como: hipertensão arterial, aumento de lipídios plasmáticos, sobrepeso e obesidade, diabetes melito tipos 1 e 2, câncer na infância, doença inflamatória intestinal e osteoporose.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;anatomia-das-mamas&quot;&gt;Anatomia das mamas&lt;/h2&gt;
-
-&lt;p&gt;As glândulas mamárias contêm dois tipos de tecido: glandular e de suporte (gordura, ligamentos, além de veias e artérias). É um órgão derivado do tecido epidérmico e considerado anexo cutâneo. O tamanho das mamas está ligado à quantidade de gordura e não tem relação com sua capacidade funcional.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;complexo areolopapilar&lt;/strong&gt; consiste no segmento localizado na porção central da mama onde a pele se toma mais espessa, enrugada e pigmentada. A esse complexo
-correspondem duas estruturas: aréola e papila. A &lt;strong&gt;aréola&lt;/strong&gt; contém glândulas sebáceas, sudoríparas e areolares. Essas
-glândulas são chamadas de &lt;strong&gt;glândulas de Montgomery&lt;/strong&gt;, cujos orifícios - os  tubérculos de Montgomery são pequenas elevações na superfície areolar que aumentam de volume durante a gestação. A secreção dessas glândulas serve para lubrificar e proteger a pele areolar.&lt;/p&gt;
-
-&lt;p&gt;No centro da aréola se encontra a &lt;strong&gt;papila&lt;/strong&gt; ou &lt;strong&gt;mamilo&lt;/strong&gt;, cuja pele é semelhante à da aréola, não apresentando, porém, pelos ou glândulas sudoríparas, apenas glândulas sebáceas. O seu vértice possui 15 a 20 orifícios correspondentes à desembocadura dos duetos lactíferos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/mamas.jpeg&quot; alt=&quot;Mamas&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiologia&quot;&gt;Fisiologia&lt;/h2&gt;
-
-&lt;p&gt;Quando a criança suga, estimula as terminações nervosas existentes na aréola e mamilo, que enviam mensagens para a liberação da &lt;strong&gt;prolactina&lt;/strong&gt; pela &lt;strong&gt;hipófise anterior&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A corrente sanguínea carrega a prolactina, que, na mama, age nas células secretoras, estimulando-as a produzir leite. O pico máximo da prolactina sanguínea se dá, aproximadamente, 20 a 30 minutos após a mamada, demonstrando
-que a mama está então produzindo leite para a mamada seguinte.&lt;/p&gt;
-
-&lt;p&gt;É muito importante compreender o efeito da
-sucção na produção láctea. &lt;strong&gt;Quanto mais a criança suga, mais prolactina é secretada e maior é a produção láctea&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Se a mulher tem gêmeos, por exemplo, os dois sugam, e as mamas serão capazes de produzir o excedente de leite necessário.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Outro efeito da &lt;strong&gt;prolactina&lt;/strong&gt; é a &lt;strong&gt;supressão das funções ovarianas&lt;/strong&gt;, havendo, assim, a extensão do período de
-amenorreia e do período anovulatório. A chance de gravidez é de cerca de 1,8% apenas, se a nutriz seguir os 3 critérios da lactação:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Lactentes com menos de 6 meses;&lt;/li&gt;
-  &lt;li&gt;Amenorreia (lactantes sem sangramento vaginal após 56 dias pós-parto);&lt;/li&gt;
-  &lt;li&gt;Aleitamento matemo exclusivo, inclusive com mamadas noturnas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Quando a criança completar 6 meses de vida ou a menstruação reaparecer, ou ainda se for acrescido qualquer outro alimento à dieta do lactente, a mulher deverá utilizar um método complementar de planejamento familiar, mantendo-se a lactação.&lt;/p&gt;
-
-&lt;p&gt;Os impulsos nervosos sensoriais, que começam quando a criança suga, fazem com que a parte posterior da pituitária promova a descarga da &lt;strong&gt;ocitocina&lt;/strong&gt; na corrente sanguínea. Esse hormônio faz com que as células mioepiteliais se contraiam e ejetem o leite já produzido nos alvéolos na direção do mamilo. A  ocitocina é produzida mais rapidamente do que a prolactina e, portanto, faz com que o leite já produzido flua para a mamada atual.&lt;/p&gt;
-
-&lt;p&gt;A criança não consegue retirar o leite eficazmente apenas pela sucção, é necessária a existência do reflexo
-da ocitocina, forçando o leite na direção do mamilo. Esse reflexo pode ser afetado por cansaço excessivo, estresse
-ou dor, no caso de fissuras.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;ocitocina&lt;/strong&gt; também age na &lt;strong&gt;musculatura uterina&lt;/strong&gt;, auxiliando no controle do sangramento pós-parto na volta ao tamanho normal do útero e na própria parturição da
-placenta. Essas contrações podem ser, em algumas mulheres, dolorosas, especialmente em multíparas.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Sucção frequente e eficaz aumenta a produção láctea;&lt;/li&gt;
-  &lt;li&gt;Sucção precoce, inclusive na sala de parto, estimula o aumento da prolactina;&lt;/li&gt;
-  &lt;li&gt;Dor, fadiga excessiva, ansiedade e estresse podem interferir no reflexo da descida do leite (reflexo da ejeção ou da ocitocina).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;No RN, o reflexo da sucção começa quando o mamilo toca a junção dos palatos duro e mole. Para que esse toque ocorra é necessário que a maior parte possível da aréola esteja na boca da criança.&lt;/p&gt;
-
-&lt;p&gt;A sucção compreende duas etapas:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Tração do tecido mamário para formar um bico:&lt;/strong&gt; A criança pega não só o mamilo, mas a maior parte possível da aréola e tecido subjacente onde se encontram os seios lactíferos. Essa tração forma um bico comprido em que o mamilo constitui apenas 1/3.
-    &lt;ul&gt;
-      &lt;li&gt;Se a criança abocanha só o mamilo, não se forma o “bico longo” para tocar o palato, e o leite não fluir  eficazmente porque os seios lactíferos não estarão sendo pressionados pela língua contra o palato.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pressão com a língua do tecido tracionado contra o palato:&lt;/strong&gt; a língua se encontra por baixo deste “bico” e realiza, da ponta para a base, movimentos em onda (do tipo peristáltico),  pressionando o leite para fora dos seios lactíferos até a boca do bebê, na altura da garganta, para que haja a deglutição.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;volume-produzido&quot;&gt;Volume produzido&lt;/h3&gt;
-
-&lt;p&gt;Durante os últimos meses de gestação há secreção de pequenas quantidades de colostro. Após o nascimento, quando a criança começa a sugar, a produção láctea aumenta rapidamente.&lt;/p&gt;
-
-&lt;p&gt;Em condições normais, aproximadamente 1OO mL de colostro são produzidos no segundo
-dia, havendo um aumento progressivo até atingir 500 mL na segunda semana. A produção láctea atinge sua &lt;strong&gt;normalização entre 10 e 14 dias&lt;/strong&gt; após o nascimento.&lt;/p&gt;
-
-&lt;p&gt;Durante os meses seguintes haverá o consumo de, em média, 700-800 mL/24h. Entretanto, há variações, e uma criança pode consumir 600 mL ou menos, e outra,
-1.000 mL ou mais em 24 horas, e ambas continuarem nos mesmos canal e nível de crescimento.&lt;/p&gt;
-
-&lt;h3 id=&quot;composição&quot;&gt;Composição&lt;/h3&gt;
-
-&lt;p&gt;O leite humano tem quantidade de proteína total muito inferior ao leite de vaca, mas uma grande proporção de proteína solúvel, &lt;strong&gt;lactoalbumina&lt;/strong&gt; (diferentemente da caseína que responde por 80% do leite de vaca), e cerca de
-35% de &lt;strong&gt;caseína&lt;/strong&gt;, formando um coágulo macio e facilmente digerido.&lt;/p&gt;
-
-&lt;p&gt;Metade da energia fornecida pelo leite humano é vem da gordura. A enzima &lt;strong&gt;lipase&lt;/strong&gt; ajuda na sua absorção pelo bebê (quando em contato com os sais biliares).&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;lactose&lt;/strong&gt; é o principal carboidrato do leite humano, embora haja pequena quantidade de lactose, frutose e outros oligossacarídeos. O leite humano é o que apresenta a maior concentração de lactose quando comparado com o leite de cabra e de vaca. A lactose facilita a absorção de cálcio e ferro, além de promover a colonização intestinal com &lt;em&gt;Lactobacillus bifidus&lt;/em&gt;, que inibem o crescimento de bactérias patogênicas, fungos e parasitas.&lt;/p&gt;
-
-&lt;p&gt;O leite humano contém menos cálcio do que o leite de vaca, mas é eficientemente absorvido devido à alta relação cálcio/fósforo (2:1), com as necessidades da criança sendo perfeitamente atendidas.&lt;/p&gt;
-
-&lt;p&gt;Fornecer leite de vaca pode promover intolerância às suas proteínas e ocasionar: diarreias, cólicas, erupção cutânea, reações alérgicas como eczema e asma.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Nenhum leite possui amido. A amilase pancreática não é secretada antes dos 3 meses de idade e existe em níveis mínimos antes dos 6 meses. Daí não ser apropriado oferecer dietas com amido a lactentes jovens.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/leite1.jpeg&quot; alt=&quot;Leite&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;No leite de vaca há falta de cistina e taurina, sendo essa última importante para o crescÍmento cerebral. Há ainda excesso de alguns aminoácidos, o que pode ser nocivo para o bebê.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Existem outras proteínas cuja função primordial não é a de nutrir, como a &lt;strong&gt;lisozima&lt;/strong&gt; (que tem papel bactericida),
-o &lt;strong&gt;fator &lt;em&gt;bifidus&lt;/em&gt;&lt;/strong&gt;, os &lt;strong&gt;fatores de  crescimento&lt;/strong&gt; e a &lt;strong&gt;lactoferrina&lt;/strong&gt; (que se liga ao ferro e impede o crescimento de bactérias que necessitam de ferro para crescer).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/leite2.jpeg&quot; alt=&quot;Leite&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;colostro&quot;&gt;Colostro&lt;/h4&gt;
-
-&lt;p&gt;O colostro, leite produzido por aproximadamente 7 dias após o parto, difere do leite matemo maduro por
-apresentar:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Maior quantidade de proteína, pois contém mais anticorpos e outras proteínas anti-infecciosas.&lt;/li&gt;
-  &lt;li&gt;Muito maior quantidade de IgA secretória, lactoferrina e leucócitos, importantes para a defesa contra infecções.&lt;/li&gt;
-  &lt;li&gt;Maior quantidade de fatores de crescimento que são mediadores de funções biológicas, modulando o crescimento e o desenvolvimento de órgãos e sistemas, principalmente os gastrointestinais e respiratórios, e aumentando a eficiência da utilização dos nutrientes, principalmente após doença (proteínas de baixo valor molecular).&lt;/li&gt;
-  &lt;li&gt;Menos gordura e lactose.&lt;/li&gt;
-  &lt;li&gt;Maior quantidade de vitamina A e K.&lt;/li&gt;
-  &lt;li&gt;Mais sódio e zinco.&lt;/li&gt;
-  &lt;li&gt;Efeito laxante, que favorece a eliminação do mecônio, prevenindo, assim, a icterícia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;orientação-para-a-amamentação&quot;&gt;Orientação para a amamentação&lt;/h2&gt;
-
-&lt;p&gt;Preparando as mamas para o aleitamento. Durante a gestação:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Usar sutiã com orifício central para exposição de aréola e mamilo durante a gestação;
-    &lt;ul&gt;
-      &lt;li&gt;Necessário para manter a mama sempre elevada, evitando estases nas porções inferiores da mama.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Banhos de sol nas mamas, por 15 minutos, até 10 horas da manhã ou após as 16 horas;&lt;/li&gt;
-  &lt;li&gt;Evitar o uso de sabões, cremes ou pomadas no mamilo;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Há alguns sinais que podem ajudar a observar e, posteriormente, avaliar a mamada:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;A mãe deve tentar relaxar e escolher a posição em que se sinta mais confortável.&lt;/li&gt;
-  &lt;li&gt;A criança deve estar voltada para o corpo da mãe com a sua barriga encostada à da mãe.&lt;/li&gt;
-  &lt;li&gt;A cabeça, o pescoço e o tronco do bebê devem estar apoiados e alinhados para que não seja necessário o bebê virar a cabeça para pegar a mama.&lt;/li&gt;
-  &lt;li&gt;A mãe deve apoiar, também, o tronco e as nádegas ao amamentar uma criança pequena.&lt;/li&gt;
-  &lt;li&gt;O queixo da criança deve tocar a mama.&lt;/li&gt;
-  &lt;li&gt;A boca bem aberta (os músculos orbiculares dos lábios relaxados) para abocanhar a maior parte possível da aréola. Deve-se orientar a nutriz para a utilização do reflexo dos pontos cardeais.&lt;/li&gt;
-  &lt;li&gt;Mais aréola pode ser vista na parte superior da mama.&lt;/li&gt;
-  &lt;li&gt;Os lábios devem estar voltados para fora, evertidos, principalmente o lábio inferior.&lt;/li&gt;
-  &lt;li&gt;Não deverá haver queixa materna de desconforto ou dor.&lt;/li&gt;
-  &lt;li&gt;A sucção do bebê é ritmada e regular com pausas para a deglutição.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;As causas mais comuns de problemas precoces da amamentação são pega e posição incorretas. Se a criança está confusa em relação à maneira de sugar (confusão mamilo/mamadeira/chupeta), pode haver o desencadeamento de dor, fissuras, diminuição da produção e ejeção láctea, choro, recusa, diminuição da autoconfiança
-materna, ingurgitamento mamário, entre outros problemas.&lt;/p&gt;
-
-&lt;p&gt;Para terminar a mamada, o ideal é que a criança solte o peito espontaneamente.
-Quando este fato não ocorre, a mãe coloca a ponta do dedo mínimo na boca da criança. Dessa forma, o vácuo se desfaz e a criança solta o peito, sem machucá-lo.&lt;/p&gt;
-
-&lt;h2 id=&quot;patologias-da-amamentação&quot;&gt;Patologias da amamentação&lt;/h2&gt;
-
-&lt;h3 id=&quot;ingurgitamento-mamário&quot;&gt;Ingurgitamento mamário&lt;/h3&gt;
-
-&lt;p&gt;Deve-se diferenciar a &lt;strong&gt;apojadura&lt;/strong&gt; do &lt;strong&gt;ingurgitamento mamário&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A &lt;strong&gt;apojadura&lt;/strong&gt; não impede a amamentação, é transitória, aparece geralmente entre o 2º e o 4º dias pós-parto e não se acompanha de febre elevada e desconforto da nutriz.&lt;/p&gt;
-
-&lt;p&gt;O &lt;strong&gt;ingurgitamento&lt;/strong&gt; se caracteriza
-por surgir entre o 2º e o 10º dia após o parto, com dor generalizada nas mamas, febre acima de 38°C e desconforto, muitas vezes acentuado.&lt;/p&gt;
-
-&lt;p&gt;Os sintomas são decorrentes do excesso e da estagnação do leite matemo produzido, desajustado em relação às necessidades do RN, como também dependem do incremento do fluxo de sangue no tecido de sustentação e de edema secundário à obstrução da drenagem linfática por aumento da  vascularização.&lt;/p&gt;
-
-&lt;p&gt;Possíveis causas do ingurgitamento mamário:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Início tardio da amamentação;&lt;/li&gt;
-  &lt;li&gt;Má pega;&lt;/li&gt;
-  &lt;li&gt;Restrição na duração ou frequência das mamadas;&lt;/li&gt;
-  &lt;li&gt;Excedente lácteo aumentado e ordenha infrequente.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O tratamento se baseia na &lt;strong&gt;expressão do excedente&lt;/strong&gt; lácteo ou &lt;strong&gt;aumento da frequência e da duração&lt;/strong&gt; das mamadas, se o bebê conseguir mamar.&lt;/p&gt;
-
-&lt;p&gt;Caso não haja a retirada do leite, podem desenvolver-se mastite e abscesso ou até mesmo ocorrer a diminuição ou a  interrupção da produção de leite.&lt;/p&gt;
-
-&lt;h3 id=&quot;dor-mamilar-e-fissura&quot;&gt;Dor mamilar e fissura&lt;/h3&gt;
-
-&lt;p&gt;A causa mais comum de mamilos dolorosos é a má pega. Mamilos dolorosos são causas comuns de falha no aleitamento matemo, pois, devido ao estímulo doloroso,
-a mãe amamentará por menos tempo e com menos frequência.&lt;/p&gt;
-
-&lt;h3 id=&quot;obstrução-de-ductos-mastite-e-abscesso&quot;&gt;Obstrução de ductos, mastite e abscesso&lt;/h3&gt;
-
-&lt;p&gt;A &lt;strong&gt;obstrução&lt;/strong&gt; de duetos lactíferos se caracteriza pelo aparecimento súbito
-de uma área endurecida, dolorosa e vermelha na mama. A mulher geralmente não tem febre e se sente bem. Deve ser tratada imediatamente, utilizando-se
-as técnicas do tratamento do ingurgitamento.&lt;/p&gt;
-
-&lt;p&gt;Desse modo, a obstrução se resolve usualmente em 24 a 48 horas. Caso isso não ocorra, haverá extravasamento de secreção láctea para os tecidos vizinhos, causando inflamação local (mastite não infecciosa) e posterior proliferação de bactérias patogênicas (mastite infecciosa).&lt;/p&gt;
-
-&lt;p&gt;No caso das &lt;strong&gt;mastites infecciosas&lt;/strong&gt; (suspeita-se desse tipo de mastite, quando houver sintomas gerais mais
-graves, fissuras ou não ocorrer melhora após 24 horas da instalação do tratamento semelhante ao do ingurgitamento) deve-se iniciar o uso de antibióticos capazes de combater &lt;em&gt;Staphylococcus aureus&lt;/em&gt;, a bactéria mais comumente encontrada. Em todos os casos, os antibióticos devem ser mantidos por no mínimo &lt;strong&gt;10 dias&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A droga inicial de predileção é a &lt;strong&gt;cefalexina&lt;/strong&gt;, 500mg de 6/6 horas por via oral.&lt;/li&gt;
-  &lt;li&gt;Pode-se ainda fazer uso de &lt;strong&gt;amoxacilina&lt;/strong&gt;, 500 mg, associada ao &lt;strong&gt;ácido clavulânico&lt;/strong&gt;, 125 mg, por via oral de 8/8 horas.&lt;/li&gt;
-  &lt;li&gt;Em pacientes alérgicos a essas drogas, está indicado o uso de
-&lt;strong&gt;eritromicina&lt;/strong&gt;, 500 mg, por via oral de 6/6 horas.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Caso haja suspeita de formação de &lt;strong&gt;abscesso&lt;/strong&gt; deve-se proceder ao diagnóstico o mais rapidamente possível; por meio de punção ou até mesmo com o auxílio da ultrassonografia para imediata drenagem, evitando-se necroses teciduais externas. Deve-se ainda orientar a interrupção das mamadas na mama afetada até que o abscesso tenha sido drenado e a antibioticoterapia iniciada.&lt;/p&gt;
-
-&lt;p&gt;Como diagnóstico diferencial do abscesso devem ser considerados a &lt;strong&gt;galactocele&lt;/strong&gt;, o &lt;strong&gt;fibroadenoma&lt;/strong&gt; e o &lt;strong&gt;carcionoma da mama&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;contra-indicações-ao-aleitamento&quot;&gt;Contra-indicações ao aleitamento&lt;/h2&gt;
-
-&lt;p&gt;São raras as situações que contra-indicam a amamentação. Dentre elas: câncer de mama que foram tratadas ou estão em tratamento, mulheres HIV+ (só podem dar o próprio leite se este for pasteurizado), mulheres com distúrbios da consciência ou doença mental grave.&lt;/p&gt;
-
-&lt;p&gt;As contra-indicações neonatais incluem alterações da consciência da criança, baixo peso com imaturidade para sucção ou deglutição (dar leite por sonda orogástrica) e fenda palatina que impossibilite o ato de sugar.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;IMIP 4ª edição&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Reanimação neonatal</title><link href="http://localhost:4000/neonatologia/reanima%C3%A7%C3%A3o-neonatal.html" rel="alternate" type="text/html" title="Reanimação neonatal" /><published>2020-03-09T00:00:00-03:00</published><updated>2020-03-09T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/reanima%C3%A7%C3%A3o-neonatal</id><content type="html" xml:base="http://localhost:4000/neonatologia/reanima%C3%A7%C3%A3o-neonatal.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#fisiologia-da-transição&quot; id=&quot;markdown-toc-fisiologia-da-transição&quot;&gt;Fisiologia da transição&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#respiração&quot; id=&quot;markdown-toc-respiração&quot;&gt;Respiração&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#circulação&quot; id=&quot;markdown-toc-circulação&quot;&gt;Circulação&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#asfixia-intraparto&quot; id=&quot;markdown-toc-asfixia-intraparto&quot;&gt;Asfixia intraparto&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#assistência-ao-rn&quot; id=&quot;markdown-toc-assistência-ao-rn&quot;&gt;Assistência ao RN&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#la-meconizado&quot; id=&quot;markdown-toc-la-meconizado&quot;&gt;LA meconizado&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#reavaliação-do-rn&quot; id=&quot;markdown-toc-reavaliação-do-rn&quot;&gt;Reavaliação do RN&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#escore-de-apgar&quot; id=&quot;markdown-toc-escore-de-apgar&quot;&gt;Escore de Apgar&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#oxigênio-inalatório&quot; id=&quot;markdown-toc-oxigênio-inalatório&quot;&gt;Oxigênio inalatório&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#vpp&quot; id=&quot;markdown-toc-vpp&quot;&gt;VPP&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#intubação-traqueal&quot; id=&quot;markdown-toc-intubação-traqueal&quot;&gt;Intubação traqueal&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#massagem-cardíaca-externa&quot; id=&quot;markdown-toc-massagem-cardíaca-externa&quot;&gt;Massagem cardíaca externa&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#medicações&quot; id=&quot;markdown-toc-medicações&quot;&gt;Medicações&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#deslocado&quot; id=&quot;markdown-toc-deslocado&quot;&gt;Deslocado&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Estima-se que 5% a 10% dos RNs necessitam de alguma intervenção ao nascimento, sendo
-que a asfixia perinatal é responsável por cerca de 23% de mortes anuais de recém-nascidos em todo o mundo, segundo dados da OMS.&lt;/p&gt;
-
-&lt;h2 id=&quot;fisiologia-da-transição&quot;&gt;Fisiologia da transição&lt;/h2&gt;
-
-&lt;h3 id=&quot;respiração&quot;&gt;Respiração&lt;/h3&gt;
-
-&lt;p&gt;Na vida intrauterina, os pulmões produzem fluidos continuamente (transudato e surfactante), e o aporte de oxigênio é fornecido pela placenta. O feto apresenta movimentos respiratórios de forma intermitente, levando o fluido pulmonar para o líquido amniótico, e esses movimentos são importantes para o controle neuromuscular da respiração no RN.&lt;/p&gt;
-
-&lt;p&gt;Com o nascimento, a compressão
-do tórax através do canal de parto e o recuo da parede torácica após o desprendimento são mecanismos envolvidos na saída dos fluidos pulmonares. Os primeiros esforços respiratórios promovem a entrada de ar nos alvéolos,
-com o aumento da pressão alveolar de oxigênio.&lt;/p&gt;
-
-&lt;p&gt;O processo normal de transição pode levar até 10 minutos para que a saturação de oxigênio alcance valores iguais ou superiores a 90%.&lt;/p&gt;
-
-&lt;h3 id=&quot;circulação&quot;&gt;Circulação&lt;/h3&gt;
-
-&lt;p&gt;No período fetal, apenas 5% a 10% do débito cardíaco circulam através dos pulmões. A resistência arteriolar pulmonar é elevada e, ao contrário, há baixa resistência ao fluxo sanguíneo na circulação sistêmica.&lt;/p&gt;
-
-&lt;p&gt;O sangue ejetado do ventrículo direito (VD) flui preferencialmente para a aorta através do ducto arterioso. O forame oval
-patente, devido a um gradiente de  pressão, favorece o fluxo sanguíneo do átrio direito para o esquerdo.&lt;/p&gt;
-
-&lt;p&gt;Com o início da respiração, a expansão dos pulmões provoca vasodilatação e diminuição da resistência vascular pulmonar. O retorno venoso dos pulmões aumenta com a elevação da pressão atrial esquerda e o fechamento do forame oval.&lt;/p&gt;
-
-&lt;p&gt;Com a eliminação do fluxo sanguíneo
-placentário, a resistência sistêmica eleva-se, tomando-se mais alta do que a pulmonar, invertendo-se a direção do
-fluxo sanguíneo no dueto arterioso. Esse estado de circulação transitória com fluxo sanguíneo pulmonar e fechamento funcional do forame oval dura cerca de 24 horas, quando ocorre o fechamento do ducto arterioso.&lt;/p&gt;
-
-&lt;h2 id=&quot;asfixia-intraparto&quot;&gt;Asfixia intraparto&lt;/h2&gt;
-
-&lt;p&gt;Situações como prematuridade, asfixia intrauterina, medicamentos administrados à mãe, malformações e dificuldades no parto, podem comprometer o início de uma ventilação espontânea adequada, levando à hipoxemia progressiva no RN.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/causas-comuns-reanimacao.jpeg&quot; alt=&quot;Causas comuns&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A asfixia do feto ou do RN é um processo progressivo e potencialmente reversível, dependendo da intensidade e do tempo de evolução. Durante o parto ocorre hipoxemia transitória devido à contração uterina, que é bem tolerada pelo feto saudável. Asfixia grave, entretanto, pode
-ser letal em poucos minutos.&lt;/p&gt;
-
-&lt;p&gt;No início do processo de asfixia (apneia primária), o retomo à respiração pode ocorrer espontaneamente ou após estímulos mínimos. A progressão do quadro, entretanto, provoca depressão do centro respiratório (apneia secundária) e diminuição da oxigenação no cérebro e
-coração.&lt;/p&gt;
-
-&lt;p&gt;O miocárdio passa, desta forma, a utilizar suas reservas de glicogênio, e o consumo dessas reservas, a baixa de P02 e a acidose que se instala comprometem a
-função miocárdica, com diminuição do fluxo sanguíneo para os órgãos nobres e consequente isquemia cerebral.&lt;/p&gt;
-
-&lt;p&gt;A asfixia intraparto, se não for efetivamente revertida, evolui para óbito ou lesões neurológicas permanentes.&lt;/p&gt;
-
-&lt;p&gt;Conhecer a história clínica materna:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Assistência pré-natal;&lt;/li&gt;
-  &lt;li&gt;Antecedentes obstétricos;&lt;/li&gt;
-  &lt;li&gt;Presença de infecção;&lt;/li&gt;
-  &lt;li&gt;Trabalho de parto prematuro;&lt;/li&gt;
-  &lt;li&gt;Doença hipertensiva;&lt;/li&gt;
-  &lt;li&gt;Diabetes;&lt;/li&gt;
-  &lt;li&gt;Isoimunização;&lt;/li&gt;
-  &lt;li&gt;Retardo de crescimento intrauterino;&lt;/li&gt;
-  &lt;li&gt;Tempo de ruptura das membranas;&lt;/li&gt;
-  &lt;li&gt;Contato com doenças infectocontagiosas;&lt;/li&gt;
-  &lt;li&gt;Uso de drogas;&lt;/li&gt;
-  &lt;li&gt;Hemorragias do 3º trimestre;&lt;/li&gt;
-  &lt;li&gt;Gestação múltipla;&lt;/li&gt;
-  &lt;li&gt;Pós-maturidade;&lt;/li&gt;
-  &lt;li&gt;Oligo-hidrâmnio ou polidrâmnio;&lt;/li&gt;
-  &lt;li&gt;Entre outros.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/material-parto.jpeg&quot; alt=&quot;Material parto&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;assistência-ao-rn&quot;&gt;Assistência ao RN&lt;/h2&gt;
-
-&lt;p&gt;Os passos iniciais da assistência ao RN em
-sala de parto consistem em manter a  temperatura, estabelecer uma via aérea pérvia e estimular o início da respiração.&lt;/p&gt;
-
-&lt;p&gt;Imediatamente após o nascimento, orienta-se uma avaliação rápida referente à presença de &lt;strong&gt;líquido meconial&lt;/strong&gt;,
-&lt;strong&gt;idade gestacional&lt;/strong&gt;, &lt;strong&gt;respiração&lt;/strong&gt; e &lt;strong&gt;tônus&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Após o clampeamento do cordão pelo obstetra devese recepcionar a criança em campos estéreis (e previamente aquecidos). Se for um RN a termo (RNT), com líquido amniótico claro, respiração regular (ou choro forte) e bom tônus, deve-se prover calor, as manter vias aéreas pérvias, secar a superfície corporal e  posicioná-lo sobre o peito da mãe para permanecer aquecido e completar a sua transição.&lt;/p&gt;
-
-&lt;p&gt;Se a criança for prematura ou apresentar respiração irregular ou hipotônica ao nascimento, devem ser adotados os seguintes passos:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Colocar o RN sob fonte de calor radiante;&lt;/li&gt;
-  &lt;li&gt;Posicionar em decúbito dorsal com leve extensão da cabeça;&lt;/li&gt;
-  &lt;li&gt;Proceder à aspiração suave do excesso de muco ou sangue na boca e narinas;&lt;/li&gt;
-  &lt;li&gt;Secar, estimular e reposicionar;&lt;/li&gt;
-  &lt;li&gt;Reavaliar após 30 segundos para decidir sobre a indicação de oxigênio.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Alguns aspectos devem ser considerados:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Não existe evidência que confirme o valor da aspiração rotineira da secreção clara;&lt;/li&gt;
-  &lt;li&gt;Deve ser evitada sucção vigorosa da faringe posterior (pode produzir bradicardia importante);&lt;/li&gt;
-  &lt;li&gt;A pressão de aspiração não deve ultrapassar 10 cm de água;&lt;/li&gt;
-  &lt;li&gt;Prevenir a perda de calor evitando, entretanto, a hipertermia, que tem sido demonstrada como causa de depressão respiratória;&lt;/li&gt;
-  &lt;li&gt;RN com &lt;strong&gt;IG de 28 semanas&lt;/strong&gt;, recomenda-se colocá-lo em &lt;strong&gt;saco de polietileno&lt;/strong&gt; para manutenção da sua temperatura. A reanimação deve ser feita com o prematuro dentro desse saco, retirando-o apenas após admissão na UTI neonatal.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/flux-reanimação.jpeg&quot; alt=&quot;Material parto&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;la-meconizado&quot;&gt;LA meconizado&lt;/h2&gt;
-
-&lt;p&gt;Na presença de mecônio em líquido amniótico, a conduta de &lt;strong&gt;aspiração das vias aéreas&lt;/strong&gt; do RN, &lt;strong&gt;logo após o desprendimento do polo cefálico&lt;/strong&gt;, &lt;strong&gt;não interfere na morbidade ou prevenção&lt;/strong&gt; da síndrome de aspiração de mecônio, não sendo mais recomendada.&lt;/p&gt;
-
-&lt;p&gt;O RN deve ser entregue ao pediatra, que deverá proceder às manobras de aspiração (evitando o estímulo da secagem). A indicação de intubação para aspiração da traqueia vai depender das condições clínicas do RN.&lt;/p&gt;
-
-&lt;p&gt;A aspiração da traquéia sob visualização direta é indicada para RN com líquido amniótico meconial fluido ou espesso, logo após o nascimento, e que apresentar respiração irregular e/ou tônus muscular flácido e/ou frequência cardíaca inferior
-a 100 bpm.&lt;/p&gt;
-
-&lt;h2 id=&quot;reavaliação-do-rn&quot;&gt;Reavaliação do RN&lt;/h2&gt;
-
-&lt;p&gt;30 segundos após os passos iniciais procede-se à avaliação do RN, utilizando-se os parâmetros de respiração,frequência cardíaca e coloração da pele.&lt;/p&gt;
-
-&lt;p&gt;Para os RNs vigorosos, com movimentos respiratórios regulares, frequência cardíaca acima de 100 bpm, corados ou com cianose apenas periférica, deve-se promover o seu contato precoce com a mãe e fazer a identificação e aferição do peso.&lt;/p&gt;
-
-&lt;p&gt;Os RNs acima de 2kg, clinicamente estáveis, devem ser transportados, aquecidos com cobertas, juntamente
-com a mãe para o alojamento conjunto.&lt;/p&gt;
-
-&lt;h3 id=&quot;escore-de-apgar&quot;&gt;Escore de Apgar&lt;/h3&gt;
-
-&lt;p&gt;É útil para descrever o estado da criança ao nascimento e sua consequente adaptação extrauterina. Deve ser obtido entre 1 e 5 minutos após o nascimento ou por um período mais longo, &lt;strong&gt;até obter-se um valor maior do que 7&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Caso a reanimação seja necessária, deve ser iniciada antes da avaliação desse escore. O escore de Apgar, portanto, &lt;strong&gt;não deve ser utilizado para direcionar ou indicar a reanimação neonatal&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/apgar.jpeg&quot; alt=&quot;Apgar&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;oxigênio-inalatório&quot;&gt;Oxigênio inalatório&lt;/h3&gt;
-
-&lt;p&gt;Após os passos iniciais, a presença de cianose central (lábios, língua e região central do tronco) em RN com respiração espontânea regular e FC &amp;gt; 100 bpm indica o uso de oxigênio inalado, administrado por cateter de tubo látex.&lt;/p&gt;
-
-&lt;p&gt;Com a reversão da cianose e mantendo-se o mesmo padrão de FC é respiração, é feita a
-retirada gradual do fornecimento de O2
-Tem sido demonstrado que o excesso de oxigênio tecidual deve ser evitado pelo risco de lesão oxidativa.&lt;/p&gt;
-
-&lt;p&gt;A utilização de oxigênio a 100% tem sido questionada em alguns esh1dos animais e humanos, em virtude dos efeitos danosos dos radicais livres do oxigênio em
-diversos órgãos e tecidos de RNs asfixiados.&lt;/p&gt;
-
-&lt;h3 id=&quot;vpp&quot;&gt;VPP&lt;/h3&gt;
-
-&lt;p&gt;Após os passos iniciais (realizados no máximo em 30 segundos), na presença de apneia (ou &lt;em&gt;gasping&lt;/em&gt;) e/ou FC &amp;lt; 100 bpm e/ ou cianose central que não responde ao oxigênio inalado, deve-se fazer ventilação com pressão positiva (VPP).&lt;/p&gt;
-
-&lt;p&gt;A VPP pode ser administrada por
-meio da máscara ou da cânula traqueal. A maioria dos RNs pode ser ventilada em sala de parto de forma adequada com o uso de máscara, ficando a intubação para
-situações especiais.&lt;/p&gt;
-
-&lt;p&gt;Devem ser observados:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Uso de máscara adequada (acolchoada, tamanho adequado para prematuro e de termo);&lt;/li&gt;
-  &lt;li&gt;Ajuste entre a face e a máscara (deve cobrir mento, boca e narinas, não permitindo “escape de ar”);&lt;/li&gt;
-  &lt;li&gt;Expansão torácica;&lt;/li&gt;
-  &lt;li&gt;Frequência: 40 a 60 movimentos por minuto;&lt;/li&gt;
-  &lt;li&gt;Pressão:
-    &lt;ul&gt;
-      &lt;li&gt;Primeira respiração (30 a 40 cmH2O);&lt;/li&gt;
-      &lt;li&gt;Respirações subsequentes (15 a 20 cmH20);&lt;/li&gt;
-      &lt;li&gt;Doença pulmonar (20 a 40 cmH2O).&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Recomenda-se após ventilação prolongada introduzir sonda orogástrica para evitar regurgitação do conteúdo gástrico e reduzir a distensão.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A recomendação atual é de que, uma vez indicada a VPP, deve-se iniciar com oxigênio a 100%; todavia, a utilização prolongada e desnecessária de altas concentrações de oxigênio deve ser evitada após reversão do quadro
-de asfixia. Caso a reanimação seja feita em ar ambiente (21%), uma fonte de oxigênio deve estar disponível para ser iniciada se não houver melhora nos primeiros 90 segundos de VPP a 21%.&lt;/p&gt;
-
-&lt;h3 id=&quot;intubação-traqueal&quot;&gt;Intubação traqueal&lt;/h3&gt;
-
-&lt;p&gt;A intubação traqueal deve ser considerada nos casos de VPP com balão e máscara ineficaz ou quando a VPP se prolonga por mais de 5 minutos. É indicada nos casos de
-RN com necessidade de VPP e suspeita de hérnia diafragmática para administração de medicação e no caso de o RN nascer deprimido com líquido amniótico meconial.&lt;/p&gt;
-
-&lt;h3 id=&quot;massagem-cardíaca-externa&quot;&gt;Massagem cardíaca externa&lt;/h3&gt;
-
-&lt;p&gt;Tem o objetivo de comprimir o coração contra a coluna vertebral, aumentando a pressão intratorácica e permitindo que o sangue seja bombeado para às artérias.&lt;/p&gt;
-
-&lt;p&gt;É indicada quando, após 30 segundos de VPP e oxigênio a 100%, a frequência cardíaca mantém-se &amp;lt; 60 bpm, que caracteriza fase avançada do processo asfíxico, em que já houve comprometimento da função miocárdica. &lt;strong&gt;A massagem cardíaca deve sempre ser acompanhada de VPP&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Compressão ao nível do &lt;strong&gt;terço inferior do esterno&lt;/strong&gt;, logo abaixo de uma linha imaginária ligando os dois mamilos. O apêndice xifoide não deve ser comprimido.
-Essa compressão pode ser feita com os dois dedos polegares e as mãos envolvendo o tórax (preferencialmente) ou com as pontas dos dedos médio e indicador
-de uma das mãos.&lt;/p&gt;
-
-&lt;p&gt;Deve-se tentar obter uma &lt;strong&gt;frequência próxima à do RN normal&lt;/strong&gt;. Concomitantemente com a ventilação, deve ser realizada na proporção de &lt;strong&gt;três compressões para uma ventilação&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;medicações&quot;&gt;Medicações&lt;/h3&gt;
-
-&lt;p&gt;Apesar de boa ventilação e perfusão, VPP e massagem cardíaca, alguns RNs mantêm FC &amp;lt; 60 bpm.&lt;/p&gt;
-
-&lt;p&gt;Essas crianças se beneficiam do uso de &lt;strong&gt;adrenalina&lt;/strong&gt; para estimular o coração e, nos casos de perda aguda de sangue, devem ser beneficiadas com a reposição de volume.&lt;/p&gt;
-
-&lt;p&gt;São, portanto, medidas de exceção, uma vez que a maioria dos RN que nascem deprimidos recupera-se sem necessitar do uso de medicamentos.&lt;/p&gt;
-
-&lt;p&gt;As vias de administração desses medicamentos são: veia umbilical, veias periféricas ou através de cânula endotraqueal.&lt;/p&gt;
-
-&lt;p&gt;A via endotraqueal, apesar de mais acessível, apresenta absorção variável e pode acarretar baixa concentração persistente. É preferível o &lt;strong&gt;acesso venoso umbilical&lt;/strong&gt;, especialmente naqueles RNs que não estão respondendo à medicação administrada por via traqueal.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;IMIP 4ª edição&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;deslocado&quot;&gt;Deslocado&lt;/h2&gt;
-
-&lt;p&gt;Conjuntivite química: o nitrato de prata 1% pode causar uma conjuntivite química em até 20% dos
-casos, geralmente, com sinais e sintomas
-iniciados ainda nas 12 primeiras horas de
-vida e resolução completa em 48 horas. Portanto, TODA CONJUNTIVITE QUE SE
-INICIA APÓS 48 HORAS, deve ser avaliada para a possibilidade de infecção. Deve-se colher swab conjuntival com coloração por
-Gram e Giemsa bem como para cultura.&lt;/p&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry></feed>
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry></feed>

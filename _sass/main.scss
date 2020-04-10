@@ -262,6 +262,9 @@ a {
   color: blue;
   :visited {color: purple;}
 }
+ol li {
+  margin-block-start: 1em;
+}
 ::selection {
   background: yellow; /* WebKit/Blink Browsers */
   color: black;

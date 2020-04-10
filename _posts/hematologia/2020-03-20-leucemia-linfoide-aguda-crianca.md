@@ -1,5 +1,5 @@
 ---
-title: Leucemia lonfoide aguda na criança
+title: Leucemia linfoide aguda na criança
 categories: hematologia
 revisado: 08 Mar 2020
 status: 'false'
