@@ -25,9 +25,6 @@ body {
   -webkit-font-smoothing: antialiased !important; }
 
 @font-face {
-  font-family: "Computer Modern";
-  src: url("/cmunrm.ttf"); }
-@font-face {
   font-family: "LS";
   src: url("/assets/fonts/liberation_serif/lsregular.ttf"); }
 .alert {
@@ -380,6 +377,14 @@ tr:hover {
 
 #hematologia {
   background-color: #af0000; }
+
+article h2 {
+  font-size: 1.8em;
+  border-bottom: double gray; }
+article h3 {
+  font-size: 1.4em; }
+article h4 {
+  font-size: 1.2em; }
 
 pre {
   padding: 8px 12px;

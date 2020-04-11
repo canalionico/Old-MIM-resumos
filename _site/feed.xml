@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-04-10T19:51:22-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Neutropenia febril</title><link href="http://localhost:4000/infectologia/neutropenia-febril.html" rel="alternate" type="text/html" title="Neutropenia febril" /><published>2020-04-06T00:00:00-03:00</published><updated>2020-04-06T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/neutropenia-febril</id><content type="html" xml:base="http://localhost:4000/infectologia/neutropenia-febril.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-04-11T17:34:14-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Neutropenia febril</title><link href="http://localhost:4000/infectologia/neutropenia-febril.html" rel="alternate" type="text/html" title="Neutropenia febril" /><published>2020-04-06T00:00:00-03:00</published><updated>2020-04-06T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/neutropenia-febril</id><content type="html" xml:base="http://localhost:4000/infectologia/neutropenia-febril.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
@@ -12,10 +12,19 @@
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#baixo-risco-1&quot; id=&quot;markdown-toc-baixo-risco-1&quot;&gt;Baixo risco&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#alto-risco-1&quot; id=&quot;markdown-toc-alto-risco-1&quot;&gt;Alto risco&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#baixo-risco-1&quot; id=&quot;markdown-toc-baixo-risco-1&quot;&gt;Baixo risco&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#modificação-da-terapia-inicial&quot; id=&quot;markdown-toc-modificação-da-terapia-inicial&quot;&gt;Modificação da terapia inicial&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#terapia-antifúngica&quot; id=&quot;markdown-toc-terapia-antifúngica&quot;&gt;Terapia antifúngica&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#candidíase&quot; id=&quot;markdown-toc-candidíase&quot;&gt;Candidíase&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#fatores-estimuladores-de-colônia&quot; id=&quot;markdown-toc-fatores-estimuladores-de-colônia&quot;&gt;Fatores estimuladores de colônia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#transfusão-de-neutrófilos&quot; id=&quot;markdown-toc-transfusão-de-neutrófilos&quot;&gt;Transfusão de neutrófilos&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#seguimento&quot; id=&quot;markdown-toc-seguimento&quot;&gt;Seguimento&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#prognóstico&quot; id=&quot;markdown-toc-prognóstico&quot;&gt;Prognóstico&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#citações&quot; id=&quot;markdown-toc-citações&quot;&gt;Citações&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -179,21 +188,214 @@ Outros patógenos entéricos se história com  patível com exposição podem se
 
 &lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/mascc-score.jpeg&quot; alt=&quot;Score de risco&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;baixo-risco-1&quot;&gt;Baixo risco&lt;/h3&gt;
-
-&lt;p&gt;As opções de antibióticos para terapia oral na ausência de fatores de risco para patógenos resistentes incluem combinação de ciprofloxacina e amoxicilina-clavulanato, monoterapia com moxifloxacina ou antibióticos intravenosos como ceftriaxona e amicacina uma vez ao dia.&lt;/p&gt;
-
 &lt;h3 id=&quot;alto-risco-1&quot;&gt;Alto risco&lt;/h3&gt;
+
+&lt;p&gt;Pacientes de alto risco requerem &lt;strong&gt;internação para antibioticoterapia parenteral&lt;/strong&gt;:&lt;sup id=&quot;fnref:usp:12&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Monoterapia com &lt;strong&gt;betalactâmico antipseudomonas&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Cefepime 2 g IV 8/8 horas;&lt;/li&gt;
+      &lt;li&gt;Piperacilina -tazobactam 4,5 g IV 8/8 horas;&lt;/li&gt;
+      &lt;li&gt;Imipenem-cilastina 500 mg IV 6/6 horas;&lt;/li&gt;
+      &lt;li&gt;Meropenem 1 g IV 8/8 horas.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Vancomicina&lt;/strong&gt; não é recomendada no manejo inicial. Indicações específicas são:
+    &lt;ul&gt;
+      &lt;li&gt;Instabilidade hemodinâmica;&lt;/li&gt;
+      &lt;li&gt;Suspeita de infecção relacionada a cateter;&lt;/li&gt;
+      &lt;li&gt;Infecção de pele e partes moles;&lt;/li&gt;
+      &lt;li&gt;Pneumonia.
+        &lt;ul&gt;
+          &lt;li&gt;Obs.: considerar em pacientes com mucosite cultura prévia positiva para germe sensível somente a vancomicina ou em profilaxia com quinolonas.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Modificações no esquema inicial são feitas se ocorrer: instabilidade hemodinâmica, suspeita ou documentação de microrganismo multidroga-resistente, epidemiologia local, ajuste conforme sinais, sintomas ou provas complementares que localizam o foco.&lt;/p&gt;
+
+&lt;p&gt;Terapia antifúngica não é recomendada no manejo inicial. Deve ser considerada nas seguintes condições:&lt;sup id=&quot;fnref:usp:13&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Instabilidade hemodinâmica após doses iniciais da terapia empírica adequada;&lt;/li&gt;
+  &lt;li&gt;Persistência de febre após 4-7 dias de terapia empírica antibacteriana e duração da neutropenia esperada para além de 7 dias;&lt;/li&gt;
+  &lt;li&gt;TC de tórax ou de seios da face sugestiva de infecção fúngica;&lt;/li&gt;
+  &lt;li&gt;Outros indicadores sugestivos de infecção fúngica:
+    &lt;ul&gt;
+      &lt;li&gt;Cultura positiva para fungo em qualquer sítio;&lt;/li&gt;
+      &lt;li&gt;Biomarcadores positivos (galactomanana ou 1,3-BDG).&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Os principais momentos para o gerenciamento do paciente neutropênico de alto risco com febre e infecção são o dia 0, quando o paciente é avaliado, as culturas são desenhadas e a antibioticoterapia é iniciada, e os dias 3 ou 4, quando os resultados retornam do laboratório e o paciente é reavaliado.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/atbs.jpeg&quot; alt=&quot;Antibioticoterapia&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Alguns critérios indicam a necessidade de incluir
-a vancomicina no esquema empírico inicial: instabilidade hemodinâmica, suspeita de infecção associada a cateter, pele e partes moles , colonização por germe sens ível somente a vancomicina, entre outros.&lt;sup id=&quot;fnref:usp:12&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;h3 id=&quot;baixo-risco-1&quot;&gt;Baixo risco&lt;/h3&gt;
 
-&lt;p&gt;Considera-se a associação de terapia antifúngica
-se persistência de febre após 4-7 dias em pacientes com expectativa de neutropenía &amp;gt; 7 dias, cuja reavaliação não tenha identificado a causa.&lt;sup id=&quot;fnref:usp:13&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;A pacientes de baixo risco, podem ser assegurados tratamento inicial oral ou endovenoso, em regime ambulatorial ou em internação:&lt;sup id=&quot;fnref:usp:14&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Terapia empírica por via oral:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ciprofloxacino&lt;/strong&gt; 750 mg 12/ 12 horas + &lt;strong&gt;amoxicilina-clavulanato&lt;/strong&gt; 500/125 mg 8/8 horas;&lt;/li&gt;
+  &lt;li&gt;Esquemas alternativos, embora menos estudados:
+    &lt;ul&gt;
+      &lt;li&gt;Monoterapia com fluorquinolonas (ciprofloxacino ou levofloxaci no);&lt;/li&gt;
+      &lt;li&gt;Ciprofloxacino + clindamicina.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Pacientes em profilaxia com fluorquinolonas não devem receber esquema oral empírico com essas drogas. prescrição empírica de antifüngicos não é recomendada.&lt;/p&gt;
+
+&lt;p&gt;A persistência de febre ou sinais e sintomas sugestivos de piora indica internação hospitalar independente da terapia inicial.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/neutropenia-febril/fluxo-usp.jpeg&quot; alt=&quot;Fluxograma atendimento&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;modificação-da-terapia-inicial&quot;&gt;Modificação da terapia inicial&lt;/h3&gt;
+
+&lt;p&gt;Considera-se a alteração do esquema inicial em pacientes de alto risco para infecção por microrganismos resistentes, especialmente em condição clínica instável, ou se hemoculturas com crescimento bacteriano com suspeita de resistência. Os principais fatores de risco incluem infecção ou colonização prévias e tratamento hospitalar com elevadas taxas de endemicidade para MDR. Os microrganismos MDR e as opções de antimicrobiano mais amplamente utilizadas são:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Staphylococcus aureus methicilin-resistant&lt;/em&gt; (MRSA): considerar adição precoce de vancomicina, linezolida ou daptomicina;&lt;/li&gt;
+  &lt;li&gt;Enterococcus resistente a vancomicina (VRE): considerar adição precoce de linezolida ou daptomicina;&lt;/li&gt;
+  &lt;li&gt;Gram-negativos produtores de &lt;em&gt;extended-spectrum beta-lactamase&lt;/em&gt; (ESBL): considerar utilização precoce de carbapenêmico.&lt;/li&gt;
+  &lt;li&gt;Kleibsiella pneumoniae carbapenemase (KPC): considerar utilização precoce de polimixina/colistina.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Terapia empírica antifúngica em casos de alto risco é considerada se febre persistente após 4-7 dias de antibiótico de amplo espectro e ausência de identificação de fonte do quadro febril após adequada investigação ou suspeita de infecção fúngica (achados de imagem ou biomarcadores sugestivos).&lt;/p&gt;
+
+&lt;p&gt;Pacientes de baixo risco que iniciaram antibióticos EV ou VO no ambiente hospitalar podem ter seu esquema simplificado se estabilidade clínica:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Troca de EV para VO no paciente estável com adequada condição de absorção gastrointestinal;&lt;/li&gt;
+  &lt;li&gt;Pacientes internados de baixo risco podem ser transicionados para tratamento domiciliar IV ou VO se seguimento diário assegurado;&lt;/li&gt;
+  &lt;li&gt;A readmissão hospitalar é recomendada a qualquer paciente ambulatorial que persista com febre por mais de 48 horas e o manejo deve ser realizado como grupo de alto risco.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;terapia-antifúngica&quot;&gt;Terapia antifúngica&lt;/h3&gt;
+
+&lt;p&gt;As recomendações da IDSA para terapia antifúngica empírica em pacientes com câncer e neutropenia febril são:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Alto risco:&lt;/strong&gt; considerar terapia empírica e avaliação diagnóstica para infecção invasiva se persistência de febre por mais de 4-7 dias de antimicrobianos de amplo espectro em pacientes cuja expectativa de neutropenia seja maior que 7 dias.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Esquemas possíveis:
+    &lt;ul&gt;
+      &lt;li&gt;Voriconazol 6 mg/kg IV 12/12 h por 24 h, seguido de 4 mg/kg IV 12/12 h;&lt;/li&gt;
+      &lt;li&gt;Anfotericina B lipossomal 3-5 mg/kg/dia;&lt;/li&gt;
+      &lt;li&gt;Equinocandinas:
+        &lt;ul&gt;
+          &lt;li&gt;Micafungina 100-150 mg IV 24/24 h;&lt;/li&gt;
+          &lt;li&gt;Caspofungina 70 mg IV por 24 h, seguido de 50 mg/dia.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Esquemas alternativos com triazóis:
+    &lt;ul&gt;
+      &lt;li&gt;Posaconazol 200 mg VO 6/6 h até estabilização, seguido por 400 mg 12/12 h;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Itraconazol.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Tratamento preemptivo é aceitável como alternativa à terapia empírica em pacientes de alto risco. Considerar terapia antifúngica se qualquer um dos possíveis indicadores abaixo de infecção invasiva estiver presente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Persistência ou recorrência de febre após 4-7 dias de anbiótico de amplo espectro mesmo se estabilidade clínica.&lt;/li&gt;
+  &lt;li&gt;TC de tórax ou de seios da face sugestiva de infecção fúngica;&lt;/li&gt;
+  &lt;li&gt;Marcadores séricos positivos (1,3-BDG ou galactomanana);&lt;/li&gt;
+  &lt;li&gt;Isolamento fúngico em qualquer sítio (espécies de &lt;em&gt;Candida&lt;/em&gt; ou &lt;em&gt;Aspergillus&lt;/em&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Baixo risco:&lt;/strong&gt; uso rotineiro de terapia empírica antifúngica não é recomendado devido à baixa probabilidade de infecção invasiva.&lt;/p&gt;
+
+&lt;h4 id=&quot;candidíase&quot;&gt;Candidíase&lt;/h4&gt;
+
+&lt;p&gt;Se for verificada infecção por candidíase invasiva, está recomendado considerar a remoção de cateteres de maneira individualizada, exame oftalmológico dentro da primeira semana após recuperação neutrocítica e tratamento por pelo menos 14 dias após primeira hemocultura negativa, resolução dos sinais e sintomas e da neutropenia.&lt;/p&gt;
+
+&lt;p&gt;Esquemas recomendados:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Terapia inicial com equinocandína:
+    &lt;ul&gt;
+      &lt;li&gt;Caspofungina 70 mg IV por 24 h, seguido de 50 mg/dia;&lt;/li&gt;
+      &lt;li&gt;Micafungina 100 mg IV 24/24 h;&lt;/li&gt;
+      &lt;li&gt;Anidulafungina 200 mg IV por 24 h, seguido de 100 mg/dia;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Esquema alternativo com anfotericina B lipossomal 3-5 mg/kg/dia.&lt;/li&gt;
+  &lt;li&gt;Em pacientes menos críticos, sem exposição recente azólicos:
+    &lt;ul&gt;
+      &lt;li&gt;Fluconazol 800 mg (12 mg/kg) VO ou IV em dose de ataque, seguido de 400 mg (6 mg/kg) VO ou IV 1 x/dia;
+        &lt;ul&gt;
+          &lt;li&gt;O fluconazol VO possui 90% da biodisponibilidade do EV&lt;/li&gt;
+          &lt;li&gt;Pode ser utilizado como opção de &lt;em&gt;stepdown&lt;/em&gt; em neutropenia persistente em pacientes clinicamente estáveis e com hemoculturas negativas.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Voriconazol 400 mg (6 mg/kg) 12/12 h por 2 dias, seguido de 200-300 mg (3-4 mg/kg) 12/12 h.
+        &lt;ul&gt;
+          &lt;li&gt;Recomendado quando é necessária cobertura adicional contra leveduras.&lt;/li&gt;
+          &lt;li&gt;Reduzir dose em pacientes com disfunção hepática.Pode ser utilizado como opção de &lt;em&gt;stepdown&lt;/em&gt; em neutropenia persistente em pacientes clinicamente estáveis e com hemoculturas negativas.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fatores-estimuladores-de-colônia&quot;&gt;Fatores estimuladores de colônia&lt;/h3&gt;
+
+&lt;p&gt;O consenso da IDSA não recomenda o uso rotineiro de fatores estimuladores de colônia em pacientes com neutropenia febril. Já as recomendações da &lt;em&gt;American Society of Clinical Oncology&lt;/em&gt; de 2015 incluem:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Considerar em pacientes de alto risco para complicações associadas à infecção ou que apresentam fatores preditores de desfechos desfavoráveis, como:
+    &lt;ul&gt;
+      &lt;li&gt;Expectativa de neutropenia profunda (&amp;lt; 100 células/mm&lt;sup&gt;3&lt;/sup&gt;) e prolongada(&amp;gt; 10 dias);&lt;/li&gt;
+      &lt;li&gt;Maiores que 65 anos;&lt;/li&gt;
+      &lt;li&gt;Doença primária não controlada;&lt;/li&gt;
+      &lt;li&gt;Pneumonia;&lt;/li&gt;
+      &lt;li&gt;Disfunção orgânica múltipla;&lt;/li&gt;
+      &lt;li&gt;Infecção fúngica invasiva;&lt;/li&gt;
+      &lt;li&gt;Paciente hospitalizado no advento da febre;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Evitar em pacientes em tratamento quimioterápico e radioterápico concomitantes, especialmente envolvendo o mediastino.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;O benefício da utilização de fatores estimuladores de colônias é controverso. Evidências apontam para possível redução na duração de internação, no tempo necessário para suspensão dos antibióticos e no tempo de recuperação neutrocítica, porém sem impacto na mortalidade.&lt;sup id=&quot;fnref:usp:15&quot;&gt;&lt;a href=&quot;#fn:usp&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;transfusão-de-neutrófilos&quot;&gt;Transfusão de neutrófilos&lt;/h3&gt;
+
+&lt;p&gt;A limitada meia-vida dos neutrófilos, ausência de consenso a respeito do benefício e potenciais eventos adversos são exemplos de limitações para a utilização rotineira desta abordagem.&lt;/p&gt;
+
+&lt;h2 id=&quot;seguimento&quot;&gt;Seguimento&lt;/h2&gt;
+
+&lt;p&gt;Em pacientes com infecção documentada clinicamente e microbiologicamente , orienta-se:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Duração baseada na infecção específica diagnosticada;&lt;/li&gt;
+  &lt;li&gt;10-14 dias de antibioticoterapia é recomendada para o tratamento da maioria das bacteremias, infecção de partes moles e pneumonias;&lt;/li&gt;
+  &lt;li&gt;Considerar redução do espectro da cobertura após defervescência e transição por via oral na ausência de eventos adversos gastrointestinais;&lt;/li&gt;
+  &lt;li&gt;Antibioticoterapia adequada deve ser continuada ao menos até contagem absoluta de neutrófilos ≥ 500 células/mm&lt;sup&gt;3&lt;/sup&gt; ou o tempo necessário para melhora clínica e ausência de infecção garantidas.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nos casos em que a febre é inexplicada, continuar o esquema até concreta recuperação medular, ou seja, defervescência ≥ 2 dias e neutrófilos ≥ 500 células/mm&lt;sup&gt;3&lt;/sup&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;prognóstico&quot;&gt;Prognóstico&lt;/h2&gt;
+
+&lt;p&gt;Relatos apontam que a mortalidade relacionada à infecção em pacientes com tumores sólidos é próxima de 2%. Para neoplasias hematológicas, ao redor de 5%.&lt;/p&gt;
+
+&lt;p&gt;A administração atrasada de terapia antimicrobiana adequada aumenta consideravelmente o risco de óbito. A IDSA recomenda que o intervalo máximo entre a admissão e o início da antibioticoterapia empírica seja de 31 minutos.&lt;/p&gt;
+
+&lt;p&gt;Uma coorte retrospectiva de mais de 400 pacientes apontou uma mortalidade de quase 50% em neutropenia febril associada a sepse ou choque séptico. Os fatores associados a pior prognóstico foram idade avançada, necessidade de vasopressores, comorbidades agudas não infecciosas e disfunção hepática, neurológica ou respiratória.&lt;/p&gt;
+
+&lt;p&gt;O MASCC está associado a desfechos desfavoráveis. Em pacientes com pontuação &amp;lt; 21, a taxa de óbito associada à infecção é de 12,5% e 0% naqueles ≥ 21. Dois terços dos pacientes com &amp;gt; 15 pontos evoluem a óbito em até 30 dias.&lt;/p&gt;
 
 &lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
 
@@ -214,7 +416,7 @@ se persistência de febre após 4-7 dias em pacientes com expectativa de neutrop
       &lt;p&gt;Bellesso Marcelo, Costa Silvia Figueiredo, Chamone Dalton Alencar Fischer, Llacer Pedro Enrique Dorlhiac. &lt;strong&gt;Triagem para o tratamento ambulatorial da neutropenia febril&lt;/strong&gt;. Rev. Bras. Hematol. Hemoter. [Internet]. 2010 [cited 2020 Apr 08];32(5):402-408. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;amp;pid=S1516-84842010000500014&amp;amp;lng=en. https://doi.org/10.1590/S1516-84842010000500014. &lt;a href=&quot;#fnref:bellesso&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:usp&quot;&gt;
-      &lt;p&gt;&lt;strong&gt;Medicina de emergência: abordagem prática&lt;/strong&gt;. professor titular e coordenador Iríneu Tadeu Velasco; editor chefe Rodrigo Antonio Brandão Neto; editores Heraldo Possolo de Souza, et al. 13ª edição. Barueri [SP]: Manole, 2019. &lt;a href=&quot;#fnref:usp&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;9&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;10&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;11&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;12&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;13&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:13&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;14&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;strong&gt;Medicina de emergência: abordagem prática&lt;/strong&gt;. professor titular e coordenador Iríneu Tadeu Velasco; editor chefe Rodrigo Antonio Brandão Neto; editores Heraldo Possolo de Souza, et al. 13ª edição. Barueri [SP]: Manole, 2019. &lt;a href=&quot;#fnref:usp&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;7&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;8&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;9&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;10&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;11&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:11&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;12&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:12&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;13&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:13&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;14&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:14&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;15&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:usp:15&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;16&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:mandell&quot;&gt;
       &lt;p&gt;&lt;strong&gt;Mandell, Douglas, and Bennett’s principles and practice of infectious diseases&lt;/strong&gt;. Edited by John E. Bennett, Raphael Dolin, Martin J. Blaser. 8º edition, 2015. &lt;a href=&quot;#fnref:mandell&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:mandell:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;6&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;

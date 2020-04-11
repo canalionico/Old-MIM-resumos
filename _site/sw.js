@@ -1034,6 +1034,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/neutropenia-febril/cisne.jpeg'
       
+        '/assets/infectologia/neutropenia-febril/fluxo-usp.jpeg'
+      
         '/assets/infectologia/neutropenia-febril/fluxo.jpeg'
       
         '/assets/infectologia/neutropenia-febril/mascc-score.jpeg'

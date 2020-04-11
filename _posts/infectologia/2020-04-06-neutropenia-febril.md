@@ -2,7 +2,7 @@
 title: Neutropenia febril
 categories: infectologia
 comment: 'Estudei pelo Mandell, livro da USP e Harrison. Tá ficando bem completo, fiz com bastante calma durante a quarentena'
-status: 'false'
+status: 'true'
 revisado: 10 Abr 2020
 ---
 
@@ -138,24 +138,156 @@ A pontuação da Associação Multinacional de Cuidados de Suporte em Câncer (M
 
 ![Score de risco](/assets/infectologia/neutropenia-febril/mascc-score.jpeg)
 
-### Baixo risco
-
-As opções de antibióticos para terapia oral na ausência de fatores de risco para patógenos resistentes incluem combinação de ciprofloxacina e amoxicilina-clavulanato, monoterapia com moxifloxacina ou antibióticos intravenosos como ceftriaxona e amicacina uma vez ao dia.
 
 ### Alto risco
+
+Pacientes de alto risco requerem **internação para antibioticoterapia parenteral**:[^usp]
+
+* Monoterapia com **betalactâmico antipseudomonas**:
+  * Cefepime 2 g IV 8/8 horas;
+  * Piperacilina -tazobactam 4,5 g IV 8/8 horas;
+  * Imipenem-cilastina 500 mg IV 6/6 horas;
+  * Meropenem 1 g IV 8/8 horas.
+* **Vancomicina** não é recomendada no manejo inicial. Indicações específicas são:
+  * Instabilidade hemodinâmica;
+  * Suspeita de infecção relacionada a cateter;
+  * Infecção de pele e partes moles;
+  * Pneumonia.
+    * Obs.: considerar em pacientes com mucosite cultura prévia positiva para germe sensível somente a vancomicina ou em profilaxia com quinolonas.
+
+Modificações no esquema inicial são feitas se ocorrer: instabilidade hemodinâmica, suspeita ou documentação de microrganismo multidroga-resistente, epidemiologia local, ajuste conforme sinais, sintomas ou provas complementares que localizam o foco.
+
+Terapia antifúngica não é recomendada no manejo inicial. Deve ser considerada nas seguintes condições:[^usp]
+
+* Instabilidade hemodinâmica após doses iniciais da terapia empírica adequada;
+* Persistência de febre após 4-7 dias de terapia empírica antibacteriana e duração da neutropenia esperada para além de 7 dias;
+* TC de tórax ou de seios da face sugestiva de infecção fúngica;
+* Outros indicadores sugestivos de infecção fúngica:
+  * Cultura positiva para fungo em qualquer sítio;
+  * Biomarcadores positivos (galactomanana ou 1,3-BDG).
 
 Os principais momentos para o gerenciamento do paciente neutropênico de alto risco com febre e infecção são o dia 0, quando o paciente é avaliado, as culturas são desenhadas e a antibioticoterapia é iniciada, e os dias 3 ou 4, quando os resultados retornam do laboratório e o paciente é reavaliado.
 
 ![Antibioticoterapia](/assets/infectologia/neutropenia-febril/atbs.jpeg)
 
-Alguns critérios indicam a necessidade de incluir
-a vancomicina no esquema empírico inicial: instabilidade hemodinâmica, suspeita de infecção associada a cateter, pele e partes moles , colonização por germe sens ível somente a vancomicina, entre outros.[^usp]
+### Baixo risco
 
-Considera-se a associação de terapia antifúngica
-se persistência de febre após 4-7 dias em pacientes com expectativa de neutropenía > 7 dias, cuja reavaliação não tenha identificado a causa.[^usp]
+A pacientes de baixo risco, podem ser assegurados tratamento inicial oral ou endovenoso, em regime ambulatorial ou em internação:[^usp]
+
+Terapia empírica por via oral:
+
+* **Ciprofloxacino** 750 mg 12/ 12 horas + **amoxicilina-clavulanato** 500/125 mg 8/8 horas;
+* Esquemas alternativos, embora menos estudados:
+  * Monoterapia com fluorquinolonas (ciprofloxacino ou levofloxaci no);
+  * Ciprofloxacino + clindamicina.
+
+Pacientes em profilaxia com fluorquinolonas não devem receber esquema oral empírico com essas drogas. prescrição empírica de antifüngicos não é recomendada. 
+
+A persistência de febre ou sinais e sintomas sugestivos de piora indica internação hospitalar independente da terapia inicial.
+
+![Fluxograma atendimento](/assets/infectologia/neutropenia-febril/fluxo-usp.jpeg)
+
+### Modificação da terapia inicial
+
+Considera-se a alteração do esquema inicial em pacientes de alto risco para infecção por microrganismos resistentes, especialmente em condição clínica instável, ou se hemoculturas com crescimento bacteriano com suspeita de resistência. Os principais fatores de risco incluem infecção ou colonização prévias e tratamento hospitalar com elevadas taxas de endemicidade para MDR. Os microrganismos MDR e as opções de antimicrobiano mais amplamente utilizadas são:
+
+* *Staphylococcus aureus methicilin-resistant* (MRSA): considerar adição precoce de vancomicina, linezolida ou daptomicina;
+* Enterococcus resistente a vancomicina (VRE): considerar adição precoce de linezolida ou daptomicina;
+* Gram-negativos produtores de *extended-spectrum beta-lactamase* (ESBL): considerar utilização precoce de carbapenêmico.
+* Kleibsiella pneumoniae carbapenemase (KPC): considerar utilização precoce de polimixina/colistina.
+
+Terapia empírica antifúngica em casos de alto risco é considerada se febre persistente após 4-7 dias de antibiótico de amplo espectro e ausência de identificação de fonte do quadro febril após adequada investigação ou suspeita de infecção fúngica (achados de imagem ou biomarcadores sugestivos).
+
+Pacientes de baixo risco que iniciaram antibióticos EV ou VO no ambiente hospitalar podem ter seu esquema simplificado se estabilidade clínica:
+
+- Troca de EV para VO no paciente estável com adequada condição de absorção gastrointestinal;
+- Pacientes internados de baixo risco podem ser transicionados para tratamento domiciliar IV ou VO se seguimento diário assegurado;
+- A readmissão hospitalar é recomendada a qualquer paciente ambulatorial que persista com febre por mais de 48 horas e o manejo deve ser realizado como grupo de alto risco.
+
+### Terapia antifúngica
+
+As recomendações da IDSA para terapia antifúngica empírica em pacientes com câncer e neutropenia febril são:
+
+**Alto risco:** considerar terapia empírica e avaliação diagnóstica para infecção invasiva se persistência de febre por mais de 4-7 dias de antimicrobianos de amplo espectro em pacientes cuja expectativa de neutropenia seja maior que 7 dias.
+
+* Esquemas possíveis:
+  * Voriconazol 6 mg/kg IV 12/12 h por 24 h, seguido de 4 mg/kg IV 12/12 h;
+  * Anfotericina B lipossomal 3-5 mg/kg/dia;
+  * Equinocandinas:
+    * Micafungina 100-150 mg IV 24/24 h;
+    * Caspofungina 70 mg IV por 24 h, seguido de 50 mg/dia.
+* Esquemas alternativos com triazóis:
+  * Posaconazol 200 mg VO 6/6 h até estabilização, seguido por 400 mg 12/12 h;
+* Itraconazol.
+
+Tratamento preemptivo é aceitável como alternativa à terapia empírica em pacientes de alto risco. Considerar terapia antifúngica se qualquer um dos possíveis indicadores abaixo de infecção invasiva estiver presente:
+
+* Persistência ou recorrência de febre após 4-7 dias de anbiótico de amplo espectro mesmo se estabilidade clínica.
+* TC de tórax ou de seios da face sugestiva de infecção fúngica;
+* Marcadores séricos positivos (1,3-BDG ou galactomanana);
+* Isolamento fúngico em qualquer sítio (espécies de *Candida* ou *Aspergillus*).
+
+**Baixo risco:** uso rotineiro de terapia empírica antifúngica não é recomendado devido à baixa probabilidade de infecção invasiva.
+
+#### Candidíase
+
+Se for verificada infecção por candidíase invasiva, está recomendado considerar a remoção de cateteres de maneira individualizada, exame oftalmológico dentro da primeira semana após recuperação neutrocítica e tratamento por pelo menos 14 dias após primeira hemocultura negativa, resolução dos sinais e sintomas e da neutropenia.
+
+Esquemas recomendados:
+
+- Terapia inicial com equinocandína: 
+  - Caspofungina 70 mg IV por 24 h, seguido de 50 mg/dia;
+  - Micafungina 100 mg IV 24/24 h;
+  - Anidulafungina 200 mg IV por 24 h, seguido de 100 mg/dia;
+- Esquema alternativo com anfotericina B lipossomal 3-5 mg/kg/dia.
+- Em pacientes menos críticos, sem exposição recente azólicos:
+  - Fluconazol 800 mg (12 mg/kg) VO ou IV em dose de ataque, seguido de 400 mg (6 mg/kg) VO ou IV 1 x/dia;
+    - O fluconazol VO possui 90% da biodisponibilidade do EV 
+    - Pode ser utilizado como opção de *stepdown* em neutropenia persistente em pacientes clinicamente estáveis e com hemoculturas negativas.
+  - Voriconazol 400 mg (6 mg/kg) 12/12 h por 2 dias, seguido de 200-300 mg (3-4 mg/kg) 12/12 h.
+    - Recomendado quando é necessária cobertura adicional contra leveduras.
+    - Reduzir dose em pacientes com disfunção hepática.Pode ser utilizado como opção de *stepdown* em neutropenia persistente em pacientes clinicamente estáveis e com hemoculturas negativas.
+
+### Fatores estimuladores de colônia
+
+O consenso da IDSA não recomenda o uso rotineiro de fatores estimuladores de colônia em pacientes com neutropenia febril. Já as recomendações da *American Society of Clinical Oncology* de 2015 incluem:
+
+* Considerar em pacientes de alto risco para complicações associadas à infecção ou que apresentam fatores preditores de desfechos desfavoráveis, como:
+  * Expectativa de neutropenia profunda (< 100 células/mm<sup>3</sup>) e prolongada(> 10 dias);
+  * Maiores que 65 anos;
+  * Doença primária não controlada;
+  * Pneumonia;
+  * Disfunção orgânica múltipla;
+  * Infecção fúngica invasiva;
+  * Paciente hospitalizado no advento da febre;
+* Evitar em pacientes em tratamento quimioterápico e radioterápico concomitantes, especialmente envolvendo o mediastino.
+
+O benefício da utilização de fatores estimuladores de colônias é controverso. Evidências apontam para possível redução na duração de internação, no tempo necessário para suspensão dos antibióticos e no tempo de recuperação neutrocítica, porém sem impacto na mortalidade.[^usp]
+
+### Transfusão de neutrófilos
+
+A limitada meia-vida dos neutrófilos, ausência de consenso a respeito do benefício e potenciais eventos adversos são exemplos de limitações para a utilização rotineira desta abordagem.
+
+## Seguimento
+
+Em pacientes com infecção documentada clinicamente e microbiologicamente , orienta-se:
+
+* Duração baseada na infecção específica diagnosticada;
+* 10-14 dias de antibioticoterapia é recomendada para o tratamento da maioria das bacteremias, infecção de partes moles e pneumonias;
+* Considerar redução do espectro da cobertura após defervescência e transição por via oral na ausência de eventos adversos gastrointestinais;
+* Antibioticoterapia adequada deve ser continuada ao menos até contagem absoluta de neutrófilos ≥ 500 células/mm<sup>3</sup> ou o tempo necessário para melhora clínica e ausência de infecção garantidas.
+
+Nos casos em que a febre é inexplicada, continuar o esquema até concreta recuperação medular, ou seja, defervescência ≥ 2 dias e neutrófilos ≥ 500 células/mm<sup>3</sup>
 
 ## Prognóstico
 
+Relatos apontam que a mortalidade relacionada à infecção em pacientes com tumores sólidos é próxima de 2%. Para neoplasias hematológicas, ao redor de 5%. 
+
+A administração atrasada de terapia antimicrobiana adequada aumenta consideravelmente o risco de óbito. A IDSA recomenda que o intervalo máximo entre a admissão e o início da antibioticoterapia empírica seja de 31 minutos.
+
+Uma coorte retrospectiva de mais de 400 pacientes apontou uma mortalidade de quase 50% em neutropenia febril associada a sepse ou choque séptico. Os fatores associados a pior prognóstico foram idade avançada, necessidade de vasopressores, comorbidades agudas não infecciosas e disfunção hepática, neurológica ou respiratória.
+
+O MASCC está associado a desfechos desfavoráveis. Em pacientes com pontuação < 21, a taxa de óbito associada à infecção é de 12,5% e 0% naqueles ≥ 21. Dois terços dos pacientes com > 15 pontos evoluem a óbito em até 30 dias.
 
 ## Referências
 
