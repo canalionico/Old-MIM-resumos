@@ -1,4 +1,113 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-04-11T17:34:14-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Neutropenia febril</title><link href="http://localhost:4000/infectologia/neutropenia-febril.html" rel="alternate" type="text/html" title="Neutropenia febril" /><published>2020-04-06T00:00:00-03:00</published><updated>2020-04-06T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/neutropenia-febril</id><content type="html" xml:base="http://localhost:4000/infectologia/neutropenia-febril.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-08T00:23:58-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Gram</title><link href="http://localhost:4000/gram.html" rel="alternate" type="text/html" title="Gram" /><published>2020-05-07T00:00:00-03:00</published><updated>2020-05-07T00:00:00-03:00</updated><id>http://localhost:4000/gram</id><content type="html" xml:base="http://localhost:4000/gram.html">&lt;p&gt;The cell wall of both gram-positive and gram-negative bacteria is composed of peptidoglycan, which allows cells to contain and resist high osmotic pressure.&lt;/p&gt;
+
+&lt;p&gt;The cell wall of gram-positive bacteria is a
+substantial layer 50 to 100 molecules in thickness, whereas in gram-
+negative bacteria it is only one or two molecules thick.&lt;/p&gt;
+
+&lt;p&gt;An outer mem-
+brane lipopolysaccharide layer, not found in gram-positive bacteria, is
+present in gram-negative species. The basic subunit of the peptidogly-
+can component is a disaccharide monomer of N-acetylglucosamine
+(NAG, or GlcNAc) and N-acetylmuramic acid (NAM, or MurNAc)
+pentapeptide (Fig. 20-2).&lt;/p&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Penicilinas</title><link href="http://localhost:4000/infectologia/penicilinas.html" rel="alternate" type="text/html" title="Penicilinas" /><published>2020-05-07T00:00:00-03:00</published><updated>2020-05-07T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/penicilinas</id><content type="html" xml:base="http://localhost:4000/infectologia/penicilinas.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#mecanismo-de-ação&quot; id=&quot;markdown-toc-mecanismo-de-ação&quot;&gt;Mecanismo de ação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#resistência-bacteriana&quot; id=&quot;markdown-toc-resistência-bacteriana&quot;&gt;Resistência bacteriana&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#citações&quot; id=&quot;markdown-toc-citações&quot;&gt;Citações&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As penicilinas foram descobertas por Alexander Fleming a partir do fungo &lt;em&gt;Penicillium notatum&lt;/em&gt; em 1928. A penicilina G.&lt;/p&gt;
+
+&lt;p&gt;Em 1940, época da segunda guerra mundial, a penicilina começou a ser distribuida em escala comercial e deu início à era da antibioticoterapia.&lt;/p&gt;
+
+&lt;p&gt;As penicilinas fazem parte dos antibióticos betalactâmicos por possuírem um anel betalactâmico em sua composição, essencial para a sua atividade.&lt;/p&gt;
+
+&lt;p&gt;Contudo, ao longo dos anos mais microorganismos foram adquirindo a capacidade de produzir betalactamases. Enzimas capases de quebrar o anel betalactâmico e inativas as penicilinas.&lt;/p&gt;
+
+&lt;p&gt;Com o tempo, os laboratórios conseguiram criar peniclinas semissinteticas, como a &lt;strong&gt;meticilina&lt;/strong&gt; (mais resistente &lt;em&gt;S. aureus&lt;/em&gt; produtor de betalactamase), &lt;strong&gt;ampicilina&lt;/strong&gt; (ativa contra bacilos gram-negativos) e &lt;strong&gt;carbenicilina&lt;/strong&gt; (ativa contra &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt;).&lt;/p&gt;
+
+&lt;h2 id=&quot;mecanismo-de-ação&quot;&gt;Mecanismo de ação&lt;/h2&gt;
+
+&lt;p&gt;Assim como todos os demais antibióticos betalactâmicos, sua ação principal é bactericida e se deve à &lt;strong&gt;inibição da síntese da parede bacteriana&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Revisar o &lt;a href=&quot;/infectologia/gram&quot;&gt;capítulo sobre coloração de gram&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A penicilina inibe a enzima que catalisa a etapa final de formação da parede celular, a formação das pontes de peptidoglicano.&lt;/p&gt;
+
+&lt;p&gt;A reação de transpeptidação é inibida pela penicilina que se liga nas PBPs (&lt;em&gt;penicilin-binding proteins&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/atb/pbp.jpeg&quot; alt=&quot;PBP&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Signal-transducing membrane proteins bind β-lactams and generate a transmembrane signal leading to induction of β-lactamases and PBP2a, which mediates staphylococcal methicillin resistance. β-Lactamases are PBPs that catalyze hydrolysis of the β-lactam ring.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Atenção que, a inibição propriamente dita da síntese de parede celular não é o que mata a bactéria.&lt;/p&gt;
+
+&lt;p&gt;O efeito letal em organismos gram-positivos e gram-negativos parece ser dependente do ciclo celular, com a inibição de PBPs levando à interrupção de um evento crucial provavelmente no momento da divisão celular. É sugerido que esta morfogênese perturbada inicie a morte celular.&lt;sup id=&quot;fnref:Mandell&quot;&gt;&lt;a href=&quot;#fn:Mandell&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Como são mais de um tipos de PBPs (como PBPP1 e PBP2), os antibióticos betalactâmicos variam em seu espectro de ação.&lt;/p&gt;
+
+&lt;h2 id=&quot;resistência-bacteriana&quot;&gt;Resistência bacteriana&lt;/h2&gt;
+
+&lt;p&gt;São quatro os mecanismos possiveis para as bactérias se tornarem resistentes.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Destruição dos beta-lactâmicos(pelas betalactamases, o mecanismo mais comum);&lt;/li&gt;
+  &lt;li&gt;Falha para o antibiótico entrar nas célula gram-negativas e alcançar as PBPs;&lt;/li&gt;
+  &lt;li&gt;Efluxo da droga que entra em gram-negativas;&lt;/li&gt;
+  &lt;li&gt;Baixa afinidade da droga pelas PBPs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nas gram-positivas, a destruição do antibiótico pela betalactamase é o mecanismos mais comum de resistência. Já nas gram-negativas e no &lt;em&gt;Pseudomonas aeruginosa&lt;/em&gt;, também se soma um mecanismo efluxo da droga.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/atb/penicilinase.jpeg&quot; alt=&quot;Penicilinase&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Existem várias classes de betalacmasases que vão de A a D. Cada uma com uma ação maior ou menor sobre um tipo de antibiótico betalactâmico. Algumas são inibidas pelo ácido clavulônico e outras não.&lt;/p&gt;
+
+&lt;p&gt;Nas gram-negativas, a betalactamase se localiza no espaço periplasmático, entre a membrana citoplasmática e a membrana de lipopolissacaridase. A entrada para esse espaça necessita a passagem pelos canais de porina. Os betalactâmicos que conseguem atravessar esses canais alcançam as PBPs do espaço periplasmático.&lt;/p&gt;
+
+&lt;h2 id=&quot;classificação&quot;&gt;Classificação&lt;/h2&gt;
+
+&lt;p&gt;As penicilinas podem ser dividias em 5 classes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Penicilinas &lt;strong&gt;naturais&lt;/strong&gt; (G e V);&lt;/li&gt;
+  &lt;li&gt;Penicilinas &lt;strong&gt;resistentes à penicilinase&lt;/strong&gt; (amethicillin, nafcillin, and isoxas ezolyl penicillins);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Aminopenicilinas&lt;/strong&gt; (ampicilina e amoxicilina);&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Penicilinas anti-pseudomonas&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Carboxipenicilinas&lt;/strong&gt; (carbenicillin and ticarcillin);&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Ureidopenicilinas&lt;/strong&gt; (azlocillin, mezlocillin, and piperacillin);&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As &lt;strong&gt;penicilinas naturais&lt;/strong&gt; são mais ativas contra gram-positivos não produtores de betalactamase, anaeróbios e algums gram-negativos como &lt;em&gt;Neisseria spp&lt;/em&gt;. Entretanto, a penicilina V (oral) é menos ativa que a G contra &lt;em&gt;Neisseria&lt;/em&gt; e &lt;em&gt;Haemophilus spp&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Grampositive bacteria inhibited by natural penicillins tend to be more susceptible to these penicillins than to semisynthetic penicillins.&lt;sup id=&quot;fnref:Mandell:1&quot;&gt;&lt;a href=&quot;#fn:Mandell&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As &lt;strong&gt;penicilinas semissintéticas&lt;/strong&gt; são as drogas de escolha apenas contra &lt;em&gt;S. aureus&lt;/em&gt; penicilina-resistente e &lt;em&gt;S. epidermidis&lt;/em&gt;. Também são ativas contra estreptococos mas não contra enterococos.&lt;/p&gt;
+
+&lt;p&gt;As aminopenicilinas possuem o mesmo espectro que a penicilina G além de serem ativas contra cocos gram-negativos e Enterobacteriaceae que não produzem betalactamase.&lt;/p&gt;
+
+&lt;p&gt;As penicilinas anti-pseudomonas (carboxipenicilinas e ureidopenicilinas) são ativas contra alguns gram-negativos aeróbicos resistentes à ampicilina como o &lt;em&gt;P. aeruginosa&lt;/em&gt;. Carboxipenicilinas são menos ativas que as ureidopenicilinas contra estreptococos e &lt;em&gt;Haemophilus spp&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Anaeróbicos gram-positivos sãosucetíveis às penicilinas. Gram-negativos anaeróbios são suscetiveis à maoria destas (exceção ao &lt;em&gt;Bacteroides spp.&lt;/em&gt; e algumas &lt;em&gt;Prevotella spp.&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/atb/tab-penicilinas.jpeg&quot; alt=&quot;Penicilinase&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:Mandell&quot;&gt;
+      &lt;p&gt;Livro do Mandell &lt;a href=&quot;#fnref:Mandell&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Mandell:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Neutropenia febril</title><link href="http://localhost:4000/infectologia/neutropenia-febril.html" rel="alternate" type="text/html" title="Neutropenia febril" /><published>2020-04-06T00:00:00-03:00</published><updated>2020-04-06T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/neutropenia-febril</id><content type="html" xml:base="http://localhost:4000/infectologia/neutropenia-febril.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#etiologia&quot; id=&quot;markdown-toc-etiologia&quot;&gt;Etiologia&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#fisiopatologia&quot; id=&quot;markdown-toc-fisiopatologia&quot;&gt;Fisiopatologia&lt;/a&gt;&lt;/li&gt;
@@ -683,128 +792,4 @@ passam a excretar o vírus.&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;IMIP 4ª edição;&lt;/li&gt;
   &lt;li&gt;Medcurso.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Distúrbios do metabolismo</title><link href="http://localhost:4000/neonatologia/disturbios-do-metabolismo.html" rel="alternate" type="text/html" title="Distúrbios do metabolismo" /><published>2020-03-16T00:00:00-03:00</published><updated>2020-03-16T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/disturbios-do-metabolismo</id><content type="html" xml:base="http://localhost:4000/neonatologia/disturbios-do-metabolismo.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Medcurso&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry><entry><title type="html">Rubéola congênita</title><link href="http://localhost:4000/neonatologia/rubeola-congenita.html" rel="alternate" type="text/html" title="Rubéola congênita" /><published>2020-03-16T00:00:00-03:00</published><updated>2020-03-16T00:00:00-03:00</updated><id>http://localhost:4000/neonatologia/rubeola-congenita</id><content type="html" xml:base="http://localhost:4000/neonatologia/rubeola-congenita.html">&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#epidemiologia&quot; id=&quot;markdown-toc-epidemiologia&quot;&gt;Epidemiologia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#patogenia&quot; id=&quot;markdown-toc-patogenia&quot;&gt;Patogenia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#quadro-clínico&quot; id=&quot;markdown-toc-quadro-clínico&quot;&gt;Quadro clínico&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diagnóstico&quot; id=&quot;markdown-toc-diagnóstico&quot;&gt;Diagnóstico&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#laboratorial&quot; id=&quot;markdown-toc-laboratorial&quot;&gt;Laboratorial&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tratamento&quot; id=&quot;markdown-toc-tratamento&quot;&gt;Tratamento&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#profilaxia&quot; id=&quot;markdown-toc-profilaxia&quot;&gt;Profilaxia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#referências&quot; id=&quot;markdown-toc-referências&quot;&gt;Referências&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O ser humano é o único hospedeiro conhecido do vírus da rubéola. O risco de defeitos congênitos é maior quando a grávida adquire infecção primária durante o &lt;strong&gt;1º trimestre&lt;/strong&gt;. Ocorrem defeitos congênitos em 90% dos RN infectados durante as primeiras 11 semanas de gestação. Quanto mais precoce a contaminação materna, maior a probabilidade de defeitos congênitos&lt;/p&gt;
-
-&lt;p&gt;É uma doença crônica e progressiva, muitas vezes de evolução silenciosa. Contudo, em alguns casos a infecção é tão grave que resulta em morte intrauterina ou pós-natal.&lt;/p&gt;
-
-&lt;p&gt;A viremia materna é seguida de infecção placentária e posterior viremia fetal. A infecção adquirida após o 4º mês de gestação, em geral, não se encontra associada a malformações fetais, nem à persistência do vírus.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Na presença de infecção fetal, o vírus pode ser excretado pela urina do RN até 1 ano de idade ou mais, necessitando de isolamento para evitar contaminação na maternidade.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;epidemiologia&quot;&gt;Epidemiologia&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Trasmitido por via transplacentária, com infecção logo após a viremia materna;&lt;/li&gt;
-  &lt;li&gt;Principalmente após infecção materna primária;&lt;/li&gt;
-  &lt;li&gt;A taxa de infecção é maior no 1ºT até as 8 primeiras semanas, a partir daí começa a decair no 2ºT e começa a aumentar no 3ºT;&lt;/li&gt;
-  &lt;li&gt;Cerca de 80% dos fetos infectadas nas 8 primeiras semanas possuem malformações detectadas nos 4 primeiros anos de vida;&lt;/li&gt;
-  &lt;li&gt;O RN se torna um reservátorio do vírus, já que a transmissão contínua por 18-24 meses após o nascimento;
-    &lt;ul&gt;
-      &lt;li&gt;Principalmente nos casos de RNs assintomáticos;&lt;/li&gt;
-      &lt;li&gt;Um perigo se tiverem contato com outras gestantes.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;patogenia&quot;&gt;Patogenia&lt;/h2&gt;
-
-&lt;p&gt;Após a viremia materna, a invasão do concepto pelo vírus pode resultar em:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Infecção placentária sem infecção fetal&lt;/li&gt;
-  &lt;li&gt;Morte e reabsorção do embrião&lt;/li&gt;
-  &lt;li&gt;Abortamento espontâneo&lt;/li&gt;
-  &lt;li&gt;Natimorto&lt;/li&gt;
-  &lt;li&gt;RN com anomalias congênitas&lt;/li&gt;
-  &lt;li&gt;RN que manifestará doença após o nascimento&lt;/li&gt;
-  &lt;li&gt;Infecção subclínica&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;RN pode nascer PIG&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;quadro-clínico&quot;&gt;Quadro clínico&lt;/h2&gt;
-
-&lt;p&gt;Mais de &lt;strong&gt;50&lt;/strong&gt;% dos RN infectados são &lt;strong&gt;assintomáticos&lt;/strong&gt;. As principais manifestações clínicas da rubéola congênita são, em ordem decrescente de frequência:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Deficiência auditiva&lt;/strong&gt; (80-90%): é a manifestação mais comum da síndrome da rubéola congênita e é provocada por alterações degenerativas da cóclea e do órgão de Corti (neurossensorial), clinicamente ocorrendo em graus variáveis e geralmente bilateral;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Retardo do crescimento intrauterino&lt;/strong&gt; (50-85%): é a infecção congênita mais associada ao CIUR e baixo peso ao nascer;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Manifestações cardíacas&lt;/strong&gt; (30-40%): as principais cardiopatias congênitas associadassão a persistência de canal arterial e estenose pulmonar;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Malformações oculares:&lt;/strong&gt; são mais frequentes as lesões que afetam a acuidade e a área macular. Catarata geralmente bilateral, glaucoma (precoce ou tardio), retinopatia e microftalmia podem estar presentes;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;SNC:&lt;/strong&gt; microcefalia, meningoencefalite, tetraplegia espástica, retardo do desenvolvimento psicomotor;&lt;/li&gt;
-  &lt;li&gt;Outras (&lt;strong&gt;viscerais&lt;/strong&gt;): hepatomegalia e icterícia,
-esplenomegalia, púrpura trombocitopênica, pneumonite intersticial e lesões ósseas (franjeamento da metáfise: lesão em talo de aipo).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Também podem ser divididas em precoces e tardias:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Precoce&lt;/strong&gt;: já presentes no nascimento ou surgem no 1º ano de vida (podem ser transitórias ou permanentes);&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tardio&lt;/strong&gt;: associado com a persistência e reativação do vírus, bem como mecanismos autoimunes. Podem ser evidenciadas desde o 2º ano de vida até a idade escolar.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tab1.jpeg&quot; alt=&quot;img&quot; /&gt;
-&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tab2.jpeg&quot; alt=&quot;img&quot; /&gt;
-&lt;img src=&quot;/assets/neonatologia/infeccoes-cong/tab3.jpeg&quot; alt=&quot;img&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;diagnóstico&quot;&gt;Diagnóstico&lt;/h2&gt;
-
-&lt;p&gt;O diagnóstico da infecção materna requer a demonstração de anticorpos antirrubéola no sangue. Dentre as técnicas empregadas, a inibição da hemaglutinação é o método de referência. Devemos ter em mente que a infecção primária apresenta títulos detectáveis e em elevação de anticorpo &lt;strong&gt;IgM&lt;/strong&gt;, seguido, após um período variável, por anticorpos da classe &lt;strong&gt;IgG&lt;/strong&gt;. Não há possibilidade de prevenção pós-contato. A vacina é ineficaz. Pode ser tentada a gamaglobulina intravenosa (20 a 25 ml em dois dias), entretanto os resultados não garantem a proteção fetal.&lt;/p&gt;
-
-&lt;p&gt;O diagnóstico clínico de rubéola congênita geralmente só é confirmado no concepto após o seu nascimento, quando as malformações já se encontram estabelecidas&lt;/p&gt;
-
-&lt;p&gt;O diagnóstico diferencial pode ser feito com: toxoplasmose, citomegalovirose, sífilis, septicemia, eritroblastose fetal e infecções herpéticas.&lt;/p&gt;
-
-&lt;h3 id=&quot;laboratorial&quot;&gt;Laboratorial&lt;/h3&gt;
-
-&lt;p&gt;Deve ser coletada logo após o nascimento. A presença de &lt;strong&gt;IgM positivo, confirma o caso&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Se houver um resultado com &lt;strong&gt;IgM negativo&lt;/strong&gt; e &lt;strong&gt;IgG positivo&lt;/strong&gt;, recomenda-se a &lt;strong&gt;repetição do IgG após 3 meses&lt;/strong&gt;; nesta segunda amostra, se houve manutenção do resultado positivo, confirma-se o diagnóstico de rubéola congênita; um segundo resultado de IgG negativo descarta a infecção.&lt;/p&gt;
-
-&lt;p&gt;O teste IgM pelo método de captura do ELISA apresenta elevada sensibilidade principalmente nos dois primeiros meses de vida, podendo ser utilizado até um ano de vida.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Persistência dos níveis de IgG no RN (lembrando que o IgG materno passa pela placenta), não desaparecendo por volta do 6º mês de vida;&lt;/li&gt;
-  &lt;li&gt;IgG do RN aumentando;&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;IgM +&lt;/strong&gt; (não passa a placenta) &lt;strong&gt;no RN&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;O vírus da rubéola permanece nos tecidos fetais até o nascimento, sendo encontrado, por vários meses após o nascimento, na orofaringe, urina e diversos órgãos. Todos os RN com suspeita de rubéola congênita deverão realizar hemograma, radiografia de ossos longos, ecocardiografia, exame de imagem do sistema nervoso central e avaliação audiométrica (emissões otoacústicas e BERA).&lt;/p&gt;
-
-&lt;h2 id=&quot;tratamento&quot;&gt;Tratamento&lt;/h2&gt;
-
-&lt;p&gt;Não há tratamento específico. A conduta é o manejo sintomático de acordo com os acometimentos, como a insuficiência cardíaca, anemia e trombocitopenia.&lt;/p&gt;
-
-&lt;h2 id=&quot;profilaxia&quot;&gt;Profilaxia&lt;/h2&gt;
-
-&lt;p&gt;Utiliza-se a vacina &lt;strong&gt;tríplice viral&lt;/strong&gt; com &lt;strong&gt;12 meses&lt;/strong&gt; de idade. A imunidade conferida pela vacina
-costuma ser duradoura. As mulheres em idade fértil com a pesquisa de anticorpos negativa (sorologia negativa) pela inibição da hemaglutinação devem ser vacinadas. Elas &lt;strong&gt;não devem engravidar pelos próximos 30 dias&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;referências&quot;&gt;Referências&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;IMIP 4ª edição;&lt;/li&gt;
-  &lt;li&gt;Medcurso.&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><category term="neonatologia" /><summary type="html"></summary></entry></feed>
+&lt;/ol&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry></feed>

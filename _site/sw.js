@@ -59,6 +59,10 @@ self.addEventListener('install', function (event) {
         '/sitemap.xml',
       
       
+        '/infectologia/penicilinas.html',
+      
+        '/gram.html',
+      
         '/infectologia/neutropenia-febril.html',
       
         '/infectologia/sars.html',
@@ -1005,6 +1009,12 @@ self.addEventListener('install', function (event) {
         '/assets/infectologia/atb-meningite.jpeg'
       
         '/assets/infectologia/atb-meningite2.jpeg'
+      
+        '/assets/infectologia/atb/pbp.jpeg'
+      
+        '/assets/infectologia/atb/penicilinase.jpeg'
+      
+        '/assets/infectologia/atb/tab-penicilinas.jpeg'
       
         '/assets/infectologia/dengue/dd.jpeg'
       
