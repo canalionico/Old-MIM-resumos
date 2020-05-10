@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-08T00:23:58-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Gram</title><link href="http://localhost:4000/gram.html" rel="alternate" type="text/html" title="Gram" /><published>2020-05-07T00:00:00-03:00</published><updated>2020-05-07T00:00:00-03:00</updated><id>http://localhost:4000/gram</id><content type="html" xml:base="http://localhost:4000/gram.html">&lt;p&gt;The cell wall of both gram-positive and gram-negative bacteria is composed of peptidoglycan, which allows cells to contain and resist high osmotic pressure.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt_BR"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt_BR" /><updated>2020-05-10T19:43:09-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Resumos</title><subtitle>Um site destinado para publicar resumos de assunto da área de saúde</subtitle><entry><title type="html">Gram</title><link href="http://localhost:4000/gram.html" rel="alternate" type="text/html" title="Gram" /><published>2020-05-07T00:00:00-03:00</published><updated>2020-05-07T00:00:00-03:00</updated><id>http://localhost:4000/gram</id><content type="html" xml:base="http://localhost:4000/gram.html">&lt;p&gt;The cell wall of both gram-positive and gram-negative bacteria is composed of peptidoglycan, which allows cells to contain and resist high osmotic pressure.&lt;/p&gt;
 
 &lt;p&gt;The cell wall of gram-positive bacteria is a
 substantial layer 50 to 100 molecules in thickness, whereas in gram-
@@ -13,6 +13,16 @@ pentapeptide (Fig. 20-2).&lt;/p&gt;</content><author><name>@moscafilipe</name></
   &lt;li&gt;&lt;a href=&quot;#mecanismo-de-ação&quot; id=&quot;markdown-toc-mecanismo-de-ação&quot;&gt;Mecanismo de ação&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#resistência-bacteriana&quot; id=&quot;markdown-toc-resistência-bacteriana&quot;&gt;Resistência bacteriana&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#classificação&quot; id=&quot;markdown-toc-classificação&quot;&gt;Classificação&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#farmacodinâmica&quot; id=&quot;markdown-toc-farmacodinâmica&quot;&gt;Farmacodinâmica&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#absorção&quot; id=&quot;markdown-toc-absorção&quot;&gt;Absorção&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ligação-sérica&quot; id=&quot;markdown-toc-ligação-sérica&quot;&gt;Ligação sérica&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#excreção&quot; id=&quot;markdown-toc-excreção&quot;&gt;Excreção&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#biodisponibilidade&quot; id=&quot;markdown-toc-biodisponibilidade&quot;&gt;Biodisponibilidade&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#efeitos-adversos&quot; id=&quot;markdown-toc-efeitos-adversos&quot;&gt;Efeitos adversos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#uso-clínico&quot; id=&quot;markdown-toc-uso-clínico&quot;&gt;Uso clínico&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#uso-profilático&quot; id=&quot;markdown-toc-uso-profilático&quot;&gt;Uso profilático&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#citações&quot; id=&quot;markdown-toc-citações&quot;&gt;Citações&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -99,12 +109,95 @@ pentapeptide (Fig. 20-2).&lt;/p&gt;</content><author><name>@moscafilipe</name></
 
 &lt;p&gt;&lt;img src=&quot;/assets/infectologia/atb/tab-penicilinas.jpeg&quot; alt=&quot;Penicilinase&quot; /&gt;&lt;/p&gt;
 
+&lt;p&gt;&lt;img src=&quot;/assets/infectologia/atb/tab-penicilinas2.jpeg&quot; alt=&quot;Penicilinase&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;farmacodinâmica&quot;&gt;Farmacodinâmica&lt;/h2&gt;
+
+&lt;h3 id=&quot;absorção&quot;&gt;Absorção&lt;/h3&gt;
+
+&lt;p&gt;A absorção oral varia muito entre as penicilinas. Penicilina G, meticilina e as antipseudomonas são muito mal absorvidas. Já as semissintéticas, exceto a nafcilina, são bem absorvidas. A ampicilina é parcialmente, 30-60%, absorvida e a alimentação a reduz. Já amoxicilina é praticamente toda absovida.&lt;/p&gt;
+
+&lt;p&gt;As penicilinas orais normalmente atingem o pico sérico com 1 a 2 horas. Mas a alimentação pode atrasar esse intervalo (exceto pela amoxicilina).&lt;/p&gt;
+
+&lt;p&gt;A penicilina procaína G e a penicilina benzatina (formas em repositório da penicilina G), são absorvidas mais devagar na forma intramuscular.&lt;/p&gt;
+
+&lt;p&gt;Lidocaina pode ser usada como diluente nas injeções de penicilinas anti-pseudomonas.&lt;/p&gt;
+
+&lt;h3 id=&quot;ligação-sérica&quot;&gt;Ligação sérica&lt;/h3&gt;
+
+&lt;p&gt;As penicilinas se ligam de forma bem heterogênea às proteínas séricas, indo de 17% para as aminopenicilinas até 97% para a diclocaxilina. Se ligam principalmente à albumina.&lt;/p&gt;
+
+&lt;p&gt;Apesar de apenas as moléculas livres exercerem atividade antibióticas, a ligação é reversível.&lt;/p&gt;
+
+&lt;h3 id=&quot;excreção&quot;&gt;Excreção&lt;/h3&gt;
+
+&lt;p&gt;A principal forma de excreção das penicilinas ocorre pelos rins. As moléculas são filtradas pelos glomérulos e rapidamente excretadas na urina como moléculas intactas pelas celulas tubulares. Ou seja, são pouco metabolizadas. Também existe excreção biliar mas em menor grau, sendo importante apenas para a nafcilina e as penicilinas anti-pseudomonas.&lt;/p&gt;
+
+&lt;p&gt;Normalmente a meia vida é bastante curta, entre 30 e 70 min.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Secretion can be blocked by &lt;strong&gt;probenecid&lt;/strong&gt;, an inhibitor of organic acid secretion by tubular cells, which prolongs the serum half-life of all the penicillins. Probenecid also competes for binding sites on albumin; hence, there is more free drug in the presence of probenecid.&lt;sup id=&quot;fnref:Mandell:2&quot;&gt;&lt;a href=&quot;#fn:Mandell&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Em neonato há menor excreção renal pois a função tubular ainda não está bem desenvolvida.&lt;/p&gt;
+
+&lt;p&gt;Má função renal deve ser considerada na administração de algumas penicilinas, como a ticarcilina. Para um clearance da creatinina acima de 10 a 20 mL/min, são necessários apenas pequenos ajustes na dosagem das outras penicilinas. Já na presença de anúria, ai será necessária redução nas doses diárias das penicilinas naturais, nas resistentes à penicilinase e nas aminopenicilinas.&lt;/p&gt;
+
+&lt;p&gt;A concentração urinária das penicilinas é alta mesmo em pessoas com moderada insuficiência renal.&lt;/p&gt;
+
+&lt;p&gt;A diálise peritonial remove as penicilinas de forma muito variável. Contudo, usualmente apenas a Ticarcilina necessita de correção da dose após uma sessão. Já nas hemodiálises, as doses de penicilina G, ampicilina, amoxicilina, toxicilina e piperacilina precisam ser ajustadas, mas as doses sde nafcilina ou de isoxazolil penicilina não.&lt;/p&gt;
+
+&lt;h3 id=&quot;biodisponibilidade&quot;&gt;Biodisponibilidade&lt;/h3&gt;
+
+&lt;p&gt;As penicilinas se distribuem muito bem pela maioria dos tecidos, como pulmões, fígado, rins, músculos, ossos e placenta. Os níveis de penicilina em abcessos e fluidos do ouvido médio, pleural, peritonal, sinovial, costumam ser suficientes para seu efeito.&lt;/p&gt;
+
+&lt;p&gt;Importante saber que a maioria das penicilinas é relativamente insolúvel em lipídios e penetra mal nas células. Dessa forma, a distribuição de todas as penicilinas no olho, cérebro, líquido cefalorraquidiano ou próstata é nula na ausência de inflamação. Por que? Pois a inflamação altera a permeabilidade das membranas e permite a entrada das penicilinas.&lt;/p&gt;
+
+&lt;p&gt;A maiora delas são ativamente secretadas na bile, atingindo níveis de concentração 10 a 100 vezes maior que o do sangue.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In the presence of common duct obstruction, the levels of all penicillins in bile are markedly reduced. Because the biliary transport system is a saturable one, with drug doses producing very high serum levels, the biliary levels are not significantly increased over those measured at lower serum levels.&lt;sup id=&quot;fnref:Mandell:3&quot;&gt;&lt;a href=&quot;#fn:Mandell&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;efeitos-adversos&quot;&gt;Efeitos adversos&lt;/h2&gt;
+
+&lt;p&gt;O mais importante efeito adverso causado pelas penicilina são as reações de hipersensibilidade. A gravidade da reação de ir desde um simples &lt;em&gt;rash&lt;/em&gt; cutâneo até uma anafilaxia, reações mediadas pelas imunoglobulinas IgE.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Penicilloyl and penicillanic acid derivatives are the major determinants of penicillin allergy. The penicilloyl determinant, which is produced through opening of the β-lactam ring, thereby allowing amide linkage to body proteins, is the most important antigenic component.&lt;sup id=&quot;fnref:Mandell:4&quot;&gt;&lt;a href=&quot;#fn:Mandell&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Embora um histórico de alergia à penicilina seja bastante comum, menos de 2% terá uma reação alérgica se desafiado, mas o risco é maior para aqueles com histórico de reação imediata de hipersensibilidade ou teste cutâneo positivo.&lt;/p&gt;
+
+&lt;p&gt;As erupções morbiformes que se desenvolvem após o tratamento com penicilina provavelmente são devidas a anticorpos IgM para o benzil peniciloil hapteno. Em muitos pacientes, essas erupções cutâneas desaparecem, mesmo se a penicilina for continuada, devido à produção de anticorpo bloqueador IgG.&lt;/p&gt;
+
+&lt;p&gt;Se ocorrer uma reação de hipersensibilidade, a adrenalina administrada por via intramuscular ou intravenosa geralmente interrompe a reação. Anti-histamínicos e corticosteróides não demonstraram ser benéficos.&lt;/p&gt;
+
+&lt;p&gt;A toxicidade hematológica é rara, embora tenha sido encontrada neutropenia com o uso de todos os tipos de penicilinas, principalmente quando grandes doses são usadas. Os mecanismos da neutropenia são desconhecidos e as contagens de glóbulos brancos voltam ao normal rapidamente se o
+agente infrator é descontinuado.&lt;/p&gt;
+
+&lt;p&gt;Às vezes, uma dose mais baixa de medicamento pode ser usada sem produção de neutropenia. A anemia hemolítica positiva por Coombs ocorre raramente. Todas as penicilinas em altas concentrações, particularmente a ticarcilina, se ligam ao local receptor da adenosina difosfato nas plaquetas, impedindo a agregação plaquetária normal. Mas sangramento clinicamente significativo ocorre com pouca frequência.&lt;/p&gt;
+
+&lt;h2 id=&quot;uso-clínico&quot;&gt;Uso clínico&lt;/h2&gt;
+
+&lt;p&gt;A penicilina G ainda permanece como o principal agente para o tratamento de infecções por &lt;em&gt;Streptococcus pyogenes&lt;/em&gt;, cepas suscetíveis de &lt;em&gt;Streptococcus pneumoniae&lt;/em&gt; e cepas suscetíveis de &lt;em&gt;S. aureus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Penicilina G intravenosa&lt;/strong&gt; permanece o tratamento de escolha para meningite meningocócica e pneumocócica, endocardite por estreptococos e neurossífilis.&lt;/p&gt;
+
+&lt;p&gt;Penicilina G é a droga de escolha para toos os estágios de sífilis. Também é a primeira escolha para infecções puerperais por estreptococos anaeróbios ou estreptococos do grupo B (&lt;em&gt;Streptococcus agalactiae&lt;/em&gt;). Infecções genitais por clostridium também.&lt;/p&gt;
+
+&lt;p&gt;Praticamente todas as cepas de &lt;em&gt;Neisseria meningiditis&lt;/em&gt; são suscetíveis à penicilina G. Já para os &lt;em&gt;Neisseria gonorrhoeae&lt;/em&gt;, as cepas costumam ser resistentes. Dessa forma, penicilinas não são mais recomendadas para tratar gonorréia.&lt;/p&gt;
+
+&lt;p&gt;As penicilinas resistentes à penicilinase são indicadas apenas para o tratamento de infecções causadas por cepas de estafilococos suscetíveis à meticilina, para as quais são os agentes de escolha.&lt;/p&gt;
+
+&lt;h2 id=&quot;uso-profilático&quot;&gt;Uso profilático&lt;/h2&gt;
+
 &lt;h2 id=&quot;citações&quot;&gt;Citações&lt;/h2&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:Mandell&quot;&gt;
-      &lt;p&gt;Livro do Mandell &lt;a href=&quot;#fnref:Mandell&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Mandell:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Livro do Mandell &lt;a href=&quot;#fnref:Mandell&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:Mandell:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:Mandell:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:Mandell:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:Mandell:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;sup&gt;5&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>@moscafilipe</name></author><summary type="html"></summary></entry><entry><title type="html">Neutropenia febril</title><link href="http://localhost:4000/infectologia/neutropenia-febril.html" rel="alternate" type="text/html" title="Neutropenia febril" /><published>2020-04-06T00:00:00-03:00</published><updated>2020-04-06T00:00:00-03:00</updated><id>http://localhost:4000/infectologia/neutropenia-febril</id><content type="html" xml:base="http://localhost:4000/infectologia/neutropenia-febril.html">&lt;ul id=&quot;markdown-toc&quot;&gt;

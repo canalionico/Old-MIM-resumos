@@ -1016,6 +1016,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/atb/tab-penicilinas.jpeg'
       
+        '/assets/infectologia/atb/tab-penicilinas2.jpeg'
+      
         '/assets/infectologia/dengue/dd.jpeg'
       
         '/assets/infectologia/dengue/ref1.jpeg'

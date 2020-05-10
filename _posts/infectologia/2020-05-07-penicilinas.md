@@ -85,7 +85,7 @@ Anaeróbicos gram-positivos sãosucetíveis às penicilinas. Gram-negativos anae
 
 ![Penicilinase](/assets/infectologia/atb/tab-penicilinas2.jpeg)
 
-## Farmacologia
+## Farmacodinâmica
 
 ### Absorção
 
@@ -103,6 +103,8 @@ As penicilinas se ligam de forma bem heterogênea às proteínas séricas, indo 
 
 Apesar de apenas as moléculas livres exercerem atividade antibióticas, a ligação é reversível.
 
+### Excreção
+
 A principal forma de excreção das penicilinas ocorre pelos rins. As moléculas são filtradas pelos glomérulos e rapidamente excretadas na urina como moléculas intactas pelas celulas tubulares. Ou seja, são pouco metabolizadas. Também existe excreção biliar mas em menor grau, sendo importante apenas para a nafcilina e as penicilinas anti-pseudomonas.
 
 Normalmente a meia vida é bastante curta, entre 30 e 70 min.
@@ -113,12 +115,57 @@ Em neonato há menor excreção renal pois a função tubular ainda não está b
 
 Má função renal deve ser considerada na administração de algumas penicilinas, como a ticarcilina. Para um clearance da creatinina acima de 10 a 20 mL/min, são necessários apenas pequenos ajustes na dosagem das outras penicilinas. Já na presença de anúria, ai será necessária redução nas doses diárias das penicilinas naturais, nas resistentes à penicilinase e nas aminopenicilinas.
 
-A diálise peritonial
+A concentração urinária das penicilinas é alta mesmo em pessoas com moderada insuficiência renal.
+
+A diálise peritonial remove as penicilinas de forma muito variável. Contudo, usualmente apenas a Ticarcilina necessita de correção da dose após uma sessão. Já nas hemodiálises, as doses de penicilina G, ampicilina, amoxicilina, toxicilina e piperacilina precisam ser ajustadas, mas as doses sde nafcilina ou de isoxazolil penicilina não.
+
+### Biodisponibilidade
+
+As penicilinas se distribuem muito bem pela maioria dos tecidos, como pulmões, fígado, rins, músculos, ossos e placenta. Os níveis de penicilina em abcessos e fluidos do ouvido médio, pleural, peritonal, sinovial, costumam ser suficientes para seu efeito.
+
+Importante saber que a maioria das penicilinas é relativamente insolúvel em lipídios e penetra mal nas células. Dessa forma, a distribuição de todas as penicilinas no olho, cérebro, líquido cefalorraquidiano ou próstata é nula na ausência de inflamação. Por que? Pois a inflamação altera a permeabilidade das membranas e permite a entrada das penicilinas.
+
+A maiora delas são ativamente secretadas na bile, atingindo níveis de concentração 10 a 100 vezes maior que o do sangue.
+
+> In the presence of common duct obstruction, the levels of all penicillins in bile are markedly reduced. Because the biliary transport system is a saturable one, with drug doses producing very high serum levels, the biliary levels are not significantly increased over those measured at lower serum levels.[^Mandell]
+
+## Efeitos adversos
+
+O mais importante efeito adverso causado pelas penicilina são as reações de hipersensibilidade. A gravidade da reação de ir desde um simples *rash* cutâneo até uma anafilaxia, reações mediadas pelas imunoglobulinas IgE.
+
+> Penicilloyl and penicillanic acid derivatives are the major determinants of penicillin allergy. The penicilloyl determinant, which is produced through opening of the β-lactam ring, thereby allowing amide linkage to body proteins, is the most important antigenic component.[^Mandell]
+
+Embora um histórico de alergia à penicilina seja bastante comum, menos de 2% terá uma reação alérgica se desafiado, mas o risco é maior para aqueles com histórico de reação imediata de hipersensibilidade ou teste cutâneo positivo.
+
+As erupções morbiformes que se desenvolvem após o tratamento com penicilina provavelmente são devidas a anticorpos IgM para o benzil peniciloil hapteno. Em muitos pacientes, essas erupções cutâneas desaparecem, mesmo se a penicilina for continuada, devido à produção de anticorpo bloqueador IgG.
+
+Se ocorrer uma reação de hipersensibilidade, a adrenalina administrada por via intramuscular ou intravenosa geralmente interrompe a reação. Anti-histamínicos e corticosteróides não demonstraram ser benéficos.
+
+A toxicidade hematológica é rara, embora tenha sido encontrada neutropenia com o uso de todos os tipos de penicilinas, principalmente quando grandes doses são usadas. Os mecanismos da neutropenia são desconhecidos e as contagens de glóbulos brancos voltam ao normal rapidamente se o
+agente infrator é descontinuado.
+
+Às vezes, uma dose mais baixa de medicamento pode ser usada sem produção de neutropenia. A anemia hemolítica positiva por Coombs ocorre raramente. Todas as penicilinas em altas concentrações, particularmente a ticarcilina, se ligam ao local receptor da adenosina difosfato nas plaquetas, impedindo a agregação plaquetária normal. Mas sangramento clinicamente significativo ocorre com pouca frequência.
+
+
+## Uso clínico
+
+A penicilina G ainda permanece como o principal agente para o tratamento de infecções por *Streptococcus pyogenes*, cepas suscetíveis de *Streptococcus pneumoniae* e cepas suscetíveis de *S. aureus*.
+
+**Penicilina G intravenosa** permanece o tratamento de escolha para meningite meningocócica e pneumocócica, endocardite por estreptococos e neurossífilis.
+
+Penicilina G é a droga de escolha para toos os estágios de sífilis. Também é a primeira escolha para infecções puerperais por estreptococos anaeróbios ou estreptococos do grupo B (*Streptococcus agalactiae*). Infecções genitais por clostridium também. 
+
+Praticamente todas as cepas de *Neisseria meningiditis* são suscetíveis à penicilina G. Já para os *Neisseria gonorrhoeae*, as cepas costumam ser resistentes. Dessa forma, penicilinas não são mais recomendadas para tratar gonorréia.
+
+As penicilinas resistentes à penicilinase são indicadas apenas para o tratamento de infecções causadas por cepas de estafilococos suscetíveis à meticilina, para as quais são os agentes de escolha.
 
 
 
 
 
+
+
+## Uso profilático
 
 
 

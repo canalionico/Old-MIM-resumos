@@ -8,4 +8,4 @@ O formato de organização dos arquivos pode parecer estranho mas ele segue o pa
 
 Todos os arquivos possuem um botão de editar. Além disso, todos os textos seguem o formato de escrita **Markdown** (MD). Pode parecer complexo mas na verdade os formato MD é bastante simples e intuitívo. É baseado nesse formato que o Jekyll vai gerar o site. Para aprender rapidamente [como escrever em Markdown você pode ler a documentação](https://www.markdownguide.org/basic-syntax).
 
-Qualquer duvida, você pode usar a aba de issues para entrar em contato comigo. Ou, se preferir, pode mandar um email para <filipemosca@canalionico.com.br>.
+Qualquer duvida, você pode usar a aba de issues para entrar em contato comigo. Ou, se preferir, pode mandar um email para <filipemosca@disroot.org>.

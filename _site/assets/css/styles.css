@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Padding order: top right bottom left */
 .wrapper {
-  max-width: 800px;
+  max-width: 700px;
   margin-right: auto;
   margin-left: auto;
   padding-right: 20px;
@@ -16,8 +16,8 @@
 
 body {
   margin: 0 0 0 0;
-  font-family: "LS", "Computer Modern", 'Baskervville', serif;
-  font-size: 1.2rem;
+  font-family: 'Noto Serif', "LS", 'Baskervville', Georgia, serif;
+  font-size: 1rem;
   text-align: left;
   text-rendering: optimizeLegibility;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
@@ -378,13 +378,17 @@ tr:hover {
 #hematologia {
   background-color: #af0000; }
 
-article h2 {
-  font-size: 1.8em;
-  border-bottom: double gray; }
-article h3 {
-  font-size: 1.4em; }
-article h4 {
-  font-size: 1.2em; }
+article {
+  color: #333;
+  font-size: 1.2rem; }
+  article h2 {
+    font-size: 1.8em; }
+  article h3 {
+    font-size: 1.4em; }
+  article h4 {
+    font-size: 1.2em; }
+  article p {
+    line-height: 1.8; }
 
 pre {
   padding: 8px 12px;
