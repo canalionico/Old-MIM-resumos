@@ -3,7 +3,7 @@ title: Penicilinas
 categories: infectologia
 comment: 'Estudei pelo Mandell'
 status: 'true'
-revisado: 7 Mai 2020
+revisado: 13 Mai 2020
 ---
 
 * Sumário
@@ -153,20 +153,51 @@ A penicilina G ainda permanece como o principal agente para o tratamento de infe
 
 **Penicilina G intravenosa** permanece o tratamento de escolha para meningite meningocócica e pneumocócica, endocardite por estreptococos e neurossífilis.
 
-Penicilina G é a droga de escolha para toos os estágios de sífilis. Também é a primeira escolha para infecções puerperais por estreptococos anaeróbios ou estreptococos do grupo B (*Streptococcus agalactiae*). Infecções genitais por clostridium também. 
+Penicilina G é a droga de escolha para todos os estágios de sífilis. Também é a primeira escolha para infecções puerperais por estreptococos anaeróbios ou estreptococos do grupo B (*Streptococcus agalactiae*). Infecções genitais por clostridium também. 
 
 Praticamente todas as cepas de *Neisseria meningiditis* são suscetíveis à penicilina G. Já para os *Neisseria gonorrhoeae*, as cepas costumam ser resistentes. Dessa forma, penicilinas não são mais recomendadas para tratar gonorréia.
 
 As penicilinas resistentes à penicilinase são indicadas apenas para o tratamento de infecções causadas por cepas de estafilococos suscetíveis à meticilina, para as quais são os agentes de escolha.
 
+Aminopenicilinas são indicadas para o tratamento de infecções do trato respiratório superior e inferior, gastroenterites bacterianas (ampicilina), endocardite bacteriana, meningites e infecções do trato urinário por organismos sucetíveis. A amoxicilina é a preferida para administração oral.
 
+As drogas antipseudomonas e as penicilinas de amplo espectro são indicados para o tratamento de infecções por bacilos gram-negativos resistentes (especialmente *P. aeruginosa*). Normalmente são utilizados em combinação com outra droga, como um aminoglicosídeo.
 
-
-
-
+As ureidopenicilinas, particularmente a piperacilina, são ativas contra *Klebsiella spp.*, *Enterobacter spp.*, *Serratia marcescens* e *Providencia spp.* Normalmente a piperacilina é usada em associação com o tazobactam devido à prevalência de cepas produtoras de beta-lactamase. [Dá para usar a piperacilina sozinha?]
 
 ## Uso profilático
 
+A administração oral de 200.000 unidades de penicilina G ou penicilina V a cada 12 horas, ou penicilina benzatina intramuscular em 1.2 e 2.4 milhões de unidades mensalmente, são usadas na prevenção da febre reumática.
+
+Os surtos de infecção estreptocócica devido a *S. pyogenes* foram abortados pelo uso de penicilina oral G ou V (200.000 unidades) administradas 2 vezes ao dia por 5 dias, em injeções únicas de procaína penicilina diariamente ou pela administração de penicilina benzatina.
+
+Profilaxia intraparto com penicilina é recomendada para prevenir infecção neonatal por *S. agalactiae* em gestantes colonizadas.
+
+Ampicilina ou amoxicilina são administradas por via oral a crianças asplênicas ou crianças com  *agammaglobulinemia* para prevenir infecções causadas por *Haemophilus influenzae* e *S. pneumoniae*.
+
+Amoxicilina oral é recomendada como profilaxia para endocardite bacteriana em indivíduos de alto risco.
+
+A profilaxia da penicilina **não foi benéfica** na prevenção de infecção meningocócica, infecção bacteriana após infecção do trato respiratório viral ou pneumonia após coma, choque ou insuficiência cardíaca congestiva.
+
+## Propriedades 
+
+Essa parte é melhor ler com calma no livro do Mandell.
+
+### Penicilina G
+
+A penicilina G benzatina não é muito boa na forma de sal oral (instável no ácido estomacal). É melhor como um sal repositório parenteral ou intramuscular.
+
+A penicilina G cristalina em solução aquosa tem sido utilizada intramuscularmente, subcutaneamente, intravenosamente e intratecalmente.
+
+Dada por via intramuscular como uma solução aquosa, a penicilina G é rapidamente eliminada do corpo e pode ser preferível usar uma forma de repositório. Está disponível na forma de pó seco estéril em frascos para injetáveis contendo 5 ou 20 milhões de unidades por frasco para injetáveis.
+
+As penicilinas de repositório são apenas para uso intramuscular e não podem ser usadas por via intravenosa ou subcutânea.
+
+Dobrar a dose de penicilina procaína administrada em um único local de injeção não duplica o nível sérico. Para aumentar o nível de pico, é necessário usar dois locais do corpo, como é feito no tratamento da gonorréia, por exemplo, com 2,4 milhões de unidades de penicilina procaína administradas em cada nádega.
+
+### Penicilina V
+
+Apenas disponível na forma oral. É menos ativo que a penicilina G contra Haemophilus e Neisseria.
 
 
 
