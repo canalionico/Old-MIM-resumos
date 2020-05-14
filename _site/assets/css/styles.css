@@ -16,7 +16,7 @@
 
 body {
   margin: 0 0 0 0;
-  font-family: 'Noto Serif', "LS", 'Baskervville', Georgia, serif;
+  font-family: 'Noto Serif', 'LS', Georgia, serif;
   font-size: 1rem;
   text-align: left;
   text-rendering: optimizeLegibility;
@@ -27,10 +27,12 @@ body {
 @font-face {
   font-family: "LS";
   src: url("/assets/fonts/liberation_serif/lsregular.ttf"); }
-.alert {
-  padding: 5px 5px 5px 10px;
-  border-left: 6px solid red;
-  background-color: #eee; }
+.alert-purple {
+  padding: 16px;
+  border: 1px #6f42c1 solid !important;
+  background-color: #f5f0ff !important;
+  border-radius: 3px;
+  display: block; }
 
 .aviso-red {
   border-color: red; }
@@ -83,7 +85,8 @@ body {
   width: 100%; }
   .nav-site a {
     text-decoration: none;
-    background-color: #727272;
+    background-color: #f3f3f3 !important;
+    border: 1px solid #dadada !important;
     padding: 4px 6px 4px 6px;
     border-radius: 0.5rem;
     color: white;
@@ -101,7 +104,8 @@ body {
   .nav-posts a {
     text-decoration: none;
     font-size: 16px;
-    border: 1px solid black;
+    background-color: #f3f3f3 !important;
+    border: 1px solid #dadada !important;
     border-top: none;
     padding: 4px 6px 4px 6px;
     border-radius: 0 0 0.5rem 0.5rem;
@@ -197,7 +201,7 @@ body {
   color: white; }
 
 #markdown-toc::before {
-  content: "Sumário";
+  content: "Sumário 📑";
   font-weight: bold;
   font-size: 1.2rem; }
 
@@ -207,12 +211,10 @@ body {
   padding-left: 2rem;
   margin-left: 1.5rem;
   display: inline-block;
-  border-color: black;
-  border: 1px solid;
-  border-radius: 1rem;
+  border-radius: 10px;
   font-size: 1rem; }
   #markdown-toc a:hover {
-    color: #686868; }
+    text-decoration: underline; }
 
 .main {
   display: block;
@@ -545,6 +547,21 @@ a.footnote:after {
 @media only screen and (min-width: 800px) {
   #markdown-toc {
     float: right; }
+
+  .abertura {
+    display: flex; } }
+/* Aqui é pra grande computador */
+@media only screen and (min-width: 1200px) {
+  #markdown-toc {
+    position: fixed;
+    top: 10px;
+    right: 100px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 80%; }
+
+  .wrapper {
+    margin-right: 500px; }
 
   .abertura {
     display: flex; } }

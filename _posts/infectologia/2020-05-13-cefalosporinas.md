@@ -1,7 +1,7 @@
 ---
 title: Cefalosporinas
 categories: infectologia
-comment: 'Estudei pelo Mandell'
+comment: 'Estudei pelo Sanarflix'
 status: 'true'
 revisado: 13 Mai 2020
 ---
@@ -36,13 +36,13 @@ As cefalosporinas são muito heterogêneas e divididas em 5 gerações:
 * **1ª geração:** cefalexina, cefadroxila, cefazolina e cefalotina;
 * **2ª geração:** cefuroxima, cefaclor e cefoxitina;
 * **3ª geração:** ceftriaxona, cefotaxima e ceftazidima;
-• **4ª geração:** cefepime;
-• **5ª geração:** ceftarolina e ceftobiprole;
-• Outras cefalosporinas: cefiderocol.
+* **4ª geração:** cefepime;
+* **5ª geração:** ceftarolina e ceftobiprole;
+* Outras cefalosporinas: cefiderocol.
 
 ## Aplicação clínica
 
-![Principais Grams](/assets/infectologia/atb/grams-principais.png)
+![Principais Grams]({{'/assets/infectologia/atb/grams-principais.png' | relative_url}})
 
 ### 1ª geração
 
@@ -98,8 +98,49 @@ Tem um efeito colateral de poder causar convulsões. Nessas situações ou quand
 
 ### 5ª geração
 
+No Brasil, represetada apenas pela **ceftarolina**, uma droga ainda bastante cara. Seu espectro de ação é semelhante ao da ceftriaxona, porém tem atividade melhor contra gram-positivos, e trouxe como principal vantagem a ampliação do espectro de ação das cefalosporinas, cobrindo *Staphylococcus aureus* meticilino-resistente (MRSA) e *enterococos* (o grande “calcanhar de Aquiles” das cefalosporinas). Contudo, a 5ª geração não possui ação relevante contra alguns anaeróbios.
+
+Sua principal aplicação clínica se dá nas infecções de pele e partes moles complicadas. É bastante utilizada nas infecções por gram-positivos em ambiente intra-hospitalar, muitas vezes em UTIs.
+
+Porém, a **ceftarolina** não possui ação anti-pseudomonas e o **ceftobiprole** (não disponível no Brasil) não possui ação contra bacteroides.
+
+
+## Farmacinética
+
+A maioria das cefalosporinas pareterais possuem meia-vida curta (no máximo de 1 hora). Dessa forma, devem ser administradas em intervalos curtos (4 horas). 
+
+Fogem dessa regra a cefazolina e a ceftriaxona com meia-vida mais longa. Estas podem ser administradas a cada 8 e 24 horas, respectivamente.
+
+Em pacientes com insuficiência renal, as doses necessitam ser ajustadas, exceto para a **ceftriaxona que tem maior excreção biliar**.
+
+As drogas atingem boas concentrações nos líquidos corporais, como líquidos
+pleural, pericárdico, peritoneal e sinovial, assim como na urina. Já em relação ào LCR, existem ressalvas individuais como já foi discutido acima (relembrando: as de 1ª e 2ª geração, exceto a cefuroxima, não atravessa a BHE -- não são indicadas para infecções do SNC).
+
+## Gestação
+
+As cefalosporinas são drogas **bastante seguras**. Não existem contraindicações durante a gravidez. Contudo, o **aleitamento é desencorajado**, já que essa está presente no leite materno e pode modificar a flora intestinal dos lactentes.
+
+## Efeitos adveros
+
+O efeito adverso mais comum são as reações de hipersensibilidade, com uma prevalência de 1 a 3% na população geral.
+
+Das reações alérgicas, a manifestação mais comum é o **exantema**. Urticária e anafilaxia são raras. Podem ocorrer em resposta a cefalosporinas específicas, a grupos de cefalosporinas ou como reação cruzada com outros antibióticos beta-lactâmicos.
+
+Existem também outros efeitos menos comuns, como a diarreia por *Clostridium difficile* (colite pseudomembranosa), tromboflebite, trombocitopenia e leucopenia.
+
+> Muito se fala sobre a reação cruzada entre penicilinas e cefalosporinas. Nos pacientes alérgicos a penicilinas costuma-se proscrever o uso de todas as cefalosporinas, o que é um erro. Estudos já demonstraram que esta reação cruzada ocorre com as cefalosporinas de primeira geração (de forma frequente) e com as de segunda geração (de forma desprezível). Já nas demais gerações, não se observaram reações cruzadas. [Extraído do SanaFlix]
+
+
+## Toxicidade
+
+A ceftriaxona deve ser evitada em neonatos (≤ 28 dias), se estiverem recebendo ou se espera que recebam produtos contendo **cálcio intravenoso** (entre estes a solução de Ringer ou a nutrição parenteral). Esta recomendação se deve ao fato de que foram relatadas reações fatais, devido a **precipitados de cálcio-ceftriaxona** nos pulmões e rins de neonatos.
 
 
 
 
 
+
+## Referências
+
+1. Sanarflix. Super material. Cefalosporinas.
+2. Vorobeichik L, Weber EA, Tarshis J. Misconceptions Surrounding Penicillin Allergy: Implications for Anesthesiologists. Anesth Analg. 2018;127(3):642‐649. doi:10.1213/ANE.0000000000003419.

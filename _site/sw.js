@@ -52,12 +52,10 @@ self.addEventListener('install', function (event) {
       
         '/sumario/urologia.html',
       
-        '/assets/main.css',
       
-        '/feed.xml',
+        '/esclerite-e-episclerite.html',
       
-        '/sitemap.xml',
-      
+        '/infectologia/cefalosporinas.html',
       
         '/infectologia/penicilinas.html',
       
@@ -1010,6 +1008,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/atb-meningite2.jpeg'
       
+        '/assets/infectologia/atb/grams-principais.png'
+      
+        '/assets/infectologia/atb/parede.png'
+      
         '/assets/infectologia/atb/pbp.jpeg'
       
         '/assets/infectologia/atb/penicilinase.jpeg'
@@ -1511,8 +1513,6 @@ self.addEventListener('install', function (event) {
         '/safari-pinned-tab.svg'
       
         '/site.webmanifest'
-      
-        '/assets/minima-social-icons.svg'
       
 
       ]);
