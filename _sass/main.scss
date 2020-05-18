@@ -428,7 +428,11 @@ kbd {
   white-space: nowrap;
 }
 blockquote {
-
+  border-style: solid;
+  border-width: 0 0 0 .2rem;
+  border-color: #6f42c1;
+  padding: .5rem 0 .5rem 2rem;
+  color: gray;
 }
 img {
   max-width: 90%;
@@ -490,10 +494,6 @@ a.footnote:after {
 
 
 /* footer */
-.footer {
-  border-top: 1px solid #e8e8e8;
-  padding: 10px;
-}
 .coisas {
   margin: 0 auto;
   font-size: 16px;

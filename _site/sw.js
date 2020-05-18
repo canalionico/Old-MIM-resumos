@@ -455,6 +455,10 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/semiologia-obstetrica.html',
       
+        '/neonatologia/semiologia-rn.html',
+      
+        '/neonatologia/introducao-neonato.html',
+      
       
         '/CNAME'
       
@@ -1159,6 +1163,18 @@ self.addEventListener('install', function (event) {
         '/assets/neonatologia/infeccoes-cong/tab3.jpeg'
       
         '/assets/neonatologia/infeccoes-cong/tto.jpeg'
+      
+        '/assets/neonatologia/intro/circ-fetal.jpg'
+      
+        '/assets/neonatologia/intro/circ-fetal2.jpeg'
+      
+        '/assets/neonatologia/intro/mapa.jpeg'
+      
+        '/assets/neonatologia/intro/pulm-broto.jpg'
+      
+        '/assets/neonatologia/intro/pulm.jpg'
+      
+        '/assets/neonatologia/intro/pulmao.jpeg'
       
         '/assets/neonatologia/leite1.jpeg'
       
