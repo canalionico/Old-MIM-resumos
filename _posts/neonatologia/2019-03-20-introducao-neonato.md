@@ -1,7 +1,10 @@
 ---
-title: Introdução à neonatologia
+title: Fisiologia neonatal
 categories: neonatologia
 layout: post
+comment: 'Estudei pelo Sanarflix, resumo e aula'
+status: 'true'
+revisado: 18 Mai 2020
 ---
 
 * Sumário
@@ -36,6 +39,12 @@ Ocorre de 5 a 17 semanas. No início, os pulmões se parecem histologicamente a 
 ### Período canalicular
 
 Ocorre de 16 a 25 semanas. Nessa fase os tecidos pulmonares começam a se tornar altamente vascularizados. Até o fim dessa fase, cada bronquíolo terminal dá origem a dois ou mais bronquíolos respiratórios, cada um dos quais se divide em três a seis passagens tubulares – os ductos alveolares primordiais.
+
+
+<figure>
+<img src="/assets/neonatologia/intro/gr1.jpg">
+</figure>
+
 
 Ou seja, quando esse período acaba, **já é possível respirar**. Os sacos terminais de parede fina (alvéolos primordiais) e o tecido pulmonar bem vascularizado já permitem trocas gasosas.
 
@@ -125,11 +134,16 @@ A partir daí, todo o débito do VD começa a fluir para os pulmões e o *shunt*
 
 Essa mudança para o desvio da esquerda para a direita após o parto resulta em um aumento no volume sistólico ventricular, que está associado a um aumento na saturação de oxigênio cerebral.
 
-No curso de vários dias, a PO2 arterial alta constringe e eventualmente fecha o canal arterial, que eventualmente se torna o ligamento arterioso. 
+No curso de vários dias, a PO2 arterial alta e a queda nos níveis de prostaglandina-E2 (pois a placenta era a maior fonte dessas moléculas) constringe a musculacura vascular e fecha o canal arterial, que eventualmente se torna o ligamento arterioso. O fechamento funcional ocorre até 4 dias de vida e a obliteração do canal ocorre até 7 dias.
+
+<span class="alert-purple" markdown="1">
+O ibuprofeno e a indometacina, potentes inibidores não seletivos da ciclo-oxigenase, inibem a síntese de prostaglandina-E2 e são medicamentos usados na persistência do canal arterial.[^Pacifici]
+</span>
+
+
 
 O volume aumentado do fluxo sanguíneo pulmonar que retorna para o AE a partir dos pulmões aumenta o volume e a pressão do AE de modo suficiente
 para **fechar funcionalmente o flap do forame oval** (em alguns casos pode permanecer patente). O fechamento do forame oval ocorre quando a pressão atrial esquerda excede a pressão atrial direita.
-
 
 Agora que o VE está ejetando sangue para a circulação sistêmica de alta resistência, sua espessura começa a aumentar. O oposto se observa no VD, com parede que diminui.
 
@@ -158,8 +172,15 @@ Apesar de a maioria dos neonatos se adaptarem fisiologicamente ao meio externo, 
 ## Referência
 
 1. SanarFlix. Introdução à neonatologia. Super Material. 2020. 
+2. Donahoe PK, Longoni M, High FA. Polygenic Causes of Congenital Diaphragmatic Hernia Produce Common Lung Pathologies. Am J Pathol. 2016;186(10):2532‐2543. doi:10.1016/j.ajpath.2016.07.006.
+3. Schittny JC. Development of the lung. Cell Tissue Res. 2017;367(3):427‐444. doi:10.1007/s00441-016-2545-0.
+4. Pacifici GM. Ibuprofen and indomethacin for the closure of the patent ductus arteriosus. Medical Express. 2016;3(3). doi:10.5935/MedicalExpress.2016.03.01.
 
 
 ## Citações
 
 [^Schittny]: Schittny JC. Development of the lung. Cell Tissue Res. 2017;367(3):427‐444. doi:10.1007/s00441-016-2545-0
+
+[^Pacifici]: Pacifici GM. Ibuprofen and indomethacin for the closure of the patent ductus arteriosus. Medical Express. 2016;3(3). doi:10.5935/MedicalExpress.2016.03.01.
+
+[^Donahoe]: 

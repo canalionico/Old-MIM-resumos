@@ -451,7 +451,11 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno.html',
       
+        '/neonatologia/reanimacai-nenonatal.html',
+      
         '/obstetricia/endocrinologia-obstetrica.html',
+      
+        '/neonatologia/triagem-neonatal.html',
       
         '/obstetricia/semiologia-obstetrica.html',
       
@@ -1164,17 +1168,43 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/infeccoes-cong/tto.jpeg'
       
+        '/assets/neonatologia/intro/090917afbe1336d2af7ccaba1af4943f.png'
+      
+        '/assets/neonatologia/intro/3553b4b35f955d1b7409e36a7174fd09.png'
+      
+        '/assets/neonatologia/intro/apgar.png'
+      
+        '/assets/neonatologia/intro/bristol.jpeg'
+      
+        '/assets/neonatologia/intro/capurro.jpg'
+      
+        '/assets/neonatologia/intro/capurro2.jpg'
+      
+        '/assets/neonatologia/intro/cardiopatias.png'
+      
         '/assets/neonatologia/intro/circ-fetal.jpg'
       
         '/assets/neonatologia/intro/circ-fetal2.jpeg'
       
+        '/assets/neonatologia/intro/falciforme.png'
+      
+        '/assets/neonatologia/intro/gr1.jpg'
+      
         '/assets/neonatologia/intro/mapa.jpeg'
+      
+        '/assets/neonatologia/intro/olinho.png'
+      
+        '/assets/neonatologia/intro/orelha.png'
       
         '/assets/neonatologia/intro/pulm-broto.jpg'
       
         '/assets/neonatologia/intro/pulm.jpg'
       
         '/assets/neonatologia/intro/pulmao.jpeg'
+      
+        '/assets/neonatologia/intro/teste-do-olhinho.jpg'
+      
+        '/assets/neonatologia/intro/teste-pezinho.png'
       
         '/assets/neonatologia/leite1.jpeg'
       
