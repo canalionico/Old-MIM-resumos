@@ -28,6 +28,13 @@ body {
   src: url('/assets/fonts/liberation_serif/lsregular.ttf');
 }
 
+.alert {
+  padding: 16px;
+  border: 1px #6f42c1 solid !important;;
+  background-color: #f5f0ff !important;
+  border-radius: 3px;
+  display: block;
+}
 .alert-purple {
   padding: 16px;
   border: 1px #6f42c1 solid !important;;

@@ -1,5 +1,5 @@
 - name: Voltar
-  link: /
+  link: /{{ post.category }}
   icon: arrow-left
 - name: Canal Iônico
   link: https://canalionico.com.br

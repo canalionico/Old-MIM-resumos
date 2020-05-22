@@ -451,7 +451,7 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno.html',
       
-        '/neonatologia/reanimacai-nenonatal.html',
+        '/neonatologia/reanimacao-nenonatal.html',
       
         '/obstetricia/endocrinologia-obstetrica.html',
       
@@ -1221,6 +1221,18 @@ self.addEventListener('install', function (event) {
         '/assets/neonatologia/radio-sam.jpeg'
       
         '/assets/neonatologia/radio-ttrn.jpeg'
+      
+        '/assets/neonatologia/reanimacao/flux-geral.png'
+      
+        '/assets/neonatologia/reanimacao/flux.png'
+      
+        '/assets/neonatologia/reanimacao/flux2.png'
+      
+        '/assets/neonatologia/reanimacao/flux3.png'
+      
+        '/assets/neonatologia/reanimacao/medicacoes.png'
+      
+        '/assets/neonatologia/reanimacao/passos-iniciais.png'
       
         '/assets/neonatologia/rx-dmh.jpeg'
       
