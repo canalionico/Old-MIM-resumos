@@ -16,7 +16,7 @@
 
 body {
   margin: 0 0 0 0;
-  font-family: 'Noto Serif', 'LS', Georgia, serif;
+  font-family: Helvetica, 'LS', Georgia, serif;
   font-size: 1rem;
   text-align: left;
   text-rendering: optimizeLegibility;
@@ -258,6 +258,9 @@ a {
   a :visited {
     color: purple; }
 
+ol li {
+  margin-block-start: 0.4em; }
+
 ::selection {
   background: yellow;
   /* WebKit/Blink Browsers */
@@ -385,7 +388,7 @@ tr:hover {
   background-color: #af0000; }
 
 article {
-  color: #333;
+  color: #3d3d3d;
   font-size: 1.2rem; }
   article h1 {
     font-size: 2em;
@@ -396,8 +399,6 @@ article {
     font-size: 1.4em; }
   article h4 {
     font-size: 1.2em; }
-  article p {
-    line-height: 1.8; }
 
 pre {
   padding: 8px 12px;

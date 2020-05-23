@@ -1,10 +1,10 @@
 ---
-title: Reanimação neonatal
+title: Reanimação neonatal ≥ 34 semanas
 categories: neonatologia
 layout: post
 comment: 'Estudei pelo Sanarflix, resumo e aula'
 status: 'true'
-revisado: 21 Mai 2020
+revisado: 23 Mai 2020
 ---
 
 * Sumário
@@ -74,9 +74,10 @@ O clampeamento entre tardio (1-3 min) no RN a termo melhora índices hematológi
 
 Se a circulação placentária não estiver intacta (descolamento prematuro de placenta, placenta prévia ou rotura, prolapso ou nó verdadeiro de cordão) ou se o RN não inicia a respiração ou não mostra atividade/tônus adequado, recomenda-se o clampeamento imediato do cordão, para não retardar as medidas de reanimação. Também não é recomendada a ordenha de cordão.
 
-1. *Se* respiração adequada;
-2. *e* tônus em flexão;
-3. *logo*, clampeamento tardio.
+1. *Se* RN ≥ 34 semanas, 
+2. *e* respiração adequada,
+3. *e* tônus em flexão,
+4. *logo*, clampeamento tardio.
 
 <span class="alert">
 Boa vitalidade = chorando e tônus em flexão. Essas duas observações indicam o clampeamento tardio.
@@ -84,7 +85,12 @@ Boa vitalidade = chorando e tônus em flexão. Essas duas observações indicam 
 
 ![FLuxograma](/assets/neonatologia/reanimacao/flux.png)
 
-Se o RN cumpriu os critérios de clampeamento tardio, ele deve ser mantido em contato pele a pele com a mãe na primeira hora de vida. Enquanto isso, deve-se avaliar continuamente sua frequência cardíaca, perviedade das vias aéreas (sem flexões exageradas ou hiperextensão e sem secreções), tônus, respiração, atividade. Deve-se secar o RN com compressas aquecidas e mantê-lo em contato pele a pele envolto em cobertas de algodão aquecido. Sempre tomar o cuidado de manter a normotermia dos RNs (36,5-37,5°C), a temperatura na sala de parto deve ser ambiente (23-26°C).
+Se o RN cumpriu os critérios de clampeamento tardio e for termo, ele deve ser mantido em contato pele a pele com a mãe na primeira hora de vida. Enquanto isso, deve-se avaliar continuamente sua frequência cardíaca, perviedade das vias aéreas (sem flexões exageradas ou hiperextensão e sem secreções), tônus, respiração, atividade. Deve-se secar o RN com compressas aquecidas e mantê-lo em contato pele a pele envolto em cobertas de algodão aquecido. Sempre tomar o cuidado de manter a normotermia dos RNs (36,5-37,5°C), a temperatura na sala de parto deve ser ambiente (23-26°C).
+
+1. *Se* RN termo (37-41 semanas), 
+2. *e* respiração adequada,
+3. *e* tônus em flexão,
+4. *logo*, manter em contato com a mãe após o campleamento.
 
 A amamentação na primeira hora pós-parto assegura que o RN receba o colostro, rico em fatores protetores. O contato pele-a-pele entre mãe e bebê ao nascimento favorece o início precoce da amamentação e aumenta a chance do aleitamento materno exclusivo ser bem sucedido nos primeiros meses de vida.
 
@@ -92,12 +98,23 @@ A amamentação na primeira hora pós-parto assegura que o RN receba o colostro,
 Para o RN termo (37-41 semanas) que nasce com boa vitalidade (choro e tônus em flexão) não é necessário posicioná-lo na mesa de reanimação. Ele pode permanecer em contato pele a pele com a genitora.
 </span>
 
-Se o RN não é termo ou tem respiração regular ou tem tônus muscular flácido, após o clampeamento imediato do cordão, ele deve ser encaminhado para o berço de reanimação.
+Se a circulação placentária não estiver intacta (descolamento prematuro de placenta, placenta prévia ou rotura ou prolapso ou nó verdadeiro de cordão) ou se o RN ≥ 34 semanas não inicia a respiração ou não mostra tônus muscular em flexão, recomenda-se o **clampeamento imediato** do cordão.
 
-1. *Se* pré-termo ou pós-termo *ou*,
+1. *Se* circulação placentária não intacta *ou*,
+2. tônus flácido *ou*,
+3. respiração irregular,
+4. *logo*, clampeamento imediato.
+
+Se o RN não é termo ou tem respiração regular ou tem tônus muscular flácido, após o clampeamento do cordão, ele deve ser encaminhado para o berço de reanimação.
+
+1. *Se* pré-termo (< 37s) ou pós-termo (≥ 42s) *ou*,
 2. tônus flácido *ou*;
 3. respiração irregular;
-4. *logo*, clampeamento imediato *e* levar à mesa de reanimação.
+4. *logo*, levar à mesa de reanimação.
+
+<span class="alert">
+Resumindo: se foi recomendado o campleamento tardio ou o RN é pós ou pré-termo, ele deve ser levado à mesa de reanimação.
+</span>
 
 # Passos iniciais
 
@@ -107,10 +124,10 @@ Se o RN tiver vias aéreas obstruídas por secreção, **aspirar** boca e narina
 
 Resumindo os passos iniciais que devem ser realizados em 30 segundos:
 
-1. Prover calor,
-2. posicionar a cabeça em leve extensão,
-3. aspirar boca e narinas (se necessário),
-4. secar e desprezar campos úmicos,
+1. Prover calor;
+2. posicionar a cabeça em leve extensão;
+3. aspirar boca e narinas (se necessário);
+4. Secar e desprezar campos úmicos;
 5. Reposicionar a cabeça.
 
 Após realização dos passos iniciais em 30 segundos, faz-se a **avaliação da frequência cardíaca e da respiração** do RN.
@@ -137,7 +154,7 @@ A **aspiração traqueal sob visualização direta** só deve ser feita nos RNs 
 
 # Ventilação de pressão positiva
 
-A VPP tem como objetivo inflar os pulmões, dilatar a vascularização pulmonar e garantir hematose adequada.
+O ponto crítico para o sucesso da reanimação é a ventilação adequada, fazendo com que os pulmões do RNPT se inflem e, com isso haja dilatação da vasculatura pulmonar e hematose apropriada.
 
 A ventilação pulmonar é o procedimento mais efetivo na reanimação do RN devido à hipóxia que o RN está submetido neste período. Ela deve ser indicada ainda nos primeiros 60 segundos de vida, o chamado **minuto de ouro** 🔶️.
 
@@ -147,7 +164,7 @@ A VPP é a principal manobra da reanimação neonatal!
 
 O RN em VPP deve ser monitorado com oximetria de pulso (**pulso radial direito** para detectar a circulação **pré-ductal**) e monitor cardíaco (um eletrodo em cada braço e um terceiro eletrodo na face anterior da coxa). Obs: o monitor cardíaco é só para ver a FC, não é necessário ver o ritmo.
 
-A VPP deve ser iniciada com oferta de oxigênio a 21% (ar ambiente) através de balão autoinflável ou ventilador mecânico manual em T acoplado a uma máscara facial.
+A VPP no RN ≥ 34s deve ser iniciada com oferta de **oxigênio a 21%** (ar ambiente) através de balão autoinflável ou ventilador mecânico manual em T acoplado a uma máscara facial.
 
 A máscara deve ter tamanho suficiente objetivando cobrir a ponta do queixo, a boca e o nariz. Deve ser segurada de forma firme para minimizar escapes com os dedos indicador e polegar na borda da máscara, formando a letra C, e os dedos médio, anular e mínimo formando a letra E.
 
@@ -213,12 +230,13 @@ Se a FC cair para < 60, o RN deve estar intubado, recebendo FIO2 de 60-100% para
 
 A massagem cardíaca está indicada se a freqüência cardíaca do RN estiver menor que 60 bpm após falha na tentativa de ventilação com pressão positiva com cânula orotraqueal e oxigênio suplementar de 100%. Ou seja, **antes de iniciar a massagem cardíaca o RN precisa estar intubado**.
 
+A asfixia pode desencadear vasoconstrição periférica, hipoxemia tecidual, diminuição da contratilidade miocárdica, bradicardia e, eventualmente, parada cardíaca. 
+
 <span class="alert">
 Como a massagem cardíaca diminui a eficácia da ventilação e a última é a ação mais efetiva na reanimação neonatal, as compressões só devem ser iniciadas quando a expansão e a ventilação pulmonares estiverem bem estabelecidas.
 </span>
 
 Na prática clínica, a massagem cardíaca é iniciada se a FC estiver < 60 bpm após 30 segundos de VPP com técnica adequada por meio da cânula traqueal e uso de concentração de oxigênio de 60-100%.
-
 
 As compressões são realizadas no 1/3 infeior do esterno (logo abaixo da linha intermamilar e poupando o apêndice xifoide), com os dois polegares sobrepostos e os demais dedos abraçando o tórax e comprimindo 1/3 do diâmetro do tórax, permitindo a reexpansão completa.
 
@@ -230,24 +248,37 @@ A ventilação é realizada de forma sincrônica com a massagem cardíaca, com *
 90 compressões e 30 ventilações por minuto.
 </span>
 
+É de bom-senso oferecer concentração de oxigênio até 100% no RN que está recebendo VPP e massagem cardíaca. Essa recomendação leva em conta os efeitos deletérios da hipóxia profunda e persistente no paciente asfixiado e a impossibilidade de ajustar a quantidade de oxigênio a ser oferecida, pois a oximetria de pulso não é capaz de detectar um sinal confiável em neonatos bradicárdicos. Para reduzir o risco de complicações associadas à hiperóxia, a oferta de oxigênio suplementar deve ser reduzida assim que houver recuperação da FC.
+
 Após 60 segundos de massagem cardíaca, deve-se avaliar a frequência cardíaca, **se > 60 bpm**, suspender massagem. **Se < 60 bpm**, verificar a técnica e continuar massagem sincronizada com ventilação. Se, ainda assim, não houver melhora, está indicada a adrenalina.
+
+<span class="alert">
+Considera-se a falha do procedimento se, após 60 segundos de VPP com cânula traqueal e oxigênio a 100% acompanhada de massagem cardíaca, o RN mantém FC < 60 bpm.
+</span> 
 
 # Medicações
 
-Caso seja indicada **adrenalina**, a via preferência de administração é por via endovenosa por **cateter na veia umbilical** que deve ser introduzido 1-2cm após o ânulo. 
-Ter cuidado durante a cateterização e administração de drogas para evitar embolia gasosa.
+Caso seja indicada **adrenalina**, a via preferência de administração é por via endovenosa por **cateter na veia umbilical** que deve ser introduzido 1-2 cm após o ânulo. Ter cuidado durante a cateterização e administração de drogas para evitar embolia gasosa.
+
+<span class="alert">
+Antes de todos os partos, devemos já ter preparado a diluição da adrenalina. Para preparar a diluição de 1:10.000 precisamos diluir 1 mL de epinefrina 1:1.000 em 10 mL de soro fisiológico.
+</span>
+
+Enquanto se espera a realização da cateterização, pode-se administrar uma única dose de **adrenalina traqueal**, na concentração de 0,05-0,10 mg/kg. Se não houver melhora imediata, administra adrenalina endovenosa em dose de 0,01-0,03 mg/Kg. Não havendo melhora da bradicardia, a adrenalina pode ser **aplicada a cada 3-5 minutos** por via endovenosa.
+
+Doses elevadas (> 0,1 mg/kg) não devem ser empregadas no período neonatal, pois levam à hipertensão arterial grave, diminuição da função miocárdica e piora do quadro neurológico.
 
 <span class="alert">
 A epinefrina aumenta a pressão de perfusão coronariana por meio da vasoconstricção periférica.
 </span>
 
-Enquanto se espera a realização da cateterização, pode-se administrar uma única dose de **adrenalina traqueal**, na concentração de 0,05-0,10 mg/kg. 
-
-Se não houver melhora imediata, administra adrenalina endovenosa em dose de 0,01-0,03 mg/Kg. Não havendo melhora da bradicardia, a adrenalina pode ser **aplicada a cada 3-5 minutos** por via endovenosa.
-
 ![Posologia](/assets/neonatologia/reanimacao/medicacoes-sbp.png)
 
 Se o RN não melhorar da bradicardia ou apresentar sangramento ou sinais de choque hipovolêmico, está indicado o uso de **expansor de volume**. A expansão é feita com **soro fisiológico a 0,9%**, lentamente com 10 mL/Kg infundido entre 5-10 minutos. Se não houver melhora, deve-se reavaliar a técnica.
+
+<span class="alert">
+Sempre deixar preparadas duas seringas de 20 mL de soro fisiológico.
+</span>
 
 Se após 10 minutos de reanimação o RN permanecer em assistolia, pode-se interromper a reanimação, no entanto esta decisão é individualizada.
 
@@ -280,7 +311,3 @@ O apgar é uma avaliação retrospectiva, não deve indicar a conduta!
 1. SanarFlix. Reanimação neonatal. Super Material. 2020. 
 2. SBP. Reanimação do recém-nascido ≥ 34 semanas em sala de parto: Diretrizes 2016 da Sociedade Brasileira de Pediatria. 26 de janeiro de 2016.
 
-
-
-
-<!-- Mudar de lugar -->

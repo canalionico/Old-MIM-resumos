@@ -449,7 +449,7 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/diagn%C3%B3stico-da-gravidez.html',
       
-        '/reanimacao-neonatal-34s.html',
+        '/neonatologia/reanimacao-neonatal-34s.html',
       
         '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno.html',
       
