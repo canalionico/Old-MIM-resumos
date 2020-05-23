@@ -449,6 +449,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/diagn%C3%B3stico-da-gravidez.html',
       
+        '/reanimacao-neonatal-34s.html',
+      
         '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno.html',
       
         '/neonatologia/reanimacao-nenonatal.html',
@@ -1222,13 +1224,19 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/radio-ttrn.jpeg'
       
+        '/assets/neonatologia/reanimacao/apgar-grande.png'
+      
         '/assets/neonatologia/reanimacao/flux-geral.png'
+      
+        '/assets/neonatologia/reanimacao/flux-sbp.png'
       
         '/assets/neonatologia/reanimacao/flux.png'
       
         '/assets/neonatologia/reanimacao/flux2.png'
       
         '/assets/neonatologia/reanimacao/flux3.png'
+      
+        '/assets/neonatologia/reanimacao/medicacoes-sbp.png'
       
         '/assets/neonatologia/reanimacao/medicacoes.png'
       

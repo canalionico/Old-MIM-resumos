@@ -258,9 +258,6 @@ a {
   a :visited {
     color: purple; }
 
-ol li {
-  margin-block-start: 1em; }
-
 ::selection {
   background: yellow;
   /* WebKit/Blink Browsers */
@@ -390,8 +387,11 @@ tr:hover {
 article {
   color: #333;
   font-size: 1.2rem; }
+  article h1 {
+    font-size: 2em;
+    text-align: center; }
   article h2 {
-    font-size: 1.8em; }
+    font-size: 1.6em; }
   article h3 {
     font-size: 1.4em; }
   article h4 {

@@ -271,7 +271,7 @@ a {
   :visited {color: purple;}
 }
 ol li {
-  margin-block-start: 1em;
+  // margin-block-start: 1em;
 }
 ::selection {
   background: yellow; /* WebKit/Blink Browsers */
@@ -387,8 +387,12 @@ tr:hover {background-color:#f5f5f5;}
 article {
   color: #333;
   font-size: 1.2rem;
+  h1 {
+    font-size: 2em;
+    text-align: center;
+  }
   h2 {
-    font-size: 1.8em;
+    font-size: 1.6em;
   }
   h3 {
     font-size: 1.4em;
