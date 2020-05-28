@@ -447,6 +447,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/idade-da-gestacao-e-dpp.html',
       
+        '/neonatologia/ictericia-neonatal-patologica.html',
+      
         '/obstetricia/diagn%C3%B3stico-da-gravidez.html',
       
         '/neonatologia/ictericia-neonatal.html',
@@ -1166,6 +1168,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/ictericia/ictericia.png'
       
+        '/assets/neonatologia/ictericia/isomerizacao.jpg'
+      
+        '/assets/neonatologia/ictericia/kernicterus.jpg'
+      
         '/assets/neonatologia/ictericia/marks.jpeg'
       
         '/assets/neonatologia/ictericia/normograma.jpeg'
@@ -1173,6 +1179,8 @@ self.addEventListener('install', function (event) {
         '/assets/neonatologia/ictericia/rh.jpg'
       
         '/assets/neonatologia/ictericia/rh2.jpg'
+      
+        '/assets/neonatologia/ictericia/tab-pre.jpeg'
       
         '/assets/neonatologia/ictericia/valores.jpeg'
       

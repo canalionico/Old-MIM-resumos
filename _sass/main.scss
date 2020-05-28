@@ -229,7 +229,11 @@ body {
   margin-left: 1.5rem;
   display: inline-block;
   border-radius: 10px;
+  li {
+  margin-block-start: 0;
+  list-style-type: lower-roman;
   font-size: 1rem;
+  }
   a:hover {
     text-decoration: underline;
   }
@@ -271,7 +275,12 @@ a {
   :visited {color: purple;}
 }
 ol li {
-  // margin-block-start: 0.4em;
+  margin-block-start: 0.2em;
+  list-style-type: lower-roman;
+}
+ul li {
+  margin-block-start: 0.2em;
+  list-style-type: lower-alpha;
 }
 ::selection {
   background: yellow; /* WebKit/Blink Browsers */
@@ -590,7 +599,7 @@ a.footnote:after {
     // float: right;
     position: fixed;
     top: 0;
-    right: 0;
+    right: 100px;
     margin-top: 0;
     overflow-y: scroll; 
     overflow-x: hidden; 
@@ -605,7 +614,7 @@ a.footnote:after {
     }
   }
   .wrapper {
-    margin-right: 300px;
+    margin-right: 400px;
   }
   .abertura {
     display: flex;
