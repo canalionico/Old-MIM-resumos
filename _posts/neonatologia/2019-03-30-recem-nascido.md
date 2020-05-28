@@ -7,7 +7,7 @@ layout: post
 1. indice
 {:toc}
 
-O período neonatal é definido como os 28 primeiros dias de vida.[^1]
+O período neonatal é definido como os 28 primeiros dias de vida.
 
 ## Classificação do recém nascido
 
@@ -51,5 +51,3 @@ Mesmo assim é importante prestar atenção que PIG não é sinônimo de RCIU.
     - etc.
 3. História atual pré-parto e intraparto
 
-## Referências
-[^1]: {{ site.data.refs.current-ped }}

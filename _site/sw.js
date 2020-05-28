@@ -449,6 +449,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/diagn%C3%B3stico-da-gravidez.html',
       
+        '/neonatologia/ictericia-neonatal.html',
+      
         '/neonatologia/reanimacao-neonatal-34s.html',
       
         '/obstetricia/modifica%C3%A7%C3%B5es-do-organismo-materno.html',
@@ -1158,6 +1160,22 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/flux-reanimação.jpeg'
       
+        '/assets/neonatologia/ictericia/c19f001.jpg'
+      
+        '/assets/neonatologia/ictericia/fezes.png'
+      
+        '/assets/neonatologia/ictericia/ictericia.png'
+      
+        '/assets/neonatologia/ictericia/marks.jpeg'
+      
+        '/assets/neonatologia/ictericia/normograma.jpeg'
+      
+        '/assets/neonatologia/ictericia/rh.jpg'
+      
+        '/assets/neonatologia/ictericia/rh2.jpg'
+      
+        '/assets/neonatologia/ictericia/valores.jpeg'
+      
         '/assets/neonatologia/infeccoes-cong/img.jpeg'
       
         '/assets/neonatologia/infeccoes-cong/img2.jpeg'
@@ -1225,6 +1243,8 @@ self.addEventListener('install', function (event) {
         '/assets/neonatologia/radio-ttrn.jpeg'
       
         '/assets/neonatologia/reanimacao/apgar-grande.png'
+      
+        '/assets/neonatologia/reanimacao/flux-34.png'
       
         '/assets/neonatologia/reanimacao/flux-geral.png'
       

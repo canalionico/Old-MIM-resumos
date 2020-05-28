@@ -134,7 +134,7 @@ Após realização dos passos iniciais em 30 segundos, faz-se a **avaliação da
 
 A respiração é avaliada pela presença de **choro** ou **expansão da cavidade torácica**. É considera adequada se for regular e capaz de manter a frequência cardíaca maior que 100 batimentos por minuto.
 
-A frequência cardíaca é avaliada por ausculta do **precórdio** com estetoscópio por 6 segundos e multiplicando por 10. Porém, a melhor forma de avaliação é através de monitor cardíaco de 3 eletrodos.
+A frequência cardíaca é avaliada por ausculta do **precórdio** com estetoscópio por 6 segundos e multiplicando por 10. Porém, a melhor forma de avaliação é através de monitor cardíaco de 3 eletrodos (ombro esquerdo, ombro direito e coxa anterior).
 
 Se após os passos iniciais o RN apresentar **respiração regular e frequência cardíaca > 100 bpm**, ele deve ser levado para o contato pele a pele com mãe e realizada avaliação continuada de respiração, tônus e atividade (cuidados de rotina e amamentação na primeira hora de vida).
 
@@ -171,6 +171,8 @@ A máscara deve ter tamanho suficiente objetivando cobrir a ponta do queixo, a b
 <span class="alert">
 Se o RN tiver suspeita de hérnia diafragmática, está contraindicada a VPP com máscara facial, então o RN será ventilado com cânula orotraqueal. Ventilando com a máscara estaremos inflando o estômago que está localizado no tórax do RN.
 <span>
+
+Inserir a sonda orogástrica pode ser interessante para diminuir a distensão gástrica, principalmene após prolongada ventilação.
 
 * **Balão autoinflável:** 40-60 movimentos por minuto numa sequência de *aperta-solta-solta*;
 * **Ventilador manual em T:** 40-60 movimentos por minuto numa sequência de *oclui-solta-solta*.
@@ -280,7 +282,7 @@ Se o RN não melhorar da bradicardia ou apresentar sangramento ou sinais de choq
 Sempre deixar preparadas duas seringas de 20 mL de soro fisiológico.
 </span>
 
-Se após 10 minutos de reanimação o RN permanecer em assistolia, pode-se interromper a reanimação, no entanto esta decisão é individualizada.
+Se após **10 minutos de reanimação** o RN permanecer em assistolia, pode-se interromper a reanimação, no entanto esta decisão é individualizada.
 
 ![FLuxograma3](/assets/neonatologia/reanimacao/flux3.png)
 

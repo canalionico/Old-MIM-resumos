@@ -236,6 +236,8 @@ As indicações de ventilação através de cânula traqueal em sala de parto no
 3. Aplicação de massagem cardíaca;
 4. RN com hérnia diafragmática. 
 
+<!-- Aplicação de surfactante exógeno? -->
+
 Os cuidados para iniciar a intubação devem ser os mesmos para o RN > 34s. Tentar por 30 segundos e em caso de falha retornar à VPP com máscara e tentar novamente após a estabilização. A confirmação da posição da cânula segue os mesmos princípios para o RN > 34s.
 
 * Em RNPT < 28 semanas ou peso < 1000 g, utilizar cânula de 2,5 mm de diâmetro interno;
@@ -298,6 +300,10 @@ Se, após a correção da técnica da VPP e massagem, ou seja, após 2 ciclos de
 # Medicações
 
 Segue os mesmos princípios, recomendações e posologias para o RN > 34s.
+
+# Fluxograma
+
+![Fluxograma](/assets/neonatologia/reanimacao/flux-34.png)
 
 # Transporte do RNPT
 
