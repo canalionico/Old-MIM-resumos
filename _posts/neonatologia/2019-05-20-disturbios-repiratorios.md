@@ -5,7 +5,7 @@ categories: neonatologia
 
 1. Índice
 {:toc}
-
+<!-- 
 O desenvolvimento pulmonar inicia-se precocemente na embriogênese, logo nas primeiras semanas de gestação. O crescimento do tecido pulmonar é dependente principalmente de fatores físicos, como espaço adequado na caixa
 torácica, presença de líquido amniótico em
 quantidade adequada e presença de movimentos respiratórios fetais, que já se iniciam por volta de **11 semanas** de gestação a uma frequência de 40 a 70 ipm. 
@@ -39,7 +39,7 @@ A síndrome da dificuldade respiratória neonatal é composta por alterações d
 * **Sinais de esforço respiratório:** dispneia, batimento de asas nasais ( a respiração do RN é praticamente nasal,),gemido expiratório, *head bobbing* (movimentação da cabeça para cima e para baixo a cada ciclo pela utilização dos Mm. acessórios do pescoço) e retrações intercostais, subcostais, supraesternal ou esternal;
 * **Alterações de cor:** cianose central (nariz, língua, lábios, é decorrente de hipoxemia grave e uma concentração de hemoglobina reduzida superior a 5 g/dl).
 
-![Causas](/assets/neonatologia/causas-resp.jpeg)
+![Causas](/assets/neonatologia/causas-resp.jpeg) -->
 
 ## Apneia
 
@@ -158,49 +158,11 @@ Para **prevenir** a TTRN, deve-se realizar uma boa assistência pré-natal, prev
 
 ## Síndrome do desconforto respiratório do RN
 
-A SDR é uma doença grave, antes chamada de _doença da membrana hialina_. É a deficiência primária de surfactante endógeno e afeta principalmente os RN pré-termo. Acomete 30% dos RN < 32s e 50% dos < 30s.
 
-* **Fatores de risco:**
-  * Cesárea eletiva
-  * Sexo masculino
-  * Asfixia perinatal
-  * Hidropisia fetal
-  * Diabetes materno
-  * Prematuridade
-  * Hemorragia pré-parto
-  * 2º gemelar
-  * Hipotermia neonatal
-* **Fatores protetores:**
-  * Estresse crônico intrauterino
-  * Desnutrição intrauterina
-  * **Corticoesteroides**
-  * ↑TBR
-  * Hormônios tireoidianos
-
-### Fisiopatologia
-
-Entre a 20ª e 24ª semana de gestação, o desenvolvimento pulmonar é caracterizado pela formação dos sacos alveolares; nota-se também o início da diferenciação das células em **pneumócitos tipo I** (células de revestimento) e **pneumócitos tipo II**. 
-
-O surfactante pulmonar é uma substância formada por fosfolipídeos e proteínas, **produzida e secretada pelo pneumócito tipo II**. Sua função é diminuir a tensão superficial da interface ar/líquido no alvéolo evitando o seu colapso ao final da expiração. Em sua composição encontramos: 65% de fosfatidilcolina (lecitina), fosfatidilcolina, fosfatidilglicerol, colesterol e apoproteínas (A, B, C e D). Esta substância é detectada por volta da 25ª a 30ª semana, entretanto só é capaz de conferir estabilidade alveolar por volta da 33ª semana.
-
-Quando o surfactante está ausente ou inativo, ocorrerá um aumento da tensão da interface ar/líquido alveolar, acarretando **colabamento alveolar** progressivo. Há **atelectasia** pulmonar
-difusa, congestão e edema. A maior parte do pulmão é **perfundida e não ventilada**, gerando alteração da relação V/Q, com **hipoxemia**. A complacência pulmonar diminuída é um fator fundamental que contribui para a instalação da insuficiência respiratória precoce.
-
-
-![img](/assets/neonatologia/dr/fisio.jpeg)
 
 ### Quadro clínico
 
-* Logo após o nascimento: dsconforto respiratório progressivo nas primeiras 72h;
-* Dispnéia;
-* Taquipneia (FR > 60 irpm);
-* Tiragem intercostal e subcostal;
-* **Retração esternal**;
-* Batimentos da asa do nariz;
-* **Gemido expiratório**;
-* Necessidade crescente de oxigênio;
-* O desconforto resp. pode ser qualificado pelo **boletim de Silverman Adersen**;
-  * Quando mais elevada a pontuação o boletim, mais grave é o quadro.
+
 * Em **RNPTs extremos** o quadro é pouco evidente, sendo mais frequente o aparecimento precoce de **crises de apneia e cianose**;
 * Podem surgir complicações como:
   * Pneumotórax;
@@ -214,9 +176,7 @@ difusa, congestão e edema. A maior parte do pulmão é **perfundida e não vent
   * Estertores bolhosos ou crepitantes;
   * Sopros cardíacos.
 
-![img](/assets/neonatologia/dr/bol.jpeg)
-<figcaption> Para avaliação e quantificação do desconforto respiratório. Soma = 0 não há DR; 1-5 DR moderado; > 5 DR grave.
-</figcaption>
+
 
 ### Diagnóstico
 

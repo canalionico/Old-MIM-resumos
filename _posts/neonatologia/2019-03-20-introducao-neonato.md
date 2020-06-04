@@ -20,7 +20,7 @@ A neonatologia divide os períodos natais em:
   * **Tardio:** de 8 dias até 28 dias de vida.
 * **Lactente:** é o bebê durante o 1º ano de vida.
 
-## Desenvolvimento pulmonar
+# Desenvolvimento pulmonar
 
 Os órgãos respiratórios inferiores (laringe, traqueia, brônquios e pulmões) começam a se formar durante a 4ª semana de desenvolvimento.
 
@@ -32,11 +32,13 @@ A formação do pulmão começa a partir de um broto ventral que surge do esôfa
 
 A maturação dos pulmões é dividida em 4 fases histológicas: pseudoglandular, canalicular, saco terminal e alveolar.
 
-### Período Pseudoglandular
+![Estágios](/assets/neonatologia/estagios-pulmao.jpeg)
+
+## Período Pseudoglandular
 
 Ocorre de 5 a 17 semanas. No início, os pulmões se parecem histologicamente a auma glândula exócrina. Até o fim dessafase, todos os principais elementos estruturais do pulmão se formam, exceto as as estruturas envolvidas nas trocas gasosas -- a resiração ainda não é possível.
 
-### Período canalicular
+## Período canalicular
 
 Ocorre de 16 a 25 semanas. Nessa fase os tecidos pulmonares começam a se tornar altamente vascularizados. Até o fim dessa fase, cada bronquíolo terminal dá origem a dois ou mais bronquíolos respiratórios, cada um dos quais se divide em três a seis passagens tubulares – os ductos alveolares primordiais.
 
@@ -55,7 +57,7 @@ A imagem abaixo é do estudo de artigo de Schittny.[^Schittny]
 ![Desenvolvimento pulmonar](/assets/neonatologia/intro/pulm.jpg)
 
 
-### Período do saco terminal
+## Período do saco terminal
 
 Ocorre a partir das 24 semanas até o nascimento. Ocorre ainda mais formação de sacos terminais com um epitélio cada vez mais fino. 
 
@@ -77,13 +79,13 @@ Contudo, o surfactante só estará disponível em quantidade suficiente entre 32
 Estudar sobre a síndrome do desconforto respiratório (SDR) ou doença da membrana hialina afeta. Os corticosteroides são estimuladores da produção de surfactante e podem ser administrados à mãe se o parto prematuro for um risco.
 </span>
 
-### Período alveolar
+## Período alveolar
 
 Vai do final do período fetal até os 8 anos de vida. Após o nascimento, os alvéolos primitivos aumentam com a expansão dos pulmões. Até os 8 anos ainda há formação de novos bronquíolos terminais e de novos alvéolos.
 
-## Desenvolvimeno circulatório
+# Desenvolvimeno circulatório
 
-### Antes do nascimento
+## Antes do nascimento
 
 Na circulação fetal, os ventrículos direito (VD) e esquerdo (VE) existem
 em um circuito paralelo e a placenta é o local onde ocorre a troca de gases e metabólitos.
@@ -126,7 +128,7 @@ Somente um pequeno volume de sangue da aorta ascendente (10% do débito cardíac
 
 Aproximadamente 65% do fluxo sanguíneo para a aorta descendente retorna para a placenta; os 35% restantes perfundem órgãos e tecidos fetais.
 
-### Após o nascimento
+## Após o nascimento
 
 Ao nascimento, a expansão mecânica dos pulmões e um aumento na PO2 arterial resulta em uma rápida **diminuição na resistência vascular pulmonar**. Concomitantemente, a remoção da circulação placentária de baixa resistência leva a um **aumento na resistência vascular sistêmica**.
 
@@ -140,7 +142,7 @@ No curso de vários dias, a PO2 arterial alta e a queda nos níveis de prostagla
 O ibuprofeno e a indometacina, potentes inibidores não seletivos da ciclo-oxigenase, inibem a síntese de prostaglandina-E2 e são medicamentos usados na persistência do canal arterial.[^Pacifici]
 </span>
 
-
+![Mudanças](/assets/neonatologia/intro/mudancas.png)
 
 O volume aumentado do fluxo sanguíneo pulmonar que retorna para o AE a partir dos pulmões aumenta o volume e a pressão do AE de modo suficiente
 para **fechar funcionalmente o flap do forame oval** (em alguns casos pode permanecer patente). O fechamento do forame oval ocorre quando a pressão atrial esquerda excede a pressão atrial direita.
@@ -154,11 +156,11 @@ O VE que só bombeava sangue para a parte superior agora deve lidar com todo o d
 ![Circulação fetal](/assets/neonatologia/intro/mapa.jpeg)
 
 
-## Transição para a vida extrauterina
+# Transição para a vida extrauterina
 
 Apesar de a maioria dos neonatos se adaptarem fisiologicamente ao meio externo, 10% destes necessitarão de algum tipo de intervenção e 1% precisará de manobras de ressucitação.
 
-### Transição bem-sucedida
+## Transição bem-sucedida
 
 **Depuração do fluido alveolar:** na vida intra-uterina os alvéolos estão cheios de um fluido que atua no seu desenvolvimento e desenvolvimento. Com o **trabalho de parto** os níveis crescentes de catecolamias ativam a interrupção na secreção do líquido e o início da reabsorção de sódio e água. O início dos esforços de resíração também geram uma pressão negativa nos alvéolos que vai conduzindo os fluidos para o interstício até ser drenado pela vasculatura.
 
@@ -169,7 +171,7 @@ Apesar de a maioria dos neonatos se adaptarem fisiologicamente ao meio externo, 
 **Alterações circulatórias:** já citadas na seção anterior. A expansão pulmonar reduz a resistência vascular pulmonar e a pressão da artéria pulmonar.
 
 
-## Referência
+# Referências
 
 1. SanarFlix. Introdução à neonatologia. Super Material. 2020. 
 2. Donahoe PK, Longoni M, High FA. Polygenic Causes of Congenital Diaphragmatic Hernia Produce Common Lung Pathologies. Am J Pathol. 2016;186(10):2532‐2543. doi:10.1016/j.ajpath.2016.07.006.

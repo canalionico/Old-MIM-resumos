@@ -1,5 +1,5 @@
 ---
-title: Icterícia neonatal não patológica
+title: Icterícia neonatal tardia
 categories: neonatologia
 layout: post
 comment: 'Estudei pelo Sanarflix, resumo e aula'
@@ -9,6 +9,8 @@ revisado: 28 Mai 2020
 
 * Sumário
 {:toc}
+
+Icterícia neonatal tardia é a que ocorre após as 24 primeiras horas de vida. Normalmente está relacionada a etiologias não patológicas que serão discutidas a seguir. A icterícia precoce (< 24 horas) será tratada no capítulo seguinte.
 
 Nos RN o aumento da bilirrubina indireta, não conjugada e lipossolúvel, é muito mais comum. Uma BI > 5 mg/dL já pode se manifestar clinicamente com visualização da icterícia. 
 
@@ -93,15 +95,22 @@ Resumindo, os RNs são mais suscetíveis à hiperbilirrubinemia por:
 Uma vez detectada a icterícia, é necessário identificar a sua etiologia. Podem ser divididas em dois grupos:
 
 1. **Sobrecarga de bilirrubina aos hepatócitos:**
-  * Pelo e do leite materno.
   * Hemólise;
   * Coleção sanguínea;
-  * Policitemia;
-  * Maior circulação entero-hepática.
+  * Policitemia:
+    * RN PIG,
+    * RN de mãe diabética,
+    * Transfusão feto-fetal/materno-fetal,
+    * Clampeamento tardio ou ordenha do cordão. 
+  * Maior circulação entero-hepática:
+    * Pelo leite materno,
+    * Anomalias gastro-intestinais,
+    * Jejum oral ou baixa oferta enteral.
 2. **Deficiência ou inibição da conjugação:**
   * Síndrome de Crigler-Najjar tipo 1 e 2;
   * Síndrome Gilbert;
   * Hipotireoidismo congênito;
+  * Do leite materno.
 
 
 Atenção, pois, normalmente, ictéricia após 24 horas (icterícia tardia) tem características fisiológicas enquanto que a icterícia antes das primeiras 24 horas de vida (icterícia precoce) sugere uma doença de base.
@@ -316,21 +325,6 @@ Reavaliar os valores de bilirrubina totais e frações a cada 4-8 horas para ver
 
 A síndrome do bebe bronzeado ocorre quando a coloração da pele fica castanho-acinzentado devido à impregnação da pele por bilirrubina direta. Por isso, devemos evitar a fototerapia nos casos de hiperbilirrubinemia direta.
 
-## Exsanguineotransfusão
-
-Atualmente a doença hemolítica por incompatibilidade Rh é uma das únicas indicações de EST, sendo as outras causas de aumento de BI controladas usualmente pela fototerapia.
-
-Na incompatibilidade Rh a EST pode ser indicada logo após o nascimento se BI > 4mg/Dl e/ou hemoglobina < 12 mg/Dl. Após as primeiras horas de vida a EST é indicada se houver elevação de BI igual ou superior a 0,5 mg/dL/h nas primeiras 36h de vida.
-
-A duração da EST varia entre 60-90min, devendo ocorrer em ambiente asséptico, não ultrapassando a velocidade de troca de 1-2 ml/kg/min, sendo o volume preconizado de 160 ml/kg (duas volemias), em uso da técnica do “puxa-empurra” pela veia umbilical.
-
-Após o procedimento deve ser mantida: 
-
-* Infusão contínua de glicose (4-6 mg/kg/min);
-* Gluconato de cálcio 10% (2 ml/kg/dia);
-* Sulfato de magnésio 10% (1 ml/kg/dia).
-
-A realização deste procedimento é acompanhada de elevada morbidade, incluindo complicações metabólicas, infecciosas, hemodinâmicas, vasculares, hematológicas, além de reação pós-transfusional.
 
 
 

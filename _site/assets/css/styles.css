@@ -16,8 +16,8 @@
 
 body {
   margin: 0 0 0 0;
-  font-family: Helvetica, 'LS', Georgia, serif;
-  font-size: 1rem;
+  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+  font-size: 1.3rem;
   text-align: left;
   text-rendering: optimizeLegibility;
   text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
@@ -221,7 +221,6 @@ body {
   border-radius: 10px; }
   #markdown-toc li {
     margin-block-start: 0;
-    list-style-type: lower-roman;
     font-size: 1rem; }
   #markdown-toc a:hover {
     text-decoration: underline; }
@@ -262,12 +261,10 @@ a {
     color: purple; }
 
 ol li {
-  margin-block-start: 0.2em;
-  list-style-type: lower-roman; }
+  margin-block-start: 0.2em; }
 
 ul li {
-  margin-block-start: 0.2em;
-  list-style-type: lower-alpha; }
+  margin-block-start: 0.2em; }
 
 ::selection {
   background: yellow;
@@ -396,8 +393,7 @@ tr:hover {
   background-color: #af0000; }
 
 article {
-  color: #3d3d3d;
-  font-size: 1.2rem; }
+  color: #3d3d3d; }
   article h1 {
     font-size: 2em;
     text-align: center; }

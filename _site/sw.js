@@ -443,15 +443,17 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/estatica-fetal.html',
       
+        '/neonatologia/disturbios-respiratorios.html',
+      
         '/obstetricia/pre-natal-de-baixo-risco.html',
       
         '/obstetricia/idade-da-gestacao-e-dpp.html',
       
-        '/neonatologia/ictericia-neonatal-patologica.html',
+        '/neonatologia/ictericia-neonatal-precoce.html',
       
         '/obstetricia/diagn%C3%B3stico-da-gravidez.html',
       
-        '/neonatologia/ictericia-neonatal.html',
+        '/neonatologia/ictericia-neonata-tardia.html',
       
         '/neonatologia/reanimacao-neonatal-34s.html',
       
@@ -1150,11 +1152,19 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/dr/bol.jpeg'
       
+        '/assets/neonatologia/dr/boletim.jpeg'
+      
         '/assets/neonatologia/dr/fat.jpeg'
       
         '/assets/neonatologia/dr/fisio.jpeg'
       
+        '/assets/neonatologia/dr/radio.png'
+      
+        '/assets/neonatologia/dr/resumo.jpeg'
+      
         '/assets/neonatologia/dr/sam.jpeg'
+      
+        '/assets/neonatologia/dr/ttrn.png'
       
         '/assets/neonatologia/epidemio.jpeg'
       
@@ -1181,6 +1191,8 @@ self.addEventListener('install', function (event) {
         '/assets/neonatologia/ictericia/rh2.jpg'
       
         '/assets/neonatologia/ictericia/tab-pre.jpeg'
+      
+        '/assets/neonatologia/ictericia/tabela.png'
       
         '/assets/neonatologia/ictericia/valores.jpeg'
       
@@ -1219,6 +1231,8 @@ self.addEventListener('install', function (event) {
         '/assets/neonatologia/intro/gr1.jpg'
       
         '/assets/neonatologia/intro/mapa.jpeg'
+      
+        '/assets/neonatologia/intro/mudancas.png'
       
         '/assets/neonatologia/intro/olinho.png'
       
