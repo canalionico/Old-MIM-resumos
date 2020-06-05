@@ -248,4 +248,18 @@ O tratamento é mais simples que a SDR, pois este é um distúrbio de curso mais
 
 ## Síndrome de aspiração meconial
 
+O mecônio está presente em 10-20% de todas as gestações, mas apenas 3% evoluem com desconforto respiratório. É composto por lanugo, bile, e vérnix caseoso, enzimas pancreáticas, epitélio descamado, muco.
 
+Está presente no TGI desde a 16ª semana de gestação, chegando ao cólon descendente a partir da 34ª semana. Ou seja, raramente veremos eliminação de mecônio em RNs pré-termo.
+
+A SAM está relacionada à elminação precoce do líquido meconial, ainda dentro do útero, enquanto que o normal seria a elminação nos primeiros dias de vida após o nascimento.
+
+Os fatores predisponentes para a eliminação precoce do mecônio são:
+
+1. Maturidade fetal -- presença de mecônio no TGI baixo,
+2. sofrimento fetal -- levando a relaxamento do esfincter anal,
+3. compressão mecânica do abdomen durante o trabalho de parto -- "empurra" o mecônio pelo TGI.
+
+Assim, a fisiopatologia é: um sofrimento fetal que permite o relaxamento do esfincter anal, permitindo a eliminação do mecônio intra-útero. Somado a isso, o sofrimento fetal também vai provocar movimentos de *gasping* (puxos inspiratórios) no feto, o que implica na aspiração desse mecônio presente no líquido amniótico.  
+
+Em seguida, a presença do mecônio nas vias respiratórias vai: provocar uma inflamação (podendo até predispor uma infecção secundária); inativar o surfactante já presente nos alvéolos; obstruir as vias aéreas que pode ser total, levando a atelectasia, ou parcial, levando à hiperinsuflação em decorrência de um mecanismo valvular que permite a entrada do ar mas não a saída.
