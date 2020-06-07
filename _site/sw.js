@@ -1158,6 +1158,12 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/dr/fisio.jpeg'
       
+        '/assets/neonatologia/dr/radio-sam.png'
+      
+        '/assets/neonatologia/dr/radio-sam2.png'
+      
+        '/assets/neonatologia/dr/radio-sam3.png'
+      
         '/assets/neonatologia/dr/radio.png'
       
         '/assets/neonatologia/dr/resumo.jpeg'

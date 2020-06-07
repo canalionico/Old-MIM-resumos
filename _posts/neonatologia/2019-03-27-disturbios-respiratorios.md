@@ -260,6 +260,34 @@ Os fatores predisponentes para a eliminação precoce do mecônio são:
 2. sofrimento fetal -- levando a relaxamento do esfincter anal,
 3. compressão mecânica do abdomen durante o trabalho de parto -- "empurra" o mecônio pelo TGI.
 
+Ou seja, em geral acontece no RN termo ou pós-termo, com líquido amniótico meconial e asfixia neonatal (sofrimento fetal). Com isso, ele evolui com desconforto respiratório precoce e estertores grossos. A resolução ocorre geralmente após 5 a 7 dias de vida. 
+
+### Fisiopatologia
+
 Assim, a fisiopatologia é: um sofrimento fetal que permite o relaxamento do esfincter anal, permitindo a eliminação do mecônio intra-útero. Somado a isso, o sofrimento fetal também vai provocar movimentos de *gasping* (puxos inspiratórios) no feto, o que implica na aspiração desse mecônio presente no líquido amniótico.  
 
-Em seguida, a presença do mecônio nas vias respiratórias vai: provocar uma inflamação (podendo até predispor uma infecção secundária); inativar o surfactante já presente nos alvéolos; obstruir as vias aéreas que pode ser total, levando a atelectasia, ou parcial, levando à hiperinsuflação em decorrência de um mecanismo valvular que permite a entrada do ar mas não a saída.
+Em seguida, a presença do mecônio nas vias respiratórias vai: provocar uma **inflamação** (podendo até predispor uma infecção secundária); **inativar o surfactante** já presente nos alvéolos; **obstruir** as vias aéreas que pode ser total, levando a **atelectasia**, ou parcial, levando à **hiperinsuflação** em decorrência de um mecanismo valvular que permite a entrada do ar mas não a saída.
+
+Essas áreas de atelectasia e de hiperinsuflação cria um *shunt* intrapulmonar, com áreas bem ventiladas que não são bem perfundidas e áreas bem perfundidas que não são ventiladas. O resultado de tudo isso é a **hipoxemia**.
+
+Além disso, a própria hipoxemia ainda vai contribuir para a ocorrência de vasoconstricção pulmonar e acarretar uma hipertensão pulmonar. Relembrando, o aumento da resistência vasculo-pulmonar vai perpeturar a circulação fetal no recém-nascido, com manutenção do *shunt* direita-esquerda dentro do coração, pelo forame oval, e persistência do canal arterial.
+
+### Radiologia
+
+Na radiografia podemos observar áreas de **atelectasia** (consolidação em aspécto granular grosseiro -- apontadas pelas setas abaixo) alternadas com áreas de **hiperinsuflação**, principalmente nas bases pulmonares (mais escurecidas, evidenciando o acúmulo e aprisionamento de ar -- podem ser vistas na imagem abaixo). 
+
+![Radio](/assets/neonatologia/dr/radio-sam.png)
+
+Dependendo do grau da hiperinsuflação, os alvéolos podem romper com tanto ar aprisionado e provocar um **pneumotórax** por barotrauma ou volutrauma ("explodir") -- visto no hemitórax esquerdo da imagem abaixo. Também pode ocorrer enfisema ou pneumomediastino como complicações.
+
+![Radio](/assets/neonatologia/dr/radio-sam2.png)
+
+Outra complicação é a ocorrência de **hipertensão pulmonar persistente** (pelo mecanismo da hipoxemia e aumento da resistência vasculo-pulmonar). A radiografia mostra um pulmão mais escuro com redução das marcas vasculares pulmonares. O ecocardiograma associado vai ser essencial para identificar a manutenção dos *shunt* da circulação fetal e corroborar o diagnóstico de HPP, além de descartar cardiopatias congênitas que estão levando ao quadro, como diagnoóstico diferencial da SAM. 
+
+![Radio](/assets/neonatologia/dr/radio-sam3.png)
+
+### Tratamento
+
+Envolve, como de costume, o **suporte ventilatório** e a **oxigenioterapia**. Em geral, inicia-se **antibioticoterapia** em decorrência de que o mecônio pode atuar como um meio de cultura para bactérias (principalmente gram-negativas) e também da dificuldade de diferenciação raiológica com uma pneumonia.
+
+O uso de surfactante exógeno ainda é muito controverso, pois o mecânio incativa tanto o surfactante endógeno como o exógeno.
