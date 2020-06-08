@@ -149,23 +149,32 @@ Contudo, vamos sempre lembrar das causas extrapulmonares de desconforto respirat
 
 ## Síndrome do desconforto respiratório
 
-Antes chamada de _doença da membrana hialina_, a SDR está relacionada à imaturidade pulmonar, logo, é a afecção respiratória mais frequente no RN pré-termo sendo mais comum naqueles com IG < 28 semanas, mãe diabética, sexo masculino e que sofreram asfixia ao nascimento.
+Antes chamada de _doença da membrana hialina_, a SDR está relacionada à imaturidade pulmonar, logo, é a afecção respiratória mais frequente no RN pré-termo sendo mais comum naqueles com IG < 28 semanas, mãe diabética, sexo masculino e que sofreram asfixia ao nascimento. Geralmente se manifesta logo nas primeiras horas após o nascimento.
 
-Tal patologia tem como principal causa a deficiência quanti e qualitativa do surfactante pulmonar, este, é sintetizado a partir da 24ª semana de gestação (período sacular) pelas células do epitélio alveolar ou pneumócitos do tipo II com pico de produção por volta da 35ª semana.
+Tal patologia tem como principal causa a deficiência quanti e qualitativa do surfactante pulmonar, este, é sintetizado a partir das **20-24 semanas** de gestação (período sacular) pelas células do epitélio alveolar ou pneumócitos do tipo II com **pico de produção por volta da 35ª semana**.
 
-Entretanto, não basta apenas o RN ter uma boa produção de surfactante para ter uma boa respiração. Também existem fatores que estão associados à inativação do surfactante já produzido e podem acarretar em SDR. São eles:
+Entretanto, não basta apenas o RN ter uma boa produção de surfactante para ter uma boa respiração. Também existem **fatores que estão associados à inativação do surfactante** já produzido e podem acarretar em SDR. São eles:
 
 * Excesso de líquido pulmonar (principalmente quando há ausência de trabalho de parto),
 * hemorragia pulmonar,
 * aspiração meconial,
 * pneumonia.
 
-De modo contrário, existem fatores que aceleram a maturação pulmonar, aumentando a produção do surfactante neonatal. São eles:
+De modo contrário, existem **fatores que aceleram a maturação pulmonar**, aumentando a produção do surfactante neonatal. São eles:
 
 * Pré-eclâmpsia,
 * RPMO,
 * RCIU,
 * Uso materno antenatal de CE.
+
+De modo geral, os fatores de risco para a SDR são:
+
+* **Prematuridade**,
+* Diabetes gestacional,
+* Asfixia perinatal,
+* Sexo masculino,
+* gestação múltipla.
+
 
 Na ausculta, podemos encontrar:
 
@@ -198,6 +207,23 @@ Os fatores de risco para a SDR são:
 Os achados radiológicos típicos são: um **infiltrado retinogranular difuso** (também chamado de infiltrado em vidro moído) que pode ser visualidado no hemitórax direito do paciente da radiografia abaixo; e **broncogramas aéreos** (mostrados pelas setas no hemitórax esquerdo).
 
 ![Radio](/assets/neonatologia/dr/radio.png)
+
+### Prevenção
+
+A prevenção da SDR envolve a administração de **corticóide** pré-natal à mãe **entre 24 e 34 semanas** de gestação com risco de parto prematuro.
+
+<span class="alert">
+O corticóide é indicado como prevençãoa até 24 semanas.
+</span>
+
+São possíveis dois esquemas de corticoterapia:
+
+1. **Betametasona** 2 doses de 12 mg, IM de 24/24 horas;
+2. **Dexametasona** 4 doses de 6 mg, IM de 12/12 horas.
+
+Os efeitos benéficos da administração sobre os pulmões fetais só começam **após 24 horas** da primeira administração.
+
+E se a mãe tiver RPMO, administramos corticóide mesmo com o maior risco de infecção? Sim. Cumprindo os criterios de prevenção e na ausência de corioamnionite clínica, devemos prescrever.
 
 ### Tratamento
 
@@ -240,6 +266,12 @@ O trabalho de parto é importante pois estimula a maior liberação dessas prost
 
 Ocorre mais em RNs pré-termo tardio ou termo precoce, pois, nos mais prematuros, o pulmão ainda é imaturo e ao invés da TTRN teremos a SDR.
 
+Resumindo os fatores de risco:
+
+* RN termo ou pós-termo,
+* cesárea eletiva fora do TP,
+* diabetes gestacional.
+
 Na radiologia, vemos uma congestão peri-hilar, radiada e simétrica com espessamento de cisuras inter-lobares (apontadas pelas setas na imagem abaixo). É uma radiografia de congestão pulmonar, evidenciando o pulmão cheio de líquido. Os vasos estão dilatados, podemos ter cardiomegalia e, as vezes, até um pequeno derrame pleural.
 
 ![Radio](/assets/neonatologia/dr/ttrn.png)
@@ -256,11 +288,17 @@ A SAM está relacionada à elminação precoce do líquido meconial, ainda dentr
 
 Os fatores predisponentes para a eliminação precoce do mecônio são:
 
-1. Maturidade fetal -- presença de mecônio no TGI baixo,
+1. **Maturidade fetal** -- presença de mecônio no TGI baixo,
 2. sofrimento fetal -- levando a relaxamento do esfincter anal,
 3. compressão mecânica do abdomen durante o trabalho de parto -- "empurra" o mecônio pelo TGI.
 
 Ou seja, em geral acontece no RN termo ou pós-termo, com líquido amniótico meconial e asfixia neonatal (sofrimento fetal). Com isso, ele evolui com desconforto respiratório precoce e estertores grossos. A resolução ocorre geralmente após 5 a 7 dias de vida. 
+
+Fatores de risco:
+
+* RN termo ou pós-termo,
+* líquido meconial,
+* asfixia perinatal.
 
 ### Fisiopatologia
 
@@ -291,3 +329,94 @@ Outra complicação é a ocorrência de **hipertensão pulmonar persistente** (p
 Envolve, como de costume, o **suporte ventilatório** e a **oxigenioterapia**. Em geral, inicia-se **antibioticoterapia** em decorrência de que o mecônio pode atuar como um meio de cultura para bactérias (principalmente gram-negativas) e também da dificuldade de diferenciação raiológica com uma pneumonia.
 
 O uso de surfactante exógeno ainda é muito controverso, pois o mecânio incativa tanto o surfactante endógeno como o exógeno.
+
+## Pneumonia neonatal
+
+Acontece principalmente em prematuros quando há rotura prematura de membranas ovulares há mais de 8 horas. É um processo inflamatório resultante de uma infecção, nos RNs, em geral sistêmica, podendo estar associada com sepse e com meningite neonatal.
+
+De acordo com o momento de aquisição dos germes, a pneumonia neonatal pode ser dividia em:
+
+1. **Congênita:** infecção transplacentária ou corioamnionite;
+2. **Neonatal**
+  * Precoce: se manifestando nas primeiras horas de vida,
+  * Tardia: mais associada à infecção hospitalar.
+
+Na pneumonia congênita, a manifestação clínica de desconforto respiratório ocorre logo após o nascimento. Está associada também ao parto prematuro e à RPMO. Na maior parte das vezes é causada por bactérias **gram-negativas** (principalmente os **GBS** -- estreptococos do grupo B).
+
+Na pneunomia neonatal, em geral estão envolvidas as bactérias **gram-positivas**.
+
+O fatores de risco são:
+
+* Prematuridade,
+* RPMO > 18 horas,
+* corioamnionite clínica,
+* trabalho de parto prematuro sem causa (geralmente devido a infecção),
+* cultura positiva para GBS (*Streptococcus* do Grupo B), mãe colonizada.
+
+Também existem fatores de risco radiológico. Qualquer alterações radiológica que permanecer inalterada por mais de 48 horas pode ser um sinal de pneumonia, entre elas:
+
+* Infiltrado nodular ou grosseiro,
+* infiltrado granular fino e irregular,
+* consolidação segmentar ou lobar,
+* broncograma aéreo,
+* edema pulmonar
+
+A coriomnionite clínica engloba:
+
+1. Febre materna > 38°C,
+2. Taquicardia materna > 100 bpm,
+3. Leucocitose materna > 20 mil/mm<sup>3</sup>,
+4. Taquicardia fetal > 160 bpm,
+5. Útero doloroso e amolecido,
+6. Fisometria.
+
+Também muito importante se atentar para os sinais clínicos de sepse neonatal:
+
+1. Intolerância alimentar,
+2. letargia ou hipotonia,
+3. hipo ou hipertermia,
+4. distensão abdominal.
+
+Outra forma de avaliar a possibilidade de sepse é através da triagem laboratorial. São fatores de risco:
+
+* Escore hematológico de Rodwell ≥ 3;
+* Proteína C reativa elevada.
+
+Abaixo, temos a tabela do escore de Rodwell. Cada achado vale um ponto. Um escore ≥ 3 tem sensibilidade de 96% e especificidade de 78% para o diagnóstico de sepse. Um escore < 3 tem valor preditivo negativo de 99%.
+
+![Rodwell](/assets/neontaologia/dr/rodwell.png)
+
+O diagnóstico diferencial da pneumonia com a SDR pode ser dificíl de realizar. Os exames laboratórias com os critérios de sepse alterados sugerem a presença de penumonia, assim como a PCR aumentada. A hemocultura positiva indica a bacteremia e também sugere sepse.
+
+### Antibioticoterapia
+
+Antes de prescrever medicações, lembrar sempre de manter um bom suporte nutricional a estes RNs. Como estão muito taquipneicos, não conseguem fazer nutrição oral. É necessário fazer nutrição enteral (preferida) ou parenteral.
+
+Na pneumonia de manifestação precoce (primeiras 24 horas de vida), tratamos considerando o espectro de agentes do canal de parto. Destes, o principal o GBS. Podemos usar dois esquemas de ATB:
+
+1. Penicilina cristalina + amicacina por 10-14 dias;
+2. Ampicilina + gentamicina por 10-14 dias.
+
+# Suporte ventilatório
+
+Falando agora do tratamento mais geral para a síndrome do desconforto respiratório, vamos falar do suporte ventilatório.
+
+## CPAP
+
+A preferência é sempre optar pelo **CPAP nasal**. Algumas indicações são:
+
+1. RN de peso < 1500 g com desconforto;
+2. RN peso > 1500 g mantendo SatO2 < 89% com FiO2 ≥ 40%;
+3. Pós-extubação traqueal em todos < 1500 g;
+4. Apneia neonatal.
+
+![CPAP](/assets/neontaologia/dr/cpap.jpg)
+
+## Ventilação mecânica
+
+Se não houver melhora clínica, pode-se optar pela **ventilação mecânica** invasiva. Algumas indicações são:
+
+1. Falha na CPAP nasal;
+2. Mais de 2 episódios de apneia por hora;
+3. Acidose (pH < 7,2).
+
