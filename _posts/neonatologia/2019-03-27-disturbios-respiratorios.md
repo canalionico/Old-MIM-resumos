@@ -63,7 +63,6 @@ Em outras palavras, a síndrome da dificuldade respiratória neonatal é compost
 6. má perfusão periférica e cianose, 
 7. hipoxemia ou palidez.
 
-
 ## Boletim de Silverman-Andersen
 
 O Boletim de Silverman-Andersen (BSA) é um método clínico útil para quantificar o grau de desconforto respiratório e estimar a gravidade do comprometimento pulmonar. 
@@ -87,7 +86,6 @@ As pontuações para cada parâmetro variam de 0 a 2 e, se soma for < 5 indica d
 ![img](/assets/neonatologia/dr/bol.jpeg)
 
 Vale ressaltar que, tais apresentações podem estar presentes em doenças de etiologia extrapulmonar. A taquipneia quando isolada, por exemplo, é comum na sepse, distúrbios metabólicos e cardiopatias congênitas. Outro exemplo é a cianose central que tanto pode estar presente em cardiopatias congênitas, quanto na hipertensão pulmonar e outras afecções graves pulmonares. 
-
 
 Resumindo os principais pontos da avaliação de um RN com desconforto respiratório.
 
@@ -149,9 +147,13 @@ Contudo, vamos sempre lembrar das causas extrapulmonares de desconforto respirat
 
 ## Síndrome do desconforto respiratório
 
-Antes chamada de _doença da membrana hialina_, a SDR está relacionada à imaturidade pulmonar, logo, é a afecção respiratória mais frequente no RN pré-termo sendo mais comum naqueles com IG < 28 semanas, mãe diabética, sexo masculino e que sofreram asfixia ao nascimento. Geralmente se manifesta logo nas primeiras horas após o nascimento.
+Antes chamada de _doença da membrana hialina_, a SDR está **relacionada à imaturidade pulmonar**, logo, é a afecção respiratória **mais frequente no RN pré-termo** sendo mais comum naqueles com IG < 28 semanas, mãe diabética, sexo masculino e que sofreram asfixia ao nascimento. 
 
-Tal patologia tem como principal causa a deficiência quanti e qualitativa do surfactante pulmonar, este, é sintetizado a partir das **20-24 semanas** de gestação (período sacular) pelas células do epitélio alveolar ou pneumócitos do tipo II com **pico de produção por volta da 35ª semana**.
+Geralmente se manifesta logo nas primeiras horas após o nascimento, com piora progressiva do quadro nas primeiras 24h, pico nas 48h e melhora após as 72h.
+
+Tal patologia tem como principal causa a **deficiência quanti e qualitativa do surfactante** pulmonar, este, é sintetizado a partir das **20-24 semanas** de gestação (período sacular) pelas células do epitélio alveolar ou pneumócitos do tipo II com **pico de produção por volta da 35ª semana**.
+
+O surfactante é comporto 90% de lipídios e 10% de proteínas, possuindo a fosfatidilcolina como principal tenso-ativo, responsável pela diminuição da tensão alveolar, ou seja, atua reduzindo a força de retração elástica que faria com que os alvéolos colabassem a cada ciclo respiratório. 
 
 Entretanto, não basta apenas o RN ter uma boa produção de surfactante para ter uma boa respiração. Também existem **fatores que estão associados à inativação do surfactante** já produzido e podem acarretar em SDR. São eles:
 
@@ -174,7 +176,6 @@ De modo geral, os fatores de risco para a SDR são:
 * Asfixia perinatal,
 * Sexo masculino,
 * gestação múltipla.
-
 
 Na ausculta, podemos encontrar:
 
@@ -204,16 +205,18 @@ Os fatores de risco para a SDR são:
 
 ### Radiologia
 
-Os achados radiológicos típicos são: um **infiltrado retinogranular difuso** (também chamado de infiltrado em vidro moído) que pode ser visualidado no hemitórax direito do paciente da radiografia abaixo; e **broncogramas aéreos** (mostrados pelas setas no hemitórax esquerdo).
+Os achados radiológicos típicos são: um **infiltrado retinogranular difuso** (aspécto em **vidro moído**) que pode ser visualidado no hemitórax direito do paciente da radiografia abaixo; e **broncogramas aéreos** (mostrados pelas setas no hemitórax esquerdo).
 
 ![Radio](/assets/neonatologia/dr/radio.png)
+
+![Radio](/assets/neonatologia/dr/radio-sdr.jpeg)
 
 ### Prevenção
 
 A prevenção da SDR envolve a administração de **corticóide** pré-natal à mãe **entre 24 e 34 semanas** de gestação com risco de parto prematuro.
 
 <span class="alert">
-O corticóide é indicado como prevençãoa até 24 semanas.
+O corticóide é indicado como prevenção até 34 semanas.
 </span>
 
 São possíveis dois esquemas de corticoterapia:
@@ -227,6 +230,8 @@ E se a mãe tiver RPMO, administramos corticóide mesmo com o maior risco de inf
 
 ### Tratamento
 
+Além do suporte geral a ser dado de cuidados gerais na sala de parto, o RN deve ser encaminhado para UTI neonatal.
+
 O tratamento de base envolve:
 
 1. Suporte nutricional,
@@ -236,9 +241,9 @@ O tratamento de base envolve:
    * Profilático (< 28s ou < 1000 g),
    * Terapêutico.
 
-A reposição de surfactante pode ser feita de forma profilática, indicada nos RNs < 28 semanas e/ou peso < 1000 g, ou terapêutica, iniciada após a manifestação clínica.
+A **reposição de surfactante** pode ser feita de forma **profilática**, indicada nos RNs < 28 semanas e/ou peso < 1000 g, ou **terapêutica**, iniciada após a manifestação clínica.
 
-O surfactante exôgeno é administrado seguindo o protocolo INSURE, principalmente quando a indicação é profilática, pois na adminstração terapêutica, dependo da gravidade, o RN pode necessitar cotinuar intubado. As etapas do protocolo são:
+O surfactante exôgeno é administrado nas primeiras 2 horas de vida seguindo o protocolo INSURE, principalmente quando a indicação é profilática, pois na adminstração terapêutica, dependo da gravidade, o RN pode necessitar cotinuar intubado. As etapas do protocolo são:
 
 1. INtubate,
 2. SURfactant,
@@ -246,11 +251,13 @@ O surfactante exôgeno é administrado seguindo o protocolo INSURE, principalmen
 
 Principalmente nas administrações profiláticas, está recomendada a extubação precoce, mantendo o RN em CPAP, em seguida.
 
-Após a adminustração do surfactante, há aumento da CRF (capacidade funcional residual) do RN, tanto por estabilização dos alvéolos pérvios como por recrutamento de novos alvéolos atelectasiados. Dessa forma, reduzimos a frequência de pneumotórax por barotrauma e também a mortalidade.
+Após a adminustração do surfactante, há aumento da CRF (**capacidade funcional residual**) do RN, tanto por estabilização dos alvéolos pérvios como por recrutamento de novos alvéolos atelectasiados. Dessa forma, reduzimos a frequência de pneumotórax por barotrauma e também a mortalidade.
+
+O **CPAP** vem sendo muito estimulado com o intuito de redução da lesão pulmonar exercendo importante papel na melhora da complacência pulmonar e na redução da resistência das vias aéreas o que auxilia inclusive a manter o surfactante exógeno administrado.
 
 ## Taquipneia transitória do RN
 
-É caracterizada por taquipneia (FR > 60 ipm) nas primeiras horas de vida que melhora rapidamente, com 24-72 horas.
+É caracterizada por taquipneia (FR > 60 ipm) nas primeiras horas de vida que **melhora rapidamente**, com 24-72 horas.
 
 Relembrando a fisiologia, o pulmão fetal é repleto de líquido desde a 17ª semana de gestação (período canalicular). Esse líquido é fundamental para o desenvolvimento e nutrição do pulmão fetal em desenvolvimento. Contudo, antes de nascer esse líquido precisa ser removido. 
 
@@ -264,7 +271,7 @@ O trabalho de parto é importante pois estimula a maior liberação dessas prost
 * asma materna,
 * policitemia.
 
-Ocorre mais em RNs pré-termo tardio ou termo precoce, pois, nos mais prematuros, o pulmão ainda é imaturo e ao invés da TTRN teremos a SDR.
+**Ocorre mais em RNs pré-termo tardio ou termo precoce**, pois, nos mais prematuros, o pulmão ainda é imaturo e ao invés da TTRN teremos a SDR.
 
 Resumindo os fatores de risco:
 
@@ -272,11 +279,17 @@ Resumindo os fatores de risco:
 * cesárea eletiva fora do TP,
 * diabetes gestacional.
 
-Na radiologia, vemos uma congestão peri-hilar, radiada e simétrica com espessamento de cisuras inter-lobares (apontadas pelas setas na imagem abaixo). É uma radiografia de congestão pulmonar, evidenciando o pulmão cheio de líquido. Os vasos estão dilatados, podemos ter cardiomegalia e, as vezes, até um pequeno derrame pleural.
+<span class="alert">
+Diferentemente da SDR, a TTRN ocorre em RNs mais próximos do termo.
+</span>
+
+Na radiologia, vemos uma **congestão peri-hilar, radiada e simétrica com espessamento de cisuras inter-lobares** (apontadas pelas setas na imagem abaixo). É uma radiografia de congestão pulmonar, evidenciando o pulmão cheio de líquido. Os vasos estão dilatados, podemos ter cardiomegalia e, as vezes, até um pequeno derrame pleural.
 
 ![Radio](/assets/neonatologia/dr/ttrn.png)
 
-O tratamento é mais simples que a SDR, pois este é um distúrbio de curso mais limitado, durando até 3 dias. Enquanto isso, podem ser feitas medidas de suporte como oxigenoterapia e ventilação por CPAP.
+![Radio](/assets/neonatologia/dr/radio-ttrn.jpeg)
+
+O tratamento é mais simples que a SDR, pois este é um distúrbio de curso mais limitado, durando até 3 dias. Enquanto isso, podem ser feitas medidas de **suporte ventilatório** como a **oxigenoterapia** e ventilação por **CPAP**.
 
 ## Síndrome de aspiração meconial
 
@@ -286,6 +299,8 @@ Está presente no TGI desde a 16ª semana de gestação, chegando ao cólon desc
 
 A SAM está relacionada à elminação precoce do líquido meconial, ainda dentro do útero, enquanto que o normal seria a elminação nos primeiros dias de vida após o nascimento.
 
+Os sintomas são precoces, logo após o nascimento, e progressivos. Na ausência de complicações (baro/volutrauma e ou hipertensão pulmonar) o quadro se resolve em 5-7 dias devido a absorção gradativa o mecônio.
+
 Os fatores predisponentes para a eliminação precoce do mecônio são:
 
 1. **Maturidade fetal** -- presença de mecônio no TGI baixo,
@@ -293,6 +308,10 @@ Os fatores predisponentes para a eliminação precoce do mecônio são:
 3. compressão mecânica do abdomen durante o trabalho de parto -- "empurra" o mecônio pelo TGI.
 
 Ou seja, em geral acontece no RN termo ou pós-termo, com líquido amniótico meconial e asfixia neonatal (sofrimento fetal). Com isso, ele evolui com desconforto respiratório precoce e estertores grossos. A resolução ocorre geralmente após 5 a 7 dias de vida. 
+
+<span class="alert">
+Diferentemente da SDR e TTRN, a SAM ocorre mais nos RNs termo tardio e pós-termo.
+</span>
 
 Fatores de risco:
 
@@ -306,15 +325,17 @@ Assim, a fisiopatologia é: um sofrimento fetal que permite o relaxamento do esf
 
 Em seguida, a presença do mecônio nas vias respiratórias vai: provocar uma **inflamação** (podendo até predispor uma infecção secundária); **inativar o surfactante** já presente nos alvéolos; **obstruir** as vias aéreas que pode ser total, levando a **atelectasia**, ou parcial, levando à **hiperinsuflação** em decorrência de um mecanismo valvular que permite a entrada do ar mas não a saída.
 
-Essas áreas de atelectasia e de hiperinsuflação cria um *shunt* intrapulmonar, com áreas bem ventiladas que não são bem perfundidas e áreas bem perfundidas que não são ventiladas. O resultado de tudo isso é a **hipoxemia**.
+Essas áreas de atelectasia e de hiperinsuflação cria um ***shunt* intrapulmonar**, com áreas bem ventiladas que não são bem perfundidas e áreas bem perfundidas que não são ventiladas. O resultado da alteração na relação ventilação/perfusão (V/Q) é a **hipoxemia**, a hipercapnia e a acidose.
 
-Além disso, a própria hipoxemia ainda vai contribuir para a ocorrência de vasoconstricção pulmonar e acarretar uma hipertensão pulmonar. Relembrando, o aumento da resistência vasculo-pulmonar vai perpeturar a circulação fetal no recém-nascido, com manutenção do *shunt* direita-esquerda dentro do coração, pelo forame oval, e persistência do canal arterial.
+Além disso, a própria hipoxemia ainda vai contribuir para a ocorrência de vasoconstricção pulmonar e acarretar uma **hipertensão pulmonar**. Relembrando, o aumento da resistência vasculo-pulmonar vai perpeturar a circulação fetal no recém-nascido, com manutenção do *shunt* direita-esquerda dentro do coração, pelo forame oval, e persistência do canal arterial.
 
 ### Radiologia
 
-Na radiografia podemos observar áreas de **atelectasia** (consolidação em aspécto granular grosseiro -- apontadas pelas setas abaixo) alternadas com áreas de **hiperinsuflação**, principalmente nas bases pulmonares (mais escurecidas, evidenciando o acúmulo e aprisionamento de ar -- podem ser vistas na imagem abaixo). 
+Na radiografia podemos observar áreas de **atelectasia** (consolidação em aspécto granular grosseiro -- apontadas pelas setas abaixo) alternadas com áreas de **hiperinsuflação**, principalmente nas bases pulmonares (mais escurecidas, evidenciando o acúmulo e aprisionamento de ar -- podem ser vistas na imagem abaixo) e retificação do diafragma. 
 
 ![Radio](/assets/neonatologia/dr/radio-sam.png)
+
+![Radio](/assets/neonatologia/dr/radio-sam.jpeg)
 
 Dependendo do grau da hiperinsuflação, os alvéolos podem romper com tanto ar aprisionado e provocar um **pneumotórax** por barotrauma ou volutrauma ("explodir") -- visto no hemitórax esquerdo da imagem abaixo. Também pode ocorrer enfisema ou pneumomediastino como complicações.
 
@@ -326,7 +347,13 @@ Outra complicação é a ocorrência de **hipertensão pulmonar persistente** (p
 
 ### Tratamento
 
-Envolve, como de costume, o **suporte ventilatório** e a **oxigenioterapia**. Em geral, inicia-se **antibioticoterapia** em decorrência de que o mecônio pode atuar como um meio de cultura para bactérias (principalmente gram-negativas) e também da dificuldade de diferenciação raiológica com uma pneumonia.
+Envolve, como de costume, o **suporte ventilatório** e a **oxigenioterapia**. Avalia-se também se há necessidade de aspiração das vias aéreas durante as manobras de reanimação.
+
+**Alguns** RN podem se beneficiar do uso do **CPAP**, sobretudo, se a radiografia não mostrar áreas hiperinsufladas.
+
+Em geral, inicia-se **antibioticoterapia** em decorrência de que o mecônio pode atuar como um meio de cultura para bactérias (principalmente gram-negativas) e também da dificuldade de diferenciação raiológica com uma pneumonia. Interessante solicitar hemoculturas antes de iniciar as drogas.
+
+Não há recomendação para antibióticoterapia profilática em todos RNs que nascem como líquido amniótico meconial.
 
 O uso de surfactante exógeno ainda é muito controverso, pois o mecânio incativa tanto o surfactante endógeno como o exógeno.
 
@@ -338,12 +365,12 @@ De acordo com o momento de aquisição dos germes, a pneumonia neonatal pode ser
 
 1. **Congênita:** infecção transplacentária ou corioamnionite;
 2. **Neonatal**
-  * Precoce: se manifestando nas primeiras horas de vida,
+  * Precoce: se manifestando nas primeiras 48 horas de vida,
   * Tardia: mais associada à infecção hospitalar.
 
 Na pneumonia congênita, a manifestação clínica de desconforto respiratório ocorre logo após o nascimento. Está associada também ao parto prematuro e à RPMO. Na maior parte das vezes é causada por bactérias **gram-negativas** (principalmente os **GBS** -- estreptococos do grupo B).
 
-Na pneunomia neonatal, em geral estão envolvidas as bactérias **gram-positivas**.
+Na pneunomia neonatal tardia (hospitalar), em geral estão envolvidas as bactérias **gram-positivas**.
 
 O fatores de risco são:
 
@@ -351,7 +378,7 @@ O fatores de risco são:
 * RPMO > 18 horas,
 * corioamnionite clínica,
 * trabalho de parto prematuro sem causa (geralmente devido a infecção),
-* cultura positiva para GBS (*Streptococcus* do Grupo B), mãe colonizada.
+* cultura positiva para GBS (*Streptococcus* do Grupo B), mãe colonizada, sem a profilaxia.
 
 Também existem fatores de risco radiológico. Qualquer alterações radiológica que permanecer inalterada por mais de 48 horas pode ser um sinal de pneumonia, entre elas:
 
@@ -361,6 +388,8 @@ Também existem fatores de risco radiológico. Qualquer alterações radiológic
 * broncograma aéreo,
 * edema pulmonar
 
+![Sepse](/assets/neonatologia/dr/radio-sepse.jpg)
+
 A coriomnionite clínica engloba:
 
 1. Febre materna > 38°C,
@@ -368,7 +397,7 @@ A coriomnionite clínica engloba:
 3. Leucocitose materna > 20 mil/mm<sup>3</sup>,
 4. Taquicardia fetal > 160 bpm,
 5. Útero doloroso e amolecido,
-6. Fisometria.
+6. Fisometria (produção de gases no útero).
 
 Também muito importante se atentar para os sinais clínicos de sepse neonatal:
 
@@ -384,7 +413,8 @@ Outra forma de avaliar a possibilidade de sepse é através da triagem laborator
 
 Abaixo, temos a tabela do escore de Rodwell. Cada achado vale um ponto. Um escore ≥ 3 tem sensibilidade de 96% e especificidade de 78% para o diagnóstico de sepse. Um escore < 3 tem valor preditivo negativo de 99%.
 
-![Rodwell](/assets/neontaologia/dr/rodwell.png)
+![Rodwell](/assets/neonatologia/dr/rodwell.jpg
+)
 
 O diagnóstico diferencial da pneumonia com a SDR pode ser dificíl de realizar. Os exames laboratórias com os critérios de sepse alterados sugerem a presença de penumonia, assim como a PCR aumentada. A hemocultura positiva indica a bacteremia e também sugere sepse.
 
@@ -392,10 +422,12 @@ O diagnóstico diferencial da pneumonia com a SDR pode ser dificíl de realizar.
 
 Antes de prescrever medicações, lembrar sempre de manter um bom suporte nutricional a estes RNs. Como estão muito taquipneicos, não conseguem fazer nutrição oral. É necessário fazer nutrição enteral (preferida) ou parenteral.
 
-Na pneumonia de manifestação precoce (primeiras 24 horas de vida), tratamos considerando o espectro de agentes do canal de parto. Destes, o principal o GBS. Podemos usar dois esquemas de ATB:
+Na pneumonia de manifestação precoce (primeiras 24 horas de vida), tratamos considerando o espectro de agentes do canal de parto. O principal patógeno é o **estreptococo do grupo B** (GBS), mas outras bactérias também podem estar envolvidas, são elas: ***E. coli***, ***Klebisiella***, ***Listeria*** e ***Estafilococos***.
 
-1. Penicilina cristalina + amicacina por 10-14 dias;
-2. Ampicilina + gentamicina por 10-14 dias.
+Podemos usar dois esquemas de ATB:
+
+1. **Penicilina cristalina** + **amicacina** por 10-14 dias;
+2. **Ampicilina** + **gentamicina** por 10-14 dias.
 
 # Suporte ventilatório
 
@@ -410,7 +442,7 @@ A preferência é sempre optar pelo **CPAP nasal**. Algumas indicações são:
 3. Pós-extubação traqueal em todos < 1500 g;
 4. Apneia neonatal.
 
-![CPAP](/assets/neontaologia/dr/cpap.jpg)
+![CPAP](/assets/neonatologia/dr/cpap.jpg)
 
 ## Ventilação mecânica
 
@@ -420,3 +452,8 @@ Se não houver melhora clínica, pode-se optar pela **ventilação mecânica** i
 2. Mais de 2 episódios de apneia por hora;
 3. Acidose (pH < 7,2).
 
+# Resumo
+
+![Flux](/assets/neonatologia/dr/flux.jpg)
+
+![Flux](/assets/neonatologia/dr/flux2.jpg)

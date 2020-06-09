@@ -1154,9 +1154,17 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/dr/boletim.jpeg'
       
+        '/assets/neonatologia/dr/cpap.jpg'
+      
         '/assets/neonatologia/dr/fat.jpeg'
       
         '/assets/neonatologia/dr/fisio.jpeg'
+      
+        '/assets/neonatologia/dr/flux.jpg'
+      
+        '/assets/neonatologia/dr/flux2.jpg'
+      
+        '/assets/neonatologia/dr/radio-sam.jpeg'
       
         '/assets/neonatologia/dr/radio-sam.png'
       
@@ -1164,9 +1172,17 @@ self.addEventListener('install', function (event) {
       
         '/assets/neonatologia/dr/radio-sam3.png'
       
+        '/assets/neonatologia/dr/radio-sdr.jpeg'
+      
+        '/assets/neonatologia/dr/radio-sepse.jpg'
+      
+        '/assets/neonatologia/dr/radio-ttrn.jpeg'
+      
         '/assets/neonatologia/dr/radio.png'
       
         '/assets/neonatologia/dr/resumo.jpeg'
+      
+        '/assets/neonatologia/dr/rodwell.jpg'
       
         '/assets/neonatologia/dr/sam.jpeg'
       
