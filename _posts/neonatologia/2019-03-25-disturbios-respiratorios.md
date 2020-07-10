@@ -4,7 +4,7 @@ categories: neonatologia
 layout: post
 comment: 'Estudei pelo Sanarflix, resumo e aula'
 status: 'true'
-revisado: 28 Mai 2020
+revisado: 9 Jun 2020
 ---
 
 * Sumário
@@ -324,6 +324,8 @@ Fatores de risco:
 Assim, a fisiopatologia é: um sofrimento fetal que permite o relaxamento do esfincter anal, permitindo a eliminação do mecônio intra-útero. Somado a isso, o sofrimento fetal também vai provocar movimentos de *gasping* (puxos inspiratórios) no feto, o que implica na aspiração desse mecônio presente no líquido amniótico.  
 
 Em seguida, a presença do mecônio nas vias respiratórias vai: provocar uma **inflamação** (podendo até predispor uma infecção secundária); **inativar o surfactante** já presente nos alvéolos; **obstruir** as vias aéreas que pode ser total, levando a **atelectasia**, ou parcial, levando à **hiperinsuflação** em decorrência de um mecanismo valvular que permite a entrada do ar mas não a saída.
+
+![img](/assets/neonatologia/dr/sam.jpeg)
 
 Essas áreas de atelectasia e de hiperinsuflação cria um ***shunt* intrapulmonar**, com áreas bem ventiladas que não são bem perfundidas e áreas bem perfundidas que não são ventiladas. O resultado da alteração na relação ventilação/perfusão (V/Q) é a **hipoxemia**, a hipercapnia e a acidose.
 

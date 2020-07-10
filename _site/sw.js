@@ -85,7 +85,7 @@ self.addEventListener('install', function (event) {
       
         '/neonatologia/sifilis-congenita.html',
       
-        '/neonatologia/sepse-neonatal.html',
+        '/neonatologia/sepse-neonatal-hm.html',
       
         '/neonatologia/aspectos-gerais.html',
       
@@ -353,8 +353,6 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/sangramento-segundo-trimestre.html',
       
-        '/neonatologia/disturbios-repiratorios.html',
-      
         '/ginecologia/amenorreia.html',
       
         '/urologia/tumores-de-bexiga.html',
@@ -433,6 +431,8 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/mecanismo-do-parto.html',
       
+        '/neonatologia/infeccoes-congenitas.html',
+      
         '/ginecologia/semiologia-ginecologica.html',
       
         '/urologia/hiperplasia-prostatica.html',
@@ -441,19 +441,21 @@ self.addEventListener('install', function (event) {
       
         '/obstetricia/pelviologia.html',
       
+        '/neonatologia/sepse-neonatal.html',
+      
         '/obstetricia/estatica-fetal.html',
       
-        '/neonatologia/disturbios-respiratorios.html',
+        '/neonatologia/ictericia-neonatal-precoce.html',
       
         '/obstetricia/pre-natal-de-baixo-risco.html',
       
         '/obstetricia/idade-da-gestacao-e-dpp.html',
       
-        '/neonatologia/ictericia-neonatal-precoce.html',
+        '/neonatologia/ictericia-neonata-tardia.html',
       
         '/obstetricia/diagn%C3%B3stico-da-gravidez.html',
       
-        '/neonatologia/ictericia-neonata-tardia.html',
+        '/neonatologia/disturbios-respiratorios.html',
       
         '/neonatologia/reanimacao-neonatal-34s.html',
       
