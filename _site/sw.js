@@ -473,6 +473,10 @@ self.addEventListener('install', function (event) {
       
         '/neonatologia/introducao-neonato.html',
       
+        '/ginecologia/pf2.html',
+      
+        '/ginecologia/pf1.html',
+      
       
         '/CNAME'
       
@@ -835,6 +839,8 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/climaterio/ci.jpeg'
       
         '/assets/ginecologia/climaterio/sm.jpeg'
+      
+        '/assets/ginecologia/elegibilidade.png'
       
         '/assets/ginecologia/leiomioma/mioma.png'
       
