@@ -149,5 +149,6 @@ espiraladas, aumentando ainda mais a isquemia. Abertura de anastomoses arterio-v
 íntegra e serve como ponto de partida para a regeneração endometrial.
 
 ## Referências
+
 [^1]: Guyton
 [^2]: Livro de GO UPE

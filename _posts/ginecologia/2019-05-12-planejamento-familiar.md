@@ -7,61 +7,6 @@ filename: 2019-05-12-planejamento familiar.md
 1. Sumário
 {:toc}
 
-## Temporários
-
-
-### DIU
-Consiste em uma pequena unidade de plástico flexível que é inserida no interior da cavidade uterina em qualquer fase da vida reprodutiva da mulher, desde que exista a certeza de que não esteja grávida.
-
-Os dispositivos atuais podem ser medicados ou não medicados (inertes), conforme a presença ou ausência de íons de cobre ou hormônio progestágeno em sua superfície.
-
-Os DIUs T de **Cobre** 380 A e o Multiload 375 são de alta eficácia e têm durabilidade que variam **até 10 anos**, sendo estes os modelos mais utilizados em todo o mundo.
-
-A presença do íon Cobre no
-endométrio atua interferindo na mobilidade e na vitalidade do espermatozóide bem como
-diminuindo a duração do tempo de sobrevida do óvulo, através de alterações bioquímicas e
-imunológicas, atuando em etapas que ocorrem antes da fertilização e fora da cavidade uterina.
-
-Os DIUs podem ser inseridos em qualquer momento da vida reprodutiva da mulher desde que não esteja gestante. No caso da inserção pós-parto e pós-aborto, afastar completamente a
-hipótese de infecção, atonia uterina ou hemorragia genital.
-
-Há classicamente uma tradição em inserir o DIU durante a menstruação pelo fato do colo uterino se apresentar um pouco mais dilatado, pela certeza da não gravidez e pela maior tolerabilidade da mulher em aceitar o sangramento natural pós-inserção.
-
-Avaliar as características do útero e identificar fatores que juntos possam contra-indicar o uso do DIU, tais como patologias uterinas tipo miomas submucosos, que podem distorcer a cavidade intra-uterina e dificultar a inserção, aumentar o risco de perfuração uterina ou maior chance de expulsão do dispositivo.
-
-Importante o conhecimento
-da posição uterina, pois a **retroflexão uterina** pode favorecer a perfuração no momento da inserção, a presença de cervicite, doença inflamatória pélvica, gravidez e tumores.
-
-Na inserção, primeiramente se introduz um especulo de tamanho adequado, seguida de
-uma rigorosa assepsia da vagina e do colo de útero para evitar a ascensão de bactérias que podem
-desencadear infecções posteriormente. Procede-se ao pinçamento da cérvix de acordo com a posição do útero com ligeira tração para retificar o útero. A próxima etapa consiste em realizar a histerometria para conhecer o comprimento da cavidade uterina, a direção da mesma e do canal cervical e ainda para auxiliar em algumas eventuais alterações atípicas uterinas, tais como sinéquias, septos e miomas. Se houver necessidade de dilatação do colo, ficar atento com o possível reflexo vagal deste procedimento. O uso de anestesia local para este procedimento reduz
-acentuadamente esta possibilidade. Procede-se então a inserção do dispositivo conforme a
-particularidade de cada um.
-
-Para garantir a eficácia deste método o dispositivo deve estar na posição correta e para
-isto torna-se necessário um auto-exame de toque vaginal periódico da mulher para assegurar se os
-fios da cauda do DIU estão bem posicionados. A mulher deve ser bem orientada e aconselhada
-para que realize as revisões periódicas de controle para que algumas situações possam ser
-resolvidas e esclarecidas para uma maior satisfação do método. Sinais de ausência dos fios
-podem sugerir expulsão total; dor pélvica com atraso menstrual e/ou sangramento pode-se
-pensar em infecção, deslocamento ou gestação; sangramento excessivo, pensar em deslocamento
-e anemia; leucorréia purulenta e com odor, não descartar a hipótese de infecção.
-
-* Vantagens
-  * Pode ser usado por longos períodos de tempo inclusive até a menopausa.
-  * Podem ser inseridos durante a operação cesariana logo após o nascimento, após o delivramento no parto transpelviano ou em qualquer período do puerpério, pois não interferem com a lactação, desde que preencham os critérios adequados para evitar riscos de infecção e expulsão
-  * Têm alta eficácia e não interferem nas relações sexuais
-  * Ausência de efeitos sistêmicos
-  * Em geral, as mulheres podem usar este método com eficácia e tranqüilidade, pois correspondem aos critérios de elegibilidade 1 e 2 da OMS, sejam fumantes, obesas, portadoras de doenças benignas ou malignas da mama, hipertensas, com varizes, passados de AVC, diabéticas, portadoras de doença hepática e tireoidiana, esquistossomose sem anemia, história de epilepsia entre outras.
-* Desvantagens
-  * Não previne ISTs
-  * Instalação e remoção necessita de médico
-  * Necessidade de checagem periódica do DIU
-* Complicações da inserção
-  * Dor, reação vagal, perfuração uterina e sangramento genital.
-  * O maior risco de desenvolver a Doença Inflamatória Pélvica é nas primeiras semanas após a inserção.
-* Complicações do seguimento
-  * Gravidez, sangramento uterino anormal, fios da cauda não visíveis, expulsão, dor pélvica e dismenorréia.
 
 
 ## Definitivo
@@ -99,7 +44,3 @@ Importância de usar algum outro método anticoncepcional após a vasectomia, at
   * Algumas patologias clínicas podem exigir internamento e maior monitorização clínica como o diabetes, cardiopatias e coagulopatias
   * Instabilidade conjugal a exemplo da laqueadura tubária devem ser aconselhados para método temporário para evitar o arrependimento futuro
   * Expectativas de cura para disfunções sexuais devem ser afastadas.
-
-  ## Referências
-  [^cisam]: Livro do CISAM
-  [^febrasgo]: Poli MEH, Mello CR, Machado RB, Pinho Neto JS , Spinola PG, Tomas G, et al. Manual de anticoncepção da FEBRASGO. FEMINA, Setembro 2009, vol 37, nº 9.

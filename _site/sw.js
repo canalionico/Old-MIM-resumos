@@ -417,7 +417,7 @@ self.addEventListener('install', function (event) {
       
         '/nefrologia/glomerulopatias.html',
       
-        '/ginecologia/ciclo-menstrual.html',
+        '/ginecologia/ciclo-menstrua2l.html',
       
         '/neonatologia/tocotraumatismo.html',
       
@@ -473,9 +473,13 @@ self.addEventListener('install', function (event) {
       
         '/neonatologia/introducao-neonato.html',
       
+        '/ginecologia/pf3.html',
+      
         '/ginecologia/pf2.html',
       
         '/ginecologia/pf1.html',
+      
+        '/ginecologia/ciclo-menstrual.html',
       
       
         '/CNAME'
@@ -836,9 +840,15 @@ self.addEventListener('install', function (event) {
       
         '/assets/ginecologia/ca-endometrio/figo2.png'
       
+        '/assets/ginecologia/ciclo-endometrial.jpeg'
+      
+        '/assets/ginecologia/ciclo-ovariano.jpeg'
+      
         '/assets/ginecologia/climaterio/ci.jpeg'
       
         '/assets/ginecologia/climaterio/sm.jpeg'
+      
+        '/assets/ginecologia/eixo.jpeg'
       
         '/assets/ginecologia/elegibilidade.png'
       
