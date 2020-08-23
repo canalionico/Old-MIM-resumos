@@ -53,6 +53,8 @@ self.addEventListener('install', function (event) {
         '/sumario/urologia.html',
       
       
+        '/hematologia/anemias.html',
+      
         '/esclerite-e-episclerite.html',
       
         '/infectologia/cefalosporinas.html',
@@ -865,6 +867,10 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/sua/tab.jpeg'
       
         '/assets/hematologia/Hematopoiesis_(human)_diagram_pt.svg'
+      
+        '/assets/hematologia/leucograma.png'
+      
+        '/assets/hematologia/reticulocitos.png'
       
         '/assets/imagens/ca-prostata/estadiamento.png'
       
