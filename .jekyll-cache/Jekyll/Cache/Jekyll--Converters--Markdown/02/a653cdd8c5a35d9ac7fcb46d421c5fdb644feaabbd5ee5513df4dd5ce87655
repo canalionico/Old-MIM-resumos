@@ -1,0 +1,262 @@
+I"kS<ol id="markdown-toc">
+  <li><a href="#quadro-clínico" id="markdown-toc-quadro-clínico">Quadro clínico</a></li>
+  <li><a href="#etiologia" id="markdown-toc-etiologia">Etiologia</a></li>
+  <li><a href="#registro-de-rítmo" id="markdown-toc-registro-de-rítmo">Registro de rítmo</a>    <ol>
+      <li><a href="#holter" id="markdown-toc-holter">Holter</a></li>
+    </ol>
+  </li>
+  <li><a href="#frequência-cardíaca" id="markdown-toc-frequência-cardíaca">Frequência cardíaca</a>    <ol>
+      <li><a href="#método-bizu" id="markdown-toc-método-bizu">Método bizu</a></li>
+    </ol>
+  </li>
+  <li><a href="#tipos-de-arritmia" id="markdown-toc-tipos-de-arritmia">Tipos de arritmia</a></li>
+  <li><a href="#arritmias-de-origem-sinusal" id="markdown-toc-arritmias-de-origem-sinusal">Arritmias de origem sinusal</a>    <ol>
+      <li><a href="#taquicardia-e-bradicardia-sinusal" id="markdown-toc-taquicardia-e-bradicardia-sinusal">Taquicardia e Bradicardia sinusal</a></li>
+      <li><a href="#arritmia-sinusal" id="markdown-toc-arritmia-sinusal">Arritmia sinusal</a></li>
+      <li><a href="#parada-sinusal-assistolia-e-batimentos-de-escape" id="markdown-toc-parada-sinusal-assistolia-e-batimentos-de-escape">Parada sinusal, assistolia e batimentos de escape</a></li>
+      <li><a href="#marca-passos-não-sinusais" id="markdown-toc-marca-passos-não-sinusais">Marca-passos não sinusais</a></li>
+      <li><a href="#parada-sinusal-versus-bloqueio-de-saída-sinusal" id="markdown-toc-parada-sinusal-versus-bloqueio-de-saída-sinusal">Parada sinusal versus bloqueio de saída sinusal</a></li>
+    </ol>
+  </li>
+  <li><a href="#ritmos-ectópicos" id="markdown-toc-ritmos-ectópicos">Ritmos ectópicos</a></li>
+  <li><a href="#ritmos-reentrantes" id="markdown-toc-ritmos-reentrantes">Ritmos reentrantes</a></li>
+  <li><a href="#pausa-para-um-conceito" id="markdown-toc-pausa-para-um-conceito">Pausa para um conceito</a></li>
+  <li><a href="#arritmias-supraventriculares" id="markdown-toc-arritmias-supraventriculares">Arritmias supraventriculares</a></li>
+</ol>
+
+<p>O coração em repouso bate com um ritmo regular, de <strong>60 a 100 vezes</strong>
+por minuto. Como cada batimento se origina da despolarização do nó
+sinoatrial (SA), o ritmo cardíaco habitual do dia a dia é chamado ritmo
+sinusal normal. Qualquer outra ocorrência é chamada de <strong>arritmia</strong> (ou,
+mais acuradamente, <strong>disritmia</strong>.</p>
+
+<p>O termo arritmia se refere a qualquer distúrbio na <strong>frequência</strong>, na <strong>regularidade</strong>, no <strong>local</strong> de origem ou na <strong>condução</strong> do impulso elétrico cardíaco. Pode ser um único batimento aberrante (ou mesmo uma pausa prolongada entre batimentos) ou um distúrbio de ritmo sustentado que pode persistir por toda a
+vida do paciente.</p>
+
+<p>Nem toda arritmia é anormal ou perigosa. Por exemplo, frequências cardíacas de 35 a 40 batimentos por minuto são comuns e bastante normais em atletas bem treinados. <strong>Batimentos anormais isolados, que se originam em qualquer outra parte do coração que não o nó SA, frequentemente ocorrem na maioria dos indivíduos saudáveis.</strong></p>
+
+<h2 id="quadro-clínico">Quadro clínico</h2>
+
+<p>Muitas arritmias passam despercebidas pelo paciente e são descobertas acidentalmente em um exame físico ou ECG de rotina.</p>
+
+<ul>
+  <li>Palpitações (acelerações e/ou desacelerações)</li>
+  <li>Sintomas de baixo débito cardíaco (quando a arritmia compromete a função cardíaca);
+    <ul>
+      <li>Tontura</li>
+      <li>Síncope</li>
+    </ul>
+  </li>
+  <li>Angina (arritmias rápidas podem aumentar as demandas de oxigênio do miocárdio e causar angina (dor torácica);</li>
+  <li>Morte súbita</li>
+</ul>
+
+<blockquote>
+  <p>O ECG tem se tornado cada vez mais útil para identificar condições que predispõem a arritmias malignas e morte súbita e permite, assim, o início de intervenções salvadoras antes do evento catastrófico. Essas condições podem ser herdadas ou adquiridas. Mais comuns entre elas são as anormalidades de repolarização que prolongam o intervalo QT, um substrato perigoso para arritmias potencialmente fatais (mais detalhes adiante).</p>
+</blockquote>
+
+<h2 id="etiologia">Etiologia</h2>
+
+<p>O mnemônico <strong>HIS DEBE</strong> deve lhe ajudar a lembrar dos fatores arritmogênicos que devem ser considerados sempre que se encontra um paciente com arritmia.</p>
+
+<ul>
+  <li><strong>H – Hipoxia:</strong> um miocárdio privado de oxigênio é um miocárdio irritável. Distúrbios pulmonares, seja doença pulmonar crônica grave ou uma embolia pulmonar aguda, são fatores precipitantes importantes de arritmias cardíacas.</li>
+  <li><strong>I – Isquemia e irritabilidade:</strong> a angina, mesmo sem a morte de células miocárdicas associada ao infarto, também é um fator precipitante importante. Ocasionalmente, miocardite, uma inflamação do músculo cardíaco geralmente causada por uma infecção viral, pode causar arritmias.</li>
+  <li><strong>S – Estimulação simpática:</strong> o aumento do tônus simpático, por qualquer causa (hipertireoidismo, insuficiência cardíaca congestiva, nervosismo, exercício, etc.), pode produzir arritmias.</li>
+  <li><strong>D – Fármacos:</strong> ironicamente, os próprios fármacos antiarrítmicos, como a quinidina, estão entre os principais culpados.</li>
+  <li><strong>E – Eletrólitos (distúrbios dos):</strong> a hipocalemia e desequilíbrios do Ca e Mg podem induzir arritmias.</li>
+  <li><strong>B – Bradicardia:</strong> uma FC muito lenta parece predispor a arritmias. Também é possível incluir a síndrome bradi-taqui (também chamada de síndrome do nó SA) nessa categoria.</li>
+  <li><strong>E – Estiramento:</strong> a dilatação e a hipertrofia dos átrios e ventrículos podem produzir arritmias. Esse é um modo pelo qual a ICC e a doença valvular podem causar arritmias.</li>
+</ul>
+
+<h2 id="registro-de-rítmo">Registro de rítmo</h2>
+
+<p>Um longo traçado de uma única derivação ou de múltiplas derivações. Qualquer derivação
+pode ser escolhida, mas, obviamente, faz sentido escolher a derivação
+que lhe fornece a maior quantidade de informações. O registro de ritmo
+torna muito mais fácil identificar qualquer irregularidade ou surtos intermitentes de atividade elétrica incomum.</p>
+
+<h3 id="holter">Holter</h3>
+
+<p>O paciente a usa por 24 a 48 horas e, durante esse período, é armazenado um registro completo
+do ritmo cardíaco do paciente. Este registro, posteriormente, é analisado para a presença de qualquer atividade arrítmica. O monitor pode usar uma ou, mais frequentemente, duas derivações (uma derivação
+precordial e uma dos membros). Claramente, quanto mais tempo durar a monitoração do paciente, maior a chance de detecção da arritmia. O diário do paciente pode, então, ser comparado com o registro do
+Holter para determinar se há uma correlação entre os sintomas do paciente e qualquer arritmia cardíaca subjacente.</p>
+
+<h2 id="frequência-cardíaca">Frequência cardíaca</h2>
+
+<ul>
+  <li>Um quadrado pequeno (1 mm) = 0,04 s;</li>
+  <li>Um quadrado grande (5 mm) = 0,2 s;</li>
+  <li><strong>Cinco quadrados grandes, portanto, constituem 1 segundo.</strong></li>
+</ul>
+
+<h3 id="método-bizu">Método bizu</h3>
+
+<ol>
+  <li>Encontre uma onda R que caia sobre, ou quase sobre, uma das linhas escuras.</li>
+  <li>Conte o número de quadrados grandes até a próxima onda R.</li>
+  <li>Determine a frequência em batimentos por minuto da seguinte maneira:
+    <ul>
+      <li>Se houver um quadrado grande entre ondas R sucessivas, então cada onda R é separada por 0,2 segundo. Portanto, no curso de 1 segundo, haverá cinco ciclos de atividade cardíaca (1 segundo dividido por 0,2 segundo) e em 1 minuto, 300 ciclos;</li>
+      <li>Se houver dois quadrados grandes entre ondas R sucessivas, então cada onda R é separada por 0,4 segundo. Portanto, no curso de 1 segundo, haverá 2,5 ciclos de atividade cardíaca (1 segundo dividido por 0,4 segundo) e em 1 minuto, 150 ciclos;</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Por inferência lógica:</p>
+
+<ul>
+  <li>Três quadrados grandes = 100 bpm;</li>
+  <li>Quatro quadrados grandes = 75 bpm;</li>
+  <li>Cinco quadrados grandes = 60 bpm;</li>
+  <li>Seis quadrados grandes = 50 bpm.</li>
+</ul>
+
+<p>Você pode obter as mesmas respostas dividindo 300 pelo  número de quadrados grandes entre as ondas R (p. ex., 300/4 = 75).</p>
+
+<p><strong>Uma acurácia ainda maior pode ser obtida contando o número total de quadrados pequenos entre as ondas R e dividindo 1.500 por este total.</strong></p>
+
+<h2 id="tipos-de-arritmia">Tipos de arritmia</h2>
+
+<p>O coração é capaz apenas de cinco tipos básicos de distúrbio de ritmo:</p>
+
+<ol>
+  <li><strong>Origem sinusal:</strong> a atividade elétrica segue as vias de condução usuais que já foram delineadas, mas é muito rápida, muito lenta ou irregular;</li>
+  <li><strong>Ritmos ectópicos:</strong> a atividade elétrica se origina de um foco que não o nó SA;</li>
+  <li><strong>Arritmias reentrantes:</strong> a atividade elétrica é aprisionada dentro de um circuito elétrico cuja forma e limites são determinados por várias características miocárdicas elétricas e anatômicas;</li>
+  <li><strong>Bloqueios de condução:</strong> a atividade elétrica se origina no nó SA e segue a via habitual, mas encontra bloqueios e retardos inesperados;</li>
+  <li><strong>Síndrome de pré-excitação:</strong> a atividade elétrica segue vias de condução acessórias que contornam as vias normais, fornecendo um atalho elétrico ou um curto-circuito.</li>
+</ol>
+
+<h2 id="arritmias-de-origem-sinusal">Arritmias de origem sinusal</h2>
+
+<h3 id="taquicardia-e-bradicardia-sinusal">Taquicardia e Bradicardia sinusal</h3>
+
+<p>O ritmo sinusal normal é o ritmo normal do coração. A despolarização se origina espontaneamente dentro do nó SA. A frequência é regular e entre 60 e 100 batimentos por minuto (bpm). Se o ritmo se acelera
+além de 100 bpm, ele é chamado de <strong>taquicardia sinusal</strong>; se ele fica abaixo de 60 bpm, é chamado de <strong>bradicardia sinusal</strong>. Estas podem ser normais (como execício intenso ou atletas em repouso) ou patológicas.</p>
+
+<p>A taquicardia sinusal pode ocorrer em pacientes com ICC ou doença pulmonar grave, ou pode ser o único sinal de hipertireoidismo. A bradicardia sinusal é o distúrbio de ritmo mais comum visto nos estágios iniciais do IAM; em indivíduos saudáveis, em outros aspectos, ela pode ser o resultado de um aumento do tônus vagal e pode causar desmaios.</p>
+
+<p><img src="/assets/cardiologia/arritmia-sinusal.jpeg" alt="Arritmia sinusal" /></p>
+
+<h3 id="arritmia-sinusal">Arritmia sinusal</h3>
+
+<p>ECG irá revelar um compasso que parece, em todos os aspectos, ser um ritmo sinusal normal, exceto por ser discretamente irregular. Frequentemente, é um fenômeno normal, refletindo a variação na frequência cardíaca com a inspiração e a expiração. <strong>A inspiração acelera a frequência cardíaca e a expiração a reduz.</strong></p>
+
+<p><img src="/assets/cardiologia/insp.jpeg" alt="Arritmia sinusal" /></p>
+
+<h3 id="parada-sinusal-assistolia-e-batimentos-de-escape">Parada sinusal, assistolia e batimentos de escape</h3>
+
+<p>Ocorre quando o nó SA para de estimular o coração. Se nada mais acontecer, o ECG irá mostrar uma linha isoelétrica sem qualquer atividade elétrica, e o paciente morrerá. A inatividade elétrica prolongada é chamada <strong>assistolia</strong>.</p>
+
+<p>Felizmente, a maioria das células miocárdicas têm a capacidade de se comportar como marca-passo cardíaco. O nó SA suprime as outras células de marca-passo por fornecer a sua onda de despolarização para o miocárdio antes que seus potenciais competidores possam completar a sua despolarização, de forma mais moderada, espontânea. Na parada sinusal, contudo, esses outros marca-passos podem entrar em ação como uma missão de resgate. Esses batimentos de resgate, que se originam fora do nó SA, são chamados <strong>batimentos de escape</strong>.</p>
+
+<p><img src="/assets/cardiologia/batimento-de-escape.jpeg" alt="Arritmia sinusal" /></p>
+
+<h3 id="marca-passos-não-sinusais">Marca-passos não sinusais</h3>
+
+<p>Assim como o nó SA, que geralmente dispara entre 60 e 100 vezes por minuto, estas outras células de marca-passo potenciais têm o seu próprio ritmo intrínseco.</p>
+
+<p><img src="/assets/cardiologia/marca-passos-não-sinusais.jpeg" alt="Arritmia sinusal" /></p>
+
+<p>Cada um desses marca-passos não sinusais pode resgatar um nó SA
+inadequado fornecendo apenas um batimento de escape ou uma série
+contínua desses batimentos. De todos os mecanismos de escape disponíveis, o <strong>escape juncional</strong> é, sem dúvida, o mais comum.</p>
+
+<p>No escape juncional, a despolarização se origina próximo ao nó AV, e o padrão habitual de despolarização atrial não ocorre. Como resultado, não é vista uma onda P normal. Mais frequentemente, não há nenhuma onda P. Às vezes, contudo, pode ser vista uma onda P retrógrada, representando a despolarização atrial se movendo para trás, a partir do nó AV e para dentro dos átrios.</p>
+
+<p><img src="/assets/cardiologia/escape-juncional.jpeg" alt="Arritmia sinusal" />
+Uma observação especial para os encantados eletricamente: há uma forma
+pela qual a parada sinusal transitória e o bloqueio de saída sinusal podem,
+às vezes, ser distinguidos no ECG. Na parada sinusal, o reinício da atividade
+elétrica sinusal ocorre em qualquer momento aleatoriamente (o nó SA sim-
+plesmente recomeça a disparar). Contudo, no bloqueio de saída sinusal, o
+nó SA continua a disparar silenciosamente. Logo, quando o bloqueio cessa, o
+nó SA retoma a despolarização dos átrios após uma pausa que é um múltiplo
+inteiro do ciclo normal (exatamente uma onda P perdida, ou exatamente duas
+ondas P perdidas, ou mais).</p>
+
+<h3 id="parada-sinusal-versus-bloqueio-de-saída-sinusal">Parada sinusal versus bloqueio de saída sinusal</h3>
+
+<p>Como a despolarização do nó SA não é registrada no ECG, é impossível determinar se uma pausa sinusal prolongada é devida à parada sinusal ou à falha na transmissão da despolarização sinusal para fora do nó e para os átrios, uma situação chamada bloqueio de saída sinusal.</p>
+
+<p>Você pode ouvir esses diferentes termos alternados de tempos em tempos,
+mas, para todos os propósitos, parada sinusal e bloqueio de saída sinusal
+significam a mesma coisa: há uma falha no mecanismo sinusal em fornecer a sua corrente para os tecidos adjacentes.</p>
+
+<p><img src="/assets/cardiologia/arritmias-sinusais.jpeg" alt="Arritmia sinusal" /></p>
+
+<blockquote>
+  <p>Uma observação especial para os encantados eletricamente: há uma forma pela qual a parada sinusal transitória e o bloqueio de saída sinusal podem, às vezes, ser distinguidos no ECG. Na parada sinusal, o reinício da atividade elétrica sinusal ocorre em qualquer momento aleatoriamente (o nó SA simplesmente recomeça a disparar). Contudo, no bloqueio de saída sinusal, o nó SA continua a disparar silenciosamente. Logo, quando o bloqueio cessa, o nó SA retoma a despolarização dos átrios após uma pausa que é um múltiplo inteiro do ciclo normal (exatamente uma onda P perdida, ou exatamente duas ondas P perdidas, ou mais).</p>
+</blockquote>
+
+<h2 id="ritmos-ectópicos">Ritmos ectópicos</h2>
+
+<p>Os ritmos ectópicos são ritmos anormais que se originam de outro lugar que não o nó SA. Desse modo, eles lembram batimentos de escape, mas, aqui, a abordagem é sobre ritmos sustentados, não apenas um ou alguns batimentos. Ritmos ectópicos podem ser causados por qualquer um dos fatores precipitantes descritos.</p>
+
+<p>Em circunstâncias anormais, qualquer um dos outros marca-passos espalhados pelo coração pode ser acelerado, ou seja, estimulado para despolarizar cada vez mais rápido até que possa superar o mecanismo sinusal normal e estabelecer o seu próprio ritmo ectópico transitório ou sustentado.</p>
+
+<p>Entre as causas mais comuns de aumento da automaticidade estão a intoxicação <strong>digitálica</strong> e a <strong>estimulação beta-adrenérgica por terapias inalatórias</strong> usadas para tratar asma e DPOC.</p>
+
+<h2 id="ritmos-reentrantes">Ritmos reentrantes</h2>
+
+<p>A segunda maior causa de arritmias não sinusais é chamada de reentrada. Representa um distúrbio da transmissão do impulso. O resultado é a criação de um foco de atividade elétrica anormal.</p>
+
+<p>Normalmente, a condução passando por duas vias distintas deve ocorrer simultâneamente, na mesma velocidade. Contudo, se uma via for mais lenta que a outra (p. ex. danificada por doença isquêmica ou fibrose), a onda de despolarização será acelerada pela via rápida mas retida pela via lenta. E, quando o impulso chegar na via lenta, se ela já estiver repolarizada, pode ocorrer uma nova despolarização nos dois sentidos dessa via lenta.</p>
+
+<p>À medida que o impulso elétrico gira por essa alça, ondas de despolarização são enviadas em todas as direções. Isso é chamado de <strong>alça de reentrada</strong>, e ela se comporta como um circuito elétrico, fornecendo uma fonte de ativação elétrica que pode suprimir o mecanismo sinusal e comandar o coração.</p>
+
+<p><img src="/assets/cardiologia/alca-de-reentrada.jpeg" alt="Arritmia sinusal" /></p>
+
+<p>Uma alça de reentrada pode variar significativamente em tamanho. Pode ser limitada em uma alça pequena dentro de um único local anatômico (p. ex., o nó AV), pode fazer uma alça por toda a câmara (o átrio ou o ventrículo) ou pode até mesmo envolver um átrio e um ventrículo se houver uma via acessória de condução conectando as duas
+câmaras.</p>
+
+<h2 id="pausa-para-um-conceito">Pausa para um conceito</h2>
+
+<p>Todas as arritmias não sinusais clinicamente importantes são de origem ectópica ou reentrante. Para avaliar qualquer distúrbio de ritmo em um ECG, você apenas precisa responder a quatro perguntas:</p>
+
+<ol>
+  <li>Há ondas P normais?</li>
+  <li>Os complexos QRS são estreitos ou largos?</li>
+  <li>Qual é a relação entre as ondas P e os complexos QRS?</li>
+  <li>O ritmo é regular ou irregular?</li>
+</ol>
+
+<p>Para o ECG normal (ritmo sinusal normal), as respostas são fáceis:</p>
+
+<ol>
+  <li>Sim, há ondas P normais.</li>
+  <li>Os complexos QRS são estreitos.</li>
+  <li>Há uma onda P para cada complexo QRS.</li>
+  <li>O ritmo é essencialmente regular.</li>
+</ol>
+
+<p>Pois:</p>
+
+<ol>
+  <li><strong>Há ondas P normais presentes?</strong> Se a resposta é “sim”, se há ondas P de aspecto normal com um eixo da onda P normal, então a origem da arritmia é, quase certamente, dentro dos átrios.
+    <ul>
+      <li>Se não houver ondas P, então o ritmo deve se originar abaixo dos átrios, no nó AV ou nos ventrículos.</li>
+      <li>A presença das ondas P com um eixo anormal pode refletir uma ativação retrógrada dos átrios por impulsos que se originam abaixo dos átrios, no nó AV ou nos ventrículos, ou seja, do fluxo de corrente de volta para os átrios através do nó AV ou de uma via acessória.</li>
+      <li>Um eixo anormal da onda P não garante que a origem do ritmo esteja localizada abaixo dos átrios, enquanto um eixo normal da onda P é uma boa garantia de que o ritmo se origine acima do nó AV.</li>
+    </ul>
+  </li>
+  <li><strong>Os complexos QRS são estreitos (menos de 0,12 segundo de duração) ou largos (mais de 0,12 segundo de duração)?</strong> Um complexo QRS estreito normal implica que a despolarização ventricular está progredindo ao longo das vias usuais (nó AV para o feixe de His, dele para os ramos e destes para as células de Purkinje).
+    <ul>
+      <li>Esse é o meio mais eficiente de condução, requerendo a menor quantidade de tempo. Dessa forma, o complexo QRS resultante tem curta duração (estreito). Um complexo QRS estreito, portanto, indica que a origem do ritmo deve ser no nó AV ou acima dele.</li>
+      <li>Um complexo QRS amplo geralmente implica que a origem da despolarização ventricular está dentro dos próprios ventrículos. A despolarização é iniciada dentro do miocárdio ventricular, não do sistema de condução, e, assim,espalha-se muito mais lentamente.</li>
+    </ul>
+  </li>
+  <li><strong>Qual é a relação entre as ondas P e os complexos QRS?</strong> Se as ondas P e os complexos QRS se correlacionam da forma normal um para um, com uma única onda P precedendo cada complexo QRS, então, quase certamente, o ritmo tem uma origem sinusal ou atrial.
+    <ul>
+      <li>Às vezes, contudo, os átrios e os ventrículos se despolarizam e contraem independentemente um do outro. Isso se manifestará no ECG por uma falta de correlação entre as ondas P e os complexos QRS: uma situação chamada dissociação AV.</li>
+    </ul>
+  </li>
+  <li><strong>O ritmo é regular ou irregular?</strong> Essa é, frequentemente, a característica mais imediatamente óbvia de um ritmo particular e é, às vezes, a mais crítica.</li>
+</ol>
+
+<p><img src="/assets/cardiologia/ritmo-sinusal.jpeg" alt="Arritmia sinusal" /></p>
+
+<h2 id="arritmias-supraventriculares">Arritmias supraventriculares</h2>
+:ET

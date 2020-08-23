@@ -1,0 +1,400 @@
+I"g[<ul id="markdown-toc">
+  <li><a href="#epidemiologia" id="markdown-toc-epidemiologia">Epidemiologia</a></li>
+  <li><a href="#fisiologia" id="markdown-toc-fisiologia">Fisiologia</a>    <ul>
+      <li><a href="#no-recém-nascido" id="markdown-toc-no-recém-nascido">No recém-nascido</a></li>
+    </ul>
+  </li>
+  <li><a href="#etiologias" id="markdown-toc-etiologias">Etiologias</a>    <ul>
+      <li><a href="#icterícia-fisiológica" id="markdown-toc-icterícia-fisiológica">Icterícia fisiológica</a></li>
+      <li><a href="#pelo-leite-materno" id="markdown-toc-pelo-leite-materno">Pelo leite materno</a></li>
+      <li><a href="#do-leite-materno" id="markdown-toc-do-leite-materno">Do leite materno</a></li>
+      <li><a href="#coleções-sanguíneas" id="markdown-toc-coleções-sanguíneas">Coleções sanguíneas</a></li>
+    </ul>
+  </li>
+  <li><a href="#quadro-clínico" id="markdown-toc-quadro-clínico">Quadro clínico</a>    <ul>
+      <li><a href="#zonas-de-kramer" id="markdown-toc-zonas-de-kramer">Zonas de Kramer</a></li>
+      <li><a href="#encefalopatia-bilirrubínica" id="markdown-toc-encefalopatia-bilirrubínica">Encefalopatia bilirrubínica</a></li>
+    </ul>
+  </li>
+  <li><a href="#exames-complementares" id="markdown-toc-exames-complementares">Exames complementares</a></li>
+  <li><a href="#fatores-de-risco" id="markdown-toc-fatores-de-risco">Fatores de risco</a>    <ul>
+      <li><a href="#nomograma-de-buthani" id="markdown-toc-nomograma-de-buthani">Nomograma de Buthani</a></li>
+    </ul>
+  </li>
+  <li><a href="#tratamento" id="markdown-toc-tratamento">Tratamento</a>    <ul>
+      <li><a href="#manejo" id="markdown-toc-manejo">Manejo</a></li>
+      <li><a href="#fototerapia" id="markdown-toc-fototerapia">Fototerapia</a></li>
+    </ul>
+  </li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+</ul>
+
+<p>Icterícia neonatal tardia é a que ocorre após as 24 primeiras horas de vida. Normalmente está relacionada a etiologias não patológicas que serão discutidas a seguir. A icterícia precoce (&lt; 24 horas) será tratada no capítulo seguinte.</p>
+
+<p>Nos RN o aumento da bilirrubina indireta, não conjugada e lipossolúvel, é muito mais comum. Uma BI &gt; 5 mg/dL já pode se manifestar clinicamente com visualização da icterícia.</p>
+
+<p>Raramente veremos RN ictéricos às custas de bilirrubina direta. Quando ocorre, geralmente é às custas de atresia biliar (colestase), sepse ou infecções congênitas (TORCHS).</p>
+
+<h1 id="epidemiologia">Epidemiologia</h1>
+
+<p>Cerca de 60% dos RN a termo e 80% dos pré-termo tardio desenvolvem icterícia na primeira semana de vida. Praticamente todos prematuros &lt; 35 semanas apresentam icterícia. A icterícia se caracteriza em 10% dos neonatos em aleitamento materno exclusivo.</p>
+
+<p>A icterícia que acontece ainda nas primeiras 24 horas após o nascimento é patológica. Já a icterícia tardia, que acontece após 24 horas, é chamada de fisiológica.</p>
+
+<h1 id="fisiologia">Fisiologia</h1>
+
+<p>No <strong>período fetal</strong>, o feto produz bilirrubina indireta que por ser lipossolúvel é eliminada pela placenta. Já <strong>após o nascimento</strong>, a ausência da pacenta fazendo a depuração de BI obriga o RN a produzir a BD, ou seja, a conjugar a bilirrubina. A BD, conjugada e hidrossolúvel, pode então ser eliminada pelo sistema biliar e pelo trato gastrointestinal.</p>
+
+<p><span class="alert">
+Sempre lembrar que BI = lipossolúvel e BD = hidrossolúvel. E o feto só começa a conjugar bilirrubina (produzir BD) após o nascimento.
+</span></p>
+
+<p>Resumindo as etapas do metabolismo da bilirrubina que serão explicadas a seguir:</p>
+
+<ol>
+  <li>Captação pelos macrófagos;</li>
+  <li>Síntese da bilirrubina indireta;</li>
+  <li>Conjugação hepática em bilirrubina direta;</li>
+  <li>Excreção biliar;</li>
+  <li>Metabolismo intestinal;</li>
+  <li>Excreção pelas fezes, urina ou reabsorção pelo ciclo entero-hepático.</li>
+</ol>
+
+<p>A bilirrubina é um pigmento que deriva do heme originário da hemoglobina dos eritrócitos). Nos macrófagos, o <strong>heme</strong> é metabolizado pela <em>heme-oxigenase</em> para formar biliverdina e, em seguida, pela <em>biliverdina redutase</em>, para formar a bilirrubina indireta. Por ser lipossolúvel, normalmente a BI circula no sangue ligada a moléculas de albumina.</p>
+
+<p><span class="alert">
+Por ser lipossolúvel, a bilirrubina indireta pode atravessar a barreira hematoencefálica e chegar ao SNC.
+</span></p>
+
+<p><img src="/assets/neonatologia/ictericia/marks.jpeg" alt="Metabolismo heme" /></p>
+
+<p>Nos RN mais do que nos adultos, a bilirrubina provém também de outros heme que não tem origem na hemoglobina, como os que compõem a <strong>catalase, mioglobina e citocromos</strong>.</p>
+
+<p>Quando chega ao hepatócito, a BI é captada pelas proteínas ligandinas e a albumina retorna à circulação. Dentro dos hepatócitos, a BI é conjugada com o <strong>ácido glucorônico</strong> pela enzima <strong>UGT1A1</strong> (<em>UDP-glucoronil-transferase</em>). Dessa conjugação temos a <strong>bilirrubina direta ou conjugada</strong>. Em seguida, a BD é excretada pelas vias biliares em direção ao trato gastrointestinal.</p>
+
+<p><span class="alert">
+Bilirrubina indireta = não conjugada. Bilirrubina direta = conjugada.
+</span></p>
+
+<p>No intestino, a BD pode sofrer duas reações: 1) Pode ser desconjugada por glucoronidases, formando novamente a BI que é reabsorvida na circulação sanguínea voltando ao fígado para ser conjugada. 2) Pode ser metabolizada por bactérias da flora intestinal (glicuronidases bacterianas) em <strong>urobilinogênio</strong>. Este urobilinogênio pode ser convertido em urobilina e excretado pelos rins ou ser convertido em estercobilina, sendo excretado nas fezes.</p>
+
+<p>Resumo do metabolismo intestinal:</p>
+
+<ol>
+  <li>Desconjugação pela glucoronidase para formar BI que retorna pelo ciclo entero-hepático;</li>
+  <li>Reação com bactérias da flora e formação de:
+    <ul>
+      <li>Urobilinogênio para excreção renal;</li>
+      <li>Estercobilina para excreção nas fezes.</li>
+    </ul>
+  </li>
+</ol>
+
+<p><img src="/assets/neonatologia/ictericia/c19f001.jpg" alt="Icterícia" /></p>
+
+<h2 id="no-recém-nascido">No recém-nascido</h2>
+
+<p>O RN é mais suscetível à hiperbilirrubinemia por uma série de fatores. Em RNs tanto a captação quanto a conjugação mostram-se ineficientes devido à <strong>imaturidade da ação tanto das ligandinas como da UDP glicuroniltransferase</strong>, a qual só atinge níveis similares aos do adulto entre a 6ª e a 14ª semana de vida.</p>
+
+<p>Inclusive, a quantidade desta enzima aumenta quanto maor a maturidade fetal, o que faz com que após 40 semanas de idade gestacional seu valor seja 10 vezes maior do que em fetos com idades mais precoces. Logo, quanto mais prematuro, maior o risco de icterícia.</p>
+
+<p><span class="alert">
+Os RNs de 35, 36, 37 e 38 semanas têm, respectivamente, 10, 8, 6 e 4 vezes o risco de desenvolver BT superior a 25 mg/dL quando comparados ao risco dos RN de 40 semanas
+</span></p>
+
+<p>Além disso, a maior concentração de hemoglobina e menor meia vida dos eritrócitos leva o RN a ter uma quantidade de bilirrubina duas vezes maior que a do adulto.</p>
+
+<p>Outro fator que contribui para a maior quantidade de BI no neonato diz respeito ao <strong>aumento da circulação enterro-hepática</strong> decorrente de um <strong>trato gastrointestinal estéril</strong>, ou seja, com menor quantidade de glicuronidases bacterianas e também, devido a <strong>maior quantidade de beta-glicuronidase</strong> presente no leite materno.</p>
+
+<p>Resumindo, os RNs são mais suscetíveis à hiperbilirrubinemia por:</p>
+
+<ul>
+  <li>Maior carga de BI para o hepatócitos <em>por</em>,
+    <ul>
+      <li>maior volume eritrocitário <em>e</em>,</li>
+      <li>menor meia-vida das hemácias;</li>
+    </ul>
+  </li>
+  <li>Menor capacidade de captação e conjugação por imaturidade das enzimas hepáticas;</li>
+  <li>Aumento da circulação entero-hepática <em>por</em>,
+    <ul>
+      <li>esterilidade do TGI <em>e</em>,</li>
+      <li>aumento das beta-glicuronidases adquiridas no leite materno.</li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="etiologias">Etiologias</h1>
+
+<p>Uma vez detectada a icterícia, é necessário identificar a sua etiologia. Podem ser divididas em dois grupos:</p>
+
+<ol>
+  <li><strong>Sobrecarga de bilirrubina aos hepatócitos:</strong>
+    <ul>
+      <li>Hemólise;</li>
+      <li>Coleção sanguínea;</li>
+      <li>Policitemia:</li>
+    </ul>
+    <ul>
+      <li>RN PIG,</li>
+      <li>RN de mãe diabética,</li>
+      <li>Transfusão feto-fetal/materno-fetal,</li>
+      <li>Clampeamento tardio ou ordenha do cordão. 
+      * Maior circulação entero-hepática:</li>
+      <li>Pelo leite materno,</li>
+      <li>Anomalias gastro-intestinais,</li>
+      <li>Jejum oral ou baixa oferta enteral.</li>
+    </ul>
+  </li>
+  <li><strong>Deficiência ou inibição da conjugação:</strong>
+    <ul>
+      <li>Síndrome de Crigler-Najjar tipo 1 e 2;</li>
+      <li>Síndrome Gilbert;</li>
+      <li>Hipotireoidismo congênito;</li>
+      <li>Do leite materno.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Atenção, pois, normalmente, ictéricia após 24 horas (icterícia tardia) tem características fisiológicas enquanto que a icterícia antes das primeiras 24 horas de vida (icterícia precoce) sugere uma doença de base.</p>
+
+<p><span class="alert">
+A icterícia das etiologias fisiológicas, pelo leite materno e do leite materno se manifestam após 24 horas de vida.
+</span></p>
+
+<h2 id="icterícia-fisiológica">Icterícia fisiológica</h2>
+
+<p>Como dito, a icterícia que ocorre <strong>após as 24h de vida</strong> costuma estar mais relacionada aos mecanismos ligados à imaturidade dos hepatócitos e todos aqueles outros fatores que naturalmente contribuem para hiperbilirrubinemia e, consequentemente a icterícia no RN.</p>
+
+<p>Nos RN a termo a icterícia fisiológica tem seu pico entre 3º-5º dia e desaparece até o 7º dia de vida, enquanto que nos pré-termo o pico é entre 4º-7º dia, desaparecendo em geral no 10º-30º dia.</p>
+
+<p>Além disso, normalmente a BI não ultrapassa 12 mg/dL (zona 3) nos RN a termo e 15 mg/dL (zona 4) nos RN pré-termo.</p>
+
+<h2 id="pelo-leite-materno">Pelo leite materno</h2>
+
+<p>Costuma acontecer na <strong>1ª semana</strong> de vida associada a <strong>perda de peso</strong> no 3º dia de vida (5% maior do que dos outros neonatos em aleitamento materno), decorrente da <strong>ingestão inadequada do leite materno</strong>.</p>
+
+<p>O défict de ingestão pode ocorrer por dificuldade na sucção ou por pouca oferta do leite pela mãe. Vale ressaltar que, esse contexto leva tanto a <strong>perda de peso</strong> quanto <strong>desidratação</strong> do neonato.</p>
+
+<p>A deficiência do leite materno leva à diminuição do trânsito intestinal, menor eliminação de mecônio e, consequentemente, ao <strong>aumento da circulação enterro-hepática</strong> de bilirrubina com maior aporte de bilirrubina retornando à circulação para a circulação sanguínea.</p>
+
+<!-- Por que a falta de leite aumenta a circulação entero-hepática? -->
+
+<p><span class="alert">
+A icterícia pela “falta” do aleitamento materno tem sido associada nos últimos anos a alta hospitalar antes das de 48h de vida. 
+</span></p>
+
+<h2 id="do-leite-materno">Do leite materno</h2>
+
+<p>Afeta 2-4% dos RN a termo. Neste caso, diferente da etiologia explicada acima, o leite materno passa a agir como modificador ambiental para genótipos que atuam tanto na captação, quanto na conjugação da bilirrubina elevando o risco em até 22 vezes de chegar a valores de BT &gt; 20mg/dl.</p>
+
+<p>Ao redor do 4º dia, ao invés de haver a queda esperada nos níveis de bilirrubina como manda a história natural da icterícia fisiológica, sua concentração continua a subir até o 14º dia de vida, podendo alcançar cifras de 20-30 mg/dl! É uma icterícia importante.</p>
+
+<p>Ainda não se sabe o mecanismo exato, mas parece que substâncias do leite ativam um fenótico de <strong>menor atividade da UGT1A1</strong> (UDP-glcuronoil-transferase) em RNs que possuem a predisposição genética.</p>
+
+<p>O quadro clínico difere do anterior, pois neste caso há uma <strong>icterícia persistente</strong> desde a 1º semana de vida que se prolonga por 2-3 semanas, mas o <strong>RN não chega a perder peso</strong> ou desidratar, ao contrário, está em bom estado geral e com <strong>adequado ganho pondero-estrutural</strong>. Não apresentam qualquer alteração de função hepática ou de hemólise.</p>
+
+<p>O diagnóstico costuma ser feito por exclusão após afastar as causas patológicas de aumento de BI. Dicas para diferencias das outras icterícias não patológicas:</p>
+
+<ol type="a">
+  <li>Diferentemente da icterícia fisiológica, está é persistente.</li>
+  <li>Ao contrário da icterícia pelo leite, nesta o RN não perdeu peso e nem desidratou.</li>
+</ol>
+
+<p>Quando houver dúvida do diagnóstico ou o nível de bilirrubina for muito elevado, pode-se realizar uma prova terapêutica: suspende-se o aleitamento por 24 horas, deixando o RN com complemento. A bilirrubinemia cai rapidamente, podendo ocorrer discreto aumento à reintrodução do aleitamento, porém não atingindo os valores anteriormente encontrados.</p>
+
+<h2 id="coleções-sanguíneas">Coleções sanguíneas</h2>
+
+<p>Algumas coleções sanguíneas, benignas ou não, podem acometer o RN causando com isso um extravasamento do sangue das mesmas, o que sobrecarrega os hepatócitos de bilirrubina.</p>
+
+<p>Hemorragias intracraniana, pulmonar, gastrointestinal, cefalo-hematomas, hematomas, sangue deglutido ou equimoses causam icterícia prolongada que se manifesta 48-72h após o extravasamento.</p>
+
+<h1 id="quadro-clínico">Quadro clínico</h1>
+
+<ol type="i">
+  <li>Icterícia,</li>
+  <li>de progressão cefalocaudal,</li>
+  <li>avaliar as zonas de Kramer.</li>
+</ol>
+
+<p>Sempre observar a coloração da esclera e do frênulo lingual sob luz natural (nestes locais costuma ocorre mais deposição de bilirrubina). A intendisade da icterícia costuma ser estimada em cruzes de +/4 até ++++/4.</p>
+
+<h2 id="zonas-de-kramer">Zonas de Kramer</h2>
+
+<p>A icterícia neonatal apresenta progressão cefalocaudal sendo possível avalia-la por meio das zonas de Kramer em que áreas ictéricas do corpo do neonato, avaliadas sob luz natural, são correlacionadas com valores médios de bilirrubina total (BT):</p>
+
+<ul>
+  <li>Zona 1 (cabeça e pescoço): 6mg/dL;</li>
+  <li>Zona 2 (tronco até umbigo) 9mg/dL;</li>
+  <li>Zona 3 (hipogástrio até coxas) 12mg/dL;</li>
+  <li>Zona 4 (braços, antebraços e pernas) 15mg/dL;</li>
+  <li>Zona 5 (mãos e pés) &gt; 18mg/dL.</li>
+</ul>
+
+<p><img src="/assets/neonatologia/ictericia/ictericia.png" alt="Zonas de Kramer" /></p>
+
+<p>Entretanto, a medida das zonas não deve ser usada como medida de gravidade ou prognóstico.</p>
+
+<h2 id="encefalopatia-bilirrubínica">Encefalopatia bilirrubínica</h2>
+
+<p>O famoso <em>kernicterus</em>. A bilirrubina indireta é lipossolúvel e capaz de atravessar a barreira hematoencefálica, podendo depositar-se nos núcleos da base (globo pálido e subtalâmico principalmente) conferindo aos mesmos coloração amarelada e acarretando em sinais neurológicos.</p>
+
+<p><span class="alert">
+Ocorre lesão cerebral pela bilirrubina indireta.
+</span></p>
+
+<p>Alguns fatores de risco contribuem para a instalação do quadro clínico favorecendo esta lesão nos núcleos da base, são eles:</p>
+
+<ul>
+  <li>Doença hemolítica;</li>
+  <li>Hipóxia;</li>
+  <li>Hipoalbuminemia;</li>
+  <li>Sepse e acidose.</li>
+</ul>
+
+<p>O quadro clínico pode ser dividido em fase aguda e crônica. Na <strong>fase aguda</strong> o RN encontra-se com:</p>
+
+<ol>
+  <li>Começa com uma letargia, sucção débil e hipotonia,</li>
+  <li>evolui para um choro estridente <em>e</em>,</li>
+  <li>hipertonia (com retroarqueamentos do tronco e pescoço – opistótono) e hipertermia.</li>
+  <li>Ainda pode ocorrer coma, convulsões e morte.</li>
+</ol>
+
+<p><img src="/assets/neonatologia/ictericia/kernicterus.jpg" alt="Opistótono" /></p>
+
+<p>O RN que sobrevive à fase aguda vai evoluir para a <strong>fase crônica</strong>, também chamada de <em>kernicterus</em>. Se feita uma RNM será visto um hipersinal nos gânglios da base. A fase crônica é caracterizada pela tétrade:</p>
+
+<ol>
+  <li>Paralisia cerebral atetoide grave;</li>
+  <li>Neuropatia auditiva;</li>
+  <li>Paresia vertical do olhar;</li>
+  <li>Displasia dentária.</li>
+</ol>
+
+<h1 id="exames-complementares">Exames complementares</h1>
+
+<p>Etapas a considerar:</p>
+
+<ol>
+  <li>Dosagem de bilirrubina total e frações;</li>
+  <li>Hemoglobina e hematócrito;</li>
+  <li>Reticulócitos;</li>
+  <li>Tipagem sanguínea da mãe e do RN.</li>
+</ol>
+
+<p>A avaliação de <strong>Hb e Ht</strong> é importante para verificar se há uma anemia associada, como indicador de hemólise. A dosagem e <strong>reticulócitos</strong> sinaliza como a medula está respondendo à possível destruição de hemácias.</p>
+
+<p>A testategem da tipagem sanguíena é fundamental para detectar as principais causas de incompatibilidade sanguínea que levam a doenças hemolíticas.</p>
+
+<h1 id="fatores-de-risco">Fatores de risco</h1>
+
+<p>Alguns <strong>fatores de risco</strong> estão associados a maiores níveis de bilirrubina (inclusive risco de BI &gt; 17 mg/dL) e devem ser levados em consideração tais como:</p>
+
+<ul>
+  <li>Prematuridade;</li>
+  <li>Descendência asiática;</li>
+  <li>Irmão anterior com icterícia (predisposição genética UGT1A1);</li>
+  <li>Aleitamento materno exclusivo;</li>
+  <li>Diabetes materno;</li>
+  <li>Coleções sanguíneas;</li>
+  <li>Clampeamento tardio de cordão;</li>
+  <li>BI elevada antes da alta hospitalar.</li>
+</ul>
+
+<p><span class="alert">
+Sabe-se que bebês em aleitamento materno exclusivo têm mais risco de icterícia comparados aos bebês em uso de fórmulas lácteas.
+</span></p>
+
+<p>Além disso, também existem fatores de risco associaos à maior neurotoxicidade pela hiperbilirrubinemia, dentre eles:</p>
+
+<ul>
+  <li>Prematuridade;</li>
+  <li>Doença hemolítica;</li>
+  <li>Deficiência de G6PD;</li>
+  <li>Asfixia, sepse e acidose (comprometimento da barreira hematoencefálica);</li>
+  <li>Albumina &lt; 3 g/dL (mais BI livre).</li>
+</ul>
+
+<h2 id="nomograma-de-buthani">Nomograma de Buthani</h2>
+
+<p>É um diagrama usado para prever o risco de hiperbilirrubinemia na primeira semana de vida se baseando nos valores séricos de bilirrubina.</p>
+
+<p>Deve ser feito para todo RN ictérico com IG ≥ 35 semanas para determinar o risco (mínimo, intermediário ou maior) de desenvolver hiperbilirrubinemia significativa, ou seja, BT &gt; 25mg/dL. Esta avaliação deve ser feita antes da alta na maternidade, bem como no período máximo de 72h após a mesma.</p>
+
+<p><img src="/assets/neonatologia/ictericia/normograma.jpeg" alt="Normograma" /></p>
+
+<h1 id="tratamento">Tratamento</h1>
+
+<p>Antes de tudo, é importante saber evitar os fatores determinantes da lesão neuronal pela bilirrubina presentes, sobretudo, nos pacientes em cuidados intensivos que aumentam a concentração de BI no cérebro (hipercapnia, convulsão, hipoglicemia, sepse), alteram a membrana hematoencefálica (hipertensão arterial, pneumotórax, hiperosmoralidade, vasculite, acidose respiratória) ou que relacionam-se com a baixa concentração sérica de albumina.</p>
+
+<h2 id="manejo">Manejo</h2>
+
+<p>Resumindo o manejo:</p>
+
+<ol>
+  <li><em>Se</em> a icterícia for precoce,</li>
+  <li>devemos colher exames, investigar e já iniciar a fototerapia.</li>
+</ol>
+
+<p>Porém:</p>
+
+<ol>
+  <li><em>Se</em> a icterícia for tardia <em>e</em>:</li>
+  <li>até zona 2 (até umbigo), faremos apenas <strong>observação clínica</strong>;</li>
+  <li>zona 3 ou maior (passando do umbigo), <strong>colher exames</strong> <em>e</em>,
+    <ul>
+      <li>categorizar nível de BI no normograma,</li>
+      <li><em>se</em> &gt; P75 (alto risco), iniciar fototerapia,</li>
+      <li><em>se</em> &lt; P75, manter observação clínica.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>A alta hospitalar é recomendada nas seguintes situações:</p>
+
+<ol>
+  <li>Icterícia em zona de de risco baixo ou intermediário baixo;</li>
+  <li>após 48 horas sem icterícia ou apenas na zona 1.</li>
+</ol>
+
+<p>Mesmo após a alta, sempre agendar um retorno ambulatorial com 48-72 horas para avaliar a manifestação da icterícia tardia!</p>
+
+<h2 id="fototerapia">Fototerapia</h2>
+
+<p>O principal tratamento para o aumento de BI no RN ictérico é a <strong>fototerapia</strong>, a qual visa reduzir os níveis de BI, consequentemente evitando a realização da exsanguíneotransfusão (EST).</p>
+
+<p>As indicações exatas de fototerapia variam muito de serviço para serviço. Não há um fluxograma com medidas exatas. Um dos exemplos de indicações é o da tabela abaixo.</p>
+
+<p><img src="/assets/neonatologia/ictericia/valores.jpeg" alt="Valores" /></p>
+
+<p>Já nos prematuros &lt; 35 semanas, as recomendações levam em conta o peso ao nascimento e podem ser vistas na tabela abaixo.</p>
+
+<p><img src="/assets/neonatologia/ictericia/tab-pre.jpeg" alt="Fototerapia &lt; 35s" /></p>
+
+<p>O mecanismo de ação consiste na irradiação do RN com luz azul que vai para desencadear uma reação de fotoisomerização nas moléculas de bilirrubina indireta. Estas, serão convertidas em dois isômeros: a bilirrubina-4Z15E que é um pouco mais solúvel e pode ser excretada na bile e a lumirrubina que pode ser excretada na urina.</p>
+
+<p><img src="/assets/neonatologia/ictericia/isomerizacao.jpg" alt="Fotoisomerização" /></p>
+
+<p>A eficácia da técnica depende do: comprimento de onda da luz (faixa azul), irradiância espectral (ou seja, a intensidade da luz; quanto menor a distância entre a luz e o paciente, maior a irradiância e eficácia) e superfície corpórea exposta à luz (quanto maior a superfície corpórea exposta, maior a eficácia). Quando a bilirrubinemia é superior ao percentil 95 no Nomograma de Bhutani é preferível utilizar a fototerapia de alta intensidade.</p>
+
+<p>No entanto, é preciso tomar alguns cuidados durante o uso da fototerapia, são eles:</p>
+
+<ul>
+  <li>Verificar temperatura corporal a cada 3 horas (risco de hipertermia);</li>
+  <li>Aumentar a oferta hídrica através do aleitamento materno (evitar desidratação);</li>
+  <li>Proteger os olhos com cobertura radiopaca;</li>
+  <li>Não utilizar ou suspender a fototerapia se os níveis de BD estiverem elevados para evitar a <strong>síndrome do bebê bronzeado</strong>.</li>
+</ul>
+
+<p>Reavaliar os valores de bilirrubina totais e frações a cada 4-8 horas para verificar a diminuição. Gealmente a fototerapia é suspensa quando os valores ficam abaixo de 8-10 mg/dL (mas também levando em conta o normograma Bhutani).</p>
+
+<p>A síndrome do bebe bronzeado ocorre quando a coloração da pele fica castanho-acinzentado devido à impregnação da pele por bilirrubina direta. Por isso, devemos evitar a fototerapia nos casos de hiperbilirrubinemia direta.</p>
+
+<h1 id="referências">Referências</h1>
+
+<ol>
+  <li>SanarFlix. Icterícia neonatal. Super Material. 2020.</li>
+</ol>
+
+:ET

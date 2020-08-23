@@ -1,589 +1,258 @@
 @charset "UTF-8";
 /* Padding order: top right bottom left */
-.wrapper {
-  max-width: 700px;
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 20px;
-  padding-left: 20px; }
+.wrapper { max-width: 700px; margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
 
-.wrapper-footer {
-  max-width: 700px;
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: 20px;
-  padding-left: 20px; }
+.wrapper-footer { max-width: 700px; margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
 
-body {
-  margin: 0 0 0 0;
-  font-family: Georgia, Cambria, "Times New Roman", Times, serif;
-  font-size: 1.3rem;
-  text-align: left;
-  text-rendering: optimizeLegibility;
-  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
-  text-rendering: optimizeLegibility !important;
-  -webkit-font-smoothing: antialiased !important; }
+body { margin: 0 0 0 0; font-family: Georgia, Cambria, "Times New Roman", Times, serif; font-size: 1.3rem; text-align: left; text-rendering: optimizeLegibility; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004); text-rendering: optimizeLegibility !important; -webkit-font-smoothing: antialiased !important; }
 
-@font-face {
-  font-family: "LS";
-  src: url("/assets/fonts/liberation_serif/lsregular.ttf"); }
-.alert {
-  padding: 16px;
-  border: 1px #6f42c1 solid !important;
-  background-color: #f5f0ff !important;
-  border-radius: 3px;
-  display: block; }
+@font-face { font-family: "LS"; src: url("/assets/fonts/liberation_serif/lsregular.ttf"); }
 
-.alert-purple {
-  padding: 16px;
-  border: 1px #6f42c1 solid !important;
-  background-color: #f5f0ff !important;
-  border-radius: 3px;
-  display: block; }
+.alert { padding: 16px; border: 1px #6f42c1 solid !important; background-color: #f5f0ff !important; border-radius: 3px; display: block; }
 
-.aviso-red {
-  border-color: red; }
+.alert-purple { padding: 16px; border: 1px #6f42c1 solid !important; background-color: #f5f0ff !important; border-radius: 3px; display: block; }
 
-.aviso-yellow {
-  border-color: yellow; }
+.aviso-red { border-color: red; }
 
-.aviso-green {
-  border-color: green; }
+.aviso-yellow { border-color: yellow; }
 
-.red {
-  color: red; }
+.aviso-green { border-color: green; }
 
-.orange {
-  color: orange; }
+.red { color: red; }
 
-.green {
-  color: green; }
+.orange { color: orange; }
 
-.blue {
-  color: blue; }
+.green { color: green; }
 
-.red, .orange, .green, .blue {
-  font-weight: bold; }
+.blue { color: blue; }
+
+.red, .orange, .green, .blue { font-weight: bold; }
 
 /* Header */
-#logo {
-  width: 100%;
-  max-width: 400px;
-  margin: 0 auto;
-  padding-top: 20px;
-  display: block; }
+#logo { width: 100%; max-width: 400px; margin: 0 auto; padding-top: 20px; display: block; }
 
-.abertura {
-  display: block; }
+.abertura { display: block; }
 
-.intro, .logo {
-  flex: 1; }
+.intro, .logo { flex: 1; }
 
-.intro {
-  text-align: right; }
+.intro { text-align: right; }
 
 /* Barra de navegaçao */
-.nav-site {
-  line-height: 1em;
-  font-size: 0.9em;
-  padding-top: 20px;
-  margin: 0 auto;
-  text-align: center;
-  width: 100%; }
-  .nav-site a {
-    text-decoration: none;
-    background-color: #f3f3f3 !important;
-    border: 1px solid #dadada !important;
-    padding: 4px 6px 4px 6px;
-    border-radius: 0.5rem;
-    color: white;
-    display: inline-block;
-    margin-bottom: 0; }
-  .nav-site a:hover {
-    background-color: #008000; }
+.nav-site { line-height: 1em; font-size: 0.9em; padding-top: 20px; margin: 0 auto; text-align: center; width: 100%; }
 
-.nav-posts {
-  padding-top: 0px;
-  margin: 0 auto;
-  text-align: left;
-  width: 100%;
-  display: inline-block; }
-  .nav-posts a {
-    text-decoration: none;
-    font-size: 16px;
-    background-color: #f3f3f3 !important;
-    border: 1px solid #dadada !important;
-    border-top: none;
-    padding: 4px 6px 4px 6px;
-    border-radius: 0 0 0.5rem 0.5rem;
-    color: blue;
-    display: inline-block;
-    margin-bottom: 10px; }
-  .nav-posts a:hover {
-    padding-bottom: 10px;
-    margin-bottom: 0px; }
+.nav-site a { text-decoration: none; background-color: #f3f3f3 !important; border: 1px solid #dadada !important; padding: 4px 6px 4px 6px; border-radius: 0.5rem; color: white; display: inline-block; margin-bottom: 0; }
 
-.current {
-  padding-bottom: 10px;
-  margin-bottom: 0px; }
+.nav-site a:hover { background-color: #008000; }
 
-.meu-svg {
-  padding-right: 5px; }
+.nav-posts { padding-top: 0px; margin: 0 auto; text-align: left; width: 100%; display: inline-block; }
+
+.nav-posts a { text-decoration: none; font-size: 16px; background-color: #f3f3f3 !important; border: 1px solid #dadada !important; border-top: none; padding: 4px 6px 4px 6px; border-radius: 0 0 0.5rem 0.5rem; color: blue; display: inline-block; margin-bottom: 10px; }
+
+.nav-posts a:hover { padding-bottom: 10px; margin-bottom: 0px; }
+
+.current { padding-bottom: 10px; margin-bottom: 0px; }
+
+.meu-svg { padding-right: 5px; }
 
 /* conteúdo principal */
-.botao {
-  text-decoration: none;
-  font-size: 14px;
-  background-color: #727272;
-  padding: 4px 6px 4px 6px;
-  border-radius: 0.5rem;
-  color: white;
-  display: inline-block; }
+.botao { text-decoration: none; font-size: 14px; background-color: #727272; padding: 4px 6px 4px 6px; border-radius: 0.5rem; color: white; display: inline-block; }
 
-.botao:hover {
-  background-color: #008000; }
+.botao:hover { background-color: #008000; }
 
-.botao:active {
-  position: relative;
-  top: 1px; }
+.botao:active { position: relative; top: 1px; }
 
-.sumario a {
-  background-color: #777;
-  display: inline-block;
-  color: white;
-  padding: 4px;
-  width: 100%;
-  border-radius: 0.5rem;
-  text-align: left;
-  outline: none;
-  font-size: 26px;
-  padding: 2px;
-  padding-left: 5px;
-  margin-top: 5px;
-  box-shadow: 1px 2px #888888; }
+.sumario a { background-color: #777; display: inline-block; color: white; padding: 4px; width: 100%; border-radius: 0.5rem; text-align: left; outline: none; font-size: 26px; padding: 2px; padding-left: 5px; margin-top: 5px; box-shadow: 1px 2px #888888; }
 
-.sumario a:hover {
-  box-shadow: 1px 2px black; }
+.sumario a:hover { box-shadow: 1px 2px black; }
 
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 4px;
-  width: 100%;
-  border-radius: 0.5rem;
-  text-align: left;
-  outline: none;
-  font-size: 22px; }
+.collapsible { background-color: #777; color: white; cursor: pointer; padding: 4px; width: 100%; border-radius: 0.5rem; text-align: left; outline: none; font-size: 22px; }
 
-.active, .collapsible:hover {
-  background-color: #555; }
+.active, .collapsible:hover { background-color: #555; }
 
-.content {
-  padding: 5px 6px 5px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1; }
+.content { padding: 5px 6px 5px; display: none; overflow: hidden; background-color: #f1f1f1; }
 
-.pag-seguro {
-  margin: 0 auto;
-  max-width: 209px; }
+.pag-seguro { margin: 0 auto; max-width: 209px; }
 
-#myBtn {
-  position: fixed;
-  /* Fixed/sticky position */
-  bottom: 20px;
-  /* Place the button at the bottom of the page */
-  right: 30px;
-  /* Place the button 30px from the right */
-  z-index: 99;
-  /* Make sure it does not overlap */
-  cursor: pointer;
-  /* Add a mouse pointer on hover */
-  text-decoration: none;
-  font-size: 16px;
-  background-color: #008000;
-  padding: 4px 6px 4px 6px;
-  border-radius: 0.5rem;
-  color: white; }
+#myBtn { position: fixed; /* Fixed/sticky position */ bottom: 20px; /* Place the button at the bottom of the page */ right: 30px; /* Place the button 30px from the right */ z-index: 99; /* Make sure it does not overlap */ cursor: pointer; /* Add a mouse pointer on hover */ text-decoration: none; font-size: 16px; background-color: #008000; padding: 4px 6px 4px 6px; border-radius: 0.5rem; color: white; }
 
-#markdown-toc::before {
-  content: "Sumário 📑";
-  font-weight: bold;
-  font-size: 1.2rem; }
+#markdown-toc::before { content: "Sumário 📑"; font-weight: bold; font-size: 1.2rem; }
 
-#markdown-toc {
-  max-width: 300px;
-  padding: 1.5em;
-  padding-left: 2rem;
-  margin-left: 1.5rem;
-  display: inline-block;
-  border-radius: 10px; }
-  #markdown-toc li {
-    margin-block-start: 0;
-    font-size: 1rem; }
-  #markdown-toc a:hover {
-    text-decoration: underline; }
+#markdown-toc { max-width: 300px; padding: 1.5em; padding-left: 2rem; margin-left: 1.5rem; display: inline-block; border-radius: 10px; }
 
-.main {
-  display: block;
-  width: 100%;
-  margin-bottom: 30px; }
+#markdown-toc li { margin-block-start: 0; font-size: 1rem; }
 
-.featured-image {
-  object-fit: cover;
-  max-width: 320px;
-  height: 210px;
-  width: 100%;
-  margin: 5px auto 5px;
-  border-radius: 1rem; }
+#markdown-toc a:hover { text-decoration: underline; }
 
-.post-info, .post-page-info {
-  font-size: 16px;
-  color: gray;
-  margin: 5px auto;
-  width: 100%;
-  max-width: 320px; }
-  .post-info a, .post-page-info a {
-    font-size: 16px; }
+.main { display: block; width: 100%; margin-bottom: 30px; }
 
-.post-title {
-  margin-bottom: 0; }
+.featured-image { object-fit: cover; max-width: 320px; height: 210px; width: 100%; margin: 5px auto 5px; border-radius: 1rem; }
 
-p, li {
-  line-height: 1.5em; }
+.post-info, .post-page-info { font-size: 16px; color: gray; margin: 5px auto; width: 100%; max-width: 320px; }
 
-a {
-  word-break: break-word;
-  text-decoration: none;
-  color: blue; }
-  a :visited {
-    color: purple; }
+.post-info a, .post-page-info a { font-size: 16px; }
 
-ol li {
-  margin-block-start: 0.2em; }
+.post-title { margin-bottom: 0; }
 
-ul li {
-  margin-block-start: 0.2em; }
+p, li { line-height: 1.5em; }
 
-::selection {
-  background: yellow;
-  /* WebKit/Blink Browsers */
-  color: black; }
+a { word-break: break-word; text-decoration: none; color: blue; }
 
-::-moz-selection {
-  background: yellow;
-  /* Gecko Browsers */
-  color: black; }
+a :visited { color: purple; }
 
-.footnotes p {
-  text-align: left; }
+ol li { margin-block-start: 0.2em; list-style-type: lower-roman; }
 
-table {
-  border-collapse: collapse;
-  width: 100%; }
+ul li { margin-block-start: 0.2em; }
 
-th, td {
-  padding: 8px;
-  text-align: left;
-  border-bottom: 1px solid #ddd; }
+::selection { background: yellow; /* WebKit/Blink Browsers */ color: black; }
 
-tr:hover {
-  background-color: #f5f5f5; }
+::-moz-selection { background: yellow; /* Gecko Browsers */ color: black; }
 
-.box {
-  background-color: #ebebeb;
-  padding: 1px 10px 1px 10px;
-  border-radius: 1rem; }
+.footnotes p { text-align: left; }
 
-.abertura {
-  color: gray; }
-  .abertura a {
-    text-decoration: none;
-    color: blue; }
-  .abertura a:hover {
-    color: black; }
+table { border-collapse: collapse; width: 100%; }
 
-.post-list ul {
-  list-style-type: none;
-  padding-left: 0;
-  margin: 0 0 0 0; }
-.post-list li h2 {
-  font-size: 120%;
-  margin: 5px 0 0 0;
-  margin-bottom: 15px;
-  line-height: 1.6rem; }
-.post-list li h2 a {
-  text-decoration: none;
-  color: black; }
-.post-list li h2 a:hover {
-  color: blue; }
-.post-list li h2 a:hover:visited {
-  color: purple; }
+th, td { padding: 8px; text-align: left; border-bottom: 1px solid #ddd; }
 
-.post-list-li {
-  margin: 0 0 0 0;
-  padding: 0 0 0 0;
-  line-height: 1em; }
-  .post-list-li h2 {
-    border-bottom: none; }
+tr:hover { background-color: #f5f5f5; }
 
-.disciplinas-list {
-  margin: 0 auto;
-  text-align: center;
-  width: 100%; }
+.box { background-color: #ebebeb; padding: 1px 10px 1px 10px; border-radius: 1rem; }
 
-.disciplinas {
-  list-style: none;
-  margin: 0 auto;
-  padding-left: 0;
-  display: inline-block; }
-  .disciplinas li {
-    display: inline-block;
-    margin: 5px 2px 0 0; }
-  .disciplinas li a {
-    text-decoration: none;
-    background-color: #727272;
-    border-radius: 0.5rem;
-    padding: 4px 6px 4px 6px;
-    color: white; }
-  .disciplinas li a:hover {
-    background-color: #727272 !important; }
+.abertura { color: gray; }
 
-#obstetricia {
-  background-color: #8d008d; }
+.abertura a { text-decoration: none; color: blue; }
 
-#ginecologia {
-  background-color: #e000e0; }
+.abertura a:hover { color: black; }
 
-#mastologia {
-  background-color: Darkorchid; }
+.post-list ul { list-style-type: none; padding-left: 0; margin: 0 0 0 0; }
 
-#neonatologia {
-  background-color: green; }
+.post-list li h2 { font-size: 120%; margin: 5px 0 0 0; margin-bottom: 15px; line-height: 1.6rem; }
 
-#cirurgia {
-  background-color: darkgreen; }
+.post-list li h2 a { text-decoration: none; color: black; }
 
-#urologia {
-  background-color: #eb7100; }
+.post-list li h2 a:hover { color: blue; }
 
-#traumatologia {
-  background-color: #d37f00; }
+.post-list li h2 a:hover:visited { color: purple; }
 
-#nefrologia {
-  background-color: goldenrod; }
+.post-list-li { margin: 0 0 0 0; padding: 0 0 0 0; line-height: 1em; }
 
-#gastroenterologia {
-  background-color: brown; }
+.post-list-li h2 { border-bottom: none; }
 
-#infectologia {
-  background-color: #3030a5; }
+.disciplinas-list { margin: 0 auto; text-align: center; width: 100%; }
 
-#pediatria {
-  background-color: blue; }
+.disciplinas { list-style: none; margin: 0 auto; padding-left: 0; display: inline-block; }
 
-#pneumologia {
-  background-color: #0084ff; }
+.disciplinas li { display: inline-block; margin: 5px 2px 0 0; }
 
-#cardiologia {
-  background-color: #5c0101; }
+.disciplinas li a { text-decoration: none; background-color: #727272; border-radius: 0.5rem; padding: 4px 6px 4px 6px; color: white; }
 
-#hematologia {
-  background-color: #af0000; }
+.disciplinas li a:hover { background-color: #727272 !important; }
 
-article {
-  color: #3d3d3d; }
-  article h1 {
-    font-size: 2em;
-    text-align: center; }
-  article h2 {
-    font-size: 1.6em; }
-  article h3 {
-    font-size: 1.4em; }
-  article h4 {
-    font-size: 1.2em; }
+#obstetricia { background-color: #8d008d; }
 
-pre {
-  padding: 8px 12px;
-  overflow-x: auto; }
+#ginecologia { background-color: #e000e0; }
 
-pre > code {
-  border: 0;
-  padding-right: 0;
-  padding-left: 0; }
+#mastologia { background-color: Darkorchid; }
 
-pre, code {
-  font-size: 15px;
-  border: 1px solid #e8e8e8;
-  border-radius: 3px;
-  background-color: #eef; }
+#neonatologia { background-color: green; }
 
-code {
-  padding: 1px 5px;
-  padding-right: 5px;
-  padding-left: 5px; }
+#cirurgia { background-color: darkgreen; }
 
-kbd {
-  background-color: #eee;
-  border-radius: 3px;
-  border: 1px solid #b4b4b4;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 2px 0 0 rgba(255, 255, 255, 0.7) inset;
-  color: #333;
-  display: inline-block;
-  font-size: .85em;
-  font-weight: 700;
-  line-height: 1;
-  padding: 2px 4px;
-  white-space: nowrap; }
+#urologia { background-color: #eb7100; }
 
-blockquote {
-  border-style: solid;
-  border-width: 0 0 0 .2rem;
-  border-color: #6f42c1;
-  padding: .5rem 0 .5rem 2rem;
-  color: gray; }
+#traumatologia { background-color: #d37f00; }
 
-img {
-  max-width: 90%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
-  margin-bottom: 30px; }
+#nefrologia { background-color: goldenrod; }
 
-.mapa {
-  max-width: 100%;
-  box-shadow: none; }
+#gastroenterologia { background-color: brown; }
 
-.no-radius {
-  border-radius: 0;
-  box-shadow: none; }
+#infectologia { background-color: #3030a5; }
 
-#cc {
-  margin-top: 0;
-  margin-bottom: 0; }
+#pediatria { background-color: blue; }
 
-figcaption {
-  font-size: 15px;
-  padding: 5px 5px 1px 5px;
-  text-align: center; }
+#pneumologia { background-color: #0084ff; }
 
-figure {
-  padding-top: 15px;
-  padding-bottom: 30px; }
+#cardiologia { background-color: #5c0101; }
 
-.caixa {
-  background-color: #e2e1e8;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  border-bottom-left-radius: 1rem;
-  border-bottom-right-radius: 1rem;
-  padding: 10px; }
+#hematologia { background-color: #af0000; }
 
-.caixa-title {
-  background-color: #241c69;
-  color: white;
-  padding: 5px 5px 5px 10px;
-  border-top-right-radius: 1rem;
-  border-top-left-radius: 1rem;
-  margin-bottom: 0;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+article { color: black; }
 
-.footnote {
-  color: #0000EE; }
-  .footnote :visited {
-    color: #551A8B; }
+article h1 { font-size: 2em; text-align: left; }
 
-a.footnote:before {
-  content: "["; }
+article h2 { font-size: 1.6em; }
 
-a.footnote:after {
-  content: "]"; }
+article h3 { font-size: 1.4em; }
+
+article h4 { font-size: 1.2em; }
+
+pre { padding: 8px 12px; overflow-x: auto; }
+
+pre > code { border: 0; padding-right: 0; padding-left: 0; }
+
+pre, code { font-size: 15px; border: 1px solid #e8e8e8; border-radius: 3px; background-color: #eef; }
+
+code { padding: 1px 5px; padding-right: 5px; padding-left: 5px; }
+
+kbd { background-color: #eee; border-radius: 3px; border: 1px solid #b4b4b4; box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), 0 2px 0 0 rgba(255, 255, 255, 0.7) inset; color: #333; display: inline-block; font-size: .85em; font-weight: 700; line-height: 1; padding: 2px 4px; white-space: nowrap; }
+
+blockquote { border-style: solid; border-width: 0 0 0 .2rem; border-color: #6f42c1; padding: .5rem 0 .5rem 2rem; color: gray; }
+
+img { max-width: 90%; display: block; margin-left: auto; margin-right: auto; margin-top: 30px; margin-bottom: 30px; }
+
+.mapa { max-width: 100%; box-shadow: none; }
+
+.no-radius { border-radius: 0; box-shadow: none; }
+
+#cc { margin-top: 0; margin-bottom: 0; }
+
+figcaption { font-size: 15px; padding: 5px 5px 1px 5px; text-align: center; }
+
+figure { padding-top: 15px; padding-bottom: 30px; }
+
+.caixa { background-color: #e2e1e8; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); border-bottom-left-radius: 1rem; border-bottom-right-radius: 1rem; padding: 10px; }
+
+.caixa-title { background-color: #241c69; color: white; padding: 5px 5px 5px 10px; border-top-right-radius: 1rem; border-top-left-radius: 1rem; margin-bottom: 0; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); }
+
+.footnote { color: #0000EE; }
+
+.footnote :visited { color: #551A8B; }
+
+a.footnote:before { content: "["; }
+
+a.footnote:after { content: "]"; }
 
 /* footer */
-.coisas {
-  margin: 0 auto;
-  font-size: 16px;
-  color: gray;
-  display: inline;
-  text-align: center;
-  margin-bottom: 0; }
-  .coisas p {
-    margin-bottom: 0; }
+.coisas { margin: 0 auto; font-size: 16px; color: gray; display: inline; text-align: center; margin-bottom: 0; }
 
-.license {
-  margin-bottom: 1px; }
-  .license p {
-    text-align: center;
-    font-size: 14px;
-    margin-bottom: 5px;
-    margin-top: 5px;
-    color: gray; }
-    .license p a {
-      font-size: 14px; }
+.coisas p { margin-bottom: 0; }
 
-#licenca {
-  margin-top: 0;
-  margin-bottom: 0; }
+.license { margin-bottom: 1px; }
 
-.menu li {
-  margin-bottom: 5px;
-  line-height: 1em; }
-.menu a {
-  text-decoration: none;
-  color: #2a7ae2;
-  font-size: 16px; }
-.menu a:hover {
-  color: black; }
+.license p { text-align: center; font-size: 14px; margin-bottom: 5px; margin-top: 5px; color: gray; }
 
-#creditos {
-  color: gray;
-  font-size: 16px; }
+.license p a { font-size: 14px; }
 
-.svg-icon {
-  height: 16px;
-  padding-right: 5px;
-  fill: #828282; }
+#licenca { margin-top: 0; margin-bottom: 0; }
 
-.svg-nav {
-  fill: blue;
-  padding-right: 5px;
-  height: 12px; }
+.menu li { margin-bottom: 5px; line-height: 1em; }
+
+.menu a { text-decoration: none; color: #2a7ae2; font-size: 16px; }
+
+.menu a:hover { color: black; }
+
+#creditos { color: gray; font-size: 16px; }
+
+.svg-icon { height: 16px; padding-right: 5px; fill: #828282; }
+
+.svg-nav { fill: blue; padding-right: 5px; height: 12px; }
 
 /* Para tablet */
-@media screen and (min-width: 600px) {
-  .post-info, .post-page-info {
-    font-size: 16px;
-    color: gray;
-    margin: 1px auto;
-    width: 100%;
-    max-width: 800px; } }
+@media screen and (min-width: 600px) { .post-info, .post-page-info { font-size: 16px; color: gray; margin: 1px auto; width: 100%; max-width: 800px; } }
+
 /* Aqui é pra computador */
-@media only screen and (min-width: 700px) {
-  #markdown-toc {
-    float: right; }
+@media only screen and (min-width: 700px) { #markdown-toc { float: right; } .abertura { display: flex; } }
 
-  .abertura {
-    display: flex; } }
 /* Aqui é pra grande computador */
-@media only screen and (min-width: 900px) {
-  #markdown-toc {
-    position: fixed;
-    top: 0;
-    right: 100px;
-    margin-top: 0;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    height: 80%;
-    max-width: 240px;
-    font-size: 80%; }
-    #markdown-toc li {
-      margin-left: 0; }
-    #markdown-toc ul {
-      padding-left: 15px; }
+@media only screen and (min-width: 900px) { #markdown-toc { position: fixed; top: 0; right: 100px; margin-top: 0; overflow-y: scroll; overflow-x: hidden; height: 80%; max-width: 240px; font-size: 80%; } #markdown-toc li { margin-left: 0; } #markdown-toc ul { padding-left: 15px; } .wrapper { margin-right: 400px; } .abertura { display: flex; } }
 
-  .wrapper {
-    margin-right: 400px; }
-
-  .abertura {
-    display: flex; } }
+/*# sourceMappingURL=styles.css.map */

@@ -1,0 +1,253 @@
+I"�S<ul id="markdown-toc">
+  <li><a href="#mecanismo-de-ação" id="markdown-toc-mecanismo-de-ação">Mecanismo de ação</a></li>
+  <li><a href="#resistência-bacteriana" id="markdown-toc-resistência-bacteriana">Resistência bacteriana</a></li>
+  <li><a href="#classificação" id="markdown-toc-classificação">Classificação</a>    <ul>
+      <li><a href="#penicilinas-naturais" id="markdown-toc-penicilinas-naturais">Penicilinas naturais</a></li>
+      <li><a href="#penicilinas-semissintéticas" id="markdown-toc-penicilinas-semissintéticas">Penicilinas semissintéticas</a></li>
+      <li><a href="#aminopenicilinas" id="markdown-toc-aminopenicilinas">Aminopenicilinas</a></li>
+      <li><a href="#anti-pseudomonas" id="markdown-toc-anti-pseudomonas">Anti-pseudomonas</a></li>
+    </ul>
+  </li>
+  <li><a href="#farmacocinética" id="markdown-toc-farmacocinética">Farmacocinética</a>    <ul>
+      <li><a href="#absorção" id="markdown-toc-absorção">Absorção</a></li>
+      <li><a href="#distribuição" id="markdown-toc-distribuição">Distribuição</a></li>
+      <li><a href="#metabolismo" id="markdown-toc-metabolismo">Metabolismo</a></li>
+      <li><a href="#excreção" id="markdown-toc-excreção">Excreção</a></li>
+    </ul>
+  </li>
+  <li><a href="#farmacodinâmica" id="markdown-toc-farmacodinâmica">Farmacodinâmica</a></li>
+  <li><a href="#efeitos-adversos" id="markdown-toc-efeitos-adversos">Efeitos adversos</a></li>
+  <li><a href="#uso-clínico" id="markdown-toc-uso-clínico">Uso clínico</a></li>
+  <li><a href="#uso-profilático" id="markdown-toc-uso-profilático">Uso profilático</a></li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+  <li><a href="#citações" id="markdown-toc-citações">Citações</a></li>
+</ul>
+
+<p>As penicilinas foram descobertas por Alexander Fleming a partir do fungo <em>Penicillium notatum</em> em 1928. Em 1940, época da segunda guerra mundial, a penicilina começou a ser distribuida em escala comercial e deu início à era da antibioticoterapia.</p>
+
+<p>Essas drogas fazem parte dos antibióticos betalactâmicos por possuírem um anel betalactâmico em sua composição, essencial para a sua atividade. Contudo, ao longo dos anos mais microorganismos foram adquirindo a capacidade de produzir betalactamases. Enzimas capases de quebrar o anel betalactâmico e inativas as penicilinas.</p>
+
+<p>Com o tempo, os laboratórios conseguiram criar peniclinas semissinteticas, como a <strong>meticilina</strong> (mais resistente <em>S. aureus</em> produtor de betalactamase), <strong>ampicilina</strong> (ativa contra bacilos gram-negativos) e <strong>carbenicilina</strong> (ativa contra <em>Pseudomonas aeruginosa</em>).</p>
+
+<p><img src="/assets/infectologia/atb/grams-principais.png" alt="Gram" /></p>
+
+<p>Revisão rápida:  gram-positivas possuem uma camada de peptideoglicano, enquanto que as gram-negativas têm dupla camada: uma de peptideoglicano (mais interna e mais fina que as gram-positivas) e outra de lipopolissacarídeo (mais externa).</p>
+
+<p><img src="/assets/infectologia/atb/parede.png" alt="Parece celular" /></p>
+
+<h2 id="mecanismo-de-ação">Mecanismo de ação</h2>
+
+<p>Assim como todos os demais antibióticos betalactâmicos, sua ação principal é bactericida e se deve à <strong>inibição da síntese da parede bacteriana</strong>.</p>
+
+<p>A penicilina inibe a enzima que catalisa a etapa final de formação da parede celular, a formação das pontes de peptidoglicano. A reação de transpeptidação é inibida pela penicilina que se liga nas PBPs (<em>penicilin-binding proteins</em>). Sem a renovação da parede celular, as autolisinas continuam destruindo pedações da parede até que a célula sofre lise.</p>
+
+<p><img src="/assets/infectologia/atb/pbp.jpeg" alt="PBP" /></p>
+
+<p>Como são mais de um tipos de PBPs (como PBPP1 e PBP2), os antibióticos betalactâmicos variam em seu espectro de ação.</p>
+
+<p>A ação é mais fácil nas gram-posivitas pois a camada de peptidoglicano está mais externalizada. Já nas gram-negativas, existem uma membrana externa servindo de obstáculo. As penicilinas precisam atravessar essa membrana por meio e canais de porina e assim chegar ao espaço periplasmático onde estão as PBPs. Também é nesse espaço periplasmático que se localiza a betalactamase em gram-negativas.</p>
+
+<h2 id="resistência-bacteriana">Resistência bacteriana</h2>
+
+<p>A resistência bactériana ocorre por vários mecanismos evolutivos de recombinação genética. As bactérias podem adquirir novos genes mutação
+espontânea de DNA ou por transformação e transferência de plasmídeos.</p>
+
+<p>São quatro os mecanismos conhecidos para as bactérias se tornarem resistentes:</p>
+
+<ul>
+  <li>Destruição dos beta-lactâmicos pelas <strong>betalactamases</strong> (o mecanismo mais comum);</li>
+  <li>Falha para o antibiótico entrar nas célula gram-negativas e alcançar as PBPs;</li>
+  <li>Efluxo da droga que entra em gram-negativas;</li>
+  <li>Baixa afinidade da droga pelas PBPs.</li>
+</ul>
+
+<p>Nas gram-positivas, a destruição do antibiótico pela betalactamase é o mecanismos mais comum de resistência. Já nas gram-negativas e no <em>Pseudomonas aeruginosa</em>, também se soma um mecanismo efluxo da droga.</p>
+
+<p><img src="/assets/infectologia/atb/penicilinase.jpeg" alt="Penicilinase" /></p>
+
+<p>Existem várias classes de betalacmasases que vão de A a D. Cada uma com uma ação maior ou menor sobre um tipo de antibiótico betalactâmico. Algumas são inibidas pelo ácido clavulônico e outras não.</p>
+
+<h2 id="classificação">Classificação</h2>
+
+<p>As penicilinas podem ser dividias em 5 classes (aqui eu estou me baseando na classificação do Mandell<sup id="fnref:Mandell" role="doc-noteref"><a href="#fn:Mandell" class="footnote">1</a></sup>):</p>
+
+<ul>
+  <li><strong>Penicilinas naturais</strong>: G (cristalina, procaina, benzatina) e V;</li>
+  <li><strong>Penicilinas resistentes à penicilinase</strong>: nafcilina, oxacilina, cloxacilina, dicloxacilina;</li>
+  <li><strong>Aminopenicilinas</strong>: ampicilina e amoxicilina;</li>
+  <li><strong>Penicilinas anti-pseudomonas</strong>
+    <ul>
+      <li><strong>Carboxipenicilinas</strong>: carbenicilina e ticarcilina;</li>
+      <li><strong>Ureidopenicilinas</strong>: piperacilina;</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="penicilinas-naturais">Penicilinas naturais</h3>
+
+<p>As penicilinas naturais são mais ativas contra gram-positivos não produtores de betalactamase, anaeróbios e algums gram-negativos como <em>Neisseria spp</em>. Entretanto, a penicilina V (oral) é menos ativa que a G contra <em>Neisseria</em> e <em>Haemophilus spp</em>.</p>
+
+<blockquote>
+  <p>Grampositive bacteria inhibited by natural penicillins tend to be more susceptible to these penicillins than to semisynthetic penicillins.<sup id="fnref:Mandell:1" role="doc-noteref"><a href="#fn:Mandell" class="footnote">1</a></sup></p>
+</blockquote>
+
+<p><span class="alert-purple">
+Cobertura: gram-positivos, cocos gram-negativos e
+anaeróbios da boca e orofaringe. 
+</span></p>
+
+<p>A penicilina G procaína e penicilina G benzatina devem ser administradas exclusivamente por via intramuscular.</p>
+
+<h3 id="penicilinas-semissintéticas">Penicilinas semissintéticas</h3>
+
+<p>As penicilinas semissintéticas são as drogas de escolha apenas contra <em>S. aureus</em> penicilina-resistente e <em>S. epidermidis</em>. Também são ativas contra estreptococos mas não contra enterococos.</p>
+
+<h3 id="aminopenicilinas">Aminopenicilinas</h3>
+
+<p>As aminopenicilinas possuem o mesmo espectro que a penicilina G além de serem ativas contra cocos gram-negativos (pois são efetivas em atravessar as porinas dessas bactérias) e <em>Enterobacteriaceae</em> que não produzem betalactamase.</p>
+
+<p><span class="alert-purple">
+Cobertura: espectro da penicilina G mais gram-negativos (<em>H. influenzae, Moraxella catarrhalis, Proteus mirabilis, Salmonella sp. e Shigella sp.</em>) 
+</span></p>
+
+<h3 id="anti-pseudomonas">Anti-pseudomonas</h3>
+
+<p>As penicilinas anti-pseudomonas (<strong>carboxipenicilinas</strong> e <strong>ureidopenicilinas</strong>) são ativas contra alguns gram-negativos aeróbicos resistentes à ampicilina como o <em>P. aeruginosa</em>. Carboxipenicilinas são menos ativas que as ureidopenicilinas contra estreptococos e <em>Haemophilus spp</em>.</p>
+
+<p>Anaeróbicos gram-positivos são sucetíveis às penicilinas. Gram-negativos anaeróbios são suscetiveis à maoria destas (exceção ao <em>Bacteroides spp.</em> e algumas <em>Prevotella spp.</em>).</p>
+
+<p><img src="/assets/infectologia/atb/tab-penicilinas.jpeg" alt="Penicilinase" /></p>
+
+<p><img src="/assets/infectologia/atb/tab-penicilinas2.jpeg" alt="Penicilinase" /></p>
+
+<h2 id="farmacocinética">Farmacocinética</h2>
+
+<p>A farmacocinética estuda a ação que o corpo exerce sobre um fármaco, incluindo: absorção, distribuição, metabolização e excreção, assim como, início de ação, duração do efeito e biotransformação.</p>
+
+<h3 id="absorção">Absorção</h3>
+
+<p>De maneira geral, as penicilinas comportam-se na sua maioria como ácidos fracos. Em pHs baixos, elas estarão na sua forma indissociada que é mais lipossolúvel e, portanto, melhor absorvível.</p>
+
+<p>A absorção oral varia muito entre as penicilinas. Penicilina G, meticilina e as antipseudomonas são muito mal absorvidas. Já as <strong>semissintéticas</strong>, exceto a nafcilina, <strong>são bem absorvidas</strong>. A ampicilina é parcialmente, 30-60%, absorvida e a alimentação a reduz. Já <strong>amoxicilina</strong> é praticamente toda absovida.</p>
+
+<p><span class="alert-purple">
+O horário de administração das penicilinas, com exceção da amoxicilina oral, deve ser de 1 a 2 horas antes ou depois das refeições, pois se tomadas com alimento podem alterar a ligação às proteínas alimentares e a ativação por ácido.
+</span></p>
+
+<h3 id="distribuição">Distribuição</h3>
+
+<p>As penicilinas se ligam de forma bem heterogênea às proteínas séricas, indo de 17% para as aminopenicilinas até 97% para a diclocaxilina. Se ligam principalmente à albumina deixando-as mais hidrossolúveis e portanto, facilitando a distribuição no sangue. Apesar de apenas as moléculas livres exercerem atividade antibióticas, a ligação é reversível.</p>
+
+<p>As penicilinas se distribuem muito bem pela maioria dos tecidos, como pulmões, fígado, rins, músculos, ossos e placenta. Os níveis de penicilina em abcessos e fluidos do ouvido médio, pleural, peritonal, sinovial, costumam ser suficientes para seu efeito.</p>
+
+<p>Importante saber que a maioria das penicilinas é relativamente insolúvel em lipídios e penetra mal nas células. Dessa forma, a distribuição de todas as penicilinas no olho, cérebro, líquido cefalorraquidiano ou próstata é <strong>nula na ausência de inflamação</strong>. Por que? Pois a inflamação altera a permeabilidade das membranas e permite a entrada das penicilinas. Contudo, quando inflamados, a penicilina penetra bem nesses tecidos, incluindo a <strong>barreira hemato-encefálica</strong>.</p>
+
+<h3 id="metabolismo">Metabolismo</h3>
+
+<p>Sofrem biotransformação. Elas são quase todas transformadas no ácido penicilóico correspondente.</p>
+
+<h3 id="excreção">Excreção</h3>
+
+<p>A principal forma de excreção das penicilinas ocorre pelos rins. As moléculas são filtradas pelos glomérulos e rapidamente excretadas na urina como moléculas intactas pelas celulas tubulares. Ou seja, são pouco metabolizadas neste órgão.</p>
+
+<blockquote>
+  <p>Secretion can be blocked by <strong>probenecid</strong>, an inhibitor of organic acid secretion by tubular cells, which prolongs the serum half-life of all the penicillins. Probenecid also competes for binding sites on albumin; hence, there is more free drug in the presence of probenecid.<sup id="fnref:Mandell:2" role="doc-noteref"><a href="#fn:Mandell" class="footnote">1</a></sup></p>
+</blockquote>
+
+<p>Também existe excreção biliar mas em menor grau. A <strong>oxacilina</strong> é excretada tanto por via renal como biliar, portanto não é necessário fazer ajuste da dose em casos de insuficiência renal. Já depuração da <strong>nafcilina</strong> ocorre principalmente por excreção biliar.</p>
+
+<blockquote>
+  <p>In the presence of common duct obstruction, the levels of all penicillins in bile are markedly reduced. Because the biliary transport system is a saturable one, with drug doses producing very high serum levels, the biliary levels are not significantly increased over those measured at lower serum levels.<sup id="fnref:Mandell:3" role="doc-noteref"><a href="#fn:Mandell" class="footnote">1</a></sup></p>
+</blockquote>
+
+<p>Em neonato há menor excreção renal pois a função tubular ainda não está bem desenvolvida.</p>
+
+<p>A concentração urinária das penicilinas é alta mesmo em pessoas com moderada insuficiência renal. Contudo, má função renal deve ser considerada na administração de algumas penicilinas, como a ticarcilina. Para um clearance da creatinina acima de 10 a 20 mL/min, são necessários apenas pequenos ajustes na dosagem das outras penicilinas. Já na presença de anúria, ai será necessária redução nas doses diárias das penicilinas naturais, nas resistentes à penicilinase e nas aminopenicilinas.</p>
+
+<p>A diálise peritonial remove as penicilinas de forma muito variável. Contudo, usualmente apenas a Ticarcilina necessita de correção da dose após uma sessão. Já nas hemodiálises, as doses de penicilina G, ampicilina, amoxicilina, toxicilina e piperacilina precisam ser ajustadas, mas as doses sde nafcilina ou de isoxazolil penicilina não.</p>
+
+<h2 id="farmacodinâmica">Farmacodinâmica</h2>
+
+<p>É o estudo de como um fármaco atua no organismo vivo, incluindo as respostas farmacológicas e a duração e magnitude da resposta observada
+relativamente à concentração do fármaco num local do organismo.</p>
+
+<p>A meias-vida da penicilina é relativamente curto, geralmente menor que 1 hora. Para que se consiga então manter a concentração superior ao CMI durante o período de tempo necessário, é imprescindível haver administrações várias vezes ao dia.</p>
+
+<p><span class="alert-purple">
+A concentração mínima inibitória (CMI) é a concentração mínima que um antibiótico necessita de ter para que consiga inibir o crescimento bacteriano.
+</span></p>
+
+<p>Todos os agentes parenterais devem ser administrados a cada quatro horas quando tratamento de infecções sistêmicas graves em pacientes com função renal normal.</p>
+
+<p>As penicilinas orais normalmente atingem o pico sérico com 1 a 2 horas. Mas a alimentação pode atrasar esse intervalo (exceto pela amoxicilina).</p>
+
+<p>A penicilina procaína G e a penicilina benzatina (formas em repositório da penicilina G), são absorvidas mais devagar na forma intramuscular.</p>
+
+<h2 id="efeitos-adversos">Efeitos adversos</h2>
+
+<p>O mais importante efeito adverso causado pelas penicilina são as reações de hipersensibilidade. A gravidade da reação de ir desde um simples <em>rash</em> cutâneo até uma anafilaxia, reações mediadas pelas imunoglobulinas IgE.</p>
+
+<blockquote>
+  <p>Penicilloyl and penicillanic acid derivatives are the major determinants of penicillin allergy. The penicilloyl determinant, which is produced through opening of the β-lactam ring, thereby allowing amide linkage to body proteins, is the most important antigenic component.<sup id="fnref:Mandell:4" role="doc-noteref"><a href="#fn:Mandell" class="footnote">1</a></sup></p>
+</blockquote>
+
+<p>Embora um histórico de alergia à penicilina seja bastante comum, menos de 2% terá uma reação alérgica se desafiado, mas o risco é maior para aqueles com histórico de reação imediata de hipersensibilidade ou teste cutâneo positivo.</p>
+
+<p>As erupções morbiformes que se desenvolvem após o tratamento com penicilina provavelmente são devidas a anticorpos IgM para o benzil peniciloil hapteno. Em muitos pacientes, essas erupções cutâneas desaparecem, mesmo se a penicilina for continuada, devido à produção de anticorpo bloqueador IgG.</p>
+
+<p>Se ocorrer uma reação de hipersensibilidade, a adrenalina administrada por via intramuscular ou intravenosa geralmente interrompe a reação. Anti-histamínicos e corticosteróides não demonstraram ser benéficos.</p>
+
+<p>A toxicidade hematológica é rara, embora tenha sido encontrada neutropenia com o uso de todos os tipos de penicilinas, principalmente quando grandes doses são usadas. Os mecanismos da neutropenia são desconhecidos e as contagens de glóbulos brancos voltam ao normal rapidamente se o
+agente infrator é descontinuado.</p>
+
+<p>Às vezes, uma dose mais baixa de medicamento pode ser usada sem produção de neutropenia. A anemia hemolítica positiva por Coombs ocorre raramente. Todas as penicilinas em altas concentrações, particularmente a ticarcilina, se ligam ao local receptor da adenosina difosfato nas plaquetas, impedindo a agregação plaquetária normal. Mas sangramento clinicamente significativo ocorre com pouca frequência.</p>
+
+<h2 id="uso-clínico">Uso clínico</h2>
+
+<p>A penicilina G ainda permanece como o principal agente para o tratamento de infecções por <em>Streptococcus pyogenes</em>, cepas suscetíveis de <em>Streptococcus pneumoniae</em> e cepas suscetíveis de <em>S. aureus</em>.</p>
+
+<p><strong>Penicilina G intravenosa</strong> permanece o tratamento de escolha para meningite meningocócica e pneumocócica, endocardite por estreptococos e neurossífilis.</p>
+
+<p>Penicilina G é a droga de escolha para todos os estágios de sífilis. Também é a primeira escolha para infecções puerperais por estreptococos anaeróbios ou estreptococos do grupo B (<em>Streptococcus agalactiae</em>). Infecções genitais por clostridium também.</p>
+
+<p>Praticamente todas as cepas de <em>Neisseria meningiditis</em> são suscetíveis à penicilina G. Já para os <em>Neisseria gonorrhoeae</em>, as cepas costumam ser resistentes. Dessa forma, penicilinas não são mais recomendadas para tratar gonorréia.</p>
+
+<p>As penicilinas resistentes à penicilinase são indicadas apenas para o tratamento de infecções causadas por cepas de estafilococos suscetíveis à meticilina, para as quais são os agentes de escolha.</p>
+
+<p>Aminopenicilinas são indicadas para o tratamento de infecções do trato respiratório superior e inferior, gastroenterites bacterianas (ampicilina), endocardite bacteriana, meningites e infecções do trato urinário por organismos sucetíveis. A amoxicilina é a preferida para administração oral.</p>
+
+<p>As drogas antipseudomonas e as penicilinas de amplo espectro são indicados para o tratamento de infecções por bacilos gram-negativos resistentes (especialmente <em>P. aeruginosa</em>). Normalmente são utilizados em combinação com outra droga, como um aminoglicosídeo.</p>
+
+<p>As ureidopenicilinas, particularmente a piperacilina, são ativas contra <em>Klebsiella spp.</em>, <em>Enterobacter spp.</em>, <em>Serratia marcescens</em> e <em>Providencia spp.</em> Normalmente a piperacilina é usada em associação com o tazobactam devido à prevalência de cepas produtoras de beta-lactamase. [Dá para usar a piperacilina sozinha?]</p>
+
+<h2 id="uso-profilático">Uso profilático</h2>
+
+<p>A administração oral de 200.000 unidades de penicilina G ou penicilina V a cada 12 horas, ou penicilina benzatina intramuscular em 1.2 e 2.4 milhões de unidades mensalmente, são usadas na prevenção da febre reumática.</p>
+
+<p>Os surtos de infecção estreptocócica devido a <em>S. pyogenes</em> foram abortados pelo uso de penicilina oral G ou V (200.000 unidades) administradas 2 vezes ao dia por 5 dias, em injeções únicas de procaína penicilina diariamente ou pela administração de penicilina benzatina.</p>
+
+<p>Profilaxia intraparto com penicilina é recomendada para prevenir infecção neonatal por <em>S. agalactiae</em> em gestantes colonizadas.</p>
+
+<p>Ampicilina ou amoxicilina são administradas por via oral a crianças asplênicas ou crianças com  <em>agammaglobulinemia</em> para prevenir infecções causadas por <em>Haemophilus influenzae</em> e <em>S. pneumoniae</em>.</p>
+
+<p>Amoxicilina oral é recomendada como profilaxia para endocardite bacteriana em indivíduos de alto risco.</p>
+
+<p>A profilaxia da penicilina <strong>não foi benéfica</strong> na prevenção de infecção meningocócica, infecção bacteriana após infecção do trato respiratório viral ou pneumonia após coma, choque ou insuficiência cardíaca congestiva.</p>
+
+<h2 id="referências">Referências</h2>
+
+<ol>
+  <li>Mandell</li>
+  <li>SanarFlix. Penicilinas.</li>
+</ol>
+
+<h2 id="citações">Citações</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:Mandell" role="doc-endnote">
+      <p>Livro do Mandell <a href="#fnref:Mandell" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:Mandell:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:Mandell:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a> <a href="#fnref:Mandell:3" class="reversefootnote" role="doc-backlink">&#8617;<sup>4</sup></a> <a href="#fnref:Mandell:4" class="reversefootnote" role="doc-backlink">&#8617;<sup>5</sup></a></p>
+    </li>
+  </ol>
+</div>
+:ET

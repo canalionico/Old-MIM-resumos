@@ -52,8 +52,8 @@ self.addEventListener('install', function (event) {
       
         '/sumario/urologia.html',
       
+        '/assets/css/styles.css.map',
       
-        '/hematologia/anemias.html',
       
         '/esclerite-e-episclerite.html',
       
@@ -72,8 +72,6 @@ self.addEventListener('install', function (event) {
         '/infectologia/infeccoes-virais.html',
       
         '/hematologia/leucemia-linfoide-aguda-crianca.html',
-      
-        '/hematologia/hemograma.html',
       
         '/hematologia/hematopoiese.html',
       
@@ -100,6 +98,8 @@ self.addEventListener('install', function (event) {
         '/infectologia/meningite.html',
       
         '/infectologia/coronavirus.html',
+      
+        '/hematologia/hemograma.html',
       
         '/pediatria/ivas.html',
       

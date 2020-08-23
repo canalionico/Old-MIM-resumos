@@ -1,0 +1,426 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#epidemiologia" id="markdown-toc-epidemiologia">Epidemiologia</a></li>
+  <li><a href="#etiologia" id="markdown-toc-etiologia">Etiologia</a></li>
+  <li><a href="#fisiopatologia" id="markdown-toc-fisiopatologia">Fisiopatologia</a></li>
+  <li><a href="#quadro-clínico" id="markdown-toc-quadro-clínico">Quadro clínico</a></li>
+  <li><a href="#classificação" id="markdown-toc-classificação">Classificação</a></li>
+  <li><a href="#exames-complementares" id="markdown-toc-exames-complementares">Exames complementares</a></li>
+  <li><a href="#estratificação-de-risco" id="markdown-toc-estratificação-de-risco">Estratificação de risco</a>    <ul>
+      <li><a href="#alto-risco" id="markdown-toc-alto-risco">Alto risco</a></li>
+      <li><a href="#baixo-risco" id="markdown-toc-baixo-risco">Baixo risco</a></li>
+    </ul>
+  </li>
+  <li><a href="#profilaxia" id="markdown-toc-profilaxia">Profilaxia</a></li>
+  <li><a href="#tratamento" id="markdown-toc-tratamento">Tratamento</a>    <ul>
+      <li><a href="#alto-risco-1" id="markdown-toc-alto-risco-1">Alto risco</a></li>
+      <li><a href="#baixo-risco-1" id="markdown-toc-baixo-risco-1">Baixo risco</a></li>
+      <li><a href="#modificação-da-terapia-inicial" id="markdown-toc-modificação-da-terapia-inicial">Modificação da terapia inicial</a></li>
+      <li><a href="#terapia-antifúngica" id="markdown-toc-terapia-antifúngica">Terapia antifúngica</a>        <ul>
+          <li><a href="#candidíase" id="markdown-toc-candidíase">Candidíase</a></li>
+        </ul>
+      </li>
+      <li><a href="#fatores-estimuladores-de-colônia" id="markdown-toc-fatores-estimuladores-de-colônia">Fatores estimuladores de colônia</a></li>
+      <li><a href="#transfusão-de-neutrófilos" id="markdown-toc-transfusão-de-neutrófilos">Transfusão de neutrófilos</a></li>
+    </ul>
+  </li>
+  <li><a href="#seguimento" id="markdown-toc-seguimento">Seguimento</a></li>
+  <li><a href="#prognóstico" id="markdown-toc-prognóstico">Prognóstico</a></li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+  <li><a href="#citações" id="markdown-toc-citações">Citações</a></li>
+</ul>
+
+<p>A neutropenia febril (NF) é uma complicação frequente e potencialmente fatal nos pacientes em tratamento quimioterápico. Entendemos hoje que a neutropenia febril é considerada uma emergência clínica e que a administração de antibióticos de amplo espectro diminui drasticamente a mortalidade.<sup id="fnref:bellesso" role="doc-noteref"><a href="#fn:bellesso" class="footnote">1</a></sup></p>
+
+<p>É definida pela ocorrência de <strong>febre em pacientes com contagem absoluta de neutrófilos menor que 500</strong> células/mm<sup>3</sup> ou com &lt; 1.000 cel/mm<sup>3</sup> e expectativa de decréscimo abaixo de 500 células/mm<sup>3</sup> nas próximas 48 horas (tendência ao nadir).<sup id="fnref:usp" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup> Essa situação aumenta drasticamente a predisposição a infecções por <strong>bactérias</strong> e <strong>fungos</strong>.</p>
+
+<blockquote>
+  <p>Há também evidências de que pacientes com uma contagem de granulócitos entre 500 e 1000 células/mm<sup>3</sup>, principalmente se estiverem diminuindo rapidamente, também apresentam alto risco de complicações infecciosas porque a neutropenia não é um conceito estático, mas sim dinâmico.<sup id="fnref:mandell" role="doc-noteref"><a href="#fn:mandell" class="footnote">3</a></sup></p>
+</blockquote>
+
+<p>A definição de <strong>febre</strong> é temperatura oral ≥ 38,3°C (ou temperatura axilar ≥ 37,8°C), ou persistência de temperatura &gt; 38°C por mais de 1 hora.</p>
+
+<h2 id="epidemiologia">Epidemiologia</h2>
+
+<p>A incidência também varia conforme o tipo de tumor. Durante um ciclo de quimioterapia associada a neutropenia, febre pode ocorrer em 10-50% dos pacientes com tumores sólidos, enquanto acomete mais de 80% daqueles com neoplasias hematológicas. Somente 20-30% dos casos apresentam sítio de infecção clinicamente documentada, dos quais se destacam trato gastrointestinal, pele, trato respiratório, urinário e corrente sanguínea. Este último apresenta eleva importância, sobretudo em neutropenia profunda, por representar 20% das infecções associadas a tumores sólidos e 35% em neoplasias hematológicas.<sup id="fnref:usp:1" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<p>Pacientes com leucemia mielóide aguda, adultos e crianças, apresentam a maior frequência de febre, bacteremia e doenças fúngicas invasivas, especialmente durante a primeira indução da remissão e na leucemia recidivante, quando a intensidade da quimioterapia é maior.<sup id="fnref:mandell:1" role="doc-noteref"><a href="#fn:mandell" class="footnote">3</a></sup></p>
+
+<h2 id="etiologia">Etiologia</h2>
+
+<p>Em termos do agente etiológico, 85-90% são bacterianos, dos quais 80%, estima-se, são oriundos da flora endógena. Historicamente, a maioria dos casos era causada por bacilos Gram-negativos, porém a incidência de cocos Gram-positívos cresceu, possivelmente associado, acredita-se, ao uso profilático de quinolonas e de dispositivos invasivos de longa permanência (cateteres).<sup id="fnref:usp:2" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<p>Dentre os fungos, <em>Aspergillus spp.</em> e <em>Candida spp</em> são os mais frequentes. Outros são <em>P. jirovecii</em>, criptococos, etc.<sup id="fnref:mandell:2" role="doc-noteref"><a href="#fn:mandell" class="footnote">3</a></sup></p>
+
+<p>Os vírus respiratórios adquiridos na comunidade, como vírus sincicial respiratório (RSV), vírus influenza e parainfluenza, adenovírus, rinovírus e coronavírus, são uma causa frequente de doença respiratória em pacientes com câncer e provavelmente são subestimados como causa de febre. Também pode ocorrer reativação da infecção pelo herpes simples vírus.<sup id="fnref:mandell:3" role="doc-noteref"><a href="#fn:mandell" class="footnote">3</a></sup></p>
+
+<h2 id="fisiopatologia">Fisiopatologia</h2>
+
+<p>A patogênese da neutropenia febril é complexa. A microbiota do hospedeiro possui papel ainda pouco compreendido. Acredita-se que a flora comensal possa atuar de maneira oportunista no contexto de imunossupressão. O uso de antimicrobianos profiláticos ou terapêuticos pode facilitar o supercrescimento de bactérias patogênicas devido à pressão seletiva.<sup id="fnref:usp:3" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<p>A quimioterapia citotóxica deprime a imunidade e predispõe à infecção de diversas maneiras:</p>
+
+<ul>
+  <li>A neutropenia compromete sensivelmente a resposta imune inata, uma vez que prejudica a fagocitose e a produção de mediadores inflamatórios;</li>
+  <li>Lesão à barreira mucosa gastrointestinal:
+    <ul>
+      <li>Dano a células epiteliais altera a produção de peptídeos antimicrobianos que regulam a flora local;</li>
+      <li>Comprometimento do tecido linfoide associado à mucosa (placas de Peyer, células dendríticas, linfócitos);</li>
+      <li>Alterações na composição da flora, o que contribui para processos inflamatórios e consequente vantagem evolutiva a determinados patógenos (<em>Enterobacteriaceae</em>);</li>
+      <li>Comprometimento da integridade da barreira mucosa por apoptose.</li>
+    </ul>
+  </li>
+  <li>Quebra de barreira cutânea secundária à frequente necessidade de cateteres de longa permanência.</li>
+</ul>
+
+<h2 id="quadro-clínico">Quadro clínico</h2>
+
+<p>Durante a <strong>anamnese</strong> deve-se questionar o tipo de neoplasia e o tipo de quimioterapia em andamento, o tempo desde a última sessão, associação com outras drogas imunossupressoras, histórico de contagem de neutrófilos. Pesquisar história de infecções passadas que possam reativar (como tuberculose ou herpes), uso recente de antimicrobianos, exposição a contactantes e animais doentes, além de viagens recentes.<sup id="fnref:usp:4" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<p>Pacientes entre o <strong>10º e o 20º dias pós-quimioterapia</strong> estão sob maior risco de neutropenia febril. Caso haja previsão maior que 30 minutos para resultado do hemograma, a condução deve ser como neutropenia febril até que o diagnóstico seja excluído.<sup id="fnref:usp:5" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<p>A febre durante a neutropenia sempre foi considerada uma emergência médica e deve sempre ser considerada como causada por infecção, a menos que se prove o contrário.</p>
+
+<p>No <strong>exame físico</strong>, deve-se prestar um exame cuidadoso
+da <strong>pele</strong>, de sítios prévios de <strong>inserção de cateter</strong>, da <strong>orofaringe</strong>, dos <strong>pulmões</strong> e da <strong>região perineal</strong> (buscando por abcesso perirretal, evitando o toque retal para não translocar bactérias) pode fornecer informações reveladoras. O <strong>abdome</strong> pode se apresentar com distensão,dor no QID sugestiva de <strong>enterocolite neutropênica</strong>, defesa e descompressão brusca positiva.<sup id="fnref:usp:6" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<p>A presença de <strong>mucosite</strong>, injúria na barreira mucosa, é um importante fator predisponente de infecção sanguínea por bactérias e candida.<sup id="fnref:mandell:4" role="doc-noteref"><a href="#fn:mandell" class="footnote">3</a></sup></p>
+
+<p>A resposta inflamatória é pouco exuberante, portanto, não são incomuns pacientes <strong>sépticos sem alterações clínicas sugestivas de resposta inflamatória sistêmica</strong> (taquicardia, taquipneia). Assim, piora do
+estado geral, alteração do nível e conteúdo da consciência e outros sinais inespecíficos podem ser as
+únicas manifestações observadas.<sup id="fnref:usp:7" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup> Dessa forma, também é muito importante se atentar para os sinais de infecção mesmo na ausência de febre.</p>
+
+<h2 id="classificação">Classificação</h2>
+
+<p>Nesta base, as complicações febris em pacientes com câncer neutropênico são classificadas como:<sup id="fnref:mandell:5" role="doc-noteref"><a href="#fn:mandell" class="footnote">3</a></sup></p>
+
+<ul>
+  <li>Infecções <strong>microbiologicamente</strong> documentadas com bacteremia (isolamento de um patógeno significativo de uma ou mais hemoculturas);</li>
+  <li>Infecções <strong>microbiologicamente</strong> documentadas sem bacteremia (isolamento de um patógeno significativo de um local bem definido de infecção (urina, secreções respiratórias obtidas com procedimentos estéreis ou coleta de líquidos);</li>
+  <li>Infecções <strong>clinicamente</strong> documentadas, ou seja, na presença de um quadro clínico de natureza clara e objetiva infecciosa, mas sem prova microbiológica (como sepse, meningite, pneumonia ou enterocolite neutropênica)</li>
+  <li><strong>Febre inexplicável</strong> ou febre de origem desconhecida, quando falta a prova clínica e microbiológica e o curso clínico é meramente compatível com uma infecção.</li>
+</ul>
+
+<h2 id="exames-complementares">Exames complementares</h2>
+
+<p>São considerados exames iniciais:</p>
+
+<ul>
+  <li>Hemograma;</li>
+  <li>Eletrólitos, enzimas hepáticas, bilirrubina total e frações;</li>
+  <li>Hemoculturas (periférica e de cateter venoso central caso presente, colhidas antes da administração de antibióticos);</li>
+  <li>Função renal;</li>
+  <li>Urocultura ou cultura de outros sítios suspeitos de infecção;</li>
+  <li>Radiografia de tórax (é fato que infecções pulmonares podem estar presentes mesmo na ausência de infiltrados identificáveis à radiografia);</li>
+  <li>Testes adicionais conforme suspeita clínica:
+    <ul>
+      <li>TC de tórax se raio X não conclusivo;</li>
+      <li><em>Swab</em> nasal para pesquisa de viroses respi  ratórias comuns (influenza A e B, parainfluenza, adenovírus, vírus sincicial respiratório, metapneumovírus);</li>
+      <li>Testes para <em>Clostridium difficile</em> se diarreia.
+Outros patógenos entéricos se história com  patível com exposição podem ser pesquisados, como rotavírus, <em>Cryptosporidium</em> e <em>Microsporidium</em>;</li>
+      <li>Culturas virais para Herpes simplex e Varicella zoster se lesões ulcerativas ou vesículas;</li>
+      <li>Biópsia e aspiração de lesões cutâneas, com testes microbiológicos e histopatológicos;</li>
+      <li>Análise do liquor se suspeita de infecção do SNC (como suspeita de meningite).</li>
+    </ul>
+  </li>
+  <li>Marcadores séricos inflamatórios, como proteína C-reativa e procalcitonina não são obrigatórios;</li>
+  <li>Pesquisa individualizada de marcadores de infecção fúngica, como galactomanana e 1,3-beta-D-glucana.</li>
+</ul>
+
+<p><img src="/assets/infectologia/neutropenia-febril/sitios-investigacao.jpeg" alt="Sítios de investigação" /></p>
+
+<blockquote>
+  <p><strong>Galactomanana sérica:</strong> é um carboidrato componente da parede celular de <em>Aspergillus</em> liberado pelo crescimento das hifas. É um biomarcador de aspergilose invasiva detectável no sangue e no lavado broncoalveolar, muitas vezes antes da ocorrência dos sinais clínicos da doença.<sup id="fnref:usp:8" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+</blockquote>
+
+<blockquote>
+  <p><strong>1,3-beta-D-glucana</strong> (1,3-BDG): é um carboidrato componente de paredes celulares de diversos fungos, liberado na circulação e em tecidos na vigência de infecção. Logo, se trata de um biomarcador inespecífico de infecção fúngica (<em>Candida</em>, <em>Aspergillus</em>, <em>Fusarium</em>, <em>Scedosporium</em>, <em>Trichosporon</em> e <em>Pneumocystis jiroveci</em>).<sup id="fnref:usp:9" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+</blockquote>
+
+<h2 id="estratificação-de-risco">Estratificação de risco</h2>
+
+<h3 id="alto-risco">Alto risco</h3>
+
+<ul>
+  <li>Critérios clínicos:<sup id="fnref:usp:10" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup>
+    <ul>
+      <li>Neutropenia prolongada predita (&gt; 7 dias de duração) e profunda (neutrófilos ≤ 100 células/mm<sup>3</sup>) após quimioterapia citotóxica;</li>
+      <li>Condições clínicas exuberantes, como hipotensão, pneumonia, dor abdominal nova ou alterações neurológicas;</li>
+      <li>Alterações hepáticas ou disfunção renal.</li>
+    </ul>
+  </li>
+  <li>Escore <strong>MASCC</strong> (<em>Multinational Association for Supportive Care in Cancer</em>) &lt; 21 pontos.</li>
+</ul>
+
+<h3 id="baixo-risco">Baixo risco</h3>
+
+<p>Pacientes de baixo risco, por exclusão, são os seguintes (todas as condições abaixo):<sup id="fnref:usp:11" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<ul>
+  <li>Critérios clínicos:
+    <ul>
+      <li>Neutropenia breve predita(≤ 7 dias);</li>
+      <li>Sem alterações clínicas importantes;</li>
+      <li>Função hepática e renal adequadas e estáveis.</li>
+    </ul>
+  </li>
+  <li>Escore <strong>MASCC</strong> ≥ 21 pontos.</li>
+</ul>
+
+<blockquote>
+  <p>Uma pontuação ≥ 21 correlacionou-se com baixo risco, com sensibilidade de 71%, especificidade de 68%, valor preditivo positivo de 91% e valor preditivo negativo de 36%.</p>
+</blockquote>
+
+<p><img src="/assets/infectologia/neutropenia-febril/mascc.jpeg" alt="MSCC" /></p>
+
+<p><img src="/assets/infectologia/neutropenia-febril/cisne.jpeg" alt="CISNE" /></p>
+
+<h2 id="profilaxia">Profilaxia</h2>
+
+<p><img src="/assets/infectologia/neutropenia-febril/atb.jpeg" alt="Profilaxia" /></p>
+
+<h2 id="tratamento">Tratamento</h2>
+
+<p>Sem dúvida, o que mais preocupa é o efeito de uma infecção sem cobertura antimicrobiana em indivíduos sem defesa imunológica adequada. Precisamos ser rápidos e solicitar exames de forma coerente.</p>
+
+<p><img src="/assets/infectologia/neutropenia-febril/fluxo.jpeg" alt="Fluxograma" /></p>
+
+<p>A pontuação da Associação Multinacional de Cuidados de Suporte em Câncer (MASCC) mostrou-se adequada para identificar pacientes com baixa probabilidade de neutropenia febril complicada. Uma pontuação no índice de risco superior a 21 identificou pacientes de baixo risco, com valores preditivos positivos e negativos de 91% e 36%, respectivamente.</p>
+
+<p><img src="/assets/infectologia/neutropenia-febril/mascc-score.jpeg" alt="Score de risco" /></p>
+
+<h3 id="alto-risco-1">Alto risco</h3>
+
+<p>Pacientes de alto risco requerem <strong>internação para antibioticoterapia parenteral</strong>:<sup id="fnref:usp:12" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<ul>
+  <li>Monoterapia com <strong>betalactâmico antipseudomonas</strong>:
+    <ul>
+      <li>Cefepime 2 g IV 8/8 horas;</li>
+      <li>Piperacilina -tazobactam 4,5 g IV 8/8 horas;</li>
+      <li>Imipenem-cilastina 500 mg IV 6/6 horas;</li>
+      <li>Meropenem 1 g IV 8/8 horas.</li>
+    </ul>
+  </li>
+  <li><strong>Vancomicina</strong> não é recomendada no manejo inicial. Indicações específicas são:
+    <ul>
+      <li>Instabilidade hemodinâmica;</li>
+      <li>Suspeita de infecção relacionada a cateter;</li>
+      <li>Infecção de pele e partes moles;</li>
+      <li>Pneumonia.
+        <ul>
+          <li>Obs.: considerar em pacientes com mucosite cultura prévia positiva para germe sensível somente a vancomicina ou em profilaxia com quinolonas.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<p>Modificações no esquema inicial são feitas se ocorrer: instabilidade hemodinâmica, suspeita ou documentação de microrganismo multidroga-resistente, epidemiologia local, ajuste conforme sinais, sintomas ou provas complementares que localizam o foco.</p>
+
+<p>Terapia antifúngica não é recomendada no manejo inicial. Deve ser considerada nas seguintes condições:<sup id="fnref:usp:13" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<ul>
+  <li>Instabilidade hemodinâmica após doses iniciais da terapia empírica adequada;</li>
+  <li>Persistência de febre após 4-7 dias de terapia empírica antibacteriana e duração da neutropenia esperada para além de 7 dias;</li>
+  <li>TC de tórax ou de seios da face sugestiva de infecção fúngica;</li>
+  <li>Outros indicadores sugestivos de infecção fúngica:
+    <ul>
+      <li>Cultura positiva para fungo em qualquer sítio;</li>
+      <li>Biomarcadores positivos (galactomanana ou 1,3-BDG).</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Os principais momentos para o gerenciamento do paciente neutropênico de alto risco com febre e infecção são o dia 0, quando o paciente é avaliado, as culturas são desenhadas e a antibioticoterapia é iniciada, e os dias 3 ou 4, quando os resultados retornam do laboratório e o paciente é reavaliado.</p>
+
+<p><img src="/assets/infectologia/neutropenia-febril/atbs.jpeg" alt="Antibioticoterapia" /></p>
+
+<h3 id="baixo-risco-1">Baixo risco</h3>
+
+<p>A pacientes de baixo risco, podem ser assegurados tratamento inicial oral ou endovenoso, em regime ambulatorial ou em internação:<sup id="fnref:usp:14" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<p>Terapia empírica por via oral:</p>
+
+<ul>
+  <li><strong>Ciprofloxacino</strong> 750 mg 12/ 12 horas + <strong>amoxicilina-clavulanato</strong> 500/125 mg 8/8 horas;</li>
+  <li>Esquemas alternativos, embora menos estudados:
+    <ul>
+      <li>Monoterapia com fluorquinolonas (ciprofloxacino ou levofloxaci no);</li>
+      <li>Ciprofloxacino + clindamicina.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Pacientes em profilaxia com fluorquinolonas não devem receber esquema oral empírico com essas drogas. prescrição empírica de antifüngicos não é recomendada.</p>
+
+<p>A persistência de febre ou sinais e sintomas sugestivos de piora indica internação hospitalar independente da terapia inicial.</p>
+
+<p><img src="/assets/infectologia/neutropenia-febril/fluxo-usp.jpeg" alt="Fluxograma atendimento" /></p>
+
+<h3 id="modificação-da-terapia-inicial">Modificação da terapia inicial</h3>
+
+<p>Considera-se a alteração do esquema inicial em pacientes de alto risco para infecção por microrganismos resistentes, especialmente em condição clínica instável, ou se hemoculturas com crescimento bacteriano com suspeita de resistência. Os principais fatores de risco incluem infecção ou colonização prévias e tratamento hospitalar com elevadas taxas de endemicidade para MDR. Os microrganismos MDR e as opções de antimicrobiano mais amplamente utilizadas são:</p>
+
+<ul>
+  <li><em>Staphylococcus aureus methicilin-resistant</em> (MRSA): considerar adição precoce de vancomicina, linezolida ou daptomicina;</li>
+  <li>Enterococcus resistente a vancomicina (VRE): considerar adição precoce de linezolida ou daptomicina;</li>
+  <li>Gram-negativos produtores de <em>extended-spectrum beta-lactamase</em> (ESBL): considerar utilização precoce de carbapenêmico.</li>
+  <li>Kleibsiella pneumoniae carbapenemase (KPC): considerar utilização precoce de polimixina/colistina.</li>
+</ul>
+
+<p>Terapia empírica antifúngica em casos de alto risco é considerada se febre persistente após 4-7 dias de antibiótico de amplo espectro e ausência de identificação de fonte do quadro febril após adequada investigação ou suspeita de infecção fúngica (achados de imagem ou biomarcadores sugestivos).</p>
+
+<p>Pacientes de baixo risco que iniciaram antibióticos EV ou VO no ambiente hospitalar podem ter seu esquema simplificado se estabilidade clínica:</p>
+
+<ul>
+  <li>Troca de EV para VO no paciente estável com adequada condição de absorção gastrointestinal;</li>
+  <li>Pacientes internados de baixo risco podem ser transicionados para tratamento domiciliar IV ou VO se seguimento diário assegurado;</li>
+  <li>A readmissão hospitalar é recomendada a qualquer paciente ambulatorial que persista com febre por mais de 48 horas e o manejo deve ser realizado como grupo de alto risco.</li>
+</ul>
+
+<h3 id="terapia-antifúngica">Terapia antifúngica</h3>
+
+<p>As recomendações da IDSA para terapia antifúngica empírica em pacientes com câncer e neutropenia febril são:</p>
+
+<p><strong>Alto risco:</strong> considerar terapia empírica e avaliação diagnóstica para infecção invasiva se persistência de febre por mais de 4-7 dias de antimicrobianos de amplo espectro em pacientes cuja expectativa de neutropenia seja maior que 7 dias.</p>
+
+<ul>
+  <li>Esquemas possíveis:
+    <ul>
+      <li>Voriconazol 6 mg/kg IV 12/12 h por 24 h, seguido de 4 mg/kg IV 12/12 h;</li>
+      <li>Anfotericina B lipossomal 3-5 mg/kg/dia;</li>
+      <li>Equinocandinas:
+        <ul>
+          <li>Micafungina 100-150 mg IV 24/24 h;</li>
+          <li>Caspofungina 70 mg IV por 24 h, seguido de 50 mg/dia.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Esquemas alternativos com triazóis:
+    <ul>
+      <li>Posaconazol 200 mg VO 6/6 h até estabilização, seguido por 400 mg 12/12 h;</li>
+    </ul>
+  </li>
+  <li>Itraconazol.</li>
+</ul>
+
+<p>Tratamento preemptivo é aceitável como alternativa à terapia empírica em pacientes de alto risco. Considerar terapia antifúngica se qualquer um dos possíveis indicadores abaixo de infecção invasiva estiver presente:</p>
+
+<ul>
+  <li>Persistência ou recorrência de febre após 4-7 dias de anbiótico de amplo espectro mesmo se estabilidade clínica.</li>
+  <li>TC de tórax ou de seios da face sugestiva de infecção fúngica;</li>
+  <li>Marcadores séricos positivos (1,3-BDG ou galactomanana);</li>
+  <li>Isolamento fúngico em qualquer sítio (espécies de <em>Candida</em> ou <em>Aspergillus</em>).</li>
+</ul>
+
+<p><strong>Baixo risco:</strong> uso rotineiro de terapia empírica antifúngica não é recomendado devido à baixa probabilidade de infecção invasiva.</p>
+
+<h4 id="candidíase">Candidíase</h4>
+
+<p>Se for verificada infecção por candidíase invasiva, está recomendado considerar a remoção de cateteres de maneira individualizada, exame oftalmológico dentro da primeira semana após recuperação neutrocítica e tratamento por pelo menos 14 dias após primeira hemocultura negativa, resolução dos sinais e sintomas e da neutropenia.</p>
+
+<p>Esquemas recomendados:</p>
+
+<ul>
+  <li>Terapia inicial com equinocandína:
+    <ul>
+      <li>Caspofungina 70 mg IV por 24 h, seguido de 50 mg/dia;</li>
+      <li>Micafungina 100 mg IV 24/24 h;</li>
+      <li>Anidulafungina 200 mg IV por 24 h, seguido de 100 mg/dia;</li>
+    </ul>
+  </li>
+  <li>Esquema alternativo com anfotericina B lipossomal 3-5 mg/kg/dia.</li>
+  <li>Em pacientes menos críticos, sem exposição recente azólicos:
+    <ul>
+      <li>Fluconazol 800 mg (12 mg/kg) VO ou IV em dose de ataque, seguido de 400 mg (6 mg/kg) VO ou IV 1 x/dia;
+        <ul>
+          <li>O fluconazol VO possui 90% da biodisponibilidade do EV</li>
+          <li>Pode ser utilizado como opção de <em>stepdown</em> em neutropenia persistente em pacientes clinicamente estáveis e com hemoculturas negativas.</li>
+        </ul>
+      </li>
+      <li>Voriconazol 400 mg (6 mg/kg) 12/12 h por 2 dias, seguido de 200-300 mg (3-4 mg/kg) 12/12 h.
+        <ul>
+          <li>Recomendado quando é necessária cobertura adicional contra leveduras.</li>
+          <li>Reduzir dose em pacientes com disfunção hepática.Pode ser utilizado como opção de <em>stepdown</em> em neutropenia persistente em pacientes clinicamente estáveis e com hemoculturas negativas.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="fatores-estimuladores-de-colônia">Fatores estimuladores de colônia</h3>
+
+<p>O consenso da IDSA não recomenda o uso rotineiro de fatores estimuladores de colônia em pacientes com neutropenia febril. Já as recomendações da <em>American Society of Clinical Oncology</em> de 2015 incluem:</p>
+
+<ul>
+  <li>Considerar em pacientes de alto risco para complicações associadas à infecção ou que apresentam fatores preditores de desfechos desfavoráveis, como:
+    <ul>
+      <li>Expectativa de neutropenia profunda (&lt; 100 células/mm<sup>3</sup>) e prolongada(&gt; 10 dias);</li>
+      <li>Maiores que 65 anos;</li>
+      <li>Doença primária não controlada;</li>
+      <li>Pneumonia;</li>
+      <li>Disfunção orgânica múltipla;</li>
+      <li>Infecção fúngica invasiva;</li>
+      <li>Paciente hospitalizado no advento da febre;</li>
+    </ul>
+  </li>
+  <li>Evitar em pacientes em tratamento quimioterápico e radioterápico concomitantes, especialmente envolvendo o mediastino.</li>
+</ul>
+
+<p>O benefício da utilização de fatores estimuladores de colônias é controverso. Evidências apontam para possível redução na duração de internação, no tempo necessário para suspensão dos antibióticos e no tempo de recuperação neutrocítica, porém sem impacto na mortalidade.<sup id="fnref:usp:15" role="doc-noteref"><a href="#fn:usp" class="footnote">2</a></sup></p>
+
+<h3 id="transfusão-de-neutrófilos">Transfusão de neutrófilos</h3>
+
+<p>A limitada meia-vida dos neutrófilos, ausência de consenso a respeito do benefício e potenciais eventos adversos são exemplos de limitações para a utilização rotineira desta abordagem.</p>
+
+<h2 id="seguimento">Seguimento</h2>
+
+<p>Em pacientes com infecção documentada clinicamente e microbiologicamente , orienta-se:</p>
+
+<ul>
+  <li>Duração baseada na infecção específica diagnosticada;</li>
+  <li>10-14 dias de antibioticoterapia é recomendada para o tratamento da maioria das bacteremias, infecção de partes moles e pneumonias;</li>
+  <li>Considerar redução do espectro da cobertura após defervescência e transição por via oral na ausência de eventos adversos gastrointestinais;</li>
+  <li>Antibioticoterapia adequada deve ser continuada ao menos até contagem absoluta de neutrófilos ≥ 500 células/mm<sup>3</sup> ou o tempo necessário para melhora clínica e ausência de infecção garantidas.</li>
+</ul>
+
+<p>Nos casos em que a febre é inexplicada, continuar o esquema até concreta recuperação medular, ou seja, defervescência ≥ 2 dias e neutrófilos ≥ 500 células/mm<sup>3</sup></p>
+
+<h2 id="prognóstico">Prognóstico</h2>
+
+<p>Relatos apontam que a mortalidade relacionada à infecção em pacientes com tumores sólidos é próxima de 2%. Para neoplasias hematológicas, ao redor de 5%.</p>
+
+<p>A administração atrasada de terapia antimicrobiana adequada aumenta consideravelmente o risco de óbito. A IDSA recomenda que o intervalo máximo entre a admissão e o início da antibioticoterapia empírica seja de 31 minutos.</p>
+
+<p>Uma coorte retrospectiva de mais de 400 pacientes apontou uma mortalidade de quase 50% em neutropenia febril associada a sepse ou choque séptico. Os fatores associados a pior prognóstico foram idade avançada, necessidade de vasopressores, comorbidades agudas não infecciosas e disfunção hepática, neurológica ou respiratória.</p>
+
+<p>O MASCC está associado a desfechos desfavoráveis. Em pacientes com pontuação &lt; 21, a taxa de óbito associada à infecção é de 12,5% e 0% naqueles ≥ 21. Dois terços dos pacientes com &gt; 15 pontos evoluem a óbito em até 30 dias.</p>
+
+<h2 id="referências">Referências</h2>
+
+<ol>
+  <li>J. Larry Jameson, Anthony S. Fauci, Dennis L. Kasper, Stephen L. Hauser, Dan L. Longo, Joseph Loscalzo. <strong>Harrison’s Principles of Internal Medicine</strong>. 20th edition, 2018.</li>
+  <li>Bellesso Marcelo, Costa Silvia Figueiredo, Chamone Dalton Alencar Fischer, Llacer Pedro Enrique Dorlhiac. <strong>Triagem para o tratamento ambulatorial da neutropenia febril</strong>. Rev. Bras. Hematol. Hemoter. [Internet]. 2010 [cited 2020 Apr 08];32(5):402-408. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1516-84842010000500014&amp;lng=en. https://doi.org/10.1590/S1516-84842010000500014.</li>
+  <li>Freifeld AG, Bow EJ, Sepkowitz KA, et al. <strong>Clinical practice guideline for the use of antimicrobial agents in neutropenic patients with cancer: 2010 update by the infectious diseases society of america</strong>. Clin Infect Dis. 2011;52(4):e56–e93. doi:10.1093/cid/cir073</li>
+  <li><strong>Mandell, Douglas, and Bennett’s principles and practice of infectious diseases</strong>. Edited by John E. Bennett, Raphael Dolin, Martin J. Blaser. 8º edition, 2015.</li>
+  <li>Bodey GP, Buckley M, Sathe YS, Freireich EJ. Quantitative relationships between circulating leukocytes and infection in patients with acute leukemia. Ann Intern Med. 1966;64(2):328–340. doi:10.7326/0003-4819-64-2-328</li>
+  <li><strong>Medicina de emergência: abordagem prática</strong>. professor titular e coordenador Iríneu Tadeu Velasco; editor chefe Rodrigo Antonio Brandão Neto; editores Heraldo Possolo de Souza, et al. 13ª edição. Barueri [SP]: Manole, 2019.</li>
+</ol>
+
+<h2 id="citações">Citações</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:bellesso" role="doc-endnote">
+      <p>Bellesso Marcelo, Costa Silvia Figueiredo, Chamone Dalton Alencar Fischer, Llacer Pedro Enrique Dorlhiac. <strong>Triagem para o tratamento ambulatorial da neutropenia febril</strong>. Rev. Bras. Hematol. Hemoter. [Internet]. 2010 [cited 2020 Apr 08];32(5):402-408. Available from: http://www.scielo.br/scielo.php?script=sci_arttext&amp;pid=S1516-84842010000500014&amp;lng=en. https://doi.org/10.1590/S1516-84842010000500014. <a href="#fnref:bellesso" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:usp" role="doc-endnote">
+      <p><strong>Medicina de emergência: abordagem prática</strong>. professor titular e coordenador Iríneu Tadeu Velasco; editor chefe Rodrigo Antonio Brandão Neto; editores Heraldo Possolo de Souza, et al. 13ª edição. Barueri [SP]: Manole, 2019. <a href="#fnref:usp" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:usp:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:usp:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a> <a href="#fnref:usp:3" class="reversefootnote" role="doc-backlink">&#8617;<sup>4</sup></a> <a href="#fnref:usp:4" class="reversefootnote" role="doc-backlink">&#8617;<sup>5</sup></a> <a href="#fnref:usp:5" class="reversefootnote" role="doc-backlink">&#8617;<sup>6</sup></a> <a href="#fnref:usp:6" class="reversefootnote" role="doc-backlink">&#8617;<sup>7</sup></a> <a href="#fnref:usp:7" class="reversefootnote" role="doc-backlink">&#8617;<sup>8</sup></a> <a href="#fnref:usp:8" class="reversefootnote" role="doc-backlink">&#8617;<sup>9</sup></a> <a href="#fnref:usp:9" class="reversefootnote" role="doc-backlink">&#8617;<sup>10</sup></a> <a href="#fnref:usp:10" class="reversefootnote" role="doc-backlink">&#8617;<sup>11</sup></a> <a href="#fnref:usp:11" class="reversefootnote" role="doc-backlink">&#8617;<sup>12</sup></a> <a href="#fnref:usp:12" class="reversefootnote" role="doc-backlink">&#8617;<sup>13</sup></a> <a href="#fnref:usp:13" class="reversefootnote" role="doc-backlink">&#8617;<sup>14</sup></a> <a href="#fnref:usp:14" class="reversefootnote" role="doc-backlink">&#8617;<sup>15</sup></a> <a href="#fnref:usp:15" class="reversefootnote" role="doc-backlink">&#8617;<sup>16</sup></a></p>
+    </li>
+    <li id="fn:mandell" role="doc-endnote">
+      <p><strong>Mandell, Douglas, and Bennett’s principles and practice of infectious diseases</strong>. Edited by John E. Bennett, Raphael Dolin, Martin J. Blaser. 8º edition, 2015. <a href="#fnref:mandell" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:mandell:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:mandell:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a> <a href="#fnref:mandell:3" class="reversefootnote" role="doc-backlink">&#8617;<sup>4</sup></a> <a href="#fnref:mandell:4" class="reversefootnote" role="doc-backlink">&#8617;<sup>5</sup></a> <a href="#fnref:mandell:5" class="reversefootnote" role="doc-backlink">&#8617;<sup>6</sup></a></p>
+    </li>
+  </ol>
+</div>
+:ET

@@ -1,0 +1,82 @@
+I"�<ol id="markdown-toc">
+  <li><a href="#taquicardias-atriais" id="markdown-toc-taquicardias-atriais">Taquicardias atriais</a></li>
+  <li><a href="#flutter-atrial" id="markdown-toc-flutter-atrial">Flutter atrial</a>    <ol>
+      <li><a href="#tipo-i-típico" id="markdown-toc-tipo-i-típico">Tipo I (típico)</a></li>
+      <li><a href="#tipo-ii" id="markdown-toc-tipo-ii">Tipo II</a></li>
+    </ol>
+  </li>
+  <li><a href="#fibrilação-atrial" id="markdown-toc-fibrilação-atrial">Fibrilação atrial</a></li>
+</ol>
+
+<ul>
+  <li>TPSV</li>
+  <li>Taquicardia atrial</li>
+  <li>Flutter atrial</li>
+  <li>Fibrilação atrial</li>
+</ul>
+
+<p>A extrassístole pode ser de origem ventricular ou supraventricular. As ventriculares possuem morfologia aberrante  enquanto que as supraventriculáres possuem a morfologia normal do QRS.</p>
+
+<p><strong>Ponto de Wenckebar:</strong> a frequencia de estimulo em que o nó AV começa a parar de conduzir o impulso, formando um BAV de 2o grau do tipo 1. Cada pessoa tem um ponto diferente, mas a maioria vai bloquear a condução em torno de 140 a 190 bpm.</p>
+
+<blockquote>
+  <p>De forma geral os números das frequências podem variar de autor para autor.</p>
+</blockquote>
+
+<p>A maioria das taquicardias atriais têm  frequência baixa, ou seja, todos os estímulos passam pelo nó AV pois não ultrapassam oponto de Weckenbar.</p>
+
+<p>Flutter atrial: acima de 240 bpm chamamos de flutter. Este pode ser de tipo I (240-340) ou tipo II (340-433) ou ainda um BAV fixo ou variável.</p>
+
+<p>Uma fibrilação atrial é caracterizada por frequência maior que 450 bpm.</p>
+
+<h2 id="taquicardias-atriais">Taquicardias atriais</h2>
+
+<h2 id="flutter-atrial">Flutter atrial</h2>
+
+<h3 id="tipo-i-típico">Tipo I (típico)</h3>
+
+<ul>
+  <li>Ondas F tipo dente de serrote</li>
+  <li>Negativas em D2, D3 e aVF;</li>
+  <li>Freq de F: 240-340 - bloquieo 2:1 (a cada duas sístoles atriais ocorre uma sístole ventricular);</li>
+  <li>Interrompida por estimulação elétrica atrial.</li>
+</ul>
+
+<h3 id="tipo-ii">Tipo II</h3>
+
+<p>O ECG esofágico pode facilitar a visualização pois o esôfago está muito próximo do átrio e as ondas F ficariam mais evidentes.</p>
+
+<p><img src="/assets/cardiologia/flutter.webp" alt="Flutter" /></p>
+
+<h2 id="fibrilação-atrial">Fibrilação atrial</h2>
+
+<p>É a arritimia mais irregular que existe. Pode ser identificada apenas com a ausculta. Quando tem frequência alta pode incomodar o paciente e fazê-lo buscar auxílio médico.</p>
+
+<ul>
+  <li>Paroxística</li>
+  <li>Persistente</li>
+  <li>Permanente: não reversível;</li>
+</ul>
+
+<p>A prevalência é de aproximadamente 0,4% da população e aumenta com a idade. Existem causas de FA sem alteração atrial.</p>
+
+<p>Aumenta o risco de tromboembolismo.</p>
+
+<ul>
+  <li>Sintomas “estranhos” do SNC como: “sinto a cabeça aérea’, “sinto a cabeça vazia”;</li>
+</ul>
+
+<p>Hoje a terapia é feita com Warfarina. Porém, é necessário ficar avaliando o INR que deve ser mantido entre 2 e 3.</p>
+
+<p>Novos anticoagulantes: dabigatrana, rivaroxabana, apixabana, endoxabana.</p>
+
+<p>Controle da frequência ventricular:</p>
+
+<ul>
+  <li>Digital;</li>
+  <li>Verapamil;</li>
+  <li>Diltiazem;</li>
+  <li>Betabloqueador;</li>
+  <li>Amiodarona.</li>
+</ul>
+:ET

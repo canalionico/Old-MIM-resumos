@@ -1,0 +1,1111 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#epidemiologia" id="markdown-toc-epidemiologia">Epidemiologia</a></li>
+  <li><a href="#fisiopatologia" id="markdown-toc-fisiopatologia">Fisiopatologia</a>    <ul>
+      <li><a href="#remodelamento-cardíaco" id="markdown-toc-remodelamento-cardíaco">Remodelamento cardíaco</a></li>
+      <li><a href="#conceitos" id="markdown-toc-conceitos">Conceitos</a></li>
+      <li><a href="#icc" id="markdown-toc-icc">ICC</a></li>
+      <li><a href="#ic-esquerda" id="markdown-toc-ic-esquerda">IC esquerda</a></li>
+      <li><a href="#ic-direita" id="markdown-toc-ic-direita">IC direita</a></li>
+      <li><a href="#ic-biventricular" id="markdown-toc-ic-biventricular">IC biventricular</a></li>
+      <li><a href="#ic-sistólica" id="markdown-toc-ic-sistólica">IC sistólica</a></li>
+      <li><a href="#ic-diastólica" id="markdown-toc-ic-diastólica">IC diastólica</a></li>
+      <li><a href="#quanto-ao-dc" id="markdown-toc-quanto-ao-dc">Quanto ao DC</a>        <ul>
+          <li><a href="#insuficiência-cardíaca-de-baixo-débito" id="markdown-toc-insuficiência-cardíaca-de-baixo-débito">Insuficiência Cardíaca de Baixo Débito</a></li>
+          <li><a href="#insuficiência-cardíaca-de-alto-débito" id="markdown-toc-insuficiência-cardíaca-de-alto-débito">Insuficiência Cardíaca de Alto Débito</a></li>
+        </ul>
+      </li>
+      <li><a href="#mecanismos-compensatórios" id="markdown-toc-mecanismos-compensatórios">Mecanismos compensatórios</a></li>
+      <li><a href="#remodelamento-cardíaco-1" id="markdown-toc-remodelamento-cardíaco-1">Remodelamento cardíaco</a></li>
+      <li><a href="#pós-carga" id="markdown-toc-pós-carga">Pós-carga</a></li>
+    </ul>
+  </li>
+  <li><a href="#etiologia" id="markdown-toc-etiologia">Etiologia</a>    <ul>
+      <li><a href="#sistólica" id="markdown-toc-sistólica">Sistólica</a></li>
+      <li><a href="#diastólica" id="markdown-toc-diastólica">Diastólica</a></li>
+      <li><a href="#ic-aguda" id="markdown-toc-ic-aguda">IC Aguda</a></li>
+    </ul>
+  </li>
+  <li><a href="#quadro-clínico" id="markdown-toc-quadro-clínico">Quadro clínico</a></li>
+  <li><a href="#exame-físico" id="markdown-toc-exame-físico">Exame físico</a>    <ul>
+      <li><a href="#pulso-arterial" id="markdown-toc-pulso-arterial">Pulso Arterial</a></li>
+      <li><a href="#pulso-venoso-e-turgência-jugular" id="markdown-toc-pulso-venoso-e-turgência-jugular">Pulso Venoso e Turgência Jugular</a></li>
+      <li><a href="#precórdio" id="markdown-toc-precórdio">Precórdio</a></li>
+      <li><a href="#ausculta" id="markdown-toc-ausculta">Ausculta</a></li>
+    </ul>
+  </li>
+  <li><a href="#diagnóstico" id="markdown-toc-diagnóstico">Diagnóstico</a></li>
+  <li><a href="#classificação" id="markdown-toc-classificação">Classificação</a>    <ul>
+      <li><a href="#perfil-hemodinâmico" id="markdown-toc-perfil-hemodinâmico">Perfil hemodinâmico</a></li>
+      <li><a href="#classe-funcional" id="markdown-toc-classe-funcional">Classe funcional</a></li>
+      <li><a href="#classificação-evolutiva" id="markdown-toc-classificação-evolutiva">Classificação evolutiva</a></li>
+      <li><a href="#fração-de-ejeção" id="markdown-toc-fração-de-ejeção">Fração de ejeção</a></li>
+      <li><a href="#disfunção-diastólica-associada" id="markdown-toc-disfunção-diastólica-associada">Disfunção Diastólica Associada</a></li>
+      <li><a href="#marcadores-neuro-humorais" id="markdown-toc-marcadores-neuro-humorais">Marcadores Neuro-Humorais</a></li>
+      <li><a href="#risco-de-mortalidade-intra-hospitalar" id="markdown-toc-risco-de-mortalidade-intra-hospitalar">Risco de mortalidade intra-hospitalar</a></li>
+    </ul>
+  </li>
+  <li><a href="#exames-complementares" id="markdown-toc-exames-complementares">Exames complementares</a>    <ul>
+      <li><a href="#laboratório" id="markdown-toc-laboratório">Laboratório</a></li>
+      <li><a href="#ecocardiograma" id="markdown-toc-ecocardiograma">Ecocardiograma</a></li>
+      <li><a href="#radiografia-de-tórax" id="markdown-toc-radiografia-de-tórax">Radiografia de tórax</a></li>
+      <li><a href="#eletrocardiograma" id="markdown-toc-eletrocardiograma">Eletrocardiograma</a></li>
+      <li><a href="#ressonância-magnética-cardíaca" id="markdown-toc-ressonância-magnética-cardíaca">Ressonância magnética cardíaca</a></li>
+      <li><a href="#holter" id="markdown-toc-holter">Holter</a></li>
+    </ul>
+  </li>
+  <li><a href="#tratamento" id="markdown-toc-tratamento">Tratamento</a>    <ul>
+      <li><a href="#hábitos-de-vida" id="markdown-toc-hábitos-de-vida">Hábitos de vida</a></li>
+      <li><a href="#tratamento-medicamentoso-da-ic-sistólica" id="markdown-toc-tratamento-medicamentoso-da-ic-sistólica">Tratamento medicamentoso da IC sistólica</a>        <ul>
+          <li><a href="#ieca" id="markdown-toc-ieca">IECA</a></li>
+          <li><a href="#betabloqueadores" id="markdown-toc-betabloqueadores">Betabloqueadores</a></li>
+          <li><a href="#antagonistas-da-aldosterona" id="markdown-toc-antagonistas-da-aldosterona">Antagonistas da Aldosterona</a></li>
+          <li><a href="#antagonista-at1-da-angiotensina-ii" id="markdown-toc-antagonista-at1-da-angiotensina-ii">Antagonista AT1 da angiotensina II</a></li>
+          <li><a href="#hidralazina-e-nitrato" id="markdown-toc-hidralazina-e-nitrato">Hidralazina e Nitrato</a></li>
+          <li><a href="#ivabradina" id="markdown-toc-ivabradina">Ivabradina</a></li>
+        </ul>
+      </li>
+      <li><a href="#sintomáticos" id="markdown-toc-sintomáticos">Sintomáticos</a>        <ul>
+          <li><a href="#diuréticos-de-alça" id="markdown-toc-diuréticos-de-alça">Diuréticos de alça</a></li>
+          <li><a href="#tiazídicos" id="markdown-toc-tiazídicos">Tiazídicos</a></li>
+          <li><a href="#digitálicos" id="markdown-toc-digitálicos">Digitálicos</a></li>
+          <li><a href="#bloqueadores-do-canal-de-cálcio" id="markdown-toc-bloqueadores-do-canal-de-cálcio">Bloqueadores do canal de cálcio</a></li>
+        </ul>
+      </li>
+      <li><a href="#anticoagulaão-e-antiplaquetários" id="markdown-toc-anticoagulaão-e-antiplaquetários">Anticoagulaão e antiplaquetários</a></li>
+      <li><a href="#cardiodesfibrilador-implantável-cdi" id="markdown-toc-cardiodesfibrilador-implantável-cdi">Cardiodesfibrilador Implantável (CDI)</a></li>
+      <li><a href="#tratamento-da-ic-diastolica" id="markdown-toc-tratamento-da-ic-diastolica">Tratamento da IC diastolica</a></li>
+      <li><a href="#tratamento-cirúrgico" id="markdown-toc-tratamento-cirúrgico">Tratamento cirúrgico</a>        <ul>
+          <li><a href="#transplante-cardíaco" id="markdown-toc-transplante-cardíaco">Transplante cardíaco</a></li>
+        </ul>
+      </li>
+      <li><a href="#angiorressonância" id="markdown-toc-angiorressonância">Angiorressonância</a></li>
+    </ul>
+  </li>
+  <li><a href="#prognóstico" id="markdown-toc-prognóstico">Prognóstico</a></li>
+  <li><a href="#insuficiência-cardíaca-descompensada" id="markdown-toc-insuficiência-cardíaca-descompensada">Insuficiência cardíaca descompensada</a>    <ul>
+      <li><a href="#fatores-de-descompensação" id="markdown-toc-fatores-de-descompensação">Fatores de descompensação</a></li>
+      <li><a href="#diretrizes" id="markdown-toc-diretrizes">Diretrizes</a></li>
+      <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>Insuficiência cardíaca é uma síndrome clínica complexa, na qual o coração é incapaz de bombear sangue de forma a atender às necessidades metabólicas tissulares, ou pode fazê-lo somente com elevadas pressões de enchimento.<sup id="fnref:diretriz-ic" role="doc-noteref"><a href="#fn:diretriz-ic" class="footnote">1</a></sup></p>
+
+<ul>
+  <li>Aumento na pressão de enchimento do VE = síndrome congestiva pulmonar;</li>
+  <li>Baixo débito = exaustão, síncope ou mesmo choque cardiogênico</li>
+</ul>
+
+<p>A insuficiência cardíaca, em poucas palavras,
+é caracterizada por uma inabilidade dos ven-
+trículos se encherem e se esvaziarem de
+sangue adequadamente (isto é, com pressões
+intraventriculares normais).</p>
+
+<p>Sempre lembrar que: <strong>DC = FC x Volume sistólico</strong>. Sendo que VS é diretamente proporcional à pré-carga e à contratilidade e inversamente proporcional à pós-carga.</p>
+
+<p>É um síndrome clínica na qual o coração falha na sua função de bomba em atender a demanda metabólica do organismo devido ao baixo débito cardiaco, resultando em défict na perfusão tecidual e congestão pulmonar e/ou sistêmica. É uma doença crônica e progressiva.</p>
+
+<h2 id="epidemiologia">Epidemiologia</h2>
+
+<p>0,4 a 2% da população geral. Sua prevalencia aumenta com o envelhecimento.</p>
+
+<p>Ver o registro Breathe de 2014 no Brasil: As principais etiologias são isquêmica (30%), hipertensiva (20%), dilatação idiopática, valvar e doença de Chagas.</p>
+
+<h2 id="fisiopatologia">Fisiopatologia</h2>
+
+<p>Pode ser vista como uma doença progressiva iniciada após um evento inicial, que produz um dano no músculo cardíaco com consequente perda dos cardiomiócitos funcionantes, ou, alternativamente, interrupção da capacidade do miocárdio de gerar força, impedindo, assim, a contração normal do coração. Este evento índice pode começar de modo abrupto, como no caso do infarto agudo do miocárdio (IAM); pode ter início gradual ou insidioso, como na sobrecarga de pressão ou de volume; ou ser hereditário, conforme acontece em várias cardiomiopatias genéticas.</p>
+
+<p>A ativação mantida dos sistemas neuro-hormonais e das citocinas leva a uma série de alterações de estruturas importantes dentro do miocárdio, denominadas coletivamente de remodelamento do VE e pode levar um paciente assintomático a começar a desenvolver sintomas.</p>
+
+<p>O aumento dos ventrículos também pode causar insuficiência das válvulas que também são alongadas com o aumento das câmaras. Por exemplo, pode ocorrer uma insuficiência mitral. As valvas distendidas se fecham com mais dificuldade. Além desse fatores, também pode correr alargamento das cordoalhos tendíneas dificultando o fechamento completo das valvas.</p>
+
+<h3 id="remodelamento-cardíaco">Remodelamento cardíaco</h3>
+
+<p>É o conjunto de variações moleculares, celulares e intersticiais cardíacas, que vão se manifestar clinicamente por alterações no tamanho, massa, geometria e função do coração, em resposta a determinada agressão.<sup id="fnref:remodelamento-abc" role="doc-noteref"><a href="#fn:remodelamento-abc" class="footnote">2</a></sup> <sup id="fnref:remodeling-forum" role="doc-noteref"><a href="#fn:remodeling-forum" class="footnote">3</a></sup></p>
+
+<p>A maioria dos casos é devida à perda de massa miocárdica, cursando com dilatação e/ou hipertrofia compensatória do VE. Essa resposta compensatória envolve <strong>ativação neuro-hormonal</strong> (sistema adrenérgico, sistema renina-angiotensina-aldosterona), e é justamente a hiperatividade neuro-hormonal a responsável direta pelas alterações deletérias observadas no cardiomiócito (isto é, há cardiotoxicidade de mediadores como epinefrina, angiotensina II e aldosterona).</p>
+
+<p>Ativação neurohormonal: dois dos principais sistemas envolvidos no processo de
+remodelação são o sistema simpático e o sistema renina angiotensina-aldosterona. A ativação desses sistemas estimula vias de sinalização intracelulares com consequente aumento da síntese proteica em miócitos e fibroblastos causando hipertrofia celular e fibrose. Outros efeitos descritos são a ativação de fatores de crescimento, ativação das metaloproteinases, sobrecarga hemodinâmica por vasoconstrição e retenção hídrica, aumento do estresse oxidativo e efeito citotóxico direto, levando à morte celular por necrose ou apoptose. O bloqueio desses sistemas desempenha importante papel na prevenção ou atenuação do processo de remodelação secundário a vários estímulos.<sup id="fnref:remodelamento-abc:1" role="doc-noteref"><a href="#fn:remodelamento-abc" class="footnote">2</a></sup></p>
+
+<h3 id="conceitos">Conceitos</h3>
+
+<ul>
+  <li><strong>Diástole:</strong> fase de enchimento ventricular;</li>
+  <li><strong>Sístole:</strong> fase de ejeção;</li>
+  <li><strong>Função Sistólica:</strong> é a capacidade que o ventrículo possui de ejetar o sangue nas grandes artérias;</li>
+  <li><strong>Função Diastólica:</strong> é a capacidade que o ventrículo possui de se encher com o sangue proveniente das grandes veias, sem aumentar significativamente sua pressão intracavitária.</li>
+</ul>
+
+<blockquote>
+  <p>Atenção!! O processo da função diastólica não é passivo, e sim dependente de energia, justificando a disfunção diastólica encontrada em situações como a isquemia (onde ocorre depleção do ATP).</p>
+</blockquote>
+
+<ul>
+  <li><strong>Pré carga:</strong> pressão ou volume no final da diástole - VDF (até 12 mmHg no VE e até 5 mmHg no VD);
+    <ul>
+      <li>Depende exclusivamente do retorno venoso ao coração;</li>
+      <li>O retorno venoso, por sua vez, depende da volemia e do tônus do leito venoso (na venocontricção ele aumenta, na venodilatação ele diminui).</li>
+    </ul>
+  </li>
+  <li><strong>Pós-carga:</strong> é a força que o ventriculo deve superar para promover a contração.</li>
+</ul>
+
+<p>Um ventrículo normal contém cerca de 80-150 ml de sangue no final da diástole – <strong>Volume Diastólico Final (VDF)</strong>. Deste total, aproximadamente 40-100 ml são ejetados a cada batimento – é o <strong>Débito Sistólico (DS)</strong>. Após ejetar o sangue, o que sobra na cavidade (em torno de 30-60 ml) é o <strong>Volume Sistólico Final (VSF)</strong>.</p>
+
+<p>O fluxo total gerado pelo coração na unidade de tempo é o <strong>Débito Cardíaco (DC)</strong>, determinado pelo <em>produto do débito sistólico com a  Frequência Cardíaca (FC)</em> (DC = DS x FC). O valor normal é de 4,5-6,5 L/min.</p>
+
+<p>O <strong>Índice Cardíaco (IC)</strong> é o DC corrigido pela área de superfície corporal. O valor normal do índice cardíaco é de 2,8-4,2 L/min/m².</p>
+
+<p>A função sistólica pode ser estimada pela <strong>Fração de Ejeção (FE)</strong>, definida como o <em>percentual do volume diastólico final que é ejetado</em>, ou seja: FE = DS/VDF x 100. <strong>Normal = 50-70%</strong>.</p>
+
+<p>Em corações normais, a <strong>pressão diastólica final</strong> ou
+pressão de enchimento ventricular (ou PD2) varia na faixa de 8-12 mmHg. Como a medida das pressões de enchimento exige métodos invasivos, na prática ambulatorial podemos aferir a função
+diastólica de forma indireta pelo ecocardiograma-Doppler, ao medir a velocidade de fluxo através da valva mitral.</p>
+
+<h3 id="icc">ICC</h3>
+
+<p>A principal consequência clínica da insuficiência cardíaca é o fenômeno da congestão venocapilar. Como o coração não bombeia
+o sangue adequadamente, uma parte fica estagnada na circulação venosa (incluindo a rede capilar). O consequente aumento na pressão venocapilar provoca extravasamento de líquido para o interstício, determinando seu acúmulo (<strong>edema ou “congestão”</strong>).</p>
+
+<h3 id="ic-esquerda">IC esquerda</h3>
+
+<p>A maioria dos casos e cursam com congestão pulmonar. As principais etiologias são: IAM, cardiopatia hipertensiva (por “sobrecarga” ventricular), miocardiopatia idiopática, doença valvar (ex: estenose mitral com aumento da pressão no AE, sem alterações na pressão do VE).</p>
+
+<ul>
+  <li>Dispneia,</li>
+  <li>Ortopneia,</li>
+  <li>Dispneia paroxística noturna</li>
+</ul>
+
+<h3 id="ic-direita">IC direita</h3>
+
+<p>Cursa com congestão sistêmica. São exemplos: cor pulmonale (relacionado à DPOC, obesidade mórbida, pneumopatias, TEP ou HAP primária), infarto do VD e miocardiopatias.</p>
+
+<ul>
+  <li>Turgência jugular patológica,</li>
+  <li>Hepatomegalia,</li>
+  <li>Ascite,</li>
+  <li>Edema de MMII.</li>
+</ul>
+
+<h3 id="ic-biventricular">IC biventricular</h3>
+
+<p>Há tanto disfunção “esquerda” quanto “direita”. Cursa com congestão pulmonar e sistêmica. A maioria das cardiopatias que levam à insuficiência cardíaca inicia-se como IVE e posteriormente
+evolui com comprometimento do VD. Por isso <strong>se diz que a causa mais comum de IVD é a própria IVE.</strong></p>
+
+<h3 id="ic-sistólica">IC sistólica</h3>
+
+<p>Constitui 50-60% dos casos. O problema está na <strong>perda da capacidade contrátil do miocárdio</strong>. Na maioria das vezes, a disfunção sistólica provoca <strong>dilatação ventricular</strong> (cardiopatia dilatada) e tem como marco laboratorial uma <strong>redução significativa da fração de ejeção (≤ 50%)</strong>. Existem duas
+consequências principais:</p>
+
+<ol>
+  <li>Baixo débito cardíaco;</li>
+  <li>Aumento do volume de enchimento (VDF) e, portanto, da pressão de enchimento ventricular, a qual será transmitida aos átrios e sistema venocapilar (congestão).</li>
+</ol>
+
+<p>O IAM, a isquemia miocárdica, a fase dilatada da cardiopatia hipertensiva e a miocardiomiopatia dilatada idiopática são exemplos comuns.</p>
+
+<h3 id="ic-diastólica">IC diastólica</h3>
+
+<p>Constitui 40-50% dos casos. A <strong>contração miocárdica está normal (com FE &gt; 50%)</strong>, mas existe restrição patológica ao enchimento diastólico, causando elevação nas pressões de enchimento e, consequentemente, aumento da pressão venocapilar (congestão).</p>
+
+<p>O mecanismo pode ser uma alteração no relaxamento muscular e/ou uma redução na complacência ventricular (“ventrículo duro” por excesso de tecido conjuntivo). Na maioria das vezes existe <strong>hipertrofia muscular concêntrica</strong>, com redução da cavidade. A fase hipertrófica da cardiopatia hipertensiva e a cardiomiopatia hipertrófica são os principais exemplos.</p>
+
+<p><img src="/assets/cardiologia/CVS_heart_failure_pt.gif" alt="IC" /></p>
+
+<h3 id="quanto-ao-dc">Quanto ao DC</h3>
+
+<h4 id="insuficiência-cardíaca-de-baixo-débito">Insuficiência Cardíaca de Baixo Débito</h4>
+
+<p>Constitui a maioria dos casos. A disfunção sistólica do VE reduz o Débito Cardíaco (DC), causando hipoperfusão tecidual. Nas fases iniciais o DC pode se manter normal no estado de repouso, mas durante esforço físico
+o aumento fisiológico do DC não acontece. Na fase avançada, por sua vez, o DC estará reduzido mesmo em repouso</p>
+
+<p>Já na IC diastólica também se observa uma limitação do
+DC, especialmente durante a atividade física.</p>
+
+<h4 id="insuficiência-cardíaca-de-alto-débito">Insuficiência Cardíaca de Alto Débito</h4>
+
+<p>Ocorre nas condições que exigem um maior trabalho cardíaco, seja para atender a demanda metabólica (tireotoxicose, anemia grave) ou pelo desvio de sangue do leito arterial para o venoso, através de fístulas arteriovenosas (beribéri, sepse, cirrose, doença de Paget óssea, hemangiomas). Em todos esses casos, apesar do débito cardíaco estar alto, ele está abaixo do desejado em face da alta requisição da função cardíaca.</p>
+
+<h3 id="mecanismos-compensatórios">Mecanismos compensatórios</h3>
+
+<p><strong>Lei de Frank-Starling:</strong> quanto maior for o Volume Diastólico Final (VDF ou <em>pré-carga</em>), maior será o débito sistólico e a fração de ejeção!</p>
+
+<blockquote>
+  <p>Um maior volume diastólico distende mais os sarcômeros, permitindo aos filamentos de actina e miosina um maior potencial para interação bioquímica e gasto energético. Por esse motivo, o <strong>ventrículo dilata, aumentando o VDF e, com isso, evitando a queda do DC</strong>.</p>
+</blockquote>
+
+<p>Contudo, um aumento excessivo do VDF acabará dificultando a performance ventricular, com desestruturação da mecânica das fibras, levando ao aumento das pressões de enchimento e à redução do débito sistólico. A tendência é a evolução para a ICC.</p>
+
+<p><strong>Contratilidade dos Miócitos Remanescentes:</strong> os miócitos restantes são ativados pelo sistema nervoso simpático (adrenérgico) e “sobrecarregados” para manter o débito cardíaco.</p>
+
+<p><strong>Hipertrofia Ventricular Esquerda:</strong> o principal mecanismo compensatório inicial nos casos de sobrecarga de pressão ou volume ventriculares. Além de aumentar o número de sarcômeros e, portanto, a capacidade contrátil total, também reduz a tensão ou estresse da parede ventricular, melhorando a performance cardíaca.</p>
+
+<blockquote>
+  <p>Quando o processo inicial é a perda de miócitos, a hipertrofia compensatória pode ocorrer nos miócitos remanescentes.</p>
+</blockquote>
+
+<ul>
+  <li>Na <strong>sobrecarga de pressão</strong> (hipertensão arterial, estenose aórtica), ocorre uma <strong>hipertrofia concêntrica</strong>, isto é, aumento da espessura da parede ventricular, sem aumentar a cavidade.</li>
+  <li>Na <strong>sobrecarga de volume</strong> (regurgitações valvares), ocorre <strong>hipertrofia excêntrica</strong>, isto é, aumento da cavidade predominando sobre o aumento da espessura da parede ventricular.</li>
+</ul>
+
+<p>A angiotensina II é um dos principais agentes indutores de hipertrofia ventricular na insuficiência cardíaca! Embora seja um mecanismo compensatório, a HVE traz sérios problemas: arritmogênese, piora da função diastólica, além de ser um fator de risco independente para eventos cardiovasculares.</p>
+
+<p><strong>Aumento da Frequência Cardíaca:</strong> o que não pode ser compensado pelo aumento do débito sistólico em si pode ser alcançado pelo aumento da frequência cardíaca, mantendo, assim, o DC estável. O sistema adrenérgico se encarrega de aumentar o cronotropismo, agindo sobre os <em>receptores beta-1 no nódulo sinusal</em>.</p>
+
+<p><img src="/assets/cardiologia/resposta-ic.jpeg" alt="IC" /></p>
+
+<h3 id="remodelamento-cardíaco-1">Remodelamento cardíaco</h3>
+
+<p>Os mesmos mediadores neuro-humorais que inicialmente mantêm o
+paciente compensado (sistema adrenérgico, sistema renina-angiotensina-aldosterona - SRAA) passam a exercer efeito deletério sobre a própria função miocárdica. A parede ventricular
+será alongada, e sua espessura será reduzida. A forma elipsoide da cavidade é substituída por um formato esférico, prejudicando a funçao verntrícular.</p>
+
+<ol>
+  <li>A queda no DC é percebida pelos barorreceptores periféricos que estimulam um aumento no tônus adrenérgico;
+    <ul>
+      <li>A noradrenalina, além de seus efeitos cardiotrópicos, estimula diretamente a liberação renal de renina;</li>
+    </ul>
+  </li>
+  <li>A hipoperfusão renal ativa o SRAA devido à diminuição do sódio filtrado que alcança a mácula densa e à hipodistensão da arteríola aferente glomerular;</li>
+  <li>A angiotensina e a aldosterona, também possuem o efeito de estimular a produção (ou inibir a recaptação) de noradrenalina.</li>
+</ol>
+
+<p><strong>Noradrenalina:</strong> age sobre receptores beta-1 e beta-2 e desencadeia a injúria do miócito (efeito “miocardiotóxico” das catecolaminas). O miócito se torna alongado e hipofuncionante,
+podendo evoluir com apoptose. Como uma espécie de “defesa”, o número de receptores beta-adrenérgicos é reduzido na IC cardíaca avançada (downregulation).</p>
+
+<p><strong>Angiotensina II:</strong> age sobre os receptores AT1, promove os seguintes efeitos danosos: apoptose do miócito, proliferação de fibroblastos, liberação local de noradrenalina e da própria
+angiotensina. A ação pelos receptores AT2 ainda é desconhecida.</p>
+
+<p><strong>Aldosterona:</strong> agindo sobre receptores citoplasmáticos leva à hiperproliferação de fibroblastos.</p>
+
+<h3 id="pós-carga">Pós-carga</h3>
+
+<p>É a “dificuldade” imposta ao esvaziamento ventricular. Se expressa na tensão da parede miocárdica durante a sístole. O aumento da pós-carga reduz o débito sistólico, e eleva o consumo miocárdico de oxigênio. Ou seja, tudo que dificulta a ejeção ventricular faz
+parte da pós-carga.</p>
+
+<p>O principal fator é o tônus arteriolar periférico. A vasoconstrição arteriolar aumenta a pós-carga, enquanto a vasodilatação
+a reduz.</p>
+
+<p>O aumento na impedância aórtica (por calcificação) e a estenose da valva aórtica são outros possíveis mecanismos de aumento da pós-carga. Finalmente, o fator relacionado à própria geometria ventricular tem um papel de extrema importância, através da lei de Laplace.</p>
+
+<p><strong>Lei de Laplace:</strong> a tensão na parede ventricular (T) é diretamente proporcional ao raio cavitário (R) e à pressão intracavitária (P), sendo inversamente proporcional à espessura da parede (M). Está representada da seguinte forma: T = P x R/M.</p>
+
+<blockquote>
+  <p>Ou seja: um ventrículo que apresenta diâmetro cavitário muito grande e parede fina precisa fazer um esforço muito maior para ejetar o sangue do que um ventrículo de cavidade menor e maior espessura de parede! Se precisa fazer um esforço maior, é porque sua pós-carga é maior.</p>
+</blockquote>
+
+<p>Na fase sintomática da insuficiência cardíaca
+o ventrículo trabalha com uma pós-carga elevada, devido a três fatores: (1) vasoconstrição arteriolar periférica; (2) retenção hídrica, levando ao aumento do volume diastólico ventricular; (3) remodelamento cardíaco – maior relação R/h. A redução medicamentosa da pós-carga exerce efeito benéfico sobre a performance cardíaca!</p>
+
+<h2 id="etiologia">Etiologia</h2>
+
+<h3 id="sistólica">Sistólica</h3>
+
+<p>Cardiopatia dilatada: HAS, doença isquêmica, cardiomiopatia (dilatada idiopática, alcoólica e chagásica), valvopatias.</p>
+
+<p>As três valvopatias que levam à sobrecarga ventricular esquerda são: estenose aórtica, insuficiência aórtica e insuficiência mitral.</p>
+
+<p>A estenose mitral não sobrecarrega o VE (pelo contrário, costuma poupá-lo). Mas é uma causa muito importante de HAP secundária
+e que pode evoluir futuramente para Insuficiência Ventricular Direita (IVD).</p>
+
+<ol>
+  <li>Hipertensão arterial – cardiopatia hipertensiva.</li>
+  <li>Doença coronariana – infarto (fibrose) ou isquemia (“miocárdio hibernante”).</li>
+  <li>Valvopatias.</li>
+  <li>Cardiomiopatia dilatada idiopática.</li>
+  <li>Cardiomiopatia alcoólica.</li>
+  <li>Doença de Chagas (nas áreas endêmicas).</li>
+</ol>
+
+<h3 id="diastólica">Diastólica</h3>
+
+<p>A HAS e a fibrose (sequela de IAM) aparecem como causas importantes. O próprio envelhecimento é considerado uma causa de IC diastólica. Também existe uma miocardiopatia primária que deve ser lembrada: a miocardiopatia hipertrófica. Outras causas incluem:
+desordens infiltrativas (sarcoidose, amiloidose) e a hemocromatose, que perfazem o grupo das cardiopatias “restritivas”.</p>
+
+<ul>
+  <li>Cardiopatia hipertensiva – fase hipertrófica (principal!).</li>
+  <li>Fibrose isquêmica.</li>
+  <li>Cardiomiopatia hipertrófica hereditária.</li>
+  <li>Cardiomiopatias restritivas.</li>
+  <li>Desordens do endomiocárdio.</li>
+</ul>
+
+<h3 id="ic-aguda">IC Aguda</h3>
+
+<ol>
+  <li>Infarto agudo do miocárdio – principal!!</li>
+  <li>Miocardite aguda (viral, reumática, etc.).</li>
+  <li>Endocardite infecciosa.</li>
+  <li>Rotura de cordoália.</li>
+</ol>
+
+<p><img src="/assets/cardiologia/etiologia-ic.jpeg" alt="IC" /></p>
+
+<h2 id="quadro-clínico">Quadro clínico</h2>
+
+<p>No início os pacientes ficam assintomáticos por vários anos justamente por causa dos mecanismos de compensação que mantêm o DC.</p>
+
+<p><strong>Síndrome Congestiva Pulmonar:</strong> na maioria das vezes a IC começa com o comprometimento do VE. O que gera uma congestão pulmonar com  acúmulo de líquido intersticial e intra-alveolar. Inicialmente surge a dispnéia aos esforços.</p>
+
+<ul>
+  <li><strong>Dispnéia</strong>;</li>
+  <li><strong>Ortopneia</strong> (redistribuição de líquido da circulação esplâncnica e dos MMII para a circulação central);</li>
+  <li><strong>Dispneia paroxística noturna:</strong> acordar no meio da noite por uma crise de franca dispneia, que melhora após alguns minutos em ortostatismo;</li>
+  <li><strong>Tosse seca:</strong> mais noturna, por congestão da mucosa brônquica;</li>
+  <li><strong>Asma cardíaca:</strong> a congestão brônquica mais acentuada pode levar a um quadro semelhante ao broncoespasmo;</li>
+</ul>
+
+<p><strong>Edema Agudo de Pulmão:</strong> o extremo da congestão pulmonar. O paciente apresenta intensa crise de taquidispneia e ortopneia, associada à insuficiência respiratória, às vezes com cianose central (hipoxemia grave). Por vezes o paciente <strong>expectora um líquido róseo</strong>, proveniente do edema alveolar abundante. O exame físico revela estertoração pulmonar audível acima da metade inferior dos hemitórax. Pode haver sibilos difusos (“asma cardíaca”). Se não tratado, o quadro leva a óbito.</p>
+
+<blockquote>
+  <p>O EAP costuma ocorrer quando a pressão capilar pulmonar ultrapassa 25 mmHg (normal = até 12 mmHg). A radiografia de tórax mostra dilatação vascular nos ápices e infiltrado bilateral em “asa de borboleta” ou “de morcego”.</p>
+</blockquote>
+
+<p><img src="/assets/cardiologia/eap.jpeg" alt="IC" /></p>
+
+<p><strong>Síndrome Congestiva Sistêmica:</strong> com o avançar da disfunção de VE, há surgimento progressivo de hipertensão arterial pulmonar secundária. Com o tempo, o VD sobrecarregado acaba entrando em falência, instalando-se o quadro da insuficiência biventricular.</p>
+
+<p>Ou, a própria doença primária já pode começar a acometer diretamente o VD.</p>
+
+<ul>
+  <li>Edema de MMII,</li>
+  <li>Edema de bolsa escrotal,</li>
+  <li>Aumento do volume abdominal (ascite),</li>
+  <li>Dispneia por derrame pleural,</li>
+  <li>Dor abdominal em hipocôndrio direito devido à hepatomegalia congestiva.</li>
+  <li>Congestão da mucosa intestinal: pode levar à saciedade precoce, dor abdominal difusa, náuseas, diarreia e, em raros casos, enteropatia perdedora de proteína.</li>
+  <li>Fadiga e fraqueza</li>
+</ul>
+
+<p><strong>Síndrome de Baixo Débito:</strong> é mais comum e mais acentuada na IC sistólica. Aparece inicialmente aos esforços, devido à incapacidade do coração em aumentar o débito durante o esforço ou qualquer situação de estresse. A maioria dos sintomas é secundária à inadequada perfusão muscular durante o esforço físico e se confundem com os de uma síndrome “geral”:</p>
+
+<ul>
+  <li>Fadiga muscular,</li>
+  <li>Indisposição, mialgia, cansaço,</li>
+  <li>Lipotímia.</li>
+</ul>
+
+<p><strong>Emagrecimento e “Caquexia Cardíaca”:</strong> o paciente com IC tende a perder massa muscular, pois há um desbalanço entre o DC e
+a demanda metabólica da musculatura esquelética. Além do mais, pode haver redução na absorção intestinal de nutrientes (congestão mucosa).</p>
+
+<p><strong>Choque Cardiogênico:</strong> é o extremo da insuficiência cardíaca, manifestação comum nas formas agudas graves (ex.: IAM anterior extenso) ou como fenômeno terminal da forma crônica de ICC. É definido clinicamente pelo estado de choque (hipoperfusão orgânica generalizada), associado à hipotensão grave (PA sistólica &lt; 80
+mmHg) que não responde à reposição volêmica.</p>
+
+<p>Uma hipertensão pulmonar pode acometer apenas o VD e gerar uma <em>cor pulmonale</em>.</p>
+
+<h2 id="exame-físico">Exame físico</h2>
+
+<p>Pesquisar sinais de aumento da pressão venosa jugular (o sinal mais fidedigno para detectar a presença de retenção de volume é a turgência de jugular). Avaliar presença de B3 na ausculta cardíaca.</p>
+
+<p><strong>Anasarca:</strong> nas fases avançadas, com IC biventricular, o paciente apresenta edema generalizado, com predomínio nas regiões dependentes
+de gravidade – membros inferiores, bolsa escrotal.</p>
+
+<p>O edema crônico dos MMII leva a alterações de pele e fâneros, como hiperpigmentação, perda de pelos e ictiose. Não é comum o edema peripalpebral (como no edema nefrogênico). Todas as serosas podem
+estar comprometidas: ascite, derrame pleural e derrame pericárdico.</p>
+
+<p><strong>Hepatopatia Congestiva</strong>: a hepatomegalia congestiva é muito comum, frequentemente <strong>dolorosa, pela distensão aguda da cápsula hepática</strong>. Casos muito agudos descompensados de IVD, porém, podem levar à congestão hepática grave, manifestando-se como uma hepatite aguda:</p>
+
+<ul>
+  <li>Icterícia;</li>
+  <li>Hiperbilirrubinemia;</li>
+  <li>Aumento das transaminases;</li>
+  <li>Insuficiência hepática.</li>
+</ul>
+
+<h3 id="pulso-arterial">Pulso Arterial</h3>
+
+<p>No início do processo o pulso arterial é normal. Em fases avançadas pode ser de baixa amplitude, devido ao baixo DC.</p>
+
+<ul>
+  <li><strong>Pulso alternans:</strong> alternância de um pulso forte com um pulso fraco. É um sinal de débito sistólico extremamente baixo que reflete péssimo prognóstico!
+    <ul>
+      <li>Após uma contração eficaz o miocárdio doente demora para se recuperar, logo, o próximo batimento será fraco.</li>
+    </ul>
+  </li>
+  <li><strong>Pulso total alternans:</strong> quando o fenômeno é extremo. Só percebemos o pulso mais forte, o que reduz falsamente a FC para a metade, quando contada no pulso arterial.</li>
+</ul>
+
+<h3 id="pulso-venoso-e-turgência-jugular">Pulso Venoso e Turgência Jugular</h3>
+
+<p>Um dado fundamental. <em>A turgência jugular patológica a 45° (TJP) é um sinal fidedigno e precoce de IVD</em>. O pulso venoso pode apresentar alterações em seu aspecto: aumento da onda A, devido às elevadas pressões de enchimento no VD, ou a presença da onda V gigante, consequente à insuficiência tricúspide secundária à dilatação do VD. Uma manobra muito importante no diagnóstico da congestão sistêmica é a pesquisa do <strong>refluxo hepatojugular</strong>, muitas vezes presente antes mesmo da TJP. Nessa manobra faz-se pressão sobre o QSD do abdome observando se haverá aumento na altura do pulso jugular &gt; 1 cm. Se houver, diz-se que o refluxo hepatojugular está presente.</p>
+
+<p>Avaliar também se há cianoe e o enchimento capilar.</p>
+
+<h3 id="precórdio">Precórdio</h3>
+
+<p>O exame do precórdio depende do tipo de cardiopatia, se dilatada, hipertrófica ou restritiva.</p>
+
+<ul>
+  <li><strong>Cardiopatia dilatada:</strong> o ictus de VE costuma ser difuso (mais de duas polpas digitais) e fraco e, algumas vezes, desviado para a esquerda (lateral à linha hemiclavicular) e para baixo (inferior ao 5º EIC).
+    <ul>
+      <li>O ictus de VD pode ser palpável e proeminente.</li>
+      <li>A relação entre os ictus de VE e VD depende de qual ventrículo está mais acometido.</li>
+      <li>Um batimento protodiastólico e/ou um pré-sistólico podem ser palpáveis e até visíveis no ápex (corresponde à B3 e B4, respectivamente).</li>
+    </ul>
+  </li>
+  <li><strong>Cardiopatia hipertrófica:</strong> o ictus de VE costuma estar localizado em posição normal, porém é “sustentado” (pico sistólico “forte” e duradouro).</li>
+  <li><strong>Cardiopatia restritiva:</strong> o ictus de VE geralmente não se altera.</li>
+</ul>
+
+<h3 id="ausculta">Ausculta</h3>
+
+<ul>
+  <li>B1 pode ser hipofonética (hipocontratilidade do VE),</li>
+  <li>B2 pode ser hiperfonética (hipertensão arterial pulmonar);</li>
+  <li>B3 audível pela desaceleração do fluxo de sangue no final da fase de enchimento rápido da diástole;</li>
+  <li>B4 é mais comum na doença isquêmica e na cardiopatia hipertensiva;</li>
+  <li>Sopro sistólico pode ser audível no foco mitral, irradiando-se para a axila, causado por <em>insuficiência mitral</em> secundária à dilatação do VE.
+    <ul>
+      <li>dilatação do VD também pode causar insuficiência tricúspide secundária – o sopro sistólico é mais audível no foco tricúspide e aumenta à inspiração profunda (manobra de Rivero-Carvalho).</li>
+    </ul>
+  </li>
+  <li>Estertores pulmonares nos terços inferiores dos hemitórax, predominando geralmente à direita, devido à congestão e edema pulmonar;</li>
+  <li>Sibilos podem ser encontrados na “asma cardíaca”;</li>
+  <li>Derrame pleural (geralmente do lado direito) é frequente na IVE e na IC biventricular, pois a drenagem pleural é dependente do sistema venoso pulmonar e sistêmico.</li>
+</ul>
+
+<p><strong>Respiração de Cheynes-Stokes:</strong> períodos de apneia alternando-se com períodos de hiperpneia.</p>
+
+<h2 id="diagnóstico">Diagnóstico</h2>
+
+<p><img src="/assets/cardiologia/framingam.jpeg" alt="IC" /></p>
+
+<h2 id="classificação">Classificação</h2>
+
+<h3 id="perfil-hemodinâmico">Perfil hemodinâmico</h3>
+
+<p><img src="/assets/cardiologia/ic-hemod.png" alt="IC" /></p>
+
+<p>Essa classificação é muito importante no atendimento nas unidades de emergência. No perfil C é importante se atentar ao choque cardiogênico.</p>
+
+<h3 id="classe-funcional">Classe funcional</h3>
+
+<p>Segundo a New York Heart Association (NYHA), classifica o grau de comprometimento das atividades diárias do paciente.</p>
+
+<p><img src="/assets/cardiologia/NYHA-Classification.jpg" alt="IC" /></p>
+
+<p>A sobrevida média em cinco anos do grupo placebo (sem tratamento) pode ser estimada com base nessa cassificação:</p>
+
+<ul>
+  <li>Classe I – 85%;</li>
+  <li>Classe II – 75%;</li>
+  <li>Classe III –50%;</li>
+  <li>Classe IV – 50% em 1 ano.</li>
+</ul>
+
+<p>Já em tratamento, a mortalidade anual é:</p>
+
+<ul>
+  <li>Classes I e II: 2-5%;</li>
+  <li>Classe II e e III: 5-15%;</li>
+  <li>Classe III e IV: 15-25%;</li>
+  <li>Classe IV refratária: maior que 25%.</li>
+</ul>
+
+<h3 id="classificação-evolutiva">Classificação evolutiva</h3>
+
+<p>Proposta pela AHA/ACC de acordo com alterações estruturais.</p>
+
+<p><img src="/assets/cardiologia/classif-icc.jpeg" alt="IC" /></p>
+
+<h3 id="fração-de-ejeção">Fração de ejeção</h3>
+
+<ul>
+  <li><strong>FE &lt; 35%:</strong> Disfunção sistólica grave, sobrevida média em 5 anos de 15-35%, na classe funcional III ou IV, ou em torno de 60%, na classe funcional I ou II.</li>
+  <li><strong>FE &gt; 35%:</strong> sobrevida em 5 anos de 70%, se em classe funcional III ou IV, e em torno de 80%, se em classe funcional I ou II.</li>
+</ul>
+
+<h3 id="disfunção-diastólica-associada">Disfunção Diastólica Associada</h3>
+
+<p>Na insuficiência cardíaca sistólica, geralmente há disfunção diastólica associada, que pode ser estimada pelo ecocardiograma. A presença de disfunção diastólica grave (padrão restritivo) relaciona-se com maior morbimortalidade!</p>
+
+<h3 id="marcadores-neuro-humorais">Marcadores Neuro-Humorais</h3>
+
+<p>Quanto mais grave for a insuficiência cardíaca,
+menor o débito cardíaco e menor o fluxo arterial orgânico. A resposta neuro-humoral será, portanto, mais proeminente.</p>
+
+<p>A mortalidade é proporcional aos níveis séricos de <strong>noradrenalina</strong>, <strong>ADH</strong>, <strong>endotelina-1</strong> e <strong>BNP</strong>.</p>
+
+<p><img src="/assets/cardiologia/New-York-Heart-Association-NYHA-Heart-Failure-Symptom-Classification-System.png" alt="IC" /></p>
+
+<h3 id="risco-de-mortalidade-intra-hospitalar">Risco de mortalidade intra-hospitalar</h3>
+
+<p>É o escore ADHERE.</p>
+
+<h2 id="exames-complementares">Exames complementares</h2>
+
+<p>Vão ajudar na confirmação do diagnóstico, na busca pela etiologia, na avaliação prognóstica e na avaliação funcional.</p>
+
+<h3 id="laboratório">Laboratório</h3>
+
+<ul>
+  <li>O BNP e/ou NT-proBNP pode ajudar a diferenciar dispnéia de origem cardíaca (valores aumentados) de pulmonar (valores normais).</li>
+</ul>
+
+<p><strong>BNP:</strong> o peptídeo natriurético cerebral é produzido pelo miocárdio dos ventrículos, sempre em resposta ao estiramento miocárdico. Sua liberação está ligada ao aumento das pressões de enchimento ventricular. Um valor &gt; 100 pg/ml foi diagnóstico de insuficiência cardíaca, com sensibilidade, especificidade e acurácia de 90%, 76% e 83%, respectivamente. Ou seja, é útil para diferenciar se a dispńeia é ou não de origem cardíaca.</p>
+
+<p><strong>NT-proBNP:</strong> N-terminal pró-BNP, é uma forma mais sensível de BNP.</p>
+
+<p>Anemia, hiponatremia e azotemia são importantes preditores prognósticos na ICC. A anemia, em
+particular, pode ser causa, agravante ou con-
+sequência da ICC! Alterações da função renal costumam ser multifatoriais: etiologias em comum
+(diabetes, HAS etc.), débito cardíaco reduzido
+pela cardiopatia e/ou paraefeito dos diuréticos.</p>
+
+<h3 id="ecocardiograma">Ecocardiograma</h3>
+
+<p>O método mais útil para a confirmação diagnóstica, avaliação da etiologia, do perfil hemodinâmico e do
+prognóstico.</p>
+
+<p>É capaz de dividir a IC em sistólica e diastólica e medir a fração de ejeção. <strong>FE &lt; 50% indica disfunção sistólica</strong>.</p>
+
+<p>Também permite estimar os volumes da câmaras e espessura das paredes, além do diâmetro das valvas.</p>
+
+<p>O método é operador dependente e também depende de uma boa “janela” de visualização.</p>
+
+<p><strong>Fração de ejeção:</strong> é o percentual de sangue que o ventrículo ejeta para a aorta na sístole. Assim, Se no final da diástole o ventrículo tem 100 mL de sangue e no final da sístole tem 40 mL, subentende-se que 60mL de sangue foram ejetados para a aorta. 60mL de 100 mL – 60% de fração de ejeção.</p>
+
+<ul>
+  <li>IC com FE preservada (&gt; 50%)</li>
+  <li>FE intermediária (40 a 49%)</li>
+  <li>FE reduzida (&lt; 40%)</li>
+</ul>
+
+<h3 id="radiografia-de-tórax">Radiografia de tórax</h3>
+
+<p><strong>Cardiomegalia:</strong> (índice cardiotorácico &gt; 50%) é um achado comum na cardiopatia dilatada, sendo critério MAJOR de Framingham. Um RX normal não é capaz de descartar miocardiopatia dilatada.</p>
+
+<ul>
+  <li><strong>Sinais de VE aumentado:</strong>
+    <ul>
+      <li>Na incidência PA, quando o coração “mergulha” no diafragma;</li>
+      <li>Incidência em perfil, distanciamento da borda cardíaca posterior do ponto de entrada da veia cava inferior (&gt; 2 cm);</li>
+      <li>O crescimento de VE roda o arco aórtico e pode escondê-lo da radiografia.</li>
+    </ul>
+  </li>
+  <li><strong>Sinais de VD aumentado:</strong>
+    <ul>
+      <li>Quando a ponta do coração se eleva (aspecto “em bota”);</li>
+      <li>Em perfil, aumento da borda anterior cardíaca, ocupando &gt; 1/3 do espaço retroesternal.</li>
+    </ul>
+  </li>
+  <li>Aumento dos átrios também pode ser visto;</li>
+  <li><strong>Sinais de congestão pulmonar:</strong>
+    <ul>
+      <li>Inversão do padrão vascular, isto é, as veias ficam mais proeminentes nos ápices pulmonares do que nos lobos inferiores (pois o edema intersticial, maior nos lobos inferiores, as comprime);</li>
+      <li><strong>Linhas B de Kerley</strong> (ingurgitamento linfático), linhas paralelas ao diafragma, visualizadas nas regiões laterais dos hemitórax inferiores, na incidência PA.</li>
+      <li>Infiltrados intersticiais bi ou unilaterais (em geral peri-hilares), devido ao edema intersticial, ou até infiltrado alveolar (no EAP);</li>
+      <li>Derrame pleural e “tumor fantasma”: o derrame geralmente é bilateral, predominando à direita (pior drenagem linfática).</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="eletrocardiograma">Eletrocardiograma</h3>
+
+<p>As alterações são inespecíficas e dependem da doença subjacente (ex.: coronariopatia, HAS). Um ECG normal possui valor preditivo negativo &gt; 90% para excluir disfunção sistólica, o que torna o diagnóstico de IC improvável!</p>
+
+<p>Qualquer cardiopatia pode alterar o ECG, produzindo sinais de sobrecarga de VE, VD, átrios, alterações secundárias da repolarização (ondas T negativas, desnivelamento do ST), bloqueios de ramo de graus variáveis, hemibloqueios e arritmias cardíacas (bradi ou taquiarritmias). O BRE de 3º grau é quase sempre um sinal ominoso.</p>
+
+<h3 id="ressonância-magnética-cardíaca">Ressonância magnética cardíaca</h3>
+
+<p>Possui excelente acurácia e reprodutibilidade na quantificação dos volumes, massa e função, tanto do
+VE como do VD. A viabilidade miocárdica
+também pode ser estimada pela técnica de realce tardio (a ocorrência de hipercaptação em
+áreas discinéticas indica perda da viabilidade).</p>
+
+<h3 id="holter">Holter</h3>
+
+<p>Pode ser utilizado para documentação
+de arritmias ventriculares em pacientes com
+queixas de palpitação, lipotímia ou síncope.</p>
+
+<h2 id="tratamento">Tratamento</h2>
+
+<h3 id="hábitos-de-vida">Hábitos de vida</h3>
+
+<ul>
+  <li><strong>Dieta:</strong> ingestão de 2 a 3 g de sódio por dia;
+    <ul>
+      <li>No entanto, consumos muito baixos de sal, principalmente no paciente que está tomando diuréticos, podem baixar em excesso a volemia, precipitando sintomas de baixo débito cardíaco.</li>
+    </ul>
+  </li>
+  <li><strong>Restrição líquida</strong> (1-1,5 L por dia): apenas nos pacientes com hiponatremia (&lt; 130 mEq/L) ou com retenção de líquido não responsiva ao uso de diuréticos e restrição da ingesta de sal;</li>
+  <li><strong>Suplementos calóricos:</strong> para os pacientes com caquexia cardíaca e nos casos de IC avançada;</li>
+  <li><strong>Repouso:</strong> o paciente muito sintomático (classe funcional III ou IV) ou descompensado da IC deve ficar de repouso o máximo possível;</li>
+  <li><strong>Atividade física:</strong> pacientes com IC compensada</li>
+  <li>Reabilitação cardiovascular multiprofissional.</li>
+  <li>Interromper o <strong>tabagismo</strong></li>
+  <li>Realizar as <strong>vacinações</strong>, principalmente a anti-influenza e anti-pneumocócica.</li>
+  <li>Evitar AINES: aumentam a retenção hidrossalina  e elevam a PA;
+    <ul>
+      <li>Hipoglicemiantes como o <em>tiazolidinedionas</em> também estão relacionados à descompensação da IC.</li>
+    </ul>
+  </li>
+  <li>Profilaxia para trombose venosa quando fizer grandes viagens.
+    <ul>
+      <li>Meia elástica de média compressão, independente da classe funcional;</li>
+      <li>Avaliar o uso de heparina subcutânea.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="tratamento-medicamentoso-da-ic-sistólica">Tratamento medicamentoso da IC sistólica</h3>
+
+<p>O tratamento visa justamente o bloqueio da ativação neuro-hormonal. As classes de drogras que aumentam a sobrevida de portadores de IC com FE reduzida são:</p>
+
+<ul>
+  <li>Inibidores da enzima conversora de angiotensinogênio (IECA);</li>
+  <li>Betabloqueadores (BB);</li>
+  <li>Antagonistas do receptor AT1 de angiotensina II (BRA);</li>
+  <li>Hidralazina + nitrato;</li>
+  <li>Antagonistas da aldosterona.</li>
+</ul>
+
+<p><img src="/assets/cardiologia/tto-nyha.jpeg" alt="IC" /></p>
+
+<h4 id="ieca">IECA</h4>
+
+<p>Além do efeito sobre a mortalidade, essas drogas reduziram a progressão da cardiopatia e da disfunção ventricular. Além disso, quando usados em pacientes oligo/assintomáticos (Classe NYHA I) com disfunção moderada ou grave (FE &lt; 40%),
+reduzem a progressão da doença.</p>
+
+<blockquote>
+  <p>Hoje assume-se que o benefício é inerente à classe e não a uma droga específica.</p>
+</blockquote>
+
+<p>Estão indicadas em todos os casos de IC sistólica, assintomáticos ou sintomáticos (salvo contraindicações).</p>
+
+<p>Em geral o tratamento é iniciado com doses reduzidas (ex.: captopril 6,25 mg 2x/dia), com aumento a cada duas semanas, observando-se os níveis séricos de K+ e creatinina. Devem ser suspensos se houver aumento da creatinina sérica superior a 30-35% em relação ao basal e/ou franca hipercalemia (K+ &gt; 5,5 mEq/l).</p>
+
+<p>Exemplos de doses “otimizadas” de IECA na IC sistólica são:</p>
+
+<ul>
+  <li><strong>Captopril</strong> 50 mg 3x/dia;</li>
+  <li><strong>Enalapril</strong> 10 mg 2x/dia;</li>
+  <li><strong>Ramipril</strong> 10 mg/dia;</li>
+  <li><strong>Lisinopril</strong> 20 mg/dia.</li>
+</ul>
+
+<blockquote>
+  <p>ao inibirem a formação da angiotensina II, promovem <strong>arteriolodilatação</strong> (reduzindo a pós-carga), <strong>venodilatação</strong> (reduzindo a pré-carga) e <strong>redução dos efeitos diretos da angiotensina II sobre o miocárdio</strong>. Também aumentam os níveis de <strong>bradicinina</strong>, uma substância vasodilatadora endógena. Ocorre ainda um acúmulo de prostaglandinas, além de uma maior produção de <strong>óxido nítrico</strong> (vasodilatador endógeno).</p>
+</blockquote>
+
+<p>Devido a todos esses efeitos, os IECAs são melhores que os BRAs.</p>
+
+<p>Seu principal efeito colateral é a <strong>tosse seca</strong> (em 5% dos casos) justamente pela ação da <strong>bradicinina</strong>. Também deve-se tomar cuidado com a hipercalemia, principalmente quando associa-se um diurético poupador de potássio.</p>
+
+<blockquote>
+  <p>Ao longo do tempo, alguns usuários de IECA apresentam o chamado escape neuro-hormonal da angiotensina II, condição em que os níveis de angiotensina II retornam aos valores pré-tratamento com IECA. Tal fenômeno provavelmente é secundário a um aumento na síntese do hormônio por sistemas independentes da ECA. Mas viu-se que os IECA mantêm seus benefícios mesmo quando o escape neuro-hormonal acontece!</p>
+</blockquote>
+
+<blockquote>
+  <p>Na realidade, parte da eficácia dos IECA deriva do fato de que aumentam os níveis de bradicinina e outras substâncias vasodilatadoras. O efeito benéfico vai além da mera redução nos níveis de angiotensina II, o que faz com essas drogas sejam sempre preferenciais aos BRA no tratamento da IC com FE reduzida.</p>
+</blockquote>
+
+<h4 id="betabloqueadores">Betabloqueadores</h4>
+
+<p>Possuem um efeito inotrópico negativo, bloqueando o efeito negativo das catecolaminas de ação beta sobre o miocardio.</p>
+
+<p>Eles reduzem não apenas a mortalidade mas também a incidência de morte súbita e reinfarto, principalmente nos pacientes com IVE.</p>
+
+<blockquote>
+  <p>Antes da década de 90, seria considerado um grande absurdo utilizar um betabloqueador em qualquer paciente com insuficiência cardíaca sistólica!</p>
+</blockquote>
+
+<p>Um pouco diferente dos IECA, são três BBs específicos que estão relacionados a maior redução da mortalidade: caverdilol, bisoprolol e metoprolol.</p>
+
+<p>Cerca de 30% dos pacientes não irão tolerar os BBs (descompensam a IC). Mas estes devem ser tentados até nos pacientes NYHA IV, começando com doses mínimas e aumentando a cada 2-4 semanas. As “doses-alvo” são:</p>
+
+<ul>
+  <li><strong>Carvedilol</strong> 25-50 mg 2x/dia;</li>
+  <li><strong>Metoprolol</strong> 200 mg/dia;</li>
+  <li><strong>Bisoprolol</strong> 10 mg/dia.</li>
+</ul>
+
+<p>Hoje sabemos que, em pacientes internados por
+IC descompensada, não se deve suspender os
+BB de uso prévio, exceto na presença de choque cardiogênico, bloqueio atrioventricular ou sinoatrial avançado, ou bradicardia sintomática.</p>
+
+<p>Em pacientes com PAS &lt; 85 mmHg ou com sinais de hipoperfusão periférica podemos tentar reduzir a posologia em 50% e reavaliar: em muitos casos a hemodinâmica estabiliza, sendo desnecessário suspender a medicação. Não devem ser iniciados nos pacientes descompensados.</p>
+
+<p><strong>Contraindicações formais:</strong> asma e bradiarritmia.</p>
+
+<p>O <strong>nebivolol</strong> é outro BB que se mostrou efetivo em aumentar a sobrevida em idosos &gt; 70 anos, porém com magnitude inferior aos já citados. Como ele é mais beta-1 seletivo, pode ser uma opção em pacienetes asmáticos (confirmar essa informação!).</p>
+
+<blockquote>
+  <p>Mecanismo de ação: bloqueio da ação tóxica da noradrenalina sobre os miócitos cardíacos e a redução da liberação de noradrenalina nas sinapses cardíacas. Por isso, o efeito pleno é tardio (3-6 meses). Também reduzem o consumo miocárdico de oxigênio, reduzindo a isquemia; redução da frequência cardíaca, facilitando a mecânica diastólica.</p>
+</blockquote>
+
+<p>Então, os BBs estão indicados em:</p>
+
+<ul>
+  <li>Todos os pacientes com IC sistólica, independente da classe;</li>
+  <li>Doença isquêmica do miocárdio;</li>
+  <li>Cardiomiopatia hipertrófica hereditária sintomática.</li>
+</ul>
+
+<h4 id="antagonistas-da-aldosterona">Antagonistas da Aldosterona</h4>
+
+<p>São a espironolactona e a eplerenona. Diuréticos poupadores de potássio antagonistas da aldosterona. A eplerenona é mais específica, atua apenas no túbulo renal e tem menos efeitos colaterais como a ginecomastia.</p>
+
+<p>Um estudo demonstrou redução adicional na mortalidade (30%) com o uso de <strong>25 mg/dia de espironolactona</strong> em pacientes com insuficiência cardíaca classe III e IV já tratados com IECA, sem haver aumento significativo da calemia nesses pacientes. Seu uso tambem reduziu internamentos por descompensação.</p>
+
+<blockquote>
+  <p><strong>Mecanismo de ação:</strong> inibição do efeito da aldosterona sobre o miocárdio; reduzindo, assim, a degeneração de fibras, a apoptose e a fibrose intersticial (prevenindo o remodelamento ventricular). Outro possível efeito benéfico é a prevenção da hipocalemia pelos diuréticos de alça ou tiazídicos, com isso, reduzindo a chance de arritmias ventriculares e morte súbita.</p>
+</blockquote>
+
+<p>A <strong>indicação</strong> de antagonistas da aldosterona na IC é para a IC sistólica <strong>“sintomática”</strong> (NYHA II a IV). A <strong>contraindicação</strong> formal é K &gt; 5,5 mEq/L.</p>
+
+<h4 id="antagonista-at1-da-angiotensina-ii">Antagonista AT1 da angiotensina II</h4>
+
+<p>Não possuem o mesmo inconveniente dos IECA de perderem o efeito a longo prazo. São capazes de
+contornar o escape neuro-hormonal, bloqueando diretamente o receptor de angio II, seja qual
+for a origem do hormônio! Contudo, ainda são inferiores aos IECA na magnitude da sobrevida e redução do remodelamento cardíaco.</p>
+
+<p>Recomendados no tratamento da IC com FE reduzida como substitutos dos IECA para pacientes que não toleram os IECA.</p>
+
+<p><strong>Mas atenção:</strong> se a intolerância aos IECA for devida ao surgimento de <strong>IRA e/ou hipercalemia</strong>, BRA também estarão contraindicados, pois se tratam de paraefeitos inerentes ao bloqueio do SRAA igualmente esperados com estes últimos.</p>
+
+<p><strong>Não se recomenda a associação de BRA com IECA</strong>, pois não traz benefícios e potencializa os efeitos colaterais, aumentando a morbi-mortalidade (como arritmias malignas por hipercalemia).</p>
+
+<blockquote>
+  <p><strong>Mecanismo de ação:</strong> inibem a ação da angiotensina II sobre os receptores AT1 presentes na musculatura lisa vascular (daí o efeito vasodilatador), na suprarrenal (daí a redução dos níveis de aldosterona) e no miocárdio.</p>
+</blockquote>
+
+<p>A principal vantagem sobre os inibidores da ECA é a ausência de tosse como efeito adverso, uma vez que este efeito é dependente da elevação da bradicinina pelos IECA.</p>
+
+<p><strong>Indicação de uso dos BRA:</strong> pacientes com indicação de IECA, mas que não toleram o medicamento devido à tosse.</p>
+
+<h4 id="hidralazina-e-nitrato">Hidralazina e Nitrato</h4>
+
+<p>Em pacientes negros parece haver maior benefício na sobrevida com a associação hidralazina + dinitrato comparado ao enalapril! Mas também usa-se para brancos, adicionando à terapia já otimizada com IECA + BB + espironolactona.</p>
+
+<p>A “dose-alvo” é de <strong>75 mg de hidralazina + 40 mg de dinitrato de isossorbida 3x dia</strong>.</p>
+
+<ul>
+  <li><strong>Mecanismo de ação:</strong>
+    <ul>
+      <li><strong>Hidralazina:</strong> é um vasodilatador arteriolar direto, cujo mecanismo farmacodinâmico é desconhecido. Ao dilatar as arteríolas, reduz a pós-carga e, portanto, melhora a performance ventricular.</li>
+      <li><strong>Dinitrato de isossorbida:</strong> tem um importante efeito venodilatador, reduzindo assim a pré-carga e facilitando o trabalho ventricular. A redução da mortalidade pela associação hidralazina + dinitrato comprova o grande benefício do efeito vasodilatador geral (arterial e venoso) nos pacientes com IC sistólica moderada.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Efeitos adversos:</strong> a taquicardia reflexa, comum nos hipertensos sem IC, não parece ser um efeito adverso importante nos pacientes com IC. Porém outros efeitos adversos incômodos (cefaleia, tonteira, lúpus farmacoinduzido) podem ocorrer,
+especialmente nas doses mais altas.</p>
+
+<p>Indicação da associação hidralazina + dinitrato:</p>
+
+<ul>
+  <li>Pacientes negros com IC, já em uso de IECA e BB, nas classes II-IV;</li>
+  <li>Alternativa aos pacientes brancos com intolerância aos IECA e aos BRA;</li>
+  <li>Todo o paciente que permaneça sintomático apesar da terapia padrão.</li>
+</ul>
+
+<h4 id="ivabradina">Ivabradina</h4>
+
+<p>Da classe dos <strong>inibidores específicos da corrente If</strong>, responsável pelo mecanismo de despolarização automático do nó sinoatrial.</p>
+
+<p>A ivabradina (5 mg VO 12/12h, podendo-se chegar a 7,5 mg VO 12/12h) consegue reduzir a FC no repouso e no exercício, e já existem evidências de que seu emprego na IC (em associação à terapia otimizada) consegue reduzir ainda mais a morbimortalidade, em
+particular se a etiologia for isquêmica.</p>
+
+<p><strong>Indicações da ivabradina:</strong> pacientes com NYHA II-IV da com disfunção sistólica e terapia otimizada (<strong>IECA ou BRA + BB</strong>), <strong>desde que a FC seja maior ou igual a 70 bpm e o ritmo seja sinusal</strong>.</p>
+
+<h3 id="sintomáticos">Sintomáticos</h3>
+
+<ul>
+  <li>Diuréticos de alça;</li>
+  <li>Tiazídicos;</li>
+  <li>Digitálicos;</li>
+  <li>Aminas inotrópicas (dobutamina);</li>
+  <li>Inibidores da fosfodiesterease (milrinona).</li>
+</ul>
+
+<p>Apesar de não aumentarem a sobrevida dos pacientes com IC, esses medicamentos podem ser fundamentais para manter os pacientes no estado compensado.</p>
+
+<blockquote>
+  <p>Não existe remédio melhor do que a furosemida venosa para compensar um paciente com IC congestiva!</p>
+</blockquote>
+
+<h4 id="diuréticos-de-alça">Diuréticos de alça</h4>
+
+<p>Combater os sinais e sintomas da congestão e do edema. São eficazes tanto na IC sistólica quanto na IC diastólica!</p>
+
+<p>Aumentam a excreção renal de sódio e água, reduzindo a volemia.</p>
+
+<blockquote>
+  <p>Mesmo a hipervolemia sendo um mecanismo copensatório para manter o DC (lei de Frank-Starling), se exagerada pode descompensar a IC. Se aumentar demais a pré-carga o DC pode diminuir.</p>
+</blockquote>
+
+<p>Logo, não podemos fazer doses excessivas de diuréticos, de modo a baixar muito a volemia. Senao, o DC se reduzirá demais e induzirá uma síndrome de baixo débito. A dose ideal de diuréticos varia para cada paciente.</p>
+
+<p>Os pacientes com IC classe III ou IV, em sua maioria, necessitam do emprego dos diuréticos de alça ou dos tiazídicos para manterem-se compensados.</p>
+
+<p>Os pacientes descompensados necessitam da
+administração <strong>parenteral</strong> de diuréticos de alça,
+especificamente a <strong>furosemida</strong>, pois a absorção
+dos diuréticos por via oral está muito prejudicada pela congestão da mucosa intestinal.</p>
+
+<p>Efeitos adversos:</p>
+
+<ul>
+  <li>Ototoxicidade;</li>
+  <li>Hipovolemia;</li>
+  <li>Insuficiência pré-renal;</li>
+  <li>Hiperuricemia, hiperglicemia, hiperlipidemia, hipercalciúria (litíase renal);</li>
+  <li>Hipomagnesemia, hipocalemia, hipocalcemia;</li>
+  <li>Nefrite intersticial alérgica.</li>
+</ul>
+
+<p>A monitorização dos eletrólitos é obrigatória nas primeiras três semanas do início da terapia diurética.</p>
+
+<h4 id="tiazídicos">Tiazídicos</h4>
+
+<p>São menos potentes que os de diuréticos de alça. Aumentam a excreção de sódio em apenas 5-10%,
+os diuréticos de alça a elevam em 20-25%.</p>
+
+<p>Os tiazídicos podem ser associados à furosemida nos
+pacientes que persistem com retenção hidrossalina a despeito de altas doses de furosemida.</p>
+
+<p>Efeitos adversos:</p>
+
+<ul>
+  <li>Hiponatremia;</li>
+  <li>Hipercalcemia;</li>
+  <li>Hipovolemia;</li>
+  <li>Insuficiência pré-renal;</li>
+  <li>Hipocalemia, hiperuricemia, hiperglicemia, hiperlipidemia;</li>
+  <li>Hipomagnesemia;</li>
+  <li>Nefrite intersticial alérgica.</li>
+</ul>
+
+<h4 id="digitálicos">Digitálicos</h4>
+
+<p>São chamados também de glicosídeos cardíacos. São três os seus efeitos cardíacos:</p>
+
+<ol>
+  <li><strong>Efeito Inotrópico Positivo:</strong> sua principal ação farmacológica é a inibição da Na/K ATPase.
+    <ul>
+      <li>O transporte transmembrana de Ca++ está ligado ao de Na +. Existe uma proteína de membrana trocadora de Na+ por Ca ++ (trocador Na/Ca).</li>
+      <li>Se a Na/K ATPase é inibida, o Na+ intracelular começa a se acumular, aumentando o seu efluxo pelo trocador Na/Ca, em troca da entrada Ca++ no miócito.</li>
+      <li>A consequência final é o aumento do Ca++ citossólico, principal determinante do inotropismo cardíaco.</li>
+      <li>Este íon é armazenado no retículo sarcoplasmático da célula miocárdica, aumentando a sua disponibilidade para a contração muscular na sístole, garantindo, assim, maior força contrátil (melhora da função sistólica).</li>
+    </ul>
+  </li>
+  <li><strong>Ação Colinérgica:</strong> o aumento do tônus vagal reduz o automatismo do nódulo sinusal, aumenta a refratariedade e diminui a velocidade de condução do nódulo AV.
+    <ul>
+      <li>Este efeito justifica o uso dos digitais nas taquiarritmias supraventriculares, pois reduzem a resposta ventricular na fibrilação atrial e no flutter atrial.</li>
+      <li>Também justifica o seu potencial bradiarrítmico na toxicidade.</li>
+    </ul>
+  </li>
+  <li><strong>Ação Arritmogênica:</strong> o acúmulo intracelular
+de cálcio predispõe à ativação de uma corrente de sódio capaz de precipitar pós-potenciais tardios e desencadear extrassístoles ou taquiarritmias automáticas por atividade deflagrada, no miocárdio atrial ou ventricular.</li>
+</ol>
+
+<p><strong>Reduzem o número de internações</strong> por descompensação cardíaca desses pacientes, <strong>apesar de não haver alteração da mortalidade</strong>. A suspensão dos digitais em pacientes com IC com FE reduzida pode levar à descompensação do quadro.</p>
+
+<p>O grande representante é a <strong>digoxina</strong> na
+dose de <strong>0,125-0,375 mg VO/dia</strong>. A <strong>digitoxina</strong>, pouco usada em nosso meio, é dada na dose 0,10 mg VO/dia. O digital venoso mais
+usado em nosso meio é o <strong>deslanosídeo</strong> (cedilanide), na dose 0,4-0,12 mg IV/dia (em duas tomadas).</p>
+
+<p>Indicações dos digitálicos:</p>
+
+<ul>
+  <li>IC sintomática classe III-IV, em pacientes que não compensaram apesar do uso de IECA, BB e diurético;</li>
+  <li>IC com fibrilação atrial de alta resposta ventricular (não controlados com uso de BB).</li>
+</ul>
+
+<p>Contra-indicações (podem piorar a função diastólica ou a isquemia):</p>
+
+<ul>
+  <li>IC diastólica pura;</li>
+  <li>Cardiomiopatia hipertrófica;</li>
+  <li>Doença isquêmica do miocárdio sem IC sistólica;</li>
+  <li>Bloqueio AV de 2° grau Mobitz II e 3° grau;</li>
+  <li>Doença do nó sinusal sem proteção de marca -passo;</li>
+  <li>Síndromes de pré-excitação.</li>
+</ul>
+
+<p><strong>Farmacocinética:</strong> para que seu efeito seja máximo, deve ocorrer uma impregnação do organismo
+pela droga. Esse fenômeno pode ser alcançado de duas formas: utilizando-se doses de ataque ou aguardando 7 dias com o uso da dose convencional. Diversas drogas podem interagir com os níveis séricos da digoxina; importantes exemplos são a amiodarona, o verapamil e a propafenona, que promovem um aumento em seus níveis.</p>
+
+<p><strong>Intoxicação digitálica:</strong> se caracteriza pelos
+seguintes componentes do quadro:</p>
+
+<ol>
+  <li>Náuseas, vômitos e hiporexia;</li>
+  <li>Alterações visuais, com escotomas coloridos, vertigem, insônia, confusão mental;</li>
+  <li>Arritmias cardíacas, principalmente:
+    <ul>
+      <li>Extrassístoles ventriculares múltiplas (mais comum);</li>
+      <li>Bradiarritmias do tipo BAV;</li>
+      <li>Taquicardia atrial com bloqueio;</li>
+      <li>Taquicardia juncional não paroxística;</li>
+      <li>Taquicardia ventricular (incluindo a TV bidirecional).</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Fatores que aumentam a sensibilidade efeito digitálico podendo precipitar a intoxicação: hipocalemia, hipomagnesemia.</p>
+
+<p>Ainda tem muito mais coisa de digitálicos para estudar, como o tratamento da intoxicação pelo seu uso!!!</p>
+
+<h4 id="bloqueadores-do-canal-de-cálcio">Bloqueadores do canal de cálcio</h4>
+
+<p>Os BCC do tipo <strong>nifedipina</strong> e <strong>verapamil</strong> não devem ser usados em pacientes com IC sistólica e cardiopatia dilatada. Estas drogas podem piorar o quadro clínico do paciente (provavelmente pelo efeito inotrópico negativo), além de possivelmente aumentarem a mortalidade.</p>
+
+<p>Apesar de segura na IC, a <strong>amlodipina</strong> não apresenta benefícios em termos de mortalidade geral. Seu uso é reservado aos casos acompanhados por HAS resistente, como droga crucial para um melhor controle pressórico.</p>
+
+<h3 id="anticoagulaão-e-antiplaquetários">Anticoagulaão e antiplaquetários</h3>
+
+<p>Pacientes com IC têm um risco aumentado de
+eventos tromboembólicos devido à estase sanguínea nas câmaras cardíacas dilatadas e em vasos periféricos. No entanto, em
+estudos multicêntricos, o risco aferido tem sido
+de 1 a 3% ao ano, mesmo naqueles com baixa
+fração de ejeção e evidências ecocardiográficas
+de trombos intracardíacos!</p>
+
+<p>As diretrizes da AHA/ACC e da Sociedade Brasileira de Cardiologia apontam para as seguintes condições
+nas quais a anticoagulação deve ser considerada:</p>
+
+<ul>
+  <li>História de evento embólico;</li>
+  <li>Fibrilação atrial paroxística ou persistente;</li>
+  <li>Amiloidose (risco aumentado de tromboembolismo);</li>
+  <li>Cardiomiopatia dilatada familiar;</li>
+  <li>História de tromboembolismo em parentes de primeiro grau.</li>
+</ul>
+
+<p>A droga mais usada é o <strong>warfarin</strong> (antagonista de vit. K).</p>
+
+<p>O uso rotineiro de <strong>antiplaquetários</strong> não está
+indicado na IC. A <strong>aspirina</strong>, todavia, é largamente empregada nos casos de doença coronária concomitante. Nestes pacientes, é recomendável utilizar as menores doses possíveis de aspirina (75-100 mg).</p>
+
+<p>Profilaxia de fenômenos tromboembólicos
+em pacientes hospitalizados com IC: está indicado o uso de heparina subcutânea em doses profiláticas
+em todos os pacientes com IC que se encontrem hospitalizados!</p>
+
+<h3 id="cardiodesfibrilador-implantável-cdi">Cardiodesfibrilador Implantável (CDI)</h3>
+
+<p>Aproximadamente metade dos pacientes com
+IC morre subitamente, a maioria devido a uma
+arritmia ventricular.</p>
+
+<p>O CDI é recomendado para
+a prevenção secundária de pacientes que tiveram
+morte súbita abortada e para a prevenção primária em pacientes pós-IAM ou não isquêmicos, com disfunção de VE com FE &lt; 35% em NYHA II ou III, na vigência de drogas otimizadas.</p>
+
+<p>Para ambas as indicações, os pacientes devem apre-
+sentar uma razoável expectativa de vida. O uso
+de antiarrítmicos não mostrou uma melhora na
+sobrevida dos pacientes com IC.</p>
+
+<h3 id="tratamento-da-ic-diastolica">Tratamento da IC diastolica</h3>
+
+<p>No caso da IC com FE preservada, nenhum tratamento demonstrou aumentar a sobrevida.</p>
+
+<p>O diagnóstico de Insuficiência Cardíaca com
+Fração de Ejeção Preservada (ICFEP) requer
+a presença simultânea de três condições:</p>
+
+<ol>
+  <li>Sinais ou sintomas de IC congestiva;</li>
+  <li>FE normal ou discretamente reduzida;</li>
+  <li>Evidências objetivas de disfunção diastólica do VE:
+    <ul>
+      <li>Relaxamento e enchimento anormais;</li>
+      <li>Distensibilidade diastólica reduzida;</li>
+      <li>“Rigidez” diastólica.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Bloqueadores dos canais de cálcio não di-hidropiridínicos (como o verapamil e o diltiazem), os betabloqueadores, os IECA e talvez até os antagonistas da AT podem ser utilizados, associados a diuréticos em baixas doses na presença de congestão.</p>
+
+<p>Uma medida fundamental é controlar
+agressivamente a hipertensão arterial, com
+drogas que reduzem comprovadamente a hipertrofia ventricular (inibidores da ECA – principal –, antagonistas AT1, diuréticos, betablo-
+queadores, verapamil, diltiazem ou amlodipina).</p>
+
+<h3 id="tratamento-cirúrgico">Tratamento cirúrgico</h3>
+
+<p><strong>Revascularização Miocárdica:</strong> nos pacientes
+com IC sistólica por cardiomiopatia isquêmica, a cirurgia de escolha é a revascularização miocárdica. Geralmente, estes pacientes têm lesão &gt; 50% no tronco da coronária esquerda ou têm
+doença obstrutiva multivascular. Os resultados
+têm sido promissores, mesmo em pacientes
+com FE &lt; 20%.</p>
+
+<p><strong>Ventriculectomia Parcial (cirurgia de Handas Batista):</strong> é uma cirurgia desenvolvida
+por um brasileiro, em que é ressecada uma porção de músculo miocárdico, de modo a reduzir o tamanho da cavidade ventricular. O princípio dessa cirurgia baseia-se na lei de Laplace. Se reduzirmos a relação R/h, reduzimos o “estresse”,
+que, na verdade, representa a pós-carga.</p>
+
+<h4 id="transplante-cardíaco">Transplante cardíaco</h4>
+
+<p>Terapia imunossupressora: atualmente feita com ciclosporina, prednisona e azatioprina.</p>
+
+<p>Os pacientes candidatos a transplante são
+aqueles com:</p>
+
+<ul>
+  <li>Doença avançada, classe funcional IV permanente, ou III/IV intermitente;</li>
+  <li>Com sintomas severos e incapacitantes;</li>
+  <li>Sem alternativa de tratamento;</li>
+  <li>Com alta mortalidade em um ano.</li>
+</ul>
+
+<p>A FE isoladamente não serve como critério de indicação de transplante (antes a indicação era FE &lt; 20%).</p>
+
+<p>Contraindicações ao transplante:</p>
+
+<ul>
+  <li>Idade avançada (&gt; 70 anos);</li>
+  <li>Infecção ativa (incluindo CMV, hepatites virais e HIV);</li>
+  <li>Hepatopatia, nefropatia ou pneumopatia severa (como HAP) e irreversível (pode-se optar pelo transplante desses órgãos, junto ao transplante cardíaco);</li>
+  <li>Doença psiquiátrica, cerebral ou cerebrovascular avançada;</li>
+  <li>Doença vascular periférica acentuada (aterosclerose avançada);</li>
+  <li>Câncer incurável ou de estadiamento incerto;</li>
+  <li>Obesidade mórbida;</li>
+  <li>Doença sistêmica grave limitante;</li>
+  <li>Resistência Vascular Pulmonar (RVP) alta: &gt; 5 unidades Wood, após vasodilatadores.</li>
+</ul>
+
+<h3 id="angiorressonância">Angiorressonância</h3>
+
+<h2 id="prognóstico">Prognóstico</h2>
+
+<p>Escore de Adhere para avaliação da mortalidade intra-hospitalar</p>
+
+<h1 id="insuficiência-cardíaca-descompensada">Insuficiência cardíaca descompensada</h1>
+
+<p>Primeiro é necessário diferenciar se o paciente que chega na emergência possui uma IC nova ou uma IC crônica agudizada.</p>
+
+<p>A IC nova aguda possui evolução rápida e pode ocorrer devido a um IAM, uma rotura de cordoalha. Já a IC crônica agudizada está relacionada principalmente com a falta de adesão àos medicamentos.</p>
+
+<h2 id="fatores-de-descompensação">Fatores de descompensação</h2>
+
+<h2 id="diretrizes">Diretrizes</h2>
+
+<ol>
+  <li>Rohde LEP, Montera MW, Bocchi EA, et al. Diretriz brasileira de insuficiência cardíaca crônica e aguda. ABC. 2018. doi:10.5935/abc.20180190.</li>
+</ol>
+
+<h2 id="referências">Referências</h2>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:diretriz-ic" role="doc-endnote">
+      <p>Rohde LEP, Montera MW, Bocchi EA, et al. Diretriz brasileira de insuficiência cardíaca crônica e aguda. ABC. 2018. doi:10.5935/abc.20180190. <a href="#fnref:diretriz-ic" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:remodelamento-abc" role="doc-endnote">
+      <p>Azevedo PS, Polegato BF, Minicucci MF, Paiva SAR, Zornoff LAM. Cardiac remodeling: concepts, clinical impact, pathophysiological mechanisms and pharmacologic treatment. Arquivos Brasileiros de Cardiologia. 2016. doi:10.5935/abc.20160005. <a href="#fnref:remodelamento-abc" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:remodelamento-abc:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
+    </li>
+    <li id="fn:remodeling-forum" role="doc-endnote">
+      <p>Cohn JN, Ferrari R, Sharpe N. Cardiac remodeling-concepts and clinical implications: a consensus paper from an international forum on cardiac remodeling. Behalf of an International Forum on Cardiac Remodeling. J Am Coll Cardiol. 2000;35(3):569-82. <a href="#fnref:remodeling-forum" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

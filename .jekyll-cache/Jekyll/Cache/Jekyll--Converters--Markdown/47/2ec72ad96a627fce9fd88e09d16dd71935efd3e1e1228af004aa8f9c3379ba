@@ -1,0 +1,87 @@
+I"�<ol id="markdown-toc">
+  <li><a href="#bradicardia" id="markdown-toc-bradicardia">Bradicardia</a>    <ol>
+      <li><a href="#disfunções-do-nó-sinusal" id="markdown-toc-disfunções-do-nó-sinusal">Disfunções do nó sinusal</a>        <ol>
+          <li><a href="#bloqueios-sinoatriais" id="markdown-toc-bloqueios-sinoatriais">Bloqueios sinoatriais</a></li>
+        </ol>
+      </li>
+      <li><a href="#bloqueios-átrio-ventriculares" id="markdown-toc-bloqueios-átrio-ventriculares">Bloqueios átrio-ventriculares</a></li>
+    </ol>
+  </li>
+</ol>
+
+<p>O mais difícil é flagrar o momento da arritmia para conseguir dar o diagnóstico.</p>
+
+<p>Indicações para o exame de holter:</p>
+
+<ul>
+  <li>Avaliação de sintomas provavelmente relacionados a alterações do ritmo cardíaco;</li>
+  <li>Avaliação de isquemia miocárdica;</li>
+  <li>Avaliação de eventos cardíacos futuros: variabilidade da FC;</li>
+  <li>Avaliação terapêutica;</li>
+  <li>Situações especiais: FA e síncope;</li>
+  <li>Avaliação de marca-passo.</li>
+</ul>
+
+<p>Bradicardia: &lt; 60 (&lt; 50 para os arritmólogos)
+Taquicardia: &gt; 100 (&gt; 120 para os arritmólogos)</p>
+
+<h2 id="bradicardia">Bradicardia</h2>
+
+<ul>
+  <li>O nó sinusal pode estar “cansado” ou “parando”.</li>
+  <li>Bloqueios AV</li>
+</ul>
+
+<h3 id="disfunções-do-nó-sinusal">Disfunções do nó sinusal</h3>
+
+<ul>
+  <li>Bradicardia sinusal</li>
+  <li>Bloqueio sinoatrial</li>
+  <li>Parada sinusal</li>
+  <li>Síndrome Bradi-Taqui</li>
+</ul>
+
+<p>Condições associadas com disfunção sinusal: idade, fibrose idiopática, isquemia, aumento do tônus vagal, miocardite, drogas (como BB, digoxina, amiodarona), HIC, hipotermia, hipotireoidismo, etc.</p>
+
+<h4 id="bloqueios-sinoatriais">Bloqueios sinoatriais</h4>
+
+<ul>
+  <li>1o grau: não conseguimos dar o diagnóstico, é eletrofisiológico.</li>
+  <li>2o grau
+    <ul>
+      <li>Tipo I Wenckebach (encurtamento do PP antes da pausa),</li>
+      <li>Tipo II (pausa sem variação do PP, duração: valor múltiplo)</li>
+    </ul>
+  </li>
+  <li>3o grau ou total: ritmo de escape.</li>
+</ul>
+
+<p>Parada sinusal: pausa longo (&gt; 3seg) e o batimento logo após a pausa não tem onda P.</p>
+
+<h3 id="bloqueios-átrio-ventriculares">Bloqueios átrio-ventriculares</h3>
+
+<ul>
+  <li><strong>1o grau:</strong> PR &gt; 0,20 seg</li>
+  <li><strong>2o grau</strong>
+    <ul>
+      <li><strong>Tipo I</strong> (Wenckebach) - Mobitz 1: aumento progressivo do PR precedendo a P bloqueada;
+        <ul>
+          <li>O primeiro PR depois da P bloqueada é sempre menor que o último conduzido.</li>
+        </ul>
+      </li>
+      <li><strong>Tipo II</strong> - Mobitz 2: P bloqueada sem modificações do PR;</li>
+    </ul>
+  </li>
+  <li><strong>3o grau:</strong> nenhuma P é conduzida
+    <ul>
+      <li>A FC das ondas P tem que ser &gt; que a FC dos QRS</li>
+    </ul>
+  </li>
+  <li><strong>De “grau avançado”:</strong> total com capturas (algumas ondas P podem capturar a sistole venricular e precederem um QRS logo em seguida)</li>
+</ul>
+
+<p><strong>BAVT:</strong> a FC das ondas P tem que ser &gt; que a FC dos QRS;
+<strong>Dissociação AV:</strong> a FC do QRS é &gt; ou = que a FC das ondas P.</p>
+
+<p>Existe uma situação em que o BAVT não é indicativo de marca-passo, o BAVT congênito que as crianças possuem uma capacidade juncional muito alta. Mas essas crianças devem ser acompanhadas de perto para avaliar seu crescimento e desenvolvimento.</p>
+:ET

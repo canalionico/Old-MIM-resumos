@@ -1,0 +1,209 @@
+I"�=<ol id="markdown-toc">
+  <li><a href="#eixo" id="markdown-toc-eixo">Eixo</a>    <ol>
+      <li><a href="#definindo-o-ângulo" id="markdown-toc-definindo-o-ângulo">Definindo o ângulo</a></li>
+      <li><a href="#desvios-de-eixo" id="markdown-toc-desvios-de-eixo">Desvios de eixo</a></li>
+    </ol>
+  </li>
+  <li><a href="#aumento-atrial" id="markdown-toc-aumento-atrial">Aumento atrial</a>    <ol>
+      <li><a href="#aumento-do-ad" id="markdown-toc-aumento-do-ad">Aumento do AD</a></li>
+      <li><a href="#aumento-do-ae" id="markdown-toc-aumento-do-ae">Aumento do AE</a></li>
+    </ol>
+  </li>
+  <li><a href="#hipertrofia-ventricular" id="markdown-toc-hipertrofia-ventricular">Hipertrofia ventricular</a>    <ol>
+      <li><a href="#hipertrofia-de-vd" id="markdown-toc-hipertrofia-de-vd">Hipertrofia de VD</a>        <ol>
+          <li><a href="#derivações-precordiais" id="markdown-toc-derivações-precordiais">Derivações precordiais</a></li>
+        </ol>
+      </li>
+      <li><a href="#hipertrofia-de-ve" id="markdown-toc-hipertrofia-de-ve">Hipertrofia de VE</a>        <ol>
+          <li><a href="#derivações-precordiais-1" id="markdown-toc-derivações-precordiais-1">Derivações precordiais</a></li>
+          <li><a href="#derivações-periféricas" id="markdown-toc-derivações-periféricas">Derivações periféricas</a></li>
+        </ol>
+      </li>
+      <li><a href="#hipertrofia-de-ambos-ventrículos" id="markdown-toc-hipertrofia-de-ambos-ventrículos">Hipertrofia de ambos ventrículos</a></li>
+    </ol>
+  </li>
+  <li><a href="#anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular" id="markdown-toc-anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular">Anormalidades secundárias da repolarização na hipertrofia ventricular</a></li>
+</ol>
+
+<p>O ECG pode revelar se uma câmara cardíaca particular, atrial ou ventricular, está aumentada ou hipertrofiada. Doenças valvulares, hipertensão sustentada e distúrbios musculares cardíacos hereditários ou adquiridos podem afetar o coração dessa forma, e o ECG pode, portanto, ajudar a reconhecer e avaliar esses distúrbios.</p>
+
+<p>O termo <strong>hipertrofia</strong> se refere a um aumento na massa muscular. A parede de um ventrículo hipertrofiado é grossa e potente. A maioria das hipertrofias é causada por <strong>sobrecarga de pressão</strong>, quando o coração é forçado a bombear sangue contra uma resistência aumentada, como nos pacientes com hipertensão sistêmica ou estenose aórtica.</p>
+
+<p>A <strong>dilatação</strong> se refere ao aumento de uma câmara em particular. Um ventrículo aumentado pode conter mais sangue do que um ventrículo normal. A dilatação é causada, em geral, por uma <strong>sobrecarga de volume</strong>:
+a câmara se dilata para acomodar o volume aumentado de sangue. A dilatação é vista com mais frequência em casos de certas doenças valvulares. A insuficiência aórtica, por exemplo, pode causar dilatação do
+VE, e a insuficiência mitral pode causar dilatação do AE.</p>
+
+<p>A dilatação e a hipertrofia frequentemente coexistem. Isso não é uma surpresa, porque ambas representam modos pelos quais o coração tenta aumentar o débito cardíaco.</p>
+
+<p><img src="/assets/cardiologia/dilat-hipert.jpeg" alt="dedifinção" /></p>
+
+<p><strong>Três situações podem acontecer com uma onda no ECG quando uma câmara se hipertrofia ou se dilata:</strong></p>
+
+<ol>
+  <li>A câmara pode levar mais tempo para se despolarizar (onda de maior duração);</li>
+  <li>A câmara pode gerar mais corrente e, assim, uma maior voltagem (onda de maior amplitude);</li>
+  <li>Uma maior percentagem da corrente elétrica total pode se mover através da câmara expandida. O vetor elétrico médio, ou eixo elétrico, da onda do ECG pode, dessa forma, desviar-se.</li>
+</ol>
+
+<h2 id="eixo">Eixo</h2>
+
+<p>O eixo normal do QRS – a direção desse vetor médio – normal situa-se entre +90° e 0° (a maioria dos  cardiologistas estende a faixa de <strong>normalidade de +90° a -30°</strong>). É determinado apenas utilizando os planos frontais (verticais).</p>
+
+<p><img src="/assets/cardiologia/eixo.jpeg" alt="dedifinção" /></p>
+
+<p>Podemos determinar se o eixo do QRS em qualquer ECG é normal olhando apenas para as <strong>derivações I e aVF</strong>. Se o complexo QRS for <strong>positivo nas derivações I e aVF, o eixo do QRS deve ser normal</strong>.</p>
+
+<p><img src="/assets/cardiologia/eixo2.jpeg" alt="eixo" />
+<img src="/assets/cardiologia/eixo3.jpeg" alt="eixo" /></p>
+
+<p>Ou seja: se o complexo QRS for predominantemente positivo tanto nas derivações I quanto nas aVF, então o eixo do QRS deve estar no quadrante no qual ambos são positivos, ou seja, entre 0° e 90°. Esse é o eixo normal do QRS.</p>
+
+<p><img src="/assets/cardiologia/eixo4.jpeg" alt="eixo" /></p>
+
+<h3 id="definindo-o-ângulo">Definindo o ângulo</h3>
+
+<p>Tudo que você precisa fazer é procurar a derivação dos membros na qual o complexo QRS é mais próximo de
+ser bifásico, com deflexões positivas e negativas praticamente iguais (às vezes, as deflexões são tão pequenas que a onda aparece achatada ou isoelétrica). <strong>O eixo, então, deve ser orientado de forma perpendicular a essa derivação</strong> porque um eletrodo orientado perpendicularmente à direção média do fluxo da corrente registra uma onda bifásica.</p>
+
+<p>Assim, por exemplo, se o complexo QRS na derivação III (orientação +120°) for bifásico, então o eixo deve ser orientado em ângulos retos com esta derivação, em +30° ou -150°. E, se já for de conhecimento que o eixo é normal – ou seja, se o complexo QRS é positivo nas derivações I e aVF –, então o eixo não pode estar em –150°, mas em +30°.</p>
+
+<p><img src="/assets/cardiologia/eixo5.jpeg" alt="eixo" /></p>
+
+<h3 id="desvios-de-eixo">Desvios de eixo</h3>
+
+<p>Se o eixo estiver entre 90° e 180°, há desvio do eixo para a direita. O complexo QRS, nas derivações
+I negativo e em aVF se manterá positivo.</p>
+
+<p><img src="/assets/cardiologia/eixo6.jpeg" alt="eixo" /></p>
+
+<p>Se o eixo estiver entre 0° e -90°, há desvio do eixo para a esquerda. Nesse caso, o complexo QRS na derivação I será positivo, mas será negativo em aVF.</p>
+
+<p><img src="/assets/cardiologia/eixo7.jpeg" alt="eixo" /></p>
+
+<p>Resumindo:
+<img src="/assets/cardiologia/eixo8.jpeg" alt="esumindo eixos" />
+<img src="/assets/cardiologia/eixo9.jpeg" alt="eixo" /></p>
+
+<ul>
+  <li><strong>Eixo da onda P:</strong> o eixo normal da onda P está entre 0° e 70° em adultos e entre 0° e 90° em crianças.</li>
+  <li><strong>Eixo da onda T:</strong> o eixo da onda T é variável, mas deve se aproximar do eixo de QRS, ficando entre 50° e 60° do eixo do QRS.</li>
+</ul>
+
+<h2 id="aumento-atrial">Aumento atrial</h2>
+
+<p>A onda P normal tem uma duração menor do que 0,12 segundo e a maior deflexão, quer seja positiva ou negativa, não deve exceder 2,5 mm. A primeira parte da onda P representa a despolarização atrial direita, e a segunda parte, a despolarização atrial esquerda.</p>
+
+<blockquote>
+  <p>Praticamente todas as informações de que você precisa para avaliar o aumento atrial podem ser encontradas nas derivações II e V1. A derivação II é útil porque é orientada quase paralela ao fluxo de corrente através dos átrios (ou seja, paralela ao vetor médio da onda P). Ela registra, portanto, a maior deflexão positiva e é muito sensível a qualquer perturbação na despolarização atrial. A derivação V1 é útil porque é orientada de forma perpendicular ao fluxo de eletricidade, dessa forma, é bifásica, permitindo a separação fácil dos componentes atrial direito e esquerdo.</p>
+</blockquote>
+
+<p><img src="/assets/cardiologia/aumento-atrial.jpeg" alt="esumindo eixos" /></p>
+
+<p class="alert aviso-red">Olhar as derivações II e V1 para procurar por aumento atrial!</p>
+
+<h3 id="aumento-do-ad">Aumento do AD</h3>
+
+<p>A amplitude da primeira porção da onda P aumenta. A largura não se altera porque o componente terminal da onda P tem origem no átrio esquerdo, e isso permanece inalterado. O vetor de despolarização atrial pode girar para a direita e o eixo da onda P pode se mover, no mesmo sentido, aos +90 ou até além. A onda P mais alta pode não mais aparecer na derivação II,
+mas, sim, em aVF ou na derivação III.</p>
+
+<p class="alert aviso-red">O quadro clássico do aumento atrial direito é ilustrado nas deriva-
+ções II e V1 a seguir e foi chamado de **P pulmonale** porque, com frequência, é causado por doença pulmonar grave.
+</p>
+
+<p><img src="/assets/cardiologia/aumento-atrial2.jpeg" alt="esumindo eixos" /></p>
+
+<p class="alert aviso-red">O aumento atrial direito é diagnosticado pela presença das ondas P
+com amplitude acima de 2,5 mm nas derivações inferiores, II, III e aVF.
+</p>
+
+<h3 id="aumento-do-ae">Aumento do AE</h3>
+
+<p>No aumento atrial esquerdo, a segunda porção da onda P pode aumentar em amplitude. O diagnóstico desse aumento requer que a porção terminal da onda P desça pelo menos <strong>1 mm abaixo da linha isoelétrica na derivação V1</strong>.</p>
+
+<p>Contudo, uma alteração mais proeminente na onda P é o <strong>aumento na sua duração</strong>. Isso ocorre porque a despolarização atrial esquerda representa a porção terminal da onda P, e a despolarização prolongada pode ser vista imediatamente (<strong>no aumento atrial direito, a despolarização prolongada é mascarada pela porção atrial esquerda da onda P</strong>). O
+diagnóstico de aumento atrial esquerdo, portanto, também requer que a porção terminal da onda P deva ter <strong>pelo menos um quadrado pequeno (0,04 segundos) de largura</strong>.</p>
+
+<p><img src="/assets/cardiologia/aumento-ae.jpeg" alt="esumindo eixos" /></p>
+
+<p class="alert aviso-red">Ou seja: olhar para II e V1. Aumento de AD: maior amplitude (&gt; 2,5 mm) e duração preservada, eixo pode desviar para a direita; Aumento de AE: componente terminal aumentado (&gt; 1 mm), duração aumentada na porção terminal (&gt; 0,04 s), normalmente não mostra desvio de eixo.</p>
+
+<h2 id="hipertrofia-ventricular">Hipertrofia ventricular</h2>
+
+<h3 id="hipertrofia-de-vd">Hipertrofia de VD</h3>
+
+<p>A hipertrofia de VD é menos comum e requer uma enorme alteração nas proporções do VD para superar as forças elétricas geradas pelo VE. Ela pode ocorrer, contudo, em casos de DPOC suficientemente grave para produzir <strong>hipertensão arterial pulmonar</strong> ou de doença cardíaca congênita não corrigida, com profunda sobrecarga de pressão ou de volume do ventrículo direito. Se
+o ventrículo direito se hipertrofia o bastante, isso pode ser detectado no ECG como um <strong>desvio no eixo do QRS para a direita</strong>.</p>
+
+<p><img src="/assets/cardiologia/hipertrofia-vd.jpeg" alt="Eixos" />
+<img src="/assets/cardiologia/hipertrofia-vd2.jpeg" alt="eixos" />
+<img src="/assets/cardiologia/hipertrofia-vd3.jpeg" alt="eixos" /></p>
+
+<h4 id="derivações-precordiais">Derivações precordiais</h4>
+
+<p>O padrão normal da progressão da onda R, no qual a amplitude dessa onda aumenta à medida que você progride de V1 até V5, é rompido. Ao invés da amplitude crescente da onda R, à medida que as derivações se movem para mais perto do ventrículo esquerdo, pode ocorrer o inverso.</p>
+
+<p><strong>Pode haver uma grande onda R em V1, que fica sobre o ventrículo direito hipertrofiado, e uma pequena onda R em V5 e V6, que ficam sobre um ventrículo esquerdo normal</strong>, porém, agora, eletricamente submisso. Domesmo modo, a onda S em V1 é pequena, e a onda S de V6 é grande.
+Esses critérios foram expressos em simples matemática:</p>
+
+<h3 id="hipertrofia-de-ve">Hipertrofia de VE</h3>
+
+<p>As principais causas são a hipertensão sistêmica e a doença valvular. A HAS severa e sustentada força o VE a trabalhar muito forte por muito tempo, até se hipertrofiar. A sua dominância elétrica sobre o VD, portanto, torna-se ainda mais profunda. O vetor
+elétrico médio é empurrado ainda mais para a esquerda e o resultado é sum <strong>desvio do eixo para a esquerda</strong>.</p>
+
+<blockquote>
+  <p>Tanto a hipertrofia ventricular direita quanto a esquerda podem prolongar discretamente o complexo QRS, mas raramente além de 0,1 segundo.</p>
+</blockquote>
+
+<p><img src="/assets/cardiologia/hipertrofia.jpeg" alt="Eixos" /></p>
+
+<p>O desvio do eixo para a esquerda além de –15o é visto com frequência, mas essa não é uma característica diagnóstica muito útil.</p>
+
+<p><strong>O aumento da onda R nas derivações que ficam sobre o ventrículo esquerdo forma a base para o diagnóstico eletrocardiográfico de hipertrofia ventricular esquerda.</strong> Deve haver um aumento
+da amplitude da onda R nas derivações sobrejacentes ao ventrículo esquerdo e um aumento da amplitude da onda S nas derivações sobrejacentes ao ventrículo direito.</p>
+
+<h4 id="derivações-precordiais-1">Derivações precordiais</h4>
+
+<p>As derivações precordiais são mais sensíveis do que as derivações dos membros para o diagnóstico. Os critérios mais úteis são (quanto mais critérios forem positivos, maior a probabilidade):</p>
+
+<ol>
+  <li><strong>A soma da amplitude da onda R na derivação V5 ou V6 com a amplitude da onda S em V1 ou V2 excede 35 mm</strong> (este tem o melhor valor preditivo);</li>
+  <li>A amplitude da onda R em V5 excede 26 mm;</li>
+  <li>A amplitude da onda R em V6 excede 18 mm;</li>
+  <li>A amplitude da onda R em V6 excede a amplitude da onda R em V5.</li>
+</ol>
+
+<blockquote>
+  <p>Nota: esses critérios têm pouco valor com relação a indivíduos com menos de 35 anos de idade, os quais, com frequência, têm aumento da voltagem devido, em muitos casos, a uma parede torácica fina. Além disso, tais critérios são particularmente não confiáveis em crianças.</p>
+</blockquote>
+
+<p><img src="/assets/cardiologia/hipertrofia-ve.jpeg" alt="Eixos" /></p>
+
+<h4 id="derivações-periféricas">Derivações periféricas</h4>
+
+<p>Os critérios mais úteis nas derivações dos membros são os seguintes:</p>
+
+<ol>
+  <li><strong>A amplitude da onda R em aVL excede 13 mm</strong> (maior valor preditivo, mas não muito sensível);</li>
+  <li>A amplitude da onda R em aVF excede 21 mm;</li>
+  <li>A amplitude da onda R na derivação I excede 14 mm;</li>
+  <li>A soma da amplitude da onda R na derivação I com a amplitude da onda S na derivação III excede 25 mm.</li>
+</ol>
+
+<p><img src="/assets/cardiologia/hipertrofia-ve2.jpeg" alt="Eixos" /></p>
+
+<h3 id="hipertrofia-de-ambos-ventrículos">Hipertrofia de ambos ventrículos</h3>
+
+<p>Pode haver uma combinação de características (p. ex., os critérios de hipertrofia ventricular esquerda nas derivações precordiais com desvio do eixo para a direita nas derivações dos membros), mas, na maioria dos casos, os efeitos do ventrículo esquerdo, geralmente dominante, obscurecem aqueles do
+ventrículo direito.</p>
+
+<h2 id="anormalidades-secundárias-da-repolarização-na-hipertrofia-ventricular">Anormalidades secundárias da repolarização na hipertrofia ventricular</h2>
+
+<p>São mais evidentes nas derivações com ondas R altas (porque essas derivações estão sobre o ventrículo hipertrofiado). As anormalidades da repolarização do VD serão vistas nas derivações V1 e V2, e as do VE (muito mais comuns do que as VD) serão mais evidentes nas derivações I, aVL, V5 e V6. Não se sabe ainda o mecanismo. Incluem o seguinte:</p>
+
+<ol>
+  <li>depressão do segmento ST com inclinação para baixo;</li>
+  <li>inversão da onda T (ou seja, a onda T altera o seu eixo de modo que ela não mais se alinha com o eixo do QRS).</li>
+</ol>
+
+<p><img src="/assets/cardiologia/hipertrofia-v.jpeg" alt="Eixos" /></p>
+:ET
