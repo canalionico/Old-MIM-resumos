@@ -103,6 +103,8 @@ self.addEventListener('install', function (event) {
       
         '/hematologia/hemograma.html',
       
+        '/hematologia/introducao.html',
+      
         '/pediatria/ivas.html',
       
         '/pediatria/rinite.html',
@@ -869,6 +871,8 @@ self.addEventListener('install', function (event) {
         '/assets/ginecologia/sua/tab.jpeg'
       
         '/assets/hematologia/Hematopoiesis_(human)_diagram_pt.svg'
+      
+        '/assets/hematologia/fluxo.svg'
       
         '/assets/hematologia/leucograma.png'
       

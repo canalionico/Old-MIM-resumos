@@ -99,7 +99,7 @@ a { word-break: break-word; text-decoration: none; color: blue; }
 
 a :visited { color: purple; }
 
-ol li { margin-block-start: 0.2em; list-style-type: lower-roman; }
+ol li { margin-block-start: 0.2em; }
 
 ul li { margin-block-start: 0.2em; }
 
@@ -184,6 +184,8 @@ article h2 { font-size: 1.6em; }
 article h3 { font-size: 1.4em; }
 
 article h4 { font-size: 1.2em; }
+
+article a { text-decoration: underline; }
 
 pre { padding: 8px 12px; overflow-x: auto; }
 

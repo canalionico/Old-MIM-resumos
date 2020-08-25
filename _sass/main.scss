@@ -275,7 +275,6 @@ a {
 }
 ol li {
   margin-block-start: 0.2em;
-  list-style-type: lower-roman;
 }
 ul li {
   margin-block-start: 0.2em;
@@ -408,6 +407,9 @@ article {
   }
   p {
     // line-height: ;
+  }
+  a {
+    text-decoration: underline;
   }
 }
 

@@ -9,6 +9,27 @@ comment: Lendo no ZAGO
 * Sumário
 {:toc}
 
+O processo de formação das células do sangue ocorre principalmente na medula óssea vermelha, presente nos ossos longos, em indivíduos adultos.
+
+> A medula óssea vermelha, fígado, baço e linfonodos são considerados órgãos hematopoiéticos. Os rins, apesar de estimularem a eritropoiese, não possui função hematopoiética propriamente dita.
+
+Nela, as células tronco pluripotentes podem seguir duas linhagens: 
+
+1. Linhagem mieloide
+2. Linhagem linfoide.
+
+A linhagem mieloide irá formar células:
+
+1. Granulocíticas — basófilos, eosinófilos, mastócitos e neutrófilos;
+2. eritrocíticas;
+3. monocitárias;
+4. megacariocitárias.
+
+A linhagem linfoide irá formar os linfócitos:
+
+1. Linfócitos B;
+2. Linfócitos T.
+
 O sangue periférico é constituído por 3 diferentes linhagens celulares:  eritrócitos, leucócitos e plaquetas.
 
 ## Eritrócitos
