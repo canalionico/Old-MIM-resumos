@@ -99,6 +99,8 @@ self.addEventListener('install', function (event) {
       
         '/infectologia/coronavirus.html',
       
+        '/hematologia/anemia-ferropriva.html',
+      
         '/hematologia/hemograma.html',
       
         '/pediatria/ivas.html',

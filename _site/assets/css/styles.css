@@ -253,6 +253,8 @@ a.footnote:after { content: "]"; }
 @media only screen and (min-width: 700px) { #markdown-toc { float: right; } .abertura { display: flex; } }
 
 /* Aqui é pra grande computador */
-@media only screen and (min-width: 900px) { #markdown-toc { position: fixed; top: 0; right: 100px; margin-top: 0; overflow-y: scroll; overflow-x: hidden; height: 80%; max-width: 240px; font-size: 80%; } #markdown-toc li { margin-left: 0; } #markdown-toc ul { padding-left: 15px; } .wrapper { margin-right: 400px; } .abertura { display: flex; } }
+@media only screen and (min-width: 900px) { #markdown-toc { position: fixed; top: 0; right: 100px; margin-top: 0; overflow-y: scroll; overflow-x: hidden; scrollbar-width: none; height: 80%; max-width: 240px; font-size: 80%; } #markdown-toc li { margin-left: 0; } #markdown-toc ul { padding-left: 15px; } .wrapper { margin-right: 400px; } .abertura { display: flex; } }
+
+::-webkit-scrollbar { display: none; }
 
 /*# sourceMappingURL=styles.css.map */
