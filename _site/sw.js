@@ -870,7 +870,7 @@ self.addEventListener('install', function (event) {
       
         '/assets/ginecologia/sua/tab.jpeg'
       
-        '/assets/hematologia/Hematopoiesis_(human)_diagram_pt.svg'
+        '/assets/hematologia/diagrama.svg'
       
         '/assets/hematologia/fluxo.svg'
       
