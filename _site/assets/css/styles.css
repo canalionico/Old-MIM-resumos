@@ -187,6 +187,10 @@ article h4 { font-size: 1.2em; }
 
 article a { text-decoration: underline; }
 
+sup, sub { vertical-align: baseline; position: relative; top: -0.4em; }
+
+sub { top: 0.4em; }
+
 pre { padding: 8px 12px; overflow-x: auto; }
 
 pre > code { border: 0; padding-right: 0; padding-left: 0; }

@@ -73,8 +73,6 @@ self.addEventListener('install', function (event) {
       
         '/hematologia/leucemia-linfoide-aguda-crianca.html',
       
-        '/hematologia/hematopoiese.html',
-      
         '/neonatologia/rubeola-congenita.html',
       
         '/neonatologia/disturbios-do-metabolismo.html',
@@ -102,6 +100,10 @@ self.addEventListener('install', function (event) {
         '/hematologia/anemia-ferropriva.html',
       
         '/hematologia/hemograma.html',
+      
+        '/hematologia/eritropoiese.html',
+      
+        '/hematologia/hematopoiese.html',
       
         '/hematologia/introducao.html',
       
@@ -870,13 +872,25 @@ self.addEventListener('install', function (event) {
       
         '/assets/ginecologia/sua/tab.jpeg'
       
+        '/assets/hematologia/a12fig01.jpg'
+      
+        '/assets/hematologia/b12-e-folato.png'
+      
+        '/assets/hematologia/b12.png'
+      
         '/assets/hematologia/diagrama.svg'
       
+        '/assets/hematologia/eritropoetina.png'
+      
         '/assets/hematologia/fluxo.svg'
+      
+        '/assets/hematologia/hematopoiese.png'
       
         '/assets/hematologia/leucograma.png'
       
         '/assets/hematologia/reticulocitos.png'
+      
+        '/assets/hematologia/sintese-vitamina-b12-organismo.webp'
       
         '/assets/imagens/ca-prostata/estadiamento.png'
       
