@@ -878,17 +878,31 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/b12.png'
       
+        '/assets/hematologia/degradacao-heme.png'
+      
         '/assets/hematologia/diagrama.svg'
       
+        '/assets/hematologia/eliptocitos.png'
+      
         '/assets/hematologia/eritropoetina.png'
+      
+        '/assets/hematologia/esferocitos.png'
       
         '/assets/hematologia/fluxo.svg'
       
         '/assets/hematologia/hematopoiese.png'
       
+        '/assets/hematologia/hemoglobina.webp'
+      
         '/assets/hematologia/leucograma.png'
       
+        '/assets/hematologia/metabolismo-eritrocito.png'
+      
+        '/assets/hematologia/metabolismo-ferro.png'
+      
         '/assets/hematologia/reticulocitos.png'
+      
+        '/assets/hematologia/sintese-heme.png'
       
         '/assets/hematologia/sintese-vitamina-b12-organismo.webp'
       

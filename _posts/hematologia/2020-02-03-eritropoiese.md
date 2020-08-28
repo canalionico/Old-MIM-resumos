@@ -1,5 +1,5 @@
 ---
-title: Eritropoiese
+title: Fisiologia das hemácias
 categories: hematologia
 revisado: 25 Mar 2020
 status: 'false'
@@ -13,9 +13,11 @@ As hemácias são as células mais abundantes no sangue. Possuem um formato bic�
 
 Sua vida média é bastante longa, de 120 dias. Após isso elas são destruídas no fígado e no baço — principalmente este.
 
+# Eritropoiese
+
 Na eritropoiese, uma célula tronco multipotente forma um proeritroblasto que forma um eritroblasto basófilos que forma um eritroblasto policromatófilo que forma um eritroblasto ortocromático. Até aqui, todas essas células possuem núcleos. Em seguida, essa última forma o **reticulócito** que já é liberado sem núcleo na corrente sanguínea.
 
-**Reticulócitos** — são os precurssores das hemácias na corrente sanguínea. Sofrem maturação até se formar numa hemácia adulta. Eles ainda possuem alguns corpúsculos em seu interior que são os restos nucleares e ainda não possuem o formato bicôncavo.
+**Reticulócitos** — são os precurssores das hemácias na corrente sanguínea. Sofrem maturação até se formar numa hemácia adulta. Eles ainda possuem alguns corpúsculos em seu interior que são os restos nucleares e ainda não possuem o formato bicôncavo. Geralmente, é uma célula maior que a hemácia madura e o seu volume é de cerca de 20% maior que o da hemácia e contém grande quantidade de RNA em seu citoplasma, preservando a capacidade de síntese proteica.
 
 **É no baço** que os reticulócitos sofrem ação dos macrófagos para se transformarem em hemácias.
 
@@ -57,6 +59,8 @@ Os principais orgãos que captam o ferro da transferrina são a medula óssea ve
 
 O excesso de ferro fica estocado nas células reticuloendoteliais do fígado, baço e medula óssea, nas formas de ferritina e hemossiderina.[^Grotto] A ferritina é uma forma mais *lábil* e *acessível* para curtos períodos de armazenagem. Já a hemossiderina — um 'aglomerado' de ferritina — é mais *estável* e *menos acessível*.
 
+![Metabolismo do Ferro](/assets/hematologia/metabolismo-ferro.png)
+
 ## Vitamina B12
 
 A vitamina B12 — cobalamina — está presente principalmente em alimentos de origem animal. Ela é absorvida indiretamente por meio da ligação ao ***fator intrínseco***. Sem esse fator, ela não pode ser absorvida pelos enterócitos do **íleo** que possuem receptores para o fator intrínseco.
@@ -81,9 +85,7 @@ Sem o folato, não há produção normal de ácidos nucléicos, o que compromete
 
 O **folato** está intimamente relacionado ao metabolismo da cobalamina. Nós ingerimos o folato na forma metilada (5-metiltetraidrofolato — FH<sub>4</sub>-CH<sub>3</sub>) que pode doar esse radical metil (CH<sub>3</sub>) para a cobalamina (B12) formando a metilcobalamina (B12-CH<sub>3</sub>). A metilcobalamina por sua vez, transfere o radical metil para a **homocisteína** convertendo-a em **metionina**.
 
-
 ![Folato e B12 e homocisteína](/assets/hematologia/b12-e-folato.png)
-
 
 <span class='alert'>
 Nós absorvemos no intestino o folato na forma de metiltetraidrofolato.
@@ -97,11 +99,90 @@ De forma semelhante, a deficiência de cobalamina (B12) também vai impactar a c
 A deficiência de folato e/ou vitamina B12 pode causar anemia megaloblástica.
 </span> 
 
+# Hemoglobina
+
+A hemoglobina é a principal molécula presente nas hemácias. É ela quem dá o pigmento vermelho do sangue e atua principalmente na absorção, transporte e liberação de O<sub>2</sub> para os tecidos. É formada por duas porções: o grupo heme e a porção globina.
+
+## Síntese da hemoglobina
+
+A síntese do Heme ocorre nas mitocôndrias dos eritroblastos. O ferro é um substrato necessário para a síntede do heme e é fornecido através da transferrina. Outro substrato fundamental é o pirrol, a junção de um succinil-CoA com a glicina. Quatro desses anéis pirrólicos formam a protoporfina — alterações nessa etapa vão reusultar nas doenças conhecidas como porfirias.
+
+![Síntese do heme](/assets/hematologia/sintese-heme.png)
+
+A síntese da globina ocorre no ribossomo dos eritroblastos. Ela pode ser formada por 4 cadeias de globinas: alfa, beta. delta e gama. A hemoglobina A do adulto é formada por 2 cadeias alfa e 2 cadeias beta.
+
+Na imagem abaixo, temos a molécula de hemoglobina A do adulto (a) e a molécula do grupo heme (b).
+
+![Hemoglobina](/assets/hematologia/hemoglobina.webp)
+
+Outros tipos de hemoglobina são os a seguir, com as porcentagens de presença no sague de um adulto:
+
+1. HbA: 2α2β (95-98%),
+2. HbA<sub>2</sub>: 2α2δ (1.5-3%),
+3. HbF: 2α2γ (0-1%).
+
+Defeitos na formação da hemoglobina vão resultar em hemoglobinopatias. Dentre elas, temos:
+
+1. **Anemia falciforme** ­— troca de um aminoácidos, um ácido glutâmico pela valina;
+2. **Talassemia** — um defeito quantitativo, com falhas na produção de uma das cadeias de globinas;
+3. **Hemoglobinopatia C** — troca de aminoácidos.
+
+# Função da hemoglobina
+
+A temperatura e o pH ifluenciam na combinação reversível do O<sub>2</sub> à hemoglobina. Quanto maior a **temperatura** e menor o **pH**, menor a afinidade do oxigênio pela hemoglobina.
+
+É o ferro quem se liga ao oxigênio para transporta-lo. Dessa forma, cada molécula de hemoglobina pode transportar até 4 moléculas de oxigênio.
+
+As hemácias também possuem a enzima *anidrase carbônica* capaz de converter CO<sub>2</sub> em ácido carbônico, capaz de se ligar à hemoblogina para ser transportado até os alvéolos. Também funciona como um sistema tampão do pH sanguíneo.  
+
+# Membrana dos eritrócitos
+
+As hemácias possuem a forma de um disco bicôncavo que serve para facilitar a troca gasosa através da membrana
+celular. A composiçao da membrana confere certa maleabilidade aos eritrócitos, de modo que podem atravessar capilares muito finos, se '*espremendo'*.
+
+**Esferócitos** — alterações na estrutura da membrana pode acarretar em hemácias mais esféricas, os chamados esferócitos — presentes na esferocitose hereditária e na anemia hemolítica autoimune.
+
+<figure>
+    <img src='/assets/hematologia/esferocitos.png'>
+    <figcaption>Esferócitos</figcaption>
+</figure>
+
+**Eliptócitos** — são hemácias defeituosas com instabilidade do citoesqueleto presentes por exemplo na eliptose hereditária.
+
+<figure>
+    <img src='/assets/hematologia/eliptocitos.png'>
+    <figcaption>Eliptócitos</figcaption>
+</figure>
+ 
+# Antígenos da membrana
+
+Sistema ABO
 
 
+Sistema Rhesus
+
+# Metabolismo dos eritrócitos
+
+As hemácias não possuem nem núcleo e nem mitocôndrias. Dessa forma, elas não utilizam oxigênio como fonte de energia, fazendo isso por meio de glicose e fosfato por reações no citoplasma.
+
+![Metabolismo do eritrócito](/assets/hematologia/metabolismo-eritrocito.png)
+
+# Destruição dos eritrócitos
+
+**É no baço** — o 'cemitério das hemácias — que os eritrócitos são destruídos após cerca de 120 dias. O baço consegue detectar hemácias com defeitos que passam pelos seus sinusoides. Hemácias lentas ou com pouca maleabilidade da membrana possuem mais dificuldade de passar pelos sinusoides e são fagócitadas pelos macrófagos ali presentes.
+
+Após a destruição, a hemoglobina é separada nos grupos heme e globina. A globina será degradada em aminoácidos e o grupo heme será degradado em **bilirrubina** e **transferrina**.
+
+A **transferrina** reciclada pode ser transportada para a médula ósssea, para fomar novos eritrócitos com hemoglobina, ou ser captada para armazenamento — como ferritina ou hemossiderina.
+
+Essa **bilirrubina indireta** — não conjugada — é transportada no sangue ligada à albumina até os hepatócitos. Nestes, ela sofre conjugação com uma molécula de X para formar a **bilirrubina direta** — conjugada.
+
+![Degraação do Heme](/assets/hematologia/degradacao-heme.png)
+
+A **bilirrubina conjugada** é excretada na bile e no intestino é transformada em **urobilinogênio**. Parte deste é excretado nas fezes na forma de **estercobilina** — após a ação de bactérias — e outra parte é reabsorvida para a corrente sanguínea para ser transformada em **urobilina** pelos **rins** e excretaa na urina.
 
 # Referências
 
 [^Grotto]: Grotto HZW. Metabolismo do ferro: uma revisão sobre os principais mecanismos envolvidos em sua homeostase. Rev Bras Hematol Hemoter. 2008;30(5). doi:[10.1590/S1516-84842008000500012](https://doi.org/10.1590/S1516-84842008000500012).
 
-[^Marks]: Smith CM, Marks AD, Lieberman M. Bioquímica médica básica de Marks: uma abordagem clínica. Artmed; 2007..
+[^Marks]: Smith CM, Marks AD, Lieberman M. Bioquímica médica básica de Marks: uma abordagem clínica. Artmed; 2007.

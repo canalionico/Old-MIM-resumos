@@ -459,11 +459,8 @@ kbd {
   white-space: nowrap;
 }
 blockquote {
-  border-style: solid;
-  border-width: 0 0 0 .2rem;
-  border-color: #6f42c1;
-  padding: .5rem 0 .5rem 2rem;
-  color: gray;
+  color: rgb(59, 59, 59);
+  font-size: 85%;
 }
 img {
   max-width: 90%;
@@ -487,12 +484,12 @@ img {
 }
 figcaption {
   font-size: 15px;
-  padding: 5px 5px 1px 5px;
+  padding: 0;
+  margin-top: -26px;
   text-align: center;
 }
 figure {
-  padding-top: 15px;
-  padding-bottom: 30px;
+  max-width: 100%;
 }
 .caixa {
   background-color: #e2e1e8;
