@@ -256,13 +256,15 @@ body {
   margin: 5px auto;
   width: 100%;
   max-width: 320px;
-
+  text-align: center;
   a {
     font-size: 16px;
   }
 }
 .post-title {
-  margin-bottom: 0;
+  margin-bottom: 10px;
+  font-size: 2.8em;
+  text-align: center;
 }
 p, li {
   line-height: 1.5em;

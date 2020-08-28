@@ -1,0 +1,171 @@
+I"�/<ul id="markdown-toc">
+  <li><a href="#especialização-celular" id="markdown-toc-especialização-celular">Especialização celular</a></li>
+  <li><a href="#irrigação-sanguínea" id="markdown-toc-irrigação-sanguínea">Irrigação sanguínea</a></li>
+  <li><a href="#potencial-de-repouso" id="markdown-toc-potencial-de-repouso">Potencial de repouso</a></li>
+  <li><a href="#despolarização" id="markdown-toc-despolarização">Despolarização</a>    <ul>
+      <li><a href="#nó-sinusal" id="markdown-toc-nó-sinusal">Nó sinusal</a></li>
+      <li><a href="#células-contráteis" id="markdown-toc-células-contráteis">Células contráteis</a></li>
+      <li><a href="#contração-muscular" id="markdown-toc-contração-muscular">Contração muscular</a></li>
+    </ul>
+  </li>
+  <li><a href="#período-refratário" id="markdown-toc-período-refratário">Período refratário</a></li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+</ul>
+
+<p>O estímulo nervoso do coração tem início no <strong>nó sinoatrial</strong> do átrio direito e segue pelos feixes internodais — fibras especializadas na condução de estímulos — até o <strong>nó atrioventricular</strong>. O estímulo chega ao átrio esquerdo por meio de fibras não especializadas da chamada <strong>região de Bachmann</strong>.<sup id="fnref:Alencar" role="doc-noteref"><a href="#fn:Alencar" class="footnote">1</a></sup></p>
+
+<p><strong>Nó atrioventricular</strong> — tem a função de retardar a condução do estímulo para impedir que os átrios e ventrículos se contraiam simultâneamente.</p>
+
+<p><img src="/assets/ecg/anatomia.png" alt="Anatomia" /></p>
+
+<p>Em situações normais, o estímulo só pode chegar aos ventrículos passando pelo nó AV. Isto pois um complexo esqueleto fibroso sustenta as valvas cardíacas da base do coração e é o responsável por isolar eletricamente as câmaras atriais das ventriculares.<sup id="fnref:Saremi" role="doc-noteref"><a href="#fn:Saremi" class="footnote">2</a></sup></p>
+
+<p><img src="/assets/ecg/fibroso.png" alt="Anatomia" /></p>
+
+<p><img src="/assets/ecg/cardio.png" alt="Anatomia" /></p>
+
+<p>Do <strong>nó AV</strong> o estímulo segue pelo <strong>feixe de His</strong>, responsável por levar o estímulo até os ventrículos, e de divide nos ramos direito e esquerdo.</p>
+
+<ol>
+  <li><strong>Ramo direito:</strong> mais fino e frágil, segue pelo septo interventricular até o ventrículo direito;</li>
+  <li><strong>Ramo esquerdo:</strong> com 5-7 mm de diâmetro, segue pelo septo mas ao nível do anel aórtico se divide em duas porções:
+    <ul>
+      <li>Fascículo antero-superior;</li>
+      <li>Fascículo postero-inferior.</li>
+    </ul>
+  </li>
+</ol>
+
+<p><img src="/assets/ecg/fibras.png" alt="Anatomia" /></p>
+
+<p>Do <strong>feixe de His</strong> o estímulo alcança as <strong>fibras de purkinje</strong> e é a partir daqui que será possível a contração dos ventrículos. Notem que essa configuração permite que o estímulo contrátil chegue primeiro às células do ápice cardíaco e posteriormente ascenda  pelas paredes; isso permite a máxima eficiência ventriculas que contrai no sentido do fluxo sanguíneo pelas válvulas.</p>
+
+<h1 id="especialização-celular">Especialização celular</h1>
+
+<p>As células miocárdicas podem se especializar de três formas:</p>
+
+<ol>
+  <li>Células de condução,</li>
+  <li>células de marca-passo,</li>
+  <li>células musculares de contração.</li>
+</ol>
+
+<p>As <strong>células de marco passo</strong> possuem a propríedade de <strong>automatismo</strong>, isto é, se despolarizam independentemente de estímulos que vêm de outras células. São essas células marca-passo quem comandam o rítmo das contrações.</p>
+
+<p><span class="alert">
+Em situações de isquemia, outras células podem passar a apresentar automatismo e isso pode levar a arritmias fatais.
+</span></p>
+
+<h1 id="irrigação-sanguínea">Irrigação sanguínea</h1>
+
+<p>Abaixo está uma imagem com a irrigação das principais estruturas anatômicas da eletrofisiologia cardíaca. De bônus está listado também a repercussão no ECG da condução do estímulo em cada estrutura.<sup id="fnref:Alencar:1" role="doc-noteref"><a href="#fn:Alencar" class="footnote">1</a></sup></p>
+
+<p><img src="/assets/ecg/irrigacao-nos.png" alt="Irrigação" /></p>
+
+<h1 id="potencial-de-repouso">Potencial de repouso</h1>
+
+<p>No repouso, as células cardíacas possuem uma diferença de potencial (DDP) elétrico em relação ao meio externo. Se pergarmos um eletródo e colocarmos dentro de uma célula cardíaca e outro do lado de fora, teremos uma diferença de potencial de <strong>-90 mV</strong>. Dessa forma, no repouso a célula miocárdica está <strong>polarizada!</strong></p>
+
+<p><span class="alert">
+No repouso a célula miocárdica está polarizada.
+</span></p>
+
+<p>Essa DDP ocorre devido à diferença na concentração de eletrólitos entre o meio intra e extra-celular — principalmente o potássio, sódio e cálcio.</p>
+
+<p>O <strong>potássio</strong> é o principal para influenciar nessa DDP, estando em concentrações muito maiores no meio intracelular quando comparado ao meio extracelular.</p>
+
+<p>O <strong>sódio</strong> e o <strong>cálcio</strong> estão em maior concentração no meio extracelular, apesar de o sódio influenciar mais na DDP do que o cálcio.</p>
+
+<p>Resumindo:</p>
+
+<ol>
+  <li>[K] intra &gt;&gt;&gt; extra;</li>
+  <li>[Na] intra &lt;&lt;&lt; extra;</li>
+  <li>[Ca] intra &lt; extra.</li>
+</ol>
+
+<p>Para manter essa DDP, a células cardíaca está sempre gastando energia, mesmo no repouso, para garantir o funcionamento do transporte ativo de eletrólitos.</p>
+
+<h1 id="despolarização">Despolarização</h1>
+
+<p>A condução do estímulo ocorre graças à despolarização da membrana das células cardíacas — por mudança nas concentrações iônicas — que induzem as vizinhas a também se despolarizarem.</p>
+
+<p>O potencial de ação das <strong>células automáticas</strong> é diferente do potencial de ação das <strong>células contráteis</strong>.</p>
+
+<h2 id="nó-sinusal">Nó sinusal</h2>
+
+<p>No nó SA, o potencial de repouso é de -60 mV — <strong>célula polarizada</strong> — que se mantém devido à presença de um canal de potássio com corrente praticamente constante (<em>I<sub>K</sub></em>).</p>
+
+<p>A automaticidade das células do nó sinusal se deve a dois canais:<sup id="fnref:Alencar:2" role="doc-noteref"><a href="#fn:Alencar" class="footnote">1</a></sup></p>
+
+<ol>
+  <li>Os <strong>canais lentos de sódio</strong> que permitem uma entrada constante de sódio independente do potencial de ação.</li>
+  <li>Os <strong>canais tipo T de cálcio</strong> (<em>I<sub>CaT</sub></em>) que fazem entrar cálcio, também carga positiva para dentro da célula.</li>
+</ol>
+
+<p>Esses dois canais vão aos poucos deixando menos negativo o potencial da membrana. Até que a carga de -40 mV é atingida. Quando o potencial alcança esse valor, os canais de cálcio dependentes de voltagem (<em>I<sub>CaL</sub></em>) se abrem, permitindo assim um <strong>grande influxo de cálcio</strong> que eleva o potencial para valores positivos em torno de +10 mV, ou seja, leva à despolarização da membrana.</p>
+
+<!-- Essa parte de potenciais eu provavelmente vou precisar estudar num livro de fisiologia -->
+
+<p>Apesar de, na realidade, o potencial de ação ter passado de polarizado negativo para polarizado positivo; por convenção, chamamos essa transformação em carga
+positiva de <strong>“despolarização”</strong>.<sup id="fnref:Alencar:3" role="doc-noteref"><a href="#fn:Alencar" class="footnote">1</a></sup></p>
+
+<p><span class="alert">
+Despolarização em eletrofisiologia significa: positivei o potencial, fiz nascer o estímulo.
+</span></p>
+
+<p>É essa despolarização automatizada do nó sinusal quem, em condições normais, inicia a condução elétrica do coração e dita o rítmo cardíaco.</p>
+
+<p>Após isso, ser alcançado esse potencial positivo, abrem-se os <strong>canais de potássio</strong> (<em>I<sub>K</sub></em>), que promovem a repolarização da membrana.</p>
+
+<p><span class="alert">
+Repolarização em eletrofisiologia significa: voltei o potencial para negativo, repolarizei a célula para iniciar de novo o processo.
+</span></p>
+
+<h2 id="células-contráteis">Células contráteis</h2>
+
+<p>Já as células contráteis, como vimos, possuem um potencial de repouso mais negativo, de -90 mV.</p>
+
+<p>Ao ocorrer influxo de íons provenientes das células que já se despolarizaram antes através das junções comunicantes, este potencial irá ser levemente positivado, o suficiente para abrir os <strong>canais rápidos de sódio</strong> (<em>I<sub>Na</sub></em>) e desencadear um grande influxo de sódio positivando o potencial de ação para +47 mV. Consequentemente, os canais rápidos de sódio despolarizam a membrana.</p>
+
+<p>Após a despolarização, ocorre abertura dos canais antagônicos responsáveis pela fase de repolarização: potássio que repolariza a célula e cálcio que segue deixando-a despolarizada.</p>
+
+<p>Devido à abertura mais gradual dos canais de cálcio, sua ação é atrasada em relação aos canais de potássio. Esse antagonismo representa a fase de platô do potencial de ação, em que canais de potássio tentam repolarizar a célula e canais de cálcio tentam deixa-la polarizada.</p>
+
+<p>Essa entrada de cálcio também dispara a liberação do <strong>cálcio</strong> armazenado no retículo sarcoplasmático. Dessa forma, uma grande quantidade de cálcio se concentra no meio intracelular e irá participar do <strong>processo de contração muscular</strong>.</p>
+
+<p>Entretanto, não demora para os canais de cálcio se fecharem novamente, pois, com a leve queda do potencial durante o platô, a voltagem deixa de ser suficiente para mantê-los abertos. Consequentemente, a repolarização ocorre, afinal apenas o potássio (carga positiva) está saindo da célula.</p>
+
+<p><span class="alert">
+Sempre lembrar que a despolarização promove a contração e a repolarização o relaxamento.
+</span></p>
+
+<h2 id="contração-muscular">Contração muscular</h2>
+
+<p>Todo esse cálcio no interior da célula vai se ligar à troponina C, que por sua vez irá se ligar à tropomiosina e facilitar o acoplamento das moléculas de actina e miosina, levando à contração da célula.</p>
+
+<h1 id="período-refratário">Período refratário</h1>
+
+<p>Antes da célula poder se despolarizar novamente, após uma repolarização, existe um período em que mesmo sendo estimulada, a célula miocárdica não é capaz de responder adequadamente. A este período chamamos de refratário.</p>
+
+<p>Podemos dividí-lo em três intervalos:</p>
+
+<ol>
+  <li><strong>Absoluto:</strong> independentemente da intensidade do estímulo, a célula não responde;</li>
+  <li><strong>Relativo:</strong> se o estímulo for mais forte que o normal, ela poe responder;</li>
+  <li><strong>Supernormal:</strong> a célula é capaz de se despolarizar com um estímulo mais fraco que o normal.</li>
+</ol>
+
+<h1 id="referências">Referências</h1>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:Alencar" role="doc-endnote">
+      <p>de Alencar Neto JN, Almeida AP, Luna AB, Sternick EB, Carvalho GD, Tome HP et al. Manual de ECG. 1 ed. Salvador: Sanar, 2019. 704p. <a href="#fnref:Alencar" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:Alencar:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a> <a href="#fnref:Alencar:2" class="reversefootnote" role="doc-backlink">&#8617;<sup>3</sup></a> <a href="#fnref:Alencar:3" class="reversefootnote" role="doc-backlink">&#8617;<sup>4</sup></a></p>
+    </li>
+    <li id="fn:Saremi" role="doc-endnote">
+      <p>Saremi F, Sánchez-Quintana D, Mori S, et al. Fibrous Skeleton of the Heart: Anatomic Overview and Evaluation of Pathologic Conditions with CT and MR Imaging. Radiographics. 2017;37(5):1330-1351. doi:10.1148/rg.2017170004 <a href="#fnref:Saremi" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

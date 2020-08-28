@@ -7,24 +7,14 @@ layout: default
   <div class="main">
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-page-info">
-      <i class="picol_user_close"></i><em>por <a href="https://twitter.com/{{ page.author }}">Filipe Mosca</a><br>
-      <i class="picol_calendar"></i>Publicado em {{ page.date | date_to_string }} <br>
-      <i class="picol_flag"></i>Última revisão: {{ page.revisado }} <br>
+      <em>por <a href="https://twitter.com/{{ page.author }}">Filipe Mosca</a><br>
+      Última revisão: {{ page.revisado }} <br>
       
-      <i class="picol_script"></i>Status do artigo: 
-      {% if page.status == "true" %}
-      Concluído<i class="picol_accept"></i>
+      filipemosca@disroot.org <br>
 
-      {% elsif page.status == "false" %}
-      Em construção<i class="picol_cancel"></i>
-
-      {% endif %} <br>
-
-      <i class="picol_mail"></i>filipemosca@disroot.org <br>
-
-      {% if page.comment %}
+      <!-- {% if page.comment %}
         <i class="picol_notes_edit"></i>{{ page.comment }}
-      {% endif %} 
+      {% endif %}  -->
     </p></em>
     <article>
       {{ content }}

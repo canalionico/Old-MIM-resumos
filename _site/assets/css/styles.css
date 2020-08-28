@@ -87,11 +87,11 @@ body { margin: 0 0 0 0; font-family: Georgia, Cambria, "Times New Roman", Times,
 
 .featured-image { object-fit: cover; max-width: 320px; height: 210px; width: 100%; margin: 5px auto 5px; border-radius: 1rem; }
 
-.post-info, .post-page-info { font-size: 16px; color: gray; margin: 5px auto; width: 100%; max-width: 320px; }
+.post-info, .post-page-info { font-size: 16px; color: gray; margin: 5px auto; width: 100%; max-width: 320px; text-align: center; }
 
 .post-info a, .post-page-info a { font-size: 16px; }
 
-.post-title { margin-bottom: 0; }
+.post-title { margin-bottom: 10px; font-size: 2.8em; text-align: center; }
 
 p, li { line-height: 1.5em; }
 

@@ -57,7 +57,9 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
-        '/ecg/ecg1.html',
+        '/ecg/fundamentos-do-ecg.html',
+      
+        '/ecg/eletrofisiologia-cardiaca.html',
       
         '/esclerite-e-episclerite.html',
       
@@ -750,15 +752,27 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/wilkins.jpeg'
       
+        '/assets/ecg/35647b53907cf43de9ec1a488503a3790ee2b3d6.png'
+      
+        '/assets/ecg/anato.png'
+      
+        '/assets/ecg/anatomia-ecg.png'
+      
         '/assets/ecg/anatomia.png'
       
         '/assets/ecg/cardio.png'
       
         '/assets/ecg/ecg.png'
       
+        '/assets/ecg/especialized.png'
+      
         '/assets/ecg/fibras.png'
       
         '/assets/ecg/fibroso.png'
+      
+        '/assets/ecg/irrigacao-nos.png'
+      
+        '/assets/ecg/potenciais-de-acao.png'
       
         '/assets/emergencia/abdome-agudo.jpeg'
       
