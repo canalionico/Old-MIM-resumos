@@ -594,8 +594,6 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/ecg4.jpeg'
       
-        '/assets/cardiologia/ecg5.jpeg'
-      
         '/assets/cardiologia/eh.jpeg'
       
         '/assets/cardiologia/ei/duke.jpg'
@@ -754,6 +752,14 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/35647b53907cf43de9ec1a488503a3790ee2b3d6.png'
       
+        '/assets/ecg/ECG mean axis.png'
+      
+        '/assets/ecg/ECG stnd leads.gif'
+      
+        '/assets/ecg/ECG ventricular vectors.png'
+      
+        '/assets/ecg/QRS vectors animation.gif'
+      
         '/assets/ecg/anato.png'
       
         '/assets/ecg/anatomia-ecg.png'
@@ -762,17 +768,39 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/cardio.png'
       
+        '/assets/ecg/ec01f009b.jpg'
+      
+        '/assets/ecg/ec02f001a.jpg'
+      
+        '/assets/ecg/ec02f006a.jpg'
+      
+        '/assets/ecg/ec02f008a.jpg'
+      
+        '/assets/ecg/ec02f009a.jpg'
+      
+        '/assets/ecg/ec03f004b.jpg'
+      
+        '/assets/ecg/ec03f005b.jpg'
+      
         '/assets/ecg/ecg.png'
       
+        '/assets/ecg/ecg5.jpeg'
+      
         '/assets/ecg/especialized.png'
+      
+        '/assets/ecg/esquema-derivacoes.png'
       
         '/assets/ecg/fibras.png'
       
         '/assets/ecg/fibroso.png'
       
+        '/assets/ecg/fig1.3.jpg'
+      
         '/assets/ecg/irrigacao-nos.png'
       
         '/assets/ecg/potenciais-de-acao.png'
+      
+        '/assets/ecg/resultante-atrio.png'
       
         '/assets/emergencia/abdome-agudo.jpeg'
       

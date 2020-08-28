@@ -1,0 +1,54 @@
+I"<ul id="markdown-toc">
+  <li><a href="#vetores-do-coração" id="markdown-toc-vetores-do-coração">Vetores do coração</a></li>
+  <li><a href="#derivações" id="markdown-toc-derivações">Derivações</a></li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+</ul>
+
+<p>Primeiro precisamos entender que a célula cardíaca funciona como um <strong>dipolo</strong>. A despolarização vai convertendo o meio intracelular de negativo para positivo e isso vai criar um vetor elétrico que pode ser medido pelos eletrodos do eletrocardiograma.</p>
+
+<p>Quando o vetor se aproxima do eletrodo positivo, a deflexão registrada é positiva, quando se afasta, é negativa.</p>
+
+<p><img src="/assets/ecg/35647b53907cf43de9ec1a488503a3790ee2b3d6.png" alt="Dipolo" /></p>
+
+<p><strong>As derivações do ECG</strong> são os ângulos em que posicionamos os eletródos em relação aos vetores de condução cardíacos. São as formas diferentes de enxergar a atividade elétrica.</p>
+
+<p><img src="/assets/ecg/ecg5.jpeg" alt="Derivações" /></p>
+
+<p><img src="/assets/ecg/esquema-derivacoes.png" alt="Derivações" /></p>
+
+<h1 id="vetores-do-coração">Vetores do coração</h1>
+
+<p>Após o estímulo se originar no nó SA, ele se espalha despolarizando os átrios. O vetor resultante da soma desses estímulos é o da imagem abaixo.</p>
+
+<p><img src="/assets/ecg/resultante-atrio.png" alt="Resultante átrios" /></p>
+
+<p>Já a despolarização dos ventrículos, pode ser representada por três principais vetores:</p>
+
+<ol>
+  <li>Ativação septal — direcionado para a direita;</li>
+  <li>Ativação do septo intervetricular descendo em direção ao ápice — para baixado, para esquerda e pra frente;</li>
+  <li>Ativação da base cardíaca — apontando para cima.</li>
+</ol>
+
+<p>Esses três vetores ventrículares são representada pela imagem abaixo.<sup id="fnref:Stroobandt" role="doc-noteref"><a href="#fn:Stroobandt" class="footnote">1</a></sup> O vetor resultante é muito próximo do vetor <em>V<sub>M</sub></em> pois este é o de maior magnitude.</p>
+
+<p><img src="/assets/ecg/ec01f009b.jpg" alt="Ventores ventriculos" /></p>
+
+<h1 id="derivações">Derivações</h1>
+
+<p><img src="/assets/ecg/ECG%20mean%20axis.png" alt="Ventores ventriculos" /></p>
+
+<p>A despolarização atrial é responsável pela onda P no traçado do ECG.</p>
+
+<p><img src="/assets/cardiologia/ondap3.jpeg" alt="Onda P" /></p>
+
+<h1 id="referências">Referências</h1>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:Stroobandt" role="doc-endnote">
+      <p>Stroobandt R, Barold SS, Sinnaeve AF. ECG from Basics to Essentials: Step by Step. John Wiley &amp; Sons, Inc; 2015. <a href="#fnref:Stroobandt" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
