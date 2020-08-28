@@ -22,6 +22,8 @@ self.addEventListener('install', function (event) {
       
         '/sumario/cirurgia.html',
       
+        '/sumario/ecg.html',
+      
         '/sumario/gastroenterologia.html',
       
         '/sumario/ginecologia.html',
@@ -54,6 +56,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/css/styles.css.map',
       
+      
+        '/ecg/ecg1.html',
       
         '/esclerite-e-episclerite.html',
       
@@ -745,6 +749,16 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/vetores.jpg'
       
         '/assets/cardiologia/wilkins.jpeg'
+      
+        '/assets/ecg/anatomia.png'
+      
+        '/assets/ecg/cardio.png'
+      
+        '/assets/ecg/ecg.png'
+      
+        '/assets/ecg/fibras.png'
+      
+        '/assets/ecg/fibroso.png'
       
         '/assets/emergencia/abdome-agudo.jpeg'
       

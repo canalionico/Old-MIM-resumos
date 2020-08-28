@@ -1,0 +1,16 @@
+---
+title: Cardiologia
+layout: category
+---
+
+<div class="post-list">
+    <h2>Eletrocardiograma</h2>
+    <ol>
+        {% for post in site.categories.ecg reversed %}
+        <li class="post-list-li">
+            <h2><a href="{{ post.url | relative_url }}">
+            {{ post.title }}</a></h2>
+        </li>
+        {% endfor %}
+    </ol>
+</div>
