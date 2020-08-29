@@ -57,7 +57,9 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
-        '/ecg/fundamentos-do-ecg.html',
+        '/ecg/eixo-eletrico.html',
+      
+        '/ecg/derivacoes.html',
       
         '/ecg/eletrofisiologia-cardiaca.html',
       
@@ -772,19 +774,37 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/ec02f001a.jpg'
       
+        '/assets/ecg/ec02f002a.jpg'
+      
+        '/assets/ecg/ec02f003a.jpg'
+      
         '/assets/ecg/ec02f006a.jpg'
       
         '/assets/ecg/ec02f008a.jpg'
       
         '/assets/ecg/ec02f009a.jpg'
       
+        '/assets/ecg/ec03f001a.jpg'
+      
+        '/assets/ecg/ec03f004a.jpg'
+      
         '/assets/ecg/ec03f004b.jpg'
       
         '/assets/ecg/ec03f005b.jpg'
       
+        '/assets/ecg/ec03f007b.jpg'
+      
         '/assets/ecg/ecg.png'
       
         '/assets/ecg/ecg5.jpeg'
+      
+        '/assets/ecg/eixo1.jpg'
+      
+        '/assets/ecg/eixo2.jpg'
+      
+        '/assets/ecg/eixo3.jpg'
+      
+        '/assets/ecg/eixo4.jpg'
       
         '/assets/ecg/especialized.png'
       
@@ -796,11 +816,17 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/fig1.3.jpg'
       
+        '/assets/ecg/hexaxial.jpg'
+      
         '/assets/ecg/irrigacao-nos.png'
+      
+        '/assets/ecg/juncao.jpg'
       
         '/assets/ecg/potenciais-de-acao.png'
       
         '/assets/ecg/resultante-atrio.png'
+      
+        '/assets/ecg/rotation.jpg'
       
         '/assets/emergencia/abdome-agudo.jpeg'
       

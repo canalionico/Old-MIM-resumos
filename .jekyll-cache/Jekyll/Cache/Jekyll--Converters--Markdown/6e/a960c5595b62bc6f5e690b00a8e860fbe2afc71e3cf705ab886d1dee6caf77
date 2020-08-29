@@ -1,0 +1,59 @@
+I"<ul id="markdown-toc">
+  <li><a href="#como-calcular-o-eixo" id="markdown-toc-como-calcular-o-eixo">Como calcular o eixo</a>    <ul>
+      <li><a href="#método-simplificado" id="markdown-toc-método-simplificado">Método simplificado</a></li>
+      <li><a href="#método-completo" id="markdown-toc-método-completo">Método completo</a></li>
+    </ul>
+  </li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+</ul>
+
+<p>Para avaliarmos o eixo cardíaco, devemos observar as derivações do plano frontal que foram descritas no capítulo anterior — <a href="/ecg/fundamentos-do-ecg">fundamentos do ECG</a>.</p>
+
+<p>Juntando as derivações bipolares e unipolares, podemos formar o <strong>sistema hexaxial</strong> que forma um circulo com eixos de 30° cada.</p>
+
+<p><img src="/assets/ecg/hexaxial.jpg" alt="Hexaxial" /></p>
+
+<p><strong>O eixo normal</strong> — vai de <strong>-30° a +90°</strong> do círculo hexaxial. Qualquer posicionamento fora dessa região é considerado um desvio. Se o desvio for entre -30° e -90° é à <strong>esquerda</strong> e se for entre +90° e 180° é à <strong>direita</strong>.</p>
+
+<h1 id="como-calcular-o-eixo">Como calcular o eixo</h1>
+
+<p>Para estimarmos o eixo, precisamos observas em quais derivações predomina a positividade do QRS no traçado.</p>
+
+<h2 id="método-simplificado">Método simplificado</h2>
+
+<p>De forma rápida, podemos procurar um complexo QRS isodifádico no ECG, isto é, o vetor do QRS está perpendicular em relação ao eletrodo.</p>
+
+<p>Dessa forma, se o QRS for isodifásico em D1, então o eixo estará posicionado em aVF, podendo ser poisivito (+90°) ou negativo (-90°).</p>
+
+<p>Outro exemplo: se o QRS for isodifásico em D2, então o eixo estará em aVL, podendo ser positivo (-30°) ou negativo (+150°).</p>
+
+<p>Contudo, nem sempre temos complexos QRS isodifásicos no ECG e por isso esse método simplificado nem sempre se aplica. Para calcularmos exatamente a posição do eixo, devemos usar o método completo.</p>
+
+<h2 id="método-completo">Método completo</h2>
+
+<p>Esse é o método que eu prefiro e gosto mais. Aqui, vamos analisar sempre a positividade de D1 e aVF e assim podemos determinar em qual quadrante está o eixo elétrico cardíaco.</p>
+
+<p>Por exemplo, se o QRS for positivo em D1, isso quer dizer que o eixo está localizado em algum ponto do hemisfério esquerdo do círculo. Já se o QRS for positivo em aVF, então o eixo está localizado em algum ponto do polo inferior do círculo. Se traçarmos a intersecção entre essas regiões, o eixo deve estar entre +90° e 0°.</p>
+
+<p>Abaixo está representado um esquema com situações de positividade e negatividade das derivações D1 e aVF e a respectiva posição do quadrante de cada eixo.<sup id="fnref:Stroobandt" role="doc-noteref"><a href="#fn:Stroobandt" class="footnote">1</a></sup></p>
+
+<p><img src="/assets/ecg/ec03f007b.jpg" alt="D1 e aVF" /></p>
+
+<p><span class="alert">
+Se o QRS for positivo em D1 e em aVF, então o eixo só pode estar entre +90° e 0° — normal.
+</span></p>
+
+<p><img src="/assets/ecg/ec03f004a.jpg" alt="Eixo" /></p>
+
+<p><img src="/assets/ecg/ec03f004b.jpg" alt="Eixo2" /></p>
+
+<h1 id="referências">Referências</h1>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:Stroobandt" role="doc-endnote">
+      <p>Stroobandt R, Barold SS, Sinnaeve AF. ECG from Basics to Essentials: Step by Step. John Wiley &amp; Sons, Inc; 2015. <a href="#fnref:Stroobandt" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

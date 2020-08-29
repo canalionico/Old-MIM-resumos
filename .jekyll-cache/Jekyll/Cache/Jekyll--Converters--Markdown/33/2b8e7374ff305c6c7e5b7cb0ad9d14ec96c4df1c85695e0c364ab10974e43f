@@ -1,0 +1,20 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#como-calcular-o-eixo" id="markdown-toc-como-calcular-o-eixo">Como calcular o eixo</a></li>
+</ul>
+
+<p>Para avaliarmos o eixo cardíaco, devemos observar as derivações do plano frontal que foram descritas no capítulo anterior — <a href="/ecg/fundamentos-do-ecg">fundamentos do ECG</a>.</p>
+
+<p>Juntando as derivações bipolares e unipolares, podemos formar o <strong>sistema hexaxial</strong> que forma um circulo com eixos de 30° cada.</p>
+
+<p><img src="/assets/ecg/hexaxial.jpg" alt="Hexaxial" /></p>
+
+<p><strong>O eixo normal</strong> — vai de <strong>-30° a +90°</strong> do círculo hexaxial. Qualquer posicionamento fora dessa região é considerado um desvio. Se o desvio for entre -30° e -90° é à <strong>esquerda</strong> e se for entre +90° e 180° é à <strong>direita</strong>.</p>
+
+<h1 id="como-calcular-o-eixo">Como calcular o eixo</h1>
+
+<p>Para estimarmos o eixo, precisamos observas em quais derivações predomina a positividade do QRS no traçado. Por exemplo, se o QRS for positivo em D1, isso quer dizer que o eixo está localizado em algum ponto do hemisfério esquerdo do círculo. Já se o QRS for positivo em aVF, então o eixo está localizado em algum ponto do polo inferior do círculo.</p>
+
+<p>Se traçarmos a intersecção entre as regiões citadas acima, o eixo deve estar entre +90° e 0°.</p>
+
+<p>De forma rápida, podemos procurar um complexo QRS isodifádico no ECG, isto é, o vetor do QRS está perpendicular em relação ao eletrodo.</p>
+:ET
