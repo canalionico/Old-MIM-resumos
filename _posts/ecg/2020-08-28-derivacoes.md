@@ -11,7 +11,11 @@ Primeiro precisamos entender que a célula cardíaca funciona como um **dipolo**
 
 Quando o vetor se aproxima do eletrodo positivo, a deflexão registrada é positiva, quando se afasta, é negativa.
 
+![Dipolo](/assets/ecg/origin.png)
+
 ![Dipolo](/assets/ecg/35647b53907cf43de9ec1a488503a3790ee2b3d6.png)
+
+
 
 **As derivações do ECG** são os ângulos em que posicionamos os eletródos em relação aos vetores de condução cardíacos. São as formas diferentes de enxergar a atividade elétrica.
 
@@ -36,7 +40,6 @@ Esses três vetores ventrículares são representada pela imagem abaixo.[^Stroob
 ![Ventores ventriculos](/assets/ecg/ec01f009b.jpg)
 
 # Derivações
-
 
 Como o coração é um orgão tridimensional, precisamos de dois planos para representar os vetores. Para isso, utilizamos um plano frontal e outro plano horizontal.
 
@@ -74,6 +77,20 @@ V<sub>1</sub>n é a única que fica do lado direito do esterno. É muito importa
 * V<sub>6</sub> — mesmo nível de V<sub>4</sub>, linha médio-axilar.
 
 ![Precordiais](/assets/ecg/ec02f009a.jpg)
+![Precordiais](/assets/ecg/precordial.png)
+
+A técnica para o correto posicionamento dos eletrodos é demonstrada na imagem abaixo. Primeiro deve-se palpar o nó supraesternal e deslize os dedos para baixo até identificar o **ângulo de Louis** — a junção do manúbrio com o corpo do esterno.
+
+A segunda costela tem continuidade com o ângulo de Louis e assim pode ser identificada. Deslize os dedos abaixo para chegar ao 2º espaço intercostal esquerdo (EIE) e vá descendo até chegar no 4° EIE. Este vai orientar os posicionamentos seguintes.[^Stroobandt]
+
+![Precordiais](/assets/ecg/posicionamento.png)
+
+## Juntando os planos
+
+Cada derivação reflete a atividade elétrica de uma parede cardíaca. Na imagem abaixo podemos ver essa correspondência.[^Stroobandt]
+
+![Juntando](/assets/ecg/soma.png)
+
 
 # Registro do eletrocardiograma
 

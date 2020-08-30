@@ -57,6 +57,8 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
+        '/ecg/ondas-segmentos-intervalos.html',
+      
         '/ecg/eixo-eletrico.html',
       
         '/ecg/derivacoes.html',
@@ -768,7 +770,15 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/anatomia.png'
       
+        '/assets/ecg/anatomia2.png'
+      
         '/assets/ecg/cardio.png'
+      
+        '/assets/ecg/curvas.png'
+      
+        '/assets/ecg/curvas2.png'
+      
+        '/assets/ecg/despolarizacao.png'
       
         '/assets/ecg/ec01f009b.jpg'
       
@@ -822,11 +832,23 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/juncao.jpg'
       
+        '/assets/ecg/origin.png'
+      
+        '/assets/ecg/posicionamento.png'
+      
         '/assets/ecg/potenciais-de-acao.png'
+      
+        '/assets/ecg/precordial.png'
+      
+        '/assets/ecg/regua.png'
       
         '/assets/ecg/resultante-atrio.png'
       
         '/assets/ecg/rotation.jpg'
+      
+        '/assets/ecg/soma.png'
+      
+        '/assets/ecg/voltimeter.png'
       
         '/assets/emergencia/abdome-agudo.jpeg'
       
