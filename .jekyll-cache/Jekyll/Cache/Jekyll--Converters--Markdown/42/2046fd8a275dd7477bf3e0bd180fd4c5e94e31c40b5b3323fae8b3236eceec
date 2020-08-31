@@ -1,0 +1,69 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#conceitos" id="markdown-toc-conceitos">Conceitos</a></li>
+  <li><a href="#onda-p" id="markdown-toc-onda-p">Onda P</a></li>
+  <li><a href="#complexo-qrs" id="markdown-toc-complexo-qrs">Complexo QRS</a></li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+</ul>
+
+<p>Relembrando rapidamente o fluxo da atividade elétrica: o estímulo se origina no nó sinusal, percorre os feixes internodais e para no nó atrioventricular — pausa entre a contração atrial e ventricular. Em seguida, o estimulo desce pelo feixe de His e segue pelas fibras de Purkinje.</p>
+
+<p><img src="/assets/ecg/anatomia2-cut.png" alt="Fluxo" /></p>
+
+<h1 id="conceitos">Conceitos</h1>
+
+<p>As <strong>ondas</strong> traduzem a despolarização e a repolarização das câmaras cardíacas. Precisamos conhecer as ondas P, QRS e T.</p>
+
+<p><strong>Intervalos</strong> são os espaços entre o início de uma onda e o ínicio ou final de outra. Precisamos conhecer os intervalos PR e QT.</p>
+
+<p><strong>Segmentos</strong> são os espaços entre as ondas do ECG. Precisamos conhecer o segmento ST.</p>
+
+<p><span class="alert">
+A diferença entre o segmento e o intervalo é que o segmento não engloba ondas, apenas regiões isoelétricas.
+</span></p>
+
+<p><img src="/assets/ecg/ecg.png" alt="ECG" /></p>
+
+<p><strong>Onda P</strong> — representa a contração atrial, sendo a soma de ambos os átrios.</p>
+
+<p><strong>Intervalo PR</strong> — representa o intervalo fisiológico do nó AV entre a contração atrial e a contração ventricular.</p>
+
+<p><strong>Complexo QRS</strong> — representa a despolarização ventricular, a sistole.</p>
+
+<p><strong>Onda T e segmento ST</strong> — representam a repolarização ventricular.</p>
+
+<h1 id="onda-p">Onda P</h1>
+
+<p>Como vimos, a onda P representa a despolarização atrial. Como a parede dos átrios é bem mais fina, a onda possui menor magnitude que a despolarização ventricular.</p>
+
+<p>Lembrando que o nó SA se localiza no topo do AD, próximo à entrada da veia cava e a despolarização se dá da direita para a esquerda.</p>
+
+<p>A onda P é a soma das ondas de cada átrio, P1 e P2, como pode ser visto na imagem abaixo.</p>
+
+<p><img src="/assets/ecg/ondap.png" alt="Onda P" /></p>
+
+<p>A primeira metade coresponde ao AD e a segunda ao AE. Com frequência ela pode ser bifásica em D3 — embora não é incomum que ela seja negativa em corações perfeitamente normais.</p>
+
+<p>Em <strong>aVR ela deve ser deflexão puramente negativa</strong>, pois está oposta ao sentido da despolarização atrial. V5 e V6 registram uma deflexão positiva, V1 registra uma onda bifásica, V2 a V4 são variáveis.</p>
+
+<p><img src="/assets/ecg/ondap2.png" alt="Onda P" /></p>
+
+<p>A <strong>amplitude</strong> da onda P normalmente não excede 0.25 mV (2.5 mm) em qualquer derivação, sendo geralmente é mais positiva em D2 e mais negativa em aVR. A <strong>duração</strong> normal é de até 0.12 s (3 mm)</p>
+
+<ol>
+  <li>Amplitude — até 0.25 mV (3 mm).</li>
+  <li>Duração — até 0.12 s (2.5 mm).</li>
+</ol>
+
+<p><img src="/assets/ecg/ondap3.png" alt="Onda P" /></p>
+
+<p>A onda P é importantíssima para sabermos <strong>se o ritmo é sinusal</strong> ou não; avaliarmos sobrecargas atriais direitas e esquerdas; e sugerir patologias como valvopatia mitral, tricúspide, hipertensão pulmonar e sistêmica graves. Se a onda P for ausente pode haver presença de fibrilaçlão atrial ou <em>flutter</em> atrial.</p>
+
+<h1 id="complexo-qrs">Complexo QRS</h1>
+
+<p><img src="/assets/ecg/qrs.png" alt="QRS" /></p>
+
+<p><img src="/assets/ecg/qrs-animation.gif" alt="Despolarização gif" /></p>
+
+<h1 id="referências">Referências</h1>
+
+:ET

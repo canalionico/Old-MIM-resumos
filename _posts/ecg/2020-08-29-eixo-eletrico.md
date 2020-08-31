@@ -7,6 +7,8 @@ revisado: 29 Mar 2020
 * Sumário
 {:toc}
 
+Primeiros precisamos ter em mente que o eixo cardíaco anatômico é diferente do eixo cardíaco elétrico.
+
 Para avaliarmos o eixo cardíaco, devemos observar as derivações do plano frontal que foram descritas no capítulo anterior — [fundamentos do ECG](/ecg/derivacoes).
 
 Juntando as derivações bipolares e unipolares, podemos formar o **sistema hexaxial** que forma um circulo com eixos de 30° cada.
@@ -82,6 +84,9 @@ Se a zona de transição for em V2 ou V1, o coração está rodado no sentido **
 * Transição em V5/V6 — rotação horária.
 
 ![Rotação](/assets/ecg/rotation.jpg)
+
+Apesar de o eixo da onda R ser posterior, a sua amplitude geralmente é maior em V5 — ou V4 — ao invés de V6 por causa do efeito atenuante promovido pelos pulmões.[^Stroobandt]
+
 
 # Referências
 

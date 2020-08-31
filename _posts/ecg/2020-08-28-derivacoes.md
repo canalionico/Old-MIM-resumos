@@ -1,5 +1,5 @@
 ---
-title: Derivações do ECG
+title: As derivações e o registro do ECG
 categories: ecg
 revisado: 29 Mar 2020
 ---
@@ -9,19 +9,17 @@ revisado: 29 Mar 2020
 
 Primeiro precisamos entender que a célula cardíaca funciona como um **dipolo**. A despolarização vai convertendo o meio intracelular de negativo para positivo e isso vai criar um vetor elétrico que pode ser medido pelos eletrodos do eletrocardiograma.
 
-Quando o vetor se aproxima do eletrodo positivo, a deflexão registrada é positiva, quando se afasta, é negativa.
+A deflecção no traçado do ECG corresponde à projeção da voltagem do vetor na linha da derivação. Quando o vetor se aproxima do eletrodo positivo, a deflexão registrada é **positiva**, quando se afasta, é **negativa**. E se o vetor for perpendicular ao eixo da derivação, **nennuma deflecção** é obtida.[^Stroobandt]
+
+Outro conceito importante é que o vetor resultante cardíaco está sempre se movendo de direção. Quando o vetor o vetor gira passando pela linha perpendicular — indo de negativo para positivo — uma **onda bifásica** é registrada. Se a porção positiva e negativa tiverem a mesma magnitude, registraremos uma **onda isodifásica**.
 
 ![Dipolo](/assets/ecg/origin.png)
 
-![Dipolo](/assets/ecg/35647b53907cf43de9ec1a488503a3790ee2b3d6.png)
+A magnitude da voltagem do vetor é proporcional à quantidade de massa miocárdica que simultaneamente está despolarizando. Por isso, a parede ventricular mais espessa é eletricamente dominante.
 
+![Vetor girando](/assets/ecg/axies-movement.png)
 
-
-**As derivações do ECG** são os ângulos em que posicionamos os eletródos em relação aos vetores de condução cardíacos. São as formas diferentes de enxergar a atividade elétrica.
-
-![Derivações](/assets/ecg/ecg5.jpeg)
-
-![Derivações](/assets/ecg/esquema-derivacoes.png)
+**As várias derivações do ECG** são os ângulos em que posicionamos os eletródos em relação aos vetores de condução cardíacos. A partir deles dispomos de perspectivas diferentes para enxergar a atividade elétrica cardíaca.
 
 # Vetores do coração
 
@@ -94,22 +92,13 @@ Cada derivação reflete a atividade elétrica de uma parede cardíaca. Na image
 
 # Registro do eletrocardiograma
 
-O traçado do ECG é registrado em papel milimetrado que segue o padrão a seguir:
-
-A voltagem é registrada no exito vertical em milivolts. Cada quadrado com altura de 1 mm representa exatos **0.1 mV**.
+O traçado do ECG é registrado em papel milimetrado que segue o padrão a seguir: a voltagem é registrada no exito vertical em milivolts. Cada quadrado com altura de 1 mm representa exatos **0.1 mV**.
 
 ![Derivações](/assets/ecg/ec02f002a.jpg)
 
 O tempo é registrado no eixo horizontal e medido em segundos. Por padrão, a velocidade de registro do ECG é de **25 mm/s**. Dessa forma, cada mm do traçado representa o intervalo de 1/25 segundos, ou seja, **0.04 segundos** (40 ms).
 
 ![Derivações](/assets/ecg/ec02f003a.jpg)
-
-# O traçado no ECG
-
-A despolarização atrial é responsável pela onda P no traçado do ECG. 
-
-![Onda P](/assets/cardiologia/ondap3.jpeg)
-
 
 # Referências
 

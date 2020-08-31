@@ -760,17 +760,13 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/ECG stnd leads.gif'
       
-        '/assets/ecg/ECG ventricular vectors.png'
-      
-        '/assets/ecg/QRS vectors animation.gif'
-      
         '/assets/ecg/anato.png'
       
-        '/assets/ecg/anatomia-ecg.png'
-      
-        '/assets/ecg/anatomia.png'
+        '/assets/ecg/anatomia2-cut.png'
       
         '/assets/ecg/anatomia2.png'
+      
+        '/assets/ecg/axies-movement.png'
       
         '/assets/ecg/cardio.png'
       
@@ -806,8 +802,6 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/ecg.png'
       
-        '/assets/ecg/ecg5.jpeg'
-      
         '/assets/ecg/eixo1.jpg'
       
         '/assets/ecg/eixo2.jpg'
@@ -815,10 +809,6 @@ self.addEventListener('install', function (event) {
         '/assets/ecg/eixo3.jpg'
       
         '/assets/ecg/eixo4.jpg'
-      
-        '/assets/ecg/especialized.png'
-      
-        '/assets/ecg/esquema-derivacoes.png'
       
         '/assets/ecg/fibras.png'
       
@@ -832,13 +822,23 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/juncao.jpg'
       
+        '/assets/ecg/ondap.png'
+      
+        '/assets/ecg/ondap2.png'
+      
+        '/assets/ecg/ondap3.png'
+      
         '/assets/ecg/origin.png'
       
         '/assets/ecg/posicionamento.png'
       
-        '/assets/ecg/potenciais-de-acao.png'
-      
         '/assets/ecg/precordial.png'
+      
+        '/assets/ecg/precordial2.png'
+      
+        '/assets/ecg/qrs-animation.gif'
+      
+        '/assets/ecg/qrs.png'
       
         '/assets/ecg/regua.png'
       

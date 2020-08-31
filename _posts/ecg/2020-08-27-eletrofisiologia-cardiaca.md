@@ -10,9 +10,9 @@ revisado: 28 Mar 2020
 O estímulo nervoso do coração tem início no **nó sinoatrial** do átrio direito e segue pelos feixes internodais — fibras especializadas na condução de estímulos — até o **nó atrioventricular**. O estímulo chega ao átrio esquerdo por meio de fibras não especializadas da chamada **região de Bachmann**.[^Alencar]
 
 **Nó atrioventricular** — tem a função de retardar a condução do estímulo para impedir que os átrios e ventrículos se contraiam simultâneamente.
+![Anatomia](/assets/ecg/anatomia2.png)
 
 ![Potenciais de ação](/assets/ecg/anato.png)
-![Anatomia](/assets/ecg/anatomia.png)
 
 Em situações normais, o estímulo só pode chegar aos ventrículos passando pelo nó AV. Isto pois um complexo esqueleto fibroso sustenta as valvas cardíacas da base do coração e é o responsável por isolar eletricamente as câmaras atriais das ventriculares.[^Saremi]
 
@@ -73,13 +73,16 @@ Resumindo:
 
 Para manter essa DDP, a células cardíaca está sempre gastando energia, mesmo no repouso, para garantir o funcionamento do transporte ativo de eletrólitos.
 
+![Dipolo](/assets/ecg/despolarizacao.png)
+
+
 # Despolarização
 
 A condução do estímulo ocorre graças à despolarização da membrana das células cardíacas — por mudança nas concentrações iônicas — que induzem as vizinhas a também se despolarizarem.
 
 O potencial de ação das **células automáticas** é diferente do potencial de ação das **células contráteis**, como pode ser visto na imagem abaixo.[^Boron]
 
-![Potenciais de ação](/assets/ecg/potenciais-de-acao.png)
+![Potenciais de ação](/assets/ecg/curvas.png)
 
 ## Nó sinusal
 
@@ -100,6 +103,9 @@ positiva de **“despolarização”**.[^Alencar]
 <span class='alert'>
 Despolarização em eletrofisiologia significa: positivei o potencial, fiz nascer o estímulo.
 </span>
+
+
+![Potenciais de ação](/assets/ecg/curvas2.png)
 
 É essa despolarização automatizada do nó sinusal quem, em condições normais, inicia a condução elétrica do coração e dita o rítmo cardíaco.
 
