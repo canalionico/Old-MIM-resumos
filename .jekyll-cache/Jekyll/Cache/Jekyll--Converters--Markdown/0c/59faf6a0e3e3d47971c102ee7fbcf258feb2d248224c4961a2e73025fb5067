@@ -1,0 +1,27 @@
+I"3<ul id="markdown-toc">
+  <li><a href="#calculando-o-ritmo" id="markdown-toc-calculando-o-ritmo">Calculando o ritmo</a>    <ul>
+      <li><a href="#ritmo-irregular" id="markdown-toc-ritmo-irregular">Ritmo irregular</a></li>
+    </ul>
+  </li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+</ul>
+
+<h1 id="calculando-o-ritmo">Calculando o ritmo</h1>
+
+<p>Para calcularmos o ritmo cardíaco podemos dividir 1500 pelo comprimento horizontal — número de quadradinhos de 1 mm — entre as ondas R. Mas por que 1500?</p>
+
+<p>A velocidade padrão do registro de ECG é de 25 mm/s. Logo, em 60 segundos o papel se desloca 1500 mm. Então, se dividirmos o comprimento entre as ondas R pelo comprimento de um minuto de deslocamento do papel, teremos a frequência cardíaca.</p>
+
+<p><img src="/assets/ecg/heart-rate2.png" alt="FC" /></p>
+
+<p>Na imagem acima, o intervalo RR possui 23 mm. Dividindo 1500 por 23 temos que a frequência cardíaca desse ECG é de 65 bpm.</p>
+
+<h2 id="ritmo-irregular">Ritmo irregular</h2>
+
+<p>No ECG padrão, geralmente temos o registro de um ‘D2 longo’ — a derivação D2 é registrada por mais tempo. Ela é colhida justamente pensando na avaliação de arritmias.</p>
+
+<p><img src="/assets/ecg/d2-longo.png" alt="FC" /></p>
+
+<h1 id="referências">Referências</h1>
+
+:ET

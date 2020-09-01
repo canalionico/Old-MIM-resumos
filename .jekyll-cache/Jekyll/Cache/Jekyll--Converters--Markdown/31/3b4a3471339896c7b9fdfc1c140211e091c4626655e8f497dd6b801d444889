@@ -1,0 +1,156 @@
+I"Q"<ul id="markdown-toc">
+  <li><a href="#conceitos" id="markdown-toc-conceitos">Conceitos</a></li>
+  <li><a href="#onda-p" id="markdown-toc-onda-p">Onda P</a></li>
+  <li><a href="#intervalo-pr" id="markdown-toc-intervalo-pr">Intervalo PR</a></li>
+  <li><a href="#complexo-qrs" id="markdown-toc-complexo-qrs">Complexo QRS</a></li>
+  <li><a href="#segmento-st" id="markdown-toc-segmento-st">Segmento ST</a></li>
+  <li><a href="#onda-t" id="markdown-toc-onda-t">Onda T</a></li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+</ul>
+
+<p>Relembrando rapidamente o fluxo da atividade elétrica: o estímulo se origina no nó sinusal, percorre os feixes internodais e para no nó atrioventricular — pausa entre a contração atrial e ventricular. Em seguida, o estimulo desce pelo feixe de His e segue pelas fibras de Purkinje.</p>
+
+<p><img src="/assets/ecg/anatomia2-cut.png" alt="Fluxo" /></p>
+
+<h1 id="conceitos">Conceitos</h1>
+
+<p>As <strong>ondas</strong> traduzem a despolarização e a repolarização das câmaras cardíacas. Precisamos conhecer as ondas P, QRS e T.</p>
+
+<p><strong>Intervalos</strong> são os espaços entre o início de uma onda e o ínicio ou final de outra. Precisamos conhecer os intervalos PR e QT.</p>
+
+<p><strong>Segmentos</strong> são os espaços entre as ondas do ECG. Precisamos conhecer o segmento ST.</p>
+
+<p><span class="alert">
+A diferença entre o segmento e o intervalo é que o segmento não engloba ondas, apenas regiões isoelétricas.
+</span></p>
+
+<p><img src="/assets/ecg/ecg.png" alt="ECG" /></p>
+
+<p><strong>Onda P</strong> — representa a contração atrial, sendo a soma de ambos os átrios.</p>
+
+<p><strong>Intervalo PR</strong> — representa o intervalo fisiológico do nó AV entre a contração atrial e a contração ventricular. A duração normal é de 0.12 a 0.20 segundos (3 a 5 mm).</p>
+
+<p><strong>Segmento PR</strong> — representa o tempo do final da despolarização atrial até o início da despolarização ventricular. Geralmente é horizontal e corre ao longo da mesma linha de base do início da onda P.</p>
+
+<p><strong>Complexo QRS</strong> — representa a despolarização ventricular, a sistole.</p>
+
+<p><strong>Onda T e segmento ST</strong> — representam a repolarização ventricular.</p>
+
+<h1 id="onda-p">Onda P</h1>
+
+<p>Como vimos, a onda P representa a despolarização atrial. Como a parede dos átrios é bem mais fina, a onda possui menor magnitude que a despolarização ventricular.</p>
+
+<p>Lembrando que o nó SA se localiza no topo do AD, próximo à entrada da veia cava e a despolarização se dá da direita para a esquerda.</p>
+
+<p>A onda P é a soma das ondas de cada átrio, P1 e P2, como pode ser visto na imagem abaixo. O átrio direito (P1) despolariza primeiro e a despolarização do átrio esquerda (P2) é um pouco retardada pois os <strong>feixes de Bachamnn</strong> são mais lentos.<sup id="fnref:Stroobandt" role="doc-noteref"><a href="#fn:Stroobandt" class="footnote">1</a></sup></p>
+
+<p><img src="/assets/ecg/ondap.png" alt="Onda P" /></p>
+
+<p>Dessa forma, a primeira metade coresponde ao AD e a segunda ao AE. Com frequência ela pode ser bifásica em D3 — embora não é incomum que ela seja negativa em corações perfeitamente normais.</p>
+
+<p>Em <strong>aVR ela deve ser sempre uma deflexão puramente negativa</strong>, pois está oposta ao sentido da despolarização atrial; sendo também sempre positiva em D2. V5 e V6 registram uma deflexão positiva, V1 registra uma onda bifásica, V2 a V4 são variáveis.</p>
+
+<p><img src="/assets/ecg/ondap2.png" alt="Onda P" /></p>
+
+<p>A <strong>amplitude</strong> da onda P normalmente não excede 0.25 mV (2.5 mm) em qualquer derivação, sendo geralmente é mais positiva em D2 e mais negativa em aVR. A <strong>duração</strong> normal é de até 0.12 s (3 mm)</p>
+
+<ol>
+  <li>Amplitude — até 0.25 mV (3 mm).</li>
+  <li>Duração — até 0.12 s (2.5 mm).</li>
+</ol>
+
+<p>A onda P normal tem um contorno suave e nunca é pontiaguda ou pontiaguda. As melhores derivações para avaliarmos a onda P geralmente são <strong>D2 e V1</strong>. Em D2 ela  costuma ser mais positiva e em V1 a onda bifásica costuma dividir bem o componente P1 (AD), positivo, do componente P2 (AE), negativo — como podemos ver na imagem abaixo.</p>
+
+<p><img src="/assets/ecg/ondap3.png" alt="Onda P" /></p>
+
+<p>A onda P é importantíssima para sabermos <strong>se o ritmo é sinusal</strong> ou não; avaliarmos sobrecargas atriais direitas e esquerdas; e sugerir patologias como valvopatia mitral, tricúspide, hipertensão pulmonar e sistêmica graves. Se a onda P for ausente pode haver presença de fibrilaçlão atrial ou <em>flutter</em> atrial.</p>
+
+<h1 id="intervalo-pr">Intervalo PR</h1>
+
+<p>Representa o intervalo fisiológico do nó AV entre a contração atrial e a contração ventricular. A duração normal é de 0.12 a 0.20 segundos (3 a 5 mm).</p>
+
+<p>Duração normal:</p>
+
+<ul>
+  <li>120 a 200 ms <em>ou</em>,</li>
+  <li>3 a 5 mm.</li>
+</ul>
+
+<p><img src="/assets/ecg/pr-interval-normal.png" alt="Intervalo PR normal" /></p>
+
+<p>Alterações no intervalo PR podem significar: presença de bloqueio AV; infradesnivelamentos podem sugerir pericardite; PR curto pode indicar uma síndrome de pré-excitação.</p>
+
+<p>Intervalo PR curto:</p>
+
+<p><img src="/assets/ecg/pr-interval-short.png" alt="Intervalo PR curto" /></p>
+
+<p>Intervalo PR longo:</p>
+
+<p><img src="/assets/ecg/pr-interval-long.png" alt="Intervalo PR longo" /></p>
+
+<h1 id="complexo-qrs">Complexo QRS</h1>
+
+<p>O complexo QRS é um conjunto de ondas que representa a despolarização ventricular, a sistole.</p>
+
+<p><strong>Onda Q</strong> — é a primeira deflexão negativa. Ela é representada pelo vetor da despolarização septal, que ocorre da esquerda para a direita.</p>
+
+<p><strong>Onda R</strong> — é a primeira deflexão positiva. Corresponde ao vetor resultante da despolarização das paredes livres dos ventrículos.</p>
+
+<p><strong>Onda S</strong> — é a deflexão negativa após a onda R. Corresponde à despolarização das regiões basais dos ventrículos.</p>
+
+<p><strong>Intervalo QRS</strong> — representa a duração do complexo QRS, tem 60 a 100 ms de duração. Se for maior que 120 ms, está alterado.</p>
+
+<p>Devemos avaliar:</p>
+
+<ol>
+  <li>Morfologia;</li>
+  <li>Duração — de 60 a 100 ms (1.5 a 2.5 mm);</li>
+  <li>Amplitude — ver sobrecarga ventricular.</li>
+</ol>
+
+<p><img src="/assets/ecg/qrs.png" alt="QRS" /></p>
+
+<p>A formação animada do QRS pode ser ilustrada pelo GIF abaixo. Devemos lembrar que o vetor elétrico resultante muda de direção ao longo do tempo, fazendo um giro.</p>
+
+<p><img src="/assets/ecg/qrs-animation.gif" alt="Despolarização gif" /></p>
+
+<p>O giro do vetor resultante pode ser demonstrado pela imagem abaixo.</p>
+
+<p><img src="/assets/ecg/axies-movement.png" alt="Giro" /></p>
+
+<p>Lembrar da progressão do QRS, principalmente do R e S. De V1 a V6, as ondas R e S vão positivando — ver mais em <a href="/ecg/eixo-eletrico">‘eixo elétrico cardíaco’</a>.</p>
+
+<p><img src="/assets/ecg/ec03f005b.jpg" alt="Progressão QRS" /></p>
+
+<p>Altrações no QRS podem sugerir: bloqueios de ramos; presença de regiões eletricamente inativas — infarto prévio —; sobrecarga ventricular, pré-excitação.</p>
+
+<h1 id="segmento-st">Segmento ST</h1>
+
+<p>Começa após a despolarização ventricular e vai até antes do início da repolarização ventricular.</p>
+
+<p>O segmento ST deve ser isoelético, ou seja, deve estar no mesmo nível do segmento PR. Ele até pode estar desnivelado 0.5 mm acima ou abaixo, mas não mais do que isso.</p>
+
+<p>Ele é extremamente importante no contexto das síndromes coronarianas agudas. Se houver <strong>supradesnivelamento do segmento ST</strong>, está indicada a reperfusão miocárdica imediata — senão houver um diagnóstico diferencial mais provável.</p>
+
+<p><img src="/assets/ecg/ascenso-segmento-st.png" alt="Supra" /></p>
+
+<p>Num contexto mais crônico, o <strong>infradesnivelamento do segmento ST</strong> pode sugerir lesão de órgão alvo se associado a achados de sobrecarga ventricular.</p>
+
+<p><img src="/assets/ecg/descenso-segmento-st.png" alt="Infra" /></p>
+
+<p><span class="alert">
+Algumas medicações podem desnivelar o ST, como a impregnação por digitálicos.
+</span></p>
+
+<h1 id="onda-t">Onda T</h1>
+
+<h1 id="referências">Referências</h1>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:Stroobandt" role="doc-endnote">
+      <p>Stroobandt R, Barold SS, Sinnaeve AF. ECG from Basics to Essentials: Step by Step. John Wiley &amp; Sons, Inc; 2015. <a href="#fnref:Stroobandt" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET

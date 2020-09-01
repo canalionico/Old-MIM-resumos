@@ -57,6 +57,8 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
+        '/ecg/ritmo-e-frequencia.html',
+      
         '/ecg/ondas-segmentos-intervalos.html',
       
         '/ecg/eixo-eletrico.html',
@@ -754,6 +756,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/cardiologia/wilkins.jpeg'
       
+        '/assets/ecg/35647b53907cf43de9ec1a488503a3790ee2b3d6 (2).png'
+      
         '/assets/ecg/35647b53907cf43de9ec1a488503a3790ee2b3d6.png'
       
         '/assets/ecg/ECG mean axis.png'
@@ -766,13 +770,21 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/anatomia2.png'
       
+        '/assets/ecg/ascenso-segmento-st.png'
+      
         '/assets/ecg/axies-movement.png'
+      
+        '/assets/ecg/calculo-qtc.png'
       
         '/assets/ecg/cardio.png'
       
         '/assets/ecg/curvas.png'
       
         '/assets/ecg/curvas2.png'
+      
+        '/assets/ecg/d2-longo.png'
+      
+        '/assets/ecg/descenso-segmento-st.png'
       
         '/assets/ecg/despolarizacao.png'
       
@@ -789,8 +801,6 @@ self.addEventListener('install', function (event) {
         '/assets/ecg/ec02f008a.jpg'
       
         '/assets/ecg/ec02f009a.jpg'
-      
-        '/assets/ecg/ec03f001a.jpg'
       
         '/assets/ecg/ec03f004a.jpg'
       
@@ -816,7 +826,11 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/fig1.3.jpg'
       
+        '/assets/ecg/heart-rate2.png'
+      
         '/assets/ecg/hexaxial.jpg'
+      
+        '/assets/ecg/hiperpotasemia-leve.png'
       
         '/assets/ecg/irrigacao-nos.png'
       
@@ -832,6 +846,12 @@ self.addEventListener('install', function (event) {
       
         '/assets/ecg/posicionamento.png'
       
+        '/assets/ecg/pr-interval-long.png'
+      
+        '/assets/ecg/pr-interval-normal.png'
+      
+        '/assets/ecg/pr-interval-short.png'
+      
         '/assets/ecg/precordial.png'
       
         '/assets/ecg/precordial2.png'
@@ -839,6 +859,8 @@ self.addEventListener('install', function (event) {
         '/assets/ecg/qrs-animation.gif'
       
         '/assets/ecg/qrs.png'
+      
+        '/assets/ecg/qt-interval-normal.png'
       
         '/assets/ecg/regua.png'
       
