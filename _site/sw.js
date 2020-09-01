@@ -113,6 +113,8 @@ self.addEventListener('install', function (event) {
       
         '/hematologia/hemograma.html',
       
+        '/hematologia/leucocitos.html',
+      
         '/hematologia/eritropoiese.html',
       
         '/hematologia/hematopoiese.html',
@@ -998,6 +1000,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/ginecologia/sua/tab.jpeg'
       
+        '/assets/hematologia/Basophil.jpg'
+      
+        '/assets/hematologia/Eosinófilo.jpg'
+      
         '/assets/hematologia/a12fig01.jpg'
       
         '/assets/hematologia/b12-e-folato.png'
@@ -1008,6 +1014,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/diagrama.svg'
       
+        '/assets/hematologia/diapedese.jpeg'
+      
         '/assets/hematologia/eliptocitos.png'
       
         '/assets/hematologia/eritropoetina.png'
@@ -1016,9 +1024,13 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/fluxo.svg'
       
+        '/assets/hematologia/granulocitopoiese.svg'
+      
         '/assets/hematologia/hematopoiese.png'
       
         '/assets/hematologia/hemoglobina.webp'
+      
+        '/assets/hematologia/image2vector.svg'
       
         '/assets/hematologia/leucograma.png'
       
@@ -1026,11 +1038,19 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/metabolismo-ferro.png'
       
+        '/assets/hematologia/monocitos.jpg'
+      
+        '/assets/hematologia/neutrofilos.jpg'
+      
+        '/assets/hematologia/red-shift.png'
+      
         '/assets/hematologia/reticulocitos.png'
       
         '/assets/hematologia/sintese-heme.png'
       
         '/assets/hematologia/sintese-vitamina-b12-organismo.webp'
+      
+        '/assets/hematologia/tipos-de-leucocitos.jpg'
       
         '/assets/imagens/ca-prostata/estadiamento.png'
       
