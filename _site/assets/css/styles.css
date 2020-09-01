@@ -38,15 +38,15 @@ body { margin: 0 0 0 0; font-family: Georgia, Cambria, "Times New Roman", Times,
 .intro { text-align: right; }
 
 /* Barra de navegaçao */
-.nav-site { line-height: 1em; font-size: 0.9em; padding-top: 20px; margin: 0 auto; text-align: center; width: 100%; }
+.nav-site { line-height: 1em; font-size: 0.9em; padding-top: 20px; margin: 0 auto; text-align: center; width: 100%; position: fixed; top: 0; }
 
-.nav-site a { text-decoration: none; background-color: #f3f3f3 !important; border: 1px solid #dadada !important; padding: 4px 6px 4px 6px; border-radius: 0.5rem; color: white; display: inline-block; margin-bottom: 0; }
+.nav-site a { text-decoration: none; background-color: #f3f3f3 !important; border: 1px solid #888888 !important; padding: 4px 6px 4px 6px; border-radius: 0.5rem; color: white; display: inline-block; margin-bottom: 0; }
 
 .nav-site a:hover { background-color: #008000; }
 
-.nav-posts { padding-top: 0px; margin: 0 auto; text-align: left; width: 100%; display: inline-block; }
+.nav-posts { padding-top: 0px; margin: 0 auto; text-align: left; width: 100%; display: inline-block; position: fixed; top: 0; }
 
-.nav-posts a { text-decoration: none; font-size: 16px; background-color: #f3f3f3 !important; border: 1px solid #dadada !important; border-top: none; padding: 4px 6px 4px 6px; border-radius: 0 0 0.5rem 0.5rem; color: blue; display: inline-block; margin-bottom: 10px; }
+.nav-posts a { text-decoration: none; font-size: 16px; background-color: #f3f3f3 !important; border: 1px solid #888888 !important; border-top: none; padding: 4px 6px 4px 6px; border-radius: 0 0 0.5rem 0.5rem; color: blue; display: inline-block; margin-bottom: 10px; }
 
 .nav-posts a:hover { padding-bottom: 10px; margin-bottom: 0px; }
 
@@ -91,7 +91,7 @@ body { margin: 0 0 0 0; font-family: Georgia, Cambria, "Times New Roman", Times,
 
 .post-info a, .post-page-info a { font-size: 16px; }
 
-.post-title { margin-bottom: 10px; text-align: center; }
+.post-title { margin-bottom: 10px; margin-top: 50px; text-align: center; }
 
 p, li { line-height: 1.5em; }
 
@@ -122,6 +122,8 @@ tr:hover { background-color: #f5f5f5; }
 .abertura a { text-decoration: none; color: blue; }
 
 .abertura a:hover { color: black; }
+
+.post-list { margin-top: 50px; }
 
 .post-list ul { list-style-type: none; padding-left: 0; margin: 0 0 0 0; }
 
