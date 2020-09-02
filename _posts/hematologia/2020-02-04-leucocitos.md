@@ -1,9 +1,7 @@
 ---
 title: Fisiologia dos leucócitos
 categories: hematologia
-revisado: 25 Mar 2020
-status: 'false'
-comment: SanarFlix
+revisado: 01 Set 2020
 ---
 
 * Sumário
@@ -66,9 +64,11 @@ Qual a diferença entre neutrófilos e macrófagos? — Neutrófilos são menore
 
 **Desvio até metamielócitos** — quando a demanda é tão alta, podemos evidenciar até alguns metamielócitos na circulação.
 
+**Reação leucemoide** — quando o desvio à esquerda é tão grande que simula uma leucemia. A produção e demanda por novos leucócitos é tão grande que está jogando até mieloblastos — formas muito jovens — na circulação.
+
 ![Desvio à esquerda](/assets/hematologia/red-shift.png)
 
-Para ir até os tecidos exercer a função de defesa, os neutrófilos precisam realizar a **diapese** — atravessar a parede endotelial.
+Para ir até os tecidos exercer a função de defesa, os neutrófilos precisam realizar a **diapedese** — atravessar a parede endotelial.
 
 ![diapedese](/assets/hematologia/diapedese.jpeg)
 
@@ -90,7 +90,6 @@ Eles liberam substâncias como **heparina**, **histamina**, **bradicinina** e **
 
 Os grânulos também contêm enzimas, como proteases, beta-glicuronidase e lisofosfolipase que degradam estruturas microbianas e auxiliam no remodelamento do dano tecidual.
 
-
 # Leucócitos mononucleares
 
 ## Monócitos e macrófagos
@@ -104,6 +103,61 @@ Dependendo do tecido de destino, os macrófagos podem receber nomes diferentes e
 Os macrófagos no baço desempenham um papel importante na manutenção da capacidade de entrega de oxigênio do sangue, por **removerem hemácias** danificadas que têm uma capacidade reduzida de transporte de oxigênio.[^Marks]
 
 ## Linfócitos
+
+Os linfócitos são formados a partir da linhagem linfóide. São pequenas células arredondadas com um grande e que atuam no reconhecimento do antígeno primário  — corpo estranho. São três os principais tipos de linfócitos: células T, células B e células NK (*natural killer*).
+
+<ol type='a'>
+    <li>Linfócitos B;</li>
+    <li>Linfócitos T;</li>
+    <li>Linfócitos NK.</li>
+</ol>
+
+![Linfócito](/assets/hematologia/linfocito.jpg)
+
+A linfopoiese ocorre nos pórgãos linfoides primários — medula óssea e baço. Enquanto que os **linfócitos B** são produzidos e maturados na **medula óssea**, os precursores de **células T** (linfócitos derivados do **timo**) são produzidos na medula óssea e, então, migram para o timo, onde amadurecem antes de serem liberados para a circulação. 
+
+Após a maturação os linfócitos vão para os órgãos linfoides secundários — linfonodos, baço e demais tecidos linfoides (como as placas de Peyer e as amigdalas).
+
+Os linfócitos B maduros se concentram mais na região medular dos linfonodos e do baço; enquanto que os linfócitos T se concentram na zona paracortical dos linfonodos e na polpa branca do baço.
+
+A terceira classe de linfócitos são as células NK, as quais destinam células infectadas por vírus e células malignas para destruição.
+
+### Linfócitos T
+
+Os linfócitos T integram a nossa imunidade celular e no timo, a maturação ocorre na direção do córtex para a medula. 
+
+Durante a diferenciação, cada linfócito recebe receptores de membrana específicos que servem para identificar corpos estranhos. Cada linfócito precisa reconhecer nossos antígenos como próprio e conseguir diferenciar de antígenos invasores.  
+
+Possíveis linfócitos que durante a maturação reconhecem nossos antígenos como invasores devem sofrer apoptose.
+
+Dependendo de qual classe do complexo MHC estimular a diferenciação, o línfócito T pode ser um **CD8+** — se receber estímulo do MCH classe 1 — ou **CD4+** — se receber estiímulo do MCH classe 2.
+
+**Recirculação dos linfócitos** — o objetivo dos linfócitos T é encontrar antígenos estranhos. Eles ficam continuamente circulando na corrente sanguínea e indo de linfonodo em linfonodo na procura de antígenos. 
+
+Se o linfócito T reconhece um antígeno, ele começa a sofrer estimulação e proliferação de novos linfócitos, formando dois tipos de células efetoras:
+
+1. **Células produtoras de citocinas** — vai recrutar e estimular mais linfócitos T, linfócitos B e macrófagos;
+2. **Células T citotóxicas** — são as células NK que 'matam' os antígenos invasores — células infectadas por vírus ou células tumorais.
+
+<!-- 
+
+Preciso estudar melhor essa parte 
+
+Na verdade eu preciso estudar imunologia!
+
+-->
+
+### Linfócitos B
+
+Estão associados principalmente à resposta humoral — produção de anticorpos. Eles possuem receptores para imunoglobulinas em sua membrana (IgG, IgA etc.).
+
+<span class='alert'>
+Enquanto linfócitos T integram a resposta imunológica celular, os linfócitos B integram a reposta humoral.
+</span>
+
+Quando o linfócito B é estimulado ele vai sofrer diferenciação e proliferação em plasmoblastos que se diferencial em plasmócitos, que são as células . 
+
+São os plasmócitos que produzem as nossas imunoglobulinas, mas outros também podem virar células de memória imunológica.
 
 # Referências
 

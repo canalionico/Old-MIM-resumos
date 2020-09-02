@@ -187,6 +187,8 @@ article h3 { font-size: 1.4em; }
 
 article h4 { font-size: 1.2em; }
 
+article p { margin-top: 10px; margin-bottom: 16px; }
+
 article a { text-decoration: underline; }
 
 sup, sub { vertical-align: baseline; position: relative; top: -0.4em; }

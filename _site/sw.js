@@ -1034,6 +1034,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/leucograma.png'
       
+        '/assets/hematologia/linfocito.jpg'
+      
         '/assets/hematologia/metabolismo-eritrocito.png'
       
         '/assets/hematologia/metabolismo-ferro.png'
