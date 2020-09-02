@@ -113,6 +113,8 @@ self.addEventListener('install', function (event) {
       
         '/hematologia/hemograma.html',
       
+        '/hematologia/plaquetas.html',
+      
         '/hematologia/leucocitos.html',
       
         '/hematologia/eritropoiese.html',
@@ -1043,6 +1045,8 @@ self.addEventListener('install', function (event) {
         '/assets/hematologia/monocitos.jpg'
       
         '/assets/hematologia/neutrofilos.jpg'
+      
+        '/assets/hematologia/plaq.jpeg'
       
         '/assets/hematologia/red-shift.png'
       

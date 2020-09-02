@@ -1,0 +1,40 @@
+I"�	<ul id="markdown-toc">
+  <li><a href="#estrutura-celular" id="markdown-toc-estrutura-celular">Estrutura celular</a>    <ul>
+      <li><a href="#zona-periférica" id="markdown-toc-zona-periférica">Zona periférica</a></li>
+    </ul>
+  </li>
+  <li><a href="#referências" id="markdown-toc-referências">Referências</a></li>
+</ul>
+
+<p>As plaquetas ou trombócitos são células que contêm organelas citoplasmáticas mas
+não têm núcleo e estão envolvidas na coagulação sanguínea — formação de trombos. São <strong>fragmentos de células</strong> que surgem pelo brotamento do citoplasma dos <strong>megacariócitos</strong>, que são células multinucleadas residentes na medula óssea e da linhagem mielóide.</p>
+
+<p>O trombócito em respouso tem um formato discoide mas quando ativada assume um formato dendrítico. Sua <strong>vida média é de 8 a 10 dias</strong> e essa informação é importante para a administração de medicamentos que inativam as plaquetas e fazem anticoagulação.</p>
+
+<h1 id="estrutura-celular">Estrutura celular</h1>
+
+<h2 id="zona-periférica">Zona periférica</h2>
+
+<p>Na membrana das plaquetas, existem glicoproteínas que funcionam como repectores. As principais são:</p>
+
+<ol type="a">
+    <li>GPIa — reage com o colágeno;</li>
+    <li>GPIb — atua na fixação da plaqueta ao endotélio vascular;</li>
+    <li>GPIIb-IIIa — atua na agregação plaquetária;</li>
+    <li>GPIV — atua nas interações da superfície de contato</li>
+</ol>
+
+<p><img src="/assets/hematologia/plaq.jpeg" alt="Membrana" /></p>
+
+<p>O interior da plaqueta contém microfilamentos e um amplo sistema actina/miosina. A ativação plaquetária em resposta ao dano endotelial causa mudanças Ca<sup>+2</sup>-dependentes nos elementos contráteis, os quais, por sua vez, alteram de forma substancial a arquitetura da membrana plasmática. Longos pseudópodes são gerados, aumentando a área de superfície da membrana quando a formação de coágulo é iniciada.<sup id="fnref:Marks" role="doc-noteref"><a href="#fn:Marks" class="footnote">1</a></sup></p>
+
+<h1 id="referências">Referências</h1>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:Marks" role="doc-endnote">
+      <p>Smith CM, Marks AD, Lieberman M. Bioquímica médica básica de Marks: uma abordagem clínica. Artmed; 2007. <a href="#fnref:Marks" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
