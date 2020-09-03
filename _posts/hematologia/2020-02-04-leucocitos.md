@@ -11,7 +11,7 @@ Os leucócitos, globulos brancos do sangue, são as células que participam do n
 
 <ol type='a'>
     <li>Leucócito polimorfonuclear — granulócito;</li>
-    <li>Leucócito mononuclear</li>
+    <li>Leucócito mononuclear — agranulócitos.</li>
 </ol>
 
 ![Leucócitos](/assets/hematologia/tipos-de-leucocitos.jpg)
@@ -50,7 +50,9 @@ Dentro os fatores inibidores, os principais são as prostaglandinas — mas tamb
 
 ## Neutrófilos
 
-São as células de defesa mais abundantes, correspondendo a cerca de 50-60% do total. São também a nossa primeira linha de defesa, migrando rapidamente para áreas de infecção ou tecido danificado.e  **fagocitando** corpos estranhos — bactérias, vírus e outros invasores.
+São as células de defesa mais abundantes, correspondendo a cerca de 50-60% do total. São também a nossa **primeira linha de defesa**, migrando rapidamente para áreas de infecção ou tecido danificado e  **fagocitando** corpos estranhos — bactérias, vírus e outros invasores.
+
+Normalmente o núcleo polimórfico dos leucócitos possuem de **2 a 5 lóbulos**. Em algumas doenças podemos ter uma hipersegmentação do núcleo, passando de cinco. Nas mulheres também podemos ver a **cromatina sexual** no núcleo.
 
 Como parte da resposta à infecção aguda, os neutrófilos engolfam os corpos estranhos e os destroem, em parte, por iniciar a explosão respiratória — liberação de radicais de oxigênio.
 
@@ -58,7 +60,9 @@ Qual a diferença entre neutrófilos e macrófagos? — Neutrófilos são menore
 
 ![Neutrófilos](/assets/hematologia/neutrofilos.jpg)
 
-**Netrófilos segmnentados** — são a forma adulta e madura dos neutrófilos presentes na circulação e que se originam a partir dos **neutrófilos bastonetes**.
+**Netrófilos segmnentados** — são a forma adulta e madura dos neutrófilos presentes na circulação e que se originam a partir dos **neutrófilos bastonetes**. Seu núcelo possui segmentações diferentemente dos bastonetes.
+
+**Neutrófilos bastonetes** — são a forma ainda indiferenciada e jovem dos neutrófilos. Seu núcleo não possui segmentações e tem formato de bastão.
 
 **Desvio à esquerda** — é o predomínio de formas jovens, bastonetes, dos neutrófilos na corrente sanguínea. É comum em infecções bacterianas quando há uma rápida demanda por novos neutrófilos.
 
@@ -74,7 +78,7 @@ Para ir até os tecidos exercer a função de defesa, os neutrófilos precisam r
 
 ## Eosinófilos
 
-Estão em muito menor quantidade quando comparados aos neutrófilos, apenas 2% das células circulantes. Possuem granulações maiores, mais específicas e em menor quantidade. Recebe esse nome pois se cora muito bem com a eosina.
+Estão em muito menor quantidade quando comparados aos neutrófilos, apenas 2% das células circulantes. Possuem **granulações maiores**, mais específicas e em menor quantidade e um **núcleo bilobulado**. Recebe esse nome pois se cora muito bem com a eosina.
 
 ![Eosinófilo](/assets/hematologia/Eosinófilo.jpg)
 
@@ -82,7 +86,7 @@ Eles não têm função fagocitária, seus lisossomas contêm enzimas hidrolíti
 
 ## Basófilos
 
-Os basófilos, os leucócitos menos abundantes, participam em **reações de hipersensibilidade**, como resposta **alérgica**, possuindo receptores para IgE. Recebem esse nome por se corar bem com corantes básicos e possuem grandes granulações.
+Os basófilos, os leucócitos menos abundantes, possuem **grandes granulações** que muitas vezes ofuscam seu um núcleo volumoso. Participam em **reações de hipersensibilidade**, como resposta **alérgica**, possuindo receptores para IgE. Recebem esse nome por se corar bem com corantes básicos e possuem grandes granulações.
 
 ![Basófilos](/assets/hematologia/Basophil.jpg)
 
@@ -92,9 +96,11 @@ Os grânulos também contêm enzimas, como proteases, beta-glicuronidase e lisof
 
 # Leucócitos mononucleares
 
+Possuem núclos regulares e não possuem grânulos específicos. São os monócitos e os linfócitos.
+
 ## Monócitos e macrófagos
 
-Os monócitos circulantes são os precursores dos macrófagos teciduais. Os macrófagos — **grandes “comilões”** — são células fagocíticas que entram em locais de inflamação e consomem microrganismos e resíduos de células hospedeiras necróticas deixados para trás pelo ataque granulocítico ao material estranho.[^Marks]
+Os monócitos circulantes são os precursores dos macrófagos teciduais e são as maiores células em circulação no sangue. Os macrófagos — **grandes “comilões”** — são células fagocíticas que entram em locais de inflamação e consomem microrganismos e resíduos de células hospedeiras necróticas deixados para trás pelo ataque granulocítico ao material estranho.[^Marks]
 
 ![Monócitos](/assets/hematologia/monocitos.jpg)
 
@@ -104,7 +110,7 @@ Os macrófagos no baço desempenham um papel importante na manutenção da capac
 
 ## Linfócitos
 
-Os linfócitos são formados a partir da linhagem linfóide. São pequenas células arredondadas com um grande e que atuam no reconhecimento do antígeno primário  — corpo estranho. São três os principais tipos de linfócitos: células T, células B e células NK (*natural killer*).
+Os linfócitos são formados a partir da linhagem linfóide. São pequenas células arredondadas com um grande núcleo esférico — quase não vemos o citoplasma — e que atuam no reconhecimento do antígeno primário — corpo estranho. São três os principais tipos de linfócitos: células T, células B e células NK (*natural killer*).
 
 <ol type='a'>
     <li>Linfócitos B;</li>
@@ -114,7 +120,16 @@ Os linfócitos são formados a partir da linhagem linfóide. São pequenas célu
 
 ![Linfócito](/assets/hematologia/linfocito.jpg)
 
-A linfopoiese ocorre nos pórgãos linfoides primários — medula óssea e baço. Enquanto que os **linfócitos B** são produzidos e maturados na **medula óssea**, os precursores de **células T** (linfócitos derivados do **timo**) são produzidos na medula óssea e, então, migram para o timo, onde amadurecem antes de serem liberados para a circulação. 
+A linfopoiese ocorre nos pórgãos linfoides primários — medula óssea e baço. Enquanto que os **linfócitos B** são produzidos e maturados na **medula óssea**, os precursores de **células T** (linfócitos derivados do **timo**) são produzidos na medula óssea e migram para o timo, onde amadurecem antes de serem liberados para a circulação. 
+
+<span class='alert'>
+Todos linfócitos são produzidos na medula óssea mas, diferentemente dos linfócitos B que sofrem maturação nesta, a maturação dos linfócitos T ocorre no timo.
+</span>
+
+<ol type='a'>
+    <li>Órgãos linfóides primários — medula óssea e timo.</li>
+    <li>Órgãos linfóides secundários — linfonodos, tecido linfoide e baço.</li>
+</ol>
 
 Após a maturação os linfócitos vão para os órgãos linfoides secundários — linfonodos, baço e demais tecidos linfoides (como as placas de Peyer e as amigdalas).
 
@@ -124,7 +139,7 @@ A terceira classe de linfócitos são as células NK, as quais destinam células
 
 ### Linfócitos T
 
-Os linfócitos T integram a nossa imunidade celular e no timo, a maturação ocorre na direção do córtex para a medula. 
+Os linfócitos T integram a nossa imunidade celular. No timo, a maturação ocorre na direção do córtex para a medula. Quando maduros são chamados de **linfócitos T naive**.
 
 Durante a diferenciação, cada linfócito recebe receptores de membrana específicos que servem para identificar corpos estranhos. Cada linfócito precisa reconhecer nossos antígenos como próprio e conseguir diferenciar de antígenos invasores.  
 

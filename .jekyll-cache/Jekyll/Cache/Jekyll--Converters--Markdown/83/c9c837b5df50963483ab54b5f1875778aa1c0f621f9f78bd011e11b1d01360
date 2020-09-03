@@ -1,0 +1,63 @@
+I"O<ul id="markdown-toc">
+  <li><a href="#composição" id="markdown-toc-composição">Composição</a></li>
+</ul>
+
+<p>O sangue corresponde a cerca de 7% do peso corporal — um adulto de 70 Kg tem em torno de 5 L de sangue.</p>
+
+<p>Dentre as suas funções, ele atua como meio de transporte para nutrientes e metabólitos, incluindo excretas; transporta O<sub>2</sub> e CO<sub>2</sub> por meio das hemácias; transporta as céluals de defesa até o local de ação.</p>
+
+<h1 id="composição">Composição</h1>
+
+<p>O sangue é formado por duas partes: a parte líquida — plasma —,  responsável por 55% da composição, e os elementos figurados — a porção celular — responsável por 45% da composição.</p>
+
+<p><strong>Hemácias</strong> — os glóbulos brancos, células anucleadas responsáveis por transportar oxigênio para os tecidos. Responsável por 41% da composição do sangue (lembrar dos valores normais do <strong>hematócrito</strong>).</p>
+
+<p><strong>Plaquetas</strong> — fragmentos celulares resonsáveis pela coagulação do sangue.</p>
+
+<p><strong>Leucócitos</strong> — glóbulos brancos, células de defesa.</p>
+
+<p><strong>Plasma</strong> — a parte líquida do nosso sangue, correspondendo por 55% de sua composição. É formado principalmente por água (92%) mais algumas proteínas e outros compostos como lipídeos, carboidratos, minerais e eltrólitos. A principal proteína do plasma é a <strong>albumina</strong> e é responsável pela manutenção da pressão oncótica dentro do vaso.</p>
+
+<p>Algumas proteínas importantes para a composição do plasma são:</p>
+
+<ol>
+  <li>Albumina,</li>
+  <li>imunoglobulinas,</li>
+  <li>fatores de coagulação do sangue,</li>
+  <li>fibrinogênio,</li>
+  <li>componentes do sistema complemento,</li>
+  <li>transferrina,</li>
+  <li>haptoglobina,</li>
+  <li>plasminogênio,</li>
+  <li>lipoproteínas — LDL, HDL,</li>
+  <li>alfa-1-antitripsina,</li>
+  <li>alfa-1-glicoproteína.</li>
+</ol>
+
+<p><span class="alert">
+Pressão oncótica é a pressão que ‘puxa ou mantém a água para dentro do vaso’.
+</span></p>
+
+<p>Esses elementos são produzidos nos órgãos hematopoiéticos — ver o capitulo de <a href="/hematologia/hematopoiese">hematopoiese</a>. No adulto, o principal órgão hemoformador é a medula óssead vermelha. Contudo, na infância o fígado, baço e até linfonodos desempenham um papel mais importante.</p>
+
+<p>Agora vamos elucidar uma dúvida importante sobre dois conceitos fundamentais: <em>qual a diferença entre plasma e soro?</em></p>
+
+<p><strong>Soro</strong> — é o plasma sem os fatores de coagulação e sem fribrinogênio, ou seja, é um plasma que não coagula.</p>
+
+<p>A <strong>viscosidade do sangue</strong> vai depender da proporção dos elementos figurados, principalmente as hemácias, e do plasma. Um sangue com hematócrito muito alto é mais viscoso — mais hemoconcentrado. A viscosidade é importante pois interfere no fluxo sanguíneo que pode ser expresso pela fórmula abaixo — <em>Lei de Poiseuille</em>:</p>
+
+<p><img src="/assets/hematologia/fluxo.svg" alt="Fluxo do sangue" /></p>
+
+<p>Sendo que:</p>
+
+<ul>
+  <li><em>Q</em> é a taxa volumétrica do fluxo,</li>
+  <li><em>n</em> é a viscosidade do sangue,</li>
+  <li><em>R</em> é o raio do tubo.</li>
+</ul>
+
+<p>Podemos vercebor que o fluxo sanguíneo é inversamente proporcional a 8 vezes a viscosidade sanguínea. Dessa forma, um sangue muito viscoso reduz muito a velocidade de fluxo e têm predisposição à estase sanguíena e à formação de trombos e menor oxigenação dos tecidos. Uma viscosidade baixa também pode comprometer a oxigenação, mas por falta de hemácias transportando o oxigênio para os tecidos.</p>
+
+<p>Dentro do vaso, os elementos mais densos, como as hemácias, tendem a circular mais no centro (<strong>fluxo central</strong>) enquanto que os menos densos, como os leucócitos, circulam pela periferia (<strong>fluxo lateral</strong>), como se fossem lâminas de fluxo. Essa propriedade é importante pois os leucócitos estão em maior contato com as paredes do vaso para realizar a diapedese e as plaquetas se agreguem à parede lesionada.</p>
+
+:ET

@@ -117,11 +117,11 @@ self.addEventListener('install', function (event) {
       
         '/hematologia/leucocitos.html',
       
-        '/hematologia/eritropoiese.html',
+        '/hematologia/hemacias.html',
       
         '/hematologia/hematopoiese.html',
       
-        '/hematologia/introducao.html',
+        '/hematologia/sangue.html',
       
         '/pediatria/ivas.html',
       
