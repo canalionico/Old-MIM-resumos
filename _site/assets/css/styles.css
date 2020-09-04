@@ -4,7 +4,7 @@
 
 .wrapper-footer { max-width: 700px; margin-right: auto; margin-left: auto; padding-right: 20px; padding-left: 20px; }
 
-body { margin: 0 0 0 0; font-family: Georgia, Cambria, "Times New Roman", Times, serif; font-size: 1.3rem; text-align: left; text-rendering: optimizeLegibility; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004); text-rendering: optimizeLegibility !important; -webkit-font-smoothing: antialiased !important; }
+body { margin: 0 0 0 0; font-family: Georgia, Cambria, "Times New Roman", Times, serif; font-size: 1.2rem; text-align: left; text-rendering: optimizeLegibility; text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004); text-rendering: optimizeLegibility !important; -webkit-font-smoothing: antialiased !important; }
 
 @font-face { font-family: "LS"; src: url("/assets/fonts/liberation_serif/lsregular.ttf"); }
 

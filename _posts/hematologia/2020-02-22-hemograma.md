@@ -9,6 +9,8 @@ comment: Aula do Sanar
 * Sumário
 {:toc}
 
+# Série vermelha
+
 No hemograma, nós podemos avaliar diversos **índices hematimétricos**, dentre eles:
 
 1. Hemoglobina (Hb),
@@ -20,9 +22,9 @@ No hemograma, nós podemos avaliar diversos **índices hematimétricos**, dentre
 
 Outros dados que podem vir no hemograma são:
 
-<ul type='i'>
+<ul type='a'>
     <li>Número de eritrócitos,</li>
-    <li>número ou porcentagem de **reticulócitos**.</li>
+    <li>número ou porcentagem de <b>reticulócitos</b>.</li>
 </ul> 
 
 As vezes é necessário pedir a contagem de reticulócitos à parte, pois o laboratório não realiza por padrão. Veremos que a contagem de reticuócitos é fundamental na investigação das anemias.
@@ -87,10 +89,10 @@ A diferença entre o HCM e o CHCM é que: o CHCM leva em conta o volume celular 
 **Número ou porcentagem de reticulócitos** — é o número de eritrócitos imaturos. É muito importante por revelar a atividade medular de produção de eritrócitos. Seu valor de referência varia entre:
 
 <ul type='a'>
-    <li>40 000-100 000 ou 0.5-1.8%</li>
+    <li>40 000 a 100 000 ou 0.5-1.8%</li>
 </ul> 
 
-A avaliação do número de reticulócitos é importante pois reflete o estado de atividade da medula óssea. Se estiver aumentado, teremos um estado hiperproliferativo — temos uma anemia mas a médula óssea está trabalhando para repor as hemácias. Se estiver reduzido, um estado hipoproliferativo — a causa da anemia pode ser a medula óssea que não consegue produzir as hemácias.
+A avaliação do número de reticulócitos é importante pois reflete o **estado de atividade da medula óssea**. Se estiver aumentado, teremos um estado **hiperproliferativo** — temos uma anemia mas a médula óssea está trabalhando para repor as hemácias. Se estiver reduzido, um estado **hipoproliferativo** — a causa da anemia pode ser a medula óssea que não consegue produzir as hemácias.
 
 Mas atenção, muitas vezes precisamos corrigir a porcentagem do número de reticulócitos pois ela está em relação ao hematócrito do paciente e precisamos da porcentagem em relação a um hematócrito normal. Para corrigir, fazemos:
 
@@ -135,16 +137,32 @@ O esfregaço de sangue periférico é importante para visualizarmos as hemácias
 3. o número de hemácias,
 4. a presenla de inclusões citoplasmáticas.
 
+Primeiro precisamos conhecer a forma normal das hemácias que é demonstrada na imagem abaixo.
+
+![Hemácias normais](/assets/hematologia/hemacias.jpg)
+
 **Poiquilocitose** — alteração na forma das hemácias, mas uma alteração pouco específica para qualquer doença.
 
 **Hemácias em alvo** — são comuns na talassemia, apesar de não ser um achado patognomônico — também pode ser vista na anemia ferropriva.
 
+![Hemácias em alvo](/assets/hematologia/alvo.jpeg)
+
 **Hemácias em Rouleaux** ­— quando as hemácias ficam empilhadas como se estivessem todas *grudadas*. Ocorre devido a um aumento de imunoglobulinas e pode indicar o mieloma múltiplo.
+
+![Hemácias em rouleaux](/assets/hematologia/rouleaux.jpg)
 
 **Drepanócitos (hemácias em foice)** — são as hemácias no formato de foice encontradas na anemia falciforme.
 
+![Drepanócitos](/assets/hematologia/drepanocitos.jpg)
+
 **Esquizócitos** — são hemácias *esquisitas*, de formato irregular, comuns na púrpura trombocitopênica trombótica (PPT).
+
+![Esquizocitos](/assets/hematologia/esquizocitos.jpeg)
 
 **Dacriócitos** — hemácias em lágrimas, normalmente encontradas na mielofibrose, mas não é patognomônico.
 
+![Dacriócitos](/assets/hematologia/dacriocitos.jpeg)
+
 **Corpúsculo de Howel-Jolly** — são bolinhas rouxas que aparecem dentro das hemácias mais velhas. A presença de muitas hemácias com esses corpúsculos indica que elas não estão sendo eliminadas pelo baço.
+
+![Howell-Jolly](/assets/hematologia/Howell-Jolly-Arrows.jpg)

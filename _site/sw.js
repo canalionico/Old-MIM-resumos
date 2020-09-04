@@ -109,6 +109,8 @@ self.addEventListener('install', function (event) {
       
         '/infectologia/coronavirus.html',
       
+        '/hematologia/anemia.html',
+      
         '/hematologia/anemia-ferropriva.html',
       
         '/hematologia/hemograma.html',
@@ -1006,11 +1008,21 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/Eosinófilo.jpg'
       
+        '/assets/hematologia/Howell-Jolly-Arrows.jpg'
+      
+        '/assets/hematologia/Patterson-Kelly.jpeg'
+      
         '/assets/hematologia/a12fig01.jpg'
+      
+        '/assets/hematologia/alvo.jpeg'
       
         '/assets/hematologia/b12-e-folato.png'
       
         '/assets/hematologia/b12.png'
+      
+        '/assets/hematologia/coiloniquia.jpg'
+      
+        '/assets/hematologia/dacriocitos.jpeg'
       
         '/assets/hematologia/degradacao-heme.png'
       
@@ -1018,15 +1030,21 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/diapedese.jpeg'
       
+        '/assets/hematologia/drepanocitos.jpg'
+      
         '/assets/hematologia/eliptocitos.png'
       
         '/assets/hematologia/eritropoetina.png'
       
         '/assets/hematologia/esferocitos.png'
       
+        '/assets/hematologia/esquizocitos.jpeg'
+      
         '/assets/hematologia/fluxo.svg'
       
         '/assets/hematologia/granulocitopoiese.svg'
+      
+        '/assets/hematologia/hemacias.jpg'
       
         '/assets/hematologia/hematopoiese.png'
       
@@ -1035,6 +1053,8 @@ self.addEventListener('install', function (event) {
         '/assets/hematologia/image2vector.svg'
       
         '/assets/hematologia/leucograma.png'
+      
+        '/assets/hematologia/leucograma.xcf'
       
         '/assets/hematologia/linfocito.jpg'
       
@@ -1048,9 +1068,13 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/plaq.jpeg'
       
+        '/assets/hematologia/queilite-angular-imagem.webp'
+      
         '/assets/hematologia/red-shift.png'
       
         '/assets/hematologia/reticulocitos.png'
+      
+        '/assets/hematologia/rouleaux.jpg'
       
         '/assets/hematologia/sintese-heme.png'
       
