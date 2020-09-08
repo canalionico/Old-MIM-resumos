@@ -1,0 +1,57 @@
+I"�<ul id="markdown-toc">
+  <li><a href="#vitamina-b12" id="markdown-toc-vitamina-b12">Vitamina B12</a></li>
+  <li><a href="#folatos" id="markdown-toc-folatos">Folatos</a></li>
+  <li><a href="#etiologia" id="markdown-toc-etiologia">Etiologia</a>    <ul>
+      <li><a href="#anemia-perniciosa" id="markdown-toc-anemia-perniciosa">Anemia perniciosa</a></li>
+      <li><a href="#outras-etiologias" id="markdown-toc-outras-etiologias">Outras etiologias</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h1 id="vitamina-b12">Vitamina B12</h1>
+
+<p>Nós obtemos a vitamina B12 (cobalamina) principalmente através de alimentos de origem animal — carne, peixe, lacticínios. A estrutura da cobalamina consiste num átomo de cobalto no centro de um anel corrina ligado a uma porção nucleotídica.</p>
+
+<p><img src="/assets/hematologia/cobalamina.png" alt="Cobalamina" /></p>
+
+<p>O estômago produz o <strong>fator intrínseco</strong> que é fundamental para a absorção da cobalamina. A vitamina B12 só é absorivida no intestino se estiver ligada ao fator intrínseco. Mais sobre a abosorção da vitamina B12 é detalhado em <a href="/hematologia/hemacias.html#vitamina-b12">fisiologia das hemácias</a></p>
+
+<p>Uma vez no plasma, a cobalamina se liga às transcobalaminas para ser transportada para a medula óssea e demais tecidos.</p>
+
+<p>A cobalamina é uma coenzima de duas importantes reações do nosso corpo:</p>
+
+<ol>
+  <li>Conversão de homocisteína em metionina;</li>
+  <li>Conversão da coenzima-A em succinil-coenzima-A.</li>
+</ol>
+
+<h1 id="folatos">Folatos</h1>
+
+<p>Os folatos são derivados do ácido fólico (pteroiglutâmico), obtido principalmente em vegetais verdes, fígado e frutas. São absorvidos no duodeno e jejuno proximal pela ação das carboxipeptidases.</p>
+
+<p>Oo folato é absorvido na forma de metil-tetraidrofolato (metil-THF) e dentro das células sofre ação da enzima <em>metionina sintetase</em>, que também depende da vitamina B12, sendo convertido em tetraidrofolato (THF) — a forma ativa da vitamina.</p>
+
+<p>Nas células, o folato participa de reações de transferência de carbono e na interconversão de aminoácidos — como homocisteína em metionina. Dessa forma, o folato é muito importante nas <strong>reações de síntese dos precursores do DNA</strong>.</p>
+
+<h1 id="etiologia">Etiologia</h1>
+
+<p>Como vimos, o folato e a vitamina B12 são fundamentais para a síntese de DNA pelas células. É por isso que suas deficiências podem acarretar em anemia megaloblástica.</p>
+
+<h2 id="anemia-perniciosa">Anemia perniciosa</h2>
+
+<p>A principal causa de deficiência de B12 pe a anemia perniciosa que afeta principalmente mulheres na 7ª década de vida e associada a doenças autoimunes da tireóide.</p>
+
+<p>A anemia perniciosa é uma doença resultante da <strong>agressão autoimune da mucosa gástrica</strong>, alterando a absorção da vitamina B12.</p>
+
+<p>90% desses pacientes apresentam anticorpos contra as células parietais que atacam as células que produzem o fator intrínseco.</p>
+
+<p>Além disso, 50% destes pacientes vão ainda apresentar anticorpos inibidores da ligação do fator intrínseco à B12. E uma minoria vai ainda apresentar anticorpos contra a ligação do fator intrínseco ao seu receptor no íleo.</p>
+
+<p>Na análise histopatológico da mucosa gástrica, podemos observar um <strong>infiltrado linfoplasmocitário com metaplasia intestinal</strong>. O paciente além de desenvolver <strong>acloridia</strong> — diminuição do ácido clóridrico estomacal — passa a <strong>secretar menos fator intrínseco</strong>. Além disso, 2-3% dos casos evoluem para <strong>carcinoma de estômago</strong>.</p>
+
+<h2 id="outras-etiologias">Outras etiologias</h2>
+
+<p>Outra possível etiologia são pacientes com déficts alimentares, como alguns veganos.</p>
+
+<p>Também existem anormalidades congênitas da secreção de fator intrínseco mas que normalmente só aparecem a partir dos 2 anos de idade pois até lá teremos desponível o estoque materno de vitamina B12 adquirido intra-útero.</p>
+:ET

@@ -67,6 +67,8 @@ self.addEventListener('install', function (event) {
       
         '/ecg/eletrofisiologia-cardiaca.html',
       
+        '/hematologia/anemia.html',
+      
         '/esclerite-e-episclerite.html',
       
         '/infectologia/cefalosporinas.html',
@@ -109,7 +111,7 @@ self.addEventListener('install', function (event) {
       
         '/infectologia/coronavirus.html',
       
-        '/hematologia/anemia.html',
+        '/hematologia/anemia-megaloblastica.html',
       
         '/hematologia/anemia-ferropriva.html',
       
@@ -1020,6 +1022,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/hematologia/b12.png'
       
+        '/assets/hematologia/cobalamina.png'
+      
         '/assets/hematologia/coiloniquia.jpg'
       
         '/assets/hematologia/dacriocitos.jpeg'
@@ -1049,6 +1053,8 @@ self.addEventListener('install', function (event) {
         '/assets/hematologia/hematopoiese.png'
       
         '/assets/hematologia/hemoglobina.webp'
+      
+        '/assets/hematologia/hipersegmentado.jpg'
       
         '/assets/hematologia/image2vector.svg'
       
