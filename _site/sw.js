@@ -22,6 +22,8 @@ self.addEventListener('install', function (event) {
       
         '/sumario/cirurgia.html',
       
+        '/sumario/dermatologia.html',
+      
         '/sumario/ecg.html',
       
         '/sumario/gastroenterologia.html',
@@ -56,6 +58,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/css/styles.css.map',
       
+      
+        '/dermatologia/les%C3%B5es-elementares.html',
+      
+        '/dermatologia/estrutura-da-pele.html',
       
         '/ecg/ritmo-e-frequencia.html',
       
@@ -763,6 +769,26 @@ self.addEventListener('install', function (event) {
         '/assets/cardiologia/vetores.jpg'
       
         '/assets/cardiologia/wilkins.jpeg'
+      
+        '/assets/dermatologia/1ede7010df90f56ecb0774f095ef32c3.jpg'
+      
+        '/assets/dermatologia/camadas-da-pele-61578870.jpg'
+      
+        '/assets/dermatologia/camadas-da-pele.jpg'
+      
+        '/assets/dermatologia/celulas-epiderme.jpg'
+      
+        '/assets/dermatologia/derme.jpg'
+      
+        '/assets/dermatologia/derme2.jpeg'
+      
+        '/assets/dermatologia/epiderme.jpg'
+      
+        '/assets/dermatologia/pele-diagrama.jpg'
+      
+        '/assets/dermatologia/pele.jpg'
+      
+        '/assets/dermatologia/receptores.png'
       
         '/assets/ecg/35647b53907cf43de9ec1a488503a3790ee2b3d6 (2).png'
       
