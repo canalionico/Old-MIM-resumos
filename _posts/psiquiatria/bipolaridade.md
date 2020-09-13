@@ -1,0 +1,1 @@
+Período distinto de humor anormal e persistentemente elevado, expansivo ou irritável e aumento anormal e persistente da atividade dirigida a objetivos, ou da energia, com duração mínima de uma semana e presente na maior parte do dia.

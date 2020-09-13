@@ -44,6 +44,8 @@ self.addEventListener('install', function (event) {
       
         '/sumario/obstetricia.html',
       
+        '/sumario/oftalmologia.html',
+      
         '/sumario/pediatria.html',
       
         '/sumario/pneumologia.html',
@@ -59,7 +61,17 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
+        '/oftalmologia/catarata.html',
+      
+        '/infectologia/tetano.html',
+      
+        '/infectologia/raiva.html',
+      
+        '/urologia/traumas.html',
+      
         '/dermatologia/les%C3%B5es-elementares.html',
+      
+        '/dermatologia/semiologia-dermatologica.html',
       
         '/dermatologia/estrutura-da-pele.html',
       
@@ -783,6 +795,8 @@ self.addEventListener('install', function (event) {
         '/assets/dermatologia/derme2.jpeg'
       
         '/assets/dermatologia/epiderme.jpg'
+      
+        '/assets/dermatologia/eritema-nodoso.jpg'
       
         '/assets/dermatologia/pele-diagrama.jpg'
       
@@ -1783,6 +1797,14 @@ self.addEventListener('install', function (event) {
         '/assets/obstetricia/vacina.jpeg'
       
         '/assets/obstetricia/vacina2.jpeg'
+      
+        '/assets/oftalmologia/catarata-visao.jpg'
+      
+        '/assets/oftalmologia/catarata.jpg'
+      
+        '/assets/oftalmologia/catarata2.jpg'
+      
+        '/assets/oftalmologia/types-of-cataracts.jpg'
       
         '/assets/pediatria/diarreia1.jpeg'
       

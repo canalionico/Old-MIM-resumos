@@ -611,7 +611,10 @@ a.footnote:after {
 
 
 /* Aqui é pra grande computador */
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 1150px) {
+  #markdown-toc::-webkit-scrollbar {
+    display: none;
+  }
   #markdown-toc {
     // float: right;
     position: fixed;
@@ -621,6 +624,8 @@ a.footnote:after {
     overflow-y: scroll; 
     overflow-x: hidden; 
     scrollbar-width: none;
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
     height: 80%;
     max-width: 240px;
     font-size: 80%;
@@ -639,7 +644,3 @@ a.footnote:after {
   }
 }
 
-
-::-webkit-scrollbar {
-  display: none;
-}
