@@ -63,6 +63,8 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
+        '/infectologia/caso-aids.html',
+      
         '/psiquiatria/semiologia-psiquiatrica.html',
       
         '/oftalmologia/catarata.html',
@@ -1361,6 +1363,8 @@ self.addEventListener('install', function (event) {
         '/assets/infectologia/neutropenia-febril/sitios-investigacao.jpeg'
       
         '/assets/infectologia/ntx/tc.jpeg'
+      
+        '/assets/infectologia/tc-aids.png'
       
         '/assets/infectologia/virus/teste.jpeg'
       
