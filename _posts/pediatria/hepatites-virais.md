@@ -1,0 +1,1 @@
+Ferreira AR, Fagundes EDT, Queiroz TCN, Pimenta JR, Nascimento Júnior RC do. Viral hepatitis a, b, and c in children and adolescents. Revista Médica de Minas Gerais. 2014;24. doi:10.5935/2238-3182.20140038

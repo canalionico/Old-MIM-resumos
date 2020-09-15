@@ -50,6 +50,8 @@ self.addEventListener('install', function (event) {
       
         '/sumario/pneumologia.html',
       
+        '/sumario/psiquiatria.html',
+      
         '/assets/css/styles.css',
       
         '/sw.js',
@@ -60,6 +62,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/css/styles.css.map',
       
+      
+        '/psiquiatria/semiologia-psiquiatrica.html',
       
         '/oftalmologia/catarata.html',
       
@@ -284,6 +288,8 @@ self.addEventListener('install', function (event) {
         '/guia-pre-internato.html',
       
         '/gastroenterologia/esquistossomose.html',
+      
+        '/psiquiatria/transtornos-de-humor.html',
       
         '/gastroenterologia/tuberculose-intestinal.html',
       
