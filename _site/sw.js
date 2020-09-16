@@ -65,8 +65,6 @@ self.addEventListener('install', function (event) {
       
         '/infectologia/caso-aids.html',
       
-        '/psiquiatria/semiologia-psiquiatrica.html',
-      
         '/oftalmologia/catarata.html',
       
         '/infectologia/tetano.html',
@@ -267,6 +265,8 @@ self.addEventListener('install', function (event) {
       
         '/pediatria/cipe.html',
       
+        '/psiquiatria/transtornos-de-ansiedade.html',
+      
         '/gastroenterologia/diarreia.html',
       
         '/cirurgia/ca-esofago.html',
@@ -291,7 +291,11 @@ self.addEventListener('install', function (event) {
       
         '/gastroenterologia/esquistossomose.html',
       
+        '/psiquiatria/transtorno-bipolar.html',
+      
         '/psiquiatria/transtornos-de-humor.html',
+      
+        '/psiquiatria/semiologia-psiquiatrica.html',
       
         '/gastroenterologia/tuberculose-intestinal.html',
       
