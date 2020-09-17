@@ -211,6 +211,8 @@ self.addEventListener('install', function (event) {
       
         '/cardiologia/anti-hipertensivos.html',
       
+        '/psiquiatria/transtornos-de-personalidade.html',
+      
         '/cirurgia/tumores-de-mediastino.html',
       
         '/cardiologia/doencas-da-aorta.html',
