@@ -428,8 +428,8 @@ sup, sub {
   position: relative;
   top: -0.4em;
 }
-sub { 
-  top: 0.4em; 
+sub {
+  top: 0.4em;
 }
 
 
@@ -522,7 +522,7 @@ figure {
     color: #551A8B;
   }
 }
-a.footnote:before {   
+a.footnote:before {
   content: "[";
  }
 a.footnote:after {
@@ -621,8 +621,8 @@ a.footnote:after {
     top: 0;
     right: 100px;
     margin-top: 0;
-    overflow-y: scroll; 
-    overflow-x: hidden; 
+    overflow-y: scroll;
+    overflow-x: hidden;
     scrollbar-width: none;
     -ms-overflow-style: none;  /* IE and Edge */
     scrollbar-width: none;  /* Firefox */
@@ -643,4 +643,3 @@ a.footnote:after {
     display: flex;
   }
 }
-
