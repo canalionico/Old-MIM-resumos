@@ -267,6 +267,8 @@ self.addEventListener('install', function (event) {
       
         '/pediatria/cipe.html',
       
+        '/psiquiatria/tratamento-transtornos-humor.html',
+      
         '/psiquiatria/transtornos-de-ansiedade.html',
       
         '/gastroenterologia/diarreia.html',
