@@ -64,7 +64,7 @@ A personalidade antissocial é mais comum em homens enquanto que as histriônica
 
 Devemos ter cuidado com o ciagnóstico diferencial. Essas manifestações devem iniciar antes no início da vida adulta, com demonstrações dos traços já na infância e tambem não pode ser explicado por outro transtorno mental.
 
-## Transtorno de personalidade paranóide
+## Paranóide
 
 O indivíduo é muito desconfiado com relação aos outros e está sempre suspeitando de algo, sem embasamento suficiente. Ele tem muita dificuldade de confiar nos outros, como amigos e sócios. Também costuma perceber significados ocultos humilhantes ou ameaçadores em comentários de outros, mesmo benignos, quando normalmente essa interpretalção não é feita.
 
@@ -72,13 +72,13 @@ O indivíduo também guarda rancodres de forma persistente, percebe ataque e rea
 
 Resumindo, esse indivíduo vai ter: **desconfiança** e _rancor_, e será de difícil convivência.
 
-## Transtorno de personalidade esquizóide
+## Esquizóide
 
 O indivíduo apresenta um distanciamento das relações sociais e interpessoais e uma faixa restrita de expressão de emoções. Não deseja nem desfruta relações intimas, nem mesmo familiares; opta por atividades solitárias; tem pouco interesse em experiências sexuais com outras pessoas; tem prazer em poucas atividades; não tem amigos próximos ou confidentes; mostra-se indiferente a elogios ou críticas; demonstra frieza emocional e embotamento afetivo.
 
 Resumindo, é uma pessoa **distante**, **fria**, sem amigos, sem prazer e que demonstra **poucas emoções**.
 
-## Transtorno de personalidade esquizotípica
+## Esquizotípica
 
 O indivíduo apresenta uma capacidade reduzida para relacionamentos íntimos, um comportamento excêntrico com distorções cognitivas ou perceptivas. Vamos ver que **se assemelha um pouco com as personalidades paranóica e esquizóide**.
 
@@ -94,7 +94,7 @@ Pode ter um comportamento ou uma aparência estranha, ser muito excêntrico ou p
 
 Resumindo, o indivído é um pouco paranoide, um pouco esquizoide e também uma pessoa estranha. Também pode apresentar transtornos psicóticos e mais de 50% destes pacientes apresentam transtornos depressivos.
 
-## Transtorno de personalidade antissocial
+## Antissocial
 
 O indivíduo tem uma desconsideração e violação pelos direitos das outras pessoas. Apresenta um fracasso em se ajustar a normas sociais relativas ou mesmo legais. Tem uma tendencia à falsidade, a mentira e trapaça para conseguir seus objetivos.
 
@@ -106,7 +106,7 @@ Resumindo, o indivíduo desrespeita e viola os direitos dos outros. Já foi cham
 
 Essa personalidade pode melhorar ao longo da idade, com os traços diminuindo a medida que o paciente vai envelhecendo.
 
-## Transtorno de personalidade borderline
+## Borderline
 
 Esse invidíduo possui **instabilidade** das relações interpessoais, da autoimagem e dos afetos; também sendo muito impulsivo.
 
@@ -122,7 +122,7 @@ Nestas pacientes devemos pesquisar um histórico de abuso, negligência parental
 
 Um diagnóstico diferencial possível é com o transtorno de personalidade histriônica — que também tem necessidade de atenção e medo de abandono, mas no borderline se destaca a presença do comportamento autodestrutivo e da raiva.
 
-## Transtorno da personalidade histriônica
+## Histriônica
 
 É um indivíduo com demasiada emocionalidade e busca de atenção. Se sente desconfortável quando não é o centros das atenções e pode usar um comportamento sedutor ou provocativo em demasia para atraí-la — utiliza muito sua aparência física para atrair atenção.
 
@@ -134,7 +134,7 @@ Resumindo, é uma pessoa com emocionalidade excessiva e que busca por atenção.
 
 Um diagnóstico diferencial pode ser feito com a personalidade narcisista — mas este busca atenção por se achar superior.
 
-## Transtorno de personalidade narcisista
+## Narcisista
 
 É um indivíduo com grandiosidade, que se acha mais importante do que realmente é; com uma necessidade de admiração e falta de empatia pelos outros — se achando mais importante.
 
@@ -174,4 +174,8 @@ Primeiro que não é o mesmo que TOC (transtorno obsessivo-compulsivo), pois aqu
 
 É um indivíduo com excessiva preocupação com ordem, perfeccionismo e controle mental e interpessoal às custas de flexibilidade, abertura. Se preocupa tanto com detalhes a ponto de perder o objetivo principal da atividade, o seu perfeccionismo interfere na conclusão de tarefas.
 
-É excessivamente dedicado ao trabalho
+É excessivamente dedicado ao trabalho e excessivamente consciencioso, escupuloso e inflexível quando a assuntos de moralidade, ética ou valores. Tem incapacidade de se livrar de objetos, dificuldade de gastar com outras pessoas; tem um estilo miserável de gastos (guarda dinheiro para futuras catástrofes); exibe rigidez e teimosia.
+
+<span class='alert'>
+  Resumindo, é caracterizada pela ordem e pelo perfeccionismo, além de controle mental e das relações.
+</span>

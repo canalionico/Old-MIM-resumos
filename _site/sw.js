@@ -293,6 +293,8 @@ self.addEventListener('install', function (event) {
       
         '/gastroenterologia/esquistossomose.html',
       
+        '/psiquiatria/depress%C3%A3o.html',
+      
         '/psiquiatria/transtorno-bipolar.html',
       
         '/psiquiatria/transtornos-de-humor.html',

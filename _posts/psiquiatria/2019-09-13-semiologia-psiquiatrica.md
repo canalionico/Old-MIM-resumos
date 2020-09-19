@@ -93,7 +93,7 @@ Algumas síndromes associadas a essas alterações são:
 
 **Estado segundo** — semelhante ao estado crepuscular porém as atividades automáticas do paciente não são comuns de sua personalidade. Uma espécie de 'estado crepuscular com personalidade alterada'.
 
-**Dissociação da consciência** — é tido como uma fragmentação da consciência. É um estado agudo de descompensação mental, no qual certos pensamentos, emoções, sensações e/ou memórias são ocultados, por serem muito chocantes para a mente consciente integrar.  
+**Dissociação da consciência** — é tido como uma fragmentação da consciência. É um estado agudo de descompensação mental, no qual certos pensamentos, emoções, sensações e/ou memórias são ocultados, por serem muito chocantes para a mente consciente integrar.
 
 **Transe** — como se fosse a ausência da consciência, o paciente fica imóvel olhando fixamente sem interagir com o ambiente.
 
@@ -115,7 +115,7 @@ Abaixo vamos fazer uma lista das principais alterações do nível de atenção:
 4. Distração;
 5. Distrabilidade.
 
-**Tenacidade** — é a nossa capacidade de concentrar a nossa atenção voluntária. A **hipertenacidade** é quando nos fixamos demais numa tarefa e ignoramos em demasia os estímulos externos. Já na **hipotenacidade**, qualquer estímulo externo desvia a atenção. 
+**Tenacidade** — é a nossa capacidade de concentrar a nossa atenção voluntária. A **hipertenacidade** é quando nos fixamos demais numa tarefa e ignoramos em demasia os estímulos externos. Já na **hipotenacidade**, qualquer estímulo externo desvia a atenção.
 
 **Vigilância** — é mais ou menos o oposto da tenacidade, é a nossa capacidade de mudar de foco. Se uma pessoa que está estudando ouve um barulho muito forte, a sua vigilância permite que ela passe a dirigir sua atenção a esse barulho. A **hipervigilância** ocorre em pacientes que estão atentos em demasia a qualquer estímulo.
 
@@ -136,7 +136,7 @@ Abaixo vou listar alguns transtornos que pode alterar a nossa atenção:
 3. esquizofrenia,
 4. TDAH.
 
-O caso dos pacientes com esquizofrenia é bem especial pois além deles sofrerem efeitos dos estímulos reais eles também sofrem influências dos estímulo alucinatórios, que competem com os estímulos reais pela sua atenção. 
+O caso dos pacientes com esquizofrenia é bem especial pois além deles sofrerem efeitos dos estímulos reais eles também sofrem influências dos estímulo alucinatórios, que competem com os estímulos reais pela sua atenção.
 
 ## Alterações da orientação
 
@@ -163,7 +163,7 @@ A sensopercepção é a junção da sensação com a percepção. As sensações
 
 Mas além da sensação e da percepção, também temos a representação — a imagem mnêmica que mantemos em nossa memória gerada após a percepção do estímulo sensorial.
 
-Dentre as alterações da sensopercepção, podemos ter as quantitativas — mais comuns na neurologia — e as qualitativas. 
+Dentre as alterações da sensopercepção, podemos ter as quantitativas — mais comuns na neurologia — e as qualitativas.
 
 ### Quantitativas
 
@@ -217,4 +217,92 @@ Dentre as alterações de memória, podem ser quantitativas ou qualitativas:
     1. Hipermnésias;
     2. Amnésias — retrógrada ou anterógrada.
 * Qualitativas:
-    1. 
+    1. Ilusões mnêmicas;
+    2. Alucinações mnêmicas — uma lembrança falsa inserida em meórias reais;
+    3. Confabulações.
+
+A confabulações são memórias criadas que não ocorreram mas não necessariamente o paciente está delirando. São comuns na síndrome de Korsafoff em que o paciente etilista crônico começa a perder memórias passadas e começa a "se lembrar" de histórias que não viveu de verdade para preencher essas lacunas.
+
+## Alterações do reconhecimento
+
+As agnosias estão mais relacionadas a alterações dos órgãos dos sentidos e são portanto mais estudadas na neurologia. Na prática psiquiátrica as alterações do reconhecimento mais comuns são as delirantes e as não delirantes.
+
+<ol type='A'>
+  <li>Delirantes:
+  <ol type='1'>
+    <li>Falso desconhecimento;</li>
+    <li>Falso reconhecimento;</li>
+    <li>Capgras;</li>
+    <li>Capgras inverso.</li>
+  </ol></li>
+  <li>Não-delirantes:
+  <ol type='1'>
+    <li>Já visto, ouvido, pensado, vivido;</li>
+    <li>Jamais visto.</li>
+  </ol></li>
+</ol>
+
+O **falso desconhecimento** o paciente deixa de reconhecer seus parentes próximos enquanto que no **falso reconhecimento** o paciente 'reconhece' pessoas que nunca sequer viu.
+
+Na **síndrome de Capgras** o paciente acha seus parentes parecidos mas acredita que se tratam de impostores que estão fingindo. Já na **síndrome do Capgras inverso**, o pacinete acredita que ele mesmo é um impostor, que 'ele não é ele mesmo'.
+
+As alterações não delirantes do reconhecimento não necessariamente são patológicas. O **'já visto'** é o mesmo que o popularmente conhecido 'deja vu'. O **'jamais visto'** é por exemplo o paciente passar 1 semana internado do hospital e após a alta não mais reconhecer aquele hospital, achar que nunca esteve lá.
+
+## Afetividade
+
+> A vida afetiva é a dimensão psíquica que dá cor, brilho e calor a todas as vivências humanas. Sem afetividade, a vida mental torna-se vazia, sem sabor (Paulo Dalgalarrondo).
+
+Precisamos diferenciar a **afetividade** do **humor**! O humor é a experiência que a pessoa está tendo, seu mundo está com 'mais ou menos brilho'. Já o afeito, é como a pessoa 'recebe ou nega o brilho'. Em outras palavras, o humor é o que a pessoa sente e o afeto é o que a pessoa demonstra. A pessoa com humor depremido lhe relata que está triste; a pessoa com redução do afeto demonstra estar mais embotada (por exemplo, ela fala com a voz baixinha, sem olhar nos seus olhos).
+
+<span class='alert'>
+  O humor é o que a pessoa sente e o afeto é o que a pessoa demonstra.
+</span>
+
+As alterações do humor podem ser:
+
+1. Hipotimia — humor reduzido;
+2. Hipertimia — humor exarcebado;
+3. Disforia — humor irritadiço, nersoso.
+
+As alterações do afeto podem ser:
+
+1. Labilidade;
+2. Embotamento;
+3. Hipomodulação;
+4. Anedonia.
+
+O afeto **hipomodulado** é quando a pessoa diz sentir um humor deprimido mas demonstra alegria ou empolgação. Por exemplo, ela conta sorrindo que está "triste e com vontade de se matar". O **embotamento** é quando a pessoa não consegue demonstrar afeto e a **labilidade** é quando o afeto da pessoa muda com qualquer estímulo, algo a faz chorar mas em seguida outra coisa a fez sorrir. A **anedonia** está muito relacionada à ausência de prazer, a ausência de vontade.
+
+## Alterações do pensamento
+
+O pensamento pode estar alterado no curso, na forma e no conteúdo.
+
+1. Curso;
+2. Forma;
+3. Conteúdo.
+
+A **alteração do curso** é quando o pensamento está acelerado ou lentíficado. Já a **alteração de forma**, é uma apresentação anormal do pensamento, como a prolixidade, um pensamento desconexo que muda de tópico sem correlações lineares (pulando de galho em galho, também chamado de arborização), perda das ideias, ausencia de detalhes, etc.
+
+Outra alteração do pensamento é o seu conteúdo, o que a pessoa pensa.
+
+### Delírio
+
+**Delírio** — o delírio é diferente da alucinação. Por exemplo, a pessoa estar enxergando Napoleão ao seu lado está alucinando (demonstrando uma percepção errônea da realidade); enquanto que a pessoa delirando acha que era da tropa de Napoleão em 1798.
+
+O delírio mais comum é o persecutório, é a pessoa que acha e enxerga estar sendo perseguida.
+
+O delírio possui ainda 3 características:
+
+1. Incorrigibilidade;
+2. Influenciabilidade;
+3. Incompreensibilidade.
+
+A Incompreensibilidade é que os motivos e razões do delírio não são muito compreensiveis; por exemplo, o paciente não consegue explicar porque está sendo perseguido. A Influenciabilidade a Incorrigibilidade é que não conseguimos convencer a pessoa de que isso está dentro da cabeça dela — o paciente está vivenciando a situação com a mesma percepção de realidade que nós vivenciamos nossas experiencias.
+
+### Psicomotricidade e vontade
+
+Tanto a psicomotricidade como a vontade devem ser avaliadas em todos os pacientes, psiquiátricos ou não. Por exemplo, ao darmos um diagnóstico de câncer para um paciente, precisamos perguntar o que o câncer significa para ele, como ele enxerga a sua vida daqui pra frente.
+
+Avaliar se o paciente sente vontade de comer, de tomar banho, de executar tarefas diárias.
+
+A psicomotricidade está relacionada ao equlíbrio, a fraqueza de postura, alterações de marcha, se ele consegue ficar em pé, se possui alguma rigidez.
