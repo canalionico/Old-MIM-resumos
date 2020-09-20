@@ -142,6 +142,51 @@ Existem algumas peculiaridades, por exemplo:
 
 ### Quanto tempo manter a medicação?
 
+Como é uma doença muito recorrente — após o primeiro episódio a chance de recaída é de 50% —, devemos manter a medicação por bastante tempo. Normalmente, continuamos a medicação por** 6 a 12 meses após a melhora do paciente** — não é após o ajuste da dose máxima. De preferência **mantendo a mesma dose máxima** por todo o período.
 
+<span class='alert'>
+  No primeiro episódio, o tratamento deve ser mantido por 6 a 12 meses após a melhora do paciente.
+</span>
+
+Ao longo desse período devemos sempre monitorar sinais de recaíde e se necessário fazer ajustes na dose ou potencializar.
+
+Entretanto, a cada novo episódio acabamos tendo de manter a medicação por mais tempo. Após 3 episódios de depressão o tratamento já será necessário praticamente por toda a vida, ou pelo menos por 10 anos.
 
 # Tratamento da bipolaridade
+
+Assim como na depressão unipolar, as terapias e medidas não farmacológicas também são sempre indicadas. Contudo, como aqui o quadro costuma ser mais grave e neurotóxico, a **medicação é inciada mais precocemente**.
+
+Em casos muito leves ou períodos muito longos de eutimia, podemos até pensar em usar apenas medidas não farmacológicas, mas com bastante cuidado.
+
+A medicação utilizada são os etabilizadores de humor, dentre eles:
+
+1. **Lítio**;
+2. **Anticonvulsivantes** ­— ácido valpróico, lamotrigina, carbamazepina e oxicarbazepina;
+3. **Antipsicóticos atípicos** — quetiapina, olanzapina, risperidona, aripiprazol, ziprazidona, asenapina, lurasidona, clozapina.
+
+De posologia, o mais importante é saber a do lítio e ácido valpróico pois são os mais utilizados.
+
+1. **Lítio** — a dosagem terapêutica fica entre 600 a 1200 mg mas depende da litemia;
+2. **Ácido valpróico** — dose terapêutica entre 750 e 2000 mg.
+
+## Diretrizes
+
+De acordo com os guidelines, a medicação de primeira linha vai depender da fase em que o paciente se encontra.
+
+Na **depressão aguda**, a **primeira linha** inclui o **lítio**, amotrigina, quetiapina, lurasidona. A **segunda linha** inclui divalproato, bupopriona, eletroconvulsoterapia, cariprazina e olanzapina + fluoxetina.
+
+Na **mania aguda**, a **primeira linha** é baseada em monotepia de medicações como: lítio, divalproato, quetiapina, asenapina, aripiprazol, paliperidona, risperidona, cariprazina. Já a **segunda linha** é uma combinação de lítio ou divalproato e mais: quetiapina, apiprazol, risperidona ou asenapina.
+
+Já na fase de manutenção, a primeira linha inclui lítio, divalproato, quetiapina, asenapina, lamotrigina, apiprazol ou combinações de lítuio/divalproato mais quetiapina ou apiprazol.
+
+Resumindo: de forma geral o **lítio** e o **ácido valpróico** vão ser primeira linha e são as escolhas mas comuns de tratamento.
+
+Outros tratamentos mais intervencionistas incluem:
+
+1. Eletroconvulsoterapia;
+2. Estimulação mangnética transcraniana (EMT ou TMS);
+3. Quetamina (antagonista do receptor NMDA);
+4. Psilocibina, ayushuasca e outros psicodélicos;
+5. Deep Brain Stimulation (DBS) e neurocirurgia.
+
+Apesar dos preconceitos, a **eletroconvulsoterapia** é um ótimo tratamento podendo ser realizado ambulatorialmente com o paciente sedado. As principais indicações são os casos graves com sintomas psicóticos, refratários, grávidas, idosos, catatônicos, risco alto de suicídio, risco nutricional (perda acentuada de peso secundária ao quadro depressivo).
