@@ -1358,6 +1358,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/meningite/diplococos.jpeg'
       
+        '/assets/infectologia/meningite/sinais.png'
+      
         '/assets/infectologia/neutropenia-febril/atb.jpeg'
       
         '/assets/infectologia/neutropenia-febril/atbs.jpeg'

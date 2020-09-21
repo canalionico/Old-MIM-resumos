@@ -1,88 +1,4 @@
-<!--
-Criado por Filipe Mosca
-Acesse meu site: https://mosquildo.com.br
-
-
-  -. (#)(#) .-
-   '\.';;'./'
-.-\.'  ;;  './-.
-  ;    ;;    ;
-  ;   .''.   ;
-   '''    '''
--->
-<!doctype html>
-<html lang="pt-br" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Meningite</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <script type="text/javascript">
-      navigator.serviceWorker && navigator.serviceWorker.register('./sw.js').then(function(registration) {
-      console.log('Excellent, registered with scope: ', registration.scope);
-    });
-    </script>
-    -->
-
-    <script>
-      if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js')
-          .then(function () {
-            console.log('service worker registered');
-          })
-          .catch(function () {
-            console.warn('service worker failed');
-          });
-      }
-    </script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58629913-6"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-58629913-6');
-    </script>
-
-    <meta name="theme-color" content="#008000">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/favicon2.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" type="text/css" href="/assets/picol/css/picol.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Baskervville|Cormorant+Garamond|EB+Garamond|Libre+Baskerville|PT+Serif|Source+Serif+Pro|Vollkorn&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Domine&display=swap" rel="stylesheet">
-    <meta name="robots" content="noindex" />
-  </head>
-  <body>
-    <header class="header-posts">
-  <div class="wrapper">
-    <nav class="nav-posts">
-        <a href="/sumario/infectologia"><i class="picol_arrow_full_left"></i>Voltar</a>
-        <a href="https://mosquildo.com.br"><i class="picol_website"></i> Blog</a>
-      </nav>
-  </div>
-</header>
-
-
-<div class="wrapper">
-  <div class="main">
-    <h1 class="post-title">Meningite</h1>
-    <p class="post-page-info">
-      <em>por <a href="https://twitter.com/filipemosca">Filipe Mosca</a><br>
-      Última revisão:  <br>
-      
-      filipemosca@disroot.org <br>
-
-      <!--   -->
-    </p></em>
-    <article>
-      <ul id="markdown-toc">
+I"�j<ul id="markdown-toc">
   <li><a href="#etiologia-e-epidemiologia" id="markdown-toc-etiologia-e-epidemiologia">Etiologia e epidemiologia</a>    <ul>
       <li><a href="#vírus" id="markdown-toc-vírus">Vírus</a></li>
       <li><a href="#bactérias" id="markdown-toc-bactérias">Bactérias</a>        <ul>
@@ -105,12 +21,7 @@ Acesse meu site: https://mosquildo.com.br
     </ul>
   </li>
   <li><a href="#exames-complementares" id="markdown-toc-exames-complementares">Exames complementares</a>    <ul>
-      <li><a href="#lcr" id="markdown-toc-lcr">LCR</a>        <ul>
-          <li><a href="#contraindicações" id="markdown-toc-contraindicações">Contraindicações</a></li>
-          <li><a href="#coleta" id="markdown-toc-coleta">Coleta</a></li>
-          <li><a href="#resultados" id="markdown-toc-resultados">Resultados</a></li>
-        </ul>
-      </li>
+      <li><a href="#lcr" id="markdown-toc-lcr">LCR</a></li>
       <li><a href="#neuroimagem" id="markdown-toc-neuroimagem">Neuroimagem</a></li>
       <li><a href="#hemocultura-e-biópsia-de-lesões-cutâneas" id="markdown-toc-hemocultura-e-biópsia-de-lesões-cutâneas">Hemocultura e biópsia de lesões cutâneas</a></li>
     </ul>
@@ -123,10 +34,6 @@ Acesse meu site: https://mosquildo.com.br
   </li>
   <li><a href="#notificação" id="markdown-toc-notificação">Notificação</a></li>
   <li><a href="#quimioprofilaxia" id="markdown-toc-quimioprofilaxia">Quimioprofilaxia</a></li>
-  <li><a href="#meningite-viral" id="markdown-toc-meningite-viral">Meningite viral</a>    <ul>
-      <li><a href="#meningoencefalite-herpética" id="markdown-toc-meningoencefalite-herpética">Meningoencefalite herpética</a></li>
-    </ul>
-  </li>
 </ul>
 
 <p>A <strong>meningite</strong> é a inflamação ou edema das meninges e do espaço subaracnoide, relacionada a uma intensa reação inflamatória no sistema nervoso central. Já a <strong>encefalite</strong>, é a inflamação do parenquima cerebral, do cérebro propriamente dito.</p>
@@ -356,15 +263,9 @@ leucócitos (presentes no liquor), células da micróglia, astrócitos e célula
 
 <p>Como vimos, de forma geral as meningites são quadros agudos — mais brandos quando virais e mais graves quando bacterianos. Contudo, algumas etiologias pode apresentar um quadro crônico, como:</p>
 
-<ol>
-  <li>Tuberculose;</li>
-  <li>Fungos.</li>
-</ol>
-
-<p>Na meningite por fungos criptococos lembrar sempre que a pressão de abertura está bastante aumentada e é mais comum em imunossuprimidos.</p>
-
 <h2 id="síndrome-toxêmica">Síndrome toxêmica</h2>
-<!-- REVER!!!!!!!!!!!!!!!!! -->
+
+<!-- REVER -->
 
 <p>Febre alta, mal-estar geral, prostração e, eventualmente, agitação psicomotora.</p>
 
@@ -406,27 +307,9 @@ leucócitos (presentes no liquor), células da micróglia, astrócitos e célula
   <li>Glicorraquia.</li>
 </ol>
 
-<h3 id="contraindicações">Contraindicações</h3>
-
-<p>Existem situações que podem provocar um <strong>efeito de massa</strong> no encéfalo e a retirada de líquor pode causar uma diferença de pressão capaz de <strong>herniar</strong> estruturas importantes, como o tronco encefálico e causar uma parada cardiorrespiratória.</p>
-
-<p>Para evitar esse evento, as situações abaixo aumentam a suspeita de lesão com efeito de massa e indicam a realização de um exame de neuroimagem antes da coleta do líquor:</p>
-
-<ol>
-  <li>Rebaixamento do nível de consciência;</li>
-  <li>Sinal de défict neurológico focal;</li>
-  <li>Papiledema;</li>
-  <li>Convulsão de início recente**;</li>
-  <li>Imunossuprimidos**.</li>
-</ol>
-
-<p>** Algumas fontes colocam que imunossupressão não é contraindicação para a coleta do LCR. A única <strong>contraindicação absoluta</strong> à punção liquórica é a presença de <strong>infecção no local da punção</strong> (piodermite).</p>
-
-<h3 id="coleta">Coleta</h3>
+<p>Na presença de rebaixamento do nível de consciência, com deficit focais novos e/ou papiledema, muitos autores recomendam um exame de neuroimagem antes da punção. A única <strong>contraindicação absoluta</strong> à punção liquórica é a presença de <strong>infecção no local da punção</strong> (piodermite).</p>
 
 <p>Em pacientes com <strong>nível de consciência</strong> normal, sem <strong>papiledema</strong> ou <strong>deficit focais</strong>, a punção liquórica é realizada na região lombar, entre L1 e S1, sendo mais indicados os espaços <strong>L3-L4</strong>, <strong>L4-L5</strong> ou <strong>L5-S1</strong>.</p>
-
-<h3 id="resultados">Resultados</h3>
 
 <p><img src="/assets/infectologia/lcr.jpeg" alt="LCR" /></p>
 
@@ -452,56 +335,29 @@ leucócitos (presentes no liquor), células da micróglia, astrócitos e célula
 
 <p><img src="/assets/infectologia/lcr2.jpeg" alt="LCR" /></p>
 
+<p><strong>Aglutinação pelo látex:</strong> A pesquisa de antígenos bacterianos poderá ser processada pela técnica de aglutinação pelo látex ou contraimunoeletroforese. O látex apresenta especificidade de 95
+a 100% na meningite por pneumococo e meningococo. Sendo assim, um resultado positivo confirma o agente infeccioso. Infelizmente a sensibilidade do exame já não é tão elevada, sendo de 33 a 70% na meningite meningocócica e 70 a 95% na pneumocócica.</p>
+
+<p><strong>Exame microbiológico:</strong> os mais utilizados são a bacterioscopia pelo
+<strong>Gram</strong> e a <strong>cultura</strong>. Se o paciente recebeu antibióticos antes da punção
+lombar, o Gram e a cultura podem não revelar a presença de bactérias, porém a PCR ainda pode firmar o diagnóstico.</p>
+
 <p>Um padrão clássico de <strong>meningite bacteriana</strong> apresenta:</p>
 
 <ol>
-  <li>Celularidade aumentada (<strong>&gt; 100-1000</strong>),</li>
-  <li>com neutrofilia predominante;</li>
-  <li>Proteinorraquia aumentada (<strong>&gt; 100-300</strong>);</li>
-  <li>Hipoglicorraquia (<strong>&lt; 40</strong>).</li>
+  <li>Celularidade aumentada;</li>
+  <li>Neutrofilia predominante;</li>
+  <li>Proteinorraquia aumentada;</li>
+  <li>Hipoglicorraquia.</li>
 </ol>
 
 <p><span class="alert">
   Classicamente, na meningite bacteriana estão aumentados no LCR: celularidade, neutrófilos, proteínas e glicose.
 </span></p>
 
-<p>Já nas <strong>meningites virais</strong>, é mais comum um padrão com:</p>
-
-<ol>
-  <li>Celularidade levemente aumentada,</li>
-  <li>de predomínio linfomonocitário;</li>
-  <li>Proteínas levemente aumentadas;</li>
-  <li>Glicose normal.</li>
-</ol>
-
-<p><span class="alert">
-  No quadro viral predomina o padrão linfomono com glicose normal e pouca alteração de celularidade e proteínas.
-</span></p>
-
-<p><strong>Exame microbiológico</strong> — para sugerir e orientar ainda mais o diangóstico, a coloração de gram e a cultura são os principais.</p>
-
-<p><strong>Coloração de Gram</strong> — se corarmos o LCR com o Gram e analisarmos no microscopio, podemos encontrar:</p>
-
-<ol>
-  <li>Diplococos Gram positivos — <strong>pneumococo</strong>;</li>
-  <li>Diplococos Gram negativos — <strong>meningococo</strong>;</li>
-  <li>Bacilo Gram negativo — <strong>hemófilos</strong>;</li>
-  <li>Bacilo Gram positivo — <strong>listeria</strong>.</li>
-</ol>
-
-<p><span class="alert">
-  Lembrando que as Gram positivas (principalmente estreptos e estafilos) ficam azul e as Gram negativas ficam rosa.
-</span></p>
-
-<p>Se o paciente recebeu antibióticos antes da punção lombar, o Gram e a cultura podem não revelar a presença de bactérias, porém a PCR ainda pode firmar o diagnóstico.</p>
-
-<p><strong>Aglutinação pelo látex</strong> — a pesquisa de antígenos bacterianos poderá ser processada pela técnica de aglutinação pelo látex ou contraimunoeletroforese. O látex apresenta especificidade de 95 a 100% na meningite por pneumococo e meningococo. Sendo assim, um resultado positivo confirma o agente infeccioso. Infelizmente a sensibilidade do exame já não é tão elevada, sendo de 33 a 70% na meningite meningocócica e 70 a 95% na pneumocócica.</p>
-
-<p>O diagnóstico definitivo é obtido por meio da <strong>cultura</strong> do LCR ou do <strong>PCR</strong> (reacão em cadeia polimerase) — para os quadros virais. Mas como as culturas demoram 4-5 dias, não devemos atrasar a medicação empírica.</p>
-
 <h2 id="neuroimagem">Neuroimagem</h2>
 
-<p>Lembrando que está indicada a neuroimagem antes da coleta do líquor nas situações de:</p>
+<p>Lembrando que está indicada antes da coleta do líquor nas situações de:</p>
 
 <ol>
   <li>Rebaixamento grave do nível de consciência;</li>
@@ -518,22 +374,9 @@ leucócitos (presentes no liquor), células da micróglia, astrócitos e célula
 <p>Em casos de meningite associada à <strong>meningococcemia</strong>, as hemoculturas costumam ser positivas e a <strong>biópsia de lesões petequiais</strong> costuma revelar o micro-organismo, inclusive de forma
 rápida pelo método de Gram.</p>
 
-<p>É por isso que muitas vezes é interessante pedir uma hemocultura já quando suspeitamos de um quadro de meningite meningococica. Coletando em dois pares antes de iniciar a antibioticoterapia. Inclusive, se não tivermos um LCR à disposição, a facilidade de colher a hemocultura será importante para nos dar mais informações.</p>
-
 <h1 id="tratamento">Tratamento</h1>
 
-<p>A meningite bacteriana aguda (MBA) é uma <strong>emergência infecciosa</strong> e, como tal, deve ser tratada sem demora. Na suspeita de MBA ou mesmo de meningoencefalite herpética, as condições mais graves, cada hora perdida sem começar o tratamento vai piorar o prognóstico.</p>
-
-<p>Na realidade das emergências que não possuem um exame de LCR rapidamente acessível e disponível, é importantíssimo <strong>começarmos a antibioticoterapia rapidamente</strong>, mesmo sem coletar o LCR, de forma empírica e de acordo com a faixa etária e outros dados clínicos e epidemiológicos. Se possível, colhemos rapidamente uma hemocultura.</p>
-
-<p>O resumo da conduta geral num quadro agudo em unidade de emergência é:</p>
-
-<ol>
-  <li>Isolar o paciente;</li>
-  <li>Colher LCR <em>se possível</em> — e/ou hemocultura;</li>
-  <li>Iniciar antibioticoterapia rapidamente — na suspeita de meningoencefalite herpética adicionamos o aciclovir;</li>
-  <li>Fazer dexametasona (corticoesteroide)</li>
-</ol>
+<p>A meningite bacteriana aguda (MBA) é uma <strong>emergência infecciosa</strong> e, como tal, deve ser tratada sem demora. Dessa forma, quando houver suspeita de MBA e por algum motivo não for possível realizar uma punção lombar diagnóstica, seja por falta de condições técnicas, seja pelo fato do doente estar muito grave (ou mesmo na presença de contraindicações ao procedimento), impõe-se o <strong>início imediato do antibiótico</strong>, escolhido <strong>empiricamente</strong> de acordo com a <strong>faixa etária</strong> e outros dados clínicos e epidemiológicos.</p>
 
 <h2 id="antibióticos">Antibióticos</h2>
 
@@ -545,16 +388,7 @@ rápida pelo método de Gram.</p>
 
 <p><img src="/assets/infectologia/atb-meningite.jpeg" alt="Tto" /></p>
 
-<p>Nos EUA, como as taxas de resistência são maiores, eles costumam adicionar <strong>vancomicina</strong> e <strong>meropenem</strong>. Aqui no Brasil, podemos adicionar essas drogas em pacientes imunossuprimidos ou nosocomiais, já que temos menor resistencia bacteriana.</p>
-
-<p>Se conseguirmos realizar o diagnóstico etiológico, podemos substituir a terapia empírica pela direcionada ao agentes específico, que em resumo configura:</p>
-
-<ol>
-  <li><strong>Ceftriaxone</strong> — pneumococo, meningococo, hemófilo;</li>
-  <li><strong>Ampicilina</strong> — listéria;</li>
-  <li><strong>Aciclovir</strong> — HSV-1.
-<!-- ISSO TA CERTO MESMO? --></li>
-</ol>
+<p>Se conseguirmos realizar o diagnóstico etiológico, podemos substituir a terapia empírica pela direcionada ao agentes específico.</p>
 
 <p><img src="/assets/infectologia/atb-meningite2.jpeg" alt="Tto" /></p>
 
@@ -590,12 +424,6 @@ rápida pelo método de Gram.</p>
 
 <p>Após um diagnóstico de meningite devemos fazer a busca por contactantes para iniciar a profilaxia. Para isso, avaliamos as pessoas que têm contato íntimo com o caso índice — normalmente quem mora na mesma casa.</p>
 
-<!-- <span class='alert'>
-  A profilaxia dos contactantes só é necessária para as meningites por meningococo e hemófilo B.
-</span>
-
-TÁ CERTO? -->
-
 <p>A profilaxia deve ser feita se o indivíduo teve o contato <strong>até 7-10 dias atrás</strong>. Dependendo do agente a profilaxia dura:</p>
 
 <ol>
@@ -610,73 +438,4 @@ TÁ CERTO? -->
   <li>Ceftriaxone IM — principalmente em gestantes que n podem usar ciprofloxacina;</li>
   <li>Ciprofloxacina (500 mg) VO.</li>
 </ol>
-
-<h1 id="meningite-viral">Meningite viral</h1>
-
-<p>Vamos fazer aqui um pequeno adendo para falar um pouco das meningites virais que são até mais comuns.</p>
-
-<p>A clínica costuma ser mais inespecífica com um quadro agudo de evolução mais benigna. Podemos ter febre, cefaléia, vômitos e até sinais meníngeos.</p>
-
-<p>Sinais sistêmicos comuns de quadros virais também podem aparecer, como rash, diarréia, infecção de vias aéreas superiores.</p>
-
-<p>Lembrando que no líquor teremos mais ma pleocitose com predomínio linfomonocitário e a coloração de gram se mostra ausente; além das culturas que são negativas. O diagnóstico definitivo é feito pelo PCR.</p>
-
-<p>O <strong>tratamento é de suporte</strong> pois normalmente o quadro é autolimitado em imunocompetentes. Entretanto, vamos ver agora que a meningoencefalite herpética por HSV-1 exige cuidados especiais.</p>
-
-<h2 id="meningoencefalite-herpética">Meningoencefalite herpética</h2>
-
-<p>A meningoencefalite herpética causada pelo HSV-1 (hérpes vírus simples 1) se manifesta como um quadro de encefalite aguda de rápida instalação, sendo a causa mais comum de encefalite fatal.</p>
-
-<p><span class="alert">
-  Não se trata de uma simples meningite viral, é um quadro potencialmente fatal.
-</span></p>
-
-<p>Nela, além dos sinais e sintomas de meningite, teremos também sinais da encefalite. Somando, temos:</p>
-
-<ol>
-  <li>Febre e cefaléia;</li>
-  <li>Alterações cognitivas;</li>
-  <li>Alterações de consciência.</li>
-</ol>
-
-<p>Na ressonância magnética podemos ter alteração nos lobos temporais.</p>
-
-<p>O <strong>tratamento</strong> é feito com <strong>aciclovir</strong> endovenoso EV (10 mg/Kg 8/8 horas) por <strong>14 a 21 dias</strong>. Não devemos esperar confirmação de PCR para começar o tratamento.</p>
-
-      <a id="myBtn" href="#markdown-toc"><i class="picol_list"></i><i class="picol_arrow_full_up"></i></a>
-    </article>
-  </div>
-</div>
-
-    <div class="footer">
-    <div class="wrapper">
-        <div class="coisas">
-         
-          
-          <p><a href="https://www.facebook.com/Canalionico/" target="_blank"><svg class="svg-icon" width="20" heigth="20" ><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.48-1.195 1.18v1.54h2.39l-.31 2.42h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg></a>
-            
-          <a href="https://twitter.com/moscafilipe" target="_blank"><svg class="svg-icon" width="20" heigth="20" ><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.37-1.337.64-2.085.79-.598-.64-1.45-1.04-2.396-1.04-1.812 0-3.282 1.47-3.282 3.28 0 .26.03.51.085.75-2.728-.13-5.147-1.44-6.766-3.42C.83 2.58.67 3.14.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.41-.02-.61-.058.42 1.304 1.63 2.253 3.07 2.28-1.12.88-2.54 1.404-4.07 1.404-.26 0-.52-.015-.78-.045 1.46.93 3.18 1.474 5.04 1.474 6.04 0 9.34-5 9.34-9.33 0-.14 0-.28-.01-.42.64-.46 1.2-1.04 1.64-1.7z" fill-rule="nonzero"/></svg></a>
-            
-          <a href="https://github.com/filipemosca" target="_blank"><svg class="svg-icon" height="20" version="1.1" width="20" aria-hidden="true">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
-  
-          <a href="https://mosquildo.com.br/feed.xml" target="_blank"><i class="fas fa-rss"></i></a></p>
-       
-  
-          <p><i class="picol_mail"></i><a href="mailto:filipemosca@disroot.org">filipemosca@disroot.org</a> <br>
-            <i class="picol_security_closed"></i>PGP: CDD0 E240 698E 3A10 BBD0 B704 ACB6 9010 C5BE 0DE7 <br>
-            <i class="picol_attachment"></i><a href="https://mosquildo.com.br/key.asc">key.asc</a> </p>
-          </div>     
-  
-      <div class="license">
-        <p>Esta obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>. <br> Mosquildo © 2019-2020 Filipe Mosca</p>
-        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img id="licenca" alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Place this tag in your head or just before your close body tag. -->
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-  
-  </body>
-</html>
+:ET
