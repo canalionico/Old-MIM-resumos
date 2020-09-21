@@ -1356,6 +1356,8 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/leptospira.png'
       
+        '/assets/infectologia/meningite/diplococos.jpeg'
+      
         '/assets/infectologia/neutropenia-febril/atb.jpeg'
       
         '/assets/infectologia/neutropenia-febril/atbs.jpeg'

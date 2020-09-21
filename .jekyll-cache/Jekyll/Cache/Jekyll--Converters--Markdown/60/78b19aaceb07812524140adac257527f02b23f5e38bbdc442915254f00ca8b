@@ -1,100 +1,8 @@
-<!--
-Criado por Filipe Mosca
-Acesse meu site: https://mosquildo.com.br
-
-
-  -. (#)(#) .-
-   '\.';;'./'
-.-\.'  ;;  './-.
-  ;    ;;    ;
-  ;   .''.   ;
-   '''    '''
--->
-<!doctype html>
-<html lang="pt-br" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Meningite</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <script type="text/javascript">
-      navigator.serviceWorker && navigator.serviceWorker.register('./sw.js').then(function(registration) {
-      console.log('Excellent, registered with scope: ', registration.scope);
-    });
-    </script>
-    -->
-
-    <script>
-      if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js')
-          .then(function () {
-            console.log('service worker registered');
-          })
-          .catch(function () {
-            console.warn('service worker failed');
-          });
-      }
-    </script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58629913-6"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-58629913-6');
-    </script>
-
-    <meta name="theme-color" content="#008000">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/favicon2.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" type="text/css" href="/assets/picol/css/picol.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Baskervville|Cormorant+Garamond|EB+Garamond|Libre+Baskerville|PT+Serif|Source+Serif+Pro|Vollkorn&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Domine&display=swap" rel="stylesheet">
-    <meta name="robots" content="noindex" />
-  </head>
-  <body>
-    <header class="header-posts">
-  <div class="wrapper">
-    <nav class="nav-posts">
-        <a href="/sumario/infectologia"><i class="picol_arrow_full_left"></i>Voltar</a>
-        <a href="https://mosquildo.com.br"><i class="picol_website"></i> Blog</a>
-      </nav>
-  </div>
-</header>
-
-
-<div class="wrapper">
-  <div class="main">
-    <h1 class="post-title">Meningite</h1>
-    <p class="post-page-info">
-      <em>por <a href="https://twitter.com/filipemosca">Filipe Mosca</a><br>
-      Última revisão:  <br>
-      
-      filipemosca@disroot.org <br>
-
-      <!--   -->
-    </p></em>
-    <article>
-      <ul id="markdown-toc">
+I"�C<ul id="markdown-toc">
   <li><a href="#epidemiologia" id="markdown-toc-epidemiologia">Epidemiologia</a></li>
   <li><a href="#transmissão" id="markdown-toc-transmissão">Transmissão</a></li>
   <li><a href="#fisiopatologia" id="markdown-toc-fisiopatologia">Fisiopatologia</a></li>
-  <li><a href="#etiologia" id="markdown-toc-etiologia">Etiologia</a>    <ul>
-      <li><a href="#bactérias" id="markdown-toc-bactérias">Bactérias</a></li>
-      <li><a href="#vírus" id="markdown-toc-vírus">Vírus</a></li>
-      <li><a href="#neonatos" id="markdown-toc-neonatos">Neonatos</a></li>
-      <li><a href="#dos-3-aos-18-anos" id="markdown-toc-dos-3-aos-18-anos">Dos 3 aos 18 anos</a></li>
-      <li><a href="#dos-18-aos-50-anos" id="markdown-toc-dos-18-aos-50-anos">Dos 18 aos 50 anos</a></li>
-      <li><a href="#maiores-de-50-anos" id="markdown-toc-maiores-de-50-anos">Maiores de 50 anos</a></li>
-    </ul>
-  </li>
+  <li><a href="#etiologia" id="markdown-toc-etiologia">Etiologia</a></li>
   <li><a href="#quadro-clínico" id="markdown-toc-quadro-clínico">Quadro clínico</a>    <ul>
       <li><a href="#síndrome-toxêmica" id="markdown-toc-síndrome-toxêmica">Síndrome toxêmica</a></li>
       <li><a href="#síndrome-de-irritação-meníngea" id="markdown-toc-síndrome-de-irritação-meníngea">Síndrome de irritação meníngea</a></li>
@@ -108,21 +16,13 @@ Acesse meu site: https://mosquildo.com.br
     </ul>
   </li>
   <li><a href="#tratamento" id="markdown-toc-tratamento">Tratamento</a>    <ul>
-      <li><a href="#antibióticos" id="markdown-toc-antibióticos">Antibióticos</a></li>
       <li><a href="#glicocorticoides" id="markdown-toc-glicocorticoides">Glicocorticoides</a></li>
-      <li><a href="#isolamento" id="markdown-toc-isolamento">Isolamento</a></li>
     </ul>
   </li>
-  <li><a href="#notificação" id="markdown-toc-notificação">Notificação</a></li>
-  <li><a href="#quimioprofilaxia" id="markdown-toc-quimioprofilaxia">Quimioprofilaxia</a></li>
 </ul>
 
-<p>A <strong>meningite</strong> é a inflamação ou edema das meninges e do espaço subaracnoide, relacionada a uma intensa reação inflamatória no sistema nervoso central, que se manifesta como rebaixamento
+<p>É a inflamação das meninges e do espaço subaracnoide, relacionada a uma intensa reação inflamatória no sistema nervoso central, que se manifesta como rebaixamento
 do nível de consciência, convulsões, aumento da Pressão Intracraniana (PIC) e eventos isquêmicos.</p>
-
-<p>Já a <strong>encefalite</strong>, é a inflamação do parenquima cerebral, do cérebro propriamente dito.</p>
-
-<p>Contudo, na grande parte dos casos nós vamos ter tanto das meninges como do cérebro, condição que chamamos de <strong>meningoencefalite</strong>.</p>
 
 <p>As meningites podem ser de etiologia infecciosa e também não infecciosas. Dentre as infecciosas, as etiologias mais comuns são:</p>
 
@@ -134,6 +34,8 @@ do nível de consciência, convulsões, aumento da Pressão Intracraniana (PIC) 
 </ol>
 
 <p>Síntomas típicos são a febre, irritação meníngea, cefaleia e rebaixamento.</p>
+
+<p>Quando ocorre envolvimento do parênquima cerebral, chamamos de meningoencefalite.</p>
 
 <h2 id="epidemiologia">Epidemiologia</h2>
 
@@ -166,7 +68,7 @@ traz, portanto, graves consequências. Caso ocorra hipotensão durante o episód
 subaracnoide pode acometer vasos sanguíneos por contiguidade (vasculite – principalmente nos vasos da base do crânio), ocasionando trombose e infarto cerebral isquêmico (a isquemia do SNC ocasiona edema do tipo citotóxico)
 ou então favorecendo a disseminação do processo infeccioso para o encéfalo, determinando o aparecimento de abscessos cerebrais.</p>
 
-<h1 id="etiologia">Etiologia</h1>
+<h2 id="etiologia">Etiologia</h2>
 
 <p>As meningites podem ser de etiologia infecciosa e também não infecciosas. Dentre as infecciosas, as etiologias mais comuns são:</p>
 
@@ -177,11 +79,7 @@ ou então favorecendo a disseminação do processo infeccioso para o encéfalo, 
   <li>Micobactérias.</li>
 </ol>
 
-<p>Os agentes mais comuns <strong>variam muito conforme a faixa etária</strong> do paciente e esse entendimento é extremamente importante.</p>
-
-<h2 id="bactérias">Bactérias</h2>
-
-<p>De toto modo, levando em consideração todas as faixas etárias, os agentes bacterianos mais comuns são:</p>
+<p>Os agentes mais comuns <strong>variam muito conforme a faixa etária</strong> do paciente e esse entendimento é extremamente importante. De foto modo, levando em consideração todas as faixas etárias, os agentes bacterianos mais comuns são:</p>
 
 <ol type="a">
   <li>H. influenzae;</li>
@@ -201,20 +99,6 @@ ou então favorecendo a disseminação do processo infeccioso para o encéfalo, 
 
 <p><em><strong>S. pneumoniae</strong></em> — são cocos gram positivos aos pares. Estão associados a doenças crônicas e também possui vacinação. No Brasil ainda poucas cepas são resistentes.</p>
 
-<h2 id="vírus">Vírus</h2>
-
-<p>São inúmeros os vírus capazes de causar meningite viral. Contudo, podemos destacar os principais:</p>
-
-<ol>
-  <li>Enterovírus;</li>
-  <li>Adenovírus;</li>
-  <li>Herpes vírus.</li>
-</ol>
-
-<p>O diagnóstico etiológico é difícil pois faz-se necessário o uso de biologia molecular. Felizmente, clinicamente o a diferenciação do vírus não é importante clinicamente.</p>
-
-<h2 id="neonatos">Neonatos</h2>
-
 <p>A meningite no <strong>recém-nascido</strong> e no <strong>lactente</strong> de até três meses é ocasionada mais frequentemente pelos:</p>
 
 <ul>
@@ -232,8 +116,6 @@ ou então favorecendo a disseminação do processo infeccioso para o encéfalo, 
 
 <p>A aquisição dessas bactérias se dá no momento do parto, devido à colonização da mucosa vaginal.</p>
 
-<h2 id="dos-3-aos-18-anos">Dos 3 aos 18 anos</h2>
-
 <p>Dos <strong>3 meses aos 18 anos</strong>, os micro-organismos mais frequentes passam a ser:</p>
 
 <ul>
@@ -244,15 +126,11 @@ ou então favorecendo a disseminação do processo infeccioso para o encéfalo, 
 
 <p>No passado era descrito um predomínio do Hib sobre o meningococo, porém, devido à vacinação anti-Hib, a meningite por este agente teve sua incidência bastante diminuída.</p>
 
-<h2 id="dos-18-aos-50-anos">Dos 18 aos 50 anos</h2>
-
 <p>Dos <strong>18 aos 50 anos</strong>, o pneumococo se torna mais frequente que o meningococo (que assume a segunda posição no ranking), permanecendo o Hib como o menos frequente dos três.</p>
 
 <p><span class="alert">
   Em adultos os principais agentes etiológicos são o pneumococo e o meningococo.
 </span></p>
-
-<h2 id="maiores-de-50-anos">Maiores de 50 anos</h2>
 
 <p>Em <strong>indivíduos &gt; 50 anos</strong>, o pneumococo também é o principal agente etiológico de meningite bacteriana, seguido agora pela <strong>Listeria</strong> e pelos bacilos <strong>Gram-negativos entéricos</strong>, que voltam a ter importância estatística.</p>
 
@@ -266,7 +144,7 @@ determina os quadros clínicos de maior gravidade (letalidade 15-30%) geralmente
 <p>O <strong>Staphylococcus aureus</strong> e o <strong>Staphylococcus epidermidis</strong>, principalmente o último, são os micro-organismos mais envolvidos em meningite após procedimentos neurocirúrgicos, como derivação ventriculoperitoneal para o tratamento de
 hidrocefalia e instalação de dispositivos subcutâneos para realização de quimioterapia intratecal.</p>
 
-<h1 id="quadro-clínico">Quadro clínico</h1>
+<h2 id="quadro-clínico">Quadro clínico</h2>
 
 <p>A meningite engloba três síndromes:</p>
 
@@ -278,7 +156,7 @@ hidrocefalia e instalação de dispositivos subcutâneos para realização de qu
 
 <p>Em crianças pequenas, em particular nos lactentes, os sinais e sintomas de irritação meníngea podem estar ausentes em até 50% dos casos. Apresentando apenas manifestações inespecíficas, como choro e irritabilidade. Sob qualquer suspeita devemos puncionar o LCR.</p>
 
-<h2 id="síndrome-toxêmica">Síndrome toxêmica</h2>
+<h3 id="síndrome-toxêmica">Síndrome toxêmica</h3>
 
 <p>Febre alta, mal-estar geral, prostração e,
 eventualmente, agitação psicomotora.</p>
@@ -287,7 +165,7 @@ eventualmente, agitação psicomotora.</p>
 
 <p>Em 40-60% das meningites meningocócicas, um rash cutâneo hemorrágico, marcado pelo surgimento de petéquias e equimoses disseminadas, pode ser encontrado (dano endotelial nos capilares da derme pela “semeadura” local do meningococo).</p>
 
-<h2 id="síndrome-de-irritação-meníngea">Síndrome de irritação meníngea</h2>
+<h3 id="síndrome-de-irritação-meníngea">Síndrome de irritação meníngea</h3>
 
 <ul>
   <li><strong>Rigidez de nuca:</strong> paciente em decúbito dorsal com dificuldade para fletir seu pescoço (devido à contratura reflexa da musculatura cervical posterior);</li>
@@ -297,7 +175,7 @@ eventualmente, agitação psicomotora.</p>
 “choque elétrico” na região lombar.</li>
 </ul>
 
-<h2 id="síndrome-de-hipertensão-intracraniana">Síndrome de hipertensão intracraniana</h2>
+<h3 id="síndrome-de-hipertensão-intracraniana">Síndrome de hipertensão intracraniana</h3>
 
 <ul>
   <li>Cefaleia holocraniana intensa;</li>
@@ -311,28 +189,14 @@ antecedentes.</p>
 
 <p>Crises convulsivas podem aparecer em 30-40% dos casos de meningite bacteriana. Quando focais, podem indicar a ocorrência de lesões vasculares (vasculite) complicadas por trombose e infarto isquêmico do parênquima cerebral.</p>
 
-<h1 id="exames-complementares">Exames complementares</h1>
+<h2 id="exames-complementares">Exames complementares</h2>
 
-<p>Para o diagnóstico etiológico de forma geral, a coleta do líquor é muito importante. Entretanto, <strong>não devemos atrasar o início da antibioticoterapia</strong> na espera de um exame de líquor. Mas claro que o ideal é iniciar a medicação após colher o LCR para evitar alteração dos resultados da cultura.</p>
+<h3 id="lcr">LCR</h3>
 
-<p><span class="alert">
-  Não atrasar a antibioticoterapia!
-</span></p>
+<p>O diagnóstico deve ser confirmado por uma punção lombar. A primeira dose do antibiótico intravenoso deve ser ministrada antes do transporte para a radiologia, e após coleta de hemoculturas.</p>
 
-<h2 id="lcr">LCR</h2>
-
-<p>O diagnóstico deve ser confirmado por uma punção lombar. A primeira dose do antibiótico intravenoso deve idealmente ser ministrada após coleta de hemoculturas. Contudo, mais uma vez, não podemos retardar demais o início da antibioticoterapia.</p>
-
-<p>Com o LCR, podemos avaliar:</p>
-
-<ol>
-  <li>Bioquímica;</li>
-  <li>Celularidade;</li>
-  <li>Proteinorraquia;</li>
-  <li>Glicorraquia.</li>
-</ol>
-
-<p>Na presença de rebaixamento do nível de consciência, com deficit focais novos e/ou papiledema, muitos autores recomendam um exame de neuroimagem antes da punção. A única <strong>contraindicação absoluta</strong> à punção liquórica é a presença de <strong>infecção no local da punção</strong> (piodermite).</p>
+<p>Na presença de rebaixamento do nível de consciência, com deficit focais novos e/ou papiledema, muitos autores recomendam um exame de neuroimagem antes da punção. A única contraindicação absoluta à punção
+liquórica é a presença de <strong>infecção no local da punção</strong> (piodermite).</p>
 
 <p>Em pacientes com <strong>nível de consciência</strong> normal, sem <strong>papiledema</strong> ou <strong>deficit focais</strong>, a punção liquórica é realizada na região lombar, entre L1 e S1, sendo mais indicados os espaços <strong>L3-L4</strong>, <strong>L4-L5</strong> ou <strong>L5-S1</strong>.</p>
 
@@ -367,137 +231,29 @@ a 100% na meningite por pneumococo e meningococo. Sendo assim, um resultado posi
 <strong>Gram</strong> e a <strong>cultura</strong>. Se o paciente recebeu antibióticos antes da punção
 lombar, o Gram e a cultura podem não revelar a presença de bactérias, porém a PCR ainda pode firmar o diagnóstico.</p>
 
-<p>Um padrão clássico de <strong>meningite bacteriana</strong> apresenta:</p>
-
-<ol>
-  <li>Celularidade aumentada;</li>
-  <li>Neutrofilia predominante;</li>
-  <li>Proteinorraquia aumentada;</li>
-  <li>Hipoglicorraquia.</li>
-</ol>
-
-<p><span class="alert">
-  Classicamente, na meningite bacteriana estão aumentados no LCR: celularidade, neutrófilos, proteínas e glicose.
-</span></p>
-
-<h2 id="neuroimagem">Neuroimagem</h2>
-
-<p>Lembrando que está indicada antes da coleta do líquor nas situações de:</p>
-
-<ol>
-  <li>Rebaixamento grave do nível de consciência;</li>
-  <li>Sinais focais;</li>
-  <li>Convulsões;</li>
-  <li>Papiledema <em>e</em>;</li>
-  <li>HIC — hipertensão intracraniana.</li>
-</ol>
+<h3 id="neuroimagem">Neuroimagem</h3>
 
 <p>Evidenciam com clareza áreas de <strong>edema e/ou isquemia</strong>. A ressonância nuclear magnética é preferida sobre a tomografia de crânio.</p>
 
-<h2 id="hemocultura-e-biópsia-de-lesões-cutâneas">Hemocultura e biópsia de lesões cutâneas</h2>
+<h3 id="hemocultura-e-biópsia-de-lesões-cutâneas">Hemocultura e biópsia de lesões cutâneas</h3>
 
 <p>Em casos de meningite associada à <strong>meningococcemia</strong>, as hemoculturas costumam ser positivas e a <strong>biópsia de lesões petequiais</strong> costuma revelar o micro-organismo, inclusive de forma
 rápida pelo método de Gram.</p>
 
-<h1 id="tratamento">Tratamento</h1>
+<h2 id="tratamento">Tratamento</h2>
 
-<p>A meningite bacteriana aguda (MBA) é uma <strong>emergência infecciosa</strong> e, como tal, deve ser tratada sem demora. Dessa forma, quando houver suspeita de MBA e por algum motivo não for possível realizar uma punção lombar diagnóstica, seja por falta de condições técnicas, seja pelo fato do doente estar muito grave (ou mesmo na presença de contraindicações ao procedimento), impõe-se o <strong>início imediato do antibiótico</strong>, escolhido <strong>empiricamente</strong> de acordo com a <strong>faixa etária</strong> e outros dados clínicos e epidemiológicos.</p>
-
-<h2 id="antibióticos">Antibióticos</h2>
-
-<p>Dentre os antibióticos  disponíveis, eles precisam ser capaz de atravessar a barreira hematoencefálica.</p>
-
-<p>Em <strong>adultos</strong>, a droga de escolha é a <strong>ceftriaxone</strong> endovenosa na dose para meningite (o dobro da dose usual).</p>
-
-<p>Entretanto, nos pacientes adultos com <strong>imunossuoressão</strong> e/ou nos pacientes dos <strong>extremos de idade</strong>, devemos <strong>associar</strong> <strong>ampicilina</strong> — para cobrir <em><strong>Listeria</strong> monocytogenes</em>, pois o ceftriaxone não garante a cobertura.</p>
+<p>A Meningite Bacteriana Aguda (MBA) é uma
+emergência infecciosa e, como tal, deve ser tratada sem demora. Dessa forma, quando houver suspeita de MBA e por algum motivo não for possível realizar uma punção lombar diagnóstica, seja por falta de condições técnicas, seja pelo fato do doente estar muito grave (ou mesmo na presença de contraindicações ao
+procedimento), impõe-se o início imediato
+do antibiótico, escolhido empiricamente de
+acordo com a faixa etária e outros
+dados clínicos e epidemiológicos.</p>
 
 <p><img src="/assets/infectologia/atb-meningite.jpeg" alt="Tto" /></p>
 
-<p>Se conseguirmos realizar o diagnóstico etiológico, podemos substituir a terapia empírica pela direcionada ao agentes específico.</p>
-
-<p><img src="/assets/infectologia/atb-meningite2.jpeg" alt="Tto" /></p>
-
-<p>O tempo de tratamento também depende do agente etiológico, mas de forma geral:</p>
-
-<ol>
-  <li><em>N meningitidis</em>: <strong>7 dias</strong>;</li>
-  <li><em>H. influenzae</em>: <strong>7 a 10 dias</strong>;</li>
-  <li><em>S. pneumoniae</em>: <strong>10 a 14 dias</strong>.</li>
-</ol>
-
-<p><span class="alert">
-  O tratamento para pneumococo é um pouco mais longo.
-</span></p>
-
-<h2 id="glicocorticoides">Glicocorticoides</h2>
+<h3 id="glicocorticoides">Glicocorticoides</h3>
 
 <p>Preconiza-se o uso sistemático de GC em todas as formas de meningite bacteriana aguda, visando reduzir a inflamação no SNC e, desse modo, a chance de óbito e sequelas neurológicas.</p>
 
-<p>De evidências científicas, o benefício claro do uso de corticóides está demonstrado nas meninigtes por pneumococos e hemófilo; diminuindo sequelas neurológicas. Se não identificamos o agente específico, então está recomendado administrar o CE mesmo assim.</p>
-
-<p>A administração pode ser feita com <strong>dexametasona</strong> (0,15 mg/Kg 6/6 h) por 4 dias, junto ou antes da primeira dose do antibiótico.</p>
-
-<h2 id="isolamento">Isolamento</h2>
-
-<p>Durante o tratamento da meningite bacteriana, o paciente precisa ser isolado para evitar transmissão a outros pacientes. Mas <strong>após 24 horas</strong> de início da antibioticoterapia já podemos <strong>suspender o isolamento</strong>.</p>
-
-<h1 id="notificação">Notificação</h1>
-
-<p>Todas meningites bacterianas são de notificação compulsória imediata para a vigilância epidemiológica! Isto pois é necessário buscar ativamente os <strong>contactantes</strong> para a realização de <strong>profilaxia</strong>.</p>
-
-<h1 id="quimioprofilaxia">Quimioprofilaxia</h1>
-
-<p>Após um diagnóstico de meningite devemos fazer a busca por contactantes para iniciar a profilaxia. Para isso, avaliamos as pessoas que têm contato íntimo com o caso índice — normalmente quem mora na mesma casa.</p>
-
-<p>A profilaxia deve ser feita se o indivíduo teve o contato <strong>até 7-10 dias atrás</strong>. Dependendo do agente a profilaxia dura:</p>
-
-<ol>
-  <li>Hemófilo B: <strong>4 dias</strong>;</li>
-  <li>Meningococo: <strong>2 dias</strong>.</li>
-</ol>
-
-<p>A droga de escolha é a <strong>rifampicina</strong>, mas outras opções envolvem:</p>
-
-<ol>
-  <li><strong>Rifampicina</strong>;</li>
-  <li>Ceftriaxone IM — principalmente em gestantes que n podem usar ciprofloxacina;</li>
-  <li>Ciprofloxacina (500 mg) VO.</li>
-</ol>
-
-      <a id="myBtn" href="#markdown-toc"><i class="picol_list"></i><i class="picol_arrow_full_up"></i></a>
-    </article>
-  </div>
-</div>
-
-    <div class="footer">
-    <div class="wrapper">
-        <div class="coisas">
-         
-          
-          <p><a href="https://www.facebook.com/Canalionico/" target="_blank"><svg class="svg-icon" width="20" heigth="20" ><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.48-1.195 1.18v1.54h2.39l-.31 2.42h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg></a>
-            
-          <a href="https://twitter.com/moscafilipe" target="_blank"><svg class="svg-icon" width="20" heigth="20" ><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.37-1.337.64-2.085.79-.598-.64-1.45-1.04-2.396-1.04-1.812 0-3.282 1.47-3.282 3.28 0 .26.03.51.085.75-2.728-.13-5.147-1.44-6.766-3.42C.83 2.58.67 3.14.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.41-.02-.61-.058.42 1.304 1.63 2.253 3.07 2.28-1.12.88-2.54 1.404-4.07 1.404-.26 0-.52-.015-.78-.045 1.46.93 3.18 1.474 5.04 1.474 6.04 0 9.34-5 9.34-9.33 0-.14 0-.28-.01-.42.64-.46 1.2-1.04 1.64-1.7z" fill-rule="nonzero"/></svg></a>
-            
-          <a href="https://github.com/filipemosca" target="_blank"><svg class="svg-icon" height="20" version="1.1" width="20" aria-hidden="true">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
-  
-          <a href="https://mosquildo.com.br/feed.xml" target="_blank"><i class="fas fa-rss"></i></a></p>
-       
-  
-          <p><i class="picol_mail"></i><a href="mailto:filipemosca@disroot.org">filipemosca@disroot.org</a> <br>
-            <i class="picol_security_closed"></i>PGP: CDD0 E240 698E 3A10 BBD0 B704 ACB6 9010 C5BE 0DE7 <br>
-            <i class="picol_attachment"></i><a href="https://mosquildo.com.br/key.asc">key.asc</a> </p>
-          </div>     
-  
-      <div class="license">
-        <p>Esta obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>. <br> Mosquildo © 2019-2020 Filipe Mosca</p>
-        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img id="licenca" alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Place this tag in your head or just before your close body tag. -->
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-  
-  </body>
-</html>
+<p><img src="/assets/infectologia/atb-meningite2.jpeg" alt="Tto" /></p>
+:ET
