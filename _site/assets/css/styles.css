@@ -181,11 +181,11 @@ article { color: black; }
 
 article h1 { font-size: 2em; text-align: left; margin-bottom: 0; }
 
-article h2 { font-size: 1.6em; }
+article h2 { font-size: 1.6em; margin-bottom: 0; }
 
-article h3 { font-size: 1.4em; }
+article h3 { font-size: 1.4em; margin-bottom: 0; }
 
-article h4 { font-size: 1.2em; }
+article h4 { font-size: 1.2em; margin-bottom: 0; }
 
 article p { margin-top: 10px; margin-bottom: 16px; }
 

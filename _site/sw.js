@@ -63,7 +63,15 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
-        '/infectologia/caso-aids.html',
+        '/infectologia-casos/meningite-caso3.html',
+      
+        '/infectologia-casos/meningite-caso2.html',
+      
+        '/infectologia-casos/meningite-caso1.html',
+      
+        '/infectologia-casos/imunizacoes.html',
+      
+        '/infectologia-casos/caso-aids.html',
       
         '/oftalmologia/catarata.html',
       
