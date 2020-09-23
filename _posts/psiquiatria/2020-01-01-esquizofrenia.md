@@ -67,6 +67,21 @@ Normalmente o início é insidioso, de progressão lenta, não aparece de forma 
 
 Na psicose por esquizofrenia, o tipo de alucinação mais comum é a auditiva. Entretanto, quando se apresenta em crianças, o tipo de alucinação mais comum é visual. Além disso, esses pacientes têm ausência de autopatognose — incluindo os delírios.
 
+### Perguntas de rastreio
+
+Têm algumas perguntas que são muito importantes de realizadas até para o acompanhante do paciente, como:
+
+1. Você já teve alguma experiência como se estivesse sonhando acordado?
+2. Ultimamente, você teve alguma experiência estranha ou esquisita que não consegue explicar?
+3. Você ouve ou vê coisas que outras pessoas não conseguem?
+4. Delírios persecutórios (você se sente ameaçado?) ou de referência (você se sente observado?).
+
+É muito importante fazermos perguntas ao acompanhante pois **o paciente não tem autopatognose, lambram?** O paciente não reconhece e nem aceita que tem uma patologia.
+
+<span class='alert'>
+  Na hora de fazer a anamnese, nunca esquecer que o paciente não reconhece que tem uma doença, para ele tudo é real — não tem autopatognose. Isso faz parte da própria doença, não adianta confrontar o paciente e isso só vai afastá-lo.
+</span>
+
 ### Prognóstico
 
 Na sua fisiopatologia, a esquizofenia é neutoróxica, não devemos deixar o paciente na fase aguda. Esses pacinetes também possuem alterações corticais de atrofia — a tomografia computadorizada de um paciente desses pode parecer de um indivídio mais velho com atrofia cortical.
@@ -95,6 +110,8 @@ Além de tudo isso, o paciente esquizofrênico não cuida de si mesmo. Além do 
 
 De tratamento nos utilizamos sumariamente os antipsicóticos.
 
+### Antipsicóticos
+
 1. Antipsicóticos típicos;
 2. Antipsicóticos atípicos.
 
@@ -118,15 +135,47 @@ De tratamento nos utilizamos sumariamente os antipsicóticos.
 
 Os pacientes em uso de antipsicóticos atípicos precisam ser acompanhados de perto devido ao risco de desenvolver síndrome metabólica como efeito adverso da medicação.
 
+### Fase aguda
 
+Lembram que na esquizofrenia podemos ter 6 meses de sintomas prodrômicos com 1 mês de realmente sintomas agudos proeminentes? Esse 1 mês é a fase aguda, que muitas vezes necessita de internamento.
 
+O antipsicótico deve ser administrado a todos os pacientes em fase aguda. O mais preconizado é a monoterapia mesmo, com antipsicóticos atípicos — primeira linha.
 
+<span class='alert'>
+  Dar antipsicótico para todos os pacientes em fase aguda.
+</span>
 
+### Fase de manutenção
 
+É quando o paciente sai da fase aguda e agora está no período intercrises com sintomas prodrômicos ou mesmo assintomático. A importância do tratamento aqui está na profilaxia de novos surtos e na recuperação. Sem trastar essa fase, o paciente possui uma chance de 50% de chance de desenvolver uma nova fase aguda em 1 ano; com tratamento esse risco baixa para 15%.
 
+Aqui está preconizado o uso do mesmo da fase aguda, desde que não houve grandes efeitos colaterais, em uso contínuo normalmente por toda a vida.
 
+## Diagnóstico diferencial
 
+Nos temos condições semelhantes que podem confundir, como:
 
+1. Transtono delirante — já explicado acima;
+2. Transtono psicótico breve;
+3. Transtono esquizofreniforme;
+4. Transtono esquizoafetivo;
+5. Transtono de humor.
+
+**Transtorno psicótico breve** — difere da esquizofrenia  unicamente pelo tempo, pois os critérios diagnósticos são essencialmente os mesmos; porém, com uma duração de **até 1 mês** — ou seja, critérios de esquizofrenia mas que não fecham por causa do tempo de duração.
+
+**Transtorno esquizofreniforme** — também difere da esquizofrenia apenas pelo tempo. Também tem os mesmos critérios diagnósticos da esquizofrenia, mas com uma duração de até 6 meses.
+
+Ou seja, dos três diagnósticos abaixo, a única diferença está no tempo de duração dos sintomas:
+
+1. Esquizofrenia  — mais de 6 meses;
+2. Transtorno esquizofreniforme — até 6 meses;
+3. Transtorno psicótico breve — até 1 mês.
+
+Entretanto, existem situações em que podemos diagnosticar a esquizofrenia mesmo sem cumprir os critérios temporais, mas apenas se tratarmos o paciente antes dele preencher essa duração. Dessa forma, a atividade da doença foi reduzida pelo tratamento mas ainda podemos dar o diagnóstico de esquizofrenia.
+
+**Transtorno esquizoafetivo** — neste,  os transtornos de humor (depressão e mania) estão muito proeminentes. Podemos ter as duas condições associadas e, ao tratar os sintomas positivos da psicose, os transtornos negativos ainda podem continuar.
+
+**Transtorno de humor** — já um paciente com transtorno de humor puro, o quadro começou com os sintomas do trantorno de humor e estes são mais proeminentes e os sintomas psicóticos só acontecem na vigência de sintomas de humor; tratando o transtorno de humor os sintomas positivos desaparecem (essa é a diferença principal).
 
 # Etiopatologia
 
