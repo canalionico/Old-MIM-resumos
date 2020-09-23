@@ -56,6 +56,8 @@ self.addEventListener('install', function (event) {
       
         '/sw.js',
       
+        '/teste.html',
+      
         '/sumario/traumatologia.html',
       
         '/sumario/urologia.html',
@@ -156,6 +158,8 @@ self.addEventListener('install', function (event) {
         '/hematologia/hematopoiese.html',
       
         '/hematologia/sangue.html',
+      
+        '/psiquiatria/esquizofrenia.html',
       
         '/pediatria/ivas.html',
       

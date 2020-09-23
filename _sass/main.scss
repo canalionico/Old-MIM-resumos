@@ -28,6 +28,12 @@ body {
   src: url('/assets/fonts/liberation_serif/lsregular.ttf');
 }
 
+
+.back {
+  color: white;
+}
+
+
 .alert {
   padding: 16px;
   border: 1px #6f42c1 solid !important;;
@@ -174,28 +180,28 @@ body {
   box-shadow: 1px 2px black;
 }
 
-// collapsible
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 4px;
-  width: 100%;
-  border-radius: 0.5rem;
-  text-align: left;
-  outline: none;
-  font-size: 22px;
-}
-.active, .collapsible:hover {
-  background-color: #555;
-}
-.content {
-  padding: 5px 6px 5px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-// End collapsible
+// // collapsible
+// .collapsible {
+//   background-color: #777;
+//   color: white;
+//   cursor: pointer;
+//   padding: 4px;
+//   width: 100%;
+//   border-radius: 0.5rem;
+//   text-align: left;
+//   outline: none;
+//   font-size: 22px;
+// }
+// .active, .collapsible:hover {
+//   background-color: #555;
+// }
+// .content {
+//   padding: 5px 6px 5px;
+//   display: none;
+//   overflow: hidden;
+//   background-color: #f1f1f1;
+// }
+// // End collapsible
 
 // Doação
 .pag-seguro {

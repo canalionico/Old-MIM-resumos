@@ -6,14 +6,9 @@ categories: infectologia
 * Sumário
 {:toc}
 
-A **meningite** é a inflamação ou edema das meninges e do espaço subaracnoide, relacionada a uma intensa reação inflamatória no sistema nervoso central. Já a **encefalite**, é a inflamação do parenquima cerebral, do cérebro propriamente dito.
+A **meningite** é a inflamação ou edema das leptomenínges (aracnóide e piamáter) e do espaço subaracnoide, relacionada a uma intensa reação inflamatória no sistema nervoso central. Já a **encefalite**, é a inflamação do parenquima cerebral, do cérebro propriamente dito.
 
 Contudo, na grande parte dos casos nós vamos ter tanto das meninges como do cérebro, condição que chamamos de **meningoencefalite**.
-
-<!-- Síntomas típicos são a febre, irritação meníngea, cefaleia e rebaixamento.
-
-
-isso não é pra tá aqui -->
 
 # Etiologia e epidemiologia
 
@@ -45,24 +40,24 @@ O diagnóstico etiológico é difícil pois faz-se necessário o uso de biologia
 Vamos focar agora na meningite bacteriana. Os patógenos mais comuns **variam muito conforme a faixa etária** do paciente e esse entendimento é extremamente importante. Levando em consideração todas as faixas etárias, os agentes bacterianos mais comuns são:
 
 <ol type='a'>
-  <li><em>H. influenzae;</em></li>
-  <li><em>N. meningitidis;</em></li>
-  <li><em>S. pneumoniae;**</em></li>
+  <li><em>Haemophilus. influenzae;</em></li>
+  <li><em>Neisseria. meningitidis;</em></li>
+  <li><em>Streptococcus. pneumoniae;**</em></li>
   <li><em>Listeria monocytogenes.**</em></li>
 </ol>
 
-** De forma geral o pneumococo é o agente mais comum. <br>
-**  A _**Listeria monocytogenes**_ (BG+) é o agente mais comum nos **imunossuprimidos** e idosos (> 50 anos).
+** De forma geral o meningococo é o agente mais comum no Brasil, correspondendo pela maioria dos casos de meningite. <br>
+**  A _**Listeria monocytogenes**_ (BG+) ganha mais importância nos **imunossuprimidos** e idosos (> 50 anos).
 
-**Meningococo** — é um diplococo gram negativo e são descritas várias cepas (A, B, C, W135, Y), sendo que para algumas temos vacinas disponíveis. São vistos na microscopia como na imagem abaixo.
+**Meningococo** — é um diplococo gram negativo e são descritas várias cepas (A, B, C, W135, Y), sendo que para algumas temos vacinas disponíveis.Seu período de incubação é bem curto, de 1 a 3 dias — importância na profilaxia dos contactantes. Importante lembrarmos que 10% da população têm a nasofaringe colonizada. São vistos na microscopia como na imagem abaixo.
 
 ![Diplococos gram negativos](/assets/infectologia/meningite/diplococos.jpeg)
 
-**Meningococcemia** — é um quadro grave caracterizado pela presença do meningococo na corrente sanguínea podendo estar ou não associado a meningite.
+**Meningococcemia** — é um quadro grave caracterizado pela presença do meningococo na corrente sanguínea podendo estar ou não associado a meningite. Quando associada à meningite o prognóstico é melhor.
 
 _**Haemophilus influenzae**_ — é um bacilo gram negativo. Graças à vacinação tivemos uma queda considerável na meningite por esta etiologia.
 
-_**S. pneumoniae**_ — são cocos gram positivos aos pares. Estão associados a doenças crônicas e também possui vacinação. No Brasil ainda poucas cepas são resistentes.
+_**S. pneumoniae**_ — são cocos gram positivos aos pares. Estão associados a doenças crônicas e também possui vacinação. No Brasil ainda poucas cepas são resistentes. É a etiologia de maior gravidade.
 
 Em pacientes hospitalizados (meningite nosocomial), o _Staphylococcus aureus_ e os bacilos gram negativos se tornam importantes agentes etiológicos.
 
@@ -83,7 +78,7 @@ A meningite no **recém-nascido** e no **lactente** de até três meses é ocasi
 
 A aquisição dessas bactérias se dá no momento do parto, devido à colonização da mucosa vaginal.
 
-### Dos 3 aos 18 anos
+### Dos 3 meses aos 18 anos
 
 Dos **3 meses aos 18 anos**, os micro-organismos mais frequentes passam a ser:
 
@@ -114,7 +109,9 @@ Outras condições que aumentam o risco de meningite pneumocócica incluem sinus
 
 # Transmissão
 
-Na meningite bacteriana, a transmissão ocorre pelas vias aéreas. Quando os micro-organismos alcançam o plexo coroide, invadem o espaço subaracnoide e se multiplicam no liquor.
+Na meningite bacteriana, a transmissão ocorre pelas vias aéreas. Quando os micro-organismos colonizam a nasofaringe, alcançam o plexo coroide, invadem o espaço subaracnoide e se multiplicam no liquor.
+
+Apesar de a contaminação mais comum ser a disseminação hematogênica após colonicação da nasofaringe, os patógenos também podem chegar às meninges por contiguidade, como por infecções de vias aéreas superiores, otite, trauma etc.
 
 Na criança é incomum a disseminação pela via sanguínea a partir de focos como endocardite infecciosa, pneumonia e tromboflebite. Menos frequente ainda é o comprometimento das meninges por extensão direta de focos infecciosos.
 
@@ -131,6 +128,11 @@ As citocinas levam a um **aumento da permeabilidade capilar**, alterando as prop
 O exsudato pode **bloquear a reabsorção liquórica** pelas granulações aracnoideas, o que leva à **hidrocefalia** e ao **edema cerebral do tipo intersticial**.
 
 A perda da autorregulação cerebrovascular traz, portanto, graves consequências. Caso ocorra hipotensão durante o episódio de meningite (o que é comum, sobretudo na meningocócica), o hipofluxo cerebral pode determinar alterações isquêmicos. Por outro lado, o aumento da PAM é transmitido com facilidade para o encéfalo, o que pode agravar o edema cerebral.
+
+1. Edema cerebral;
+2. Hipertensão intracraniana;
+3. Trombose e vasculite;
+4. Necrose tissular.
 
 Por fim, o processo inflamatório no espaço subaracnoide pode acometer vasos sanguíneos por contiguidade (vasculite – principalmente nos vasos da base do crânio), ocasionando trombose e **infarto cerebral isquêmico** (a isquemia do SNC ocasiona edema do tipo citotóxico) ou então favorecendo a disseminação do processo infeccioso para o encéfalo, determinando o aparecimento de abscessos cerebrais.
 
@@ -273,10 +275,9 @@ Para evitar esse evento, as situações abaixo aumentam a suspeita de lesão com
 1. Rebaixamento do nível de consciência;
 2. Sinal de défict neurológico focal;
 3.  Papiledema;
-4.  Convulsão de início recente**;
-5.  Imunossuprimidos**.
+4.  Convulsão de início recente.
 
-** Algumas fontes colocam que imunossupressão não é contraindicação para a coleta do LCR. A única **contraindicação absoluta** à punção liquórica é a presença de **infecção no local da punção** (piodermite).
+A única **contraindicação absoluta** à punção liquórica é a presença de **infecção no local da punção** (piodermite).
 
 ### Coleta
 
@@ -393,12 +394,12 @@ Se conseguirmos realizar o diagnóstico etiológico, podemos substituir a terapi
 
 O tempo de tratamento também depende do agente etiológico, mas de forma geral:
 
-1. _N meningitidis_: **7 dias**;
+1. _N meningitidis_: **5-7 dias**;
 2. _H. influenzae_: **7 a 10 dias**;
 3. _S. pneumoniae_: **10 a 14 dias**.
 
 <span class='alert'>
-  O tratamento para pneumococo é um pouco mais longo.
+  O tratamento para pneumococo é um pouco mais longo. Faz sentido pois a ordem de gravidade é pneumococo > hemófilo > meningococo.
 </span>
 
 ## Glicocorticoides
