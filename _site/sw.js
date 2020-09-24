@@ -65,6 +65,8 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
+        '/psiquiatria/transtornos-mentais-infancia-adolescencia.html',
+      
         '/infectologia-casos/meningite-caso3.html',
       
         '/infectologia-casos/meningite-caso2.html',

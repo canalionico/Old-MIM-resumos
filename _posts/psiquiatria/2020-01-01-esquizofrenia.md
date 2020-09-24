@@ -1,7 +1,7 @@
 ---
 title: Esquizofrenia
 categories: psiquiatria
-revisado: 22 Set 2020
+revisado: 24 Set 2020
 ---
 
 * Sumário
@@ -11,60 +11,92 @@ A esquizofrenia é um transtorno mental grave e crônico com períodos de abrand
 
 > A evolução de seu conceito se confunde com a própria história da construção da psiquiatria como ciência, sendo a morbidade psiquiátrica que mais simboliza a ideia de “loucura” (Peregrino, ).
 
+<details markdown="1"><summary>O que significa "esquizofrenia"?</summary>
+
 Em 1911, o psiquiatra suíço Eugen Bleuer introduziu o termo esquizofrenia em substituição à dementia praecox. A palavra esquizofrenia vem de _frenis_ = mente e _schizo_ = cisão, atribuindo grande importância à característica “dissociação” do pensamento, dos afetos e da motricidade presente nesses pacientes.
+</details>
+
 
 # Epidemiologia
 
-A prevalência é de em torno de 1% da população, com uma incidência de 15 para cada 100 mil habitantes, sendo um pouco menor nas mulheres (1,4 homens para cada mulher). No entanto, nos EUA apenas metade desses indivíduos realizam tratamento.
+<details markdown="1"><summary>Qual a prevalência na população?</summary>
 
-É raro na infância e após os 50 anos, acometendo mais a faixa etária de 15 a 25 anos; mas com início mais tardio nas mulheres — acredita-se que os hormônios femininos protegem contra a esquizofrenia. Com essa pecualiaridade a mulheres possuem dois picos de incidência: um quando adulta jovem e outro após os 40 anos.
+A prevalência é de em torno de 1% da população, com uma incidência de 15 para cada 100 mil habitantes, sendo um pouco menor nas mulheres (1,4 homens para cada mulher).
+</details>
+
+<details markdown="1"><summary>Qual a idade média de diagóstico?</summary>
 
 Normalmente o diagnóstico é feito entre os 15 e 40 anos. São raros diagnósticos antes ou depois dessa faixa.
+</details>
 
-Dentre os **fatores de risco**, podemos citar:
+<details markdown="1"><summary>Como é a distribuição entre os sexos?</summary>
+
+Tem início **mais tardio nas mulheres** — acredita-se que os hormônios femininos protegem contra a esquizofrenia. Com essa pecualiaridade a mulheres possuem **dois picos de incidência**: um quando adulta jovem e outro após os 40 anos.
+</details>
+
+<details markdown="1"><summary>Quais são os fatores de risco?</summary>
 
 1. História familiar de esquizofrenia — pais com esquizofrenia aumenta em 10 vezes o risco;
 2. Problemas pré-natais como infecções maternas (a exposição ao vírus _influenza_ parece estar associada) e desnutrição;
 3. Complicações neonatais como hipóxia;
 4. Problemas infantis, como abuso físico e sexual;
 5. Imigrantes e moradores de grandes centros urbanos.
+</details>
 
-A esquizofrenia demonstra alta influencia genética. A concordância entre gêmeos monozigóticos é de 50%. E não só a esquizofrenia como também transtornos relacionados, como a personalidade esquizotípica, são mais frequentes em quem tem parentes biológicos esquizofrênicos. Mas acreddita-se que apenas a influencia genética não é suficiente para determinar a doença, sendo possível que fatores ambientes possam prevenir.
+<details markdown="1"><summary>A influencia genética é significativas?</summary>
 
-Pessoas que desenvolvem esquizofrenia têm mais probabilidade de ter nascido no inverno e no início da primavera e menos probabilidade de ter nascido no fim da primavera e no verão. Mas ainda não se sabe a razão para essa associação, pode ser que haja relação com a circulação do _influenza_ já descrito acima (Kaplan e Sadock, 2017).
+Sim, concordância entre gêmeos monozigóticos é de 50%. E não só a esquizofrenia como também transtornos relacionados, como a personalidade esquizotípica, são mais frequentes em quem tem parentes biológicos esquizofrênicos.
+</details>
 
-Alguns estudos também demonstraram que o uso de _Cannabis_ pode aumentar as chances de desenvolver esquizofrenia (Kaplan e Sadock, 2017). Além disso, a doença é mais comum em grandes centros urbanos quando comparados a zonas rurais.
+<details markdown="1"><summary>Existem fatores ambientais envolvidos?</summary>
+
+Pessoas que desenvolvem esquizofrenia têm mais probabilidade de ter nascido no inverno e no início da primavera — pode ter relação com infecção por _influenza_ na gestação.
+
+Além disso, a doença é mais comum em grandes centros urbanos quando comparados a zonas rurais.
+</details>
+
+
+<details markdown="1"><summary>Qual a relação entre Cannabis e esquizofrenia?</summary>
+
+Alguns estudos também demonstraram que o uso de _Cannabis_ pode aumentar as chances de desenvolver esquizofrenia.
+</details>
+
 
 ## Comorbidades
 
-As principais comorbidades relacionadas ao trantorno de esquizofrenia são:
+<details markdown="1"><summary>Quais as principais comorbidades relacionadas?</summary>
 
 1. Transtono obsessivo-compulsivo (TOC);
 1. Tabagismo, alcoolismo e abuso de outras drogas;
 2. Transtono de ansiedade;
+3. Transtornos de humor (como depressão);
 3. Transtono de personalidade;
 4. Síndrome metabólica e doenças cardiovasculares;
-5. Cuidados com a saúde;
+5. Menos cuidados com a saúde;
 6. Suicídio.
+</details>
 
-O TOC está 12 vezes mais presente em indivíduos esquizofrênicos comparado a indivíduos saudáveis. Transtornos de humor também são comuns e a maioria desses pacienntes já teve um episódio depressivo maior em algum momento de suas vidas.
+<details markdown="1"><summary>Qual a relação entre o tabagismo e a esquizofrenia?</summary>
 
-Existe uma associação retroalimentativa entre o tabagismo e a esquizofrenia. Pacientes que fumam têm maior chance de desenvolver esquizorenia ao mesmo tempo que pacientes esquizofrênicos possuem maior disposição para o tabagismo — Até 90% destes podem ter dependência da nicotina. Inclusive parece que a nicotinas pode reduzir os sintomas positivos, como alucinações, por uma relação com a dopamina. Dessa forma, pacientes podem ver a nicotina como uma forma de automedicação (Kaplan e Sadock, 2017).
+Existe uma associação retroalimentativa entre o tabagismo e a esquizofrenia. Pacientes que fumam têm maior chance de desenvolver esquizorenia ao mesmo tempo que pacientes esquizofrênicos possuem maior disposição para o tabagismo — Até 90% destes podem ter dependência da nicotina. Inclusive parece que a nicotinas pode reduzir os sintomas positivos, como alucinações, por uma relação com a dopamina. Dessa forma, pacientes podem ver a nicotina como uma forma de automedicação.
+</details>
 
-Também é muito comum evidenciarmos **transtornos de ansiedade** nestes pacientes. Fica fácil entender pois estes pacientes acham que estão sendo perseguidos, ameaçados de morte, niguém acredita nele e ele tem certeza que isso é verdade.
 
-O **transtorno de personalidade esquizotípica** também está relacionado. Uma criança com esta personalidade pode desenvolver a esquizofrenia quando adulta.
 
-Além de tudo isso, o paciente esquizofrênico não cuida de si mesmo. Além do descuido com a aparência, ele não vai a médicos e pode desenvolver como infecções, doenças cardiovasculares, etc.
-
-O suicídio está entre as principais causas de morte em indivíduos esquizofrênicos, como falaremos no prognóstico. Mas além disso a taxa de mortalidade de pessoas esquizofrênicas é maior que a população geral e nisto está incluso mais acidentes e mais doenças orgânicas.
 
 ## Etiopatologia
 
-A **dopamina** tem sido o neurotransmissor que mais está relacionado aos quadros psicóticos, parecendo que a doença está relacionada a maior evividade dopaminérgica. Além disso, os antipsicóticos de atividade antidopaminérgica — **antagonistas do receptor de dopamina** (ARDs), sobretudo o receptor DA2 — se mostraram muito efetivos em conter a doença. Para fortalecer ainda mais essa hipótese, substância dopaminérgicas — como a anfetamina — podem manifestar sintomas psicóticos em pessoas saudáveis.
+<details markdown="1"><summary>Qual neurotransmissor tem sido mais associado com a esquizofrenia?</summary>
 
-Contudo, hoje em dia outros neurotransmissores também têm sido associados,  como a **serotonina** — inclusive a **clozapina**  e a **risperidona** antagonizam a serotonina e agem bem contra os sintomas positivos —, norapinefrina e o GABA.
+A maior atividade da **dopamina** tem sido relacionada a quadros psicótico. Além disso, os antipsicóticos de atividade antidopaminérgica — **antagonistas do receptor de dopamina** (ARDs), sobretudo o receptor DA2 — se mostraram muito efetivos em conter a doença.
 
+Para fortalecer ainda mais essa hipótese, substância dopaminérgicas — como a anfetamina — podem manifestar sintomas psicóticos em pessoas saudáveis.
+</details>
+
+<details markdown="1"><summary>Qual a implicação da setoronina com a esquizofrenia?</summary>
+
+A serotonina também tem sido associada. Inclusive a **clozapina**  e a **risperidona** antagonizam a serotonina e agem bem contra os sintomas positivo.
+</details>
 
 
 <!-- ## Psicose
@@ -91,89 +123,149 @@ O transtorno delirante está caracterizado como o paciente que apresenta delíri
 
 # Quadro clínico
 
-Normalmente o início é insidioso, de progressão lenta, não aparece de forma abrupta. Não existe sintomas patognomônicos da esquizofrenia, todos seus sintomas também ocorrem outros transtornos psiquiátricos e neurológicos.
+<details markdown="1"><summary>Como a doença se instala?</summary>
 
-O quadro clínico desses pacientes varia muito. Podem ir desde uma pessoa completamente desleixada, aos gritos e agitada até alguém obsessivamente arrumado, silencioso e imóvel. Entre esses dois polos, os pacientes podem ser falantes ou exibir posturas bizarras. Seu comportamento pode se tornar agitado ou violento sem motivo aparente ou em resposta a alucinações.
+É de início insidioso e lenta progressão.
+</details>
+
+<details markdown="1"><summary>Existe algum sintoma patognomônico?</summary>
+
+Não existem sintomas patognomônicos, todos seus sintomas também ocorrem outros transtornos psiquiátricos e neurológicos.
+</details>
+
+<details markdown="1"><summary>Como é um quadro geral de paciente esquizofrenico?</summary>
+
+Podem ir desde uma pessoa completamente desleixada, aos gritos e agitada até alguém obsessivamente arrumado, silencioso e imóvel. Entre esses dois polos, os pacientes podem ser falantes ou exibir posturas bizarras. Seu comportamento pode se tornar agitado ou violento sem motivo aparente ou em resposta a alucinações.
+</details>
 
 Os sintomas costumam ser divididos em positivos e negativos, como descritos abaixo.
 
-**Sintomas positivos** são os que expressam “aumento da
-atividade mental”, como:
+<details markdown="1"><summary>Quais são os sintomas positivos?</summary>
 
 1. Alucinações;
 2. Delírios;
 3. Desorganização do comportamento;
 4. Agitação psicomotora e,
 5. Desagregação do pensamento.
+</details>
 
-**Sintomas negativos**, em contrapartida,  seriam os que refletem “diminuição da atividade mental”, como:
+<details markdown="1"><summary>Quais são os sintomas negativos?</summary>
 
 1. Embotamento afetivo;
 2. Pobreza do discurso;
 3. Retraimento social;
 4. Apragmatismo e,
 5. Prejuízo cognitivo.
+</details>
 
-**Catatonia** — pacientes catatonicos podem se sentar imoveis por horas, não falar nada ou responder com monossílabos, e apenas se mover quando ordenado. Quando há o estupor catatônico, os pacientes parecem não dar sinal de vida, podendo apresentar mutismo, negativismo e obediência automática. A flexibilidade cerea — ou catalepsia, quando o paciente fica na posição em que é colocado — se tornou mais rara.
+<details markdown="1"><summary>O que é a catatonia?</summary>
 
-Os pacientes também costumam ter responsividade emocional reduzida ou mesmo anedonia — não sentem prazer. Mas também podem apresentar extremos emocionais como raiva, felicidade e ansiedade excessiva. O embotamento afetivo pode ser causado pela própria doença mas acaba sendo de difícil diagnóstico diferencial com a depressão.
+pacientes catatonicos podem se sentar imoveis por horas, não falar nada ou responder com monossílabos, e apenas se mover quando ordenado.
 
-Pacientes emotivos em excesso podem descrever sentimentos exultantes de
-onipotência, êxtase religioso, terror devido à desintegração de suas
-almas ou ansiedade paralisante em relação à destruição do universo
+Quando há o estupor catatônico, os pacientes parecem não dar sinal de vida, podendo apresentar mutismo, negativismo e obediência automática.
 
-**Alucinações** — ocorrem quando o paciente desenvolver uma percepção sem receber nenhum estímulo (ex: o ambiente está silencioso mas ele está ouvindo vozes). O tipo de alucinação mais comum é a **auditiva**, o paciente ouve vozes muitas vezes ameaçadoras, obscenas, acusatórias ou ofensivas. Entretanto, quando se apresenta em crianças, o tipo de alucinação mais comum é visual.
+A flexibilidade cerea — ou catalepsia, quando o paciente fica na posição em que é colocado — se tornou mais rara.
+</details>
 
-**Ilusões** — são distorceis da  percepção de estímulos que existem (ex: estar diante de uma caneta e ver um copo). Também podem ocorrer nestes pacientes.
+<details markdown="1"><summary>Como é o afeto desses pacientes?</summary>
 
-<span class='alert'>
-  Alucinações não se baseiam na realidade enquanto que ilusões são distorções do real.
-</span>
+Os pacientes também costumam ter responsividade emocional reduzida ou mesmo anedonia — não sentem prazer.
 
-**Transtornos do pensamento** — talvez sejam os sintomas centrais da esquizofrenia. Podem prejudicar o conteúdo (como os delírios), a forma ou o curso do pensamento.
+Também podem apresentar extremos emocionais como raiva, felicidade e ansiedade excessiva.
 
-**Delírios** — são um transtorno de conteúdo do pensamento. Na esquizofrenia os delírios mais comum são os **persecutórios**, mas também podem ser de **referência**, **grandiosidade**, **bizarros** ou somáticos.
+O embotamento afetivo pode ser causado pela própria doença mas acaba sendo de difícil diagnóstico diferencial com a depressão.
+</details>
+
+
+<details markdown="1"><summary>O que são alucinações?</summary>
+
+Ocorrem quando o paciente desenvolver uma percepção sem receber nenhum estímulo (ex: o ambiente está silencioso mas ele está ouvindo vozes).
+
+O tipo de alucinação mais comum é a **auditiva**, o paciente ouve vozes muitas vezes ameaçadoras, obscenas, acusatórias ou ofensivas.
+
+Entretanto, quando se apresenta em crianças, o tipo de alucinação mais comum é visual.
+</details>
+
+<details markdown="1"><summary>O que são ilusões?</summary>
+
+São distorções da percepção de estímulos que existem (ex: estar diante de uma caneta e ver um copo). Também podem ocorrer nestes pacientes.
+</details>
+
+<details markdown="1"><summary>Quais são os transtornos do pensamento?</summary>
+
+Talvez sejam os sintomas centrais da esquizofrenia. Podem prejudicar o conteúdo (como os delírios), a forma ou o curso do pensamento.
+</details>
+
+<details markdown="1"><summary>O que são delírios?</summary>
+
+São um transtorno de **conteúdo** do pensamento. Na esquizofrenia os delírios mais comum são os **persecutórios**, mas também podem ser de **referência**, **grandiosidade**, **bizarros** ou somáticos.
+</details>
+
+<details markdown="1"><summary>Como se apresenta um paciente esquizofrênico delirando?</summary>
 
 Os pacientes em delírios podem se sentir perseguidos, achar que estão sendo controlados por uma entidade, achar que estão controlando outras pessoas, podem até mesmo se interessar profundamente por ideias esotéricas. Também podem ter delírios somáticos como achar que alienígenas estão em seus testículos diminuindo sua fertilidade.
+</details>
+
+<details markdown="1"><summary>Como é o transtorno da forma do pensamento?</summary>
 
 Os **transtornos da forma do pensamento** são observados pela linguagem, falada ou escrita, do paciente e incluem: frouxidão de associações, descarrilamento, incoerência, tangencialidade, circunstancialidade, neologismos, ecolalia, verbigeração, salada de palavras e mutismo. Exemplo de carta escrita por um paciente:
 
 > A saúde mental é a Santíssima Trindade, e, como o homem não pode ser sem Deus, é fútil negar Seu Filho. Para a Criação entender o germa-nismo na Voz da Nova Ordem, não a mentira da reação em cadeia, marca de desova no templo de Caim com a imagem da tumba de Babel para o dia V impudico “Israel”. Lúcifer derrubou Hebreu prostituta e Lambeth caminha cruzando o ritual do sexo, na Bíblia seis milhões de mulher da Babilônia, infere não Salvação.
+</details>
+
+<details markdown="1"><summary>Como é o transtorno do curso do pensamento?</summary>
 
 Os **trantornos do curso do pensamento**  versam sobre o modo como as ideias são formuladas, também sendo avaliado por meio do que o paciente fala, escreve ou desenha. Inclui fuga de ideias, bloqueio do pensamento, comprometimento da atenção, pobreza de conteúdo do pensamento, baixa capacidade de abstração, perseveração, associações idiossincrásicas (p. ex., predicados idênticos, associações por sons), inclusão excessiva e circunstancialidade.
+</details>
 
-**Autopatognose** — esses pacientes não possuem autopatognose, isto é, eles não reconhecem e nem aceitam que estão doentes.
+<details markdown="1"><summary>Como está a autopatognose desses pacientes?</summary>
+
+Esses pacientes não possuem autopatognose, isto é, eles não reconhecem e nem aceitam que estão doentes.
+</details>
 
 ## Subtipos
 
-Os subtipos, presentes até a edição anterior do DSM, foram excluídos como categorias específicas e passam a constituir especificadores de curso do transtorno. A catatonia inclusive passa a incluir condição clínica passível de ser encontrada também em outros transtornos mentais, como a depressão maior.  O DSM-5 não usa mais esses subtipos, mas eles são listados no CID-10. São eles:
+Os subtipos, presentes até a edição anterior do DSM, foram excluídos como categorias específicas e passam a constituir especificadores de curso do transtorno. O DSM-5 não usa mais esses subtipos, mas eles são listados no CID-10.
+
+<details markdown="1"><summary>Quais são os 5 subtipos?</summary>
 
 1. Paranoide;
 2. Desorganizado;
 3. Catatônico;
 4. Indiferenciado;
 5. Residual.
+</details>
 
-### Paranoide
+
+
+<details markdown="1"><summary>Paranoide</summary>
 
 É caracterizado pela preocupação com um ou mais delírios ou alucinações auditovas frequentes. Classicamente é caracterizado por delírios de perseguição ou grandeza. Normalmente se manifesta de forma mais tardia quando comparada aos subtipos catatônico e deconfiado. Esses pacientes tendem a ser tensos, desconfiados, cautelosos, reservados e até mesmo hostis ou agressivos. A inteligência nas demais áreas tende a estar preservada, tendo melhor prognóstico que as demais.
+</details>
 
-### Desorganizado
+
+<details markdown="1"><summary>Desorganizado</summary>
 
 Também chamada de hebifrênico, é caracterizado pela regressão a um comportamento primitivo, desinibido e desordenado e pela ausência de sintomas para o subtipo catatônico. Costuma ser o mais precoce, aparecendo antes dos 25 anos. O contato desses pacientes com a realidade é bastante pobre, são ativos mas de uma forma não construtiva que não atingem objetivos. Seu comportamento social e suas respostas são inadequadas, podendo rir em situações não engraçadas e possuem o afeto gravemente comprometido. É o de pior prognóstico.
+</details>
 
-### Catatônico
+
+<details markdown="1"><summary>Catatônico</summary>
 
 Era comum mas vêm ficando mais raro. Se caracteriza por distúrbio da função motora que pode envolver estupor, negativismo, rigidez, excitação ou posturas bizarras. Esses pacientes fazem estereotipias ou maneirismos, inclusive correndo o risco de se autolesionar. Podem por exemplo ficar horas imóveis numa posição desconfortável.
+</details>
 
-### Indiferenciado
+
+<details markdown="1"><summary>Indiferenciado</summary>
 
 Engloba os pacientes que não podem ser caracterizado por um subtipo específico.
+</details>
 
-### Residual
 
-O tipo residual da esquizofrenia caracteriza-se por evidências contínuas do transtorno na ausência de um conjunto completo de sintomas ativos ou de sintomas suficientes para satisfazer o diagnóstico de outro tipo de esquizofrenia. Embotamento emocional, retraimento social, comportamento excêntrico, pensamento ilógico e frouxidão leve das associações são comuns nesse tipo. Quando ocorrem, delírios ou alucinações não são proeminentes nem acompanhados de reações afetivas significativas (Kaplan e Sadock, 2017).
+<details markdown="1"><summary>Residual</summary>
 
+O tipo residual da esquizofrenia caracteriza-se por evidências contínuas do transtorno na ausência de um conjunto completo de sintomas ativos ou de sintomas suficientes para satisfazer o diagnóstico de outro tipo de esquizofrenia. Embotamento emocional, retraimento social, comportamento excêntrico, pensamento ilógico e frouxidão leve das associações são comuns nesse tipo. Quando ocorrem, delírios ou alucinações não são proeminentes nem acompanhados de reações afetivas significativas.
+</details>
 <!-- ### Perguntas de rastreio
 
 Têm algumas perguntas que são muito importantes de realizadas até para o acompanhante do paciente, como:
@@ -200,9 +292,15 @@ Parece uma doença neurodegenerativa. Vemos alargamento dos ventrículos, reduç
 
 # Diagnóstico
 
-O diagnóstico é totalmente clínico, devendo sempre afastar outras causas de psicose, como desencadeadas por doenças orgânicas ou uso de substâncias. A psicose lúpica pode ser identica a um surto esquizofrênico e quadros de intoxicação por cocaína ou crack também se assemelham bastante.
+<details markdown="1"><summary>Como se dá o diagnóstico?</summary>
 
-De acordo com o DMS-5, para o diagóstico de esquizofrenia são necessários 6 critérios (A, B, C, D, E e F). Mas resumindo, precisamos de pelo menos **6 meses de sintomas**, incluindo as fases prodrômica e residual, sendo que nesse intervalo de 6 meses é necessário que tenha ocorrido pelo menos **1 mês de sintomas ativos de psicose** — como delírio, alucinações, discurso desorganizado, comportamento grosseiramente desorganizado ou catatônico, sintomas negativo (como embotamento afetivo, retraimento social e avolia); sendo que pelo menos um dos sintomas ativos deve ser delírios, alucinações ou discurso desorganizado.
+É totalmente clínico, devendo sempre afastar outras causas de psicose, como desencadeadas por doenças orgânicas ou uso de substâncias.
+
+A psicose lúpica pode ser identica a um surto esquizofrênico e quadros de intoxicação por cocaína ou crack também se assemelham bastante.
+</details>
+
+
+<details markdown="1"><summary>Qual os três principais critérios diagnósticos de acordo com o DSM-5?</summary>
 
 **Critério A** — presença de **dois ou mais** dos cinco itens abaixo, por pelo menos **um mês** (ou menos se for corretamente tratado), sendo que pelo menos **um deve ser um dos três primeiros**.
 
@@ -212,13 +310,23 @@ De acordo com o DMS-5, para o diagóstico de esquizofrenia são necessários 6 c
 4. Comportamento grosseiramente desorganizado ou catatônico;
 5. Sintomas negativos — como embotamento afetivo, retraimento social e avolia.
 
-<span class='alert'>
-Como podemos ver, é possível diagnosticar esquizofrenia num paciente sem alucinações ou delírios.
-</span>
-
-**Critério B** — a nova condição do paciente está causando** transtornos significativos na sua vida social**, como no trabalho, relações interpessoais, autocuidado.
+**Critério B** — a nova condição do paciente está causando **transtornos significativos na sua vida social**, como no trabalho, relações interpessoais, autocuidado.
 
 **Critério C** — sintomas ou sinais contínuos de perturbação devem persistir por pelo menos 6 meses, inlcuindo pelo menos 1 mês de sintomas de fase ativa para satisfazer o critério A. Esse período envolve os sintomas prodrômicos ou residuais que podem ser os sintomas negativos ou dois ou mais do critério A mas de forma atenuada.
+</details>
+
+<details markdown="1"><summary>Em outras palavras:</summary>
+
+Precisamos de pelo menos **6 meses de sintomas**, incluindo as fases prodrômica e residual, sendo que nesse intervalo de 6 meses é necessário que tenha ocorrido pelo menos **1 mês de sintomas ativos de psicose** — como delírio, alucinações, discurso desorganizado, comportamento grosseiramente desorganizado ou catatônico, sintomas negativo (como embotamento afetivo, retraimento social e avolia); sendo que pelo menos um dos sintomas ativos deve ser delírios, alucinações ou discurso desorganizado.
+</details>
+
+<details markdown="1"><summary>É possível diagnosticar esquizofrenia num paciente sem alucinações ou delírios?</summary>
+
+Sim.
+</details>
+
+
+<details markdown="1"><summary>Quais os demais critérios do DSM-5?</summary>
 
 Critério D — os diagnósticos de transtorno esquizoafetivo ou transtorno depressivo maior e bipolar com sintomas psicóticos são descartados pois:
 
@@ -230,10 +338,13 @@ Critério E — descartar causa dos sintomas por substâncias (como drogas dopam
 Critério F — se há história de transtorno do espectro autista ou de um transtorno da comunicação iniciado na infância, o diagnóstico adicional
 de esquizofrenia é realizado somente se delírios ou alucinações proeminentes, além dos demais sintomas exigidos de esquizofrenia,
 estão também presentes por pelo menos um mês (ou menos, se tratados com sucesso).
+</details>
+
+<details markdown="1"><summary>Qual a paculiaridade do diagnóstico no paciente autista?</summary>
 
 O paciente autista pode desenvolver esquizofrenia quando mais adulto, só que nele não podemos associar todos os sintomas à esquizofrenia pois ele já pode ter alterações comportamentais devido à doença anterior (por isso é importante a presença de delírio ou alucinações por pelo menos 1 mês para o diagnóstico).
+</details>
 
-**Catatonia** — a presença de catatonia se tornou um especificador de acordo com o DSM-5. Devemos descrever **esquizofrenia com catatonia**.
 
 ## Diagnóstico diferencial
 
@@ -347,9 +458,7 @@ Quais os benéficios dos antipsicóticos?
 Reduzem os sinotomas psicóticos e reduzem as taxas de remissão.
  </details>
 
-<span class='alert'>
-  Lembrar que no tratamento da depressão não utilizamos antipsicóticos típicos.
-</span>
+
 
 <details markdown="1"><summary>
 Quais os benefícios e efeitos colaterais dos antipsicóticos atípicos?
@@ -402,42 +511,42 @@ Qual a importancia no tratamento da fase de manutenção?
 </summary>
 
 Fazer a profilaxia de novas crises e melhorar o funcionamento do paciente.
- </details>
+</details>
 
 <details markdown="1"><summary>
 Existe benefício da psicoterapia na esquizofrenia?
 </summary>
 
 Sim. Ela é recomendada em associação à terapia medicamentosa.
- </details>
+</details>
 
 <details markdown="1"><summary>
 Devemos dar medicação na fase de manutenção?
 </summary>
 
 Sim! Os antipsicóticos diminuem consideravelmente a chance de novo surto em 1 ano.
- </details>
+</details>
 
 <details markdown="1"><summary>
 Quanto tempo dura o tratamento na fase de manutenção?
 </summary>
 
 Alguns autores falam em pelo menos 5 anos mas de forma geral a duração se dá por tempo indeterminado, tendo em vista o risco de recaída se interromper a medicação.
- </details>
+</details>
 
 <details markdown="1"><summary>
 Quando considerar resistência ao tratamento?
 </summary>
 
 Primeiro avaliar se o paciente está tomando as medicações. Consideramos falha quando o paciente não melhora substancialmente com 4 a 6 semanas de tratamento em dose adequada de antipsicótico.
- </details>
+</details>
 
 <details markdown="1"><summary>
 Como saber se o paciente está tomando a medicação?
 </summary>
 
 Podemos fazer a monitorização da concentração plasmática dos antipsicóticos.
- </details>
+</details>
 
 
 <details markdown="1"><summary>
@@ -465,15 +574,12 @@ O que fazer quando há efeitos colaterais extrapiramidais?
 Podemos reduzir a dose do antipsicótico, trocar para um atípico, associar um antiparkinsoniano ou um betabloqueador de ação central (propanolol).
  </details>
 
-<details markdown="1"><summary>
-Quais os riscos de usar clozapina?
-</summary>
+<details markdown="1"><summary>Quais os riscos de usar clozapina?</summary>
 
 O efeito mais grave e potencialmente fatal é o risco de agranulocitose, com risco de 0,3% no primeiro ano. Por isso é importante monitorar hemogramas desses paciente.
 
 Também está mais relacionado a convulsões.
- </details>
-
+</details>
 
 
 <!--
@@ -530,6 +636,5 @@ A expectativa de vida é menor que a população geral, com uma taxa de mortalid
 
 # Referências
 
-Leitura recomendada: Kaplan e Sadock, 2017.
-
-1. Psiquiatria Clínica: um Guia Para Médicos e Profissionais de Saúde Mental
+1. Kaplan e Sadock, 11º ed, 2017.
+2. Psiquiatria Clínica: um Guia Para Médicos e Profissionais de Saúde Mental
