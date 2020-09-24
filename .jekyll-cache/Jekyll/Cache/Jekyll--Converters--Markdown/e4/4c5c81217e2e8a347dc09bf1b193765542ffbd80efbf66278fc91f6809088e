@@ -1,90 +1,4 @@
-<!--
-Criado por Filipe Mosca
-Acesse meu site: https://mosquildo.com.br
-
-
-  -. (#)(#) .-
-   '\.';;'./'
-.-\.'  ;;  './-.
-  ;    ;;    ;
-  ;   .''.   ;
-   '''    '''
--->
-<!doctype html>
-<html lang="pt-br" dir="ltr">
-  <head>
-    <meta charset="utf-8">
-    <title>Esquizofrenia</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <script type="text/javascript">
-      navigator.serviceWorker && navigator.serviceWorker.register('./sw.js').then(function(registration) {
-      console.log('Excellent, registered with scope: ', registration.scope);
-    });
-    </script>
-    -->
-
-    <script>
-      if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js')
-          .then(function () {
-            console.log('service worker registered');
-          })
-          .catch(function () {
-            console.warn('service worker failed');
-          });
-      }
-    </script>
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58629913-6"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-58629913-6');
-    </script>
-
-    <meta name="theme-color" content="#008000">
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="/favicon2.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
-    <link rel="stylesheet" type="text/css" href="/assets/picol/css/picol.css">
-    <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Baskervville|Cormorant+Garamond|EB+Garamond|Libre+Baskerville|PT+Serif|Source+Serif+Pro|Vollkorn&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Domine&display=swap" rel="stylesheet">
-    <meta name="robots" content="noindex" />
-  </head>
-  <body>
-    <header class="header-posts">
-  <div class="wrapper">
-    <nav class="nav-posts">
-        <a href="/sumario/psiquiatria"><i class="picol_arrow_full_left"></i>Voltar</a>
-        <a href="https://mosquildo.com.br"><i class="picol_website"></i> Blog</a>
-      </nav>
-  </div>
-</header>
-
-
-<div class="wrapper">
-  <div class="main">
-    <h1 class="post-title">Esquizofrenia</h1>
-    <p class="post-page-info">
-      <em>por <a href="https://twitter.com/filipemosca">Filipe Mosca</a><br>
-      Última revisão: 22 Set 2020 <br>
-
-      filipemosca@disroot.org <br>
-
-      <!--   -->
-  </em>
-    </p>
-
-    <article>
-      <ul id="markdown-toc">
+I"�p<ul id="markdown-toc">
   <li><a href="#epidemiologia" id="markdown-toc-epidemiologia">Epidemiologia</a>    <ul>
       <li><a href="#comorbidades" id="markdown-toc-comorbidades">Comorbidades</a></li>
       <li><a href="#etiopatologia" id="markdown-toc-etiopatologia">Etiopatologia</a></li>
@@ -156,12 +70,12 @@ Acesse meu site: https://mosquildo.com.br
   <li>Tabagismo, alcoolismo e abuso de outras drogas;</li>
   <li>Transtono de ansiedade;</li>
   <li>Transtono de personalidade;</li>
-  <li>Síndrome metabólica e doenças cardiovasculares;</li>
+  <li>Síndrome metabólica;</li>
   <li>Cuidados com a saúde;</li>
   <li>Suicídio.</li>
 </ol>
 
-<p>O TOC está 12 vezes mais presente em indivíduos esquizofrênicos comparado a indivíduos saudáveis. Transtornos de humor também são comuns e a maioria desses pacienntes já teve um episódio depressivo maior em algum momento de suas vidas.</p>
+<p>O TOC está 12 vezes mais presente em indivíduos esquizofrênicos comparado a indivíduos saudáveis. Transtornos de humor também são comuns pois 25% dos pacientes têm depressão associada.</p>
 
 <p>Existe uma associação retroalimentativa entre o tabagismo e a esquizofrenia. Pacientes que fumam têm maior chance de desenvolver esquizorenia ao mesmo tempo que pacientes esquizofrênicos possuem maior disposição para o tabagismo — Até 90% destes podem ter dependência da nicotina. Inclusive parece que a nicotinas pode reduzir os sintomas positivos, como alucinações, por uma relação com a dopamina. Dessa forma, pacientes podem ver a nicotina como uma forma de automedicação (Kaplan e Sadock, 2017).</p>
 
@@ -207,7 +121,27 @@ O transtorno delirante está caracterizado como o paciente que apresenta delíri
 
 <p>O quadro clínico desses pacientes varia muito. Podem ir desde uma pessoa completamente desleixada, aos gritos e agitada até alguém obsessivamente arrumado, silencioso e imóvel. Entre esses dois polos, os pacientes podem ser falantes ou exibir posturas bizarras. Seu comportamento pode se tornar agitado ou violento sem motivo aparente ou em resposta a alucinações.</p>
 
-<p>Os sintomas costumam ser divididos em positivos e negativos, como descritos abaixo.</p>
+<p><strong>Catatonia</strong> — pacientes catatonicos podem se sentar imoveis por horas, não falar nada ou responder com monossílabos, e apenas se mover quando ordenado. Quando há o estupor catatônico, os pacientes parecem não dar sinal de vida, podendo apresentar mutismo, negativismo e obediência automática. A flexibilidade cerea — ou catalepsia, quando o paciente fica na posição em que é colocado — se tornou mais rara.</p>
+
+<p>Os pacientes também costumam ter responsividade emocional reduzida ou mesmo anedonia — não sentem prazer. Mas também podem apresentar extremos emocionais como raiva, felicidade e ansiedade excessiva. O embotamento afetivo pode ser causado pela própria doença mas acaba sendo de difícil diagnóstico diferencial com a depressão.</p>
+
+<p>Pacientes emotivos em excesso podem descrever sentimentos exultantes de
+onipotência, êxtase religioso, terror devido à desintegração de suas
+almas ou ansiedade paralisante em relação à destruição do universo</p>
+
+<p><strong>Alucinações</strong> — ocorrem quando o paciente desenvolver uma percepção sem receber nenhum estímulo (ex: o ambiente está silencioso mas ele está ouvindo vozes). O tipo de alucinação mais comum é a <strong>auditiva</strong>, o paciente vozes muitas vezes ameaçadoras, obscenas, acusatórias ou ofensivas. Entretanto, quando se apresenta em crianças, o tipo de alucinação mais comum é visual.</p>
+
+<p><strong>Ilusões</strong> — são distorceis da  percepção de estímulos que existem (ex: estar diante de uma caneta e ver um copo). Também podem ocorrer nestes pacientes.</p>
+
+<p><span class="alert">
+  Alucinações não se baseiam na realidade enquanto que ilusões são distorções do real.
+</span></p>
+
+<p><strong>Transtornos do pensamento</strong> — talvez sejam os sintomas centrais da esquizofrenia. Podem prejudicar o conteúdo (como os delírios), a forma ou o curso do pensamento.</p>
+
+<p><strong>Delírios</strong> — são um transtorno de conteúdo do pensamento. Na esquizofrenia os delírios mais comum são os persecutórios, mas também podem ser de grandiosidade, religiosos ou somáticos.</p>
+
+<p><strong>Autopatognose</strong> — esses pacientes não possuem autopatognose, isto é, eles não reconhecem e nem aceitam que estão doentes.</p>
 
 <p><strong>Sintomas positivos</strong> são os que expressam “aumento da
 atividade mental”, como:</p>
@@ -229,38 +163,6 @@ atividade mental”, como:</p>
   <li>Apragmatismo e,</li>
   <li>Prejuízo cognitivo.</li>
 </ol>
-
-<p><strong>Catatonia</strong> — pacientes catatonicos podem se sentar imoveis por horas, não falar nada ou responder com monossílabos, e apenas se mover quando ordenado. Quando há o estupor catatônico, os pacientes parecem não dar sinal de vida, podendo apresentar mutismo, negativismo e obediência automática. A flexibilidade cerea — ou catalepsia, quando o paciente fica na posição em que é colocado — se tornou mais rara.</p>
-
-<p>Os pacientes também costumam ter responsividade emocional reduzida ou mesmo anedonia — não sentem prazer. Mas também podem apresentar extremos emocionais como raiva, felicidade e ansiedade excessiva. O embotamento afetivo pode ser causado pela própria doença mas acaba sendo de difícil diagnóstico diferencial com a depressão.</p>
-
-<p>Pacientes emotivos em excesso podem descrever sentimentos exultantes de
-onipotência, êxtase religioso, terror devido à desintegração de suas
-almas ou ansiedade paralisante em relação à destruição do universo</p>
-
-<p><strong>Alucinações</strong> — ocorrem quando o paciente desenvolver uma percepção sem receber nenhum estímulo (ex: o ambiente está silencioso mas ele está ouvindo vozes). O tipo de alucinação mais comum é a <strong>auditiva</strong>, o paciente ouve vozes muitas vezes ameaçadoras, obscenas, acusatórias ou ofensivas. Entretanto, quando se apresenta em crianças, o tipo de alucinação mais comum é visual.</p>
-
-<p><strong>Ilusões</strong> — são distorceis da  percepção de estímulos que existem (ex: estar diante de uma caneta e ver um copo). Também podem ocorrer nestes pacientes.</p>
-
-<p><span class="alert">
-  Alucinações não se baseiam na realidade enquanto que ilusões são distorções do real.
-</span></p>
-
-<p><strong>Transtornos do pensamento</strong> — talvez sejam os sintomas centrais da esquizofrenia. Podem prejudicar o conteúdo (como os delírios), a forma ou o curso do pensamento.</p>
-
-<p><strong>Delírios</strong> — são um transtorno de conteúdo do pensamento. Na esquizofrenia os delírios mais comum são os <strong>persecutórios</strong>, mas também podem ser de <strong>referência</strong>, <strong>grandiosidade</strong>, <strong>bizarros</strong> ou somáticos.</p>
-
-<p>Os pacientes em delírios podem se sentir perseguidos, achar que estão sendo controlados por uma entidade, achar que estão controlando outras pessoas, podem até mesmo se interessar profundamente por ideias esotéricas. Também podem ter delírios somáticos como achar que alienígenas estão em seus testículos diminuindo sua fertilidade.</p>
-
-<p>Os <strong>transtornos da forma do pensamento</strong> são observados pela linguagem, falada ou escrita, do paciente e incluem: frouxidão de associações, descarrilamento, incoerência, tangencialidade, circunstancialidade, neologismos, ecolalia, verbigeração, salada de palavras e mutismo. Exemplo de carta escrita por um paciente:</p>
-
-<blockquote>
-  <p>A saúde mental é a Santíssima Trindade, e, como o homem não pode ser sem Deus, é fútil negar Seu Filho. Para a Criação entender o germa-nismo na Voz da Nova Ordem, não a mentira da reação em cadeia, marca de desova no templo de Caim com a imagem da tumba de Babel para o dia V impudico “Israel”. Lúcifer derrubou Hebreu prostituta e Lambeth caminha cruzando o ritual do sexo, na Bíblia seis milhões de mulher da Babilônia, infere não Salvação.</p>
-</blockquote>
-
-<p>Os <strong>trantornos do curso do pensamento</strong>  versam sobre o modo como as ideias são formuladas, também sendo avaliado por meio do que o paciente fala, escreve ou desenha. Inclui fuga de ideias, bloqueio do pensamento, comprometimento da atenção, pobreza de conteúdo do pensamento, baixa capacidade de abstração, perseveração, associações idiossincrásicas (p. ex., predicados idênticos, associações por sons), inclusão excessiva e circunstancialidade.</p>
-
-<p><strong>Autopatognose</strong> — esses pacientes não possuem autopatognose, isto é, eles não reconhecem e nem aceitam que estão doentes.</p>
 
 <h2 id="subtipos">Subtipos</h2>
 
@@ -355,7 +257,7 @@ estão também presentes por pelo menos um mês (ou menos, se tratados com suces
 <p>Nos temos condições semelhantes que podem confundir, como:</p>
 
 <ol>
-  <li>Transtono delirante;</li>
+  <li>Transtono delirante — já explicado acima;</li>
   <li>Transtono psicótico breve;</li>
   <li>Transtono esquizofreniforme;</li>
   <li>Transtono esquizoafetivo;</li>
@@ -388,7 +290,7 @@ estão também presentes por pelo menos um mês (ou menos, se tratados com suces
 
 <p>Na sua fisiopatologia, a esquizofenia é neutoróxica, não devemos deixar o paciente na fase aguda. Esses pacinetes também possuem alterações corticais de atrofia — a tomografia computadorizada de um paciente desses pode parecer de um indivídio mais velho com atrofia cortical.</p>
 
-<p>Mesmo assim, a maioria dos óbitos está relacionado ao <strong>suicídio</strong>. 20% dos pacientes tem o suicídio ao menos uma vez e <strong>5%</strong> dos pacientes morrem dessa causa.</p>
+<p>Mesmo assim, a maioria dos óbitos está relacionado ao <strong>suicídio</strong>. 20% dos pacientes tem o suicídio ao menos uma vez e <strong>5%</strong> dos pacientes morre dessa causa.</p>
 
 <h1 id="tratamento">Tratamento</h1>
 
@@ -498,41 +400,4 @@ A expectativa de vida é menor que a população geral, com uma taxa de mortalid
 <ol>
   <li>Psiquiatria Clínica: um Guia Para Médicos e Profissionais de Saúde Mental</li>
 </ol>
-
-      <a id="myBtn" href="#markdown-toc"><i class="picol_list"></i><i class="picol_arrow_full_up"></i></a>
-    </article>
-  </div>
-</div>
-
-    <div class="footer">
-    <div class="wrapper">
-        <div class="coisas">
-         
-          
-          <p><a href="https://www.facebook.com/Canalionico/" target="_blank"><svg class="svg-icon" width="20" heigth="20" ><path d="M15.117 0H.883C.395 0 0 .395 0 .883v14.234c0 .488.395.883.883.883h7.663V9.804H6.46V7.39h2.086V5.607c0-2.066 1.262-3.19 3.106-3.19.883 0 1.642.064 1.863.094v2.16h-1.28c-1 0-1.195.48-1.195 1.18v1.54h2.39l-.31 2.42h-2.08V16h4.077c.488 0 .883-.395.883-.883V.883C16 .395 15.605 0 15.117 0" fill-rule="nonzero"/></svg></a>
-            
-          <a href="https://twitter.com/moscafilipe" target="_blank"><svg class="svg-icon" width="20" heigth="20" ><path d="M16 3.038c-.59.26-1.22.437-1.885.517.677-.407 1.198-1.05 1.443-1.816-.634.37-1.337.64-2.085.79-.598-.64-1.45-1.04-2.396-1.04-1.812 0-3.282 1.47-3.282 3.28 0 .26.03.51.085.75-2.728-.13-5.147-1.44-6.766-3.42C.83 2.58.67 3.14.67 3.75c0 1.14.58 2.143 1.46 2.732-.538-.017-1.045-.165-1.487-.41v.04c0 1.59 1.13 2.918 2.633 3.22-.276.074-.566.114-.865.114-.21 0-.41-.02-.61-.058.42 1.304 1.63 2.253 3.07 2.28-1.12.88-2.54 1.404-4.07 1.404-.26 0-.52-.015-.78-.045 1.46.93 3.18 1.474 5.04 1.474 6.04 0 9.34-5 9.34-9.33 0-.14 0-.28-.01-.42.64-.46 1.2-1.04 1.64-1.7z" fill-rule="nonzero"/></svg></a>
-            
-          <a href="https://github.com/filipemosca" target="_blank"><svg class="svg-icon" height="20" version="1.1" width="20" aria-hidden="true">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg></a>
-  
-          <a href="https://mosquildo.com.br/feed.xml" target="_blank"><i class="fas fa-rss"></i></a></p>
-       
-  
-          <p><i class="picol_mail"></i><a href="mailto:filipemosca@disroot.org">filipemosca@disroot.org</a> <br>
-            <i class="picol_security_closed"></i>PGP: CDD0 E240 698E 3A10 BBD0 B704 ACB6 9010 C5BE 0DE7 <br>
-            <i class="picol_attachment"></i><a href="https://mosquildo.com.br/key.asc">key.asc</a> </p>
-          </div>     
-  
-      <div class="license">
-        <p>Esta obra está licenciada com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Atribuição 4.0 Internacional</a>. <br> Mosquildo © 2019-2020 Filipe Mosca</p>
-        <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img id="licenca" alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"/></a>
-      </div>
-    </div>
-  </div>
-  
-  <!-- Place this tag in your head or just before your close body tag. -->
-  <script async defer src="https://buttons.github.io/buttons.js"></script>
-  
-  </body>
-</html>
+:ET
