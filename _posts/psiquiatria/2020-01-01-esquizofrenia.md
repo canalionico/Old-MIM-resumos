@@ -189,6 +189,15 @@ Têm algumas perguntas que são muito importantes de realizadas até para o acom
   Na hora de fazer a anamnese, nunca esquecer que o paciente não reconhece que tem uma doença, para ele tudo é real — não tem autopatognose. Isso faz parte da própria doença, não adianta confrontar o paciente e isso só vai afastá-lo.
 </span> -->
 
+# Neuroimagem
+
+<details markdown="1"><summary>
+O que pode ser visto na neuroimagem de pacientes esquizofrênicos?
+</summary>
+
+Parece uma doença neurodegenerativa. Vemos alargamento dos ventrículos, redução do conteúdo cortical, falhas de ativação do córtex pré-frontal (hipofrontalidade).
+ </details>
+
 # Diagnóstico
 
 O diagnóstico é totalmente clínico, devendo sempre afastar outras causas de psicose, como desencadeadas por doenças orgânicas ou uso de substâncias. A psicose lúpica pode ser identica a um surto esquizofrênico e quadros de intoxicação por cocaína ou crack também se assemelham bastante.
@@ -228,83 +237,242 @@ O paciente autista pode desenvolver esquizofrenia quando mais adulto, só que ne
 
 ## Diagnóstico diferencial
 
-Nos temos condições semelhantes que podem confundir, como:
+Como a esquizofrenia é tida como um espectro, seus sintomas estão presentes também nos outros transtornos psicóticos.
 
-1. Transtono delirante;
+<details markdown="1"><summary>
+Quais os outros transtornos psicóticos?
+</summary>
+
+1. Transtorno delirante;
 2. Transtono psicótico breve;
 3. Transtono esquizofreniforme;
 4. Transtono esquizoafetivo;
-5. Transtono de humor.
+ </details>
 
-**Transtorno psicótico breve** — difere da esquizofrenia  unicamente pelo tempo, pois os critérios diagnósticos são essencialmente os mesmos; porém, com uma duração de **até 1 mês** — ou seja, critérios de esquizofrenia mas que não fecham por causa do tempo de duração.
+<details markdown="1"><summary>
+Qual a diferença de cada um desses transtornos para a esquizofrenia?
+</summary>
 
-**Transtorno esquizofreniforme** — também difere da esquizofrenia apenas pelo tempo. Também tem os mesmos critérios diagnósticos da esquizofrenia, mas com uma duração de até 6 meses.
+1. Transtorno delirante — apenas delírios não bizarros por mais de um mês (sem outros sintomas);
+2. Transtorno psicótico breve — até 1 mês de sintomas.
+3. Transtorno esquizofreniforme — mais de 1 mês até 6 meses;
+4. Transtorno esquizoafetivo — uma síndrome maniaco ou depressiva se desenvolve junto com os sintomas da esquizofrenia.
+4. Esquizofrenia  — mais de 6 meses.
+ </details>
 
-Ou seja, dos três diagnósticos abaixo, a única diferença está no tempo de duração dos sintomas:
+<details markdown="1"><summary>
+Como diferenciar o transtorno de humor com sintomas psicóticos?
+</summary>
 
-1. Esquizofrenia  — mais de 6 meses;
-2. Transtorno esquizofreniforme — até 6 meses;
-3. Transtorno psicótico breve — até 1 mês.
+O paciente não retorna ao nível anterior de funcionamento (principal), os sintomas de humor são mais proeminentes, os sintomas psicóticos só acontecem na vigência daqueles e desaparecem quando tratado o transtorno de humor.
+ </details>
 
-Entretanto, existem situações em que podemos diagnosticar a esquizofrenia mesmo sem cumprir os critérios temporais, mas apenas se tratarmos o paciente antes dele preencher essa duração. Dessa forma, a atividade da doença foi reduzida pelo tratamento mas ainda podemos dar o diagnóstico de esquizofrenia.
+<details markdown="1"><summary>
+O que é o transtorno factício?
+</summary>
 
-**Transtorno esquizoafetivo** — neste,  os transtornos de humor (depressão e mania) estão muito proeminentes. Podemos ter as duas condições associadas e, ao tratar os sintomas positivos da psicose, os transtornos negativos ainda podem continuar.
+Quando o paciente finge ter esquizofrenia ou outras doenças.
+ </details>
 
-**Transtorno de humor** — já um paciente com transtorno de humor puro, o quadro começou com os sintomas do trantorno de humor e estes são mais proeminentes e os sintomas psicóticos só acontecem na vigência de sintomas de humor; tratando o transtorno de humor os sintomas positivos desaparecem (essa é a diferença principal).
 
-# Neuroimagem
-
-Hoje temos a impressão que a esquizofrenia se trata de uma doença neurodegenerativa, levando em conta as observações da neuroimagem. Um achado clássico é o alargamento dos ventrículos e  a redução do conteúdo cortical. O sistema límbico, a simetria cerebral e o córtex pré-frontal também podem estar alterados, como apresentar falhas de ativação do córtex pré-frontal (hipofrontalidade).
 
 # Prognóstico
 
-Na sua fisiopatologia, a esquizofenia é neutoróxica, não devemos deixar o paciente na fase aguda. Esses pacinetes também possuem alterações corticais de atrofia — a tomografia computadorizada de um paciente desses pode parecer de um indivídio mais velho com atrofia cortical.
+<details markdown="1"><summary>
+Qual o prognóstico da esquizofrenia?
+</summary>
 
-Mesmo assim, a maioria dos óbitos está relacionado ao **suicídio**. 20% dos pacientes tem o suicídio ao menos uma vez e **5%** dos pacientes morrem dessa causa.
+A esquizofrenia é neurotóxica. O paciente piora a cada surto psicótico, hospitalizações são frequentes, muitos tentam ou cometem suicícidio. 20% pode levar uma vida normal.
+ </details>
+
+
+<details markdown="1"><summary>
+Qual a principal causa de morte desses pacientes?
+</summary>
+
+O suicídio é a principal causa de morte precoce. 20% já tentou e 5% de todos os pacientes morrem assim.
+ </details>
+
 
 # Tratamento
 
-De tratamento nos utilizamos sumariamente os antipsicóticos.
+<details markdown="1"><summary>
+Quanto internar um paciente com esquizofrenia?
+</summary>
 
-1. Antipsicóticos típicos;
-2. Antipsicóticos atípicos.
+Para realizar o diagóstico, para estabilizar a medicação, para garantir sua segurança, para evitar que ele se machuque ou machuque os outros, quando ele não demonstra capacidade de se cuidar sozinho.
+ </details>
 
-**Antipsicóticos típicos** — foram os primeiros a serem desenvolvidos, agem nos receptores dopaminérgicos D2 em principalmente 4 áreas do cérebro, mas destaco a ação nos receptores nigrostriais que aumentam a chance de ter efeitos extrapiramidais — rigidez, alterações motoras. Eles agem muito bem nos sintomas positivos mas deixam a desejar nos sintomas negativos. Os mais comuns são:
+<details markdown="1"><summary>
+Qual a classe medicamentosa do tratamento da esquizofrenia?
+</summary>
+
+Antipsicóticos, incluindo os típicos (ARDs) e atípicos (ASDs).
+ </details>
+
+
+<details markdown="1"><summary>
+Como agem os antipsicóticos típicos?
+</summary>
+
+Foram os primeiros, são antagonistas dos receptores dopaminérgicos D2. Agem muito bem nos sintomas positivos.
+ </details>
+
+<details markdown="1"><summary>
+Quais os efeitos colaterais dos antipsicóticos típicos?
+</summary>
+
+Costumam ter efeitos extrapiramidais.
+ </details>
+
+<details markdown="1"><summary>
+Quais os 2 principais antipsicóticos atípicos?
+</summary>
 
 1. **Haloperidol** (alta potência);
 2. **Clorpromazona** (baixa potência)**.
+</details>
 
-** Os antipsicóticos de baixa potência acabam sendo usados mais como sedativos.
+<details markdown="1"><summary>
+Como agem os antipsicóticos atípicos?
+</summary>
+
+Antagonizam os receptores de dopamina e serotonina (ASDs).
+ </details>
+
+<details markdown="1"><summary>
+Quais os benéficios dos antipsicóticos?
+</summary>
+
+Reduzem os sinotomas psicóticos e reduzem as taxas de remissão.
+ </details>
 
 <span class='alert'>
   Lembrar que no tratamento da depressão não utilizamos antipsicóticos típicos.
 </span>
 
-**Antipsicóticos atípicos** — os atípicos não atuam nos receptores nigrostriais e por isso têm muito menos efeitos extrapiramidais, sendo uma vantagem. Outra vantagem é que eles agem com boa resposta nos sintomas negativos. Devido a isso, se tornaram a primeira escolha, apesar do risco de síndrome metabólica (todos aumentam o risco) e agranulocitose (redução dos basófilos, eosinófilos e neutrófilos; mais comum com a clozapina). Os pricipais são:
+<details markdown="1"><summary>
+Quais os benefícios e efeitos colaterais dos antipsicóticos atípicos?
+</summary>
+
+Eles têm menos efeitos extrapiramidais e agem bem nos sintomas negativos, mas aumentam o risco de síndrome metabólica e agranulocitose (mais comum com a clozapina).
+ </details>
+
+<details markdown="1"><summary>
+Quais os 4 principais antipsicóticos atípicos?
+</summary>
 
 1. **Olanzapina**;
 2. **Risperidona**;
 3. **Quetiapina**;
 4. **Clozapina** — evitada devido ao risco de agranulocitose.
+ </details>
 
-Os pacientes em uso de antipsicóticos atípicos precisam ser acompanhados de perto devido ao risco de desenvolver síndrome metabólica como efeito adverso da medicação.
+ <details markdown="1"><summary>
+ Qual a implicação da eletroconvulsoterapia?
+ </summary>
 
-## Fase aguda
+ Ela demonstrada resultados tão efizases quanto as medicações e mais eficases que a psicoteria. Pode ser associada aos antipsicóticos.
+  </details>
+
+## Psicose aguda
+
+<details markdown="1"><summary>
+Como tratar a agitação da psicose?
+</summary>
+
+Antipsicóticos IM ou benzodiazepínicos agem rapidamente.
+ </details>
 
 Lembram que na esquizofrenia podemos ter 6 meses de sintomas prodrômicos com 1 mês de realmente sintomas agudos proeminentes? Esse 1 mês é a fase aguda, que muitas vezes necessita de internamento.
 
-O antipsicótico deve ser administrado a todos os pacientes em fase aguda. O mais preconizado é a monoterapia mesmo, com antipsicóticos atípicos — primeira linha.
+<details markdown="1"><summary>
+Quando usar antipsicóticos?
+</summary>
 
-<span class='alert'>
-  Dar antipsicótico para todos os pacientes em fase aguda.
-</span>
+O antipsicótico deve ser administrado a todos os pacientes em fase aguda. O mais preconizado é a monoterapia mesmo, com antipsicóticos atípicos — primeira linha.
+ </details>
 
 ## Fase de manutenção
 
-É quando o paciente sai da fase aguda e agora está no período intercrises com sintomas prodrômicos ou mesmo assintomático. A importância do tratamento aqui está na profilaxia de novos surtos e na recuperação. Sem trastar essa fase, o paciente possui uma chance de 50% de chance de desenvolver uma nova fase aguda em 1 ano; com tratamento esse risco baixa para 15%.
+É quando o paciente sai da fase aguda e agora está no período intercrises com sintomas prodrômicos ou mesmo assintomático.
 
-Aqui está preconizado o uso do mesmo da fase aguda, desde que não houve grandes efeitos colaterais, em uso contínuo normalmente por toda a vida.
+<details markdown="1"><summary>
+Qual a importancia no tratamento da fase de manutenção?
+</summary>
 
+Fazer a profilaxia de novas crises e melhorar o funcionamento do paciente.
+ </details>
+
+<details markdown="1"><summary>
+Existe benefício da psicoterapia na esquizofrenia?
+</summary>
+
+Sim. Ela é recomendada em associação à terapia medicamentosa.
+ </details>
+
+<details markdown="1"><summary>
+Devemos dar medicação na fase de manutenção?
+</summary>
+
+Sim! Os antipsicóticos diminuem consideravelmente a chance de novo surto em 1 ano.
+ </details>
+
+<details markdown="1"><summary>
+Quanto tempo dura o tratamento na fase de manutenção?
+</summary>
+
+Alguns autores falam em pelo menos 5 anos mas de forma geral a duração se dá por tempo indeterminado, tendo em vista o risco de recaída se interromper a medicação.
+ </details>
+
+<details markdown="1"><summary>
+Quando considerar resistência ao tratamento?
+</summary>
+
+Primeiro avaliar se o paciente está tomando as medicações. Consideramos falha quando o paciente não melhora substancialmente com 4 a 6 semanas de tratamento em dose adequada de antipsicótico.
+ </details>
+
+<details markdown="1"><summary>
+Como saber se o paciente está tomando a medicação?
+</summary>
+
+Podemos fazer a monitorização da concentração plasmática dos antipsicóticos.
+ </details>
+
+
+<details markdown="1"><summary>
+O que fazer quando a resposta não é boa?
+</summary>
+
+Mudar a medicação é preferível a aumentar consideravelmente as doses, podendo mudar de um típico para um atípico. A **clozapina** se mostra eficas quando há resistência.
+ </details>
+
+## Efeitos colaterais
+
+<details markdown="1"><summary>
+Quais os efeitos colaterais mais comuns do tratamento?
+</summary>
+
+Efeitos extrapiramidais (discinesia tardia, principalmente por ARDs), sedação, hipotensão postural, efeitos anticolinérgicos.
+
+Também galactorreia, menstruação irregular, alteração da libido — pois elevam a prolactina.
+ </details>
+
+<details markdown="1"><summary>
+O que fazer quando há efeitos colaterais extrapiramidais?
+</summary>
+
+Podemos reduzir a dose do antipsicótico, trocar para um atípico, associar um antiparkinsoniano ou um betabloqueador de ação central (propanolol).
+ </details>
+
+<details markdown="1"><summary>
+Quais os riscos de usar clozapina?
+</summary>
+
+O efeito mais grave e potencialmente fatal é o risco de agranulocitose, com risco de 0,3% no primeiro ano. Por isso é importante monitorar hemogramas desses paciente.
+
+Também está mais relacionado a convulsões.
+ </details>
 
 
 

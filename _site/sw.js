@@ -562,6 +562,8 @@ self.addEventListener('install', function (event) {
       
         '/LICENSE.md'
       
+        '/PsiquiatriaFlash - Esquizofrenia.csv'
+      
         '/README.md'
       
         '/android-chrome-192x192.png'
@@ -1935,6 +1937,8 @@ self.addEventListener('install', function (event) {
         '/assets/urologia/tu-testiculos/lab.jpeg'
       
         '/browserconfig.xml'
+      
+        '/esquizofrenia.csv'
       
         '/favicon-16x16.png'
       
