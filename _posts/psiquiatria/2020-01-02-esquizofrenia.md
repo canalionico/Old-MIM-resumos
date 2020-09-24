@@ -582,58 +582,6 @@ Também está mais relacionado a convulsões.
 </details>
 
 
-<!--
-
-
-# Quadro clínico
-
-A base da investigação é fundamentalmente clínica. Mas podemos pedir exames complementares para excluir diagnósticos diferenciais. Na esquizofrenia não há elementos laboratorais ou de imagem que funcionem como marcadores biológicos específicos.
-
-Os subtipos antes descritos como forma estanques da esquizofrenia e atualmente vistas como descritores de curso da doença são: paranoide, hebefrênico (chamado de indiferenciado pelo DSM 5) e catatônico.
-
-Os subtipos paranoide, desorganizado e catatônico passam a ser descritos como 'especificadores de curso' e não mais como formas clínicas estanques.
-
-1. Delírios,
-2. alucinações,
-3. agitação psicomotora,
-4. discurso desorganizado,
-5. discurso prolongado,
-6. comportamento desorganizado de forma grosseira,
-7. catatonia,
-8. sintomas negativos (embotamento afetivo, retraimento social e avolia).
-
-Temos algumas 'dimensões' da esquizofrenia que estão descritas:
-
-1. Dimensão psicótica;
-2. Dimensão cognitiva;
-
-
-
-## Subtipo paranoide
-
-Predominam as ideias delirantes relativamente estáveis. Geralmente são de perseguição e pode estar acompanhada de alucinações, geralmente auditivas. Temos pertubação das percepções como do afeto, da vontade, da linguagem e sintomas catatônicos estão ausentes ou são relativamente raros.
-
-Classicamente, é marcado pela presença de delírios de perseguição ou grandeza, com os pacientes tendendo a serem tensos, desconfiados, cautelosos, reservados e, às vezes, hostis ou agressivos.
-
-## Subtipo hebefrênica
-
-Predominam as pertubações do afeto.
-
-
-## Subtipo catatônico
-
-# Tratamento
-
-O grupo farmacológico mais usado para tratamento da esquizofrenia (tanto nos sintomas positivos como alucinações e delírios colonos quadros de comprometimento afetivo, embora nestes últimos com menos eficácia) é do dos **antipsicóticos**.
-
-Mas também podemos fazer uso das chamadas terapias biológicas: ECT (eletroconvulsoterapia),
-
-# Desfecho clínico
-
-A esquizofrenia tem pior prognóstico comparada às demais patologias psiquiáttricas.
-
-A expectativa de vida é menor que a população geral, com uma taxa de mortalidade duas vezes maior. Aqui está incluso o aumento nos óbitos por todas as causas, incluindo o suicídio. -->
-
 # Referências
 
 1. Kaplan e Sadock, 11º ed, 2017.

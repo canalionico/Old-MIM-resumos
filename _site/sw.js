@@ -161,6 +161,8 @@ self.addEventListener('install', function (event) {
       
         '/hematologia/sangue.html',
       
+        '/psiquiatria/outros-transtornos-psiqui%C3%A1tricos.html',
+      
         '/psiquiatria/esquizofrenia.html',
       
         '/pediatria/ivas.html',
