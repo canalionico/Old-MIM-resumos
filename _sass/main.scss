@@ -654,8 +654,10 @@ a.footnote:after {
     height: 80%;
     max-width: 240px;
     font-size: 80%;
+
     li {
       margin-left: 0;
+          list-style-type: none;
     }
     ul {
       padding-left: 15px;

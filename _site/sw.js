@@ -65,6 +65,8 @@ self.addEventListener('install', function (event) {
         '/assets/css/styles.css.map',
       
       
+        '/doencas-cornea.html',
+      
         '/psiquiatria/transtornos-mentais-infancia-adolescencia.html',
       
         '/infectologia-casos/meningite-caso3.html',
@@ -140,6 +142,8 @@ self.addEventListener('install', function (event) {
         '/neonatologia/reanima%C3%A7%C3%A3o-neonatal.html',
       
         '/neonatologia/aleitamento-materno.html',
+      
+        '/infectologia/imunizacoes.html',
       
         '/infectologia/meningite.html',
       
@@ -579,6 +583,8 @@ self.addEventListener('install', function (event) {
         '/assets/Abdome-agudo.jpeg'
       
         '/assets/arrow.svg'
+      
+        '/assets/atb-meningococo.jpeg'
       
         '/assets/cardiologia/2101_Blood_Flow_Through_the_Heart.jpg'
       
@@ -1360,6 +1366,10 @@ self.addEventListener('install', function (event) {
       
         '/assets/infectologia/ei/duke.jpg'
       
+        '/assets/infectologia/imunizacao/prof-hb.jpeg'
+      
+        '/assets/infectologia/imunizacao/prof-hb2.jpeg'
+      
         '/assets/infectologia/lcr.jpeg'
       
         '/assets/infectologia/lcr/ag.jpeg'
@@ -1417,6 +1427,12 @@ self.addEventListener('install', function (event) {
         '/assets/mastologia/derrame-papilar/tab1.png'
       
         '/assets/mastologia/derrame-papilar/tab2.jpeg'
+      
+        '/assets/meningite-tto-adultos.jpeg'
+      
+        '/assets/meningite-tto-crianca-maior2meses.jpeg'
+      
+        '/assets/meningite-virus.jpeg'
       
         '/assets/nefrologia/drc/relogio.jpeg'
       
@@ -1933,6 +1949,8 @@ self.addEventListener('install', function (event) {
         '/assets/pneumo/tto-dpp.jpeg'
       
         '/assets/pneumo/tto-pneumonia.jpeg'
+      
+        '/assets/profilaxia-meningococo.jpeg'
       
         '/assets/urologia/tu-testiculos/estadio.jpeg'
       

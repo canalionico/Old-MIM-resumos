@@ -176,6 +176,18 @@ Psicoterapia e ansipsicóticos.
 
 # Transtorno psicótico breve
 
+<details markdown="1"><summary>O que é o transtorno psicótico breve?</summary>
+
+É a manifestação súbita de sintomas psicóticos por mais de um dia mas menos de um mês que desaparecem e o paciente retorna ao estado pré-mórbido.
+</details>
+
+<details markdown="1"><summary>Qual a relação com transtornos de personalidade?</summary>
+
+Pacientes borderline, paranoides, esquizoides ou esquizotípicos podem apresentar o transtorno psicótico breve.
+
+Existem alguns sibtipos como induzido por outras doenças ou por substâncias.
+</details>
+
 # Referências
 
 1. Kaplan e Sadock, 11º ed, 2017.

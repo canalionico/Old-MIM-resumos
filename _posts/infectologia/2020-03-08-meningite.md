@@ -12,61 +12,120 @@ Contudo, na grande parte dos casos nós vamos ter tanto das meninges como do cé
 
 # Etiologia e epidemiologia
 
-As meningites podem ser de etiologia infecciosa e também não infecciosas. Dentre as infecciosas, as etiologias mais comuns são:
+<details markdown="1">
+<summary>Quais as principais etiologias gerais de meningite?</summary>
 
 1. Bacteriana;
 2. Virais;
 3. Fúngicas;
 4. Micobactérias.
-
-Alguns agentes que merecem destaque são a Sífilis, a criptococose e a coccidiose. Dentre as causas não infecciosas podemos ter meninigtes por neoplasias (carcinomatose meníngea) e até medicações.
+5. Sífilis.
+6. Neoplasias.
+7. Medicações.
+</details>
 
 ## Vírus
 
-São inúmeros os vírus capazes de causar meningite viral. Contudo, podemos destacar os principais:
+<details markdown="1">
+<summary>Quais as principais etiologias virais?</summary>
 
 1. Enterovírus — _Coxsackie_, _Echovírus_;
 2. Adenovírus;
 3. Herpes vírus — HSV-1 (Encefalite herpética) e HSV-2 (Síndrome de Mollaret).
 
 Além destes, outros como dengue, HIV, varicela, caxumba, Esptein-Barr, citomegalovírus.
+<img src='/assets/meningite-virus.jpeg' alt='meningite-virus.jpeg'/>
+</details>
+
+<details markdown="1">
+<summary>Qual a importância do HSV-1?</summary>
 
 Devemos ter muita atenção para o **HSV-1** (herpes simples vírus 1) pois ele causa a chamada **meningoencefálite herpética**, um quadro bastante agudo e grave.
-
-O diagnóstico etiológico é difícil pois faz-se necessário o uso de biologia molecular. Felizmente, clinicamente o a diferenciação do vírus não é importante clinicamente.
+</details>
 
 ## Bactérias
 
-Vamos focar agora na meningite bacteriana. Os patógenos mais comuns **variam muito conforme a faixa etária** do paciente e esse entendimento é extremamente importante. Levando em consideração todas as faixas etárias, os agentes bacterianos mais comuns são:
+<details markdown="1">
+<summary>Levando em consideração todas as faixas etárias, quais os agentes bacterianos mais comuns?</summary>
 
 <ol type='a'>
-  <li><em>Haemophilus. influenzae;</em></li>
-  <li><em>Neisseria. meningitidis;</em></li>
-  <li><em>Streptococcus. pneumoniae;**</em></li>
+  <li><em>Haemophilus influenzae;</em></li>
+  <li><em>Neisseria meningitidis;</em></li>
+  <li><em>Streptococcus pneumoniae;**</em></li>
   <li><em>Listeria monocytogenes.**</em></li>
 </ol>
+</details>
 
-** De forma geral o meningococo é o agente mais comum no Brasil, correspondendo pela maioria dos casos de meningite. <br>
-**  A _**Listeria monocytogenes**_ (BG+) ganha mais importância nos **imunossuprimidos** e idosos (> 50 anos).
+<details markdown="1">
+<summary>Qual o formato e a coloração Gram de cada um deles?</summary>
 
-**Meningococo** — é um diplococo gram negativo e são descritas várias cepas (A, B, C, W135, Y), sendo que para algumas temos vacinas disponíveis.Seu período de incubação é bem curto, de 1 a 3 dias — importância na profilaxia dos contactantes. Importante lembrarmos que 10% da população têm a nasofaringe colonizada. São vistos na microscopia como na imagem abaixo.
+<ol type='a'>
+  <li><em>Haemophilus influenzae (Bacilo Gram Neg);</em></li>
+  <li><em>Neisseria meningitidis (Diplococos Gram Neg);</em></li>
+  <li><em>Streptococcus pneumoniae (Diplococos Gram Pos);</em></li>
+  <li><em>Listeria monocytogenes (Bacilo Gram Pos).</em></li>
+</ol>
+</details>
 
-![Diplococos gram negativos](/assets/infectologia/meningite/diplococos.jpeg)
+<details markdown="1">
+<summary>Qual a faixa etária mais acometida?</summary>
+
+Menores de 5 anos que correspondem a 50% de todos os casos de meningite.
+</details>
+
+<details markdown="1"><summary>Qual a principal etiologia de meningite bacteriana no Brasil?</summary>
+
+Meningococo (Nos EUA é o pneumococo). 1 caso para cada 100 mil e 30% destes em crianças < 5 anos. Em segundo o pneumococo e depois o hemófilo.
+</details>
+
+<details markdown="1">
+<summary>Qual a etiologia mais comum no período neonatal?</summary>
+
+1. _Streptococcus agalactiae_,
+2. _Escherichia coli_,
+3. _Listeria monocytogene_.
+</details>
+
+<details markdown="1"><summary>Das três etiologias bacterianas principais, qual a ordem de letalidade?</summary>
+
+Pneumococo > Hemógilo > Meningococo (20%; mas 50% se for meningococcemia).
+</details>
+
+<details markdown="1">
+<summary>Em quais grupos a Listéria ganha importância?</summary>
+
+Imunossuprimidos e idosos > 50 anos.
+</details>
+
+<details markdown="1">
+<summary>O que é a meningoccocemia?</summary>
 
 **Meningococcemia** — é um quadro grave caracterizado pela presença do meningococo na corrente sanguínea podendo estar ou não associado a meningite. Quando associada à meningite o prognóstico é melhor.
+</details>
 
-_**Haemophilus influenzae**_ — é um bacilo gram negativo. Graças à vacinação tivemos uma queda considerável na meningite por esta etiologia.
+<details markdown="1">
+<summary>Qual a etiologia de maior gravidade?</summary>
 
-_**S. pneumoniae**_ — são cocos gram positivos aos pares. Estão associados a doenças crônicas e também possui vacinação. No Brasil ainda poucas cepas são resistentes. É a etiologia de maior gravidade.
+Pneumococo.
+</details>
 
-Em pacientes hospitalizados (meningite nosocomial), o _Staphylococcus aureus_ e os bacilos gram negativos se tornam importantes agentes etiológicos.
 
-O **Staphylococcus aureus** e o **Staphylococcus epidermidis**, principalmente o último, são os micro-organismos mais envolvidos em meningite após procedimentos neurocirúrgicos, como derivação ventriculoperitoneal para o tratamento de
-hidrocefalia e instalação de dispositivos subcutâneos para realização de quimioterapia intratecal.
+<details markdown="1">
+<summary>Quais as principais etiologias em pacientes hospitalizados?</summary>
+
+Em pacientes hospitalizados (meningite nosocomial), o _Staphylococcus aureus_,  _epidermidis_ e os bacilos gram negativos se tornam importantes agentes etiológicos.
+</details>
+
+<details markdown="1">
+<summary>Qual a principal etiologia em crianças < 2 meses?</summary>
+
+Pneumococo.
+</details>
 
 ### Neonatos
 
-A meningite no **recém-nascido** e no **lactente** de até três meses é ocasionada mais frequentemente pelos:
+<details markdown="1">
+<summary>Quais as principais etiologias nos neonatos e lactentes até 3 meses?</summary>
 
 * *Streptococcus agalactiae* (estreptococo do grupo B);
 * *Listeria monocytogenes*;
@@ -75,45 +134,60 @@ A meningite no **recém-nascido** e no **lactente** de até três meses é ocasi
   * Enterobacter spp.;
   * Klebsiella pneumoniae;
   * Salmonella enteritidis.
-
-A aquisição dessas bactérias se dá no momento do parto, devido à colonização da mucosa vaginal.
+</details>
 
 ### Dos 3 meses aos 18 anos
 
-Dos **3 meses aos 18 anos**, os micro-organismos mais frequentes passam a ser:
+<details markdown="1">
+<summary>Dos 3 meses aos 18 anos, os micro-organismos mais frequentes passam a ser:
+</summary>
 
 * Neisseria Meningitidis (meningococo);
 * Streptococcus pneumoniae (pneumococo);
 * Haemophilus influenzae tipo b (Hib)
+</details>
 
 No passado era descrito um predomínio do Hib sobre o meningococo, porém, devido à vacinação anti-Hib, a meningite por este agente teve sua incidência bastante diminuída.
 
 ### Dos 18 aos 50 anos
 
-Dos **18 aos 50 anos**, o pneumococo se torna mais frequente que o meningococo (que assume a segunda posição no ranking), permanecendo o Hib como o menos frequente dos três.
+<details markdown="1">
+<summary>Dos 18 aos 50 anos:
+</summary>
 
-<span class='alert'>
-  Em adultos os principais agentes etiológicos são o pneumococo e o meningococo.
-</span>
+O pneumococo se torna mais frequente que o meningococo (que assume a segunda posição no ranking), permanecendo o Hib como o menos frequente dos três.
+</details>
 
 ### Maiores de 50 anos
 
-Em **indivíduos > 50 anos**, o pneumococo também é o principal agente etiológico de meningite bacteriana, seguido agora pela **Listeria** e pelos bacilos **Gram-negativos entéricos**, que voltam a ter importância estatística.
+<details markdown="1">
+<summary>Em indivíduos > 50 anos</summary>
 
-A meningite pelo Streptococcus pneumoniae
-determina os quadros clínicos de maior gravidade (letalidade 15-30%) geralmente deixando mais sequelas entre os sobreviventes. O fator de risco mais significativo é a pneumonia, presente em até 25% dos pacientes.
-
-A meningite por meningoco e por Hib possuem letalidade de 15%. Enquanto a do meningococo quase não causa sequelas, a Hib causa com maior frequência.
-
-Outras condições que aumentam o risco de meningite pneumocócica incluem sinusite/otite média aguda ou crônica, alcoolismo, diabetes, esplenectomia, hipogamaglobulinemia, trauma cranioencefálico com fratura de base de crânio e fístula liquórica (rinorreia de liquor), anemia falciforme e deficiência de complemento.
+O pneumococo também é o principal agente etiológico de meningite bacteriana, seguido agora pela **Listeria** e pelos bacilos **Gram-negativos entéricos**, que voltam a ter importância estatística.
+</details>
 
 # Transmissão
 
-Na meningite bacteriana, a transmissão ocorre pelas vias aéreas. Quando os micro-organismos colonizam a nasofaringe, alcançam o plexo coroide, invadem o espaço subaracnoide e se multiplicam no liquor.
+<details markdown="1">
+<summary>Como ocorre a transmissão das meningites bacterianas e virais?</summary>
 
-Apesar de a contaminação mais comum ser a disseminação hematogênica após colonicação da nasofaringe, os patógenos também podem chegar às meninges por contiguidade, como por infecções de vias aéreas superiores, otite, trauma etc.
+As bacterianas são por contato direto e via respiratória; mas também pode haver por contiguidade. As virais são por via oral-fecal ou respiratória.
+</details>
 
-Na criança é incomum a disseminação pela via sanguínea a partir de focos como endocardite infecciosa, pneumonia e tromboflebite. Menos frequente ainda é o comprometimento das meninges por extensão direta de focos infecciosos.
+<details markdown="1"><summary>Qual o reservatório do meningococo?</summary>
+
+O ser humano, alguns carregam o meningococo na nasofaringe de forma assintomática.
+</details>
+
+<details markdown="1"><summary>Qual o período de incubação do meningococo?</summary>
+
+em média 3 a 4 dias, podendo ir de 2 a 10 dias.
+</details>
+
+<details markdown="1"><summary>Após início do tratamento da meningite meningocócica quanto tempo leva para deixar de ser assintomático?</summary>
+
+Em torno de 24 horas após ATB o meningococo é removido da nasofaringe e deixa des ser transmitido.
+</details>
 
 # Fisiopatologia
 
@@ -160,11 +234,38 @@ Já na **encefalite**, _stricto sensu_, por definição teremos alteração clí
 3. Alteração cognitivo-comportamental;
 4. Sinais neurológicos focais — como hemiparesias, alterações da línguagem, da coordenação.
 
+<details markdown="1"><summary>O que é um défict neurológico focal?</summary>
+
+Déficit neurológico focal é a perda de movimento, sensação ou função em um local específico do corpo, como o lado esquerdo da face, braço esquerdo ou áreas menores, como a língua. Complicações na visão, audição e fala também são considerados déficits neurológicos focais.
+</details>
+
+<details markdown="1"><summary>Convulsões são comuns?</summary>
+
+Ocorrem em 20% das crianças com meningite meningicóccica. Mas são mais comuns na por pneumococo e hemófilo.
+</details>
+
+<details markdown="1"><summary>Qual o quadro clássico da meningite meningocócica?</summary>
+
+Febre, cefaléia, vômitos, rigides de nuca (Kernig e Brudzinski), manchas vermelhas pelo corpo, convulsões.
+
+Se sinais de sepse pensar em meningococcemia
+</details>
+
+<details markdown="1"><summary>E em lactentes?</summary>
+
+Os sinais meníneos podem não ser evidentes, atentar para choro e irritabilidade e abaulamento das fontanelas.
+</details>
+
 <span class='alert'>
   Na prática, os quadros se apresentam como uma mistura de meningite e encefalite, a meningoencefalite.
 </span>
 
 Os quadros virais costumam ser mais brandos. Na presença de meningoencefalite pensamos mais em etiologia bacteriana ou de infecção pelo HSV-1 (meningoencefalite herpética). Os quadros podem ser bem graves, de rápida evolução e com presença até de convulsão. Podem deixar sequelas como perda auditiva e levar à morte.
+
+<details markdown="1"><summary>Quais as principais possíveis sequelas?</summary>
+
+As principais complicações são perda da audição (principal), distúrbio de linguagem, retardo mental, anormalidade motora e distúrbios visuais.
+</details>
 
 ## Meningismo
 
@@ -204,11 +305,26 @@ Na meningite bacteriana, algumas conduções podem sugerir a etiológia por um p
 3. **Listéria** — mais comum em idosos e imunossuprimidos e pode fazer um quadro de romboencefalite;
 4. **_S. aureus_** — relacionado a infecções nosocomais, neurocirurgias e uso de drogas injetáveis.
 
+<details markdown="1"><summary>A doença meningoccócica se manifesta na pele?</summary>
+
+Sim, produz petequias em 60% dos casos.
+</details>
+
 <span class='alert'>
   A presença de púrpura é bem clássica da meningite por meningococo.
 </span>
 
 Romboencefalite — é uma meningite que atinge preferencialmente o tronco encefálico na região posterior do crânio. Costuma se apresentar com alteração de múltiplos nervos cranianos, como paralisia facial, estrabismo, etc.
+
+<details markdown="1"><summary>Qual a peculiaridade do quadro clínico em lactentes?</summary>
+
+Normalmente não expressam sinais de irritação meníngea. Devemos avaliar abaulamento da fontanela.
+</details>
+
+<details markdown="1"><summary>Qual o quadro clínico comum em lactantes?</summary>
+
+Abaulamento e/ou aumento de tensão da fontanela, aliados a febre, irritabilidade, gemência, inapetência e vômitos.
+</details>
 
 ## Quadros crônicos
 
@@ -268,203 +384,318 @@ Com o LCR, podemos avaliar:
 
 ### Contraindicações
 
-Existem situações que podem provocar um **efeito de massa** no encéfalo e a retirada de líquor pode causar uma diferença de pressão capaz de **herniar** estruturas importantes, como o tronco encefálico e causar uma parada cardiorrespiratória.
+<details markdown="1">
+<summary>Qual o risco da coleta de LCR?</summary>
 
-Para evitar esse evento, as situações abaixo aumentam a suspeita de lesão com efeito de massa e indicam a realização de um exame de neuroimagem antes da coleta do líquor:
+Existem situações que podem provocar um **efeito de massa** no encéfalo e a retirada de líquor pode causar uma diferença de pressão capaz de **herniar** estruturas importantes, como o tronco encefálico e causar uma parada cardiorrespiratória.
+</details>
+
+
+<details markdown="1">
+<summary>Quando é indicado fazer neuroimagem antes da coleta?</summary>
 
 1. Rebaixamento do nível de consciência;
 2. Sinal de défict neurológico focal;
 3.  Papiledema;
 4.  Convulsão de início recente.
+</details>
+
+<details markdown="1">
+<summary>Qual a única contraindicação absoluta de coleta do LCR?</summary>
 
 A única **contraindicação absoluta** à punção liquórica é a presença de **infecção no local da punção** (piodermite).
+</details>
 
-### Coleta
+<details markdown="1">
+<summary>Onde se coleta o LCR?</summary>
 
 Em pacientes com **nível de consciência** normal, sem **papiledema** ou **deficit focais**, a punção liquórica é realizada na região lombar, entre L1 e S1, sendo mais indicados os espaços **L3-L4**, **L4-L5** ou **L5-S1**.
+</details>
 
 ### Resultados
 
-![LCR](/assets/infectologia/lcr.jpeg)
-
-* **Pressão de Abertura** (Opening Pressure): deve ser medida com o paciente em decúbito lateral. Em adultos a pressão normal situa-se abaixo de 18 cmH2O. Na meningite bacteriana, os valores estão **acima de 18 cmH2O** em 90% dos casos;
-* Coloração: o liquor normal é límpido e incolor como “água de rocha”. O aumento de elementos figurados (células) causa a turvação no LCR. Os neutrófilos degenerados geralmente o tornam turvo e de aspecto purulento;
-  * **Xantocromia:** é uma coloração derivada, primariamente, dos pigmentos de bilirrubina. Xantocromia verdadeira (sem mistura de sangue durante a punção) encontra-se associada à hemorragia subaracnoidea.
-* **Contagem de Células:** o liquor normal apresenta até 4 células/mm3, sendo constituído de linfócitos e monócitos. Em casos de meningite bacteriana, a contagem celular é **maior do que 500 células**, com **predomínio de neutrófilos** (> 70%);
-  * Os linfócitos e eosinófilos predominam nos casos subagudos e crônicos.
-* **Bioquímico:** dosagem de glicose, proteínas, cloretos, ureia etc.
-  * O valor da glicose no LCR é maior do que 2/3 do valor do sangue. Em meningites bacterianas ocorre hipoglicorraquia, representada por glicose inferior a 40 mg/dl ou por uma relação inferior a 0,40.
-  * Proteínas: em meningites bacterianas as proteínas **excedem o valor de 45 mg/dl** (normal até 30 mg/dl).
-
-![LCR](/assets/infectologia/lcr2.jpeg)
-
-Um padrão clássico de **meningite bacteriana** apresenta:
+<details markdown="1">
+<summary>Um padrão clássico de meningite bacteriana apresenta:</summary>
 
 1. Celularidade aumentada (**> 100-1000**),
 2. com neutrofilia predominante;
 3. Proteinorraquia aumentada (**> 100-300**);
 4. Hipoglicorraquia (**< 40**).
+</details>
 
-<span class='alert'>
-  Classicamente, na meningite bacteriana estão aumentados no LCR: celularidade, neutrófilos, proteínas e glicose.
-</span>
 
-Já nas **meningites virais**, é mais comum um padrão com:
+<details markdown="1">
+<summary>Já nas meningites virais, é mais comum um padrão com:</summary>
 
 1. Celularidade levemente aumentada,
 2. de predomínio linfomonocitário;
 3. Proteínas levemente aumentadas;
 4. Glicose normal.
+</details>
 
-<span class='alert'>
-  No quadro viral predomina o padrão linfomono com glicose normal e pouca alteração de celularidade e proteínas.
-</span>
+<details markdown="1"><summary>Qual o padrão de predomínio no aumento da celularidade da meningite por tuberculose?</summary>
 
-**Exame microbiológico** — para sugerir e orientar ainda mais o diangóstico, a coloração de gram e a cultura são os principais.
+Linmfomonocitário.
+</details>
 
-**Coloração de Gram** — se corarmos o LCR com o Gram e analisarmos no microscopio, podemos encontrar:
+<details markdown="1">
+<summary>Se corarmos o LCR com o Gram e analisarmos no microscopio, podemos encontrar:</summary>
 
 1. Diplococos Gram positivos — **pneumococo**;
 2. Diplococos Gram negativos — **meningococo**;
 3. Bacilo Gram negativo — **hemófilos**;
 4. Bacilo Gram positivo — **listeria**.
-
-<span class='alert'>
-  Lembrando que as Gram positivas (principalmente estreptos e estafilos) ficam azul e as Gram negativas ficam rosa.
-</span>
-
-Se o paciente recebeu antibióticos antes da punção lombar, o Gram e a cultura podem não revelar a presença de bactérias, porém a PCR ainda pode firmar o diagnóstico.
-
-**Aglutinação pelo látex** — a pesquisa de antígenos bacterianos poderá ser processada pela técnica de aglutinação pelo látex ou contraimunoeletroforese. O látex apresenta especificidade de 95 a 100% na meningite por pneumococo e meningococo. Sendo assim, um resultado positivo confirma o agente infeccioso. Infelizmente a sensibilidade do exame já não é tão elevada, sendo de 33 a 70% na meningite meningocócica e 70 a 95% na pneumocócica.
-
-O diagnóstico definitivo é obtido por meio da **cultura** do LCR ou do **PCR** (reacão em cadeia polimerase) — para os quadros virais. Mas como as culturas demoram 4-5 dias, não devemos atrasar a medicação empírica.
+</details>
 
 ## Neuroimagem
 
-Lembrando que está indicada a neuroimagem antes da coleta do líquor nas situações de:
+<details markdown="1">
+<summary>Está indicada a neuroimagem antes da coleta do líquor nas situações de:</summary>
 
 1. Rebaixamento grave do nível de consciência;
 2. Sinais focais;
 3. Convulsões;
 4. Papiledema _e_;
 5. HIC — hipertensão intracraniana.
+</details>
 
-Evidenciam com clareza áreas de **edema e/ou isquemia**. A ressonância nuclear magnética é preferida sobre a tomografia de crânio.
+
 
 ## Hemocultura e biópsia de lesões cutâneas
 
-Em casos de meningite associada à **meningococcemia**, as hemoculturas costumam ser positivas e a **biópsia de lesões petequiais** costuma revelar o micro-organismo, inclusive de forma
-rápida pelo método de Gram.
+<details markdown="1">
+<summary>Quando vale a pena pedir hemocultura?</summary>
 
-É por isso que muitas vezes é interessante pedir uma hemocultura já quando suspeitamos de um quadro de meningite meningococica. Coletando em dois pares antes de iniciar a antibioticoterapia. Inclusive, se não tivermos um LCR à disposição, a facilidade de colher a hemocultura será importante para nos dar mais informações.
+Em casos de meningite associada à **meningococcemia**, as hemoculturas costumam ser positivas e a **biópsia de lesões petequiais** costuma revelar o micro-organismo, inclusive de forma rápida pelo método de Gram.
+</details>
+
+
+<details markdown="1"><summary>Quais as formas de obter amostra de cultura na suspeita de doença meningocócica?</summary>
+
+LCR, hemocura e raspado de lesões petequiais.
+</details>
 
 # Tratamento
 
-A meningite bacteriana aguda (MBA) é uma **emergência infecciosa** e, como tal, deve ser tratada sem demora. Na suspeita de MBA ou mesmo de meningoencefalite herpética, as condições mais graves, cada hora perdida sem começar o tratamento vai piorar o prognóstico.
+<details markdown="1"><summary>O que devemos fazer rapidamente para melhorar o prognóstico?</summary>
 
-Na realidade das emergências que não possuem um exame de LCR rapidamente acessível e disponível, é importantíssimo **começarmos a antibioticoterapia rapidamente**, mesmo sem coletar o LCR, de forma empírica e de acordo com a faixa etária e outros dados clínicos e epidemiológicos. Se possível, colhemos rapidamente uma hemocultura.
+Começar a antibioticoterapia!!!
+</details>
 
-O resumo da conduta geral num quadro agudo em unidade de emergência é:
+<details markdown="1"><summary>Quando coletar o LCR e culturas?</summary>
+
+De preferência antes de começar o ATB, pois uma dose já negativa as culturas. Mas não atrasar ATB por causa de exame!
+</details>
+
+<details markdown="1"><summary>Como é o resumo do passo a passo na condução de um paciente com suspeita de meningite bacteriana?</summary>
 
 1. Isolar o paciente;
 2. Colher LCR _se possível_ — e/ou hemocultura;
 3. Iniciar antibioticoterapia rapidamente — na suspeita de meningoencefalite herpética adicionamos o aciclovir;
 4. Fazer dexametasona (corticoesteroide)
+</details>
+
+
 
 ## Antibióticos
 
-Dentre os antibióticos  disponíveis, eles precisam ser capaz de atravessar a barreira hematoencefálica.
+<details markdown="1"><summary>Qual característica o ATB deve ter para tratar a meningite?</summary>
 
-Em **adultos**, a droga de escolha é a **ceftriaxone** endovenosa na dose para meningite (o dobro da dose usual).
+Ser capaz de atravessar a barreira hematoencefálica.
+</details>
+
+
+<details markdown="1"><summary>Qual o ATB de escolha em adultos?</summary>
+
+Ceftriaxona EV no dobro da dose usual.
+</details>
+
+<details markdown="1"><summary>Qual o esquema de ATB para lactentes < 2 meses?</summary>
+
+Ampicilina + cefotaxima.
+</details>
+
+<details markdown="1"><summary>Ceftriaxona para neonatos?</summary>
+
+Devemos evitar pois compete com a bilirrubina.
+</details>
 
 Entretanto, nos pacientes adultos com **imunossuoressão** e/ou nos pacientes dos **extremos de idade**, devemos **associar** **ampicilina** — para cobrir _**Listeria** monocytogenes_, pois o ceftriaxone não garante a cobertura.
 
-![Tto](/assets/infectologia/atb-meningite.jpeg)
+<details markdown="1">
+<summary>
+Em regiões com cepas resisistentes (como EUA) devemos fazer o que?
+</summary>
 
-Nos EUA, como as taxas de resistência são maiores, eles costumam adicionar **vancomicina** e **meropenem**. Aqui no Brasil, podemos adicionar essas drogas em pacientes imunossuprimidos ou nosocomiais, já que temos menor resistencia bacteriana.
+Associar vancomicina e/ou meropenem.
+</details>
 
-Se conseguirmos realizar o diagnóstico etiológico, podemos substituir a terapia empírica pela direcionada ao agentes específico, que em resumo configura:
+<details markdown="1">
+<summary>
+Qual o ATB direcionado para cada uma da etiologia mais comum?
+</summary>
 
 1. **Ceftriaxone** — pneumococo, meningococo, hemófilo;
 2. **Ampicilina** — listéria;
 3. **Aciclovir** — HSV-1.
+</details>
 <!-- ISSO TA CERTO MESMO? -->
 
-![Tto](/assets/infectologia/atb-meningite2.jpeg)
+<details markdown="1">
+<summary>Tabela com ATBs para crianças < 2 meses, segundo etiologia:
+</summary>
 
-O tempo de tratamento também depende do agente etiológico, mas de forma geral:
+<img src='/assets/meningite-tto-crianca-maior2meses.jpeg' alt='meningite-tto-crianca-maior2meses.jpeg'/>
+</details>
+
+<details markdown="1">
+<summary>Tabela com ATBs para adultos, segundo etiologia:
+</summary>
+
+<img src='/assets/meningite-tto-adultos.jpeg' alt='meningite-tto-adultos.jpeg'/>
+</details>
+
+<details markdown="1"><summary>Opções terapêuticas para doença meningocócica:</summary>
+
+<img src='/assets/atb-meningococo.jpeg' alt='atb-meningococo.jpeg'/>
+</details>
+
+<details markdown="1">
+<summary>Qual o tempo de tratamento para agente etiológico?
+</summary>
 
 1. _N meningitidis_: **5-7 dias**;
 2. _H. influenzae_: **7 a 10 dias**;
 3. _S. pneumoniae_: **10 a 14 dias**.
 
-<span class='alert'>
-  O tratamento para pneumococo é um pouco mais longo. Faz sentido pois a ordem de gravidade é pneumococo > hemófilo > meningococo.
-</span>
+O tratamento para pneumococo é um pouco mais longo. Faz sentido pois a ordem de gravidade é pneumococo > hemófilo > meningococo.
+</details>
 
 ## Glicocorticoides
 
-Preconiza-se o uso sistemático de GC em todas as formas de meningite bacteriana aguda, visando reduzir a inflamação no SNC e, desse modo, a chance de óbito e sequelas neurológicas.
+<details markdown="1">
+<summary>Qual a importância do corticoide no tto?</summary>
 
-De evidências científicas, o benefício claro do uso de corticóides está demonstrado nas meninigtes por pneumococos e hemófilo; diminuindo sequelas neurológicas. Se não identificamos o agente específico, então está recomendado administrar o CE mesmo assim.
+Preconiza-se o uso sistemático de GC em todas as formas de meningite bacteriana aguda, visando reduzir a inflamação no SNC e, desse modo, a chance de óbito e sequelas neurológicas.
+</details>
+
+<details markdown="1">
+<summary>Para quais etiologias há benefício comprovado?</summary>
+
+Por pneumococos e hemófilo; diminuindo sequelas neurológicas. Se não identificamos o agente específico, então está recomendado administrar o CE mesmo assim.
+</details>
+
+<details markdown="1">
+<summary>Como administrar?</summary>
 
 A administração pode ser feita com **dexametasona** (0,15 mg/Kg 6/6 h) por 4 dias, junto ou antes da primeira dose do antibiótico.
+</details>
+
 
 ## Isolamento
 
+<details markdown="1">
+<summary>Quando isolar o paciente e por quanto tempo?</summary>
+
 Durante o tratamento da meningite bacteriana, o paciente precisa ser isolado para evitar transmissão a outros pacientes. Mas **após 24 horas** de início da antibioticoterapia já podemos **suspender o isolamento**.
+</details>
+
 
 # Notificação
 
-Todas meningites bacterianas são de notificação compulsória imediata para a vigilância epidemiológica! Isto pois é necessário buscar ativamente os **contactantes** para a realização de **profilaxia**.
+<details markdown="1">
+<summary>Quando notificar?</summary>
+
+Todas meningites bacterianas são de notificação compulsória imediata so para a vigilância epidemiológica pelo Sinan! Isto pois é necessário buscar ativamente os **contactantes** para a realização de **profilaxia**.
+</details>
 
 # Quimioprofilaxia
 
+<details markdown="1">
+<summary>Qual a importancia da profilaxia?</summary>
+
 Após um diagnóstico de meningite devemos fazer a busca por contactantes para iniciar a profilaxia. Para isso, avaliamos as pessoas que têm contato íntimo com o caso índice — normalmente quem mora na mesma casa.
+</details>
 
-<!-- <span class='alert'>
-  A profilaxia dos contactantes só é necessária para as meningites por meningococo e hemófilo B.
-</span>
+<details markdown="1"><summary>Para quais etiologias é necessária a profilaxia?</summary>
 
-TÁ CERTO? -->
+Meningococo e hemófilo B.
+</details>
 
-A profilaxia deve ser feita se o indivíduo teve o contato **até 7-10 dias atrás**. Dependendo do agente a profilaxia dura:
+<details markdown="1"><summary>Até quanto tempo pós exposição está indicada a profilaxia?</summary>
+
+Idealmente deve ser feita nas primeiras 48 horas (baixo periodo de incubação). Deve ser feita se o indivíduo teve o contato **até 7-10 dias atrás**.
+</details>
+
+<details markdown="1">
+<summary>Por quanto tempo deve durar a profilaxia?</summary>
 
 1. Hemófilo B: **4 dias**;
 2. Meningococo: **2 dias**.
+</details>
 
-A droga de escolha é a **rifampicina**, mas outras opções envolvem:
 
-1. **Rifampicina**;
-2. Ceftriaxone IM — principalmente em gestantes que n podem usar ciprofloxacina;
-3. Ciprofloxacina (500 mg) VO.
+
+<details markdown="1"><summary>Qual o ATB de escolha para a profilaxia?</summary>
+
+Rifampicina, mas ceftriaxona IM e ciprofloxacino  (500 mg) VO também são opções.
+<img src='/assets/profilaxia-meningococo.jpeg' alt='profilaxia-meningococo.jpeg'/>
+</details>
+
+# Vacinação
+
+<details markdown="1"><summary>A vacina contra o meningococo protege contra todas as cepas?</summary>
+
+Ela é sorogrupo específica.
+</details>
+
+<details markdown="1"><summary>Como é o esquema de vacinação para Meningo C?</summary>
+
+A imunização primária consiste de duas doses, aos 3 e 5 meses de vida, e o reforço, preferencialmente, aos 12 meses de idade, podendo ser administrado até os 4 anos de idade.
+</details>
 
 # Meningite viral
 
-Vamos fazer aqui um pequeno adendo para falar um pouco das meningites virais que são até mais comuns.
+<details markdown="1">
+<summary>Como é a clínica?</summary>
 
 A clínica costuma ser mais inespecífica com um quadro agudo de evolução mais benigna. Podemos ter febre, cefaléia, vômitos e até sinais meníngeos.
 
 Sinais sistêmicos comuns de quadros virais também podem aparecer, como rash, diarréia, infecção de vias aéreas superiores.
+</details>
+
+<details markdown="1">
+<summary>Como será o líquor?</summary>
 
 Lembrando que no líquor teremos mais ma pleocitose com predomínio linfomonocitário e a coloração de gram se mostra ausente; além das culturas que são negativas. O diagnóstico definitivo é feito pelo PCR.
+</details>
+
+<details markdown="1">
+<summary>Como é o tratamento?</summary>
 
 O **tratamento é de suporte** pois normalmente o quadro é autolimitado em imunocompetentes. Entretanto, vamos ver agora que a meningoencefalite herpética por HSV-1 exige cuidados especiais.
+</details>
 
-## Meningoencefalite herpética
+<details markdown="1">
+<summary>Qual a meningite viral mais preocupante e grave?</summary>
 
 A meningoencefalite herpética causada pelo HSV-1 (hérpes vírus simples 1) se manifesta como um quadro de encefalite aguda de rápida instalação, sendo a causa mais comum de encefalite fatal.
+</details>
 
-<span class='alert'>
-  Não se trata de uma simples meningite viral, é um quadro potencialmente fatal.
-</span>
-
-Nela, além dos sinais e sintomas de meningite, teremos também sinais da encefalite. Somando, temos:
-
-1. Febre e cefaléia;
-2. Alterações cognitivas;
-3. Alterações de consciência.
-
-Na ressonância magnética podemos ter alteração nos lobos temporais.
+<details markdown="1">
+<summary>Qual o tto da meningoencefalite herpética?</summary>
 
 O **tratamento** é feito com **aciclovir** endovenoso EV (10 mg/Kg 8/8 horas) por **14 a 21 dias**. Não devemos esperar confirmação de PCR para começar o tratamento.
+</details>
+
+
+<!-- Ao final do módulo, o estudante deverá ser capaz de:
+
+- Descrever a fisiopatogênese da síndrome de hipertensão intracraniana associando-a com o quadro clínico desenvolvido.
+- Descrever a fisiopatogênese da síndrome de irritação meníngea associando-a com o quadro clínico desenvolvido.
+- Interpretar os exames complementares, destacando o exame de LCR (contraindicações para a punção lombar) e suas alterações conforme a etiologia (séptica e asséptica).
+- Reconhecer a urgência do caso, apontando os serviços de saúde adequados para sua condução.
+- Traçar investigação etiológica, destacando a acurácia (sensibilidade e especificidade) dos exames bacteriológicos, imunológicos e de biologia molecular nas meningites.
+- Esboçar plano terapêutico, incluindo esquema anti-infeccioso empírico de acordo com a idade e direcionado conforme a etiologia.
+- Reconhecer a importância da notificação compulsória, reconhecendo o papel da vigilância epidemiológica (precauções contra a trasnmissão e profilaxia).
+- Rememorar o esquema atual da vacinação contra agentes causadores de meningite. -->
