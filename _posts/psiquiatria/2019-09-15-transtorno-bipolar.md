@@ -9,7 +9,7 @@ revisado: 12 Set 2020
 
 <details markdown="1">
 <summary>O que é o transtorno bipolar?</summary>
-O transtorno bipolar é um quadro de transtorno de humor crônico e recorrente que cursa com oscilações de humor entre dois polos intercalados por períodos eutímicos — de humor normal. Esses dois polos são caracterizados por períodos de manias e hipomanias, intercalados com períodos de eutimia e de depressão bipolar — não confundir com a depressão unipolar do transtorno depressivo maior.
+O transtorno bipolar é um quadro de transtorno de humor crônico e recorrente que cursa com oscilações de humor entre dois polos caracterizados por períodos de manias e hipomanias, intercalados com períodos de eutimia e de depressão bipolar.
 </details>
 
 
@@ -78,7 +78,7 @@ Vários neurotransmissores estão envolvidos, como GABA, glutamato, monoaminas (
 
 <details markdown="1">
 <summary>Como diagnosticar a depressão bipolar?</summary>
-Primeiro precisamos ter em mente que o episódio de depressão bipolar é indistinguível da depressão unipolar. Inclusive, as duas condições possuem os mesmos critérios diagnósticos.
+O episódio de depressão bipolar é indistinguível da depressão unipolar. Inclusive, as duas condições possuem os mesmos critérios diagnósticos.
 
 Resumindo os critérios, precisamos ter 5 ou mais dos critérios abaixo por pelo menos 15 dias:
 
@@ -222,7 +222,7 @@ As medidas não farmacológicas costumam ser sempre indicadas na psiquiatria, co
 
 <details markdown="1">
 <summary>Quando começar a medicação?</summary>
-Como é um quadro mais grave, o **início da medicação costuma ser mais precoce**. Além disso,
+Como é um quadro mais grave, neurotóxico, **início da medicação costuma ser mais precoce**.
 </details>
 
 <details markdown="1">
@@ -246,8 +246,8 @@ O **lítio** foi o primeiro estabilizador de humor disponível no mercado. Pode 
 <summary>Quais anticonvulsivantes mais utilizados?</summary>
 Não são todos os **anticonvulsivantes** que podem ser utilizados. Dentre as escolhas, temos:
 
-a. 1ª escolha: ácido valpróico e lamotrigina;
-b. 2ª ou 3ª escolha: carbamazepina e oxicarbazepina.
+* 1ª escolha: ácido valpróico e lamotrigina.
+* 2ª ou 3ª escolha: carbamazepina e oxicarbazepina.
 </details>
 
 <details markdown="1">
